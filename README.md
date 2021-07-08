@@ -2,6 +2,22 @@
 
 A public API for ACMI's collection data.
 
+## Development
+
+To run the development server:
+
+* Run `cd development` and `docker-compose up --build`
+* Visit: http://localhost:8081
+
+## TODO
+
+**Spike**: deploy this setup and see how it performs.
+
+- [x] Create Flask app
+- [x] Add an XOS API interface to save `json` data
+- [ ] Setup a production server (gunicorn/nginx)
+- [ ] Deploy it for evaluation
+
 ## Architecture
 
 **Flask app**
