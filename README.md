@@ -2,6 +2,8 @@
 
 A public API for ACMI's collection data.
 
+![ACMI API CI](https://github.com/ACMILabs/acmi-api/workflows/ACMI%20API%20CI/badge.svg)
+
 ## Development
 
 To run the development server:
