@@ -4,7 +4,7 @@ services:
   api:
     build:
       context: "../"
-      dockerfile: Dockerfile
+      dockerfile: development/Dockerfile
       args:
         DEBUG: "true"
     hostname: api
