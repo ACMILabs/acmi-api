@@ -9,13 +9,13 @@ from flask_restful import Api, Resource, abort
 from furl import furl
 
 DEBUG = os.getenv('DEBUG', 'false').lower() == 'true'
-TEST = os.getenv('TEST', 'false').lower() == 'true'
+DOWNLOAD_WORKS = os.getenv('DOWNLOAD_WORKS', 'false').lower() == 'true'
 XOS_API_ENDPOINT = os.getenv('XOS_API_ENDPOINT', None)
 SITE_ROOT = os.path.realpath(os.path.dirname(__file__))
 JSON_ROOT = os.path.join(SITE_ROOT, 'json/')
 
-app = Flask(__name__)
-api = Api(app)
+application = Flask(__name__)
+api = Api(application)
 
 
 class API(Resource):
@@ -36,7 +36,7 @@ class API(Resource):
         Return a list of all API routes.
         """
         routes = []
-        for route in app.url_map.iter_rules():
+        for route in application.url_map.iter_rules():
             if 'static' not in str(route) and str(route) != '/':
                 routes.append('%s' % route)
         return routes
@@ -109,7 +109,7 @@ class XOSAPI():
         """
         Download and save all Works from XOS.
         """
-        if not TEST:
+        if DOWNLOAD_WORKS:
             print('Downloading individual works...')
             resource = 'works'
             params = {
@@ -192,7 +192,7 @@ if __name__ == '__main__':
     xos_private_api = XOSAPI()
     Thread(target=xos_private_api.get_works()).start()
     print('===============================================')
-    app.run(
+    application.run(
         host='0.0.0.0',
         port=8081,
         debug=DEBUG,
