@@ -6,10 +6,36 @@ A public API for ACMI's collection data.
 
 ## Development
 
-To run the development server:
+To run the Flask development server:
 
+* Copy `config.tmpl.env` to `config.env`
+* Add `DEBUG=true` to your `config.env`
 * Run `cd development` and `docker-compose up --build`
 * Visit: http://localhost:8081
+
+To update Works `json` files modified in the last day from XOS:
+
+* Add `DOWNLOAD_WORKS=true` and `DEBUG=true` to your `config.env`
+* Run `cd development` and `docker-compose up --build`
+* Works appear in `/app/json/`
+
+To update **ALL** Works from XOS:
+
+* Add `ALL_WORKS=true` and `DOWNLOAD_WORKS=true` and `DEBUG=true` to your `config.env`
+* Run `cd development` and `docker-compose up --build`
+
+To run the gunicorn server:
+
+* Set `DEBUG=false` in your `config.env`
+* Run `cd development` and `docker-compose up --build`
+* Visit: http://localhost:8081
+
+## Tests
+
+To run linting and tests:
+
+* Run `cd development` and `docker-compose up --build`
+* In another terminal tab run `docker exec -it api make linttest`
 
 ## TODO
 
@@ -17,7 +43,7 @@ To run the development server:
 
 - [x] Create Flask app
 - [x] Add an XOS API interface to save `json` data
-- [ ] Setup a production server (gunicorn/nginx)
+- [x] Setup a production server (gunicorn/nginx)
 - [ ] Deploy it for evaluation
 
 ## Architecture

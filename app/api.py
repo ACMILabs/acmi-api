@@ -9,7 +9,8 @@ from flask_restful import Api, Resource, abort
 from furl import furl
 
 DEBUG = os.getenv('DEBUG', 'false').lower() == 'true'
-DOWNLOAD_WORKS = os.getenv('DOWNLOAD_WORKS', 'false').lower() == 'true'
+UPDATE_WORKS = os.getenv('UPDATE_WORKS', 'false').lower() == 'true'
+ALL_WORKS = os.getenv('ALL_WORKS', 'false').lower() == 'true'
 XOS_API_ENDPOINT = os.getenv('XOS_API_ENDPOINT', None)
 SITE_ROOT = os.path.realpath(os.path.dirname(__file__))
 JSON_ROOT = os.path.join(SITE_ROOT, 'json/')
@@ -107,29 +108,32 @@ class XOSAPI():
 
     def get_works(self):
         """
-        Download and save all Works from XOS.
+        Download and save Works from XOS.
         """
-        if DOWNLOAD_WORKS:
-            print('Downloading individual works...')
-            resource = 'works'
-            params = {
-                'date_modified__gte': datetime.datetime.now() - datetime.timedelta(hours=6),
-                'page_size': 10,
-            }
+        resource = 'works'
+        params = {
+            'page_size': 10,
+        }
+        if ALL_WORKS:
+            print('Downloading all XOS Works... this will take a while')
+        else:
+            print('Updating XOS Works from the last day...')
+            params['date_modified__gte'] = datetime.datetime.now() - datetime.timedelta(days=1)
+        works_json = self.get(resource, params).json()
+        print(f'{works_json["count"]} Works to update...')
+        self.next_page = works_json.get('next')
+        self.save_works_list(resource, works_json)
+        works_saved = 0
+        works_saved += self.save_works(resource, works_json)
+        while self.next_page:
+            params = furl(self.next_page).args
             works_json = self.get(resource, params).json()
             self.next_page = works_json.get('next')
-            self.save_works_list(resource, works_json)
-            works_saved = 0
+            self.save_works_list(resource, works_json, params.get('page'))
             works_saved += self.save_works(resource, works_json)
-            while self.next_page:
-                params = furl(self.next_page).args
-                works_json = self.get(resource, params).json()
-                self.next_page = works_json.get('next')
-                self.save_works_list(resource, works_json, params.get('page'))
-                works_saved += self.save_works(resource, works_json)
 
-            print(f'Finished downloading {works_saved} {resource}.')
-            self.delete_works()
+        print(f'Finished downloading {works_saved} {resource}.')
+        self.delete_works()
 
     def save_works_list(self, resource, works_json, page=None):
         """
@@ -148,8 +152,7 @@ class XOSAPI():
         json_file_path = os.path.join(JSON_ROOT, resource, f'index{page}.json')
         with open(json_file_path, 'w', encoding='utf-8') as json_file:
             json.dump(works_json, json_file, ensure_ascii=False, indent=4)
-            message = f'Saved {resource} to {json_file_path}'
-            print(message)
+            print(f'Saved {resource} index to {json_file_path}')
 
     def save_works(self, resource, works_json):
         """
@@ -161,7 +164,7 @@ class XOSAPI():
             work_resource = os.path.join(f'{resource}/', work_id)
             work_json = self.get(resource=work_resource).json()
             json_file_path = os.path.join(JSON_ROOT, resource, f'{work_id}.json')
-            work_json = self.update_images(work_json)
+            work_json = self.update_assets(work_json)
             with open(json_file_path, 'w', encoding='utf-8') as json_file:
                 json.dump(work_json, json_file, ensure_ascii=False, indent=4)
             works_saved += 1
@@ -173,9 +176,9 @@ class XOSAPI():
         """
         # TODO: Handle unpublished/deleted Works calling the Works API with a token? # pylint: disable=fixme
 
-    def update_images(self, work_json):
+    def update_assets(self, work_json):
         """
-        Upload images to a public bucket, and update the links in the json.
+        Upload images/videos to a public bucket, and update the links in the json.
         """
         # TODO: Upload images/videos to public bucket # pylint: disable=fixme
         # TODO: Rename image/video links to public bucket # pylint: disable=fixme
@@ -187,11 +190,12 @@ api.add_resource(WorksAPI, '/api/works/')
 api.add_resource(Work, '/api/works/<work_id>/')
 
 if __name__ == '__main__':
-    print('===============================================')
-    print('Starting thread to update Works API from XOS...')
-    xos_private_api = XOSAPI()
-    Thread(target=xos_private_api.get_works()).start()
-    print('===============================================')
+    if DEBUG and UPDATE_WORKS:
+        print('===============================================')
+        print('Starting thread to update Works API from XOS...')
+        xos_private_api = XOSAPI()
+        Thread(target=xos_private_api.get_works()).start()
+        print('===============================================')
     application.run(
         host='0.0.0.0',
         port=8081,
