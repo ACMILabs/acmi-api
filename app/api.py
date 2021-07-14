@@ -65,7 +65,7 @@ class WorksAPI(Resource):  # pylint: disable=too-few-public-methods
             }
 
 
-class Work(Resource):  # pylint: disable=too-few-public-methods
+class WorkAPI(Resource):  # pylint: disable=too-few-public-methods
     """
     Get an individual Work JSON.
     """
@@ -187,7 +187,7 @@ class XOSAPI():
 
 api.add_resource(API, '/')
 api.add_resource(WorksAPI, '/api/works/')
-api.add_resource(Work, '/api/works/<work_id>/')
+api.add_resource(WorkAPI, '/api/works/<work_id>/')
 
 if __name__ == '__main__':
     if DEBUG and UPDATE_WORKS:

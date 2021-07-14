@@ -13,5 +13,5 @@ lint:
 	isort -rc --check-only .
 test:
 	# Run python tests
-	env `cat /code/config.tmpl.env | xargs` pytest -v tests/tests.py
+	env `cat /code/config.tmpl.env | xargs` pytest -v -s tests/tests.py
 linttest: lint test
