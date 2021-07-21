@@ -111,7 +111,7 @@ jobs:
 
     env:
       CONTEXT: acmi-prod
-      K8S_ENV: xos-api-stg
+      K8S_ENV: xos-api-prod
       DEPLOY_TAG: production
 
     steps:
