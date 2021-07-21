@@ -34,7 +34,7 @@ spec:
           - containerPort: 8081
         args: ['scripts/entrypoint.sh']
         command:
-          - /entrypoint.sh
+          - scripts/entrypoint.sh
         readinessProbe:
           httpGet:
             path: /
