@@ -1,6 +1,6 @@
 {
     "count": 1,
-    "next": "/api/works/?page=2",
+    "next": "/works/?page=2",
     "previous": null,
     "results": [
         {"result": "Results from XOS appear here..."}

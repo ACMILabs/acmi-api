@@ -139,7 +139,7 @@ class XOSAPI():
         """
         Save list json.
         """
-        endpoint = os.path.join('/api/', f'{resource}/')
+        endpoint = f'/{resource}/'
         if page:
             if works_json.get('next'):
                 works_json['next'] = f'{endpoint}?page={int(page) + 1}'
@@ -186,8 +186,8 @@ class XOSAPI():
 
 
 api.add_resource(API, '/')
-api.add_resource(WorksAPI, '/api/works/')
-api.add_resource(WorkAPI, '/api/works/<work_id>/')
+api.add_resource(WorksAPI, '/works/')
+api.add_resource(WorkAPI, '/works/<work_id>/')
 
 if __name__ == '__main__':
     if DEBUG and UPDATE_WORKS:
