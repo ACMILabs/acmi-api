@@ -2,6 +2,7 @@ import datetime
 import json
 import os
 from threading import Thread
+from urllib.parse import urljoin
 
 import requests
 from flask import Flask, request
@@ -11,6 +12,7 @@ from furl import furl
 DEBUG = os.getenv('DEBUG', 'false').lower() == 'true'
 UPDATE_WORKS = os.getenv('UPDATE_WORKS', 'false').lower() == 'true'
 ALL_WORKS = os.getenv('ALL_WORKS', 'false').lower() == 'true'
+ACMI_API_ENDPOINT = os.getenv('ACMI_API_ENDPOINT', 'https://api.acmi.net.au')
 XOS_API_ENDPOINT = os.getenv('XOS_API_ENDPOINT', None)
 SITE_ROOT = os.path.realpath(os.path.dirname(__file__))
 JSON_ROOT = os.path.join(SITE_ROOT, 'json/')
@@ -139,7 +141,7 @@ class XOSAPI():
         """
         Save list json.
         """
-        endpoint = f'/{resource}/'
+        endpoint = urljoin(ACMI_API_ENDPOINT, f'/{resource}/')
         if page:
             if works_json.get('next'):
                 works_json['next'] = f'{endpoint}?page={int(page) + 1}'
