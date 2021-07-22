@@ -1,0 +1,170 @@
+{
+    "id": 117983,
+    "acmi_id": "177307",
+    "title": "Did you ask the river?",
+    "title_annotation": "",
+    "slug": "did-you-ask-the-river",
+    "creator_credit": "Joan Ross",
+    "credit_line": "<p>Joan Ross<br />\nMordant Family VR Commission, ACMI Collection<br />\nDeveloped in collaboration with Dr Josh Harle at Tactical Space Lab, Sydney</p>",
+    "headline_credit": "Australia, 2019",
+    "thumbnail": {
+        "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/Z000125_DidYouAskTheRiver_still1.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=FyXmYcid74DtbWhMFu8A2GWEzc8%3D&Expires=1627009194",
+        "has_video": false
+    },
+    "record_type": "work",
+    "type": "Digital art",
+    "is_on_display": false,
+    "last_on_display_place": "ACMI Future Lab",
+    "last_on_display_date": "2019-03-31",
+    "is_context_indigenous": false,
+    "material_description": "software, video, props, colour and sound",
+    "unpublished": false,
+    "first_production_date": "2019-01-01T11:00:00+11:00",
+    "brief_description": "<p>&#8216;Did you ask the river?&#8217; is the debut VR work from one of Australia’s leading visual artists, Joan Ross.</p>\n<p>In the style of a first-person videogame, participants are given free rein to explore an interactive 3D extension of Ross’s vibrant, yet unsettling, colonial landscapes.</p>\n<p>Unlike many VR experiences, participants are placed in a body – that of an 18th century colonial woman – and become uncomfortably complicit in her unwitting destruction of the landscape.</p>",
+    "constellations_primary": [],
+    "constellations_other": [],
+    "recommendations": [],
+    "title_for_label": "<p>Did you ask the river?</p>",
+    "creator_credit_for_label": "<p>Joan Ross</p>",
+    "headline_credit_for_label": "<p>Australia, 2019</p>",
+    "description": "<p><i>Did you ask the river?</i> is the debut VR work from one of Australia’s leading visual artists, Joan Ross.</p>\n<p>In the style of a first-person videogame, participants are given free rein to explore an interactive 3D extension of Ross’s vibrant, yet unsettling, colonial landscapes.</p>\n<p>Unlike many VR experiences, participants are placed in a body – that of an 18th century colonial woman – and become uncomfortably complicit in her unwitting destruction of the landscape.</p>",
+    "description_for_label": [
+        "<p><i>Did you ask the river?</i> is the debut VR work from one of Australia’s leading visual artists, Joan Ross.</p>\n<p>In the style of a first-person videogame, participants are given free rein to explore an interactive 3D extension of Ross’s vibrant, yet unsettling, colonial landscapes.</p>\n<p>Unlike many VR experiences, participants are placed in a body – that of an 18th century colonial woman – and become uncomfortably complicit in her unwitting destruction of the landscape.</p>"
+    ],
+    "credit_line_for_label": "<p>Joan Ross<br />\nMordant Family VR Commission, ACMI Collection<br />\nDeveloped in collaboration with Dr Josh Harle at Tactical Space Lab, Sydney</p>",
+    "details": [
+        {
+            "label": "Duration",
+            "display_values": [
+                "00:07:00:00"
+            ]
+        },
+        {
+            "label": "Subject category",
+            "display_values": [
+                "Digital Art"
+            ]
+        },
+        {
+            "label": "Sound/audio",
+            "display_values": [
+                "Sound"
+            ]
+        },
+        {
+            "label": "Colour",
+            "display_values": [
+                "Colour"
+            ]
+        },
+        {
+            "label": "Materials",
+            "display_values": [
+                "software, video, props, colour and sound"
+            ]
+        }
+    ],
+    "stats": {
+        "tap_count": 0
+    },
+    "links": [],
+    "creators_primary": [
+        {
+            "id": 1134381,
+            "name": "Joan Ross",
+            "creator_id": 84380,
+            "role": "creator",
+            "role_id": 968,
+            "is_primary": true
+        }
+    ],
+    "creators_other": [
+        {
+            "id": 1134382,
+            "name": "Josh Harle",
+            "creator_id": 84381,
+            "role": "collaborator",
+            "role_id": 536,
+            "is_primary": false
+        }
+    ],
+    "video_links": [],
+    "media_note": null,
+    "images": [
+        {
+            "id": 16310,
+            "image_file": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/Z000125_DidYouAskTheRiver_still1.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=nN%2FoHyHnRzMjNmPJOmjooOHMpco%3D&Expires=1627009194",
+            "image_file_thumbnail": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/Z000125_DidYouAskTheRiver_still1.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=FyXmYcid74DtbWhMFu8A2GWEzc8%3D&Expires=1627009194",
+            "image_file_xs": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/Z000125_DidYouAskTheRiver_still1.jpg.480x480_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=5jOShZEdwVCjXlNQZmPflt418pY%3D&Expires=1627009194",
+            "image_file_s": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/Z000125_DidYouAskTheRiver_still1.jpg.960x960_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=umpf3R1HYu8mH6pQVLwh000bmd0%3D&Expires=1627009194",
+            "image_file_m": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/Z000125_DidYouAskTheRiver_still1.jpg.1920x1920_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=zO2ewfw6tvkk97bkIoaldBWuYJ0%3D&Expires=1627009194",
+            "image_file_l": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/Z000125_DidYouAskTheRiver_still1.jpg.3840x3840_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=Zre%2BeOFLEY3zgrra9s6UZuXBXUc%3D&Expires=1627009194",
+            "caption": "Z000125_DidYouAskTheRiver_still1",
+            "credit_line": "",
+            "alt_text": "",
+            "width": 2138,
+            "height": 1719,
+            "access_level": "View anywhere"
+        },
+        {
+            "id": 21284,
+            "image_file": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/Z000125_DidYouAskTheRiver_still2.png?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=G0DnNVo%2BcF3Lq%2BTL6aAqvycJYIA%3D&Expires=1627009194",
+            "image_file_thumbnail": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/Z000125_DidYouAskTheRiver_still2.png.1200x1200_q85.png?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=XsqFILQuRuSHmG9F66UaLvbaRVw%3D&Expires=1627009194",
+            "image_file_xs": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/Z000125_DidYouAskTheRiver_still2.png.480x480_q85.png?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=xcBCTd7N4%2BFdn6pS8BxRv6jnXP4%3D&Expires=1627009194",
+            "image_file_s": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/Z000125_DidYouAskTheRiver_still2.png.960x960_q85.png?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=9999rnv3TyxdlspEFB6lHUXr%2Bag%3D&Expires=1627009194",
+            "image_file_m": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/Z000125_DidYouAskTheRiver_still2.png.1920x1920_q85.png?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=dDQObDgwOBHBopAvYjaFwneSnzw%3D&Expires=1627009194",
+            "image_file_l": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/Z000125_DidYouAskTheRiver_still2.png.3840x3840_q85.png?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=PxgsxzP3%2BaifkM%2B%2FecCfT3Qjw%2Bg%3D&Expires=1627009194",
+            "caption": "Z000125_DidYouAskTheRiver_still2",
+            "credit_line": "",
+            "alt_text": "",
+            "width": 1800,
+            "height": 1200,
+            "access_level": "View anywhere"
+        },
+        {
+            "id": 21285,
+            "image_file": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/Z000125_DidYouAskTheRiver_still3.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=OGLQwUxisQM7W6umyVRFu5nZf%2Fo%3D&Expires=1627009194",
+            "image_file_thumbnail": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/Z000125_DidYouAskTheRiver_still3.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=2ywKaHVJc7uY8eIfeybvaz6bFBs%3D&Expires=1627009194",
+            "image_file_xs": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/Z000125_DidYouAskTheRiver_still3.jpg.480x480_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=wXmGwpgfSDoPsELJc5owtiI%2BZDI%3D&Expires=1627009194",
+            "image_file_s": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/Z000125_DidYouAskTheRiver_still3.jpg.960x960_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=MlIaSfluZFqsgaAQcTJF5XKO%2Byg%3D&Expires=1627009194",
+            "image_file_m": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/Z000125_DidYouAskTheRiver_still3.jpg.1920x1920_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=qKr5QsQ7cGmjKN9B0Tpsu22O4oI%3D&Expires=1627009194",
+            "image_file_l": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/Z000125_DidYouAskTheRiver_still3.jpg.3840x3840_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=D50mpTKU0KK01irKMC6k9mSnNwA%3D&Expires=1627009194",
+            "caption": "Z000125_DidYouAskTheRiver_still3",
+            "credit_line": "",
+            "alt_text": "",
+            "width": 1800,
+            "height": 1200,
+            "access_level": "View anywhere"
+        }
+    ],
+    "videos": [],
+    "holdings": [],
+    "part_of": null,
+    "parts": [],
+    "part_siblings": [],
+    "group": null,
+    "group_works": [],
+    "group_siblings": [],
+    "source": {
+        "name": "Vernon",
+        "slug": "vernon"
+    },
+    "source_identifier": "177307",
+    "production_places": [
+        {
+            "id": 3,
+            "name": "Australia",
+            "slug": "australia"
+        }
+    ],
+    "production_dates": [
+        {
+            "date": "2019",
+            "notes": "Commissioned",
+            "to_year": "2019"
+        }
+    ],
+    "labels": [
+        57485
+    ]
+}

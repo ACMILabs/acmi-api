@@ -1,0 +1,135 @@
+{
+    "id": 114227,
+    "acmi_id": "12089",
+    "title": "Kickflipper: fragments of a ballet [excerpt]",
+    "title_annotation": "",
+    "slug": "kickflipper-fragments-of-a-ballet-excerpt",
+    "creator_credit": "Shaun Gladwell",
+    "credit_line": "",
+    "headline_credit": "Australia, 2000-2001",
+    "thumbnail": null,
+    "record_type": "work",
+    "type": "Film",
+    "is_on_display": false,
+    "last_on_display_place": null,
+    "last_on_display_date": null,
+    "is_context_indigenous": false,
+    "material_description": "",
+    "unpublished": false,
+    "first_production_date": null,
+    "brief_description": "",
+    "constellations_primary": [],
+    "constellations_other": [],
+    "recommendations": [],
+    "title_for_label": "<p>Kickflipper: fragments of a ballet [excerpt]</p>",
+    "creator_credit_for_label": "<p>Shaun Gladwell</p>",
+    "headline_credit_for_label": "<p>Australia, 2000-2001</p>",
+    "description": "",
+    "description_for_label": [],
+    "credit_line_for_label": "",
+    "details": [
+        {
+            "label": "Duration",
+            "display_values": [
+                "00:03:41:00"
+            ]
+        },
+        {
+            "label": "Subject categories",
+            "display_values": [
+                "Crafts & Visual Arts&nbsp;→ Performance art",
+                "Experimental",
+                "Experimental&nbsp;→ Experimental films - Australia",
+                "Hobbies, Recreation & Sport&nbsp;→ Skateboarding",
+                "Performance",
+                "Short films",
+                "Short films&nbsp;→ Short films - Australia"
+            ]
+        },
+        {
+            "label": "Sound/audio",
+            "display_values": [
+                "Sound"
+            ]
+        },
+        {
+            "label": "Colour",
+            "display_values": [
+                "Colour"
+            ]
+        }
+    ],
+    "stats": {
+        "tap_count": 0
+    },
+    "links": [],
+    "creators_primary": [
+        {
+            "id": 1133420,
+            "name": "Shaun Gladwell",
+            "creator_id": 9260,
+            "role": "creator",
+            "role_id": 968,
+            "is_primary": true
+        }
+    ],
+    "creators_other": [],
+    "video_links": [],
+    "media_note": "Sorry, we don't have images or video for this item.",
+    "images": [],
+    "videos": [],
+    "holdings": [
+        {
+            "name": "VHS [PAL]; Preview Copy",
+            "identifier": "",
+            "description": ""
+        }
+    ],
+    "part_of": null,
+    "parts": [],
+    "part_siblings": [],
+    "group": {
+        "id": 114228,
+        "acmi_id": "2659",
+        "title": "Shaun Gladwell: excerpts from selected video works 2000-2002",
+        "title_annotation": "",
+        "slug": "shaun-gladwell-excerpts-from-selected-video-works-2000-2002",
+        "creator_credit": "Shaun Gladwell",
+        "credit_line": "",
+        "headline_credit": "Australia, 2000-2001",
+        "thumbnail": null,
+        "record_type": "group",
+        "type": "Digital art",
+        "is_on_display": false,
+        "last_on_display_place": null,
+        "last_on_display_date": null,
+        "is_context_indigenous": false,
+        "material_description": "",
+        "unpublished": true,
+        "first_production_date": null
+    },
+    "group_works": [],
+    "group_siblings": [],
+    "source": {
+        "name": "Vernon",
+        "slug": "vernon"
+    },
+    "source_identifier": "12089",
+    "production_places": [
+        {
+            "id": 3,
+            "name": "Australia",
+            "slug": "australia"
+        }
+    ],
+    "production_dates": [
+        {
+            "date": "2000-2001",
+            "notes": "",
+            "to_year": "2000-2001"
+        }
+    ],
+    "labels": [
+        53719
+    ]
+}

@@ -1,0 +1,2374 @@
+{
+    "count": 922,
+    "next": "https://api.acmi.net.au/works/?page=23",
+    "previous": "https://api.acmi.net.au/works/?page=21",
+    "results": [
+        {
+            "id": 99711,
+            "acmi_id": "180184",
+            "title": "My Brilliant Career continuity photos",
+            "title_annotation": "Facsimile",
+            "slug": "facsimile-continuity-polaroid-my-brilliant-career-4",
+            "creator_credit": "",
+            "credit_line": "<p>Courtesy Gillian Armstrong</p>",
+            "headline_credit": "Australia, 1978",
+            "thumbnail": null,
+            "record_type": "work",
+            "type": "Object",
+            "is_on_display": true,
+            "last_on_display_place": "ACMI: Gallery 1",
+            "last_on_display_date": "2022-02-10",
+            "is_context_indigenous": false,
+            "material_description": "Digital print on paper",
+            "unpublished": false,
+            "first_production_date": "1978-01-01T11:00:00+11:00",
+            "brief_description": "",
+            "constellations_primary": [],
+            "constellations_other": [],
+            "recommendations": [],
+            "title_for_label": "<p>Continuity photos</p>",
+            "creator_credit_for_label": "",
+            "headline_credit_for_label": "<p>Australia, 1978</p>",
+            "description": "",
+            "description_for_label": [],
+            "credit_line_for_label": "<p>Courtesy Gillian Armstrong</p>",
+            "details": [
+                {
+                    "label": "Curatorial section",
+                    "display_values": [
+                        "The Story of the Moving Image&nbsp;→ Moving Australia&nbsp;→ 02. New Wave&nbsp;→ MA-02-C01"
+                    ]
+                },
+                {
+                    "label": "Measurements",
+                    "display_values": [
+                        "108 x 88mm"
+                    ]
+                },
+                {
+                    "label": "Materials",
+                    "display_values": [
+                        "Digital print on paper"
+                    ]
+                }
+            ],
+            "stats": {
+                "tap_count": 0
+            },
+            "links": [],
+            "creators_primary": [],
+            "creators_other": [],
+            "video_links": [],
+            "media_note": "Sorry, we aren't able to make images or video for this item available to the public online.",
+            "images": [],
+            "videos": [],
+            "holdings": [],
+            "part_of": null,
+            "parts": [],
+            "part_siblings": [],
+            "group": {
+                "id": 113816,
+                "acmi_id": "183599",
+                "title": "Continuity photos",
+                "title_annotation": "",
+                "slug": "continuity-photos",
+                "creator_credit": "",
+                "credit_line": "<p>Courtesy Gillian Armstrong</p>",
+                "headline_credit": "",
+                "thumbnail": null,
+                "record_type": "group",
+                "type": "Film",
+                "is_on_display": true,
+                "last_on_display_place": "ACMI: Gallery 1",
+                "last_on_display_date": "2022-02-10",
+                "is_context_indigenous": false,
+                "material_description": "",
+                "unpublished": false,
+                "first_production_date": null
+            },
+            "group_works": [],
+            "group_siblings": [
+                {
+                    "id": 99712,
+                    "acmi_id": "180185",
+                    "title": "My Brilliant Career continuity photos",
+                    "title_annotation": "Facsimile",
+                    "slug": "facsimile-continuity-polaroid-my-brilliant-career-5",
+                    "creator_credit": "",
+                    "credit_line": "<p>Courtesy Gillian Armstrong</p>",
+                    "headline_credit": "Australia, 1978",
+                    "thumbnail": null,
+                    "record_type": "work",
+                    "type": "Object",
+                    "is_on_display": true,
+                    "last_on_display_place": "ACMI: Gallery 1",
+                    "last_on_display_date": "2022-02-10",
+                    "is_context_indigenous": false,
+                    "material_description": "Digital print on paper",
+                    "unpublished": false,
+                    "first_production_date": "1978-01-01T11:00:00+11:00"
+                },
+                {
+                    "id": 99713,
+                    "acmi_id": "180186",
+                    "title": "My Brilliant Career continuity photos",
+                    "title_annotation": "Facsimile",
+                    "slug": "facsimile-continuity-polaroid-my-brilliant-career-6",
+                    "creator_credit": "",
+                    "credit_line": "<p>Courtesy Gillian Armstrong</p>",
+                    "headline_credit": "Australia, 1978",
+                    "thumbnail": null,
+                    "record_type": "work",
+                    "type": "Object",
+                    "is_on_display": true,
+                    "last_on_display_place": "ACMI: Gallery 1",
+                    "last_on_display_date": "2022-02-10",
+                    "is_context_indigenous": false,
+                    "material_description": "Digital print on paper",
+                    "unpublished": false,
+                    "first_production_date": "1978-01-01T11:00:00+11:00"
+                },
+                {
+                    "id": 99709,
+                    "acmi_id": "180182",
+                    "title": "My Brilliant Career continuity photos",
+                    "title_annotation": "Facsimile",
+                    "slug": "facsimile-continuity-polaroid-my-brilliant-career-2",
+                    "creator_credit": "",
+                    "credit_line": "<p>Courtesy Gillian Armstrong</p>",
+                    "headline_credit": "Australia, 1978",
+                    "thumbnail": null,
+                    "record_type": "work",
+                    "type": "Object",
+                    "is_on_display": true,
+                    "last_on_display_place": "ACMI: Gallery 1",
+                    "last_on_display_date": "2022-02-10",
+                    "is_context_indigenous": false,
+                    "material_description": "Digital print on paper",
+                    "unpublished": false,
+                    "first_production_date": "1978-01-01T11:00:00+11:00"
+                },
+                {
+                    "id": 99708,
+                    "acmi_id": "180181",
+                    "title": "My Brilliant Career continuity photos",
+                    "title_annotation": "Facsimile",
+                    "slug": "facsimile-continuity-polaroid-my-brilliant-career-1",
+                    "creator_credit": "",
+                    "credit_line": "<p>Courtesy Gillian Armstrong</p>",
+                    "headline_credit": "Australia, 1978",
+                    "thumbnail": null,
+                    "record_type": "work",
+                    "type": "Object",
+                    "is_on_display": true,
+                    "last_on_display_place": "ACMI: Gallery 1",
+                    "last_on_display_date": "2022-02-10",
+                    "is_context_indigenous": false,
+                    "material_description": "Digital print on paper",
+                    "unpublished": false,
+                    "first_production_date": "1978-01-01T11:00:00+11:00"
+                },
+                {
+                    "id": 99710,
+                    "acmi_id": "180183",
+                    "title": "My Brilliant Career continuity photos",
+                    "title_annotation": "Facsimile",
+                    "slug": "facsimile-continuity-polaroid-my-brilliant-career-3",
+                    "creator_credit": "",
+                    "credit_line": "<p>Courtesy Gillian Armstrong</p>",
+                    "headline_credit": "Australia, 1978",
+                    "thumbnail": null,
+                    "record_type": "work",
+                    "type": "Object",
+                    "is_on_display": true,
+                    "last_on_display_place": "ACMI: Gallery 1",
+                    "last_on_display_date": "2022-02-10",
+                    "is_context_indigenous": false,
+                    "material_description": "Digital print on paper",
+                    "unpublished": false,
+                    "first_production_date": "1978-01-01T11:00:00+11:00"
+                }
+            ],
+            "source": {
+                "name": "Vernon",
+                "slug": "vernon"
+            },
+            "source_identifier": "180184",
+            "production_places": [
+                {
+                    "id": 3,
+                    "name": "Australia",
+                    "slug": "australia"
+                }
+            ],
+            "production_dates": [
+                {
+                    "date": "1978",
+                    "notes": "",
+                    "to_year": "1978"
+                }
+            ],
+            "labels": [
+                39206
+            ]
+        },
+        {
+            "id": 99710,
+            "acmi_id": "180183",
+            "title": "My Brilliant Career continuity photos",
+            "title_annotation": "Facsimile",
+            "slug": "facsimile-continuity-polaroid-my-brilliant-career-3",
+            "creator_credit": "",
+            "credit_line": "<p>Courtesy Gillian Armstrong</p>",
+            "headline_credit": "Australia, 1978",
+            "thumbnail": null,
+            "record_type": "work",
+            "type": "Object",
+            "is_on_display": true,
+            "last_on_display_place": "ACMI: Gallery 1",
+            "last_on_display_date": "2022-02-10",
+            "is_context_indigenous": false,
+            "material_description": "Digital print on paper",
+            "unpublished": false,
+            "first_production_date": "1978-01-01T11:00:00+11:00",
+            "brief_description": "",
+            "constellations_primary": [],
+            "constellations_other": [],
+            "recommendations": [],
+            "title_for_label": "<p>Continuity photos</p>",
+            "creator_credit_for_label": "",
+            "headline_credit_for_label": "<p>Australia, 1978</p>",
+            "description": "",
+            "description_for_label": [],
+            "credit_line_for_label": "<p>Courtesy Gillian Armstrong</p>",
+            "details": [
+                {
+                    "label": "Curatorial section",
+                    "display_values": [
+                        "The Story of the Moving Image&nbsp;→ Moving Australia&nbsp;→ 02. New Wave&nbsp;→ MA-02-C01"
+                    ]
+                },
+                {
+                    "label": "Measurements",
+                    "display_values": [
+                        "108 x 88mm"
+                    ]
+                },
+                {
+                    "label": "Materials",
+                    "display_values": [
+                        "Digital print on paper"
+                    ]
+                }
+            ],
+            "stats": {
+                "tap_count": 0
+            },
+            "links": [],
+            "creators_primary": [],
+            "creators_other": [],
+            "video_links": [],
+            "media_note": "Sorry, we aren't able to make images or video for this item available to the public online.",
+            "images": [],
+            "videos": [],
+            "holdings": [],
+            "part_of": null,
+            "parts": [],
+            "part_siblings": [],
+            "group": {
+                "id": 113816,
+                "acmi_id": "183599",
+                "title": "Continuity photos",
+                "title_annotation": "",
+                "slug": "continuity-photos",
+                "creator_credit": "",
+                "credit_line": "<p>Courtesy Gillian Armstrong</p>",
+                "headline_credit": "",
+                "thumbnail": null,
+                "record_type": "group",
+                "type": "Film",
+                "is_on_display": true,
+                "last_on_display_place": "ACMI: Gallery 1",
+                "last_on_display_date": "2022-02-10",
+                "is_context_indigenous": false,
+                "material_description": "",
+                "unpublished": false,
+                "first_production_date": null
+            },
+            "group_works": [],
+            "group_siblings": [
+                {
+                    "id": 99712,
+                    "acmi_id": "180185",
+                    "title": "My Brilliant Career continuity photos",
+                    "title_annotation": "Facsimile",
+                    "slug": "facsimile-continuity-polaroid-my-brilliant-career-5",
+                    "creator_credit": "",
+                    "credit_line": "<p>Courtesy Gillian Armstrong</p>",
+                    "headline_credit": "Australia, 1978",
+                    "thumbnail": null,
+                    "record_type": "work",
+                    "type": "Object",
+                    "is_on_display": true,
+                    "last_on_display_place": "ACMI: Gallery 1",
+                    "last_on_display_date": "2022-02-10",
+                    "is_context_indigenous": false,
+                    "material_description": "Digital print on paper",
+                    "unpublished": false,
+                    "first_production_date": "1978-01-01T11:00:00+11:00"
+                },
+                {
+                    "id": 99711,
+                    "acmi_id": "180184",
+                    "title": "My Brilliant Career continuity photos",
+                    "title_annotation": "Facsimile",
+                    "slug": "facsimile-continuity-polaroid-my-brilliant-career-4",
+                    "creator_credit": "",
+                    "credit_line": "<p>Courtesy Gillian Armstrong</p>",
+                    "headline_credit": "Australia, 1978",
+                    "thumbnail": null,
+                    "record_type": "work",
+                    "type": "Object",
+                    "is_on_display": true,
+                    "last_on_display_place": "ACMI: Gallery 1",
+                    "last_on_display_date": "2022-02-10",
+                    "is_context_indigenous": false,
+                    "material_description": "Digital print on paper",
+                    "unpublished": false,
+                    "first_production_date": "1978-01-01T11:00:00+11:00"
+                },
+                {
+                    "id": 99713,
+                    "acmi_id": "180186",
+                    "title": "My Brilliant Career continuity photos",
+                    "title_annotation": "Facsimile",
+                    "slug": "facsimile-continuity-polaroid-my-brilliant-career-6",
+                    "creator_credit": "",
+                    "credit_line": "<p>Courtesy Gillian Armstrong</p>",
+                    "headline_credit": "Australia, 1978",
+                    "thumbnail": null,
+                    "record_type": "work",
+                    "type": "Object",
+                    "is_on_display": true,
+                    "last_on_display_place": "ACMI: Gallery 1",
+                    "last_on_display_date": "2022-02-10",
+                    "is_context_indigenous": false,
+                    "material_description": "Digital print on paper",
+                    "unpublished": false,
+                    "first_production_date": "1978-01-01T11:00:00+11:00"
+                },
+                {
+                    "id": 99709,
+                    "acmi_id": "180182",
+                    "title": "My Brilliant Career continuity photos",
+                    "title_annotation": "Facsimile",
+                    "slug": "facsimile-continuity-polaroid-my-brilliant-career-2",
+                    "creator_credit": "",
+                    "credit_line": "<p>Courtesy Gillian Armstrong</p>",
+                    "headline_credit": "Australia, 1978",
+                    "thumbnail": null,
+                    "record_type": "work",
+                    "type": "Object",
+                    "is_on_display": true,
+                    "last_on_display_place": "ACMI: Gallery 1",
+                    "last_on_display_date": "2022-02-10",
+                    "is_context_indigenous": false,
+                    "material_description": "Digital print on paper",
+                    "unpublished": false,
+                    "first_production_date": "1978-01-01T11:00:00+11:00"
+                },
+                {
+                    "id": 99708,
+                    "acmi_id": "180181",
+                    "title": "My Brilliant Career continuity photos",
+                    "title_annotation": "Facsimile",
+                    "slug": "facsimile-continuity-polaroid-my-brilliant-career-1",
+                    "creator_credit": "",
+                    "credit_line": "<p>Courtesy Gillian Armstrong</p>",
+                    "headline_credit": "Australia, 1978",
+                    "thumbnail": null,
+                    "record_type": "work",
+                    "type": "Object",
+                    "is_on_display": true,
+                    "last_on_display_place": "ACMI: Gallery 1",
+                    "last_on_display_date": "2022-02-10",
+                    "is_context_indigenous": false,
+                    "material_description": "Digital print on paper",
+                    "unpublished": false,
+                    "first_production_date": "1978-01-01T11:00:00+11:00"
+                }
+            ],
+            "source": {
+                "name": "Vernon",
+                "slug": "vernon"
+            },
+            "source_identifier": "180183",
+            "production_places": [
+                {
+                    "id": 3,
+                    "name": "Australia",
+                    "slug": "australia"
+                }
+            ],
+            "production_dates": [
+                {
+                    "date": "1978",
+                    "notes": "",
+                    "to_year": "1978"
+                }
+            ],
+            "labels": [
+                39205
+            ]
+        },
+        {
+            "id": 99709,
+            "acmi_id": "180182",
+            "title": "My Brilliant Career continuity photos",
+            "title_annotation": "Facsimile",
+            "slug": "facsimile-continuity-polaroid-my-brilliant-career-2",
+            "creator_credit": "",
+            "credit_line": "<p>Courtesy Gillian Armstrong</p>",
+            "headline_credit": "Australia, 1978",
+            "thumbnail": null,
+            "record_type": "work",
+            "type": "Object",
+            "is_on_display": true,
+            "last_on_display_place": "ACMI: Gallery 1",
+            "last_on_display_date": "2022-02-10",
+            "is_context_indigenous": false,
+            "material_description": "Digital print on paper",
+            "unpublished": false,
+            "first_production_date": "1978-01-01T11:00:00+11:00",
+            "brief_description": "",
+            "constellations_primary": [],
+            "constellations_other": [],
+            "recommendations": [],
+            "title_for_label": "<p>Continuity photos</p>",
+            "creator_credit_for_label": "",
+            "headline_credit_for_label": "<p>Australia, 1978</p>",
+            "description": "",
+            "description_for_label": [],
+            "credit_line_for_label": "<p>Courtesy Gillian Armstrong</p>",
+            "details": [
+                {
+                    "label": "Curatorial section",
+                    "display_values": [
+                        "The Story of the Moving Image&nbsp;→ Moving Australia&nbsp;→ 02. New Wave&nbsp;→ MA-02-C01"
+                    ]
+                },
+                {
+                    "label": "Measurements",
+                    "display_values": [
+                        "108 x 88mm"
+                    ]
+                },
+                {
+                    "label": "Materials",
+                    "display_values": [
+                        "Digital print on paper"
+                    ]
+                }
+            ],
+            "stats": {
+                "tap_count": 0
+            },
+            "links": [],
+            "creators_primary": [],
+            "creators_other": [],
+            "video_links": [],
+            "media_note": "Sorry, we aren't able to make images or video for this item available to the public online.",
+            "images": [],
+            "videos": [],
+            "holdings": [],
+            "part_of": null,
+            "parts": [],
+            "part_siblings": [],
+            "group": {
+                "id": 113816,
+                "acmi_id": "183599",
+                "title": "Continuity photos",
+                "title_annotation": "",
+                "slug": "continuity-photos",
+                "creator_credit": "",
+                "credit_line": "<p>Courtesy Gillian Armstrong</p>",
+                "headline_credit": "",
+                "thumbnail": null,
+                "record_type": "group",
+                "type": "Film",
+                "is_on_display": true,
+                "last_on_display_place": "ACMI: Gallery 1",
+                "last_on_display_date": "2022-02-10",
+                "is_context_indigenous": false,
+                "material_description": "",
+                "unpublished": false,
+                "first_production_date": null
+            },
+            "group_works": [],
+            "group_siblings": [
+                {
+                    "id": 99712,
+                    "acmi_id": "180185",
+                    "title": "My Brilliant Career continuity photos",
+                    "title_annotation": "Facsimile",
+                    "slug": "facsimile-continuity-polaroid-my-brilliant-career-5",
+                    "creator_credit": "",
+                    "credit_line": "<p>Courtesy Gillian Armstrong</p>",
+                    "headline_credit": "Australia, 1978",
+                    "thumbnail": null,
+                    "record_type": "work",
+                    "type": "Object",
+                    "is_on_display": true,
+                    "last_on_display_place": "ACMI: Gallery 1",
+                    "last_on_display_date": "2022-02-10",
+                    "is_context_indigenous": false,
+                    "material_description": "Digital print on paper",
+                    "unpublished": false,
+                    "first_production_date": "1978-01-01T11:00:00+11:00"
+                },
+                {
+                    "id": 99711,
+                    "acmi_id": "180184",
+                    "title": "My Brilliant Career continuity photos",
+                    "title_annotation": "Facsimile",
+                    "slug": "facsimile-continuity-polaroid-my-brilliant-career-4",
+                    "creator_credit": "",
+                    "credit_line": "<p>Courtesy Gillian Armstrong</p>",
+                    "headline_credit": "Australia, 1978",
+                    "thumbnail": null,
+                    "record_type": "work",
+                    "type": "Object",
+                    "is_on_display": true,
+                    "last_on_display_place": "ACMI: Gallery 1",
+                    "last_on_display_date": "2022-02-10",
+                    "is_context_indigenous": false,
+                    "material_description": "Digital print on paper",
+                    "unpublished": false,
+                    "first_production_date": "1978-01-01T11:00:00+11:00"
+                },
+                {
+                    "id": 99713,
+                    "acmi_id": "180186",
+                    "title": "My Brilliant Career continuity photos",
+                    "title_annotation": "Facsimile",
+                    "slug": "facsimile-continuity-polaroid-my-brilliant-career-6",
+                    "creator_credit": "",
+                    "credit_line": "<p>Courtesy Gillian Armstrong</p>",
+                    "headline_credit": "Australia, 1978",
+                    "thumbnail": null,
+                    "record_type": "work",
+                    "type": "Object",
+                    "is_on_display": true,
+                    "last_on_display_place": "ACMI: Gallery 1",
+                    "last_on_display_date": "2022-02-10",
+                    "is_context_indigenous": false,
+                    "material_description": "Digital print on paper",
+                    "unpublished": false,
+                    "first_production_date": "1978-01-01T11:00:00+11:00"
+                },
+                {
+                    "id": 99708,
+                    "acmi_id": "180181",
+                    "title": "My Brilliant Career continuity photos",
+                    "title_annotation": "Facsimile",
+                    "slug": "facsimile-continuity-polaroid-my-brilliant-career-1",
+                    "creator_credit": "",
+                    "credit_line": "<p>Courtesy Gillian Armstrong</p>",
+                    "headline_credit": "Australia, 1978",
+                    "thumbnail": null,
+                    "record_type": "work",
+                    "type": "Object",
+                    "is_on_display": true,
+                    "last_on_display_place": "ACMI: Gallery 1",
+                    "last_on_display_date": "2022-02-10",
+                    "is_context_indigenous": false,
+                    "material_description": "Digital print on paper",
+                    "unpublished": false,
+                    "first_production_date": "1978-01-01T11:00:00+11:00"
+                },
+                {
+                    "id": 99710,
+                    "acmi_id": "180183",
+                    "title": "My Brilliant Career continuity photos",
+                    "title_annotation": "Facsimile",
+                    "slug": "facsimile-continuity-polaroid-my-brilliant-career-3",
+                    "creator_credit": "",
+                    "credit_line": "<p>Courtesy Gillian Armstrong</p>",
+                    "headline_credit": "Australia, 1978",
+                    "thumbnail": null,
+                    "record_type": "work",
+                    "type": "Object",
+                    "is_on_display": true,
+                    "last_on_display_place": "ACMI: Gallery 1",
+                    "last_on_display_date": "2022-02-10",
+                    "is_context_indigenous": false,
+                    "material_description": "Digital print on paper",
+                    "unpublished": false,
+                    "first_production_date": "1978-01-01T11:00:00+11:00"
+                }
+            ],
+            "source": {
+                "name": "Vernon",
+                "slug": "vernon"
+            },
+            "source_identifier": "180182",
+            "production_places": [
+                {
+                    "id": 3,
+                    "name": "Australia",
+                    "slug": "australia"
+                }
+            ],
+            "production_dates": [
+                {
+                    "date": "1978",
+                    "notes": "",
+                    "to_year": "1978"
+                }
+            ],
+            "labels": [
+                39204
+            ]
+        },
+        {
+            "id": 99708,
+            "acmi_id": "180181",
+            "title": "My Brilliant Career continuity photos",
+            "title_annotation": "Facsimile",
+            "slug": "facsimile-continuity-polaroid-my-brilliant-career-1",
+            "creator_credit": "",
+            "credit_line": "<p>Courtesy Gillian Armstrong</p>",
+            "headline_credit": "Australia, 1978",
+            "thumbnail": null,
+            "record_type": "work",
+            "type": "Object",
+            "is_on_display": true,
+            "last_on_display_place": "ACMI: Gallery 1",
+            "last_on_display_date": "2022-02-10",
+            "is_context_indigenous": false,
+            "material_description": "Digital print on paper",
+            "unpublished": false,
+            "first_production_date": "1978-01-01T11:00:00+11:00",
+            "brief_description": "",
+            "constellations_primary": [],
+            "constellations_other": [],
+            "recommendations": [],
+            "title_for_label": "<p>Continuity photos</p>",
+            "creator_credit_for_label": "",
+            "headline_credit_for_label": "<p>Australia, 1978</p>",
+            "description": "",
+            "description_for_label": [],
+            "credit_line_for_label": "<p>Courtesy Gillian Armstrong</p>",
+            "details": [
+                {
+                    "label": "Curatorial section",
+                    "display_values": [
+                        "The Story of the Moving Image&nbsp;→ Moving Australia&nbsp;→ 02. New Wave&nbsp;→ MA-02-C01"
+                    ]
+                },
+                {
+                    "label": "Measurements",
+                    "display_values": [
+                        "108 x 88mm"
+                    ]
+                },
+                {
+                    "label": "Materials",
+                    "display_values": [
+                        "Digital print on paper"
+                    ]
+                }
+            ],
+            "stats": {
+                "tap_count": 0
+            },
+            "links": [],
+            "creators_primary": [],
+            "creators_other": [],
+            "video_links": [],
+            "media_note": "Sorry, we aren't able to make images or video for this item available to the public online.",
+            "images": [],
+            "videos": [],
+            "holdings": [],
+            "part_of": null,
+            "parts": [],
+            "part_siblings": [],
+            "group": {
+                "id": 113816,
+                "acmi_id": "183599",
+                "title": "Continuity photos",
+                "title_annotation": "",
+                "slug": "continuity-photos",
+                "creator_credit": "",
+                "credit_line": "<p>Courtesy Gillian Armstrong</p>",
+                "headline_credit": "",
+                "thumbnail": null,
+                "record_type": "group",
+                "type": "Film",
+                "is_on_display": true,
+                "last_on_display_place": "ACMI: Gallery 1",
+                "last_on_display_date": "2022-02-10",
+                "is_context_indigenous": false,
+                "material_description": "",
+                "unpublished": false,
+                "first_production_date": null
+            },
+            "group_works": [],
+            "group_siblings": [
+                {
+                    "id": 99712,
+                    "acmi_id": "180185",
+                    "title": "My Brilliant Career continuity photos",
+                    "title_annotation": "Facsimile",
+                    "slug": "facsimile-continuity-polaroid-my-brilliant-career-5",
+                    "creator_credit": "",
+                    "credit_line": "<p>Courtesy Gillian Armstrong</p>",
+                    "headline_credit": "Australia, 1978",
+                    "thumbnail": null,
+                    "record_type": "work",
+                    "type": "Object",
+                    "is_on_display": true,
+                    "last_on_display_place": "ACMI: Gallery 1",
+                    "last_on_display_date": "2022-02-10",
+                    "is_context_indigenous": false,
+                    "material_description": "Digital print on paper",
+                    "unpublished": false,
+                    "first_production_date": "1978-01-01T11:00:00+11:00"
+                },
+                {
+                    "id": 99711,
+                    "acmi_id": "180184",
+                    "title": "My Brilliant Career continuity photos",
+                    "title_annotation": "Facsimile",
+                    "slug": "facsimile-continuity-polaroid-my-brilliant-career-4",
+                    "creator_credit": "",
+                    "credit_line": "<p>Courtesy Gillian Armstrong</p>",
+                    "headline_credit": "Australia, 1978",
+                    "thumbnail": null,
+                    "record_type": "work",
+                    "type": "Object",
+                    "is_on_display": true,
+                    "last_on_display_place": "ACMI: Gallery 1",
+                    "last_on_display_date": "2022-02-10",
+                    "is_context_indigenous": false,
+                    "material_description": "Digital print on paper",
+                    "unpublished": false,
+                    "first_production_date": "1978-01-01T11:00:00+11:00"
+                },
+                {
+                    "id": 99713,
+                    "acmi_id": "180186",
+                    "title": "My Brilliant Career continuity photos",
+                    "title_annotation": "Facsimile",
+                    "slug": "facsimile-continuity-polaroid-my-brilliant-career-6",
+                    "creator_credit": "",
+                    "credit_line": "<p>Courtesy Gillian Armstrong</p>",
+                    "headline_credit": "Australia, 1978",
+                    "thumbnail": null,
+                    "record_type": "work",
+                    "type": "Object",
+                    "is_on_display": true,
+                    "last_on_display_place": "ACMI: Gallery 1",
+                    "last_on_display_date": "2022-02-10",
+                    "is_context_indigenous": false,
+                    "material_description": "Digital print on paper",
+                    "unpublished": false,
+                    "first_production_date": "1978-01-01T11:00:00+11:00"
+                },
+                {
+                    "id": 99709,
+                    "acmi_id": "180182",
+                    "title": "My Brilliant Career continuity photos",
+                    "title_annotation": "Facsimile",
+                    "slug": "facsimile-continuity-polaroid-my-brilliant-career-2",
+                    "creator_credit": "",
+                    "credit_line": "<p>Courtesy Gillian Armstrong</p>",
+                    "headline_credit": "Australia, 1978",
+                    "thumbnail": null,
+                    "record_type": "work",
+                    "type": "Object",
+                    "is_on_display": true,
+                    "last_on_display_place": "ACMI: Gallery 1",
+                    "last_on_display_date": "2022-02-10",
+                    "is_context_indigenous": false,
+                    "material_description": "Digital print on paper",
+                    "unpublished": false,
+                    "first_production_date": "1978-01-01T11:00:00+11:00"
+                },
+                {
+                    "id": 99710,
+                    "acmi_id": "180183",
+                    "title": "My Brilliant Career continuity photos",
+                    "title_annotation": "Facsimile",
+                    "slug": "facsimile-continuity-polaroid-my-brilliant-career-3",
+                    "creator_credit": "",
+                    "credit_line": "<p>Courtesy Gillian Armstrong</p>",
+                    "headline_credit": "Australia, 1978",
+                    "thumbnail": null,
+                    "record_type": "work",
+                    "type": "Object",
+                    "is_on_display": true,
+                    "last_on_display_place": "ACMI: Gallery 1",
+                    "last_on_display_date": "2022-02-10",
+                    "is_context_indigenous": false,
+                    "material_description": "Digital print on paper",
+                    "unpublished": false,
+                    "first_production_date": "1978-01-01T11:00:00+11:00"
+                }
+            ],
+            "source": {
+                "name": "Vernon",
+                "slug": "vernon"
+            },
+            "source_identifier": "180181",
+            "production_places": [
+                {
+                    "id": 3,
+                    "name": "Australia",
+                    "slug": "australia"
+                }
+            ],
+            "production_dates": [
+                {
+                    "date": "1978",
+                    "notes": "",
+                    "to_year": "1978"
+                }
+            ],
+            "labels": [
+                39203
+            ]
+        },
+        {
+            "id": 99703,
+            "acmi_id": "180176",
+            "title": "My Brilliant Career production and publicity stills",
+            "title_annotation": "Facsimile",
+            "slug": "facsimile-photograph-my-brilliant-career-gillian-armstrong-on-set-looking-through-a-panavision-camera",
+            "creator_credit": "",
+            "credit_line": "<p>Courtesy the National Film and Sound Archive of Australia</p>",
+            "headline_credit": "Australia, 1978",
+            "thumbnail": {
+                "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/FC180176_FC070.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=J9%2Fq1xlv75vS8QeeOjGw6JE0jzY%3D&Expires=1627009129",
+                "has_video": false
+            },
+            "record_type": "work",
+            "type": "Object",
+            "is_on_display": true,
+            "last_on_display_place": "ACMI: Gallery 1",
+            "last_on_display_date": "2022-02-10",
+            "is_context_indigenous": false,
+            "material_description": "Digital print on paper",
+            "unpublished": false,
+            "first_production_date": "1978-01-01T11:00:00+11:00",
+            "brief_description": "",
+            "constellations_primary": [],
+            "constellations_other": [],
+            "recommendations": [],
+            "title_for_label": "<p>Production stills</p>",
+            "creator_credit_for_label": "",
+            "headline_credit_for_label": "<p>Australia, 1978</p>",
+            "description": "",
+            "description_for_label": [],
+            "credit_line_for_label": "<p>Courtesy the National Film and Sound Archive of Australia</p>",
+            "details": [
+                {
+                    "label": "Curatorial section",
+                    "display_values": [
+                        "The Story of the Moving Image&nbsp;→ Moving Australia&nbsp;→ 02. New Wave&nbsp;→ MA-02-C01"
+                    ]
+                },
+                {
+                    "label": "Measurements",
+                    "display_values": [
+                        "215 x 210mm"
+                    ]
+                },
+                {
+                    "label": "Materials",
+                    "display_values": [
+                        "Digital print on paper"
+                    ]
+                }
+            ],
+            "stats": {
+                "tap_count": 0
+            },
+            "links": [],
+            "creators_primary": [],
+            "creators_other": [
+                {
+                    "id": 1134479,
+                    "name": "David Kynoch",
+                    "creator_id": 84317,
+                    "role": "photographer",
+                    "role_id": 440,
+                    "is_primary": false
+                }
+            ],
+            "video_links": [],
+            "media_note": null,
+            "images": [
+                {
+                    "id": 12139,
+                    "image_file": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/FC180176_FC070.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=%2B2uLMiqpFg6000iSiWpcDuNTqdQ%3D&Expires=1627009129",
+                    "image_file_thumbnail": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/FC180176_FC070.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=J9%2Fq1xlv75vS8QeeOjGw6JE0jzY%3D&Expires=1627009129",
+                    "image_file_xs": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/FC180176_FC070.jpg.480x480_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=JvD9F3lJvADyzxyR6rD370IarRM%3D&Expires=1627009129",
+                    "image_file_s": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/FC180176_FC070.jpg.960x960_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=%2FgX9tMUrxdR9Jun0BPKRp%2FfxGLk%3D&Expires=1627009129",
+                    "image_file_m": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/FC180176_FC070.jpg.1920x1920_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=qqR7m164FCOGW0YYlpBpFQJ32PE%3D&Expires=1627009129",
+                    "image_file_l": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/FC180176_FC070.jpg.3840x3840_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=%2FcNf%2FqYAArOxCforu46ZaVIYLW8%3D&Expires=1627009129",
+                    "caption": "",
+                    "credit_line": "",
+                    "alt_text": "",
+                    "width": 2484,
+                    "height": 2539,
+                    "access_level": "View anywhere"
+                }
+            ],
+            "videos": [],
+            "holdings": [],
+            "part_of": null,
+            "parts": [],
+            "part_siblings": [],
+            "group": {
+                "id": 113823,
+                "acmi_id": "183600",
+                "title": "Production stills",
+                "title_annotation": "Facsimile",
+                "slug": "production-stills",
+                "creator_credit": "",
+                "credit_line": "<p>Courtesy the National Film and Sound Archive of Australia</p>",
+                "headline_credit": "",
+                "thumbnail": {
+                    "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/FC180176_FC070.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=J9%2Fq1xlv75vS8QeeOjGw6JE0jzY%3D&Expires=1627009129",
+                    "has_video": false
+                },
+                "record_type": "group",
+                "type": "Film",
+                "is_on_display": true,
+                "last_on_display_place": "ACMI: Gallery 1",
+                "last_on_display_date": "2022-02-10",
+                "is_context_indigenous": false,
+                "material_description": "",
+                "unpublished": false,
+                "first_production_date": null
+            },
+            "group_works": [],
+            "group_siblings": [
+                {
+                    "id": 99702,
+                    "acmi_id": "180175",
+                    "title": "My Brilliant Career production and publicity stills",
+                    "title_annotation": "Facsimile",
+                    "slug": "facsimile-photograph-my-brilliant-career-gillian-armstrong-r-director-sitting-with-judy-davis-c-sybylla-and-sam-neill-l-harry",
+                    "creator_credit": "",
+                    "credit_line": "<p>Courtesy the National Film and Sound Archive of Australia</p>",
+                    "headline_credit": "Australia, 1978",
+                    "thumbnail": {
+                        "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/FC180175_FC069.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=IS%2F6mc%2FJ7czhH6zT8yPJlkcGodA%3D&Expires=1627009129",
+                        "has_video": false
+                    },
+                    "record_type": "work",
+                    "type": "Object",
+                    "is_on_display": true,
+                    "last_on_display_place": "ACMI: Gallery 1",
+                    "last_on_display_date": "2022-02-10",
+                    "is_context_indigenous": false,
+                    "material_description": "Digital print on paper",
+                    "unpublished": false,
+                    "first_production_date": "1978-01-01T11:00:00+11:00"
+                }
+            ],
+            "source": {
+                "name": "Vernon",
+                "slug": "vernon"
+            },
+            "source_identifier": "180176",
+            "production_places": [
+                {
+                    "id": 3,
+                    "name": "Australia",
+                    "slug": "australia"
+                }
+            ],
+            "production_dates": [
+                {
+                    "date": "1978",
+                    "notes": "",
+                    "to_year": "1978"
+                }
+            ],
+            "labels": [
+                39198
+            ]
+        },
+        {
+            "id": 99702,
+            "acmi_id": "180175",
+            "title": "My Brilliant Career production and publicity stills",
+            "title_annotation": "Facsimile",
+            "slug": "facsimile-photograph-my-brilliant-career-gillian-armstrong-r-director-sitting-with-judy-davis-c-sybylla-and-sam-neill-l-harry",
+            "creator_credit": "",
+            "credit_line": "<p>Courtesy the National Film and Sound Archive of Australia</p>",
+            "headline_credit": "Australia, 1978",
+            "thumbnail": {
+                "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/FC180175_FC069.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=IS%2F6mc%2FJ7czhH6zT8yPJlkcGodA%3D&Expires=1627009129",
+                "has_video": false
+            },
+            "record_type": "work",
+            "type": "Object",
+            "is_on_display": true,
+            "last_on_display_place": "ACMI: Gallery 1",
+            "last_on_display_date": "2022-02-10",
+            "is_context_indigenous": false,
+            "material_description": "Digital print on paper",
+            "unpublished": false,
+            "first_production_date": "1978-01-01T11:00:00+11:00",
+            "brief_description": "",
+            "constellations_primary": [],
+            "constellations_other": [],
+            "recommendations": [],
+            "title_for_label": "<p>Production stills</p>",
+            "creator_credit_for_label": "",
+            "headline_credit_for_label": "<p>Australia, 1978</p>",
+            "description": "",
+            "description_for_label": [],
+            "credit_line_for_label": "<p>Courtesy the National Film and Sound Archive of Australia</p>",
+            "details": [
+                {
+                    "label": "Curatorial section",
+                    "display_values": [
+                        "The Story of the Moving Image&nbsp;→ Moving Australia&nbsp;→ 02. New Wave&nbsp;→ MA-02-C01"
+                    ]
+                },
+                {
+                    "label": "Measurements",
+                    "display_values": [
+                        "210 x 297mm"
+                    ]
+                },
+                {
+                    "label": "Materials",
+                    "display_values": [
+                        "Digital print on paper"
+                    ]
+                }
+            ],
+            "stats": {
+                "tap_count": 0
+            },
+            "links": [],
+            "creators_primary": [],
+            "creators_other": [
+                {
+                    "id": 1134478,
+                    "name": "David Kynoch",
+                    "creator_id": 84317,
+                    "role": "photographer",
+                    "role_id": 440,
+                    "is_primary": false
+                }
+            ],
+            "video_links": [],
+            "media_note": null,
+            "images": [
+                {
+                    "id": 12138,
+                    "image_file": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/FC180175_FC069.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=EgpUPRmADzDMlLHDeGgBo2yI6PM%3D&Expires=1627009129",
+                    "image_file_thumbnail": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/FC180175_FC069.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=IS%2F6mc%2FJ7czhH6zT8yPJlkcGodA%3D&Expires=1627009129",
+                    "image_file_xs": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/FC180175_FC069.jpg.480x480_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=Or2VHF7pO1ZcdvEP8s3WAvJu2Mg%3D&Expires=1627009129",
+                    "image_file_s": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/FC180175_FC069.jpg.960x960_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=zUjbIpfO8loBnp7WJe8NMxtF8X0%3D&Expires=1627009129",
+                    "image_file_m": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/FC180175_FC069.jpg.1920x1920_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=vIRju%2FCHNTQx%2B4EXn60FtOpcQWc%3D&Expires=1627009129",
+                    "image_file_l": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/FC180175_FC069.jpg.3840x3840_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=6rTnCRAUQt6NWKSkl21Cnab328g%3D&Expires=1627009129",
+                    "caption": "",
+                    "credit_line": "",
+                    "alt_text": "",
+                    "width": 3381,
+                    "height": 2279,
+                    "access_level": "View anywhere"
+                }
+            ],
+            "videos": [],
+            "holdings": [],
+            "part_of": null,
+            "parts": [],
+            "part_siblings": [],
+            "group": {
+                "id": 113823,
+                "acmi_id": "183600",
+                "title": "Production stills",
+                "title_annotation": "Facsimile",
+                "slug": "production-stills",
+                "creator_credit": "",
+                "credit_line": "<p>Courtesy the National Film and Sound Archive of Australia</p>",
+                "headline_credit": "",
+                "thumbnail": {
+                    "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/FC180176_FC070.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=J9%2Fq1xlv75vS8QeeOjGw6JE0jzY%3D&Expires=1627009129",
+                    "has_video": false
+                },
+                "record_type": "group",
+                "type": "Film",
+                "is_on_display": true,
+                "last_on_display_place": "ACMI: Gallery 1",
+                "last_on_display_date": "2022-02-10",
+                "is_context_indigenous": false,
+                "material_description": "",
+                "unpublished": false,
+                "first_production_date": null
+            },
+            "group_works": [],
+            "group_siblings": [
+                {
+                    "id": 99703,
+                    "acmi_id": "180176",
+                    "title": "My Brilliant Career production and publicity stills",
+                    "title_annotation": "Facsimile",
+                    "slug": "facsimile-photograph-my-brilliant-career-gillian-armstrong-on-set-looking-through-a-panavision-camera",
+                    "creator_credit": "",
+                    "credit_line": "<p>Courtesy the National Film and Sound Archive of Australia</p>",
+                    "headline_credit": "Australia, 1978",
+                    "thumbnail": {
+                        "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/FC180176_FC070.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=J9%2Fq1xlv75vS8QeeOjGw6JE0jzY%3D&Expires=1627009129",
+                        "has_video": false
+                    },
+                    "record_type": "work",
+                    "type": "Object",
+                    "is_on_display": true,
+                    "last_on_display_place": "ACMI: Gallery 1",
+                    "last_on_display_date": "2022-02-10",
+                    "is_context_indigenous": false,
+                    "material_description": "Digital print on paper",
+                    "unpublished": false,
+                    "first_production_date": "1978-01-01T11:00:00+11:00"
+                }
+            ],
+            "source": {
+                "name": "Vernon",
+                "slug": "vernon"
+            },
+            "source_identifier": "180175",
+            "production_places": [
+                {
+                    "id": 3,
+                    "name": "Australia",
+                    "slug": "australia"
+                }
+            ],
+            "production_dates": [
+                {
+                    "date": "1978",
+                    "notes": "",
+                    "to_year": "1978"
+                }
+            ],
+            "labels": [
+                39197
+            ]
+        },
+        {
+            "id": 99701,
+            "acmi_id": "180174",
+            "title": "Photo of Stella Miles Franklin",
+            "title_annotation": "Facsimile",
+            "slug": "facsimile-miles-franklin-author-portrait",
+            "creator_credit": "Rozelle Studio",
+            "credit_line": "<p>Courtesy the State Library of New South Wales</p>",
+            "headline_credit": "Australia, 1901",
+            "thumbnail": {
+                "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/FC180174_FC068.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=EBusomyWiqBtif5w0ufI54irMG4%3D&Expires=1627009129",
+                "has_video": false
+            },
+            "record_type": "work",
+            "type": "Object",
+            "is_on_display": true,
+            "last_on_display_place": "ACMI: Gallery 1",
+            "last_on_display_date": "2022-02-10",
+            "is_context_indigenous": false,
+            "material_description": "Digital print on paper",
+            "unpublished": false,
+            "first_production_date": "1901-01-01T09:40:00+09:40",
+            "brief_description": "<p>My Brilliant Career, adapted from Stella Miles Franklin&#8217;s 1901 novel of the same name, was Gillian Armstrong&#8217;s first feature film and a global success, gaining Academy Award and Palme d&#8217;Or nominations.</p>",
+            "constellations_primary": [],
+            "constellations_other": [],
+            "recommendations": [],
+            "title_for_label": "<p>Stella Miles Franklin</p>",
+            "creator_credit_for_label": "<p>Rozelle Studio</p>",
+            "headline_credit_for_label": "<p>Australia, 1901</p>",
+            "description": "",
+            "description_for_label": [],
+            "credit_line_for_label": "<p>Courtesy the State Library of New South Wales</p>",
+            "details": [
+                {
+                    "label": "Curatorial section",
+                    "display_values": [
+                        "The Story of the Moving Image&nbsp;→ Moving Australia&nbsp;→ 02. New Wave&nbsp;→ MA-02-C01"
+                    ]
+                },
+                {
+                    "label": "Measurements",
+                    "display_values": [
+                        "297 x 190mm"
+                    ]
+                },
+                {
+                    "label": "Materials",
+                    "display_values": [
+                        "Digital print on paper"
+                    ]
+                }
+            ],
+            "stats": {
+                "tap_count": 0
+            },
+            "links": [],
+            "creators_primary": [
+                {
+                    "id": 1134477,
+                    "name": "Rozelle Studio",
+                    "creator_id": 82114,
+                    "role": "creator",
+                    "role_id": 968,
+                    "is_primary": true
+                }
+            ],
+            "creators_other": [],
+            "video_links": [],
+            "media_note": null,
+            "images": [
+                {
+                    "id": 12137,
+                    "image_file": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/FC180174_FC068.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=%2FM%2BrF0%2FAFByF9on5u8B8khVn%2Fiw%3D&Expires=1627009129",
+                    "image_file_thumbnail": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/FC180174_FC068.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=EBusomyWiqBtif5w0ufI54irMG4%3D&Expires=1627009129",
+                    "image_file_xs": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/FC180174_FC068.jpg.480x480_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=yHVgl4%2BUhe%2FxdtLhNToTFKxAhbQ%3D&Expires=1627009129",
+                    "image_file_s": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/FC180174_FC068.jpg.960x960_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=mI29eb8SLNlRrXIHHhDELkgV6QU%3D&Expires=1627009129",
+                    "image_file_m": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/FC180174_FC068.jpg.1920x1920_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=UTCRQkfK1uaIuW9Vg5lp59zFkY8%3D&Expires=1627009129",
+                    "image_file_l": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/FC180174_FC068.jpg.3840x3840_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=GJV89sYVVFi%2B9fgIAxQxPi8WbeU%3D&Expires=1627009129",
+                    "caption": "",
+                    "credit_line": "",
+                    "alt_text": "",
+                    "width": 659,
+                    "height": 1020,
+                    "access_level": "View anywhere"
+                }
+            ],
+            "videos": [],
+            "holdings": [],
+            "part_of": null,
+            "parts": [],
+            "part_siblings": [],
+            "group": {
+                "id": 107694,
+                "acmi_id": "182858",
+                "title": "My Brilliant Career",
+                "title_annotation": "",
+                "slug": "my-brilliant-career",
+                "creator_credit": "Gillian Armstrong",
+                "credit_line": "<p>Courtesy Margaret Fink Films </p>\n<p>Held in the collection of the National Film and Sound Archive of Australia</p>",
+                "headline_credit": "Australia, 1979",
+                "thumbnail": {
+                    "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/FC180177_FC071.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=GeE1RfGAapXLEAaYPoj0%2BDuo%2BSQ%3D&Expires=1627009130",
+                    "has_video": false
+                },
+                "record_type": "group",
+                "type": "Film",
+                "is_on_display": true,
+                "last_on_display_place": "ACMI: Gallery 1",
+                "last_on_display_date": "2022-02-10",
+                "is_context_indigenous": false,
+                "material_description": "",
+                "unpublished": false,
+                "first_production_date": "1979-01-01T11:00:00+11:00"
+            },
+            "group_works": [],
+            "group_siblings": [
+                {
+                    "id": 99704,
+                    "acmi_id": "180177",
+                    "title": "My Brilliant Career film poster",
+                    "title_annotation": "Facsimile",
+                    "slug": "facsimile-film-poster-my-brilliant-career-one-sheeter",
+                    "creator_credit": "",
+                    "credit_line": "<p>Courtesy Margaret Fink Films </p>\n<p>Held in the collection of the National Film and Sound Archive of Australia</p>",
+                    "headline_credit": "Australia, c. 1979",
+                    "thumbnail": {
+                        "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/FC180177_FC071.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=GeE1RfGAapXLEAaYPoj0%2BDuo%2BSQ%3D&Expires=1627009130",
+                        "has_video": false
+                    },
+                    "record_type": "work",
+                    "type": "Object",
+                    "is_on_display": true,
+                    "last_on_display_place": "ACMI: Gallery 1",
+                    "last_on_display_date": "2022-02-10",
+                    "is_context_indigenous": false,
+                    "material_description": "Digital print on paper",
+                    "unpublished": false,
+                    "first_production_date": null
+                },
+                {
+                    "id": 113816,
+                    "acmi_id": "183599",
+                    "title": "Continuity photos",
+                    "title_annotation": "",
+                    "slug": "continuity-photos",
+                    "creator_credit": "",
+                    "credit_line": "<p>Courtesy Gillian Armstrong</p>",
+                    "headline_credit": "",
+                    "thumbnail": null,
+                    "record_type": "group",
+                    "type": "Film",
+                    "is_on_display": true,
+                    "last_on_display_place": "ACMI: Gallery 1",
+                    "last_on_display_date": "2022-02-10",
+                    "is_context_indigenous": false,
+                    "material_description": "",
+                    "unpublished": false,
+                    "first_production_date": null
+                },
+                {
+                    "id": 99474,
+                    "acmi_id": "177007",
+                    "title": "My Brilliant Career paperback",
+                    "title_annotation": "",
+                    "slug": "paperback-book-my-brilliant-career",
+                    "creator_credit": "Miles Franklin",
+                    "credit_line": "",
+                    "headline_credit": "Australia, 1901",
+                    "thumbnail": {
+                        "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/P177007_MyBrilliantCareerBook_34.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=mju72%2Bzbq0FJxdwezc7jydUiSbI%3D&Expires=1627009130",
+                        "has_video": false
+                    },
+                    "record_type": "work",
+                    "type": "Object",
+                    "is_on_display": true,
+                    "last_on_display_place": "ACMI: Gallery 1",
+                    "last_on_display_date": "2022-02-10",
+                    "is_context_indigenous": false,
+                    "material_description": "paperback book",
+                    "unpublished": false,
+                    "first_production_date": "1901-01-01T09:40:00+09:40"
+                },
+                {
+                    "id": 113823,
+                    "acmi_id": "183600",
+                    "title": "Production stills",
+                    "title_annotation": "Facsimile",
+                    "slug": "production-stills",
+                    "creator_credit": "",
+                    "credit_line": "<p>Courtesy the National Film and Sound Archive of Australia</p>",
+                    "headline_credit": "",
+                    "thumbnail": {
+                        "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/FC180175_FC069.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=MdcUvZGeLYsogpp2W2zVb%2BYlI%2Bw%3D&Expires=1627009130",
+                        "has_video": false
+                    },
+                    "record_type": "group",
+                    "type": "Film",
+                    "is_on_display": true,
+                    "last_on_display_place": "ACMI: Gallery 1",
+                    "last_on_display_date": "2022-02-10",
+                    "is_context_indigenous": false,
+                    "material_description": "",
+                    "unpublished": false,
+                    "first_production_date": null
+                },
+                {
+                    "id": 99699,
+                    "acmi_id": "180171",
+                    "title": "My Brilliant Career Czechoslovakian release poster",
+                    "title_annotation": "Facsimile",
+                    "slug": "facsimile-film-poster-my-brilliant-career-czechoslovakia",
+                    "creator_credit": "",
+                    "credit_line": "<p>Courtesy the National Film and Sound Archive of Australia</p>",
+                    "headline_credit": "c. 1979",
+                    "thumbnail": {
+                        "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/FC180171_FC065.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=mAJNmN0Y7SnGxn6yXgLi0rR160M%3D&Expires=1627009130",
+                        "has_video": false
+                    },
+                    "record_type": "work",
+                    "type": "Object",
+                    "is_on_display": true,
+                    "last_on_display_place": "ACMI: Gallery 1",
+                    "last_on_display_date": "2022-02-10",
+                    "is_context_indigenous": false,
+                    "material_description": "Digital print on paper",
+                    "unpublished": false,
+                    "first_production_date": null
+                },
+                {
+                    "id": 99700,
+                    "acmi_id": "180172",
+                    "title": "My Brilliant Career Japanese film program",
+                    "title_annotation": "Facsimile",
+                    "slug": "facsimile-film-program-pamphlet-my-brilliant-career-japan",
+                    "creator_credit": "",
+                    "credit_line": "",
+                    "headline_credit": "c. 1979",
+                    "thumbnail": null,
+                    "record_type": "work",
+                    "type": "Object",
+                    "is_on_display": true,
+                    "last_on_display_place": "ACMI: Gallery 1",
+                    "last_on_display_date": "2022-02-10",
+                    "is_context_indigenous": false,
+                    "material_description": "Digital print on paper",
+                    "unpublished": false,
+                    "first_production_date": null
+                },
+                {
+                    "id": 108286,
+                    "acmi_id": "180173",
+                    "title": "My Brilliant Career screenplay by Eleanor Witcombe",
+                    "title_annotation": "Facsimile",
+                    "slug": "facsimile-screenplay-my-brilliant-career-by-eleanor-witcombe",
+                    "creator_credit": "",
+                    "credit_line": "<p>Courtesy Gillian Armstrong</p>",
+                    "headline_credit": "Australia",
+                    "thumbnail": {
+                        "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/FC180173_FACSIMILEScreenplayMyBrilliantCareer_Close.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=xEh%2F%2BUUYUrvIYEKDh%2BaFCEXbJtE%3D&Expires=1627009130",
+                        "has_video": false
+                    },
+                    "record_type": "work",
+                    "type": "Object",
+                    "is_on_display": true,
+                    "last_on_display_place": "ACMI: Gallery 1",
+                    "last_on_display_date": "2022-02-10",
+                    "is_context_indigenous": false,
+                    "material_description": "Digital print on paper in springback binder",
+                    "unpublished": false,
+                    "first_production_date": null
+                },
+                {
+                    "id": 113824,
+                    "acmi_id": "183601",
+                    "title": "Publicity stills",
+                    "title_annotation": "Facsimile",
+                    "slug": "publicity-stills",
+                    "creator_credit": "",
+                    "credit_line": "<p>ACMI Collection</p>",
+                    "headline_credit": "",
+                    "thumbnail": {
+                        "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/FC180180_FC074.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=yiLkb23Mr5dCvaLCQMHDqitLT5s%3D&Expires=1627009130",
+                        "has_video": false
+                    },
+                    "record_type": "group",
+                    "type": "Film",
+                    "is_on_display": true,
+                    "last_on_display_place": "ACMI: Gallery 1",
+                    "last_on_display_date": "2022-02-10",
+                    "is_context_indigenous": false,
+                    "material_description": "",
+                    "unpublished": false,
+                    "first_production_date": null
+                }
+            ],
+            "source": {
+                "name": "Vernon",
+                "slug": "vernon"
+            },
+            "source_identifier": "180174",
+            "production_places": [
+                {
+                    "id": 3,
+                    "name": "Australia",
+                    "slug": "australia"
+                }
+            ],
+            "production_dates": [
+                {
+                    "date": "1901",
+                    "notes": "",
+                    "to_year": "1901"
+                }
+            ],
+            "labels": [
+                39196
+            ]
+        },
+        {
+            "id": 99700,
+            "acmi_id": "180172",
+            "title": "My Brilliant Career Japanese film program",
+            "title_annotation": "Facsimile",
+            "slug": "facsimile-film-program-pamphlet-my-brilliant-career-japan",
+            "creator_credit": "",
+            "credit_line": "",
+            "headline_credit": "c. 1979",
+            "thumbnail": null,
+            "record_type": "work",
+            "type": "Object",
+            "is_on_display": true,
+            "last_on_display_place": "ACMI: Gallery 1",
+            "last_on_display_date": "2022-02-10",
+            "is_context_indigenous": false,
+            "material_description": "Digital print on paper",
+            "unpublished": false,
+            "first_production_date": null,
+            "brief_description": "",
+            "constellations_primary": [],
+            "constellations_other": [],
+            "recommendations": [],
+            "title_for_label": "<p>Japanese film program</p>",
+            "creator_credit_for_label": "",
+            "headline_credit_for_label": "<p>c. 1979</p>",
+            "description": "",
+            "description_for_label": [],
+            "credit_line_for_label": "",
+            "details": [
+                {
+                    "label": "Curatorial section",
+                    "display_values": [
+                        "The Story of the Moving Image&nbsp;→ Moving Australia&nbsp;→ 02. New Wave"
+                    ]
+                },
+                {
+                    "label": "Measurements",
+                    "display_values": [
+                        "210 x 148mm"
+                    ]
+                },
+                {
+                    "label": "Materials",
+                    "display_values": [
+                        "Digital print on paper"
+                    ]
+                }
+            ],
+            "stats": {
+                "tap_count": 0
+            },
+            "links": [],
+            "creators_primary": [],
+            "creators_other": [],
+            "video_links": [],
+            "media_note": "Sorry, we aren't able to make images or video for this item available to the public online.",
+            "images": [],
+            "videos": [],
+            "holdings": [],
+            "part_of": null,
+            "parts": [],
+            "part_siblings": [],
+            "group": {
+                "id": 107694,
+                "acmi_id": "182858",
+                "title": "My Brilliant Career",
+                "title_annotation": "",
+                "slug": "my-brilliant-career",
+                "creator_credit": "Gillian Armstrong",
+                "credit_line": "<p>Courtesy Margaret Fink Films </p>\n<p>Held in the collection of the National Film and Sound Archive of Australia</p>",
+                "headline_credit": "Australia, 1979",
+                "thumbnail": {
+                    "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/FC180177_FC071.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=GeE1RfGAapXLEAaYPoj0%2BDuo%2BSQ%3D&Expires=1627009130",
+                    "has_video": false
+                },
+                "record_type": "group",
+                "type": "Film",
+                "is_on_display": true,
+                "last_on_display_place": "ACMI: Gallery 1",
+                "last_on_display_date": "2022-02-10",
+                "is_context_indigenous": false,
+                "material_description": "",
+                "unpublished": false,
+                "first_production_date": "1979-01-01T11:00:00+11:00"
+            },
+            "group_works": [],
+            "group_siblings": [
+                {
+                    "id": 99704,
+                    "acmi_id": "180177",
+                    "title": "My Brilliant Career film poster",
+                    "title_annotation": "Facsimile",
+                    "slug": "facsimile-film-poster-my-brilliant-career-one-sheeter",
+                    "creator_credit": "",
+                    "credit_line": "<p>Courtesy Margaret Fink Films </p>\n<p>Held in the collection of the National Film and Sound Archive of Australia</p>",
+                    "headline_credit": "Australia, c. 1979",
+                    "thumbnail": {
+                        "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/FC180177_FC071.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=GeE1RfGAapXLEAaYPoj0%2BDuo%2BSQ%3D&Expires=1627009130",
+                        "has_video": false
+                    },
+                    "record_type": "work",
+                    "type": "Object",
+                    "is_on_display": true,
+                    "last_on_display_place": "ACMI: Gallery 1",
+                    "last_on_display_date": "2022-02-10",
+                    "is_context_indigenous": false,
+                    "material_description": "Digital print on paper",
+                    "unpublished": false,
+                    "first_production_date": null
+                },
+                {
+                    "id": 113816,
+                    "acmi_id": "183599",
+                    "title": "Continuity photos",
+                    "title_annotation": "",
+                    "slug": "continuity-photos",
+                    "creator_credit": "",
+                    "credit_line": "<p>Courtesy Gillian Armstrong</p>",
+                    "headline_credit": "",
+                    "thumbnail": null,
+                    "record_type": "group",
+                    "type": "Film",
+                    "is_on_display": true,
+                    "last_on_display_place": "ACMI: Gallery 1",
+                    "last_on_display_date": "2022-02-10",
+                    "is_context_indigenous": false,
+                    "material_description": "",
+                    "unpublished": false,
+                    "first_production_date": null
+                },
+                {
+                    "id": 99474,
+                    "acmi_id": "177007",
+                    "title": "My Brilliant Career paperback",
+                    "title_annotation": "",
+                    "slug": "paperback-book-my-brilliant-career",
+                    "creator_credit": "Miles Franklin",
+                    "credit_line": "",
+                    "headline_credit": "Australia, 1901",
+                    "thumbnail": {
+                        "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/P177007_MyBrilliantCareerBook_34.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=mju72%2Bzbq0FJxdwezc7jydUiSbI%3D&Expires=1627009130",
+                        "has_video": false
+                    },
+                    "record_type": "work",
+                    "type": "Object",
+                    "is_on_display": true,
+                    "last_on_display_place": "ACMI: Gallery 1",
+                    "last_on_display_date": "2022-02-10",
+                    "is_context_indigenous": false,
+                    "material_description": "paperback book",
+                    "unpublished": false,
+                    "first_production_date": "1901-01-01T09:40:00+09:40"
+                },
+                {
+                    "id": 113823,
+                    "acmi_id": "183600",
+                    "title": "Production stills",
+                    "title_annotation": "Facsimile",
+                    "slug": "production-stills",
+                    "creator_credit": "",
+                    "credit_line": "<p>Courtesy the National Film and Sound Archive of Australia</p>",
+                    "headline_credit": "",
+                    "thumbnail": {
+                        "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/FC180175_FC069.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=MdcUvZGeLYsogpp2W2zVb%2BYlI%2Bw%3D&Expires=1627009130",
+                        "has_video": false
+                    },
+                    "record_type": "group",
+                    "type": "Film",
+                    "is_on_display": true,
+                    "last_on_display_place": "ACMI: Gallery 1",
+                    "last_on_display_date": "2022-02-10",
+                    "is_context_indigenous": false,
+                    "material_description": "",
+                    "unpublished": false,
+                    "first_production_date": null
+                },
+                {
+                    "id": 99699,
+                    "acmi_id": "180171",
+                    "title": "My Brilliant Career Czechoslovakian release poster",
+                    "title_annotation": "Facsimile",
+                    "slug": "facsimile-film-poster-my-brilliant-career-czechoslovakia",
+                    "creator_credit": "",
+                    "credit_line": "<p>Courtesy the National Film and Sound Archive of Australia</p>",
+                    "headline_credit": "c. 1979",
+                    "thumbnail": {
+                        "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/FC180171_FC065.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=mAJNmN0Y7SnGxn6yXgLi0rR160M%3D&Expires=1627009130",
+                        "has_video": false
+                    },
+                    "record_type": "work",
+                    "type": "Object",
+                    "is_on_display": true,
+                    "last_on_display_place": "ACMI: Gallery 1",
+                    "last_on_display_date": "2022-02-10",
+                    "is_context_indigenous": false,
+                    "material_description": "Digital print on paper",
+                    "unpublished": false,
+                    "first_production_date": null
+                },
+                {
+                    "id": 108286,
+                    "acmi_id": "180173",
+                    "title": "My Brilliant Career screenplay by Eleanor Witcombe",
+                    "title_annotation": "Facsimile",
+                    "slug": "facsimile-screenplay-my-brilliant-career-by-eleanor-witcombe",
+                    "creator_credit": "",
+                    "credit_line": "<p>Courtesy Gillian Armstrong</p>",
+                    "headline_credit": "Australia",
+                    "thumbnail": {
+                        "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/FC180173_FACSIMILEScreenplayMyBrilliantCareer_Close.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=xEh%2F%2BUUYUrvIYEKDh%2BaFCEXbJtE%3D&Expires=1627009130",
+                        "has_video": false
+                    },
+                    "record_type": "work",
+                    "type": "Object",
+                    "is_on_display": true,
+                    "last_on_display_place": "ACMI: Gallery 1",
+                    "last_on_display_date": "2022-02-10",
+                    "is_context_indigenous": false,
+                    "material_description": "Digital print on paper in springback binder",
+                    "unpublished": false,
+                    "first_production_date": null
+                },
+                {
+                    "id": 99701,
+                    "acmi_id": "180174",
+                    "title": "Photo of Stella Miles Franklin",
+                    "title_annotation": "Facsimile",
+                    "slug": "facsimile-miles-franklin-author-portrait",
+                    "creator_credit": "Rozelle Studio",
+                    "credit_line": "<p>Courtesy the State Library of New South Wales</p>",
+                    "headline_credit": "Australia, 1901",
+                    "thumbnail": {
+                        "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/FC180174_FC068.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=NkJGXSOPX96tUHHC9cngTUrcRkU%3D&Expires=1627009130",
+                        "has_video": false
+                    },
+                    "record_type": "work",
+                    "type": "Object",
+                    "is_on_display": true,
+                    "last_on_display_place": "ACMI: Gallery 1",
+                    "last_on_display_date": "2022-02-10",
+                    "is_context_indigenous": false,
+                    "material_description": "Digital print on paper",
+                    "unpublished": false,
+                    "first_production_date": "1901-01-01T09:40:00+09:40"
+                },
+                {
+                    "id": 113824,
+                    "acmi_id": "183601",
+                    "title": "Publicity stills",
+                    "title_annotation": "Facsimile",
+                    "slug": "publicity-stills",
+                    "creator_credit": "",
+                    "credit_line": "<p>ACMI Collection</p>",
+                    "headline_credit": "",
+                    "thumbnail": {
+                        "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/FC180180_FC074.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=yiLkb23Mr5dCvaLCQMHDqitLT5s%3D&Expires=1627009130",
+                        "has_video": false
+                    },
+                    "record_type": "group",
+                    "type": "Film",
+                    "is_on_display": true,
+                    "last_on_display_place": "ACMI: Gallery 1",
+                    "last_on_display_date": "2022-02-10",
+                    "is_context_indigenous": false,
+                    "material_description": "",
+                    "unpublished": false,
+                    "first_production_date": null
+                }
+            ],
+            "source": {
+                "name": "Vernon",
+                "slug": "vernon"
+            },
+            "source_identifier": "180172",
+            "production_places": [],
+            "production_dates": [
+                {
+                    "date": "c. 1979",
+                    "notes": "",
+                    "to_year": "c. 1979"
+                }
+            ],
+            "labels": [
+                39195
+            ]
+        },
+        {
+            "id": 99699,
+            "acmi_id": "180171",
+            "title": "My Brilliant Career Czechoslovakian release poster",
+            "title_annotation": "Facsimile",
+            "slug": "facsimile-film-poster-my-brilliant-career-czechoslovakia",
+            "creator_credit": "",
+            "credit_line": "<p>Courtesy the National Film and Sound Archive of Australia</p>",
+            "headline_credit": "c. 1979",
+            "thumbnail": {
+                "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/FC180171_FC065.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=mAJNmN0Y7SnGxn6yXgLi0rR160M%3D&Expires=1627009130",
+                "has_video": false
+            },
+            "record_type": "work",
+            "type": "Object",
+            "is_on_display": true,
+            "last_on_display_place": "ACMI: Gallery 1",
+            "last_on_display_date": "2022-02-10",
+            "is_context_indigenous": false,
+            "material_description": "Digital print on paper",
+            "unpublished": false,
+            "first_production_date": null,
+            "brief_description": "",
+            "constellations_primary": [],
+            "constellations_other": [],
+            "recommendations": [],
+            "title_for_label": "<p>Czechoslovakian release poster</p>",
+            "creator_credit_for_label": "",
+            "headline_credit_for_label": "<p>c. 1979</p>",
+            "description": "",
+            "description_for_label": [],
+            "credit_line_for_label": "<p>Courtesy the National Film and Sound Archive of Australia</p>",
+            "details": [
+                {
+                    "label": "Curatorial section",
+                    "display_values": [
+                        "The Story of the Moving Image&nbsp;→ Moving Australia&nbsp;→ 02. New Wave"
+                    ]
+                },
+                {
+                    "label": "Measurements",
+                    "display_values": [
+                        "774 x 540mm"
+                    ]
+                },
+                {
+                    "label": "Materials",
+                    "display_values": [
+                        "Digital print on paper"
+                    ]
+                }
+            ],
+            "stats": {
+                "tap_count": 0
+            },
+            "links": [],
+            "creators_primary": [],
+            "creators_other": [],
+            "video_links": [],
+            "media_note": null,
+            "images": [
+                {
+                    "id": 12065,
+                    "image_file": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/FC180171_FC065.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=2%2BP1diEo5%2BgHFoTaMTOzmW3BJgA%3D&Expires=1627009130",
+                    "image_file_thumbnail": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/FC180171_FC065.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=mAJNmN0Y7SnGxn6yXgLi0rR160M%3D&Expires=1627009130",
+                    "image_file_xs": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/FC180171_FC065.jpg.480x480_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=FS0G9917XL%2FORuFCiReV38H8PnM%3D&Expires=1627009130",
+                    "image_file_s": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/FC180171_FC065.jpg.960x960_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=VitH0b3VRke9%2BLGF828iHge%2F0qM%3D&Expires=1627009130",
+                    "image_file_m": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/FC180171_FC065.jpg.1920x1920_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=W4VTB%2B%2FFcFAOCyP4hP7DM7IQDIY%3D&Expires=1627009130",
+                    "image_file_l": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/FC180171_FC065.jpg.3840x3840_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=zY8lIQDeUhayKRdvE7y9IpSUX34%3D&Expires=1627009130",
+                    "caption": "",
+                    "credit_line": "",
+                    "alt_text": "",
+                    "width": 2131,
+                    "height": 3045,
+                    "access_level": "View anywhere"
+                }
+            ],
+            "videos": [],
+            "holdings": [],
+            "part_of": null,
+            "parts": [],
+            "part_siblings": [],
+            "group": {
+                "id": 107694,
+                "acmi_id": "182858",
+                "title": "My Brilliant Career",
+                "title_annotation": "",
+                "slug": "my-brilliant-career",
+                "creator_credit": "Gillian Armstrong",
+                "credit_line": "<p>Courtesy Margaret Fink Films </p>\n<p>Held in the collection of the National Film and Sound Archive of Australia</p>",
+                "headline_credit": "Australia, 1979",
+                "thumbnail": {
+                    "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/FC180177_FC071.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=GeE1RfGAapXLEAaYPoj0%2BDuo%2BSQ%3D&Expires=1627009130",
+                    "has_video": false
+                },
+                "record_type": "group",
+                "type": "Film",
+                "is_on_display": true,
+                "last_on_display_place": "ACMI: Gallery 1",
+                "last_on_display_date": "2022-02-10",
+                "is_context_indigenous": false,
+                "material_description": "",
+                "unpublished": false,
+                "first_production_date": "1979-01-01T11:00:00+11:00"
+            },
+            "group_works": [],
+            "group_siblings": [
+                {
+                    "id": 99704,
+                    "acmi_id": "180177",
+                    "title": "My Brilliant Career film poster",
+                    "title_annotation": "Facsimile",
+                    "slug": "facsimile-film-poster-my-brilliant-career-one-sheeter",
+                    "creator_credit": "",
+                    "credit_line": "<p>Courtesy Margaret Fink Films </p>\n<p>Held in the collection of the National Film and Sound Archive of Australia</p>",
+                    "headline_credit": "Australia, c. 1979",
+                    "thumbnail": {
+                        "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/FC180177_FC071.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=GeE1RfGAapXLEAaYPoj0%2BDuo%2BSQ%3D&Expires=1627009130",
+                        "has_video": false
+                    },
+                    "record_type": "work",
+                    "type": "Object",
+                    "is_on_display": true,
+                    "last_on_display_place": "ACMI: Gallery 1",
+                    "last_on_display_date": "2022-02-10",
+                    "is_context_indigenous": false,
+                    "material_description": "Digital print on paper",
+                    "unpublished": false,
+                    "first_production_date": null
+                },
+                {
+                    "id": 113816,
+                    "acmi_id": "183599",
+                    "title": "Continuity photos",
+                    "title_annotation": "",
+                    "slug": "continuity-photos",
+                    "creator_credit": "",
+                    "credit_line": "<p>Courtesy Gillian Armstrong</p>",
+                    "headline_credit": "",
+                    "thumbnail": null,
+                    "record_type": "group",
+                    "type": "Film",
+                    "is_on_display": true,
+                    "last_on_display_place": "ACMI: Gallery 1",
+                    "last_on_display_date": "2022-02-10",
+                    "is_context_indigenous": false,
+                    "material_description": "",
+                    "unpublished": false,
+                    "first_production_date": null
+                },
+                {
+                    "id": 99474,
+                    "acmi_id": "177007",
+                    "title": "My Brilliant Career paperback",
+                    "title_annotation": "",
+                    "slug": "paperback-book-my-brilliant-career",
+                    "creator_credit": "Miles Franklin",
+                    "credit_line": "",
+                    "headline_credit": "Australia, 1901",
+                    "thumbnail": {
+                        "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/P177007_MyBrilliantCareerBook_34.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=mju72%2Bzbq0FJxdwezc7jydUiSbI%3D&Expires=1627009130",
+                        "has_video": false
+                    },
+                    "record_type": "work",
+                    "type": "Object",
+                    "is_on_display": true,
+                    "last_on_display_place": "ACMI: Gallery 1",
+                    "last_on_display_date": "2022-02-10",
+                    "is_context_indigenous": false,
+                    "material_description": "paperback book",
+                    "unpublished": false,
+                    "first_production_date": "1901-01-01T09:40:00+09:40"
+                },
+                {
+                    "id": 113823,
+                    "acmi_id": "183600",
+                    "title": "Production stills",
+                    "title_annotation": "Facsimile",
+                    "slug": "production-stills",
+                    "creator_credit": "",
+                    "credit_line": "<p>Courtesy the National Film and Sound Archive of Australia</p>",
+                    "headline_credit": "",
+                    "thumbnail": {
+                        "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/FC180175_FC069.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=MdcUvZGeLYsogpp2W2zVb%2BYlI%2Bw%3D&Expires=1627009130",
+                        "has_video": false
+                    },
+                    "record_type": "group",
+                    "type": "Film",
+                    "is_on_display": true,
+                    "last_on_display_place": "ACMI: Gallery 1",
+                    "last_on_display_date": "2022-02-10",
+                    "is_context_indigenous": false,
+                    "material_description": "",
+                    "unpublished": false,
+                    "first_production_date": null
+                },
+                {
+                    "id": 99700,
+                    "acmi_id": "180172",
+                    "title": "My Brilliant Career Japanese film program",
+                    "title_annotation": "Facsimile",
+                    "slug": "facsimile-film-program-pamphlet-my-brilliant-career-japan",
+                    "creator_credit": "",
+                    "credit_line": "",
+                    "headline_credit": "c. 1979",
+                    "thumbnail": null,
+                    "record_type": "work",
+                    "type": "Object",
+                    "is_on_display": true,
+                    "last_on_display_place": "ACMI: Gallery 1",
+                    "last_on_display_date": "2022-02-10",
+                    "is_context_indigenous": false,
+                    "material_description": "Digital print on paper",
+                    "unpublished": false,
+                    "first_production_date": null
+                },
+                {
+                    "id": 108286,
+                    "acmi_id": "180173",
+                    "title": "My Brilliant Career screenplay by Eleanor Witcombe",
+                    "title_annotation": "Facsimile",
+                    "slug": "facsimile-screenplay-my-brilliant-career-by-eleanor-witcombe",
+                    "creator_credit": "",
+                    "credit_line": "<p>Courtesy Gillian Armstrong</p>",
+                    "headline_credit": "Australia",
+                    "thumbnail": {
+                        "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/FC180173_FACSIMILEScreenplayMyBrilliantCareer_Close.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=xEh%2F%2BUUYUrvIYEKDh%2BaFCEXbJtE%3D&Expires=1627009130",
+                        "has_video": false
+                    },
+                    "record_type": "work",
+                    "type": "Object",
+                    "is_on_display": true,
+                    "last_on_display_place": "ACMI: Gallery 1",
+                    "last_on_display_date": "2022-02-10",
+                    "is_context_indigenous": false,
+                    "material_description": "Digital print on paper in springback binder",
+                    "unpublished": false,
+                    "first_production_date": null
+                },
+                {
+                    "id": 99701,
+                    "acmi_id": "180174",
+                    "title": "Photo of Stella Miles Franklin",
+                    "title_annotation": "Facsimile",
+                    "slug": "facsimile-miles-franklin-author-portrait",
+                    "creator_credit": "Rozelle Studio",
+                    "credit_line": "<p>Courtesy the State Library of New South Wales</p>",
+                    "headline_credit": "Australia, 1901",
+                    "thumbnail": {
+                        "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/FC180174_FC068.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=NkJGXSOPX96tUHHC9cngTUrcRkU%3D&Expires=1627009130",
+                        "has_video": false
+                    },
+                    "record_type": "work",
+                    "type": "Object",
+                    "is_on_display": true,
+                    "last_on_display_place": "ACMI: Gallery 1",
+                    "last_on_display_date": "2022-02-10",
+                    "is_context_indigenous": false,
+                    "material_description": "Digital print on paper",
+                    "unpublished": false,
+                    "first_production_date": "1901-01-01T09:40:00+09:40"
+                },
+                {
+                    "id": 113824,
+                    "acmi_id": "183601",
+                    "title": "Publicity stills",
+                    "title_annotation": "Facsimile",
+                    "slug": "publicity-stills",
+                    "creator_credit": "",
+                    "credit_line": "<p>ACMI Collection</p>",
+                    "headline_credit": "",
+                    "thumbnail": {
+                        "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/FC180180_FC074.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=yiLkb23Mr5dCvaLCQMHDqitLT5s%3D&Expires=1627009130",
+                        "has_video": false
+                    },
+                    "record_type": "group",
+                    "type": "Film",
+                    "is_on_display": true,
+                    "last_on_display_place": "ACMI: Gallery 1",
+                    "last_on_display_date": "2022-02-10",
+                    "is_context_indigenous": false,
+                    "material_description": "",
+                    "unpublished": false,
+                    "first_production_date": null
+                }
+            ],
+            "source": {
+                "name": "Vernon",
+                "slug": "vernon"
+            },
+            "source_identifier": "180171",
+            "production_places": [],
+            "production_dates": [
+                {
+                    "date": "c. 1979",
+                    "notes": "",
+                    "to_year": "c. 1979"
+                }
+            ],
+            "labels": [
+                39194
+            ]
+        },
+        {
+            "id": 99686,
+            "acmi_id": "180157",
+            "title": "Toy lantern slides",
+            "title_annotation": "Facsimile",
+            "slug": "facsimile-the-empire-magic-lantern-outfit-glass-slide-detail",
+            "creator_credit": "The Empire Magic Lantern Outfit",
+            "credit_line": "<p>ACMI Collection. Donated by William Kerr on behalf of Edwin Schefferle.</p>",
+            "headline_credit": "Germany, c. 1900",
+            "thumbnail": {
+                "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/FC180157_FACSIMILE_EMLglassSlide_Butterfly.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=7VCcKcADGnxOXtgeCu14sh8Wqb0%3D&Expires=1627009130",
+                "has_video": false
+            },
+            "record_type": "work",
+            "type": "Object",
+            "is_on_display": true,
+            "last_on_display_place": "ACMI: Gallery 1",
+            "last_on_display_date": "2021-08-12",
+            "is_context_indigenous": false,
+            "material_description": "hand-coloured photographic print on glass",
+            "unpublished": false,
+            "first_production_date": null,
+            "brief_description": "<p>Facsimile of E000290</p>",
+            "constellations_primary": [],
+            "constellations_other": [],
+            "recommendations": [],
+            "title_for_label": "<p>Toy lantern slides</p>",
+            "creator_credit_for_label": "<p>The Empire Magic Lantern Outfit</p>",
+            "headline_credit_for_label": "<p>Germany, c. 1900</p>",
+            "description": "<p>Facsimile of E000290</p>",
+            "description_for_label": [
+                "<p>Facsimile of E000290</p>"
+            ],
+            "credit_line_for_label": "<p>ACMI Collection. Donated by William Kerr on behalf of Edwin Schefferle.</p>",
+            "details": [
+                {
+                    "label": "Curatorial section",
+                    "display_values": [
+                        "The Story of the Moving Image&nbsp;→ Moving Pictures&nbsp;→ 02. Play and Illusion&nbsp;→ MI-02-C01"
+                    ]
+                },
+                {
+                    "label": "Measurements",
+                    "display_values": [
+                        "30 x 110 x 2mm"
+                    ]
+                },
+                {
+                    "label": "Materials",
+                    "display_values": [
+                        "hand-coloured photographic print on glass"
+                    ]
+                }
+            ],
+            "stats": {
+                "tap_count": 0
+            },
+            "links": [],
+            "creators_primary": [
+                {
+                    "id": 1134476,
+                    "name": "The Empire Magic Lantern Outfit",
+                    "creator_id": 71430,
+                    "role": "creator",
+                    "role_id": 968,
+                    "is_primary": true
+                }
+            ],
+            "creators_other": [],
+            "video_links": [],
+            "media_note": null,
+            "images": [
+                {
+                    "id": 12136,
+                    "image_file": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/FC180157_FACSIMILE_EMLglassSlide_Butterfly.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=FwySmPnICmgKZsX18URryN9p2fo%3D&Expires=1627009130",
+                    "image_file_thumbnail": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/FC180157_FACSIMILE_EMLglassSlide_Butterfly.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=7VCcKcADGnxOXtgeCu14sh8Wqb0%3D&Expires=1627009130",
+                    "image_file_xs": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/FC180157_FACSIMILE_EMLglassSlide_Butterfly.jpg.480x480_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=qkenXXCngPwIaGA5rCyPyJZA8nI%3D&Expires=1627009130",
+                    "image_file_s": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/FC180157_FACSIMILE_EMLglassSlide_Butterfly.jpg.960x960_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=LHE4zwq2rkL%2BUy73apTukj0Yx30%3D&Expires=1627009130",
+                    "image_file_m": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/FC180157_FACSIMILE_EMLglassSlide_Butterfly.jpg.1920x1920_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=Zqr7OwS0BsGEYlMVtAMYdgqnAPc%3D&Expires=1627009130",
+                    "image_file_l": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/FC180157_FACSIMILE_EMLglassSlide_Butterfly.jpg.3840x3840_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=YXu0ag7iaHto0XDLKs28anMiZV8%3D&Expires=1627009130",
+                    "caption": "FACSIMILE_RenewalPhotographyProject2020",
+                    "credit_line": "",
+                    "alt_text": "",
+                    "width": 4800,
+                    "height": 3200,
+                    "access_level": "View anywhere"
+                }
+            ],
+            "videos": [],
+            "holdings": [],
+            "part_of": null,
+            "parts": [],
+            "part_siblings": [],
+            "group": {
+                "id": 112078,
+                "acmi_id": "183531",
+                "title": "Toy lantern slides",
+                "title_annotation": "",
+                "slug": "toy-lantern-slides",
+                "creator_credit": "The Empire Magic Lantern Outfit",
+                "credit_line": "<p>ACMI Collection<br />\nDonated by William Kerr on behalf of Edwin Schefferie</p>",
+                "headline_credit": "Germany, c. 1900",
+                "thumbnail": {
+                    "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/E000290_MLS_Butterflies_1_Back.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=g2FkuuCZO3aidKYMK59pxHnrLKs%3D&Expires=1627009130",
+                    "has_video": false
+                },
+                "record_type": "group",
+                "type": "Film",
+                "is_on_display": true,
+                "last_on_display_place": "ACMI: Gallery 1",
+                "last_on_display_date": "2021-08-12",
+                "is_context_indigenous": false,
+                "material_description": "",
+                "unpublished": false,
+                "first_production_date": null
+            },
+            "group_works": [],
+            "group_siblings": [
+                {
+                    "id": 99501,
+                    "acmi_id": "179024",
+                    "title": "Toy lantern slides",
+                    "title_annotation": "",
+                    "slug": "the-empire-magic-lantern-outfit-glass-slides-butterflies",
+                    "creator_credit": "The Empire Magic Lantern Outfit",
+                    "credit_line": "<p>ACMI Collection. Donated by William Kerr on behalf of Edwin Schefferle.</p>",
+                    "headline_credit": "Germany, c. 1900",
+                    "thumbnail": {
+                        "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/E000290_MLS_Butterflies_1_Back.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=g2FkuuCZO3aidKYMK59pxHnrLKs%3D&Expires=1627009130",
+                        "has_video": false
+                    },
+                    "record_type": "work",
+                    "type": "Object",
+                    "is_on_display": true,
+                    "last_on_display_place": "ACMI: Gallery 1",
+                    "last_on_display_date": "2021-08-12",
+                    "is_context_indigenous": false,
+                    "material_description": "glass slide, gum arabic tape",
+                    "unpublished": false,
+                    "first_production_date": null
+                },
+                {
+                    "id": 99683,
+                    "acmi_id": "180154",
+                    "title": "Toy lantern slides",
+                    "title_annotation": "Facsimile",
+                    "slug": "facsimile-the-empire-magic-lantern-outfit-glass-slide",
+                    "creator_credit": "The Empire Magic Lantern Outfit",
+                    "credit_line": "<p>ACMI Collection. Donated by William Kerr on behalf of Edwin Schefferle.</p>",
+                    "headline_credit": "Germany, c. 1900",
+                    "thumbnail": null,
+                    "record_type": "work",
+                    "type": "Object",
+                    "is_on_display": true,
+                    "last_on_display_place": "ACMI: Gallery 1",
+                    "last_on_display_date": "2021-08-12",
+                    "is_context_indigenous": false,
+                    "material_description": "hand-coloured photographic print on glass",
+                    "unpublished": false,
+                    "first_production_date": null
+                },
+                {
+                    "id": 99503,
+                    "acmi_id": "179026",
+                    "title": "Toy lantern slides",
+                    "title_annotation": "",
+                    "slug": "the-empire-magic-lantern-outfit-glass-slides-reptiles",
+                    "creator_credit": "The Empire Magic Lantern Outfit",
+                    "credit_line": "<p>ACMI Collection. Donated by William Kerr on behalf of Edwin Schefferle.</p>",
+                    "headline_credit": "Germany, c. 1900",
+                    "thumbnail": {
+                        "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/E000292_EML_GlassSlide_Reptiles_1_Back.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=SB6QRxCPZjsjZkiX31wYe3H8h5w%3D&Expires=1627009130",
+                        "has_video": false
+                    },
+                    "record_type": "work",
+                    "type": "Object",
+                    "is_on_display": true,
+                    "last_on_display_place": "ACMI: Gallery 1",
+                    "last_on_display_date": "2021-08-12",
+                    "is_context_indigenous": false,
+                    "material_description": "glass slide, gum arabic tape",
+                    "unpublished": false,
+                    "first_production_date": null
+                },
+                {
+                    "id": 99502,
+                    "acmi_id": "179025",
+                    "title": "Toy lantern slides",
+                    "title_annotation": "",
+                    "slug": "the-empire-magic-lantern-outfit-glass-slides-sea-life",
+                    "creator_credit": "The Empire Magic Lantern Outfit",
+                    "credit_line": "<p>ACMI Collection. Donated by William Kerr on behalf of Edwin Schefferle.</p>",
+                    "headline_credit": "Germany, c. 1900",
+                    "thumbnail": {
+                        "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/E000291_EML_GlassSlides_SeaLife_1_Back.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=WW6UkzGyzPIvYG0woXJCa4HzlEc%3D&Expires=1627009130",
+                        "has_video": false
+                    },
+                    "record_type": "work",
+                    "type": "Object",
+                    "is_on_display": true,
+                    "last_on_display_place": "ACMI: Gallery 1",
+                    "last_on_display_date": "2021-08-12",
+                    "is_context_indigenous": false,
+                    "material_description": "glass slide, gum arabic tape",
+                    "unpublished": false,
+                    "first_production_date": null
+                },
+                {
+                    "id": 99500,
+                    "acmi_id": "179023",
+                    "title": "Toy lantern slides",
+                    "title_annotation": "",
+                    "slug": "the-empire-magic-lantern-outfit-glass-slides-birds",
+                    "creator_credit": "The Empire Magic Lantern Outfit",
+                    "credit_line": "<p>ACMI Collection. Donated by William Kerr on behalf of Edwin Schefferle.</p>",
+                    "headline_credit": "Germany, c. 1900",
+                    "thumbnail": {
+                        "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/E000289_EML_GlassSlides_Birds_Group.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=fDYpB5XdCQCJiqWPvFso6i0PBqo%3D&Expires=1627009130",
+                        "has_video": false
+                    },
+                    "record_type": "work",
+                    "type": "Object",
+                    "is_on_display": true,
+                    "last_on_display_place": "ACMI: Gallery 1",
+                    "last_on_display_date": "2021-08-12",
+                    "is_context_indigenous": false,
+                    "material_description": "glass slide, gum arabic tape",
+                    "unpublished": false,
+                    "first_production_date": null
+                },
+                {
+                    "id": 99684,
+                    "acmi_id": "180155",
+                    "title": "Toy lantern slides",
+                    "title_annotation": "Facsimile",
+                    "slug": "facsimile-the-empire-magic-lantern-outfit-glass-slide-detail",
+                    "creator_credit": "The Empire Magic Lantern Outfit",
+                    "credit_line": "<p>ACMI Collection. Donated by William Kerr on behalf of Edwin Schefferle.</p>",
+                    "headline_credit": "Germany, c. 1900",
+                    "thumbnail": {
+                        "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/FC180155_FACSIMILE_EMLglassSlide.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=l1syWCMvrX64D%2FMAnqEAwXuLAnc%3D&Expires=1627009130",
+                        "has_video": false
+                    },
+                    "record_type": "work",
+                    "type": "Object",
+                    "is_on_display": true,
+                    "last_on_display_place": "ACMI: Gallery 1",
+                    "last_on_display_date": "2021-08-12",
+                    "is_context_indigenous": false,
+                    "material_description": "hand-coloured photographic print on glass",
+                    "unpublished": false,
+                    "first_production_date": null
+                },
+                {
+                    "id": 99685,
+                    "acmi_id": "180156",
+                    "title": "Toy lantern slides",
+                    "title_annotation": "Facsimile",
+                    "slug": "facsimile-the-empire-magic-lantern-outfit-glass-slide",
+                    "creator_credit": "The Empire Magic Lantern Outfit",
+                    "credit_line": "<p>ACMI Collection. Donated by William Kerr on behalf of Edwin Schefferle.</p>",
+                    "headline_credit": "Germany, c. 1900",
+                    "thumbnail": null,
+                    "record_type": "work",
+                    "type": "Object",
+                    "is_on_display": true,
+                    "last_on_display_place": "ACMI: Gallery 1",
+                    "last_on_display_date": "2021-08-12",
+                    "is_context_indigenous": false,
+                    "material_description": "hand-coloured photographic print on glass",
+                    "unpublished": false,
+                    "first_production_date": null
+                }
+            ],
+            "source": {
+                "name": "Vernon",
+                "slug": "vernon"
+            },
+            "source_identifier": "180157",
+            "production_places": [
+                {
+                    "id": 18,
+                    "name": "Germany",
+                    "slug": "germany"
+                }
+            ],
+            "production_dates": [
+                {
+                    "date": "c. 1900",
+                    "notes": "",
+                    "to_year": "c. 1900"
+                }
+            ],
+            "labels": [
+                39181
+            ]
+        }
+    ]
+}

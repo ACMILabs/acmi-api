@@ -1,0 +1,318 @@
+{
+    "id": 99701,
+    "acmi_id": "180174",
+    "title": "Photo of Stella Miles Franklin",
+    "title_annotation": "Facsimile",
+    "slug": "facsimile-miles-franklin-author-portrait",
+    "creator_credit": "Rozelle Studio",
+    "credit_line": "<p>Courtesy the State Library of New South Wales</p>",
+    "headline_credit": "Australia, 1901",
+    "thumbnail": {
+        "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/FC180174_FC068.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=ZIK7HBxxY86MbrE6WksL84hc4Hw%3D&Expires=1627009134",
+        "has_video": false
+    },
+    "record_type": "work",
+    "type": "Object",
+    "is_on_display": true,
+    "last_on_display_place": "ACMI: Gallery 1",
+    "last_on_display_date": "2022-02-10",
+    "is_context_indigenous": false,
+    "material_description": "Digital print on paper",
+    "unpublished": false,
+    "first_production_date": "1901-01-01T09:40:00+09:40",
+    "brief_description": "<p>My Brilliant Career, adapted from Stella Miles Franklin&#8217;s 1901 novel of the same name, was Gillian Armstrong&#8217;s first feature film and a global success, gaining Academy Award and Palme d&#8217;Or nominations.</p>",
+    "constellations_primary": [],
+    "constellations_other": [],
+    "recommendations": [],
+    "title_for_label": "<p>Stella Miles Franklin</p>",
+    "creator_credit_for_label": "<p>Rozelle Studio</p>",
+    "headline_credit_for_label": "<p>Australia, 1901</p>",
+    "description": "",
+    "description_for_label": [],
+    "credit_line_for_label": "<p>Courtesy the State Library of New South Wales</p>",
+    "details": [
+        {
+            "label": "Curatorial section",
+            "display_values": [
+                "The Story of the Moving Image&nbsp;→ Moving Australia&nbsp;→ 02. New Wave&nbsp;→ MA-02-C01"
+            ]
+        },
+        {
+            "label": "Measurements",
+            "display_values": [
+                "297 x 190mm"
+            ]
+        },
+        {
+            "label": "Materials",
+            "display_values": [
+                "Digital print on paper"
+            ]
+        }
+    ],
+    "stats": {
+        "tap_count": 0
+    },
+    "links": [],
+    "creators_primary": [
+        {
+            "id": 1134477,
+            "name": "Rozelle Studio",
+            "creator_id": 82114,
+            "role": "creator",
+            "role_id": 968,
+            "is_primary": true
+        }
+    ],
+    "creators_other": [],
+    "video_links": [],
+    "media_note": null,
+    "images": [
+        {
+            "id": 12137,
+            "image_file": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/FC180174_FC068.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=dINTa7Gkv7V5ZJO%2FwJJ1lwlvByg%3D&Expires=1627009134",
+            "image_file_thumbnail": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/FC180174_FC068.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=ZIK7HBxxY86MbrE6WksL84hc4Hw%3D&Expires=1627009134",
+            "image_file_xs": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/FC180174_FC068.jpg.480x480_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=H73RJk8Mdyvch5t87bbL4CxH60o%3D&Expires=1627009134",
+            "image_file_s": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/FC180174_FC068.jpg.960x960_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=KeA%2BViqJsd5asXro8rdeMK4H6rU%3D&Expires=1627009134",
+            "image_file_m": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/FC180174_FC068.jpg.1920x1920_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=pIbjIvcxA6lts5UjJHQ3YRZbqCA%3D&Expires=1627009134",
+            "image_file_l": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/FC180174_FC068.jpg.3840x3840_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=wPAcX%2B6jHCdxKY%2FIgD0EIra%2Fkzw%3D&Expires=1627009134",
+            "caption": "",
+            "credit_line": "",
+            "alt_text": "",
+            "width": 659,
+            "height": 1020,
+            "access_level": "View anywhere"
+        }
+    ],
+    "videos": [],
+    "holdings": [],
+    "part_of": null,
+    "parts": [],
+    "part_siblings": [],
+    "group": {
+        "id": 107694,
+        "acmi_id": "182858",
+        "title": "My Brilliant Career",
+        "title_annotation": "",
+        "slug": "my-brilliant-career",
+        "creator_credit": "Gillian Armstrong",
+        "credit_line": "<p>Courtesy Margaret Fink Films </p>\n<p>Held in the collection of the National Film and Sound Archive of Australia</p>",
+        "headline_credit": "Australia, 1979",
+        "thumbnail": {
+            "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/FC180177_FC071.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=5ik%2BZRYrpy%2FRPZIk%2FWJ1SxZYFPI%3D&Expires=1627009134",
+            "has_video": false
+        },
+        "record_type": "group",
+        "type": "Film",
+        "is_on_display": true,
+        "last_on_display_place": "ACMI: Gallery 1",
+        "last_on_display_date": "2022-02-10",
+        "is_context_indigenous": false,
+        "material_description": "",
+        "unpublished": false,
+        "first_production_date": "1979-01-01T11:00:00+11:00"
+    },
+    "group_works": [],
+    "group_siblings": [
+        {
+            "id": 99704,
+            "acmi_id": "180177",
+            "title": "My Brilliant Career film poster",
+            "title_annotation": "Facsimile",
+            "slug": "facsimile-film-poster-my-brilliant-career-one-sheeter",
+            "creator_credit": "",
+            "credit_line": "<p>Courtesy Margaret Fink Films </p>\n<p>Held in the collection of the National Film and Sound Archive of Australia</p>",
+            "headline_credit": "Australia, c. 1979",
+            "thumbnail": {
+                "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/FC180177_FC071.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=5ik%2BZRYrpy%2FRPZIk%2FWJ1SxZYFPI%3D&Expires=1627009134",
+                "has_video": false
+            },
+            "record_type": "work",
+            "type": "Object",
+            "is_on_display": true,
+            "last_on_display_place": "ACMI: Gallery 1",
+            "last_on_display_date": "2022-02-10",
+            "is_context_indigenous": false,
+            "material_description": "Digital print on paper",
+            "unpublished": false,
+            "first_production_date": null
+        },
+        {
+            "id": 113816,
+            "acmi_id": "183599",
+            "title": "Continuity photos",
+            "title_annotation": "",
+            "slug": "continuity-photos",
+            "creator_credit": "",
+            "credit_line": "<p>Courtesy Gillian Armstrong</p>",
+            "headline_credit": "",
+            "thumbnail": null,
+            "record_type": "group",
+            "type": "Film",
+            "is_on_display": true,
+            "last_on_display_place": "ACMI: Gallery 1",
+            "last_on_display_date": "2022-02-10",
+            "is_context_indigenous": false,
+            "material_description": "",
+            "unpublished": false,
+            "first_production_date": null
+        },
+        {
+            "id": 99474,
+            "acmi_id": "177007",
+            "title": "My Brilliant Career paperback",
+            "title_annotation": "",
+            "slug": "paperback-book-my-brilliant-career",
+            "creator_credit": "Miles Franklin",
+            "credit_line": "",
+            "headline_credit": "Australia, 1901",
+            "thumbnail": {
+                "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/P177007_MyBrilliantCareerBook_34.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=r0krxanwq4JuJ4zYy1uCZQfFgxs%3D&Expires=1627009134",
+                "has_video": false
+            },
+            "record_type": "work",
+            "type": "Object",
+            "is_on_display": true,
+            "last_on_display_place": "ACMI: Gallery 1",
+            "last_on_display_date": "2022-02-10",
+            "is_context_indigenous": false,
+            "material_description": "paperback book",
+            "unpublished": false,
+            "first_production_date": "1901-01-01T09:40:00+09:40"
+        },
+        {
+            "id": 113823,
+            "acmi_id": "183600",
+            "title": "Production stills",
+            "title_annotation": "Facsimile",
+            "slug": "production-stills",
+            "creator_credit": "",
+            "credit_line": "<p>Courtesy the National Film and Sound Archive of Australia</p>",
+            "headline_credit": "",
+            "thumbnail": {
+                "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/FC180175_FC069.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=jZeW%2FR%2FpVaLo8E5gpJzSYGKvFXs%3D&Expires=1627009134",
+                "has_video": false
+            },
+            "record_type": "group",
+            "type": "Film",
+            "is_on_display": true,
+            "last_on_display_place": "ACMI: Gallery 1",
+            "last_on_display_date": "2022-02-10",
+            "is_context_indigenous": false,
+            "material_description": "",
+            "unpublished": false,
+            "first_production_date": null
+        },
+        {
+            "id": 99699,
+            "acmi_id": "180171",
+            "title": "My Brilliant Career Czechoslovakian release poster",
+            "title_annotation": "Facsimile",
+            "slug": "facsimile-film-poster-my-brilliant-career-czechoslovakia",
+            "creator_credit": "",
+            "credit_line": "<p>Courtesy the National Film and Sound Archive of Australia</p>",
+            "headline_credit": "c. 1979",
+            "thumbnail": {
+                "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/FC180171_FC065.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=XrYuv4FwO6CrmIiAE2E96X51l8Y%3D&Expires=1627009134",
+                "has_video": false
+            },
+            "record_type": "work",
+            "type": "Object",
+            "is_on_display": true,
+            "last_on_display_place": "ACMI: Gallery 1",
+            "last_on_display_date": "2022-02-10",
+            "is_context_indigenous": false,
+            "material_description": "Digital print on paper",
+            "unpublished": false,
+            "first_production_date": null
+        },
+        {
+            "id": 99700,
+            "acmi_id": "180172",
+            "title": "My Brilliant Career Japanese film program",
+            "title_annotation": "Facsimile",
+            "slug": "facsimile-film-program-pamphlet-my-brilliant-career-japan",
+            "creator_credit": "",
+            "credit_line": "",
+            "headline_credit": "c. 1979",
+            "thumbnail": null,
+            "record_type": "work",
+            "type": "Object",
+            "is_on_display": true,
+            "last_on_display_place": "ACMI: Gallery 1",
+            "last_on_display_date": "2022-02-10",
+            "is_context_indigenous": false,
+            "material_description": "Digital print on paper",
+            "unpublished": false,
+            "first_production_date": null
+        },
+        {
+            "id": 108286,
+            "acmi_id": "180173",
+            "title": "My Brilliant Career screenplay by Eleanor Witcombe",
+            "title_annotation": "Facsimile",
+            "slug": "facsimile-screenplay-my-brilliant-career-by-eleanor-witcombe",
+            "creator_credit": "",
+            "credit_line": "<p>Courtesy Gillian Armstrong</p>",
+            "headline_credit": "Australia",
+            "thumbnail": {
+                "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/FC180173_FACSIMILEScreenplayMyBrilliantCareer_Close.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=Wqhy4DUqrEH4ZmucFzzes8yxzuY%3D&Expires=1627009134",
+                "has_video": false
+            },
+            "record_type": "work",
+            "type": "Object",
+            "is_on_display": true,
+            "last_on_display_place": "ACMI: Gallery 1",
+            "last_on_display_date": "2022-02-10",
+            "is_context_indigenous": false,
+            "material_description": "Digital print on paper in springback binder",
+            "unpublished": false,
+            "first_production_date": null
+        },
+        {
+            "id": 113824,
+            "acmi_id": "183601",
+            "title": "Publicity stills",
+            "title_annotation": "Facsimile",
+            "slug": "publicity-stills",
+            "creator_credit": "",
+            "credit_line": "<p>ACMI Collection</p>",
+            "headline_credit": "",
+            "thumbnail": {
+                "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/FC180180_FC074.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=ciGtwRRz34%2Fjjsw9sDyS%2FGNK6yM%3D&Expires=1627009134",
+                "has_video": false
+            },
+            "record_type": "group",
+            "type": "Film",
+            "is_on_display": true,
+            "last_on_display_place": "ACMI: Gallery 1",
+            "last_on_display_date": "2022-02-10",
+            "is_context_indigenous": false,
+            "material_description": "",
+            "unpublished": false,
+            "first_production_date": null
+        }
+    ],
+    "source": {
+        "name": "Vernon",
+        "slug": "vernon"
+    },
+    "source_identifier": "180174",
+    "production_places": [
+        {
+            "id": 3,
+            "name": "Australia",
+            "slug": "australia"
+        }
+    ],
+    "production_dates": [
+        {
+            "date": "1901",
+            "notes": "",
+            "to_year": "1901"
+        }
+    ],
+    "labels": [
+        39196
+    ]
+}

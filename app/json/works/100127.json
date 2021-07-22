@@ -1,0 +1,88 @@
+{
+    "id": 100127,
+    "acmi_id": "179434",
+    "title": "Moviscop 16mm Viewer with Rewinders",
+    "title_annotation": "",
+    "slug": "moviscop-16mm-viewer-with-rewinders",
+    "creator_credit": "",
+    "credit_line": "",
+    "headline_credit": "Stuttgart/Germany, 1950s",
+    "thumbnail": null,
+    "record_type": "work",
+    "type": "Object",
+    "is_on_display": false,
+    "last_on_display_place": null,
+    "last_on_display_date": null,
+    "is_context_indigenous": false,
+    "material_description": "",
+    "unpublished": false,
+    "first_production_date": null,
+    "brief_description": "<p>Moviscop 16mm viewer with rewinders</p>",
+    "constellations_primary": [],
+    "constellations_other": [],
+    "recommendations": [],
+    "title_for_label": "<p>Moviscop 16mm Viewer with Rewinders</p>",
+    "creator_credit_for_label": "",
+    "headline_credit_for_label": "<p>Stuttgart/Germany, 1950s</p>",
+    "description": "<p>Moviscop 16mm viewer with rewinders</p>",
+    "description_for_label": [
+        "<p>Moviscop 16mm viewer with rewinders</p>"
+    ],
+    "credit_line_for_label": "",
+    "details": [
+        {
+            "label": "Measurements",
+            "display_values": [
+                "4.6kg"
+            ]
+        }
+    ],
+    "stats": {
+        "tap_count": 0
+    },
+    "links": [],
+    "creators_primary": [],
+    "creators_other": [
+        {
+            "id": 1134423,
+            "name": "Zeiss Ikon",
+            "creator_id": 82101,
+            "role": "",
+            "role_id": 604,
+            "is_primary": false
+        }
+    ],
+    "video_links": [],
+    "media_note": "Sorry, we don't have images or video for this item.",
+    "images": [],
+    "videos": [],
+    "holdings": [],
+    "part_of": null,
+    "parts": [],
+    "part_siblings": [],
+    "group": null,
+    "group_works": [],
+    "group_siblings": [],
+    "source": {
+        "name": "Vernon",
+        "slug": "vernon"
+    },
+    "source_identifier": "179434",
+    "production_places": [
+        {
+            "id": 267,
+            "name": "Stuttgart/Germany",
+            "slug": "stuttgartgermany"
+        }
+    ],
+    "production_dates": [
+        {
+            "date": "1950s",
+            "notes": "",
+            "to_year": "1950s"
+        }
+    ],
+    "labels": [
+        39623
+    ]
+}

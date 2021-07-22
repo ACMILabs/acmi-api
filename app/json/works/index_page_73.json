@@ -1,0 +1,1781 @@
+{
+    "count": 922,
+    "next": "https://api.acmi.net.au/works/?page=74",
+    "previous": "https://api.acmi.net.au/works/?page=72",
+    "results": [
+        {
+            "id": 108266,
+            "acmi_id": "10328",
+            "title": "Public Imaging compilation. No. 3",
+            "title_annotation": "",
+            "slug": "public-imaging-compilation-no-3",
+            "creator_credit": "",
+            "credit_line": "",
+            "headline_credit": "1998-2000",
+            "thumbnail": null,
+            "record_type": "group",
+            "type": "Film",
+            "is_on_display": false,
+            "last_on_display_place": null,
+            "last_on_display_date": null,
+            "is_context_indigenous": false,
+            "material_description": "",
+            "unpublished": true,
+            "first_production_date": null,
+            "brief_description": "",
+            "constellations_primary": [],
+            "constellations_other": [],
+            "recommendations": [],
+            "title_for_label": "<p>Public Imaging compilation. No. 3</p>",
+            "creator_credit_for_label": "",
+            "headline_credit_for_label": "<p>1998-2000</p>",
+            "description": "",
+            "description_for_label": [],
+            "credit_line_for_label": "",
+            "details": [],
+            "stats": {
+                "tap_count": 0
+            },
+            "links": [],
+            "creators_primary": [],
+            "creators_other": [],
+            "video_links": [],
+            "media_note": "Sorry, we don't have images or video for this item.",
+            "images": [],
+            "videos": [],
+            "holdings": [
+                {
+                    "name": "DVD ROM; Copy",
+                    "identifier": "",
+                    "description": ""
+                }
+            ],
+            "part_of": null,
+            "parts": [],
+            "part_siblings": [],
+            "group": null,
+            "group_works": [
+                {
+                    "id": 108549,
+                    "acmi_id": "1395",
+                    "title": "Dust (On Wheels )",
+                    "title_annotation": "",
+                    "slug": "dust-on-wheels",
+                    "creator_credit": "Teresa-Jayne Hanlon and Ivan Sen",
+                    "credit_line": "",
+                    "headline_credit": "Australia, 2000",
+                    "thumbnail": null,
+                    "record_type": "work",
+                    "type": "Film",
+                    "is_on_display": false,
+                    "last_on_display_place": "ACMI Screen Lounge",
+                    "last_on_display_date": "2004-12-31",
+                    "is_context_indigenous": false,
+                    "material_description": "",
+                    "unpublished": false,
+                    "first_production_date": "2000-01-01T11:00:00+11:00"
+                },
+                {
+                    "id": 108265,
+                    "acmi_id": "529",
+                    "title": "Human remains",
+                    "title_annotation": "",
+                    "slug": "human-remains",
+                    "creator_credit": "Jay Rosenblatt",
+                    "credit_line": "",
+                    "headline_credit": "United States, 1998",
+                    "thumbnail": null,
+                    "record_type": "work",
+                    "type": "Film",
+                    "is_on_display": false,
+                    "last_on_display_place": "ACMI Screen Lounge",
+                    "last_on_display_date": "2004-12-31",
+                    "is_context_indigenous": false,
+                    "material_description": "",
+                    "unpublished": false,
+                    "first_production_date": "1998-01-01T11:00:00+11:00"
+                }
+            ],
+            "group_siblings": [],
+            "source": {
+                "name": "Vernon",
+                "slug": "vernon"
+            },
+            "source_identifier": "10328",
+            "production_places": [],
+            "production_dates": [
+                {
+                    "date": "1998-2000",
+                    "notes": "",
+                    "to_year": "1998-2000"
+                }
+            ],
+            "labels": [
+                47759
+            ]
+        },
+        {
+            "id": 108549,
+            "acmi_id": "1395",
+            "title": "Dust (On Wheels )",
+            "title_annotation": "",
+            "slug": "dust-on-wheels",
+            "creator_credit": "Teresa-Jayne Hanlon and Ivan Sen",
+            "credit_line": "",
+            "headline_credit": "Australia, 2000",
+            "thumbnail": null,
+            "record_type": "work",
+            "type": "Film",
+            "is_on_display": false,
+            "last_on_display_place": "ACMI Screen Lounge",
+            "last_on_display_date": "2004-12-31",
+            "is_context_indigenous": false,
+            "material_description": "",
+            "unpublished": false,
+            "first_production_date": "2000-01-01T11:00:00+11:00",
+            "brief_description": "<p>Two groups of teenagers - a white brother and sister, and two Aboriginal mates - come together to find work on a dusty cotton field in the outback. What they discover hidden in the ground, is history itself. Switching effortlessly from the naturalism of the relationships between the youth to the grandeur of the mythic power and terror of the resolution, this short film is an exemplary example of contemporary Australian cinema.<br />\nMick is young, white and angry at the world. His sister Amy is trying to keep it all together, not an easy task when Mick seems determined to screw things up. Leroy is afraid his future holds nothing beyond this life in the mirage of a dusty field. His best mate Vance works alongside him, more interested in Amy than chipping weeds. Ruby, Leroy&#8217;s mother is the only one who notices when the uneasy sky forces the elements to merge. As a violent dust storm awakes, racial differences must be put aside as the five shelter in Leroy&#8217;s car. Australia&#8217;s history, black and white, is revealed as the storm unearths the secrets that lie beneath the surface of the land.</p>",
+            "constellations_primary": [],
+            "constellations_other": [],
+            "recommendations": [],
+            "title_for_label": "<p>Dust (On Wheels )</p>",
+            "creator_credit_for_label": "<p>Teresa-Jayne Hanlon and Ivan Sen</p>",
+            "headline_credit_for_label": "<p>Australia, 2000</p>",
+            "description": "<p>Two groups of teenagers - a white brother and sister, and two Aboriginal mates - come together to find work on a dusty cotton field in the outback. What they discover hidden in the ground, is history itself. Switching effortlessly from the naturalism of the relationships between the youth to the grandeur of the mythic power and terror of the resolution, this short film is an exemplary example of contemporary Australian cinema.<br />\nMick is young, white and angry at the world. His sister Amy is trying to keep it all together, not an easy task when Mick seems determined to screw things up. Leroy is afraid his future holds nothing beyond this life in the mirage of a dusty field. His best mate Vance works alongside him, more interested in Amy than chipping weeds. Ruby, Leroy&#8217;s mother is the only one who notices when the uneasy sky forces the elements to merge. As a violent dust storm awakes, racial differences must be put aside as the five shelter in Leroy&#8217;s car. Australia&#8217;s history, black and white, is revealed as the storm unearths the secrets that lie beneath the surface of the land.</p>",
+            "description_for_label": [
+                "<p>Two groups of teenagers - a white brother and sister, and two Aboriginal mates - come together to find work on a dusty cotton field in the outback. What they discover hidden in the ground, is history itself. Switching effortlessly from the naturalism of the relationships between the youth to the grandeur of the mythic power and terror of the resolution, this short film is an exemplary example of contemporary Australian cinema.<br />\nMick is young, white and angry at the world. His sister Amy is trying to keep it all together, not an easy task when Mick seems determined to screw things up. Leroy is afraid his future holds nothing beyond this life in the mirage of a dusty field. His best mate Vance works alongside him, more interested in Amy than chipping weeds. Ruby, Leroy&#8217;s mother is the only one who notices when the uneasy sky forces the elements to merge. As a violent dust storm awakes, racial differences must be put aside as the five shelter in Leroy&#8217;s car. Australia&#8217;s history, black and white, is revealed as the storm unearths the secrets that lie beneath the surface of the land.</p>"
+            ],
+            "credit_line_for_label": "",
+            "details": [
+                {
+                    "label": "Language",
+                    "display_values": [
+                        "English"
+                    ]
+                },
+                {
+                    "label": "Audience classification",
+                    "display_values": [
+                        "unclassified"
+                    ]
+                },
+                {
+                    "label": "Subject categories",
+                    "display_values": [
+                        "Anthropology, Ethnology, Exploration & Travel&nbsp;→ Youth - Australia",
+                        "Economics, Philosophy, Politics, Religion & Sociology&nbsp;→ Youth",
+                        "Family, Gender Identity, Relationships & Sexuality&nbsp;→ Youth",
+                        "Food, Health, Lifestyle, Medicine, Psychology & Safety&nbsp;→ Youth",
+                        "Short films",
+                        "Short films&nbsp;→ Short films - Australia"
+                    ]
+                }
+            ],
+            "stats": {
+                "tap_count": 0
+            },
+            "links": [],
+            "creators_primary": [
+                {
+                    "id": 1133600,
+                    "name": "Teresa-Jayne Hanlon",
+                    "creator_id": 8349,
+                    "role": "producer",
+                    "role_id": 960,
+                    "is_primary": true
+                },
+                {
+                    "id": 1133599,
+                    "name": "Ivan Sen",
+                    "creator_id": 71667,
+                    "role": "creator",
+                    "role_id": 968,
+                    "is_primary": true
+                },
+                {
+                    "id": 1133598,
+                    "name": "Ivan Sen",
+                    "creator_id": 71667,
+                    "role": "director",
+                    "role_id": 938,
+                    "is_primary": true
+                }
+            ],
+            "creators_other": [],
+            "video_links": [],
+            "media_note": "Sorry, we don't have images or video for this item.",
+            "images": [],
+            "videos": [],
+            "holdings": [
+                {
+                    "name": "Digital Betacam [PAL]; Master",
+                    "identifier": "",
+                    "description": ""
+                },
+                {
+                    "name": "VHS [PAL]; Reference - timecoded",
+                    "identifier": "",
+                    "description": ""
+                },
+                {
+                    "name": "DVD [PAL]; Copy",
+                    "identifier": "",
+                    "description": ""
+                },
+                {
+                    "name": "Digital Betacam [PAL]; Sub-master",
+                    "identifier": "",
+                    "description": ""
+                },
+                {
+                    "name": "DVD ROM; Copy",
+                    "identifier": "",
+                    "description": ""
+                }
+            ],
+            "part_of": null,
+            "parts": [],
+            "part_siblings": [],
+            "group": {
+                "id": 108266,
+                "acmi_id": "10328",
+                "title": "Public Imaging compilation. No. 3",
+                "title_annotation": "",
+                "slug": "public-imaging-compilation-no-3",
+                "creator_credit": "",
+                "credit_line": "",
+                "headline_credit": "1998-2000",
+                "thumbnail": null,
+                "record_type": "group",
+                "type": "Film",
+                "is_on_display": false,
+                "last_on_display_place": null,
+                "last_on_display_date": null,
+                "is_context_indigenous": false,
+                "material_description": "",
+                "unpublished": true,
+                "first_production_date": null
+            },
+            "group_works": [],
+            "group_siblings": [
+                {
+                    "id": 108265,
+                    "acmi_id": "529",
+                    "title": "Human remains",
+                    "title_annotation": "",
+                    "slug": "human-remains",
+                    "creator_credit": "Jay Rosenblatt",
+                    "credit_line": "",
+                    "headline_credit": "United States, 1998",
+                    "thumbnail": null,
+                    "record_type": "work",
+                    "type": "Film",
+                    "is_on_display": false,
+                    "last_on_display_place": "ACMI Screen Lounge",
+                    "last_on_display_date": "2004-12-31",
+                    "is_context_indigenous": false,
+                    "material_description": "",
+                    "unpublished": false,
+                    "first_production_date": "1998-01-01T11:00:00+11:00"
+                }
+            ],
+            "source": {
+                "name": "Vernon",
+                "slug": "vernon"
+            },
+            "source_identifier": "1395",
+            "production_places": [
+                {
+                    "id": 3,
+                    "name": "Australia",
+                    "slug": "australia"
+                }
+            ],
+            "production_dates": [
+                {
+                    "date": "2000",
+                    "notes": "",
+                    "to_year": "2000"
+                }
+            ],
+            "labels": [
+                48042
+            ]
+        },
+        {
+            "id": 108265,
+            "acmi_id": "529",
+            "title": "Human remains",
+            "title_annotation": "",
+            "slug": "human-remains",
+            "creator_credit": "Jay Rosenblatt",
+            "credit_line": "",
+            "headline_credit": "United States, 1998",
+            "thumbnail": null,
+            "record_type": "work",
+            "type": "Film",
+            "is_on_display": false,
+            "last_on_display_place": "ACMI Screen Lounge",
+            "last_on_display_date": "2004-12-31",
+            "is_context_indigenous": false,
+            "material_description": "",
+            "unpublished": false,
+            "first_production_date": "1998-01-01T11:00:00+11:00",
+            "brief_description": "<p>Human Remains reviews the eccentricities of the 20th century&#8217;s most reviled dictators (Hitler, Stalin, Mao, Franco, Mussolini).</p>",
+            "constellations_primary": [],
+            "constellations_other": [],
+            "recommendations": [],
+            "title_for_label": "<p>Human remains</p>",
+            "creator_credit_for_label": "<p>Jay Rosenblatt</p>",
+            "headline_credit_for_label": "<p>United States, 1998</p>",
+            "description": "<p>Human Remains reviews the eccentricities of the 20th century&#8217;s most reviled dictators (Hitler, Stalin, Mao, Franco, Mussolini).</p>",
+            "description_for_label": [
+                "<p>Human Remains reviews the eccentricities of the 20th century&#8217;s most reviled dictators (Hitler, Stalin, Mao, Franco, Mussolini).</p>"
+            ],
+            "credit_line_for_label": "",
+            "details": [
+                {
+                    "label": "Duration",
+                    "display_values": [
+                        "00:30:00:00"
+                    ]
+                },
+                {
+                    "label": "Language",
+                    "display_values": [
+                        "English"
+                    ]
+                },
+                {
+                    "label": "Subject categories",
+                    "display_values": [
+                        "Armed Forces, Military, War & Weapons&nbsp;→ Hitler, Adolf, 1889-1945",
+                        "History&nbsp;→ Hitler, Adolf, 1889-1945",
+                        "History&nbsp;→ Mao, Tse-tung, 1893-1976",
+                        "History&nbsp;→ Mussolini, Benito, 1883-1945",
+                        "History&nbsp;→ Stalin, Joseph, 1879-1953",
+                        "People&nbsp;→ Hitler, Adolf, 1889-1945",
+                        "People&nbsp;→ Mao, Tse-tung, 1893-1976",
+                        "People&nbsp;→ Mussolini, Benito, 1883-1945",
+                        "People&nbsp;→ Stalin, Joseph, 1879-1953",
+                        "Short films",
+                        "Short films&nbsp;→ Short films - United States"
+                    ]
+                },
+                {
+                    "label": "Sound/audio",
+                    "display_values": [
+                        "Audio Format/Stereo"
+                    ]
+                },
+                {
+                    "label": "Colour",
+                    "display_values": [
+                        "Black and White"
+                    ]
+                }
+            ],
+            "stats": {
+                "tap_count": 0
+            },
+            "links": [],
+            "creators_primary": [
+                {
+                    "id": 1133597,
+                    "name": "Jay Rosenblatt",
+                    "creator_id": 7144,
+                    "role": "creator",
+                    "role_id": 968,
+                    "is_primary": true
+                }
+            ],
+            "creators_other": [],
+            "video_links": [],
+            "media_note": "Sorry, we don't have images or video for this item.",
+            "images": [],
+            "videos": [],
+            "holdings": [
+                {
+                    "name": "Digital Betacam [PAL]; Master",
+                    "identifier": "",
+                    "description": ""
+                },
+                {
+                    "name": "Digital Betacam [PAL]; Sub-master",
+                    "identifier": "",
+                    "description": ""
+                },
+                {
+                    "name": "VHS [PAL]; Reference - timecoded",
+                    "identifier": "",
+                    "description": ""
+                },
+                {
+                    "name": "DVD [PAL]; Copy",
+                    "identifier": "",
+                    "description": ""
+                },
+                {
+                    "name": "DVD [PAL]; Exhibition Copy",
+                    "identifier": "",
+                    "description": ""
+                },
+                {
+                    "name": "DVD ROM; Copy",
+                    "identifier": "",
+                    "description": ""
+                }
+            ],
+            "part_of": null,
+            "parts": [],
+            "part_siblings": [],
+            "group": {
+                "id": 108266,
+                "acmi_id": "10328",
+                "title": "Public Imaging compilation. No. 3",
+                "title_annotation": "",
+                "slug": "public-imaging-compilation-no-3",
+                "creator_credit": "",
+                "credit_line": "",
+                "headline_credit": "1998-2000",
+                "thumbnail": null,
+                "record_type": "group",
+                "type": "Film",
+                "is_on_display": false,
+                "last_on_display_place": null,
+                "last_on_display_date": null,
+                "is_context_indigenous": false,
+                "material_description": "",
+                "unpublished": true,
+                "first_production_date": null
+            },
+            "group_works": [],
+            "group_siblings": [
+                {
+                    "id": 108549,
+                    "acmi_id": "1395",
+                    "title": "Dust (On Wheels )",
+                    "title_annotation": "",
+                    "slug": "dust-on-wheels",
+                    "creator_credit": "Teresa-Jayne Hanlon and Ivan Sen",
+                    "credit_line": "",
+                    "headline_credit": "Australia, 2000",
+                    "thumbnail": null,
+                    "record_type": "work",
+                    "type": "Film",
+                    "is_on_display": false,
+                    "last_on_display_place": "ACMI Screen Lounge",
+                    "last_on_display_date": "2004-12-31",
+                    "is_context_indigenous": false,
+                    "material_description": "",
+                    "unpublished": false,
+                    "first_production_date": "2000-01-01T11:00:00+11:00"
+                }
+            ],
+            "source": {
+                "name": "Vernon",
+                "slug": "vernon"
+            },
+            "source_identifier": "529",
+            "production_places": [
+                {
+                    "id": 2,
+                    "name": "United States",
+                    "slug": "united-states"
+                }
+            ],
+            "production_dates": [
+                {
+                    "date": "1998",
+                    "notes": "",
+                    "to_year": "1998"
+                }
+            ],
+            "labels": [
+                47758
+            ]
+        },
+        {
+            "id": 114037,
+            "acmi_id": "10326",
+            "title": "Margie Medlin compilation",
+            "title_annotation": "",
+            "slug": "margie-medlin-compilation",
+            "creator_credit": "Margie Medlin",
+            "credit_line": "",
+            "headline_credit": "1993-1997",
+            "thumbnail": null,
+            "record_type": "group",
+            "type": "Film",
+            "is_on_display": false,
+            "last_on_display_place": null,
+            "last_on_display_date": null,
+            "is_context_indigenous": false,
+            "material_description": "",
+            "unpublished": true,
+            "first_production_date": null,
+            "brief_description": "",
+            "constellations_primary": [],
+            "constellations_other": [],
+            "recommendations": [],
+            "title_for_label": "<p>Margie Medlin compilation</p>",
+            "creator_credit_for_label": "<p>Margie Medlin</p>",
+            "headline_credit_for_label": "<p>1993-1997</p>",
+            "description": "",
+            "description_for_label": [],
+            "credit_line_for_label": "",
+            "details": [
+                {
+                    "label": "Duration",
+                    "display_values": [
+                        "00:20:17:00"
+                    ]
+                }
+            ],
+            "stats": {
+                "tap_count": 0
+            },
+            "links": [],
+            "creators_primary": [
+                {
+                    "id": 1133596,
+                    "name": "Margie Medlin",
+                    "creator_id": 6794,
+                    "role": "creator",
+                    "role_id": 968,
+                    "is_primary": true
+                }
+            ],
+            "creators_other": [],
+            "video_links": [],
+            "media_note": "Sorry, we don't have images or video for this item.",
+            "images": [],
+            "videos": [],
+            "holdings": [],
+            "part_of": null,
+            "parts": [],
+            "part_siblings": [],
+            "group": null,
+            "group_works": [
+                {
+                    "id": 114036,
+                    "acmi_id": "659",
+                    "title": "Behaviour",
+                    "title_annotation": "",
+                    "slug": "behaviour",
+                    "creator_credit": "Margie Medlin",
+                    "credit_line": "",
+                    "headline_credit": "Australia, 1993",
+                    "thumbnail": null,
+                    "record_type": "work",
+                    "type": "Film",
+                    "is_on_display": false,
+                    "last_on_display_place": null,
+                    "last_on_display_date": null,
+                    "is_context_indigenous": false,
+                    "material_description": "",
+                    "unpublished": false,
+                    "first_production_date": "1993-01-01T11:00:00+11:00"
+                }
+            ],
+            "group_siblings": [],
+            "source": {
+                "name": "Vernon",
+                "slug": "vernon"
+            },
+            "source_identifier": "10326",
+            "production_places": [],
+            "production_dates": [
+                {
+                    "date": "1993-1997",
+                    "notes": "",
+                    "to_year": "1993-1997"
+                }
+            ],
+            "labels": [
+                53529
+            ]
+        },
+        {
+            "id": 114036,
+            "acmi_id": "659",
+            "title": "Behaviour",
+            "title_annotation": "",
+            "slug": "behaviour",
+            "creator_credit": "Margie Medlin",
+            "credit_line": "",
+            "headline_credit": "Australia, 1993",
+            "thumbnail": null,
+            "record_type": "work",
+            "type": "Film",
+            "is_on_display": false,
+            "last_on_display_place": null,
+            "last_on_display_date": null,
+            "is_context_indigenous": false,
+            "material_description": "",
+            "unpublished": false,
+            "first_production_date": "1993-01-01T11:00:00+11:00",
+            "brief_description": "",
+            "constellations_primary": [],
+            "constellations_other": [],
+            "recommendations": [],
+            "title_for_label": "<p>Behaviour</p>",
+            "creator_credit_for_label": "<p>Margie Medlin</p>",
+            "headline_credit_for_label": "<p>Australia, 1993</p>",
+            "description": "",
+            "description_for_label": [],
+            "credit_line_for_label": "",
+            "details": [
+                {
+                    "label": "Duration",
+                    "display_values": [
+                        "00:11:46:00"
+                    ]
+                },
+                {
+                    "label": "Subject categories",
+                    "display_values": [
+                        "Short films",
+                        "Short films&nbsp;→ Short films - Australia"
+                    ]
+                },
+                {
+                    "label": "Sound/audio",
+                    "display_values": [
+                        "Sound"
+                    ]
+                },
+                {
+                    "label": "Colour",
+                    "display_values": [
+                        "Colour"
+                    ]
+                }
+            ],
+            "stats": {
+                "tap_count": 0
+            },
+            "links": [],
+            "creators_primary": [
+                {
+                    "id": 1133595,
+                    "name": "Margie Medlin",
+                    "creator_id": 6794,
+                    "role": "director",
+                    "role_id": 938,
+                    "is_primary": true
+                },
+                {
+                    "id": 1133594,
+                    "name": "Margie Medlin",
+                    "creator_id": 6794,
+                    "role": "creator",
+                    "role_id": 968,
+                    "is_primary": true
+                }
+            ],
+            "creators_other": [
+                {
+                    "id": 1133593,
+                    "name": "Shelley Lasica",
+                    "creator_id": 81878,
+                    "role": "cast",
+                    "role_id": 33,
+                    "is_primary": false
+                },
+                {
+                    "id": 1133592,
+                    "name": "Shelley Lasica",
+                    "creator_id": 81878,
+                    "role": "choreographer",
+                    "role_id": 951,
+                    "is_primary": false
+                }
+            ],
+            "video_links": [],
+            "media_note": "Sorry, we don't have images or video for this item.",
+            "images": [],
+            "videos": [],
+            "holdings": [
+                {
+                    "name": "SP Betacam; Master",
+                    "identifier": "",
+                    "description": ""
+                },
+                {
+                    "name": "Digital Betacam [PAL]; Sub-master",
+                    "identifier": "",
+                    "description": ""
+                },
+                {
+                    "name": "VHS [PAL]; Reference - timecoded",
+                    "identifier": "",
+                    "description": ""
+                },
+                {
+                    "name": "VHS [PAL]; Preview Copy",
+                    "identifier": "",
+                    "description": ""
+                }
+            ],
+            "part_of": null,
+            "parts": [],
+            "part_siblings": [],
+            "group": {
+                "id": 114037,
+                "acmi_id": "10326",
+                "title": "Margie Medlin compilation",
+                "title_annotation": "",
+                "slug": "margie-medlin-compilation",
+                "creator_credit": "Margie Medlin",
+                "credit_line": "",
+                "headline_credit": "1993-1997",
+                "thumbnail": null,
+                "record_type": "group",
+                "type": "Film",
+                "is_on_display": false,
+                "last_on_display_place": null,
+                "last_on_display_date": null,
+                "is_context_indigenous": false,
+                "material_description": "",
+                "unpublished": true,
+                "first_production_date": null
+            },
+            "group_works": [],
+            "group_siblings": [],
+            "source": {
+                "name": "Vernon",
+                "slug": "vernon"
+            },
+            "source_identifier": "659",
+            "production_places": [
+                {
+                    "id": 3,
+                    "name": "Australia",
+                    "slug": "australia"
+                }
+            ],
+            "production_dates": [
+                {
+                    "date": "1993",
+                    "notes": "",
+                    "to_year": "1993"
+                }
+            ],
+            "labels": [
+                53528
+            ]
+        },
+        {
+            "id": 113989,
+            "acmi_id": "10322",
+            "title": "Tal Farlow. Free Radicals (Len Lye)",
+            "title_annotation": "",
+            "slug": "tal-farlow-free-radicals-len-lye",
+            "creator_credit": "Len Lye",
+            "credit_line": "",
+            "headline_credit": "1979-1980",
+            "thumbnail": {
+                "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/lenlyetalfar003.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=fwufX932ml0213cuq%2BsR6AiazGs%3D&Expires=1627009443",
+                "has_video": false
+            },
+            "record_type": "group",
+            "type": "Film",
+            "is_on_display": false,
+            "last_on_display_place": null,
+            "last_on_display_date": null,
+            "is_context_indigenous": false,
+            "material_description": "",
+            "unpublished": true,
+            "first_production_date": null,
+            "brief_description": "",
+            "constellations_primary": [],
+            "constellations_other": [],
+            "recommendations": [],
+            "title_for_label": "<p>Tal Farlow. Free Radicals (Len Lye)</p>",
+            "creator_credit_for_label": "<p>Len Lye</p>",
+            "headline_credit_for_label": "<p>1979-1980</p>",
+            "description": "",
+            "description_for_label": [],
+            "credit_line_for_label": "",
+            "details": [
+                {
+                    "label": "Duration",
+                    "display_values": [
+                        "00:07:00:00"
+                    ]
+                }
+            ],
+            "stats": {
+                "tap_count": 0
+            },
+            "links": [],
+            "creators_primary": [
+                {
+                    "id": 1133591,
+                    "name": "Len Lye",
+                    "creator_id": 71783,
+                    "role": "creator",
+                    "role_id": 968,
+                    "is_primary": true
+                }
+            ],
+            "creators_other": [],
+            "video_links": [],
+            "media_note": null,
+            "images": [
+                {
+                    "id": 13394,
+                    "image_file": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/lenlyetalfar003.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=0%2FF14JRP8lAV2T4v59cR45rET%2Bs%3D&Expires=1627009443",
+                    "image_file_thumbnail": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/lenlyetalfar003.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=fwufX932ml0213cuq%2BsR6AiazGs%3D&Expires=1627009443",
+                    "image_file_xs": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/lenlyetalfar003.jpg.480x480_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=fQW6m%2FF12BlsQAODPZW0uV9XhUA%3D&Expires=1627009443",
+                    "image_file_s": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/lenlyetalfar003.jpg.960x960_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=9Mk%2F21Ee20VByGKohYcSMgQhD%2Bw%3D&Expires=1627009443",
+                    "image_file_m": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/lenlyetalfar003.jpg.1920x1920_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=yN3lPsZ6OAEMVBbaVtQ9Ma7hps0%3D&Expires=1627009443",
+                    "image_file_l": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/lenlyetalfar003.jpg.3840x3840_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=kePs2sFBcKRSJ6lh89ZJl9SaRbo%3D&Expires=1627009443",
+                    "caption": "Still #1 from Tal Farlow (len Lye)",
+                    "credit_line": "",
+                    "alt_text": "",
+                    "width": 640,
+                    "height": 480,
+                    "access_level": "View anywhere"
+                },
+                {
+                    "id": 13395,
+                    "image_file": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/lenlyetalfar004.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=XOt%2BggD1sPS6X2o3RLfuyHf%2B0w4%3D&Expires=1627009443",
+                    "image_file_thumbnail": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/lenlyetalfar004.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=ZM0YhMFAKjqSttNhUi4yGPoaKpY%3D&Expires=1627009443",
+                    "image_file_xs": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/lenlyetalfar004.jpg.480x480_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=pXNWppk33GoEE7Eh9g5NpIiPW%2Fk%3D&Expires=1627009443",
+                    "image_file_s": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/lenlyetalfar004.jpg.960x960_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=QWHZCZTwKOFtYesNmKsjaPkf6ng%3D&Expires=1627009443",
+                    "image_file_m": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/lenlyetalfar004.jpg.1920x1920_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=SAxgo5Bhqd1aOnBN0aP1iaJ5SMA%3D&Expires=1627009443",
+                    "image_file_l": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/lenlyetalfar004.jpg.3840x3840_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=kuv34MCS9uAzj4d9mz7WBzd7Bt8%3D&Expires=1627009443",
+                    "caption": "Still #2 from Tal Farlow (len Lye)",
+                    "credit_line": "",
+                    "alt_text": "",
+                    "width": 640,
+                    "height": 480,
+                    "access_level": "View anywhere"
+                }
+            ],
+            "videos": [],
+            "holdings": [
+                {
+                    "name": "DVD [PAL]; Copy",
+                    "identifier": "",
+                    "description": ""
+                }
+            ],
+            "part_of": null,
+            "parts": [],
+            "part_siblings": [],
+            "group": null,
+            "group_works": [
+                {
+                    "id": 113988,
+                    "acmi_id": "519",
+                    "title": "Free radicals",
+                    "title_annotation": "",
+                    "slug": "free-radicals",
+                    "creator_credit": "Len Lye",
+                    "credit_line": "",
+                    "headline_credit": "United States, 1979",
+                    "thumbnail": null,
+                    "record_type": "work",
+                    "type": "Film",
+                    "is_on_display": false,
+                    "last_on_display_place": null,
+                    "last_on_display_date": null,
+                    "is_context_indigenous": false,
+                    "material_description": "",
+                    "unpublished": false,
+                    "first_production_date": "1979-01-01T11:00:00+11:00"
+                },
+                {
+                    "id": 113990,
+                    "acmi_id": "2081",
+                    "title": "Tal Farlow",
+                    "title_annotation": "",
+                    "slug": "tal-farlow",
+                    "creator_credit": "Len Lye",
+                    "credit_line": "",
+                    "headline_credit": "New Zealand, 1981",
+                    "thumbnail": {
+                        "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/lenlyetalfar003.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=fwufX932ml0213cuq%2BsR6AiazGs%3D&Expires=1627009443",
+                        "has_video": false
+                    },
+                    "record_type": "work",
+                    "type": "Film",
+                    "is_on_display": false,
+                    "last_on_display_place": null,
+                    "last_on_display_date": null,
+                    "is_context_indigenous": false,
+                    "material_description": "",
+                    "unpublished": false,
+                    "first_production_date": "1981-01-01T11:00:00+11:00"
+                }
+            ],
+            "group_siblings": [],
+            "source": {
+                "name": "Vernon",
+                "slug": "vernon"
+            },
+            "source_identifier": "10322",
+            "production_places": [],
+            "production_dates": [
+                {
+                    "date": "1979-1980",
+                    "notes": "",
+                    "to_year": "1979-1980"
+                }
+            ],
+            "labels": [
+                53483
+            ]
+        },
+        {
+            "id": 113990,
+            "acmi_id": "2081",
+            "title": "Tal Farlow",
+            "title_annotation": "",
+            "slug": "tal-farlow",
+            "creator_credit": "Len Lye",
+            "credit_line": "",
+            "headline_credit": "New Zealand, 1981",
+            "thumbnail": {
+                "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/lenlyetalfar003.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=fwufX932ml0213cuq%2BsR6AiazGs%3D&Expires=1627009443",
+                "has_video": false
+            },
+            "record_type": "work",
+            "type": "Film",
+            "is_on_display": false,
+            "last_on_display_place": null,
+            "last_on_display_date": null,
+            "is_context_indigenous": false,
+            "material_description": "",
+            "unpublished": false,
+            "first_production_date": "1981-01-01T11:00:00+11:00",
+            "brief_description": "<p>Jazz guitarist Tal Farlow provides the background music to Lye&#8217;s final film, which, although begun in the 1950s, was not recommenced until the 1980s. Unfortunately he died before completing it. It contains vertical white scratches as well as geometric white scratches on black. It was completed by Lye&#8217;s assistant Steve Jones under the supervision of Ann Lye. Supported in part by a grant from the Queen Elizabeth II Arts Council of New Zealand.</p>",
+            "constellations_primary": [],
+            "constellations_other": [],
+            "recommendations": [],
+            "title_for_label": "<p>Tal Farlow</p>",
+            "creator_credit_for_label": "<p>Len Lye</p>",
+            "headline_credit_for_label": "<p>New Zealand, 1981</p>",
+            "description": "<p>Jazz guitarist Tal Farlow provides the background music to Lye&#8217;s final film, which, although begun in the 1950s, was not recommenced until the 1980s. Unfortunately he died before completing it. It contains vertical white scratches as well as geometric white scratches on black. It was completed by Lye&#8217;s assistant Steve Jones under the supervision of Ann Lye. Supported in part by a grant from the Queen Elizabeth II Arts Council of New Zealand.</p>",
+            "description_for_label": [
+                "<p>Jazz guitarist Tal Farlow provides the background music to Lye&#8217;s final film, which, although begun in the 1950s, was not recommenced until the 1980s. Unfortunately he died before completing it. It contains vertical white scratches as well as geometric white scratches on black. It was completed by Lye&#8217;s assistant Steve Jones under the supervision of Ann Lye. Supported in part by a grant from the Queen Elizabeth II Arts Council of New Zealand.</p>"
+            ],
+            "credit_line_for_label": "",
+            "details": [
+                {
+                    "label": "Language",
+                    "display_values": [
+                        "No spoken word"
+                    ]
+                }
+            ],
+            "stats": {
+                "tap_count": 0
+            },
+            "links": [],
+            "creators_primary": [
+                {
+                    "id": 1133590,
+                    "name": "Len Lye",
+                    "creator_id": 71783,
+                    "role": "creator",
+                    "role_id": 968,
+                    "is_primary": true
+                }
+            ],
+            "creators_other": [],
+            "video_links": [],
+            "media_note": null,
+            "images": [
+                {
+                    "id": 13394,
+                    "image_file": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/lenlyetalfar003.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=0%2FF14JRP8lAV2T4v59cR45rET%2Bs%3D&Expires=1627009443",
+                    "image_file_thumbnail": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/lenlyetalfar003.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=fwufX932ml0213cuq%2BsR6AiazGs%3D&Expires=1627009443",
+                    "image_file_xs": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/lenlyetalfar003.jpg.480x480_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=fQW6m%2FF12BlsQAODPZW0uV9XhUA%3D&Expires=1627009443",
+                    "image_file_s": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/lenlyetalfar003.jpg.960x960_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=9Mk%2F21Ee20VByGKohYcSMgQhD%2Bw%3D&Expires=1627009443",
+                    "image_file_m": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/lenlyetalfar003.jpg.1920x1920_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=yN3lPsZ6OAEMVBbaVtQ9Ma7hps0%3D&Expires=1627009443",
+                    "image_file_l": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/lenlyetalfar003.jpg.3840x3840_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=kePs2sFBcKRSJ6lh89ZJl9SaRbo%3D&Expires=1627009443",
+                    "caption": "Still #1 from Tal Farlow (len Lye)",
+                    "credit_line": "",
+                    "alt_text": "",
+                    "width": 640,
+                    "height": 480,
+                    "access_level": "View anywhere"
+                },
+                {
+                    "id": 13395,
+                    "image_file": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/lenlyetalfar004.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=XOt%2BggD1sPS6X2o3RLfuyHf%2B0w4%3D&Expires=1627009443",
+                    "image_file_thumbnail": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/lenlyetalfar004.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=ZM0YhMFAKjqSttNhUi4yGPoaKpY%3D&Expires=1627009443",
+                    "image_file_xs": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/lenlyetalfar004.jpg.480x480_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=pXNWppk33GoEE7Eh9g5NpIiPW%2Fk%3D&Expires=1627009443",
+                    "image_file_s": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/lenlyetalfar004.jpg.960x960_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=QWHZCZTwKOFtYesNmKsjaPkf6ng%3D&Expires=1627009443",
+                    "image_file_m": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/lenlyetalfar004.jpg.1920x1920_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=SAxgo5Bhqd1aOnBN0aP1iaJ5SMA%3D&Expires=1627009443",
+                    "image_file_l": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/lenlyetalfar004.jpg.3840x3840_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=kuv34MCS9uAzj4d9mz7WBzd7Bt8%3D&Expires=1627009443",
+                    "caption": "Still #2 from Tal Farlow (len Lye)",
+                    "credit_line": "",
+                    "alt_text": "",
+                    "width": 640,
+                    "height": 480,
+                    "access_level": "View anywhere"
+                }
+            ],
+            "videos": [],
+            "holdings": [
+                {
+                    "name": "DVD [PAL]; Copy",
+                    "identifier": "",
+                    "description": ""
+                },
+                {
+                    "name": "DVD ROM; Copy",
+                    "identifier": "",
+                    "description": ""
+                },
+                {
+                    "name": "DVD [PAL]; Documentation",
+                    "identifier": "",
+                    "description": ""
+                },
+                {
+                    "name": "VHS [PAL]; Copy",
+                    "identifier": "",
+                    "description": ""
+                },
+                {
+                    "name": "Digital Betacam [PAL]; Master",
+                    "identifier": "",
+                    "description": ""
+                },
+                {
+                    "name": "Digital Betacam [PAL]; Sub-master",
+                    "identifier": "",
+                    "description": ""
+                },
+                {
+                    "name": "VHS [PAL]; Reference - timecoded",
+                    "identifier": "",
+                    "description": ""
+                }
+            ],
+            "part_of": null,
+            "parts": [],
+            "part_siblings": [],
+            "group": {
+                "id": 113989,
+                "acmi_id": "10322",
+                "title": "Tal Farlow. Free Radicals (Len Lye)",
+                "title_annotation": "",
+                "slug": "tal-farlow-free-radicals-len-lye",
+                "creator_credit": "Len Lye",
+                "credit_line": "",
+                "headline_credit": "1979-1980",
+                "thumbnail": {
+                    "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/lenlyetalfar003.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=fwufX932ml0213cuq%2BsR6AiazGs%3D&Expires=1627009443",
+                    "has_video": false
+                },
+                "record_type": "group",
+                "type": "Film",
+                "is_on_display": false,
+                "last_on_display_place": null,
+                "last_on_display_date": null,
+                "is_context_indigenous": false,
+                "material_description": "",
+                "unpublished": true,
+                "first_production_date": null
+            },
+            "group_works": [],
+            "group_siblings": [
+                {
+                    "id": 113988,
+                    "acmi_id": "519",
+                    "title": "Free radicals",
+                    "title_annotation": "",
+                    "slug": "free-radicals",
+                    "creator_credit": "Len Lye",
+                    "credit_line": "",
+                    "headline_credit": "United States, 1979",
+                    "thumbnail": null,
+                    "record_type": "work",
+                    "type": "Film",
+                    "is_on_display": false,
+                    "last_on_display_place": null,
+                    "last_on_display_date": null,
+                    "is_context_indigenous": false,
+                    "material_description": "",
+                    "unpublished": false,
+                    "first_production_date": "1979-01-01T11:00:00+11:00"
+                }
+            ],
+            "source": {
+                "name": "Vernon",
+                "slug": "vernon"
+            },
+            "source_identifier": "2081",
+            "production_places": [
+                {
+                    "id": 9,
+                    "name": "New Zealand",
+                    "slug": "new-zealand"
+                }
+            ],
+            "production_dates": [
+                {
+                    "date": "1981",
+                    "notes": "",
+                    "to_year": "1981"
+                }
+            ],
+            "labels": [
+                53484
+            ]
+        },
+        {
+            "id": 113988,
+            "acmi_id": "519",
+            "title": "Free radicals",
+            "title_annotation": "",
+            "slug": "free-radicals",
+            "creator_credit": "Len Lye",
+            "credit_line": "",
+            "headline_credit": "United States, 1979",
+            "thumbnail": null,
+            "record_type": "work",
+            "type": "Film",
+            "is_on_display": false,
+            "last_on_display_place": null,
+            "last_on_display_date": null,
+            "is_context_indigenous": false,
+            "material_description": "",
+            "unpublished": false,
+            "first_production_date": "1979-01-01T11:00:00+11:00",
+            "brief_description": "<p>A primitive kinetic dance of white lines and angles meticulously scratched onto black and white film over an 8 month period and then edited and retrospectively matched with an African field tape of the Bagirmi tribe. The title is a reference to modern physics, &#8216;free radicals&#8217; being particles of energy. The original version was a major award winner at the Experimental Film Competition at the 1958 Brussels World Fair. This revised version was a reworking of the<br />\noriginal by Lye in 1979, with financial assistance from<br />\nthe New Zealand Film Commission. He deleted approximately 1 min. from his first version, made in 1958.</p>",
+            "constellations_primary": [],
+            "constellations_other": [],
+            "recommendations": [],
+            "title_for_label": "<p>Free radicals</p>",
+            "creator_credit_for_label": "<p>Len Lye</p>",
+            "headline_credit_for_label": "<p>United States, 1979</p>",
+            "description": "<p>A primitive kinetic dance of white lines and angles meticulously scratched onto black and white film over an 8 month period and then edited and retrospectively matched with an African field tape of the Bagirmi tribe. The title is a reference to modern physics, &#8216;free radicals&#8217; being particles of energy. The original version was a major award winner at the Experimental Film Competition at the 1958 Brussels World Fair. This revised version was a reworking of the<br />\noriginal by Lye in 1979, with financial assistance from<br />\nthe New Zealand Film Commission. He deleted approximately 1 min. from his first version, made in 1958.</p>",
+            "description_for_label": [
+                "<p>A primitive kinetic dance of white lines and angles meticulously scratched onto black and white film over an 8 month period and then edited and retrospectively matched with an African field tape of the Bagirmi tribe. The title is a reference to modern physics, &#8216;free radicals&#8217; being particles of energy. The original version was a major award winner at the Experimental Film Competition at the 1958 Brussels World Fair. This revised version was a reworking of the<br />\noriginal by Lye in 1979, with financial assistance from<br />\nthe New Zealand Film Commission. He deleted approximately 1 min. from his first version, made in 1958.</p>"
+            ],
+            "credit_line_for_label": "",
+            "details": [
+                {
+                    "label": "Language",
+                    "display_values": [
+                        "No spoken word"
+                    ]
+                },
+                {
+                    "label": "Audience classification",
+                    "display_values": [
+                        "unclassified"
+                    ]
+                },
+                {
+                    "label": "Subject categories",
+                    "display_values": [
+                        "Animation",
+                        "Animation&nbsp;→ Cameraless animation",
+                        "Experimental",
+                        "Short films",
+                        "Short films&nbsp;→ Short films - United States"
+                    ]
+                }
+            ],
+            "stats": {
+                "tap_count": 0
+            },
+            "links": [],
+            "creators_primary": [
+                {
+                    "id": 1133587,
+                    "name": "Len Lye",
+                    "creator_id": 71783,
+                    "role": "creator",
+                    "role_id": 968,
+                    "is_primary": true
+                }
+            ],
+            "creators_other": [
+                {
+                    "id": 1133589,
+                    "name": "Len Lye",
+                    "creator_id": 71783,
+                    "role": "animator",
+                    "role_id": 497,
+                    "is_primary": false
+                },
+                {
+                    "id": 1133588,
+                    "name": "Len Lye",
+                    "creator_id": 71783,
+                    "role": "film maker",
+                    "role_id": 459,
+                    "is_primary": false
+                }
+            ],
+            "video_links": [],
+            "media_note": "Sorry, we don't have images or video for this item.",
+            "images": [],
+            "videos": [],
+            "holdings": [
+                {
+                    "name": "DVD ROM; Copy",
+                    "identifier": "",
+                    "description": ""
+                },
+                {
+                    "name": "DVD [PAL]; Copy",
+                    "identifier": "",
+                    "description": ""
+                },
+                {
+                    "name": "DVD [PAL]; Exhibition Copy",
+                    "identifier": "",
+                    "description": ""
+                },
+                {
+                    "name": "VHS [PAL]; Copy",
+                    "identifier": "",
+                    "description": ""
+                },
+                {
+                    "name": "Digital Betacam [PAL]; Master",
+                    "identifier": "",
+                    "description": ""
+                },
+                {
+                    "name": "Digital Betacam [PAL]; Sub-master",
+                    "identifier": "",
+                    "description": ""
+                },
+                {
+                    "name": "VHS [PAL]; Reference - timecoded",
+                    "identifier": "",
+                    "description": ""
+                }
+            ],
+            "part_of": null,
+            "parts": [],
+            "part_siblings": [],
+            "group": {
+                "id": 113989,
+                "acmi_id": "10322",
+                "title": "Tal Farlow. Free Radicals (Len Lye)",
+                "title_annotation": "",
+                "slug": "tal-farlow-free-radicals-len-lye",
+                "creator_credit": "Len Lye",
+                "credit_line": "",
+                "headline_credit": "1979-1980",
+                "thumbnail": {
+                    "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/lenlyetalfar003.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=fwufX932ml0213cuq%2BsR6AiazGs%3D&Expires=1627009443",
+                    "has_video": false
+                },
+                "record_type": "group",
+                "type": "Film",
+                "is_on_display": false,
+                "last_on_display_place": null,
+                "last_on_display_date": null,
+                "is_context_indigenous": false,
+                "material_description": "",
+                "unpublished": true,
+                "first_production_date": null
+            },
+            "group_works": [],
+            "group_siblings": [
+                {
+                    "id": 113990,
+                    "acmi_id": "2081",
+                    "title": "Tal Farlow",
+                    "title_annotation": "",
+                    "slug": "tal-farlow",
+                    "creator_credit": "Len Lye",
+                    "credit_line": "",
+                    "headline_credit": "New Zealand, 1981",
+                    "thumbnail": {
+                        "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/lenlyetalfar003.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=fwufX932ml0213cuq%2BsR6AiazGs%3D&Expires=1627009443",
+                        "has_video": false
+                    },
+                    "record_type": "work",
+                    "type": "Film",
+                    "is_on_display": false,
+                    "last_on_display_place": null,
+                    "last_on_display_date": null,
+                    "is_context_indigenous": false,
+                    "material_description": "",
+                    "unpublished": false,
+                    "first_production_date": "1981-01-01T11:00:00+11:00"
+                }
+            ],
+            "source": {
+                "name": "Vernon",
+                "slug": "vernon"
+            },
+            "source_identifier": "519",
+            "production_places": [
+                {
+                    "id": 2,
+                    "name": "United States",
+                    "slug": "united-states"
+                }
+            ],
+            "production_dates": [
+                {
+                    "date": "1979",
+                    "notes": "",
+                    "to_year": "1979"
+                }
+            ],
+            "labels": [
+                53482
+            ]
+        },
+        {
+            "id": 108409,
+            "acmi_id": "10292",
+            "title": "Jane Campion trilogy (Girl's own story. Passionless moments. Peel)",
+            "title_annotation": "",
+            "slug": "jane-campion-trilogy-girls-own-story-passionless-moments-peel",
+            "creator_credit": "Jane Campion",
+            "credit_line": "",
+            "headline_credit": "1982-1984",
+            "thumbnail": {
+                "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/B1006979_AGirlsOwnStory.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=ELAL9h%2Bf3bCsIVily6vG0xaNLoU%3D&Expires=1627009443",
+                "has_video": false
+            },
+            "record_type": "group",
+            "type": "Film",
+            "is_on_display": false,
+            "last_on_display_place": null,
+            "last_on_display_date": null,
+            "is_context_indigenous": false,
+            "material_description": "",
+            "unpublished": true,
+            "first_production_date": null,
+            "brief_description": "",
+            "constellations_primary": [],
+            "constellations_other": [],
+            "recommendations": [],
+            "title_for_label": "<p>Jane Campion trilogy (Girl&#8217;s own story. Passionless moments. Peel)</p>",
+            "creator_credit_for_label": "<p>Jane Campion</p>",
+            "headline_credit_for_label": "<p>1982-1984</p>",
+            "description": "",
+            "description_for_label": [],
+            "credit_line_for_label": "",
+            "details": [
+                {
+                    "label": "Duration",
+                    "display_values": [
+                        "00:43:00:00"
+                    ]
+                }
+            ],
+            "stats": {
+                "tap_count": 0
+            },
+            "links": [],
+            "creators_primary": [
+                {
+                    "id": 1133586,
+                    "name": "Jane Campion",
+                    "creator_id": 4416,
+                    "role": "director",
+                    "role_id": 938,
+                    "is_primary": true
+                }
+            ],
+            "creators_other": [],
+            "video_links": [],
+            "media_note": null,
+            "images": [
+                {
+                    "id": 13845,
+                    "image_file": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/B1006979_AGirlsOwnStory.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=6RdWlIc85LCqEd5ByJ2uyxndHtw%3D&Expires=1627009443",
+                    "image_file_thumbnail": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/B1006979_AGirlsOwnStory.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=ELAL9h%2Bf3bCsIVily6vG0xaNLoU%3D&Expires=1627009443",
+                    "image_file_xs": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/B1006979_AGirlsOwnStory.jpg.480x480_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=inqmveBrQRCW0g5JRE1mwQlIkJE%3D&Expires=1627009443",
+                    "image_file_s": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/B1006979_AGirlsOwnStory.jpg.960x960_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=IxRMDKWbsyzAhtI9CL0v82ICgL0%3D&Expires=1627009443",
+                    "image_file_m": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/B1006979_AGirlsOwnStory.jpg.1920x1920_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=y7hemDih55m7lr5CkfJuo%2FI4F9s%3D&Expires=1627009443",
+                    "image_file_l": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/B1006979_AGirlsOwnStory.jpg.3840x3840_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=6quv3M%2FMilWZELT3C1DwQMQxvms%3D&Expires=1627009443",
+                    "caption": "A girl's own story (Jane Campion) still",
+                    "credit_line": "",
+                    "alt_text": "",
+                    "width": 438,
+                    "height": 327,
+                    "access_level": "View anywhere"
+                },
+                {
+                    "id": 11316,
+                    "image_file": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/B1006978_Peel.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=twmk38c1Z%2FarVJ3dLlUNzISdzYQ%3D&Expires=1627009443",
+                    "image_file_thumbnail": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/B1006978_Peel.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=HE%2F8JmtWdOedCX2G5xFqcHiA%2FeA%3D&Expires=1627009443",
+                    "image_file_xs": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/B1006978_Peel.jpg.480x480_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=%2BzcIitXOKM4VRnikq%2FT6THviJGQ%3D&Expires=1627009443",
+                    "image_file_s": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/B1006978_Peel.jpg.960x960_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=YYh4Tm8WGCKgZb4LqqXsTDRz5LU%3D&Expires=1627009443",
+                    "image_file_m": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/B1006978_Peel.jpg.1920x1920_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=xkXAjRlzXcx8P4VHCcGnevqzocs%3D&Expires=1627009443",
+                    "image_file_l": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/B1006978_Peel.jpg.3840x3840_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=vZbno%2FLx7xC70cnWodwCrmqzcYY%3D&Expires=1627009443",
+                    "caption": "Peel (Jane Campion) still",
+                    "credit_line": "",
+                    "alt_text": "",
+                    "width": 438,
+                    "height": 327,
+                    "access_level": "View anywhere"
+                }
+            ],
+            "videos": [],
+            "holdings": [
+                {
+                    "name": "Digital Betacam [PAL]; Master",
+                    "identifier": "",
+                    "description": ""
+                },
+                {
+                    "name": "Digital Betacam [PAL]; Sub-master",
+                    "identifier": "",
+                    "description": ""
+                },
+                {
+                    "name": "VHS [PAL]; Reference - timecoded",
+                    "identifier": "",
+                    "description": ""
+                }
+            ],
+            "part_of": null,
+            "parts": [],
+            "part_siblings": [],
+            "group": null,
+            "group_works": [
+                {
+                    "id": 114195,
+                    "acmi_id": "13288",
+                    "title": "A Girl's own story",
+                    "title_annotation": "",
+                    "slug": "a-girls-own-story",
+                    "creator_credit": "AFTRS and Jane Campion",
+                    "credit_line": "",
+                    "headline_credit": "Australia, 1984",
+                    "thumbnail": {
+                        "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/B1006979_AGirlsOwnStory.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=ELAL9h%2Bf3bCsIVily6vG0xaNLoU%3D&Expires=1627009443",
+                        "has_video": false
+                    },
+                    "record_type": "work",
+                    "type": "Film",
+                    "is_on_display": false,
+                    "last_on_display_place": null,
+                    "last_on_display_date": null,
+                    "is_context_indigenous": false,
+                    "material_description": "",
+                    "unpublished": false,
+                    "first_production_date": "1984-01-01T11:00:00+11:00"
+                },
+                {
+                    "id": 108408,
+                    "acmi_id": "907",
+                    "title": "Passionless moments",
+                    "title_annotation": "",
+                    "slug": "passionless-moments",
+                    "creator_credit": "Jane Campion",
+                    "credit_line": "",
+                    "headline_credit": "Australia, 1984",
+                    "thumbnail": null,
+                    "record_type": "work",
+                    "type": "Film",
+                    "is_on_display": false,
+                    "last_on_display_place": null,
+                    "last_on_display_date": null,
+                    "is_context_indigenous": false,
+                    "material_description": "",
+                    "unpublished": false,
+                    "first_production_date": "1984-01-01T11:00:00+11:00"
+                },
+                {
+                    "id": 110213,
+                    "acmi_id": "13279",
+                    "title": "Peel",
+                    "title_annotation": "",
+                    "slug": "peel",
+                    "creator_credit": "AFTRS and Jane Campion",
+                    "credit_line": "",
+                    "headline_credit": "Australia, 1982",
+                    "thumbnail": {
+                        "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/B1006978_Peel.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=HE%2F8JmtWdOedCX2G5xFqcHiA%2FeA%3D&Expires=1627009443",
+                        "has_video": false
+                    },
+                    "record_type": "work",
+                    "type": "Film",
+                    "is_on_display": false,
+                    "last_on_display_place": null,
+                    "last_on_display_date": null,
+                    "is_context_indigenous": false,
+                    "material_description": "",
+                    "unpublished": false,
+                    "first_production_date": "1982-01-01T11:00:00+11:00"
+                }
+            ],
+            "group_siblings": [],
+            "source": {
+                "name": "Vernon",
+                "slug": "vernon"
+            },
+            "source_identifier": "10292",
+            "production_places": [],
+            "production_dates": [
+                {
+                    "date": "1982-1984",
+                    "notes": "",
+                    "to_year": "1982-1984"
+                }
+            ],
+            "labels": [
+                47902
+            ]
+        },
+        {
+            "id": 110213,
+            "acmi_id": "13279",
+            "title": "Peel",
+            "title_annotation": "",
+            "slug": "peel",
+            "creator_credit": "AFTRS and Jane Campion",
+            "credit_line": "",
+            "headline_credit": "Australia, 1982",
+            "thumbnail": {
+                "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/B1006978_Peel.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=HE%2F8JmtWdOedCX2G5xFqcHiA%2FeA%3D&Expires=1627009443",
+                "has_video": false
+            },
+            "record_type": "work",
+            "type": "Film",
+            "is_on_display": false,
+            "last_on_display_place": null,
+            "last_on_display_date": null,
+            "is_context_indigenous": false,
+            "material_description": "",
+            "unpublished": false,
+            "first_production_date": "1982-01-01T11:00:00+11:00",
+            "brief_description": "<p>A red-headed family&#8217;s drive in the countryside begins an intrigue of awesome belligerence and obstinacy. This short student drama from the director of &#8216;The Piano&#8217; (2003) was the winner of the Palme d&#8217;Or for best short film at Cannes in 1986. Original format 16 mm/colour.</p>",
+            "constellations_primary": [],
+            "constellations_other": [],
+            "recommendations": [],
+            "title_for_label": "<p>Peel</p>",
+            "creator_credit_for_label": "<p>AFTRS and Jane Campion</p>",
+            "headline_credit_for_label": "<p>Australia, 1982</p>",
+            "description": "<p>A red-headed family&#8217;s drive in the countryside begins an intrigue of awesome belligerence and obstinacy. This short student drama from the director of &#8216;The Piano&#8217; (2003) was the winner of the Palme d&#8217;Or for best short film at Cannes in 1986. Original format 16 mm/colour.</p>",
+            "description_for_label": [
+                "<p>A red-headed family&#8217;s drive in the countryside begins an intrigue of awesome belligerence and obstinacy. This short student drama from the director of &#8216;The Piano&#8217; (2003) was the winner of the Palme d&#8217;Or for best short film at Cannes in 1986. Original format 16 mm/colour.</p>"
+            ],
+            "credit_line_for_label": "",
+            "details": [
+                {
+                    "label": "Duration",
+                    "display_values": [
+                        "00:08:18:00"
+                    ]
+                },
+                {
+                    "label": "Language",
+                    "display_values": [
+                        "English"
+                    ]
+                },
+                {
+                    "label": "Audience classifications",
+                    "display_values": [
+                        "ACMI classified",
+                        "Mediatheque - not for children (ACMI classified)"
+                    ]
+                },
+                {
+                    "label": "Subject categories",
+                    "display_values": [
+                        "Amateur & Student Films",
+                        "Amateur & Student Films&nbsp;→ Student films - Australia",
+                        "Family, Gender Identity, Relationships & Sexuality&nbsp;→ Family",
+                        "Short films",
+                        "Short films&nbsp;→ Short films - Australia"
+                    ]
+                },
+                {
+                    "label": "Sound/audio",
+                    "display_values": [
+                        "Sound"
+                    ]
+                },
+                {
+                    "label": "Colour",
+                    "display_values": [
+                        "Colour"
+                    ]
+                }
+            ],
+            "stats": {
+                "tap_count": 0
+            },
+            "links": [],
+            "creators_primary": [
+                {
+                    "id": 1133585,
+                    "name": "AFTRS",
+                    "creator_id": 6518,
+                    "role": "production company",
+                    "role_id": 941,
+                    "is_primary": true
+                },
+                {
+                    "id": 1133584,
+                    "name": "Jane Campion",
+                    "creator_id": 4416,
+                    "role": "director",
+                    "role_id": 938,
+                    "is_primary": true
+                }
+            ],
+            "creators_other": [],
+            "video_links": [],
+            "media_note": null,
+            "images": [
+                {
+                    "id": 11316,
+                    "image_file": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/B1006978_Peel.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=twmk38c1Z%2FarVJ3dLlUNzISdzYQ%3D&Expires=1627009443",
+                    "image_file_thumbnail": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/B1006978_Peel.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=HE%2F8JmtWdOedCX2G5xFqcHiA%2FeA%3D&Expires=1627009443",
+                    "image_file_xs": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/B1006978_Peel.jpg.480x480_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=%2BzcIitXOKM4VRnikq%2FT6THviJGQ%3D&Expires=1627009443",
+                    "image_file_s": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/B1006978_Peel.jpg.960x960_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=YYh4Tm8WGCKgZb4LqqXsTDRz5LU%3D&Expires=1627009443",
+                    "image_file_m": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/B1006978_Peel.jpg.1920x1920_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=xkXAjRlzXcx8P4VHCcGnevqzocs%3D&Expires=1627009443",
+                    "image_file_l": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/B1006978_Peel.jpg.3840x3840_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=vZbno%2FLx7xC70cnWodwCrmqzcYY%3D&Expires=1627009443",
+                    "caption": "Peel (Jane Campion) still",
+                    "credit_line": "",
+                    "alt_text": "",
+                    "width": 438,
+                    "height": 327,
+                    "access_level": "View anywhere"
+                }
+            ],
+            "videos": [],
+            "holdings": [
+                {
+                    "name": "MPEG-2 Digital File; ACMI Digital Access Copy - presentation",
+                    "identifier": "",
+                    "description": ""
+                },
+                {
+                    "name": "VHS [PAL]; Reference - timecoded",
+                    "identifier": "",
+                    "description": ""
+                },
+                {
+                    "name": "Digital Betacam; Master",
+                    "identifier": "",
+                    "description": ""
+                },
+                {
+                    "name": "Digital Betacam; Sub-master",
+                    "identifier": "",
+                    "description": ""
+                },
+                {
+                    "name": "Digital Betacam [PAL]; Master",
+                    "identifier": "",
+                    "description": ""
+                },
+                {
+                    "name": "Digital Betacam [PAL]; Sub-master",
+                    "identifier": "",
+                    "description": ""
+                }
+            ],
+            "part_of": null,
+            "parts": [],
+            "part_siblings": [],
+            "group": {
+                "id": 108409,
+                "acmi_id": "10292",
+                "title": "Jane Campion trilogy (Girl's own story. Passionless moments. Peel)",
+                "title_annotation": "",
+                "slug": "jane-campion-trilogy-girls-own-story-passionless-moments-peel",
+                "creator_credit": "Jane Campion",
+                "credit_line": "",
+                "headline_credit": "1982-1984",
+                "thumbnail": {
+                    "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/B1006979_AGirlsOwnStory.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=ELAL9h%2Bf3bCsIVily6vG0xaNLoU%3D&Expires=1627009443",
+                    "has_video": false
+                },
+                "record_type": "group",
+                "type": "Film",
+                "is_on_display": false,
+                "last_on_display_place": null,
+                "last_on_display_date": null,
+                "is_context_indigenous": false,
+                "material_description": "",
+                "unpublished": true,
+                "first_production_date": null
+            },
+            "group_works": [],
+            "group_siblings": [
+                {
+                    "id": 114195,
+                    "acmi_id": "13288",
+                    "title": "A Girl's own story",
+                    "title_annotation": "",
+                    "slug": "a-girls-own-story",
+                    "creator_credit": "AFTRS and Jane Campion",
+                    "credit_line": "",
+                    "headline_credit": "Australia, 1984",
+                    "thumbnail": {
+                        "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/B1006979_AGirlsOwnStory.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=ELAL9h%2Bf3bCsIVily6vG0xaNLoU%3D&Expires=1627009443",
+                        "has_video": false
+                    },
+                    "record_type": "work",
+                    "type": "Film",
+                    "is_on_display": false,
+                    "last_on_display_place": null,
+                    "last_on_display_date": null,
+                    "is_context_indigenous": false,
+                    "material_description": "",
+                    "unpublished": false,
+                    "first_production_date": "1984-01-01T11:00:00+11:00"
+                },
+                {
+                    "id": 108408,
+                    "acmi_id": "907",
+                    "title": "Passionless moments",
+                    "title_annotation": "",
+                    "slug": "passionless-moments",
+                    "creator_credit": "Jane Campion",
+                    "credit_line": "",
+                    "headline_credit": "Australia, 1984",
+                    "thumbnail": null,
+                    "record_type": "work",
+                    "type": "Film",
+                    "is_on_display": false,
+                    "last_on_display_place": null,
+                    "last_on_display_date": null,
+                    "is_context_indigenous": false,
+                    "material_description": "",
+                    "unpublished": false,
+                    "first_production_date": "1984-01-01T11:00:00+11:00"
+                }
+            ],
+            "source": {
+                "name": "Vernon",
+                "slug": "vernon"
+            },
+            "source_identifier": "13279",
+            "production_places": [
+                {
+                    "id": 3,
+                    "name": "Australia",
+                    "slug": "australia"
+                }
+            ],
+            "production_dates": [
+                {
+                    "date": "1982",
+                    "notes": "",
+                    "to_year": "1982"
+                }
+            ],
+            "labels": [
+                49706
+            ]
+        }
+    ]
+}

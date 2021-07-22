@@ -1,0 +1,640 @@
+{
+    "id": 108070,
+    "acmi_id": "291",
+    "title": "The Juggler",
+    "title_annotation": "",
+    "slug": "the-juggler",
+    "creator_credit": "Shaun Elstob",
+    "credit_line": "",
+    "headline_credit": "VIC/Australia, 1995",
+    "thumbnail": {
+        "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AIM95shaelsthejug.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=zzz%2FvI5nm2Mjl9ljo3eAnS7XywU%3D&Expires=1627009537",
+        "has_video": false
+    },
+    "record_type": "work",
+    "type": "Film",
+    "is_on_display": false,
+    "last_on_display_place": null,
+    "last_on_display_date": null,
+    "is_context_indigenous": false,
+    "material_description": "",
+    "unpublished": false,
+    "first_production_date": "1995-01-01T11:00:00+11:00",
+    "brief_description": "<p>Very short animation about the crimes of Heinrich Teufel, a murderous circus performer who finds his victim&#8217;s heads make handy props for his juggling act</p>",
+    "constellations_primary": [],
+    "constellations_other": [],
+    "recommendations": [],
+    "title_for_label": "<p>The Juggler</p>",
+    "creator_credit_for_label": "<p>Shaun Elstob</p>",
+    "headline_credit_for_label": "<p>VIC/Australia, 1995</p>",
+    "description": "<p>Very short animation about the crimes of Heinrich Teufel, a murderous circus performer who finds his victim&#8217;s heads make handy props for his juggling act</p>",
+    "description_for_label": [
+        "<p>Very short animation about the crimes of Heinrich Teufel, a murderous circus performer who finds his victim&#8217;s heads make handy props for his juggling act</p>"
+    ],
+    "credit_line_for_label": "",
+    "details": [
+        {
+            "label": "Duration",
+            "display_values": [
+                "00:00:51:00"
+            ]
+        },
+        {
+            "label": "Language",
+            "display_values": [
+                "No spoken word"
+            ]
+        },
+        {
+            "label": "Audience classification",
+            "display_values": [
+                "ACMI classified"
+            ]
+        },
+        {
+            "label": "Subject categories",
+            "display_values": [
+                "Amateur & Student Films",
+                "Amateur & Student Films&nbsp;→ Student films - Australia",
+                "Animation",
+                "Animation&nbsp;→ Cutout animation"
+            ]
+        },
+        {
+            "label": "Sound/audio",
+            "display_values": [
+                "Sound"
+            ]
+        },
+        {
+            "label": "Colour",
+            "display_values": [
+                "Colour"
+            ]
+        }
+    ],
+    "stats": {
+        "tap_count": 0
+    },
+    "links": [],
+    "creators_primary": [
+        {
+            "id": 1133159,
+            "name": "Shaun Elstob",
+            "creator_id": 6604,
+            "role": "creator",
+            "role_id": 968,
+            "is_primary": true
+        }
+    ],
+    "creators_other": [
+        {
+            "id": 1133161,
+            "name": "Animation and Interactive Media (AIM) RMIT",
+            "creator_id": 6535,
+            "role": "production facilities",
+            "role_id": 442,
+            "is_primary": false
+        },
+        {
+            "id": 1133160,
+            "name": "Shaun Elstob",
+            "creator_id": 6604,
+            "role": "animator",
+            "role_id": 497,
+            "is_primary": false
+        }
+    ],
+    "video_links": [],
+    "media_note": null,
+    "images": [
+        {
+            "id": 13627,
+            "image_file": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AIM95shaelsthejug.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=MPd1Z1C3docPrx4jX1WdVQ2NIkE%3D&Expires=1627009537",
+            "image_file_thumbnail": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AIM95shaelsthejug.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=zzz%2FvI5nm2Mjl9ljo3eAnS7XywU%3D&Expires=1627009537",
+            "image_file_xs": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AIM95shaelsthejug.jpg.480x480_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=EG%2BjaW%2FpWOumceQbH7%2FryN8x7Vs%3D&Expires=1627009537",
+            "image_file_s": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AIM95shaelsthejug.jpg.960x960_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=w9qsTn4qYyhYeR0hyVwuDyyMLgY%3D&Expires=1627009537",
+            "image_file_m": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AIM95shaelsthejug.jpg.1920x1920_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=Fj%2BwP4NBbJ29IrI2oTzMu54o1fc%3D&Expires=1627009537",
+            "image_file_l": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AIM95shaelsthejug.jpg.3840x3840_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=l04aOujeZ%2B8V1VdewlGFwQUvGaA%3D&Expires=1627009537",
+            "caption": "Still from The Juggler",
+            "credit_line": "",
+            "alt_text": "",
+            "width": 380,
+            "height": 239,
+            "access_level": "View anywhere"
+        }
+    ],
+    "videos": [],
+    "holdings": [
+        {
+            "name": "VHS [PAL]; Reference - timecoded",
+            "identifier": "",
+            "description": ""
+        },
+        {
+            "name": "Digital Betacam [PAL]; Master",
+            "identifier": "",
+            "description": ""
+        },
+        {
+            "name": "Digital Betacam [PAL]; Sub-master",
+            "identifier": "",
+            "description": ""
+        },
+        {
+            "name": "MPEG-4 Digital File; ACMI Digital Access Copy - overscan",
+            "identifier": "",
+            "description": ""
+        },
+        {
+            "name": "MOV file ProRes4444; Digital Preservation Master - overscan",
+            "identifier": "",
+            "description": ""
+        }
+    ],
+    "part_of": null,
+    "parts": [],
+    "part_siblings": [],
+    "group": {
+        "id": 108012,
+        "acmi_id": "145",
+        "title": "RMIT AIM Collection 1995",
+        "title_annotation": "",
+        "slug": "rmit-aim-collection-1995",
+        "creator_credit": "",
+        "credit_line": "",
+        "headline_credit": "VIC/Australia",
+        "thumbnail": {
+            "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AIM95alamacgilmorast001.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=%2Fk2ock06S4RjDZBWO6eOexTTjEA%3D&Expires=1627009537",
+            "has_video": false
+        },
+        "record_type": "group",
+        "type": "Film",
+        "is_on_display": false,
+        "last_on_display_place": null,
+        "last_on_display_date": null,
+        "is_context_indigenous": false,
+        "material_description": "",
+        "unpublished": false,
+        "first_production_date": null
+    },
+    "group_works": [],
+    "group_siblings": [
+        {
+            "id": 108073,
+            "acmi_id": "294",
+            "title": "Apoidea",
+            "title_annotation": "",
+            "slug": "apoidea",
+            "creator_credit": "Alan Dorin",
+            "credit_line": "",
+            "headline_credit": "Australia, 1995",
+            "thumbnail": null,
+            "record_type": "work",
+            "type": "Film",
+            "is_on_display": false,
+            "last_on_display_place": null,
+            "last_on_display_date": null,
+            "is_context_indigenous": false,
+            "material_description": "",
+            "unpublished": false,
+            "first_production_date": "1995-01-01T11:00:00+11:00"
+        },
+        {
+            "id": 108045,
+            "acmi_id": "267",
+            "title": "Astrozoology 101",
+            "title_annotation": "",
+            "slug": "astrozoology-101",
+            "creator_credit": "Alastair MacInnes and Gillian Morisson",
+            "credit_line": "",
+            "headline_credit": "VIC/Australia, 1995",
+            "thumbnail": {
+                "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AIM95alamacgilmorast001.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=%2Fk2ock06S4RjDZBWO6eOexTTjEA%3D&Expires=1627009537",
+                "has_video": false
+            },
+            "record_type": "work",
+            "type": "Film",
+            "is_on_display": false,
+            "last_on_display_place": null,
+            "last_on_display_date": null,
+            "is_context_indigenous": false,
+            "material_description": "",
+            "unpublished": false,
+            "first_production_date": "1995-01-01T11:00:00+11:00"
+        },
+        {
+            "id": 108048,
+            "acmi_id": "269",
+            "title": "Chill out!",
+            "title_annotation": "",
+            "slug": "chill-out",
+            "creator_credit": "John Sharpe, Sharon Parker, Alan Dorin, Marco Bresciani and Alastair MacInnes",
+            "credit_line": "",
+            "headline_credit": "VIC/Australia, 1995",
+            "thumbnail": {
+                "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AIM95groprochiout.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=fxHFmptRZ21FFFeUeLzGNi8NL9o%3D&Expires=1627009537",
+                "has_video": false
+            },
+            "record_type": "work",
+            "type": "Film",
+            "is_on_display": false,
+            "last_on_display_place": null,
+            "last_on_display_date": null,
+            "is_context_indigenous": false,
+            "material_description": "",
+            "unpublished": false,
+            "first_production_date": "1995-01-01T11:00:00+11:00"
+        },
+        {
+            "id": 108065,
+            "acmi_id": "286",
+            "title": "deCollage",
+            "title_annotation": "",
+            "slug": "decollage",
+            "creator_credit": "John Sharpe",
+            "credit_line": "",
+            "headline_credit": "VIC/Australia, 1995",
+            "thumbnail": {
+                "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AIM95johshadec.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=Vzpld3xL5cxDaBPxac%2BF2R4WDNo%3D&Expires=1627009537",
+                "has_video": false
+            },
+            "record_type": "work",
+            "type": "Digital art",
+            "is_on_display": false,
+            "last_on_display_place": null,
+            "last_on_display_date": null,
+            "is_context_indigenous": false,
+            "material_description": "Single channel moving image, colour and audio",
+            "unpublished": false,
+            "first_production_date": "1995-01-01T11:00:00+11:00"
+        },
+        {
+            "id": 108049,
+            "acmi_id": "270",
+            "title": "From the ladle to the grave",
+            "title_annotation": "",
+            "slug": "from-the-ladle-to-the-grave",
+            "creator_credit": "Chris Hancock",
+            "credit_line": "",
+            "headline_credit": "VIC/Australia, 1995",
+            "thumbnail": {
+                "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AIM95chrhanfrotheladtothegra.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=RwQ%2B7Z%2B6ARfbCJbYyJrcVFqY3eI%3D&Expires=1627009537",
+                "has_video": false
+            },
+            "record_type": "work",
+            "type": "Film",
+            "is_on_display": false,
+            "last_on_display_place": null,
+            "last_on_display_date": null,
+            "is_context_indigenous": false,
+            "material_description": "",
+            "unpublished": false,
+            "first_production_date": "1995-01-01T11:00:00+11:00"
+        },
+        {
+            "id": 108067,
+            "acmi_id": "288",
+            "title": "Killjoy",
+            "title_annotation": "",
+            "slug": "killjoy",
+            "creator_credit": "Alastair MacInnes",
+            "credit_line": "",
+            "headline_credit": "VIC/Australia, 1995",
+            "thumbnail": {
+                "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AIM95alamackil.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=E4cSlXSB6q7BZcd154vMgB3OlwU%3D&Expires=1627009537",
+                "has_video": false
+            },
+            "record_type": "work",
+            "type": "Film",
+            "is_on_display": false,
+            "last_on_display_place": null,
+            "last_on_display_date": null,
+            "is_context_indigenous": false,
+            "material_description": "",
+            "unpublished": false,
+            "first_production_date": "1995-01-01T11:00:00+11:00"
+        },
+        {
+            "id": 108068,
+            "acmi_id": "289",
+            "title": "May day",
+            "title_annotation": "",
+            "slug": "may-day",
+            "creator_credit": "John Power",
+            "credit_line": "",
+            "headline_credit": "VIC/Australia, 1995",
+            "thumbnail": {
+                "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AIM95johpowmay.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=IigGrrWJTGIRNQ8y%2FGAc8uX%2BlV0%3D&Expires=1627009537",
+                "has_video": false
+            },
+            "record_type": "work",
+            "type": "Film",
+            "is_on_display": false,
+            "last_on_display_place": null,
+            "last_on_display_date": null,
+            "is_context_indigenous": false,
+            "material_description": "",
+            "unpublished": false,
+            "first_production_date": "1995-01-01T11:00:00+11:00"
+        },
+        {
+            "id": 108072,
+            "acmi_id": "293",
+            "title": "Penguins off the page",
+            "title_annotation": "",
+            "slug": "penguins-off-the-page",
+            "creator_credit": "John Rowdon",
+            "credit_line": "",
+            "headline_credit": "VIC/Australia, 1995",
+            "thumbnail": {
+                "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/aim95johrowpenoffthepag.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=YNt6I4UOc%2BW1pTldTtS8MKGqQXQ%3D&Expires=1627009537",
+                "has_video": false
+            },
+            "record_type": "work",
+            "type": "Film",
+            "is_on_display": false,
+            "last_on_display_place": null,
+            "last_on_display_date": null,
+            "is_context_indigenous": false,
+            "material_description": "",
+            "unpublished": false,
+            "first_production_date": "1995-01-01T11:00:00+11:00"
+        },
+        {
+            "id": 108011,
+            "acmi_id": "225",
+            "title": "Pixillation",
+            "title_annotation": "",
+            "slug": "pixillation",
+            "creator_credit": "",
+            "credit_line": "",
+            "headline_credit": "VIC/Australia, 1995",
+            "thumbnail": {
+                "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AIM95gropropix001.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=ZWwE3NyXfkuU%2FcXLffjWwXs%2FUyU%3D&Expires=1627009537",
+                "has_video": false
+            },
+            "record_type": "work",
+            "type": "Film",
+            "is_on_display": false,
+            "last_on_display_place": null,
+            "last_on_display_date": null,
+            "is_context_indigenous": false,
+            "material_description": "",
+            "unpublished": false,
+            "first_production_date": "1995-01-01T11:00:00+11:00"
+        },
+        {
+            "id": 108063,
+            "acmi_id": "284",
+            "title": "Private & confidential box",
+            "title_annotation": "",
+            "slug": "private-confidential-box",
+            "creator_credit": "John Rowdon and Anutaro Tantraporn",
+            "credit_line": "",
+            "headline_credit": "VIC/Australia, 1995",
+            "thumbnail": {
+                "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AIM95tanrowpriandconbox.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=AQ6JmPbSs8UOw1jxjcIYMtyD%2Bkg%3D&Expires=1627009537",
+                "has_video": false
+            },
+            "record_type": "work",
+            "type": "Film",
+            "is_on_display": false,
+            "last_on_display_place": null,
+            "last_on_display_date": null,
+            "is_context_indigenous": false,
+            "material_description": "",
+            "unpublished": false,
+            "first_production_date": "1995-01-01T11:00:00+11:00"
+        },
+        {
+            "id": 108069,
+            "acmi_id": "290",
+            "title": "Shift",
+            "title_annotation": "",
+            "slug": "shift",
+            "creator_credit": "John Power",
+            "credit_line": "",
+            "headline_credit": "VIC/Australia, 1995",
+            "thumbnail": {
+                "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/aim95johpowshi.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=08TWCV%2BnNidKbZ8p2yuk8zn%2FV%2Bg%3D&Expires=1627009537",
+                "has_video": false
+            },
+            "record_type": "work",
+            "type": "Film",
+            "is_on_display": false,
+            "last_on_display_place": null,
+            "last_on_display_date": null,
+            "is_context_indigenous": false,
+            "material_description": "",
+            "unpublished": false,
+            "first_production_date": "1995-01-01T11:00:00+11:00"
+        },
+        {
+            "id": 108066,
+            "acmi_id": "287",
+            "title": "Silent voices",
+            "title_annotation": "",
+            "slug": "silent-voices",
+            "creator_credit": "John Sharpe",
+            "credit_line": "",
+            "headline_credit": "VIC/Australia, 1995",
+            "thumbnail": {
+                "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/aim95johshasilvoi.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=GudPcLdGGZrbTDor949G%2BoJi0w8%3D&Expires=1627009537",
+                "has_video": false
+            },
+            "record_type": "work",
+            "type": "Film",
+            "is_on_display": false,
+            "last_on_display_place": null,
+            "last_on_display_date": null,
+            "is_context_indigenous": false,
+            "material_description": "",
+            "unpublished": false,
+            "first_production_date": "1995-01-01T11:00:00+11:00"
+        },
+        {
+            "id": 108057,
+            "acmi_id": "278",
+            "title": "Spaghetti western",
+            "title_annotation": "",
+            "slug": "spaghetti-western",
+            "creator_credit": "Marco Bresciani and Chris Hancock",
+            "credit_line": "",
+            "headline_credit": "VIC/Australia, 1995",
+            "thumbnail": {
+                "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AIM95hanbrespawes.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=KoTM8gYCBAPynka16%2BvfppBR1B0%3D&Expires=1627009537",
+                "has_video": false
+            },
+            "record_type": "work",
+            "type": "Film",
+            "is_on_display": false,
+            "last_on_display_place": null,
+            "last_on_display_date": null,
+            "is_context_indigenous": false,
+            "material_description": "",
+            "unpublished": false,
+            "first_production_date": "1995-01-01T11:00:00+11:00"
+        },
+        {
+            "id": 108053,
+            "acmi_id": "274",
+            "title": "The Chase",
+            "title_annotation": "",
+            "slug": "the-chase",
+            "creator_credit": "Shaun Elstob, Anutaro Tantraporn, John Sharpe, Gillian Morisson and Sharon Parker",
+            "credit_line": "",
+            "headline_credit": "VIC/Australia, 1995",
+            "thumbnail": {
+                "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AIM95groprothecha.jpg001.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=g5m3l1WdPImBZtZ5qrZDujh%2BiJg%3D&Expires=1627009537",
+                "has_video": false
+            },
+            "record_type": "work",
+            "type": "Film",
+            "is_on_display": false,
+            "last_on_display_place": null,
+            "last_on_display_date": null,
+            "is_context_indigenous": false,
+            "material_description": "",
+            "unpublished": false,
+            "first_production_date": "1995-01-01T11:00:00+11:00"
+        },
+        {
+            "id": 108058,
+            "acmi_id": "279",
+            "title": "The Pied piper",
+            "title_annotation": "",
+            "slug": "the-pied-piper",
+            "creator_credit": "Alastair MacInnes",
+            "credit_line": "",
+            "headline_credit": "Australia, 1995",
+            "thumbnail": {
+                "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AIM95alamacthepiepip.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=pMdwNdGa2GDzrLmwsUsjQeebAWc%3D&Expires=1627009537",
+                "has_video": false
+            },
+            "record_type": "work",
+            "type": "Film",
+            "is_on_display": false,
+            "last_on_display_place": null,
+            "last_on_display_date": null,
+            "is_context_indigenous": false,
+            "material_description": "",
+            "unpublished": false,
+            "first_production_date": "1995-01-01T11:00:00+11:00"
+        },
+        {
+            "id": 108050,
+            "acmi_id": "271",
+            "title": "The Rainy night when the thingy caught fire and everything burned",
+            "title_annotation": "",
+            "slug": "the-rainy-night-when-the-thingy-caught-fire-and-everything-burned",
+            "creator_credit": "John Power and Sharon Parker",
+            "credit_line": "",
+            "headline_credit": "VIC/Australia, 1995",
+            "thumbnail": {
+                "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AIM95johpowshaparevebur.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=abZkLCg9sU5aZR1EzSBO2cfqhNU%3D&Expires=1627009537",
+                "has_video": false
+            },
+            "record_type": "work",
+            "type": "Film",
+            "is_on_display": false,
+            "last_on_display_place": null,
+            "last_on_display_date": null,
+            "is_context_indigenous": false,
+            "material_description": "",
+            "unpublished": false,
+            "first_production_date": "1995-01-01T11:00:00+11:00"
+        },
+        {
+            "id": 108064,
+            "acmi_id": "285",
+            "title": "This is not my city",
+            "title_annotation": "",
+            "slug": "this-is-not-my-city",
+            "creator_credit": "John Sharpe",
+            "credit_line": "",
+            "headline_credit": "VIC/Australia, 1995",
+            "thumbnail": {
+                "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AIM95johshathiisnitmycit.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=PijEMTZrIVvBy8TpziPOF5P%2FpFo%3D&Expires=1627009537",
+                "has_video": false
+            },
+            "record_type": "work",
+            "type": "Film",
+            "is_on_display": false,
+            "last_on_display_place": null,
+            "last_on_display_date": null,
+            "is_context_indigenous": false,
+            "material_description": "",
+            "unpublished": false,
+            "first_production_date": "1995-01-01T11:00:00+11:00"
+        },
+        {
+            "id": 108051,
+            "acmi_id": "272",
+            "title": "This way up",
+            "title_annotation": "",
+            "slug": "this-way-up",
+            "creator_credit": "Sharon Parker",
+            "credit_line": "",
+            "headline_credit": "VIC/Australia, 1995",
+            "thumbnail": {
+                "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AIM95shaparthiwayup.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=rMTIYI3s1mHMXjb2INIXtDjdfOM%3D&Expires=1627009537",
+                "has_video": false
+            },
+            "record_type": "work",
+            "type": "Film",
+            "is_on_display": false,
+            "last_on_display_place": null,
+            "last_on_display_date": null,
+            "is_context_indigenous": false,
+            "material_description": "",
+            "unpublished": false,
+            "first_production_date": "1995-01-01T11:00:00+11:00"
+        },
+        {
+            "id": 108013,
+            "acmi_id": "226",
+            "title": "What's up dog?",
+            "title_annotation": "",
+            "slug": "whats-up-dog",
+            "creator_credit": "Greg Zaritski",
+            "credit_line": "",
+            "headline_credit": "VIC/Australia, 1995",
+            "thumbnail": {
+                "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AIM95grezarwhaupdog001.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=4oSCSAu25WYM8sRmfgsk941pxeg%3D&Expires=1627009537",
+                "has_video": false
+            },
+            "record_type": "work",
+            "type": "Film",
+            "is_on_display": false,
+            "last_on_display_place": null,
+            "last_on_display_date": null,
+            "is_context_indigenous": false,
+            "material_description": "",
+            "unpublished": false,
+            "first_production_date": "1995-01-01T11:00:00+11:00"
+        }
+    ],
+    "source": {
+        "name": "Vernon",
+        "slug": "vernon"
+    },
+    "source_identifier": "291",
+    "production_places": [
+        {
+            "id": 40,
+            "name": "VIC/Australia",
+            "slug": "vicaustralia"
+        }
+    ],
+    "production_dates": [
+        {
+            "date": "1995",
+            "notes": "",
+            "to_year": "1995"
+        }
+    ],
+    "labels": [
+        47563
+    ]
+}

@@ -1,0 +1,258 @@
+{
+    "id": 99597,
+    "acmi_id": "179815",
+    "title": "European hand painted panoramic magic lantern slides",
+    "title_annotation": "",
+    "slug": "european-panoramic-slide-212",
+    "creator_credit": "Maker not documented",
+    "credit_line": "<p>Courtesy Martyn Jolly</p>",
+    "headline_credit": "",
+    "thumbnail": {
+        "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN179815_EuropeanPanoramicSlide_2_Back.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=auHGSLlVCQDYMHn2pR%2BmYJZ%2FA3E%3D&Expires=1627009144",
+        "has_video": false
+    },
+    "record_type": "work",
+    "type": "Object",
+    "is_on_display": true,
+    "last_on_display_place": "ACMI: Gallery 1",
+    "last_on_display_date": "2021-08-12",
+    "is_context_indigenous": false,
+    "material_description": "wood, glass, pigment",
+    "unpublished": false,
+    "first_production_date": null,
+    "brief_description": "",
+    "constellations_primary": [],
+    "constellations_other": [],
+    "recommendations": [],
+    "title_for_label": "<p>European hand painted panoramic slides</p>",
+    "creator_credit_for_label": "<p>Maker not documented</p>",
+    "headline_credit_for_label": "",
+    "description": "",
+    "description_for_label": [],
+    "credit_line_for_label": "<p>Courtesy Martyn Jolly</p>",
+    "details": [
+        {
+            "label": "Curatorial section",
+            "display_values": [
+                "The Story of the Moving Image&nbsp;→ Moving Pictures&nbsp;→ 02. Play and Illusion&nbsp;→ MI-02-C01"
+            ]
+        },
+        {
+            "label": "Measurements",
+            "display_values": [
+                "88 x 350 x 6mm"
+            ]
+        },
+        {
+            "label": "Materials",
+            "display_values": [
+                "wood, glass, pigment"
+            ]
+        }
+    ],
+    "stats": {
+        "tap_count": 0
+    },
+    "links": [],
+    "creators_primary": [
+        {
+            "id": 1134462,
+            "name": "Maker not documented",
+            "creator_id": 71446,
+            "role": "creator",
+            "role_id": 968,
+            "is_primary": true
+        }
+    ],
+    "creators_other": [],
+    "video_links": [],
+    "media_note": null,
+    "images": [
+        {
+            "id": 12559,
+            "image_file": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN179815_EuropeanPanoramicSlide_2_Back.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=DQQ0mimFIpx4WFw1uEqfJVN0lcY%3D&Expires=1627009144",
+            "image_file_thumbnail": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN179815_EuropeanPanoramicSlide_2_Back.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=auHGSLlVCQDYMHn2pR%2BmYJZ%2FA3E%3D&Expires=1627009144",
+            "image_file_xs": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN179815_EuropeanPanoramicSlide_2_Back.jpg.480x480_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=9PiqP5VUDP8u3NzSO21heq2Nb24%3D&Expires=1627009144",
+            "image_file_s": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN179815_EuropeanPanoramicSlide_2_Back.jpg.960x960_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=8%2FSGGoX1A2UAI5jGMOyrNJnoJZs%3D&Expires=1627009144",
+            "image_file_m": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN179815_EuropeanPanoramicSlide_2_Back.jpg.1920x1920_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=AlDQMuXmmZy%2FROR7byuDvZNdpkw%3D&Expires=1627009144",
+            "image_file_l": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN179815_EuropeanPanoramicSlide_2_Back.jpg.3840x3840_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=w8evD9zOZfyLAdESqgSLXrdMxao%3D&Expires=1627009144",
+            "caption": "LN179815_EuropeanPanoramicSlide_2_Back",
+            "credit_line": "Photograph by Egmont Contreras, ACMI",
+            "alt_text": "",
+            "width": 4612,
+            "height": 1448,
+            "access_level": "View anywhere"
+        },
+        {
+            "id": 12558,
+            "image_file": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN179815_EuropeanPanoramicSlide_2_Front.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=hPxY2CH5ISyZKUqI9r57f6VU%2FJA%3D&Expires=1627009144",
+            "image_file_thumbnail": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN179815_EuropeanPanoramicSlide_2_Front.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=1GmTVIavmpO%2BA7BneEdvdpd2WTs%3D&Expires=1627009144",
+            "image_file_xs": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN179815_EuropeanPanoramicSlide_2_Front.jpg.480x480_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=vu5O0Q6MhISZbSncI5fUIDAdNxU%3D&Expires=1627009144",
+            "image_file_s": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN179815_EuropeanPanoramicSlide_2_Front.jpg.960x960_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=1ZdXfa4lITcZU87zG8wMoo1rZxw%3D&Expires=1627009144",
+            "image_file_m": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN179815_EuropeanPanoramicSlide_2_Front.jpg.1920x1920_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=D4JOw9QYSuE1NjJtwly05c2NLBo%3D&Expires=1627009144",
+            "image_file_l": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN179815_EuropeanPanoramicSlide_2_Front.jpg.3840x3840_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=JTiETkd2SWOet9DEzE7933PsT%2FQ%3D&Expires=1627009144",
+            "caption": "LN179815_EuropeanPanoramicSlide_2_Front",
+            "credit_line": "Photograph by Egmont Contreras, ACMI",
+            "alt_text": "",
+            "width": 4689,
+            "height": 1425,
+            "access_level": "View anywhere"
+        }
+    ],
+    "videos": [],
+    "holdings": [],
+    "part_of": null,
+    "parts": [],
+    "part_siblings": [],
+    "group": {
+        "id": 100564,
+        "acmi_id": "181485",
+        "title": "European hand-painted panoramic magic lantern slides",
+        "title_annotation": "",
+        "slug": "european-hand-painted-panoramic-magic-lantern-slides",
+        "creator_credit": "Maker not documented",
+        "credit_line": "<p>Courtesy Martyn Jolly</p>",
+        "headline_credit": "",
+        "thumbnail": {
+            "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/GROUP_European_Panoramic_Slides_1to6.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=n831ZChrOUrylOITzPBNUl2LERs%3D&Expires=1627009144",
+            "has_video": false
+        },
+        "record_type": "group",
+        "type": "Object",
+        "is_on_display": true,
+        "last_on_display_place": "ACMI: Gallery 1",
+        "last_on_display_date": "2031-02-16",
+        "is_context_indigenous": false,
+        "material_description": "",
+        "unpublished": false,
+        "first_production_date": null
+    },
+    "group_works": [],
+    "group_siblings": [
+        {
+            "id": 99600,
+            "acmi_id": "179866",
+            "title": "European hand painted panoramic magic lantern slides",
+            "title_annotation": "",
+            "slug": "european-panoramic-slide-512",
+            "creator_credit": "Maker not documented",
+            "credit_line": "<p>Courtesy Martyn Jolly</p>",
+            "headline_credit": "",
+            "thumbnail": {
+                "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN179866_EuropeanPanoramicSlide_5_Back.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=XGABk7b8zZOdBAAlMFtnawqMQ20%3D&Expires=1627009144",
+                "has_video": false
+            },
+            "record_type": "work",
+            "type": "Object",
+            "is_on_display": true,
+            "last_on_display_place": "ACMI: Gallery 1",
+            "last_on_display_date": "2021-08-12",
+            "is_context_indigenous": false,
+            "material_description": "wood, glass, pigment",
+            "unpublished": false,
+            "first_production_date": null
+        },
+        {
+            "id": 99598,
+            "acmi_id": "179864",
+            "title": "European hand painted panoramic magic lantern slides",
+            "title_annotation": "",
+            "slug": "european-panoramic-slide-312",
+            "creator_credit": "Maker not documented",
+            "credit_line": "<p>Courtesy Martyn Jolly</p>",
+            "headline_credit": "",
+            "thumbnail": {
+                "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN179864_EuropeanPanoramicSlide_3_Front.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=9VR9R60V9F2zYmnC%2BNHVOejBIJA%3D&Expires=1627009144",
+                "has_video": false
+            },
+            "record_type": "work",
+            "type": "Object",
+            "is_on_display": true,
+            "last_on_display_place": "ACMI: Gallery 1",
+            "last_on_display_date": "2021-08-12",
+            "is_context_indigenous": false,
+            "material_description": "wood, glass, pigment",
+            "unpublished": false,
+            "first_production_date": null
+        },
+        {
+            "id": 99596,
+            "acmi_id": "179814",
+            "title": "European hand painted panoramic magic lantern slides",
+            "title_annotation": "",
+            "slug": "european-panoramic-slide-112",
+            "creator_credit": "Maker not documented",
+            "credit_line": "<p>Courtesy Martyn Jolly</p>",
+            "headline_credit": "",
+            "thumbnail": {
+                "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN179814_EuropeanPanoramicSlide_1_Front.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=7aYQ4hXJVWZueFhoukTxRea9Z6s%3D&Expires=1627009144",
+                "has_video": false
+            },
+            "record_type": "work",
+            "type": "Object",
+            "is_on_display": true,
+            "last_on_display_place": "ACMI: Gallery 1",
+            "last_on_display_date": "2021-08-12",
+            "is_context_indigenous": false,
+            "material_description": "wood, glass, pigment",
+            "unpublished": false,
+            "first_production_date": null
+        },
+        {
+            "id": 99601,
+            "acmi_id": "179867",
+            "title": "European hand painted panoramic magic lantern slides",
+            "title_annotation": "",
+            "slug": "european-panoramic-slide-612",
+            "creator_credit": "Maker not documented",
+            "credit_line": "<p>Courtesy Martyn Jolly</p>",
+            "headline_credit": "",
+            "thumbnail": {
+                "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN179867_EuropeanPanoramicSlide_6_Back.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=Tp6UwI%2BRfRUqvNUOpqJoglBvsVk%3D&Expires=1627009144",
+                "has_video": false
+            },
+            "record_type": "work",
+            "type": "Object",
+            "is_on_display": true,
+            "last_on_display_place": "ACMI: Gallery 1",
+            "last_on_display_date": "2021-08-12",
+            "is_context_indigenous": false,
+            "material_description": "wood, glass, pigment",
+            "unpublished": false,
+            "first_production_date": null
+        },
+        {
+            "id": 99599,
+            "acmi_id": "179865",
+            "title": "European hand painted panoramic magic lantern slides",
+            "title_annotation": "",
+            "slug": "european-panoramic-slide-412",
+            "creator_credit": "Maker not documented",
+            "credit_line": "<p>Courtesy Martyn Jolly</p>",
+            "headline_credit": "",
+            "thumbnail": {
+                "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN179865_EuropeanPanoramicSlide_4_Back.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=WcsXtdIdTve8WswJ6sNyLOYbYC4%3D&Expires=1627009144",
+                "has_video": false
+            },
+            "record_type": "work",
+            "type": "Object",
+            "is_on_display": true,
+            "last_on_display_place": "ACMI: Gallery 1",
+            "last_on_display_date": "2021-08-12",
+            "is_context_indigenous": false,
+            "material_description": "wood, glass, pigment",
+            "unpublished": false,
+            "first_production_date": null
+        }
+    ],
+    "source": {
+        "name": "Vernon",
+        "slug": "vernon"
+    },
+    "source_identifier": "179815",
+    "production_places": [],
+    "production_dates": [],
+    "labels": [
+        39092
+    ]
+}

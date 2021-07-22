@@ -1,0 +1,273 @@
+{
+    "id": 118267,
+    "acmi_id": "180923",
+    "title": "URSA Mini Pro 4.6K G2",
+    "title_annotation": "",
+    "slug": "ursa-mini-pro-46k-g2",
+    "creator_credit": "Blackmagic Design",
+    "credit_line": "<p>Courtesy Blackmagic Design, Major Partner of ACMI</p>",
+    "headline_credit": "MAR 2019",
+    "thumbnail": {
+        "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN180923_UrsaMiniPro_34.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=sbNqggOjwmY1I0H7osLMwryZybM%3D&Expires=1627009071",
+        "has_video": false
+    },
+    "record_type": "work",
+    "type": "Object",
+    "is_on_display": true,
+    "last_on_display_place": "ACMI: Gallery 1",
+    "last_on_display_date": "2023-02-09",
+    "is_context_indigenous": false,
+    "material_description": "",
+    "unpublished": false,
+    "first_production_date": null,
+    "brief_description": "<p>URSA Mini Pro is a professional digital film camera that combines high resolution<br />\nimage quality with the features and controls of a traditional broadcast camera.<br />\nA highly versatile camera format, it’s been used in the creation of a number of<br />\nHollywood productions, television and streaming series as well as studio and<br />\nlive production events.</p>",
+    "constellations_primary": [],
+    "constellations_other": [],
+    "recommendations": [],
+    "title_for_label": "<p>URSA Mini Pro 4.6K G2</p>",
+    "creator_credit_for_label": "<p>Blackmagic Design</p>",
+    "headline_credit_for_label": "<p>MAR 2019</p>",
+    "description": "<p>URSA Mini Pro is a professional digital film camera that combines high resolution<br />\nimage quality with the features and controls of a traditional broadcast camera.<br />\nA highly versatile camera format, it’s been used in the creation of a number of<br />\nHollywood productions, television and streaming series as well as studio and<br />\nlive production events.</p>",
+    "description_for_label": [
+        "<p>URSA Mini Pro is a professional digital film camera that combines high resolution<br />\nimage quality with the features and controls of a traditional broadcast camera.<br />\nA highly versatile camera format, it’s been used in the creation of a number of<br />\nHollywood productions, television and streaming series as well as studio and<br />\nlive production events.</p>"
+    ],
+    "credit_line_for_label": "<p>Courtesy Blackmagic Design, Major Partner of ACMI</p>",
+    "details": [
+        {
+            "label": "Curatorial section",
+            "display_values": [
+                "The Story of the Moving Image&nbsp;→  Foyer&nbsp;→ Entry &nbsp;→ 03. MPL exterior"
+            ]
+        },
+        {
+            "label": "Measurements",
+            "display_values": [
+                "145 x 130 x 220mm"
+            ]
+        }
+    ],
+    "stats": {
+        "tap_count": 0
+    },
+    "links": [],
+    "creators_primary": [
+        {
+            "id": 1134578,
+            "name": "Blackmagic Design",
+            "creator_id": 73012,
+            "role": "manufacturer",
+            "role_id": 627,
+            "is_primary": true
+        }
+    ],
+    "creators_other": [
+        {
+            "id": 1134577,
+            "name": "Blackmagic Design",
+            "creator_id": 73012,
+            "role": "lender",
+            "role_id": 626,
+            "is_primary": false
+        }
+    ],
+    "video_links": [],
+    "media_note": null,
+    "images": [
+        {
+            "id": 21165,
+            "image_file": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN180923_UrsaMiniPro_34.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=T6nMjK%2F5bIHigboCsd86E3aUW5I%3D&Expires=1627009071",
+            "image_file_thumbnail": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN180923_UrsaMiniPro_34.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=sbNqggOjwmY1I0H7osLMwryZybM%3D&Expires=1627009071",
+            "image_file_xs": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN180923_UrsaMiniPro_34.jpg.480x480_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=iY2TCq74AdLbxOcm8mxkIvQdPuI%3D&Expires=1627009071",
+            "image_file_s": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN180923_UrsaMiniPro_34.jpg.960x960_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=ULpa%2FdKsSd%2BCSWWLa%2FE%2FwIlx2s8%3D&Expires=1627009071",
+            "image_file_m": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN180923_UrsaMiniPro_34.jpg.1920x1920_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=ghQ96wmvvR33ey2OaDRg7lo8pPw%3D&Expires=1627009071",
+            "image_file_l": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN180923_UrsaMiniPro_34.jpg.3840x3840_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=nSjWDqmeejFpdNhBZFN%2BoEMQAEc%3D&Expires=1627009071",
+            "caption": "LN180923_UrsaMiniPro_34",
+            "credit_line": "Photograph by Egmont Contreras, ACMI.",
+            "alt_text": "",
+            "width": 4800,
+            "height": 3200,
+            "access_level": "View anywhere"
+        },
+        {
+            "id": 21166,
+            "image_file": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN180923_UrsaMiniPro_34Detail.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=e7p3pNcdYB4fm8ZIggFzPQlWlJo%3D&Expires=1627009071",
+            "image_file_thumbnail": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN180923_UrsaMiniPro_34Detail.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=MKcQ%2FGdBUmntstjM8SOkew%2Bjl20%3D&Expires=1627009071",
+            "image_file_xs": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN180923_UrsaMiniPro_34Detail.jpg.480x480_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=L9WfwjXbuDPdKeKKbh5hJ4JIbbo%3D&Expires=1627009071",
+            "image_file_s": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN180923_UrsaMiniPro_34Detail.jpg.960x960_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=TeIc5HKrUsNkvdhLDYyD92TrBhc%3D&Expires=1627009071",
+            "image_file_m": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN180923_UrsaMiniPro_34Detail.jpg.1920x1920_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=KD5%2B0NTus0WJwZDkTDQT8Ct6wXI%3D&Expires=1627009071",
+            "image_file_l": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN180923_UrsaMiniPro_34Detail.jpg.3840x3840_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=7rd7IeEa%2Bp8KH7%2FZcUsMHIQzRZQ%3D&Expires=1627009071",
+            "caption": "LN180923_UrsaMiniPro_34Detail",
+            "credit_line": "Photograph by Egmont Contreras, ACMI.",
+            "alt_text": "",
+            "width": 4800,
+            "height": 3200,
+            "access_level": "View anywhere"
+        },
+        {
+            "id": 21167,
+            "image_file": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN180923_UrsaMiniPro_Front.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=ahdrySa8x80xeyY4s0XYEnhNvAU%3D&Expires=1627009071",
+            "image_file_thumbnail": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN180923_UrsaMiniPro_Front.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=WUlFen%2FWasQp6x1OBVDUuW3PzrY%3D&Expires=1627009071",
+            "image_file_xs": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN180923_UrsaMiniPro_Front.jpg.480x480_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=IpVudy4chMfsouxnaXJjLkoV02A%3D&Expires=1627009071",
+            "image_file_s": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN180923_UrsaMiniPro_Front.jpg.960x960_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=7G3XZKMwjCnnoqhyabMl8E15M%2FA%3D&Expires=1627009071",
+            "image_file_m": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN180923_UrsaMiniPro_Front.jpg.1920x1920_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=qbAnUjwCfQNnBhyGHmhY6nZQ%2F%2FA%3D&Expires=1627009071",
+            "image_file_l": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN180923_UrsaMiniPro_Front.jpg.3840x3840_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=qzoyx0b9HF0pWd5%2BoPHPvuVfk7w%3D&Expires=1627009071",
+            "caption": "LN180923_UrsaMiniPro_Front",
+            "credit_line": "Photograph by Egmont Contreras, ACMI.",
+            "alt_text": "",
+            "width": 4800,
+            "height": 3200,
+            "access_level": "View anywhere"
+        },
+        {
+            "id": 21168,
+            "image_file": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN180923_UrsaMiniPro_Right.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=jUeUKEtwiXPLoKRro37heUcFcPU%3D&Expires=1627009071",
+            "image_file_thumbnail": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN180923_UrsaMiniPro_Right.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=Khl1R7IrmoN3KmycJxmxO5y4sgU%3D&Expires=1627009071",
+            "image_file_xs": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN180923_UrsaMiniPro_Right.jpg.480x480_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=xgit4FA1103gkZrH049qBUk6zbs%3D&Expires=1627009071",
+            "image_file_s": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN180923_UrsaMiniPro_Right.jpg.960x960_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=B1RaOBJgmU46db7qwAFOzrc164A%3D&Expires=1627009071",
+            "image_file_m": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN180923_UrsaMiniPro_Right.jpg.1920x1920_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=KvYiOi%2FstBf%2Fz9OfFykX85h4ixI%3D&Expires=1627009071",
+            "image_file_l": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN180923_UrsaMiniPro_Right.jpg.3840x3840_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=15Ttpf8v07D0OH92BYjAJk%2FIB6I%3D&Expires=1627009071",
+            "caption": "LN180923_UrsaMiniPro_Right",
+            "credit_line": "Photograph by Egmont Contreras, ACMI.",
+            "alt_text": "",
+            "width": 4800,
+            "height": 3200,
+            "access_level": "View anywhere"
+        }
+    ],
+    "videos": [],
+    "holdings": [],
+    "part_of": null,
+    "parts": [],
+    "part_siblings": [],
+    "group": {
+        "id": 114498,
+        "acmi_id": "183613",
+        "title": "URSA Mini Pro 4.6K G2",
+        "title_annotation": "",
+        "slug": "mpl-display-group-ursa-mini-pro-46k-g2-prototypes",
+        "creator_credit": "Blackmagic Design",
+        "credit_line": "<p>Courtesy Blackmagic Design, Major Partner of ACMI</p>",
+        "headline_credit": "",
+        "thumbnail": {
+            "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/GROUP_UrsaMiniPro.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=XlLA6W1fTiffef05eTzoMBXSRG4%3D&Expires=1627009071",
+            "has_video": false
+        },
+        "record_type": "group",
+        "type": "Film",
+        "is_on_display": true,
+        "last_on_display_place": "ACMI: Gallery 1",
+        "last_on_display_date": "2023-02-09",
+        "is_context_indigenous": false,
+        "material_description": "",
+        "unpublished": false,
+        "first_production_date": null
+    },
+    "group_works": [],
+    "group_siblings": [
+        {
+            "id": 107662,
+            "acmi_id": "182854",
+            "title": "GRAPHIC: Sketches & CAD Drawings for Ursa Mini Pro 4.6k G2",
+            "title_annotation": "Facsimile",
+            "slug": "graphic-sketches-cad-drawings-for-ursa-mini-pro-46k-g2",
+            "creator_credit": "Blackmagic Design",
+            "credit_line": "<p>Courtesy Blackmagic Design, Major Partner of ACMI</p>",
+            "headline_credit": "",
+            "thumbnail": null,
+            "record_type": "work",
+            "type": "Object",
+            "is_on_display": true,
+            "last_on_display_place": "ACMI: Gallery 1",
+            "last_on_display_date": "2023-02-09",
+            "is_context_indigenous": false,
+            "material_description": "digital print",
+            "unpublished": false,
+            "first_production_date": null
+        },
+        {
+            "id": 118264,
+            "acmi_id": "180281",
+            "title": "URSA Mini Pro 4.6K G2 Form Prototype",
+            "title_annotation": "",
+            "slug": "ursa-mini-pro-46k-g2-form-prototype",
+            "creator_credit": "Blackmagic Design",
+            "credit_line": "<p>Courtesy Blackmagic Design, Major Partner of ACMI</p>",
+            "headline_credit": "",
+            "thumbnail": {
+                "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN180281_UrsaMiniPro_FormPrototype_34.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=a%2BrxZfQd1g0d4zQ5dXqG8JHs%2FAE%3D&Expires=1627009071",
+                "has_video": false
+            },
+            "record_type": "work",
+            "type": "Object",
+            "is_on_display": true,
+            "last_on_display_place": "ACMI: Gallery 1",
+            "last_on_display_date": "2023-02-09",
+            "is_context_indigenous": false,
+            "material_description": "full colour 3D print",
+            "unpublished": false,
+            "first_production_date": null
+        },
+        {
+            "id": 118265,
+            "acmi_id": "180282",
+            "title": "URSA Mini Pro 4.6K G2 Image Sensor Assembly and Chassis",
+            "title_annotation": "",
+            "slug": "ursa-mini-pro-46k-g2-image-sensor-assembly-and-chassis",
+            "creator_credit": "Blackmagic Design",
+            "credit_line": "<p>Courtesy Blackmagic Design, Major Partner of ACMI</p>",
+            "headline_credit": "",
+            "thumbnail": {
+                "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN180282_UrsaMiniPro_ImageSensorAssembly_34.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=ALXncbtZtY%2Fzy3D1hqL4jjw%2FDtk%3D&Expires=1627009071",
+                "has_video": false
+            },
+            "record_type": "work",
+            "type": "Object",
+            "is_on_display": true,
+            "last_on_display_place": "ACMI: Gallery 1",
+            "last_on_display_date": "2023-02-09",
+            "is_context_indigenous": false,
+            "material_description": "magnesium alloy (chassis)",
+            "unpublished": false,
+            "first_production_date": null
+        },
+        {
+            "id": 118266,
+            "acmi_id": "180283",
+            "title": "URSA Mini Pro 4.6K G2 Partial Assembly",
+            "title_annotation": "",
+            "slug": "ursa-mini-pro-46k-g2-partial-assembly",
+            "creator_credit": "Blackmagic Design",
+            "credit_line": "<p>Courtesy Blackmagic Design, Major Partner of ACMI</p>",
+            "headline_credit": "",
+            "thumbnail": {
+                "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN180283_UrsaMiniPro_PartialAssembly_34.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=Y4OmsYUKkpmjL16Ax4pXVYGcnrQ%3D&Expires=1627009071",
+                "has_video": false
+            },
+            "record_type": "work",
+            "type": "Object",
+            "is_on_display": true,
+            "last_on_display_place": "ACMI: Gallery 1",
+            "last_on_display_date": "2023-02-09",
+            "is_context_indigenous": false,
+            "material_description": "",
+            "unpublished": false,
+            "first_production_date": null
+        }
+    ],
+    "source": {
+        "name": "Vernon",
+        "slug": "vernon"
+    },
+    "source_identifier": "180923",
+    "production_places": [],
+    "production_dates": [
+        {
+            "date": "MAR 2019",
+            "notes": "launched",
+            "to_year": "MAR 2019"
+        }
+    ],
+    "labels": [
+        57770
+    ]
+}

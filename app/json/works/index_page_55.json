@@ -1,0 +1,847 @@
+{
+    "count": 922,
+    "next": "https://api.acmi.net.au/works/?page=56",
+    "previous": "https://api.acmi.net.au/works/?page=54",
+    "results": [
+        {
+            "id": 100014,
+            "acmi_id": "13219",
+            "title": "Homicide small display case",
+            "title_annotation": "",
+            "slug": "homicide-small-display-case",
+            "creator_credit": "",
+            "credit_line": "",
+            "headline_credit": "",
+            "thumbnail": {
+                "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/B2000401_TVWorldCollection_E000023_001.JPG.1200x1200_q85.JPG?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=2JgOeqEVJiBQosGNPUF7YAqT3Pw%3D&Expires=1627009329",
+                "has_video": false
+            },
+            "record_type": "work",
+            "type": "Object",
+            "is_on_display": false,
+            "last_on_display_place": null,
+            "last_on_display_date": null,
+            "is_context_indigenous": false,
+            "material_description": "001: Rabbit fur felt with a ribbon band, feather trim, satin lining and plastic.\n002: Black plastic radio and spiral cord.  Metal socket/plug.\n003: Lightweight metal replica handcuffs.  There is no key to lock or unlock them.\n004: Silver-coloured metal van with metal wheels.\n005: Paper\n006: black and white photo housed behind glass in a wooden frame which has been painted green and gold.\n007: black and white photograph\n008: black and white photograph",
+            "unpublished": false,
+            "first_production_date": null,
+            "brief_description": "<p>Homicide TV series:  TV Week cover, handcuffs, detective&#8217;s Akubra hat, cast photos and period telephone (Citizen Band radio), and a toy police van.</p>",
+            "constellations_primary": [],
+            "constellations_other": [],
+            "recommendations": [],
+            "title_for_label": "<p>Homicide small display case</p>",
+            "creator_credit_for_label": "",
+            "headline_credit_for_label": "",
+            "description": "<p>Homicide TV series:  TV Week cover, handcuffs, detective&#8217;s Akubra hat, cast photos and period telephone (Citizen Band radio), and a toy police van.</p>",
+            "description_for_label": [
+                "<p>Homicide TV series:  TV Week cover, handcuffs, detective&#8217;s Akubra hat, cast photos and period telephone (Citizen Band radio), and a toy police van.</p>"
+            ],
+            "credit_line_for_label": "",
+            "details": [
+                {
+                    "label": "Measurements",
+                    "display_values": [
+                        "24 x 22 x 56mm",
+                        "275 x 224 x 9mm",
+                        "203 x 153mm",
+                        "93 x 266 x 8mm",
+                        "1.43kg",
+                        "120 x 245 x 286mm",
+                        "282 x 204 x 4mm",
+                        "101 x 151mm",
+                        "440mm"
+                    ]
+                },
+                {
+                    "label": "Materials",
+                    "display_values": [
+                        "001: Rabbit fur felt with a ribbon band, feather trim, satin lining and plastic.\n002: Black plastic radio and spiral cord.  Metal socket/plug.\n003: Lightweight metal replica handcuffs.  There is no key to lock or unlock them.\n004: Silver-coloured metal van with metal wheels.\n005: Paper\n006: black and white photo housed behind glass in a wooden frame which has been painted green and gold.\n007: black and white photograph\n008: black and white photograph"
+                    ]
+                }
+            ],
+            "stats": {
+                "tap_count": 0
+            },
+            "links": [],
+            "creators_primary": [],
+            "creators_other": [],
+            "video_links": [],
+            "media_note": null,
+            "images": [
+                {
+                    "id": 14525,
+                    "image_file": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/B2000401_TVWorldCollection_E000023_001.JPG?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=FYENMDCqzEb4OIzVoWb%2FwPwCohI%3D&Expires=1627009329",
+                    "image_file_thumbnail": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/B2000401_TVWorldCollection_E000023_001.JPG.1200x1200_q85.JPG?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=2JgOeqEVJiBQosGNPUF7YAqT3Pw%3D&Expires=1627009329",
+                    "image_file_xs": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/B2000401_TVWorldCollection_E000023_001.JPG.480x480_q85.JPG?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=P8A7vA0ztbG4UcOBVnqtFMH89XI%3D&Expires=1627009329",
+                    "image_file_s": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/B2000401_TVWorldCollection_E000023_001.JPG.960x960_q85.JPG?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=Is2gDuEb%2FWH2H%2FB41YSlr88P6Lc%3D&Expires=1627009329",
+                    "image_file_m": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/B2000401_TVWorldCollection_E000023_001.JPG.1920x1920_q85.JPG?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=jTGXVC8sHXUZr3%2FZLKyImYbPPxo%3D&Expires=1627009329",
+                    "image_file_l": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/B2000401_TVWorldCollection_E000023_001.JPG.3840x3840_q85.JPG?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=S56RvaPCgGvL6kabNJ6mNErEj6U%3D&Expires=1627009329",
+                    "caption": "E000023 - Image01",
+                    "credit_line": "",
+                    "alt_text": "",
+                    "width": 852,
+                    "height": 597,
+                    "access_level": "View anywhere"
+                },
+                {
+                    "id": 14526,
+                    "image_file": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/B2000401_TVWorldCollection_E000023_002.JPG?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=5SVBff0zoc30%2Fk2ct56%2Bj23111o%3D&Expires=1627009329",
+                    "image_file_thumbnail": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/B2000401_TVWorldCollection_E000023_002.JPG.1200x1200_q85.JPG?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=3DcPOQH%2BdZNbDTc5GAcAhJi7eW4%3D&Expires=1627009329",
+                    "image_file_xs": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/B2000401_TVWorldCollection_E000023_002.JPG.480x480_q85.JPG?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=ooXHJhNQfsqoxXF1mkO3KHgOhY4%3D&Expires=1627009329",
+                    "image_file_s": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/B2000401_TVWorldCollection_E000023_002.JPG.960x960_q85.JPG?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=VEoK1Tvxjcqux5UcgpjlMh%2FYIbE%3D&Expires=1627009329",
+                    "image_file_m": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/B2000401_TVWorldCollection_E000023_002.JPG.1920x1920_q85.JPG?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=KkRP1UeTQQ%2BruoRrZjf5oM5FFPg%3D&Expires=1627009329",
+                    "image_file_l": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/B2000401_TVWorldCollection_E000023_002.JPG.3840x3840_q85.JPG?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=zG4STt018XaPGayhRJ6qqK%2BW%2BN4%3D&Expires=1627009329",
+                    "caption": "E000023 - Image02",
+                    "credit_line": "",
+                    "alt_text": "",
+                    "width": 1600,
+                    "height": 1200,
+                    "access_level": "View anywhere"
+                },
+                {
+                    "id": 14527,
+                    "image_file": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/E000023_Homicide_002.JPG?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=MPCR2t8huSoOOVuCkj2iTjO01Gc%3D&Expires=1627009329",
+                    "image_file_thumbnail": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/E000023_Homicide_002.JPG.1200x1200_q85.JPG?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=Ms5m2Ibh7kwasDE3OJjW1Ly2Eb8%3D&Expires=1627009329",
+                    "image_file_xs": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/E000023_Homicide_002.JPG.480x480_q85.JPG?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=p9ccGTi9lEhCEXGJ19latItOti0%3D&Expires=1627009329",
+                    "image_file_s": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/E000023_Homicide_002.JPG.960x960_q85.JPG?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=tmb25BqIx%2FGBzCHLAF9gvs8H69w%3D&Expires=1627009329",
+                    "image_file_m": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/E000023_Homicide_002.JPG.1920x1920_q85.JPG?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=L0XPEtMWTQCaNUJLlwjU2sdaCY8%3D&Expires=1627009329",
+                    "image_file_l": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/E000023_Homicide_002.JPG.3840x3840_q85.JPG?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=ksDqyNSf47Vl%2F%2FgaF5o17EVRseY%3D&Expires=1627009329",
+                    "caption": "E000023_Homicide",
+                    "credit_line": "",
+                    "alt_text": "",
+                    "width": 5184,
+                    "height": 3456,
+                    "access_level": "View anywhere"
+                },
+                {
+                    "id": 14528,
+                    "image_file": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/E000023_Homicide_015.JPG?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=E6AC%2FaCF0b%2BcHn0PvPW2VIKMHuE%3D&Expires=1627009329",
+                    "image_file_thumbnail": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/E000023_Homicide_015.JPG.1200x1200_q85.JPG?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=3oT4L5iGTQXsPsJw8qowrGtCYa0%3D&Expires=1627009329",
+                    "image_file_xs": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/E000023_Homicide_015.JPG.480x480_q85.JPG?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=A8EhnQao7rl3oUyAGl6azMR3%2FOU%3D&Expires=1627009329",
+                    "image_file_s": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/E000023_Homicide_015.JPG.960x960_q85.JPG?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=VHB6ynV4GpLbbccUfAFTChuNi38%3D&Expires=1627009329",
+                    "image_file_m": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/E000023_Homicide_015.JPG.1920x1920_q85.JPG?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=49UG4YKGBClMp9RSAtK7Pch%2BNK4%3D&Expires=1627009329",
+                    "image_file_l": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/E000023_Homicide_015.JPG.3840x3840_q85.JPG?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=05c%2Fn7bmIET0RtpuXAc4Ry0ld%2Bc%3D&Expires=1627009329",
+                    "caption": "E000023_Homicide",
+                    "credit_line": "",
+                    "alt_text": "",
+                    "width": 3259,
+                    "height": 3454,
+                    "access_level": "View anywhere"
+                }
+            ],
+            "videos": [],
+            "holdings": [],
+            "part_of": null,
+            "parts": [],
+            "part_siblings": [],
+            "group": null,
+            "group_works": [],
+            "group_siblings": [],
+            "source": {
+                "name": "Vernon",
+                "slug": "vernon"
+            },
+            "source_identifier": "13219",
+            "production_places": [],
+            "production_dates": [],
+            "labels": [
+                39510
+            ]
+        },
+        {
+            "id": 100013,
+            "acmi_id": "13218",
+            "title": "Bretz Box wooden viewfinder device",
+            "title_annotation": "",
+            "slug": "bretz-box-wooden-viewfinder-device",
+            "creator_credit": "",
+            "credit_line": "",
+            "headline_credit": "",
+            "thumbnail": null,
+            "record_type": "work",
+            "type": "Object",
+            "is_on_display": false,
+            "last_on_display_place": null,
+            "last_on_display_date": null,
+            "is_context_indigenous": false,
+            "material_description": "",
+            "unpublished": false,
+            "first_production_date": null,
+            "brief_description": "<p>Bretz Box wooden viewfinder device used for training of directors and camera crews in the very early days of television.</p>",
+            "constellations_primary": [],
+            "constellations_other": [],
+            "recommendations": [],
+            "title_for_label": "<p>Bretz Box wooden viewfinder device</p>",
+            "creator_credit_for_label": "",
+            "headline_credit_for_label": "",
+            "description": "<p>Bretz Box wooden viewfinder device used for training of directors and camera crews in the very early days of television.</p>",
+            "description_for_label": [
+                "<p>Bretz Box wooden viewfinder device used for training of directors and camera crews in the very early days of television.</p>"
+            ],
+            "credit_line_for_label": "",
+            "details": [
+                {
+                    "label": "Measurements",
+                    "display_values": [
+                        "18 x 18 x 18cm",
+                        "3kg"
+                    ]
+                }
+            ],
+            "stats": {
+                "tap_count": 0
+            },
+            "links": [],
+            "creators_primary": [],
+            "creators_other": [],
+            "video_links": [],
+            "media_note": "Sorry, we don't have images or video for this item.",
+            "images": [],
+            "videos": [],
+            "holdings": [],
+            "part_of": null,
+            "parts": [],
+            "part_siblings": [],
+            "group": null,
+            "group_works": [],
+            "group_siblings": [],
+            "source": {
+                "name": "Vernon",
+                "slug": "vernon"
+            },
+            "source_identifier": "13218",
+            "production_places": [],
+            "production_dates": [],
+            "labels": [
+                39509
+            ]
+        },
+        {
+            "id": 100012,
+            "acmi_id": "13217",
+            "title": "Early weather map",
+            "title_annotation": "",
+            "slug": "early-weather-map",
+            "creator_credit": "",
+            "credit_line": "",
+            "headline_credit": "",
+            "thumbnail": null,
+            "record_type": "work",
+            "type": "Object",
+            "is_on_display": false,
+            "last_on_display_place": null,
+            "last_on_display_date": null,
+            "is_context_indigenous": false,
+            "material_description": "",
+            "unpublished": false,
+            "first_production_date": null,
+            "brief_description": "<p>Early mounted weather map from ABC TV, circa early 1960s.</p>",
+            "constellations_primary": [],
+            "constellations_other": [],
+            "recommendations": [],
+            "title_for_label": "<p>Early weather map</p>",
+            "creator_credit_for_label": "",
+            "headline_credit_for_label": "",
+            "description": "<p>Early mounted weather map from ABC TV, circa early 1960s.</p>",
+            "description_for_label": [
+                "<p>Early mounted weather map from ABC TV, circa early 1960s.</p>"
+            ],
+            "credit_line_for_label": "",
+            "details": [
+                {
+                    "label": "Measurements",
+                    "display_values": [
+                        "46 x 57 x 1cm",
+                        "5kg"
+                    ]
+                }
+            ],
+            "stats": {
+                "tap_count": 0
+            },
+            "links": [],
+            "creators_primary": [],
+            "creators_other": [],
+            "video_links": [],
+            "media_note": "Sorry, we don't have images or video for this item.",
+            "images": [],
+            "videos": [],
+            "holdings": [],
+            "part_of": null,
+            "parts": [],
+            "part_siblings": [],
+            "group": null,
+            "group_works": [],
+            "group_siblings": [],
+            "source": {
+                "name": "Vernon",
+                "slug": "vernon"
+            },
+            "source_identifier": "13217",
+            "production_places": [],
+            "production_dates": [],
+            "labels": [
+                39508
+            ]
+        },
+        {
+            "id": 100011,
+            "acmi_id": "13216",
+            "title": "Horn used by Norman Spencer",
+            "title_annotation": "",
+            "slug": "horn-used-by-norman-spencer",
+            "creator_credit": "",
+            "credit_line": "",
+            "headline_credit": "",
+            "thumbnail": {
+                "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/E000020_NormanSpencersHorn_001.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=VIKMstLG80cnJGFQoRkvRZfC4d0%3D&Expires=1627009329",
+                "has_video": false
+            },
+            "record_type": "work",
+            "type": "Object",
+            "is_on_display": false,
+            "last_on_display_place": "ACMI Ground Floor",
+            "last_on_display_date": "2019-04-22",
+            "is_context_indigenous": false,
+            "material_description": "Metal",
+            "unpublished": false,
+            "first_production_date": null,
+            "brief_description": "<p>Long, thin horn with electrically powered motor, used on the TV program &#8220;In Melbourne Tonight&#8221;,  by Norman Spencer as an early form of television censorship</p>",
+            "constellations_primary": [],
+            "constellations_other": [],
+            "recommendations": [],
+            "title_for_label": "<p>Horn used by Norman Spencer</p>",
+            "creator_credit_for_label": "",
+            "headline_credit_for_label": "",
+            "description": "<p>Long, thin horn with electrically powered motor, used on the TV program &#8220;In Melbourne Tonight&#8221;,  by Norman Spencer as an early form of television censorship</p>",
+            "description_for_label": [
+                "<p>Long, thin horn with electrically powered motor, used on the TV program &#8220;In Melbourne Tonight&#8221;,  by Norman Spencer as an early form of television censorship</p>"
+            ],
+            "credit_line_for_label": "",
+            "details": [
+                {
+                    "label": "Measurements",
+                    "display_values": [
+                        "5kg",
+                        "47 x 13 x 13cm"
+                    ]
+                },
+                {
+                    "label": "Materials",
+                    "display_values": [
+                        "Metal"
+                    ]
+                }
+            ],
+            "stats": {
+                "tap_count": 0
+            },
+            "links": [],
+            "creators_primary": [],
+            "creators_other": [],
+            "video_links": [],
+            "media_note": null,
+            "images": [
+                {
+                    "id": 14523,
+                    "image_file": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/E000020_NormanSpencersHorn_001.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=pGd98ZKf6Bz%2Ft0QMhe%2F2VgOf2CM%3D&Expires=1627009329",
+                    "image_file_thumbnail": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/E000020_NormanSpencersHorn_001.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=VIKMstLG80cnJGFQoRkvRZfC4d0%3D&Expires=1627009329",
+                    "image_file_xs": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/E000020_NormanSpencersHorn_001.jpg.480x480_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=kpclNRuNASYq2CQxcRBz%2FwB8IWE%3D&Expires=1627009329",
+                    "image_file_s": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/E000020_NormanSpencersHorn_001.jpg.960x960_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=upo5bvcCpcG4atb40nYbpJtlPm8%3D&Expires=1627009329",
+                    "image_file_m": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/E000020_NormanSpencersHorn_001.jpg.1920x1920_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=dPQ7jF0XK0WP48j95jlHaQlD5hs%3D&Expires=1627009329",
+                    "image_file_l": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/E000020_NormanSpencersHorn_001.jpg.3840x3840_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=08MyJApf8TpXKOwqVI5YkP5TB1A%3D&Expires=1627009329",
+                    "caption": "Norman Spencer's horn - Image 01",
+                    "credit_line": "",
+                    "alt_text": "",
+                    "width": 2736,
+                    "height": 3648,
+                    "access_level": "View anywhere"
+                },
+                {
+                    "id": 14524,
+                    "image_file": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/E000020_NormanSpencersHorn_002.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=rj%2FJwhfnezcpjxjAhjKc7PPYn5U%3D&Expires=1627009329",
+                    "image_file_thumbnail": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/E000020_NormanSpencersHorn_002.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=hJJeyIQRZ1boskC7uwCVlWxOsXI%3D&Expires=1627009329",
+                    "image_file_xs": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/E000020_NormanSpencersHorn_002.jpg.480x480_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=i5Eo2NWk7AjTxKePZRrF4wM39z4%3D&Expires=1627009329",
+                    "image_file_s": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/E000020_NormanSpencersHorn_002.jpg.960x960_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=zwMmb3KxKCOOZwo9oo89BYsq%2Beo%3D&Expires=1627009329",
+                    "image_file_m": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/E000020_NormanSpencersHorn_002.jpg.1920x1920_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=2kJNJgy1aw4Ro2BYTL%2BV1VuFPZw%3D&Expires=1627009329",
+                    "image_file_l": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/E000020_NormanSpencersHorn_002.jpg.3840x3840_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=AI5KE9QfFCVEmNGT5hobJG7O138%3D&Expires=1627009329",
+                    "caption": "Norman Spencer's horn - Image 02",
+                    "credit_line": "",
+                    "alt_text": "",
+                    "width": 2736,
+                    "height": 3648,
+                    "access_level": "View anywhere"
+                }
+            ],
+            "videos": [],
+            "holdings": [],
+            "part_of": null,
+            "parts": [],
+            "part_siblings": [],
+            "group": null,
+            "group_works": [],
+            "group_siblings": [],
+            "source": {
+                "name": "Vernon",
+                "slug": "vernon"
+            },
+            "source_identifier": "13216",
+            "production_places": [],
+            "production_dates": [],
+            "labels": [
+                39507
+            ]
+        },
+        {
+            "id": 100010,
+            "acmi_id": "13215",
+            "title": "Zig and Zag Hats",
+            "title_annotation": "",
+            "slug": "zig-and-zag-hats",
+            "creator_credit": "",
+            "credit_line": "",
+            "headline_credit": "",
+            "thumbnail": {
+                "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/B2000401_TVWorldCollection_E000019_001.JPG.1200x1200_q85.JPG?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=ZBXE5Wg%2By%2BYulfooqbHNhm4KDk4%3D&Expires=1627009329",
+                "has_video": false
+            },
+            "record_type": "work",
+            "type": "Object",
+            "is_on_display": false,
+            "last_on_display_place": null,
+            "last_on_display_date": null,
+            "is_context_indigenous": false,
+            "material_description": "",
+            "unpublished": false,
+            "first_production_date": null,
+            "brief_description": "<p>Zig and Zag Hats from HSV Channel 7 Peter&#8217;s Club. One of each.</p>",
+            "constellations_primary": [],
+            "constellations_other": [],
+            "recommendations": [],
+            "title_for_label": "<p>Zig and Zag Hats</p>",
+            "creator_credit_for_label": "",
+            "headline_credit_for_label": "",
+            "description": "<p>Zig and Zag Hats from HSV Channel 7 Peter&#8217;s Club. One of each.</p>",
+            "description_for_label": [
+                "<p>Zig and Zag Hats from HSV Channel 7 Peter&#8217;s Club. One of each.</p>"
+            ],
+            "credit_line_for_label": "",
+            "details": [
+                {
+                    "label": "Measurements",
+                    "display_values": [
+                        "25 x 18 x 18cm",
+                        "1kg"
+                    ]
+                }
+            ],
+            "stats": {
+                "tap_count": 0
+            },
+            "links": [],
+            "creators_primary": [],
+            "creators_other": [],
+            "video_links": [],
+            "media_note": null,
+            "images": [
+                {
+                    "id": 14779,
+                    "image_file": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/B2000401_TVWorldCollection_E000019_001.JPG?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=DyI0k%2FL34qm8Xa%2BnmuMhO512zNI%3D&Expires=1627009329",
+                    "image_file_thumbnail": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/B2000401_TVWorldCollection_E000019_001.JPG.1200x1200_q85.JPG?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=ZBXE5Wg%2By%2BYulfooqbHNhm4KDk4%3D&Expires=1627009329",
+                    "image_file_xs": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/B2000401_TVWorldCollection_E000019_001.JPG.480x480_q85.JPG?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=3oOfG2NabZkPSfrdU4QEFm5ZUu0%3D&Expires=1627009329",
+                    "image_file_s": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/B2000401_TVWorldCollection_E000019_001.JPG.960x960_q85.JPG?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=rNMomT3MWcQ5MClF8Z1QkL3YVfA%3D&Expires=1627009329",
+                    "image_file_m": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/B2000401_TVWorldCollection_E000019_001.JPG.1920x1920_q85.JPG?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=W294xRI9KcG8NlLT5qcc2rYTH%2BY%3D&Expires=1627009329",
+                    "image_file_l": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/B2000401_TVWorldCollection_E000019_001.JPG.3840x3840_q85.JPG?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=gDoUiLhNIaHk2HNl3jUHMtezSJo%3D&Expires=1627009329",
+                    "caption": "E000019 - Image01",
+                    "credit_line": "",
+                    "alt_text": "",
+                    "width": 2560,
+                    "height": 1920,
+                    "access_level": "View anywhere"
+                }
+            ],
+            "videos": [],
+            "holdings": [],
+            "part_of": null,
+            "parts": [],
+            "part_siblings": [],
+            "group": null,
+            "group_works": [],
+            "group_siblings": [],
+            "source": {
+                "name": "Vernon",
+                "slug": "vernon"
+            },
+            "source_identifier": "13215",
+            "production_places": [],
+            "production_dates": [],
+            "labels": [
+                39506
+            ]
+        },
+        {
+            "id": 100009,
+            "acmi_id": "13214",
+            "title": "Ossie Ostrich",
+            "title_annotation": "",
+            "slug": "ossie-ostrich",
+            "creator_credit": "",
+            "credit_line": "",
+            "headline_credit": "",
+            "thumbnail": {
+                "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/B2000401_TVWorldCollection_E000018_001.JPG.1200x1200_q85.JPG?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=abAQR1XuPU%2FHQO66pz6WAg0rl%2FA%3D&Expires=1627009329",
+                "has_video": false
+            },
+            "record_type": "work",
+            "type": "Object",
+            "is_on_display": false,
+            "last_on_display_place": null,
+            "last_on_display_date": null,
+            "is_context_indigenous": false,
+            "material_description": "",
+            "unpublished": false,
+            "first_production_date": null,
+            "brief_description": "<p>Early prototype of Australia&#8217;s most famous ostrich and former Nine Network star.<br />\nOn permanent loan to ACMI.</p>",
+            "constellations_primary": [],
+            "constellations_other": [],
+            "recommendations": [],
+            "title_for_label": "<p>Ossie Ostrich</p>",
+            "creator_credit_for_label": "",
+            "headline_credit_for_label": "",
+            "description": "<p>Early prototype of Australia&#8217;s most famous ostrich and former Nine Network star.<br />\nOn permanent loan to ACMI.</p>",
+            "description_for_label": [
+                "<p>Early prototype of Australia&#8217;s most famous ostrich and former Nine Network star.<br />\nOn permanent loan to ACMI.</p>"
+            ],
+            "credit_line_for_label": "",
+            "details": [
+                {
+                    "label": "Measurements",
+                    "display_values": [
+                        "60 x 120 x 50cm",
+                        "9kg"
+                    ]
+                }
+            ],
+            "stats": {
+                "tap_count": 0
+            },
+            "links": [],
+            "creators_primary": [],
+            "creators_other": [],
+            "video_links": [],
+            "media_note": null,
+            "images": [
+                {
+                    "id": 14778,
+                    "image_file": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/B2000401_TVWorldCollection_E000018_001.JPG?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=bxyz4jfFQr8O0LGUVuATtBJGrmA%3D&Expires=1627009329",
+                    "image_file_thumbnail": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/B2000401_TVWorldCollection_E000018_001.JPG.1200x1200_q85.JPG?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=abAQR1XuPU%2FHQO66pz6WAg0rl%2FA%3D&Expires=1627009329",
+                    "image_file_xs": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/B2000401_TVWorldCollection_E000018_001.JPG.480x480_q85.JPG?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=Ot91%2FJwCtErydZ6isR2rfQ2hn7w%3D&Expires=1627009329",
+                    "image_file_s": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/B2000401_TVWorldCollection_E000018_001.JPG.960x960_q85.JPG?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=LWCTdkNclwWLWfnzWbtOUVcSyXs%3D&Expires=1627009329",
+                    "image_file_m": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/B2000401_TVWorldCollection_E000018_001.JPG.1920x1920_q85.JPG?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=0B1Lc5rswvdvpPSEIx2owHXAPZQ%3D&Expires=1627009329",
+                    "image_file_l": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/B2000401_TVWorldCollection_E000018_001.JPG.3840x3840_q85.JPG?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=670ufKk7Lo2WSmbtMh8u3QOATSM%3D&Expires=1627009329",
+                    "caption": "E000018 - Image01",
+                    "credit_line": "",
+                    "alt_text": "",
+                    "width": 1200,
+                    "height": 1600,
+                    "access_level": "View anywhere"
+                }
+            ],
+            "videos": [],
+            "holdings": [],
+            "part_of": null,
+            "parts": [],
+            "part_siblings": [],
+            "group": null,
+            "group_works": [],
+            "group_siblings": [],
+            "source": {
+                "name": "Vernon",
+                "slug": "vernon"
+            },
+            "source_identifier": "13214",
+            "production_places": [],
+            "production_dates": [],
+            "labels": [
+                39505
+            ]
+        },
+        {
+            "id": 100008,
+            "acmi_id": "13213",
+            "title": "Early credit crawl",
+            "title_annotation": "",
+            "slug": "early-credit-crawl",
+            "creator_credit": "",
+            "credit_line": "",
+            "headline_credit": "",
+            "thumbnail": null,
+            "record_type": "work",
+            "type": "Object",
+            "is_on_display": false,
+            "last_on_display_place": null,
+            "last_on_display_date": null,
+            "is_context_indigenous": false,
+            "material_description": "",
+            "unpublished": false,
+            "first_production_date": null,
+            "brief_description": "<p>Early credit crawl from GTV9 Astor Show, mounted in glass frame.</p>",
+            "constellations_primary": [],
+            "constellations_other": [],
+            "recommendations": [],
+            "title_for_label": "<p>Early credit crawl</p>",
+            "creator_credit_for_label": "",
+            "headline_credit_for_label": "",
+            "description": "<p>Early credit crawl from GTV9 Astor Show, mounted in glass frame.</p>",
+            "description_for_label": [
+                "<p>Early credit crawl from GTV9 Astor Show, mounted in glass frame.</p>"
+            ],
+            "credit_line_for_label": "",
+            "details": [
+                {
+                    "label": "Measurements",
+                    "display_values": [
+                        "200 x 35 x 1cm",
+                        "5kg"
+                    ]
+                }
+            ],
+            "stats": {
+                "tap_count": 0
+            },
+            "links": [],
+            "creators_primary": [],
+            "creators_other": [],
+            "video_links": [],
+            "media_note": "Sorry, we don't have images or video for this item.",
+            "images": [],
+            "videos": [],
+            "holdings": [],
+            "part_of": null,
+            "parts": [],
+            "part_siblings": [],
+            "group": null,
+            "group_works": [],
+            "group_siblings": [],
+            "source": {
+                "name": "Vernon",
+                "slug": "vernon"
+            },
+            "source_identifier": "13213",
+            "production_places": [],
+            "production_dates": [],
+            "labels": [
+                39504
+            ]
+        },
+        {
+            "id": 100007,
+            "acmi_id": "13211",
+            "title": "1972 TV Week Logie Award",
+            "title_annotation": "",
+            "slug": "1972-tv-week-logie-award",
+            "creator_credit": "",
+            "credit_line": "",
+            "headline_credit": "",
+            "thumbnail": null,
+            "record_type": "work",
+            "type": "Object",
+            "is_on_display": false,
+            "last_on_display_place": null,
+            "last_on_display_date": null,
+            "is_context_indigenous": false,
+            "material_description": "",
+            "unpublished": false,
+            "first_production_date": null,
+            "brief_description": "<p>1972 TV Week Logie Award awarded to A Current Affair for Best Public Affairs Program.</p>",
+            "constellations_primary": [],
+            "constellations_other": [],
+            "recommendations": [],
+            "title_for_label": "<p>1972 TV Week Logie Award</p>",
+            "creator_credit_for_label": "",
+            "headline_credit_for_label": "",
+            "description": "<p>1972 TV Week Logie Award awarded to A Current Affair for Best Public Affairs Program.</p>",
+            "description_for_label": [
+                "<p>1972 TV Week Logie Award awarded to A Current Affair for Best Public Affairs Program.</p>"
+            ],
+            "credit_line_for_label": "",
+            "details": [
+                {
+                    "label": "Measurements",
+                    "display_values": [
+                        "1kg",
+                        "18 x 15 x 15cm"
+                    ]
+                }
+            ],
+            "stats": {
+                "tap_count": 0
+            },
+            "links": [],
+            "creators_primary": [],
+            "creators_other": [],
+            "video_links": [],
+            "media_note": "Sorry, we don't have images or video for this item.",
+            "images": [],
+            "videos": [],
+            "holdings": [],
+            "part_of": null,
+            "parts": [],
+            "part_siblings": [],
+            "group": null,
+            "group_works": [],
+            "group_siblings": [],
+            "source": {
+                "name": "Vernon",
+                "slug": "vernon"
+            },
+            "source_identifier": "13211",
+            "production_places": [],
+            "production_dates": [],
+            "labels": [
+                39503
+            ]
+        },
+        {
+            "id": 100006,
+            "acmi_id": "13210",
+            "title": "Grundy Dexter prop robot",
+            "title_annotation": "",
+            "slug": "grundy-dexter-prop-robot",
+            "creator_credit": "",
+            "credit_line": "",
+            "headline_credit": "",
+            "thumbnail": null,
+            "record_type": "work",
+            "type": "Object",
+            "is_on_display": false,
+            "last_on_display_place": "ACMI Ground Floor",
+            "last_on_display_date": "2019-04-22",
+            "is_context_indigenous": false,
+            "material_description": "Plastic casing. Object is a functioning display",
+            "unpublished": false,
+            "first_production_date": null,
+            "brief_description": "<p>Prop Robot used in TV dating game show &#8220;Perfect Match&#8221;.</p>",
+            "constellations_primary": [],
+            "constellations_other": [],
+            "recommendations": [],
+            "title_for_label": "<p>Grundy Dexter prop robot</p>",
+            "creator_credit_for_label": "",
+            "headline_credit_for_label": "",
+            "description": "<p>Prop Robot used in TV dating game show &#8220;Perfect Match&#8221;.</p>",
+            "description_for_label": [
+                "<p>Prop Robot used in TV dating game show &#8220;Perfect Match&#8221;.</p>"
+            ],
+            "credit_line_for_label": "",
+            "details": [
+                {
+                    "label": "Measurements",
+                    "display_values": [
+                        "49kg",
+                        "120 x 52 x 55cm"
+                    ]
+                },
+                {
+                    "label": "Materials",
+                    "display_values": [
+                        "Plastic casing. Object is a functioning display"
+                    ]
+                }
+            ],
+            "stats": {
+                "tap_count": 0
+            },
+            "links": [],
+            "creators_primary": [],
+            "creators_other": [],
+            "video_links": [],
+            "media_note": "Sorry, we don't have images or video for this item.",
+            "images": [],
+            "videos": [],
+            "holdings": [],
+            "part_of": null,
+            "parts": [],
+            "part_siblings": [],
+            "group": null,
+            "group_works": [],
+            "group_siblings": [],
+            "source": {
+                "name": "Vernon",
+                "slug": "vernon"
+            },
+            "source_identifier": "13210",
+            "production_places": [],
+            "production_dates": [],
+            "labels": [
+                39502
+            ]
+        },
+        {
+            "id": 100005,
+            "acmi_id": "13209",
+            "title": "Early modern strip slide magic lantern",
+            "title_annotation": "",
+            "slug": "early-modern-strip-slide-magic-lantern",
+            "creator_credit": "",
+            "credit_line": "",
+            "headline_credit": "",
+            "thumbnail": null,
+            "record_type": "work",
+            "type": "Object",
+            "is_on_display": false,
+            "last_on_display_place": null,
+            "last_on_display_date": null,
+            "is_context_indigenous": false,
+            "material_description": "",
+            "unpublished": false,
+            "first_production_date": null,
+            "brief_description": "<p>Early modern strip slide magic lantern, mini size with original oil lamp and one set of slides &#8216;Soccer Game&#8217;.<br />\n1 x Box containing 4 parts  (FRAGILE)</p>",
+            "constellations_primary": [],
+            "constellations_other": [],
+            "recommendations": [],
+            "title_for_label": "<p>Early modern strip slide magic lantern</p>",
+            "creator_credit_for_label": "",
+            "headline_credit_for_label": "",
+            "description": "<p>Early modern strip slide magic lantern, mini size with original oil lamp and one set of slides &#8216;Soccer Game&#8217;.<br />\n1 x Box containing 4 parts  (FRAGILE)</p>",
+            "description_for_label": [
+                "<p>Early modern strip slide magic lantern, mini size with original oil lamp and one set of slides &#8216;Soccer Game&#8217;.<br />\n1 x Box containing 4 parts  (FRAGILE)</p>"
+            ],
+            "credit_line_for_label": "",
+            "details": [
+                {
+                    "label": "Measurements",
+                    "display_values": [
+                        "32 x 12 x 22cm"
+                    ]
+                }
+            ],
+            "stats": {
+                "tap_count": 0
+            },
+            "links": [],
+            "creators_primary": [],
+            "creators_other": [],
+            "video_links": [],
+            "media_note": "Sorry, we don't have images or video for this item.",
+            "images": [],
+            "videos": [],
+            "holdings": [],
+            "part_of": null,
+            "parts": [],
+            "part_siblings": [],
+            "group": null,
+            "group_works": [],
+            "group_siblings": [],
+            "source": {
+                "name": "Vernon",
+                "slug": "vernon"
+            },
+            "source_identifier": "13209",
+            "production_places": [],
+            "production_dates": [],
+            "labels": [
+                39501
+            ]
+        }
+    ]
+}

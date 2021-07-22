@@ -1,0 +1,200 @@
+{
+    "id": 100296,
+    "acmi_id": "176446",
+    "title": "Cleverman Boondee hairpiece",
+    "title_annotation": "",
+    "slug": "cleverman-boondee-hair-sample-1",
+    "creator_credit": "Weta Workshop",
+    "credit_line": "<p>Courtesy Goalpost Pictures</p>",
+    "headline_credit": "Australia, 2016",
+    "thumbnail": {
+        "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN176446_Cleverman_BoondeeHairSample1.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=Vh1rUMgCRrXoRlrmKjuO3VP0B1c%3D&Expires=1627009204",
+        "has_video": false
+    },
+    "record_type": "work",
+    "type": "Object",
+    "is_on_display": true,
+    "last_on_display_place": "ACMI: Gallery 1",
+    "last_on_display_date": "2023-02-09",
+    "is_context_indigenous": false,
+    "material_description": "",
+    "unpublished": false,
+    "first_production_date": "2016-01-01T11:00:00+11:00",
+    "brief_description": "",
+    "constellations_primary": [],
+    "constellations_other": [],
+    "recommendations": [],
+    "title_for_label": "<p>Hair pieces used during filming</p>",
+    "creator_credit_for_label": "<p>Weta Workshop</p>",
+    "headline_credit_for_label": "<p>Australia, 2016</p>",
+    "description": "",
+    "description_for_label": [],
+    "credit_line_for_label": "<p>Courtesy Goalpost Pictures</p>",
+    "details": [
+        {
+            "label": "Curatorial section",
+            "display_values": [
+                "The Story of the Moving Image&nbsp;→ Moving Worlds&nbsp;→ 05. Character Design&nbsp;→ MW-05-C01&nbsp;→ MW-05-C01.02"
+            ]
+        },
+        {
+            "label": "Measurements",
+            "display_values": [
+                "210 x 297mm"
+            ]
+        }
+    ],
+    "stats": {
+        "tap_count": 0
+    },
+    "links": [],
+    "creators_primary": [
+        {
+            "id": 1134361,
+            "name": "Weta Workshop",
+            "creator_id": 72937,
+            "role": "creator",
+            "role_id": 968,
+            "is_primary": true
+        }
+    ],
+    "creators_other": [],
+    "video_links": [],
+    "media_note": null,
+    "images": [
+        {
+            "id": 16607,
+            "image_file": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN176446_Cleverman_BoondeeHairSample1.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=9oOFhxNatljFO%2B9HkWr6wVZIqHY%3D&Expires=1627009204",
+            "image_file_thumbnail": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN176446_Cleverman_BoondeeHairSample1.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=Vh1rUMgCRrXoRlrmKjuO3VP0B1c%3D&Expires=1627009204",
+            "image_file_xs": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN176446_Cleverman_BoondeeHairSample1.jpg.480x480_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=%2B2ZdvD058Vea9RP4fgvuBthLw%2FI%3D&Expires=1627009204",
+            "image_file_s": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN176446_Cleverman_BoondeeHairSample1.jpg.960x960_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=%2BUNu%2B63qvvb91wM1tRlvTtB%2B9SQ%3D&Expires=1627009204",
+            "image_file_m": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN176446_Cleverman_BoondeeHairSample1.jpg.1920x1920_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=EyGF7YeGTvt2nPHFP%2FdGN2n3y6k%3D&Expires=1627009204",
+            "image_file_l": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN176446_Cleverman_BoondeeHairSample1.jpg.3840x3840_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=Y1c9Mhnh6mQxv1l2b%2BxnzWqx2d8%3D&Expires=1627009204",
+            "caption": "LN176446_Cleverman_BoondeeHairSample1",
+            "credit_line": "Photograph by Egmont Contreras, ACMI.",
+            "alt_text": "",
+            "width": 3320,
+            "height": 4598,
+            "access_level": "View anywhere"
+        }
+    ],
+    "videos": [],
+    "holdings": [],
+    "part_of": null,
+    "parts": [],
+    "part_siblings": [],
+    "group": {
+        "id": 112102,
+        "acmi_id": "183547",
+        "title": "Hair pieces used during filming",
+        "title_annotation": "",
+        "slug": "hair-pieces-used-during-filming",
+        "creator_credit": "Weta Workshop",
+        "credit_line": "",
+        "headline_credit": "",
+        "thumbnail": {
+            "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN176446_Cleverman_BoondeeHairSample1.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=Vh1rUMgCRrXoRlrmKjuO3VP0B1c%3D&Expires=1627009204",
+            "has_video": false
+        },
+        "record_type": "group",
+        "type": "Film",
+        "is_on_display": true,
+        "last_on_display_place": "ACMI: Gallery 1",
+        "last_on_display_date": "2023-02-09",
+        "is_context_indigenous": false,
+        "material_description": "",
+        "unpublished": false,
+        "first_production_date": null
+    },
+    "group_works": [],
+    "group_siblings": [
+        {
+            "id": 99980,
+            "acmi_id": "175985",
+            "title": "Cleverman hair samples",
+            "title_annotation": "",
+            "slug": "cleverman-hair-samples",
+            "creator_credit": "Weta Workshop",
+            "credit_line": "<p>Courtesy Goalpost Pictures</p>",
+            "headline_credit": "Australia, 2016",
+            "thumbnail": null,
+            "record_type": "work",
+            "type": "Object",
+            "is_on_display": true,
+            "last_on_display_place": "ACMI: Gallery 1",
+            "last_on_display_date": "2023-02-09",
+            "is_context_indigenous": false,
+            "material_description": "",
+            "unpublished": false,
+            "first_production_date": "2016-01-01T11:00:00+11:00"
+        },
+        {
+            "id": 99989,
+            "acmi_id": "180864",
+            "title": "Cleverman hairy chest shirt used during filming",
+            "title_annotation": "",
+            "slug": "cleverman-hair-shirt",
+            "creator_credit": "Weta Workshop",
+            "credit_line": "<p>Courtesy Goalpost Pictures</p>",
+            "headline_credit": "Australia, 2016",
+            "thumbnail": {
+                "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN180864_Cleverman_HairyChest.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=OHnFjT3WlK24dm2G5Y5budqEdnQ%3D&Expires=1627009204",
+                "has_video": false
+            },
+            "record_type": "work",
+            "type": "Object",
+            "is_on_display": true,
+            "last_on_display_place": "ACMI: Gallery 1",
+            "last_on_display_date": "2023-02-09",
+            "is_context_indigenous": false,
+            "material_description": "",
+            "unpublished": false,
+            "first_production_date": "2016-01-01T11:00:00+11:00"
+        },
+        {
+            "id": 100298,
+            "acmi_id": "178320",
+            "title": "Cleverman Latani hairpiece",
+            "title_annotation": "",
+            "slug": "cleverman-latani-hair-samples",
+            "creator_credit": "Weta Workshop",
+            "credit_line": "<p>Courtesy Goalpost Pictures</p>",
+            "headline_credit": "Australia, 2016",
+            "thumbnail": {
+                "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN178320_Part1_Cleverman_LataniHairSample.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=sqf49dQA3hdOW5U0yLfEqOX8yLo%3D&Expires=1627009204",
+                "has_video": false
+            },
+            "record_type": "work",
+            "type": "Object",
+            "is_on_display": true,
+            "last_on_display_place": "ACMI",
+            "last_on_display_date": "2023-02-09",
+            "is_context_indigenous": false,
+            "material_description": "",
+            "unpublished": false,
+            "first_production_date": "2016-01-01T11:00:00+11:00"
+        }
+    ],
+    "source": {
+        "name": "Vernon",
+        "slug": "vernon"
+    },
+    "source_identifier": "176446",
+    "production_places": [
+        {
+            "id": 3,
+            "name": "Australia",
+            "slug": "australia"
+        }
+    ],
+    "production_dates": [
+        {
+            "date": "2016",
+            "notes": "",
+            "to_year": "2016"
+        }
+    ],
+    "labels": [
+        39792
+    ]
+}

@@ -1,0 +1,174 @@
+{
+    "id": 107660,
+    "acmi_id": "182843",
+    "title": "Miniature Magic",
+    "title_annotation": "",
+    "slug": "miniature-magic-set",
+    "creator_credit": "Mark O'Brien and Anthony Lucas",
+    "credit_line": "",
+    "headline_credit": "Australia, 2020",
+    "thumbnail": {
+        "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/P182843_UFOMiniatureMagic_Full.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=cRU9GeePBPFOvoLfVoPCExjifn0%3D&Expires=1627009054",
+        "has_video": false
+    },
+    "record_type": "work",
+    "type": "Object",
+    "is_on_display": true,
+    "last_on_display_place": "ACMI: Gallery 1",
+    "last_on_display_date": "2031-02-16",
+    "is_context_indigenous": false,
+    "material_description": "",
+    "unpublished": false,
+    "first_production_date": "2020-01-01T11:00:00+11:00",
+    "brief_description": "<p>Some of the biggest set pieces in film and TV are actually the smallest. Big scenes can be too complicated or expensive to film with huge, life-size sets, so production teams create detailed miniatures and use camera tricks to make them appear as the real thing.</p>",
+    "constellations_primary": [
+        {
+            "id": 86,
+            "name": "Sci-fi miniatures",
+            "description": "As filmmaking technologies have changed and evolved over the decades, much like audiences, miniatures have endured as one of the most effective film special effects."
+        }
+    ],
+    "constellations_other": [],
+    "recommendations": [],
+    "title_for_label": "<p>Miniature magic</p>",
+    "creator_credit_for_label": "<p>Anthony Lucas and Mark O’Brien</p>",
+    "headline_credit_for_label": "<p>Australia, 2020</p>",
+    "description": "<p>Some of the biggest set pieces in film and TV are actually the smallest. Sometimes big scenes are too complicated or expensive to film with huge, life-size sets so production teams create detailed miniatures of locations and settings, and then use camera techniques to trick the audience into thinking they’re seeing the real thing.</p>\n<p>This model represents that approach and references schlocky 1950s sci-fi films, like <i>It Came From Outer Space</i> (1953) and <i>The War of the Worlds</i> (1953), which often used miniatures for their out-of-this-world plots. Miniatures have since been used in blockbusters like <i>Star Wars</i> (1977), <i>Alien</i> (1979) and <i>Batman</i> (1989). Often, they’re created just to be destroyed – like the White House in Roland Emmerich’s <i>Independence Day</i> (1996).</p>",
+    "description_for_label": [
+        "<p>Some of the biggest set pieces in film and TV are actually the smallest. Sometimes big scenes are too complicated or expensive to film with huge, life-size sets so production teams create detailed miniatures of locations and settings, and then use camera techniques to trick the audience into thinking they’re seeing the real thing.</p>\n<p>This model represents that approach and references schlocky 1950s sci-fi films, like <i>It Came From Outer Space</i> (1953) and <i>The War of the Worlds</i> (1953), which often used miniatures for their out-of-this-world plots. Miniatures have since been used in blockbusters like <i>Star Wars</i> (1977), <i>Alien</i> (1979) and <i>Batman</i> (1989). Often, they’re created just to be destroyed – like the White House in Roland Emmerich’s <i>Independence Day</i> (1996).</p>"
+    ],
+    "credit_line_for_label": "",
+    "details": [
+        {
+            "label": "Curatorial section",
+            "display_values": [
+                "The Story of the Moving Image&nbsp;→ Moving Worlds&nbsp;→ 02. Set Design&nbsp;→ MW-02-C05"
+            ]
+        },
+        {
+            "label": "Measurements",
+            "display_values": [
+                "50 x 2275 x 1250mm"
+            ]
+        }
+    ],
+    "stats": {
+        "tap_count": 36898
+    },
+    "links": [],
+    "creators_primary": [
+        {
+            "id": 1134608,
+            "name": "Mark O'Brien",
+            "creator_id": 73010,
+            "role": "creator",
+            "role_id": 968,
+            "is_primary": true
+        },
+        {
+            "id": 1134607,
+            "name": "Anthony Lucas",
+            "creator_id": 8024,
+            "role": "creator",
+            "role_id": 968,
+            "is_primary": true
+        }
+    ],
+    "creators_other": [
+        {
+            "id": 1134606,
+            "name": "Spindly Figures",
+            "creator_id": 73011,
+            "role": "set construction",
+            "role_id": 507,
+            "is_primary": false
+        },
+        {
+            "id": 1134605,
+            "name": "ACMI",
+            "creator_id": 6272,
+            "role": "concept",
+            "role_id": 595,
+            "is_primary": false
+        }
+    ],
+    "video_links": [],
+    "media_note": null,
+    "images": [
+        {
+            "id": 20828,
+            "image_file": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/P182843_UFOMiniatureMagic_Full.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=ecvG5l0GIl%2F%2BR2LII6%2FHBQnhJko%3D&Expires=1627009054",
+            "image_file_thumbnail": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/P182843_UFOMiniatureMagic_Full.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=cRU9GeePBPFOvoLfVoPCExjifn0%3D&Expires=1627009054",
+            "image_file_xs": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/P182843_UFOMiniatureMagic_Full.jpg.480x480_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=01FA6KZLsgksO1rhsU%2Bmcf5FRWQ%3D&Expires=1627009054",
+            "image_file_s": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/P182843_UFOMiniatureMagic_Full.jpg.960x960_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=2c050Csz8FFmWwqPAgeXhZo30cY%3D&Expires=1627009054",
+            "image_file_m": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/P182843_UFOMiniatureMagic_Full.jpg.1920x1920_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=DytXF%2BSESONh2cRtSqArngz6nBA%3D&Expires=1627009054",
+            "image_file_l": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/P182843_UFOMiniatureMagic_Full.jpg.3840x3840_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=a6dAKTfgohavMugLgU%2BqkvMg%2BPI%3D&Expires=1627009054",
+            "caption": "P182843_UFOMiniatureMagic_Full",
+            "credit_line": "Photograph by Egmont Contreras",
+            "alt_text": "",
+            "width": 4800,
+            "height": 3200,
+            "access_level": "View anywhere"
+        },
+        {
+            "id": 17123,
+            "image_file": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/Miniature_magic.width-990.png?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=ZEzkMx2%2BIqYS%2Fe7Jq7GORUBu1e0%3D&Expires=1627009054",
+            "image_file_thumbnail": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/Miniature_magic.width-990.png.1200x1200_q85.png?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=P9VuZuLh9BItNT3soIeiybu9BWk%3D&Expires=1627009054",
+            "image_file_xs": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/Miniature_magic.width-990.png.480x480_q85.png?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=10YPCTc5hYfauoUXsMxddPR3DH0%3D&Expires=1627009054",
+            "image_file_s": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/Miniature_magic.width-990.png.960x960_q85.png?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=%2BBTsHMSOS8EkVf82ExBQXZjirsE%3D&Expires=1627009054",
+            "image_file_m": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/Miniature_magic.width-990.png.1920x1920_q85.png?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=iu8%2FP2xdC%2FthybRvpmahNw%2B27Ck%3D&Expires=1627009054",
+            "image_file_l": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/Miniature_magic.width-990.png.3840x3840_q85.png?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=O5IYc4uMcFHQdcJD7VDAyHGBwgg%3D&Expires=1627009054",
+            "caption": "",
+            "credit_line": "",
+            "alt_text": "A close up picture of a miniature model of a barn outhouse on a table with other model making materials",
+            "width": 777,
+            "height": 438,
+            "access_level": "View anywhere"
+        },
+        {
+            "id": 20800,
+            "image_file": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/P182843_UFOMiniatureMagic_detail.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=MeAIiZlKYruUDOQBQ1omaGpFTjw%3D&Expires=1627009054",
+            "image_file_thumbnail": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/P182843_UFOMiniatureMagic_detail.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=9v5BVeVyGVwaVhnCHQgB%2FmMvY4Y%3D&Expires=1627009054",
+            "image_file_xs": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/P182843_UFOMiniatureMagic_detail.jpg.480x480_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=iLr321W2JSqovIW13KJFsR9ia3A%3D&Expires=1627009054",
+            "image_file_s": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/P182843_UFOMiniatureMagic_detail.jpg.960x960_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=Svy424iTr%2F32n4ucsti26ZIRttk%3D&Expires=1627009054",
+            "image_file_m": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/P182843_UFOMiniatureMagic_detail.jpg.1920x1920_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=0LlBS6I3LZpxgKRZ0Ib6pVQs2zY%3D&Expires=1627009054",
+            "image_file_l": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/P182843_UFOMiniatureMagic_detail.jpg.3840x3840_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=VtJa%2FjAkm%2BShlL4hd%2BsKl%2BHEHa4%3D&Expires=1627009054",
+            "caption": "P182843_UFOMiniatureMagic_detail",
+            "credit_line": "Photograph by Egmont Contreras",
+            "alt_text": "",
+            "width": 4284,
+            "height": 2837,
+            "access_level": "View anywhere"
+        }
+    ],
+    "videos": [],
+    "holdings": [],
+    "part_of": null,
+    "parts": [],
+    "part_siblings": [],
+    "group": null,
+    "group_works": [],
+    "group_siblings": [],
+    "source": {
+        "name": "Vernon",
+        "slug": "vernon"
+    },
+    "source_identifier": "182843",
+    "production_places": [
+        {
+            "id": 3,
+            "name": "Australia",
+            "slug": "australia"
+        }
+    ],
+    "production_dates": [
+        {
+            "date": "2020",
+            "notes": "",
+            "to_year": "2020"
+        }
+    ],
+    "labels": [
+        47153
+    ]
+}

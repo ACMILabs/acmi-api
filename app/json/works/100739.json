@@ -1,0 +1,163 @@
+{
+    "id": 100739,
+    "acmi_id": "180542",
+    "title": "Early Cleverman character concept art",
+    "title_annotation": "Facsimile",
+    "slug": "graphic-early-concept-drawing",
+    "creator_credit": "Jacob Nash",
+    "credit_line": "<p>Courtesy Goalpost Pictures</p>",
+    "headline_credit": "Australia, 2016",
+    "thumbnail": {
+        "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/P180542_G252.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=XscKWk9KToCh60G14wlhNtcaahk%3D&Expires=1627009092",
+        "has_video": false
+    },
+    "record_type": "work",
+    "type": "Object",
+    "is_on_display": true,
+    "last_on_display_place": "ACMI: Gallery 1",
+    "last_on_display_date": "2023-02-09",
+    "is_context_indigenous": false,
+    "material_description": "Graphic",
+    "unpublished": false,
+    "first_production_date": "2016-01-01T11:00:00+11:00",
+    "brief_description": "",
+    "constellations_primary": [],
+    "constellations_other": [],
+    "recommendations": [],
+    "title_for_label": "<p>Early character concept art</p>",
+    "creator_credit_for_label": "<p>Jacob Nash</p>",
+    "headline_credit_for_label": "<p>Australia, 2016</p>",
+    "description": "",
+    "description_for_label": [],
+    "credit_line_for_label": "<p>Courtesy Goalpost Pictures</p>",
+    "details": [
+        {
+            "label": "Curatorial section",
+            "display_values": [
+                "The Story of the Moving Image&nbsp;→ Moving Worlds&nbsp;→ 05. Character Design&nbsp;→ MW-05-C01&nbsp;→ MW-05-C01.01"
+            ]
+        },
+        {
+            "label": "Measurements",
+            "display_values": [
+                "150 x 177mm"
+            ]
+        },
+        {
+            "label": "Materials",
+            "display_values": [
+                "Graphic"
+            ]
+        }
+    ],
+    "stats": {
+        "tap_count": 0
+    },
+    "links": [],
+    "creators_primary": [
+        {
+            "id": 1134538,
+            "name": "Jacob Nash",
+            "creator_id": 49324,
+            "role": "artist",
+            "role_id": 505,
+            "is_primary": true
+        }
+    ],
+    "creators_other": [],
+    "video_links": [],
+    "media_note": null,
+    "images": [
+        {
+            "id": 12424,
+            "image_file": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/P180542_G252.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=bWkUAPBzM%2BqDznFNPNDjTvmzwiY%3D&Expires=1627009092",
+            "image_file_thumbnail": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/P180542_G252.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=XscKWk9KToCh60G14wlhNtcaahk%3D&Expires=1627009092",
+            "image_file_xs": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/P180542_G252.jpg.480x480_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=YGllIkzgmnDKI3G%2FITsS9AOBY2c%3D&Expires=1627009092",
+            "image_file_s": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/P180542_G252.jpg.960x960_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=2XdRAYK55zkTIZtRa4mhyBm5MWQ%3D&Expires=1627009092",
+            "image_file_m": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/P180542_G252.jpg.1920x1920_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=yxvSs9RgXEgx1yD%2BCC%2BzBvNHPdw%3D&Expires=1627009092",
+            "image_file_l": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/P180542_G252.jpg.3840x3840_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=jRGRr4xHy0QeHYAuVNsU2SZpBrQ%3D&Expires=1627009092",
+            "caption": "",
+            "credit_line": "",
+            "alt_text": "",
+            "width": 2480,
+            "height": 2109,
+            "access_level": "View anywhere"
+        }
+    ],
+    "videos": [],
+    "holdings": [],
+    "part_of": null,
+    "parts": [],
+    "part_siblings": [],
+    "group": {
+        "id": 112115,
+        "acmi_id": "183546",
+        "title": "Early character concept art",
+        "title_annotation": "",
+        "slug": "early-character-concept-art",
+        "creator_credit": "Jacob Nash",
+        "credit_line": "<p>Courtesy Goalpost Pictures</p>",
+        "headline_credit": "",
+        "thumbnail": {
+            "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/P180542_G252.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=XscKWk9KToCh60G14wlhNtcaahk%3D&Expires=1627009092",
+            "has_video": false
+        },
+        "record_type": "group",
+        "type": "Film",
+        "is_on_display": true,
+        "last_on_display_place": "ACMI: Gallery 1",
+        "last_on_display_date": "2023-02-09",
+        "is_context_indigenous": false,
+        "material_description": "",
+        "unpublished": false,
+        "first_production_date": null
+    },
+    "group_works": [],
+    "group_siblings": [
+        {
+            "id": 100740,
+            "acmi_id": "180543",
+            "title": "Early Cleverman character concept art",
+            "title_annotation": "Facsimile",
+            "slug": "graphic-concept-drawing",
+            "creator_credit": "Jacob Nash",
+            "credit_line": "<p>Courtesy Goalpost Pictures</p>",
+            "headline_credit": "Australia, 2016",
+            "thumbnail": {
+                "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/P180543_G253.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=zp75E9vijKvL6qK8TW5eRMUG4fA%3D&Expires=1627009092",
+                "has_video": false
+            },
+            "record_type": "work",
+            "type": "Object",
+            "is_on_display": true,
+            "last_on_display_place": "ACMI: Gallery 1",
+            "last_on_display_date": "2023-02-09",
+            "is_context_indigenous": false,
+            "material_description": "Graphic",
+            "unpublished": false,
+            "first_production_date": "2016-01-01T11:00:00+11:00"
+        }
+    ],
+    "source": {
+        "name": "Vernon",
+        "slug": "vernon"
+    },
+    "source_identifier": "180542",
+    "production_places": [
+        {
+            "id": 3,
+            "name": "Australia",
+            "slug": "australia"
+        }
+    ],
+    "production_dates": [
+        {
+            "date": "2016",
+            "notes": "",
+            "to_year": "2016"
+        }
+    ],
+    "labels": [
+        40227
+    ]
+}

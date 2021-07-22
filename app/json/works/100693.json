@@ -1,0 +1,183 @@
+{
+    "id": 100693,
+    "acmi_id": "180496",
+    "title": "Sweet Country homestead blueprints",
+    "title_annotation": "Facsimile",
+    "slug": "graphic-homestead-blueprints",
+    "creator_credit": "",
+    "credit_line": "<p>Courtesy Bunya Productions Pty Ltd</p>",
+    "headline_credit": "Australia, 2018",
+    "thumbnail": {
+        "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/P180496_G205.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=DRZbtVUGtq3DbkasYLCTRkaPZng%3D&Expires=1627009100",
+        "has_video": false
+    },
+    "record_type": "work",
+    "type": "Object",
+    "is_on_display": true,
+    "last_on_display_place": "ACMI: Gallery 1",
+    "last_on_display_date": "2023-02-09",
+    "is_context_indigenous": false,
+    "material_description": "Graphic",
+    "unpublished": false,
+    "first_production_date": "2018-01-01T11:00:00+11:00",
+    "brief_description": "",
+    "constellations_primary": [],
+    "constellations_other": [],
+    "recommendations": [],
+    "title_for_label": "<p>Plans and colour references for set</p>",
+    "creator_credit_for_label": "",
+    "headline_credit_for_label": "<p>Australia, 2018</p>",
+    "description": "",
+    "description_for_label": [],
+    "credit_line_for_label": "<p>Courtesy Bunya Productions Pty Ltd</p>",
+    "details": [
+        {
+            "label": "Curatorial section",
+            "display_values": [
+                "The Story of the Moving Image&nbsp;→ Moving Worlds&nbsp;→ 03. Production Design&nbsp;→ MW-03-C01&nbsp;→ MW-03-C01.01"
+            ]
+        },
+        {
+            "label": "Measurements",
+            "display_values": [
+                "252 x 356mm"
+            ]
+        },
+        {
+            "label": "Materials",
+            "display_values": [
+                "Graphic"
+            ]
+        }
+    ],
+    "stats": {
+        "tap_count": 0
+    },
+    "links": [],
+    "creators_primary": [],
+    "creators_other": [
+        {
+            "id": 1134528,
+            "name": "Mold Design Studio",
+            "creator_id": 72964,
+            "role": "designer",
+            "role_id": 495,
+            "is_primary": false
+        }
+    ],
+    "video_links": [],
+    "media_note": null,
+    "images": [
+        {
+            "id": 12640,
+            "image_file": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/P180496_G205.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=PYVoJ5R4q2mb%2FpWHr765LuTUA98%3D&Expires=1627009100",
+            "image_file_thumbnail": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/P180496_G205.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=DRZbtVUGtq3DbkasYLCTRkaPZng%3D&Expires=1627009100",
+            "image_file_xs": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/P180496_G205.jpg.480x480_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=l51JGN3uAupHHr2OPmUb%2FgQ6ZSc%3D&Expires=1627009100",
+            "image_file_s": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/P180496_G205.jpg.960x960_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=RLeAOnfdxg2lVt%2F7aypNJSrn6L8%3D&Expires=1627009100",
+            "image_file_m": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/P180496_G205.jpg.1920x1920_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=3zmyvU%2BOWqQ6j681%2Fl28KpD0yxY%3D&Expires=1627009100",
+            "image_file_l": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/P180496_G205.jpg.3840x3840_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=6hbCD%2BsSaFW3CJT6kWjnxFQWiHU%3D&Expires=1627009100",
+            "caption": "",
+            "credit_line": "",
+            "alt_text": "",
+            "width": 4724,
+            "height": 3337,
+            "access_level": "View anywhere"
+        }
+    ],
+    "videos": [],
+    "holdings": [],
+    "part_of": null,
+    "parts": [],
+    "part_siblings": [],
+    "group": {
+        "id": 112208,
+        "acmi_id": "183576",
+        "title": "Plans and colour references for set",
+        "title_annotation": "",
+        "slug": "plans-and-colour-references-for-set",
+        "creator_credit": "Theo Benton and Tony Cronin",
+        "credit_line": "",
+        "headline_credit": "",
+        "thumbnail": {
+            "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/P180496_G205.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=DRZbtVUGtq3DbkasYLCTRkaPZng%3D&Expires=1627009100",
+            "has_video": false
+        },
+        "record_type": "group",
+        "type": "Film",
+        "is_on_display": true,
+        "last_on_display_place": "ACMI: Gallery 1",
+        "last_on_display_date": "2023-02-09",
+        "is_context_indigenous": false,
+        "material_description": "",
+        "unpublished": false,
+        "first_production_date": null
+    },
+    "group_works": [],
+    "group_siblings": [
+        {
+            "id": 100692,
+            "acmi_id": "180495",
+            "title": "Sweet Country set colour references",
+            "title_annotation": "Facsimile",
+            "slug": "graphic-colour-palette",
+            "creator_credit": "",
+            "credit_line": "<p>Courtesy Bunya Productions Pty Ltd</p>",
+            "headline_credit": "Australia, 2018",
+            "thumbnail": null,
+            "record_type": "work",
+            "type": "Object",
+            "is_on_display": true,
+            "last_on_display_place": "ACMI: Gallery 1",
+            "last_on_display_date": "2023-02-09",
+            "is_context_indigenous": false,
+            "material_description": "Graphic",
+            "unpublished": false,
+            "first_production_date": "2018-01-01T11:00:00+11:00"
+        },
+        {
+            "id": 100795,
+            "acmi_id": "180599",
+            "title": "Sweet Country set design panoramic collage",
+            "title_annotation": "Facsimile",
+            "slug": "graphic-set-design-panoramic-collage",
+            "creator_credit": "",
+            "credit_line": "<p>Courtesy Bunya Productions Pty Ltd</p>",
+            "headline_credit": "Australia, 2018",
+            "thumbnail": {
+                "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/P180599_G396_.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=%2FBs%2Fs2tYeJ7i9EasqWsU4w06mVE%3D&Expires=1627009100",
+                "has_video": false
+            },
+            "record_type": "work",
+            "type": "Object",
+            "is_on_display": true,
+            "last_on_display_place": "ACMI: Gallery 1",
+            "last_on_display_date": "2023-02-09",
+            "is_context_indigenous": false,
+            "material_description": "Graphic",
+            "unpublished": false,
+            "first_production_date": "2018-01-01T11:00:00+11:00"
+        }
+    ],
+    "source": {
+        "name": "Vernon",
+        "slug": "vernon"
+    },
+    "source_identifier": "180496",
+    "production_places": [
+        {
+            "id": 3,
+            "name": "Australia",
+            "slug": "australia"
+        }
+    ],
+    "production_dates": [
+        {
+            "date": "2018",
+            "notes": "",
+            "to_year": "2018"
+        }
+    ],
+    "labels": [
+        40181
+    ]
+}

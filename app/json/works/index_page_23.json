@@ -1,0 +1,1844 @@
+{
+    "count": 922,
+    "next": "https://api.acmi.net.au/works/?page=24",
+    "previous": "https://api.acmi.net.au/works/?page=22",
+    "results": [
+        {
+            "id": 99685,
+            "acmi_id": "180156",
+            "title": "Toy lantern slides",
+            "title_annotation": "Facsimile",
+            "slug": "facsimile-the-empire-magic-lantern-outfit-glass-slide",
+            "creator_credit": "The Empire Magic Lantern Outfit",
+            "credit_line": "<p>ACMI Collection. Donated by William Kerr on behalf of Edwin Schefferle.</p>",
+            "headline_credit": "Germany, c. 1900",
+            "thumbnail": null,
+            "record_type": "work",
+            "type": "Object",
+            "is_on_display": true,
+            "last_on_display_place": "ACMI: Gallery 1",
+            "last_on_display_date": "2021-08-12",
+            "is_context_indigenous": false,
+            "material_description": "hand-coloured photographic print on glass",
+            "unpublished": false,
+            "first_production_date": null,
+            "brief_description": "<p>Facsimile of E000290</p>",
+            "constellations_primary": [],
+            "constellations_other": [],
+            "recommendations": [],
+            "title_for_label": "<p>Toy lantern slides</p>",
+            "creator_credit_for_label": "<p>The Empire Magic Lantern Outfit</p>",
+            "headline_credit_for_label": "<p>Germany, c. 1900</p>",
+            "description": "<p>Facsimile of E000290</p>",
+            "description_for_label": [
+                "<p>Facsimile of E000290</p>"
+            ],
+            "credit_line_for_label": "<p>ACMI Collection. Donated by William Kerr on behalf of Edwin Schefferle.</p>",
+            "details": [
+                {
+                    "label": "Curatorial section",
+                    "display_values": [
+                        "The Story of the Moving Image&nbsp;→ Moving Pictures&nbsp;→ 02. Play and Illusion&nbsp;→ MI-02-C01"
+                    ]
+                },
+                {
+                    "label": "Measurements",
+                    "display_values": [
+                        "81 x 81 x 2mm"
+                    ]
+                },
+                {
+                    "label": "Materials",
+                    "display_values": [
+                        "hand-coloured photographic print on glass"
+                    ]
+                }
+            ],
+            "stats": {
+                "tap_count": 0
+            },
+            "links": [],
+            "creators_primary": [
+                {
+                    "id": 1134475,
+                    "name": "The Empire Magic Lantern Outfit",
+                    "creator_id": 71430,
+                    "role": "creator",
+                    "role_id": 968,
+                    "is_primary": true
+                }
+            ],
+            "creators_other": [],
+            "video_links": [],
+            "media_note": "Sorry, we don't have images or video for this item.",
+            "images": [],
+            "videos": [],
+            "holdings": [],
+            "part_of": null,
+            "parts": [],
+            "part_siblings": [],
+            "group": {
+                "id": 112078,
+                "acmi_id": "183531",
+                "title": "Toy lantern slides",
+                "title_annotation": "",
+                "slug": "toy-lantern-slides",
+                "creator_credit": "The Empire Magic Lantern Outfit",
+                "credit_line": "<p>ACMI Collection<br />\nDonated by William Kerr on behalf of Edwin Schefferie</p>",
+                "headline_credit": "Germany, c. 1900",
+                "thumbnail": {
+                    "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/E000292_EML_GlassSlide_Reptiles_1_Back.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=9a0F7Yoqz6tTaIKE6PZjGvZB8mY%3D&Expires=1627009137",
+                    "has_video": false
+                },
+                "record_type": "group",
+                "type": "Film",
+                "is_on_display": true,
+                "last_on_display_place": "ACMI: Gallery 1",
+                "last_on_display_date": "2021-08-12",
+                "is_context_indigenous": false,
+                "material_description": "",
+                "unpublished": false,
+                "first_production_date": null
+            },
+            "group_works": [],
+            "group_siblings": [
+                {
+                    "id": 99683,
+                    "acmi_id": "180154",
+                    "title": "Toy lantern slides",
+                    "title_annotation": "Facsimile",
+                    "slug": "facsimile-the-empire-magic-lantern-outfit-glass-slide",
+                    "creator_credit": "The Empire Magic Lantern Outfit",
+                    "credit_line": "<p>ACMI Collection. Donated by William Kerr on behalf of Edwin Schefferle.</p>",
+                    "headline_credit": "Germany, c. 1900",
+                    "thumbnail": null,
+                    "record_type": "work",
+                    "type": "Object",
+                    "is_on_display": true,
+                    "last_on_display_place": "ACMI: Gallery 1",
+                    "last_on_display_date": "2021-08-12",
+                    "is_context_indigenous": false,
+                    "material_description": "hand-coloured photographic print on glass",
+                    "unpublished": false,
+                    "first_production_date": null
+                },
+                {
+                    "id": 99503,
+                    "acmi_id": "179026",
+                    "title": "Toy lantern slides",
+                    "title_annotation": "",
+                    "slug": "the-empire-magic-lantern-outfit-glass-slides-reptiles",
+                    "creator_credit": "The Empire Magic Lantern Outfit",
+                    "credit_line": "<p>ACMI Collection. Donated by William Kerr on behalf of Edwin Schefferle.</p>",
+                    "headline_credit": "Germany, c. 1900",
+                    "thumbnail": {
+                        "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/E000292_EML_GlassSlide_Reptiles_1_Back.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=9a0F7Yoqz6tTaIKE6PZjGvZB8mY%3D&Expires=1627009137",
+                        "has_video": false
+                    },
+                    "record_type": "work",
+                    "type": "Object",
+                    "is_on_display": true,
+                    "last_on_display_place": "ACMI: Gallery 1",
+                    "last_on_display_date": "2021-08-12",
+                    "is_context_indigenous": false,
+                    "material_description": "glass slide, gum arabic tape",
+                    "unpublished": false,
+                    "first_production_date": null
+                },
+                {
+                    "id": 99502,
+                    "acmi_id": "179025",
+                    "title": "Toy lantern slides",
+                    "title_annotation": "",
+                    "slug": "the-empire-magic-lantern-outfit-glass-slides-sea-life",
+                    "creator_credit": "The Empire Magic Lantern Outfit",
+                    "credit_line": "<p>ACMI Collection. Donated by William Kerr on behalf of Edwin Schefferle.</p>",
+                    "headline_credit": "Germany, c. 1900",
+                    "thumbnail": {
+                        "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/E000291_EML_GlassSlides_SeaLife_1_Back.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=pjNsRIPax%2FKYJCQQD%2BfNyL0vRXs%3D&Expires=1627009137",
+                        "has_video": false
+                    },
+                    "record_type": "work",
+                    "type": "Object",
+                    "is_on_display": true,
+                    "last_on_display_place": "ACMI: Gallery 1",
+                    "last_on_display_date": "2021-08-12",
+                    "is_context_indigenous": false,
+                    "material_description": "glass slide, gum arabic tape",
+                    "unpublished": false,
+                    "first_production_date": null
+                },
+                {
+                    "id": 99501,
+                    "acmi_id": "179024",
+                    "title": "Toy lantern slides",
+                    "title_annotation": "",
+                    "slug": "the-empire-magic-lantern-outfit-glass-slides-butterflies",
+                    "creator_credit": "The Empire Magic Lantern Outfit",
+                    "credit_line": "<p>ACMI Collection. Donated by William Kerr on behalf of Edwin Schefferle.</p>",
+                    "headline_credit": "Germany, c. 1900",
+                    "thumbnail": {
+                        "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/E000290_MLS_Butterflies_1_Back.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=LYPucq1yERK3GcLUN%2FJwOoPPOKw%3D&Expires=1627009137",
+                        "has_video": false
+                    },
+                    "record_type": "work",
+                    "type": "Object",
+                    "is_on_display": true,
+                    "last_on_display_place": "ACMI: Gallery 1",
+                    "last_on_display_date": "2021-08-12",
+                    "is_context_indigenous": false,
+                    "material_description": "glass slide, gum arabic tape",
+                    "unpublished": false,
+                    "first_production_date": null
+                },
+                {
+                    "id": 99500,
+                    "acmi_id": "179023",
+                    "title": "Toy lantern slides",
+                    "title_annotation": "",
+                    "slug": "the-empire-magic-lantern-outfit-glass-slides-birds",
+                    "creator_credit": "The Empire Magic Lantern Outfit",
+                    "credit_line": "<p>ACMI Collection. Donated by William Kerr on behalf of Edwin Schefferle.</p>",
+                    "headline_credit": "Germany, c. 1900",
+                    "thumbnail": {
+                        "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/E000289_EML_GlassSlides_Birds_Group.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=NFxHxvSzAXOsWKkqK%2BS2Tc4Kqc0%3D&Expires=1627009137",
+                        "has_video": false
+                    },
+                    "record_type": "work",
+                    "type": "Object",
+                    "is_on_display": true,
+                    "last_on_display_place": "ACMI: Gallery 1",
+                    "last_on_display_date": "2021-08-12",
+                    "is_context_indigenous": false,
+                    "material_description": "glass slide, gum arabic tape",
+                    "unpublished": false,
+                    "first_production_date": null
+                },
+                {
+                    "id": 99684,
+                    "acmi_id": "180155",
+                    "title": "Toy lantern slides",
+                    "title_annotation": "Facsimile",
+                    "slug": "facsimile-the-empire-magic-lantern-outfit-glass-slide-detail",
+                    "creator_credit": "The Empire Magic Lantern Outfit",
+                    "credit_line": "<p>ACMI Collection. Donated by William Kerr on behalf of Edwin Schefferle.</p>",
+                    "headline_credit": "Germany, c. 1900",
+                    "thumbnail": {
+                        "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/FC180155_FACSIMILE_EMLglassSlide.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=yElVRDETaGFDgLt%2FHzlHTMoLQqM%3D&Expires=1627009137",
+                        "has_video": false
+                    },
+                    "record_type": "work",
+                    "type": "Object",
+                    "is_on_display": true,
+                    "last_on_display_place": "ACMI: Gallery 1",
+                    "last_on_display_date": "2021-08-12",
+                    "is_context_indigenous": false,
+                    "material_description": "hand-coloured photographic print on glass",
+                    "unpublished": false,
+                    "first_production_date": null
+                },
+                {
+                    "id": 99686,
+                    "acmi_id": "180157",
+                    "title": "Toy lantern slides",
+                    "title_annotation": "Facsimile",
+                    "slug": "facsimile-the-empire-magic-lantern-outfit-glass-slide-detail",
+                    "creator_credit": "The Empire Magic Lantern Outfit",
+                    "credit_line": "<p>ACMI Collection. Donated by William Kerr on behalf of Edwin Schefferle.</p>",
+                    "headline_credit": "Germany, c. 1900",
+                    "thumbnail": {
+                        "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/FC180157_FACSIMILE_EMLglassSlide_Butterfly.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=FOno5RvinVH4248t7MUAWJkEL9Y%3D&Expires=1627009137",
+                        "has_video": false
+                    },
+                    "record_type": "work",
+                    "type": "Object",
+                    "is_on_display": true,
+                    "last_on_display_place": "ACMI: Gallery 1",
+                    "last_on_display_date": "2021-08-12",
+                    "is_context_indigenous": false,
+                    "material_description": "hand-coloured photographic print on glass",
+                    "unpublished": false,
+                    "first_production_date": null
+                }
+            ],
+            "source": {
+                "name": "Vernon",
+                "slug": "vernon"
+            },
+            "source_identifier": "180156",
+            "production_places": [
+                {
+                    "id": 18,
+                    "name": "Germany",
+                    "slug": "germany"
+                }
+            ],
+            "production_dates": [
+                {
+                    "date": "c. 1900",
+                    "notes": "",
+                    "to_year": "c. 1900"
+                }
+            ],
+            "labels": [
+                39180
+            ]
+        },
+        {
+            "id": 99684,
+            "acmi_id": "180155",
+            "title": "Toy lantern slides",
+            "title_annotation": "Facsimile",
+            "slug": "facsimile-the-empire-magic-lantern-outfit-glass-slide-detail",
+            "creator_credit": "The Empire Magic Lantern Outfit",
+            "credit_line": "<p>ACMI Collection. Donated by William Kerr on behalf of Edwin Schefferle.</p>",
+            "headline_credit": "Germany, c. 1900",
+            "thumbnail": {
+                "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/FC180155_FACSIMILE_EMLglassSlide.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=yElVRDETaGFDgLt%2FHzlHTMoLQqM%3D&Expires=1627009137",
+                "has_video": false
+            },
+            "record_type": "work",
+            "type": "Object",
+            "is_on_display": true,
+            "last_on_display_place": "ACMI: Gallery 1",
+            "last_on_display_date": "2021-08-12",
+            "is_context_indigenous": false,
+            "material_description": "hand-coloured photographic print on glass",
+            "unpublished": false,
+            "first_production_date": null,
+            "brief_description": "<p>Facsimile of E000291</p>",
+            "constellations_primary": [],
+            "constellations_other": [],
+            "recommendations": [],
+            "title_for_label": "<p>Toy lantern slides</p>",
+            "creator_credit_for_label": "<p>The Empire Magic Lantern Outfit</p>",
+            "headline_credit_for_label": "<p>Germany, c. 1900</p>",
+            "description": "<p>Facsimile of E000291</p>",
+            "description_for_label": [
+                "<p>Facsimile of E000291</p>"
+            ],
+            "credit_line_for_label": "<p>ACMI Collection. Donated by William Kerr on behalf of Edwin Schefferle.</p>",
+            "details": [
+                {
+                    "label": "Curatorial section",
+                    "display_values": [
+                        "The Story of the Moving Image&nbsp;→ Moving Pictures&nbsp;→ 02. Play and Illusion&nbsp;→ MI-02-C01"
+                    ]
+                },
+                {
+                    "label": "Measurements",
+                    "display_values": [
+                        "30 x 110 x 2mm"
+                    ]
+                },
+                {
+                    "label": "Materials",
+                    "display_values": [
+                        "hand-coloured photographic print on glass"
+                    ]
+                }
+            ],
+            "stats": {
+                "tap_count": 0
+            },
+            "links": [],
+            "creators_primary": [
+                {
+                    "id": 1134474,
+                    "name": "The Empire Magic Lantern Outfit",
+                    "creator_id": 71430,
+                    "role": "creator",
+                    "role_id": 968,
+                    "is_primary": true
+                }
+            ],
+            "creators_other": [],
+            "video_links": [],
+            "media_note": null,
+            "images": [
+                {
+                    "id": 12135,
+                    "image_file": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/FC180155_FACSIMILE_EMLglassSlide.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=nYgGN%2FacwUlrsBNJYsirH1tUsoI%3D&Expires=1627009137",
+                    "image_file_thumbnail": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/FC180155_FACSIMILE_EMLglassSlide.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=yElVRDETaGFDgLt%2FHzlHTMoLQqM%3D&Expires=1627009137",
+                    "image_file_xs": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/FC180155_FACSIMILE_EMLglassSlide.jpg.480x480_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=L7ZoyF6VEaoE88eZ16XkWWvxbwE%3D&Expires=1627009137",
+                    "image_file_s": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/FC180155_FACSIMILE_EMLglassSlide.jpg.960x960_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=vuZM7AH8JJHOdzjviTOgNCa2Elk%3D&Expires=1627009137",
+                    "image_file_m": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/FC180155_FACSIMILE_EMLglassSlide.jpg.1920x1920_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=rGYz4I%2BMqbpetpfx%2BGueUGGNgDk%3D&Expires=1627009137",
+                    "image_file_l": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/FC180155_FACSIMILE_EMLglassSlide.jpg.3840x3840_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=Y7SHnarIBIkZgnKz0Ul3G1ltu58%3D&Expires=1627009137",
+                    "caption": "FACSIMILE_RenewalPhotographyProject2020",
+                    "credit_line": "",
+                    "alt_text": "",
+                    "width": 4711,
+                    "height": 3141,
+                    "access_level": "View anywhere"
+                }
+            ],
+            "videos": [],
+            "holdings": [],
+            "part_of": null,
+            "parts": [],
+            "part_siblings": [],
+            "group": {
+                "id": 112078,
+                "acmi_id": "183531",
+                "title": "Toy lantern slides",
+                "title_annotation": "",
+                "slug": "toy-lantern-slides",
+                "creator_credit": "The Empire Magic Lantern Outfit",
+                "credit_line": "<p>ACMI Collection<br />\nDonated by William Kerr on behalf of Edwin Schefferie</p>",
+                "headline_credit": "Germany, c. 1900",
+                "thumbnail": {
+                    "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/E000292_EML_GlassSlide_Reptiles_1_Back.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=9a0F7Yoqz6tTaIKE6PZjGvZB8mY%3D&Expires=1627009137",
+                    "has_video": false
+                },
+                "record_type": "group",
+                "type": "Film",
+                "is_on_display": true,
+                "last_on_display_place": "ACMI: Gallery 1",
+                "last_on_display_date": "2021-08-12",
+                "is_context_indigenous": false,
+                "material_description": "",
+                "unpublished": false,
+                "first_production_date": null
+            },
+            "group_works": [],
+            "group_siblings": [
+                {
+                    "id": 99683,
+                    "acmi_id": "180154",
+                    "title": "Toy lantern slides",
+                    "title_annotation": "Facsimile",
+                    "slug": "facsimile-the-empire-magic-lantern-outfit-glass-slide",
+                    "creator_credit": "The Empire Magic Lantern Outfit",
+                    "credit_line": "<p>ACMI Collection. Donated by William Kerr on behalf of Edwin Schefferle.</p>",
+                    "headline_credit": "Germany, c. 1900",
+                    "thumbnail": null,
+                    "record_type": "work",
+                    "type": "Object",
+                    "is_on_display": true,
+                    "last_on_display_place": "ACMI: Gallery 1",
+                    "last_on_display_date": "2021-08-12",
+                    "is_context_indigenous": false,
+                    "material_description": "hand-coloured photographic print on glass",
+                    "unpublished": false,
+                    "first_production_date": null
+                },
+                {
+                    "id": 99503,
+                    "acmi_id": "179026",
+                    "title": "Toy lantern slides",
+                    "title_annotation": "",
+                    "slug": "the-empire-magic-lantern-outfit-glass-slides-reptiles",
+                    "creator_credit": "The Empire Magic Lantern Outfit",
+                    "credit_line": "<p>ACMI Collection. Donated by William Kerr on behalf of Edwin Schefferle.</p>",
+                    "headline_credit": "Germany, c. 1900",
+                    "thumbnail": {
+                        "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/E000292_EML_GlassSlide_Reptiles_1_Back.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=9a0F7Yoqz6tTaIKE6PZjGvZB8mY%3D&Expires=1627009137",
+                        "has_video": false
+                    },
+                    "record_type": "work",
+                    "type": "Object",
+                    "is_on_display": true,
+                    "last_on_display_place": "ACMI: Gallery 1",
+                    "last_on_display_date": "2021-08-12",
+                    "is_context_indigenous": false,
+                    "material_description": "glass slide, gum arabic tape",
+                    "unpublished": false,
+                    "first_production_date": null
+                },
+                {
+                    "id": 99502,
+                    "acmi_id": "179025",
+                    "title": "Toy lantern slides",
+                    "title_annotation": "",
+                    "slug": "the-empire-magic-lantern-outfit-glass-slides-sea-life",
+                    "creator_credit": "The Empire Magic Lantern Outfit",
+                    "credit_line": "<p>ACMI Collection. Donated by William Kerr on behalf of Edwin Schefferle.</p>",
+                    "headline_credit": "Germany, c. 1900",
+                    "thumbnail": {
+                        "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/E000291_EML_GlassSlides_SeaLife_1_Back.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=pjNsRIPax%2FKYJCQQD%2BfNyL0vRXs%3D&Expires=1627009137",
+                        "has_video": false
+                    },
+                    "record_type": "work",
+                    "type": "Object",
+                    "is_on_display": true,
+                    "last_on_display_place": "ACMI: Gallery 1",
+                    "last_on_display_date": "2021-08-12",
+                    "is_context_indigenous": false,
+                    "material_description": "glass slide, gum arabic tape",
+                    "unpublished": false,
+                    "first_production_date": null
+                },
+                {
+                    "id": 99501,
+                    "acmi_id": "179024",
+                    "title": "Toy lantern slides",
+                    "title_annotation": "",
+                    "slug": "the-empire-magic-lantern-outfit-glass-slides-butterflies",
+                    "creator_credit": "The Empire Magic Lantern Outfit",
+                    "credit_line": "<p>ACMI Collection. Donated by William Kerr on behalf of Edwin Schefferle.</p>",
+                    "headline_credit": "Germany, c. 1900",
+                    "thumbnail": {
+                        "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/E000290_MLS_Butterflies_1_Back.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=LYPucq1yERK3GcLUN%2FJwOoPPOKw%3D&Expires=1627009137",
+                        "has_video": false
+                    },
+                    "record_type": "work",
+                    "type": "Object",
+                    "is_on_display": true,
+                    "last_on_display_place": "ACMI: Gallery 1",
+                    "last_on_display_date": "2021-08-12",
+                    "is_context_indigenous": false,
+                    "material_description": "glass slide, gum arabic tape",
+                    "unpublished": false,
+                    "first_production_date": null
+                },
+                {
+                    "id": 99500,
+                    "acmi_id": "179023",
+                    "title": "Toy lantern slides",
+                    "title_annotation": "",
+                    "slug": "the-empire-magic-lantern-outfit-glass-slides-birds",
+                    "creator_credit": "The Empire Magic Lantern Outfit",
+                    "credit_line": "<p>ACMI Collection. Donated by William Kerr on behalf of Edwin Schefferle.</p>",
+                    "headline_credit": "Germany, c. 1900",
+                    "thumbnail": {
+                        "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/E000289_EML_GlassSlides_Birds_Group.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=NFxHxvSzAXOsWKkqK%2BS2Tc4Kqc0%3D&Expires=1627009137",
+                        "has_video": false
+                    },
+                    "record_type": "work",
+                    "type": "Object",
+                    "is_on_display": true,
+                    "last_on_display_place": "ACMI: Gallery 1",
+                    "last_on_display_date": "2021-08-12",
+                    "is_context_indigenous": false,
+                    "material_description": "glass slide, gum arabic tape",
+                    "unpublished": false,
+                    "first_production_date": null
+                },
+                {
+                    "id": 99686,
+                    "acmi_id": "180157",
+                    "title": "Toy lantern slides",
+                    "title_annotation": "Facsimile",
+                    "slug": "facsimile-the-empire-magic-lantern-outfit-glass-slide-detail",
+                    "creator_credit": "The Empire Magic Lantern Outfit",
+                    "credit_line": "<p>ACMI Collection. Donated by William Kerr on behalf of Edwin Schefferle.</p>",
+                    "headline_credit": "Germany, c. 1900",
+                    "thumbnail": {
+                        "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/FC180157_FACSIMILE_EMLglassSlide_Butterfly.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=FOno5RvinVH4248t7MUAWJkEL9Y%3D&Expires=1627009137",
+                        "has_video": false
+                    },
+                    "record_type": "work",
+                    "type": "Object",
+                    "is_on_display": true,
+                    "last_on_display_place": "ACMI: Gallery 1",
+                    "last_on_display_date": "2021-08-12",
+                    "is_context_indigenous": false,
+                    "material_description": "hand-coloured photographic print on glass",
+                    "unpublished": false,
+                    "first_production_date": null
+                },
+                {
+                    "id": 99685,
+                    "acmi_id": "180156",
+                    "title": "Toy lantern slides",
+                    "title_annotation": "Facsimile",
+                    "slug": "facsimile-the-empire-magic-lantern-outfit-glass-slide",
+                    "creator_credit": "The Empire Magic Lantern Outfit",
+                    "credit_line": "<p>ACMI Collection. Donated by William Kerr on behalf of Edwin Schefferle.</p>",
+                    "headline_credit": "Germany, c. 1900",
+                    "thumbnail": null,
+                    "record_type": "work",
+                    "type": "Object",
+                    "is_on_display": true,
+                    "last_on_display_place": "ACMI: Gallery 1",
+                    "last_on_display_date": "2021-08-12",
+                    "is_context_indigenous": false,
+                    "material_description": "hand-coloured photographic print on glass",
+                    "unpublished": false,
+                    "first_production_date": null
+                }
+            ],
+            "source": {
+                "name": "Vernon",
+                "slug": "vernon"
+            },
+            "source_identifier": "180155",
+            "production_places": [
+                {
+                    "id": 18,
+                    "name": "Germany",
+                    "slug": "germany"
+                }
+            ],
+            "production_dates": [
+                {
+                    "date": "c. 1900",
+                    "notes": "",
+                    "to_year": "c. 1900"
+                }
+            ],
+            "labels": [
+                39179
+            ]
+        },
+        {
+            "id": 99683,
+            "acmi_id": "180154",
+            "title": "Toy lantern slides",
+            "title_annotation": "Facsimile",
+            "slug": "facsimile-the-empire-magic-lantern-outfit-glass-slide",
+            "creator_credit": "The Empire Magic Lantern Outfit",
+            "credit_line": "<p>ACMI Collection. Donated by William Kerr on behalf of Edwin Schefferle.</p>",
+            "headline_credit": "Germany, c. 1900",
+            "thumbnail": null,
+            "record_type": "work",
+            "type": "Object",
+            "is_on_display": true,
+            "last_on_display_place": "ACMI: Gallery 1",
+            "last_on_display_date": "2021-08-12",
+            "is_context_indigenous": false,
+            "material_description": "hand-coloured photographic print on glass",
+            "unpublished": false,
+            "first_production_date": null,
+            "brief_description": "<p>Facsimile of E000291</p>",
+            "constellations_primary": [],
+            "constellations_other": [],
+            "recommendations": [],
+            "title_for_label": "<p>Toy lantern slides</p>",
+            "creator_credit_for_label": "<p>The Empire Magic Lantern Outfit</p>",
+            "headline_credit_for_label": "<p>Germany, c. 1900</p>",
+            "description": "<p>Facsimile of E000291</p>",
+            "description_for_label": [
+                "<p>Facsimile of E000291</p>"
+            ],
+            "credit_line_for_label": "<p>ACMI Collection. Donated by William Kerr on behalf of Edwin Schefferle.</p>",
+            "details": [
+                {
+                    "label": "Curatorial section",
+                    "display_values": [
+                        "The Story of the Moving Image&nbsp;→ Moving Pictures&nbsp;→ 02. Play and Illusion&nbsp;→ MI-02-C01"
+                    ]
+                },
+                {
+                    "label": "Measurements",
+                    "display_values": [
+                        "81 x 81 x 2mm"
+                    ]
+                },
+                {
+                    "label": "Materials",
+                    "display_values": [
+                        "hand-coloured photographic print on glass"
+                    ]
+                }
+            ],
+            "stats": {
+                "tap_count": 0
+            },
+            "links": [],
+            "creators_primary": [
+                {
+                    "id": 1134473,
+                    "name": "The Empire Magic Lantern Outfit",
+                    "creator_id": 71430,
+                    "role": "creator",
+                    "role_id": 968,
+                    "is_primary": true
+                }
+            ],
+            "creators_other": [],
+            "video_links": [],
+            "media_note": "Sorry, we don't have images or video for this item.",
+            "images": [],
+            "videos": [],
+            "holdings": [],
+            "part_of": null,
+            "parts": [],
+            "part_siblings": [],
+            "group": {
+                "id": 112078,
+                "acmi_id": "183531",
+                "title": "Toy lantern slides",
+                "title_annotation": "",
+                "slug": "toy-lantern-slides",
+                "creator_credit": "The Empire Magic Lantern Outfit",
+                "credit_line": "<p>ACMI Collection<br />\nDonated by William Kerr on behalf of Edwin Schefferie</p>",
+                "headline_credit": "Germany, c. 1900",
+                "thumbnail": {
+                    "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/E000292_EML_GlassSlide_Reptiles_1_Back.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=9a0F7Yoqz6tTaIKE6PZjGvZB8mY%3D&Expires=1627009137",
+                    "has_video": false
+                },
+                "record_type": "group",
+                "type": "Film",
+                "is_on_display": true,
+                "last_on_display_place": "ACMI: Gallery 1",
+                "last_on_display_date": "2021-08-12",
+                "is_context_indigenous": false,
+                "material_description": "",
+                "unpublished": false,
+                "first_production_date": null
+            },
+            "group_works": [],
+            "group_siblings": [
+                {
+                    "id": 99503,
+                    "acmi_id": "179026",
+                    "title": "Toy lantern slides",
+                    "title_annotation": "",
+                    "slug": "the-empire-magic-lantern-outfit-glass-slides-reptiles",
+                    "creator_credit": "The Empire Magic Lantern Outfit",
+                    "credit_line": "<p>ACMI Collection. Donated by William Kerr on behalf of Edwin Schefferle.</p>",
+                    "headline_credit": "Germany, c. 1900",
+                    "thumbnail": {
+                        "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/E000292_EML_GlassSlide_Reptiles_1_Back.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=9a0F7Yoqz6tTaIKE6PZjGvZB8mY%3D&Expires=1627009137",
+                        "has_video": false
+                    },
+                    "record_type": "work",
+                    "type": "Object",
+                    "is_on_display": true,
+                    "last_on_display_place": "ACMI: Gallery 1",
+                    "last_on_display_date": "2021-08-12",
+                    "is_context_indigenous": false,
+                    "material_description": "glass slide, gum arabic tape",
+                    "unpublished": false,
+                    "first_production_date": null
+                },
+                {
+                    "id": 99502,
+                    "acmi_id": "179025",
+                    "title": "Toy lantern slides",
+                    "title_annotation": "",
+                    "slug": "the-empire-magic-lantern-outfit-glass-slides-sea-life",
+                    "creator_credit": "The Empire Magic Lantern Outfit",
+                    "credit_line": "<p>ACMI Collection. Donated by William Kerr on behalf of Edwin Schefferle.</p>",
+                    "headline_credit": "Germany, c. 1900",
+                    "thumbnail": {
+                        "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/E000291_EML_GlassSlides_SeaLife_1_Back.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=pjNsRIPax%2FKYJCQQD%2BfNyL0vRXs%3D&Expires=1627009137",
+                        "has_video": false
+                    },
+                    "record_type": "work",
+                    "type": "Object",
+                    "is_on_display": true,
+                    "last_on_display_place": "ACMI: Gallery 1",
+                    "last_on_display_date": "2021-08-12",
+                    "is_context_indigenous": false,
+                    "material_description": "glass slide, gum arabic tape",
+                    "unpublished": false,
+                    "first_production_date": null
+                },
+                {
+                    "id": 99501,
+                    "acmi_id": "179024",
+                    "title": "Toy lantern slides",
+                    "title_annotation": "",
+                    "slug": "the-empire-magic-lantern-outfit-glass-slides-butterflies",
+                    "creator_credit": "The Empire Magic Lantern Outfit",
+                    "credit_line": "<p>ACMI Collection. Donated by William Kerr on behalf of Edwin Schefferle.</p>",
+                    "headline_credit": "Germany, c. 1900",
+                    "thumbnail": {
+                        "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/E000290_MLS_Butterflies_1_Back.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=LYPucq1yERK3GcLUN%2FJwOoPPOKw%3D&Expires=1627009137",
+                        "has_video": false
+                    },
+                    "record_type": "work",
+                    "type": "Object",
+                    "is_on_display": true,
+                    "last_on_display_place": "ACMI: Gallery 1",
+                    "last_on_display_date": "2021-08-12",
+                    "is_context_indigenous": false,
+                    "material_description": "glass slide, gum arabic tape",
+                    "unpublished": false,
+                    "first_production_date": null
+                },
+                {
+                    "id": 99500,
+                    "acmi_id": "179023",
+                    "title": "Toy lantern slides",
+                    "title_annotation": "",
+                    "slug": "the-empire-magic-lantern-outfit-glass-slides-birds",
+                    "creator_credit": "The Empire Magic Lantern Outfit",
+                    "credit_line": "<p>ACMI Collection. Donated by William Kerr on behalf of Edwin Schefferle.</p>",
+                    "headline_credit": "Germany, c. 1900",
+                    "thumbnail": {
+                        "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/E000289_EML_GlassSlides_Birds_Group.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=NFxHxvSzAXOsWKkqK%2BS2Tc4Kqc0%3D&Expires=1627009137",
+                        "has_video": false
+                    },
+                    "record_type": "work",
+                    "type": "Object",
+                    "is_on_display": true,
+                    "last_on_display_place": "ACMI: Gallery 1",
+                    "last_on_display_date": "2021-08-12",
+                    "is_context_indigenous": false,
+                    "material_description": "glass slide, gum arabic tape",
+                    "unpublished": false,
+                    "first_production_date": null
+                },
+                {
+                    "id": 99684,
+                    "acmi_id": "180155",
+                    "title": "Toy lantern slides",
+                    "title_annotation": "Facsimile",
+                    "slug": "facsimile-the-empire-magic-lantern-outfit-glass-slide-detail",
+                    "creator_credit": "The Empire Magic Lantern Outfit",
+                    "credit_line": "<p>ACMI Collection. Donated by William Kerr on behalf of Edwin Schefferle.</p>",
+                    "headline_credit": "Germany, c. 1900",
+                    "thumbnail": {
+                        "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/FC180155_FACSIMILE_EMLglassSlide.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=yElVRDETaGFDgLt%2FHzlHTMoLQqM%3D&Expires=1627009137",
+                        "has_video": false
+                    },
+                    "record_type": "work",
+                    "type": "Object",
+                    "is_on_display": true,
+                    "last_on_display_place": "ACMI: Gallery 1",
+                    "last_on_display_date": "2021-08-12",
+                    "is_context_indigenous": false,
+                    "material_description": "hand-coloured photographic print on glass",
+                    "unpublished": false,
+                    "first_production_date": null
+                },
+                {
+                    "id": 99686,
+                    "acmi_id": "180157",
+                    "title": "Toy lantern slides",
+                    "title_annotation": "Facsimile",
+                    "slug": "facsimile-the-empire-magic-lantern-outfit-glass-slide-detail",
+                    "creator_credit": "The Empire Magic Lantern Outfit",
+                    "credit_line": "<p>ACMI Collection. Donated by William Kerr on behalf of Edwin Schefferle.</p>",
+                    "headline_credit": "Germany, c. 1900",
+                    "thumbnail": {
+                        "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/FC180157_FACSIMILE_EMLglassSlide_Butterfly.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=FOno5RvinVH4248t7MUAWJkEL9Y%3D&Expires=1627009137",
+                        "has_video": false
+                    },
+                    "record_type": "work",
+                    "type": "Object",
+                    "is_on_display": true,
+                    "last_on_display_place": "ACMI: Gallery 1",
+                    "last_on_display_date": "2021-08-12",
+                    "is_context_indigenous": false,
+                    "material_description": "hand-coloured photographic print on glass",
+                    "unpublished": false,
+                    "first_production_date": null
+                },
+                {
+                    "id": 99685,
+                    "acmi_id": "180156",
+                    "title": "Toy lantern slides",
+                    "title_annotation": "Facsimile",
+                    "slug": "facsimile-the-empire-magic-lantern-outfit-glass-slide",
+                    "creator_credit": "The Empire Magic Lantern Outfit",
+                    "credit_line": "<p>ACMI Collection. Donated by William Kerr on behalf of Edwin Schefferle.</p>",
+                    "headline_credit": "Germany, c. 1900",
+                    "thumbnail": null,
+                    "record_type": "work",
+                    "type": "Object",
+                    "is_on_display": true,
+                    "last_on_display_place": "ACMI: Gallery 1",
+                    "last_on_display_date": "2021-08-12",
+                    "is_context_indigenous": false,
+                    "material_description": "hand-coloured photographic print on glass",
+                    "unpublished": false,
+                    "first_production_date": null
+                }
+            ],
+            "source": {
+                "name": "Vernon",
+                "slug": "vernon"
+            },
+            "source_identifier": "180154",
+            "production_places": [
+                {
+                    "id": 18,
+                    "name": "Germany",
+                    "slug": "germany"
+                }
+            ],
+            "production_dates": [
+                {
+                    "date": "c. 1900",
+                    "notes": "",
+                    "to_year": "c. 1900"
+                }
+            ],
+            "labels": [
+                39178
+            ]
+        },
+        {
+            "id": 99607,
+            "acmi_id": "179873",
+            "title": "European hand painted panoramic magic lantern slides",
+            "title_annotation": "",
+            "slug": "european-panoramic-slide-1212",
+            "creator_credit": "Maker not documented",
+            "credit_line": "<p>Courtesy Martyn Jolly</p>",
+            "headline_credit": "",
+            "thumbnail": {
+                "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN179873_EuropeanPanoramicSlide_12_Front.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=tF2qhtPyX7MLki%2F%2FZwTwFa6Q%2FOo%3D&Expires=1627009137",
+                "has_video": false
+            },
+            "record_type": "work",
+            "type": "Object",
+            "is_on_display": false,
+            "last_on_display_place": "ACMI",
+            "last_on_display_date": "2022-02-10",
+            "is_context_indigenous": false,
+            "material_description": "wood, glass, pigment",
+            "unpublished": false,
+            "first_production_date": null,
+            "brief_description": "",
+            "constellations_primary": [],
+            "constellations_other": [],
+            "recommendations": [],
+            "title_for_label": "<p>European hand painted panoramic slides</p>",
+            "creator_credit_for_label": "<p>Maker not documented</p>",
+            "headline_credit_for_label": "",
+            "description": "",
+            "description_for_label": [],
+            "credit_line_for_label": "<p>Courtesy Martyn Jolly</p>",
+            "details": [
+                {
+                    "label": "Curatorial section",
+                    "display_values": [
+                        "The Story of the Moving Image&nbsp;→ Moving Pictures&nbsp;→ 02. Play and Illusion&nbsp;→ MI-02-C01"
+                    ]
+                },
+                {
+                    "label": "Measurements",
+                    "display_values": [
+                        "88 x 350 x 6mm"
+                    ]
+                },
+                {
+                    "label": "Materials",
+                    "display_values": [
+                        "wood, glass, pigment"
+                    ]
+                }
+            ],
+            "stats": {
+                "tap_count": 0
+            },
+            "links": [],
+            "creators_primary": [
+                {
+                    "id": 1134472,
+                    "name": "Maker not documented",
+                    "creator_id": 71446,
+                    "role": "creator",
+                    "role_id": 968,
+                    "is_primary": true
+                }
+            ],
+            "creators_other": [],
+            "video_links": [],
+            "media_note": null,
+            "images": [
+                {
+                    "id": 12578,
+                    "image_file": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN179873_EuropeanPanoramicSlide_12_Front.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=eAlFKrOAtxYdzOMGMpEVUAm8Otw%3D&Expires=1627009137",
+                    "image_file_thumbnail": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN179873_EuropeanPanoramicSlide_12_Front.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=tF2qhtPyX7MLki%2F%2FZwTwFa6Q%2FOo%3D&Expires=1627009137",
+                    "image_file_xs": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN179873_EuropeanPanoramicSlide_12_Front.jpg.480x480_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=8BSdoiMwX7MyMwPJIHxIAqEDUGA%3D&Expires=1627009137",
+                    "image_file_s": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN179873_EuropeanPanoramicSlide_12_Front.jpg.960x960_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=RELUv5GgiN3kQ%2BZmxgzbSH5U9xw%3D&Expires=1627009137",
+                    "image_file_m": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN179873_EuropeanPanoramicSlide_12_Front.jpg.1920x1920_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=rlLDQaHPwsc4urRXb73m%2BkMUBoU%3D&Expires=1627009137",
+                    "image_file_l": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN179873_EuropeanPanoramicSlide_12_Front.jpg.3840x3840_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=ANyhW0DQD3UaAie6wG2COsTw1zU%3D&Expires=1627009137",
+                    "caption": "LN179873_EuropeanPanoramicSlide_12_Front",
+                    "credit_line": "Photograph by Egmont Contreras, ACMI",
+                    "alt_text": "",
+                    "width": 4555,
+                    "height": 1572,
+                    "access_level": "View anywhere"
+                },
+                {
+                    "id": 12579,
+                    "image_file": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN179873_EuropeanPanoramicSlide_12_Back.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=dY2%2BGmicfXQoR0z4YYCEHEG7kZo%3D&Expires=1627009137",
+                    "image_file_thumbnail": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN179873_EuropeanPanoramicSlide_12_Back.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=ndMwl9THqshuD6E9ck4kszfJdqs%3D&Expires=1627009137",
+                    "image_file_xs": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN179873_EuropeanPanoramicSlide_12_Back.jpg.480x480_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=y%2FlVwsRLo3HmL2eDzk1bRohLIak%3D&Expires=1627009137",
+                    "image_file_s": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN179873_EuropeanPanoramicSlide_12_Back.jpg.960x960_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=Xjzl0vRF%2BUaRlI2LxdAsSs1gSyY%3D&Expires=1627009137",
+                    "image_file_m": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN179873_EuropeanPanoramicSlide_12_Back.jpg.1920x1920_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=lXFh%2BzhMxRdD7P44pfhuB4bGNJs%3D&Expires=1627009137",
+                    "image_file_l": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN179873_EuropeanPanoramicSlide_12_Back.jpg.3840x3840_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=obkCVguRFBHxjqS3ubtRUcoY4N4%3D&Expires=1627009137",
+                    "caption": "LN179873_EuropeanPanoramicSlide_12_Back",
+                    "credit_line": "Photograph by Egmont Contreras, ACMI",
+                    "alt_text": "",
+                    "width": 4549,
+                    "height": 1460,
+                    "access_level": "View anywhere"
+                }
+            ],
+            "videos": [],
+            "holdings": [],
+            "part_of": null,
+            "parts": [],
+            "part_siblings": [],
+            "group": null,
+            "group_works": [],
+            "group_siblings": [],
+            "source": {
+                "name": "Vernon",
+                "slug": "vernon"
+            },
+            "source_identifier": "179873",
+            "production_places": [],
+            "production_dates": [],
+            "labels": [
+                39102
+            ]
+        },
+        {
+            "id": 99606,
+            "acmi_id": "179872",
+            "title": "European hand painted panoramic magic lantern slides",
+            "title_annotation": "",
+            "slug": "european-panoramic-slide-1112",
+            "creator_credit": "Maker not documented",
+            "credit_line": "<p>Courtesy Martyn Jolly</p>",
+            "headline_credit": "",
+            "thumbnail": {
+                "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN179872_EuropeanPanoramicSlide_11_Front.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=L42leNGcMfzMZlxGExBzJSsxwxI%3D&Expires=1627009137",
+                "has_video": false
+            },
+            "record_type": "work",
+            "type": "Object",
+            "is_on_display": false,
+            "last_on_display_place": "ACMI",
+            "last_on_display_date": "2022-02-10",
+            "is_context_indigenous": false,
+            "material_description": "wood, glass, pigment",
+            "unpublished": false,
+            "first_production_date": null,
+            "brief_description": "",
+            "constellations_primary": [],
+            "constellations_other": [],
+            "recommendations": [],
+            "title_for_label": "<p>European hand painted panoramic slides</p>",
+            "creator_credit_for_label": "<p>Maker not documented</p>",
+            "headline_credit_for_label": "",
+            "description": "",
+            "description_for_label": [],
+            "credit_line_for_label": "<p>Courtesy Martyn Jolly</p>",
+            "details": [
+                {
+                    "label": "Curatorial section",
+                    "display_values": [
+                        "The Story of the Moving Image&nbsp;→ Moving Pictures&nbsp;→ 02. Play and Illusion&nbsp;→ MI-02-C01"
+                    ]
+                },
+                {
+                    "label": "Measurements",
+                    "display_values": [
+                        "88 x 350 x 6mm"
+                    ]
+                },
+                {
+                    "label": "Materials",
+                    "display_values": [
+                        "wood, glass, pigment"
+                    ]
+                }
+            ],
+            "stats": {
+                "tap_count": 0
+            },
+            "links": [],
+            "creators_primary": [
+                {
+                    "id": 1134471,
+                    "name": "Maker not documented",
+                    "creator_id": 71446,
+                    "role": "creator",
+                    "role_id": 968,
+                    "is_primary": true
+                }
+            ],
+            "creators_other": [],
+            "video_links": [],
+            "media_note": null,
+            "images": [
+                {
+                    "id": 12576,
+                    "image_file": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN179872_EuropeanPanoramicSlide_11_Front.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=pwdnIH91WfbHtJPG6Ldu8UzjifA%3D&Expires=1627009137",
+                    "image_file_thumbnail": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN179872_EuropeanPanoramicSlide_11_Front.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=L42leNGcMfzMZlxGExBzJSsxwxI%3D&Expires=1627009137",
+                    "image_file_xs": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN179872_EuropeanPanoramicSlide_11_Front.jpg.480x480_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=CLvJDtjrMvvmEj5EmV1567D7WbA%3D&Expires=1627009137",
+                    "image_file_s": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN179872_EuropeanPanoramicSlide_11_Front.jpg.960x960_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=LbkZpRyluRuzgLN1%2Fjiy4FKvMEU%3D&Expires=1627009137",
+                    "image_file_m": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN179872_EuropeanPanoramicSlide_11_Front.jpg.1920x1920_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=dFSgnpMJ58FF8sqDCVDVLCg%2F%2FaA%3D&Expires=1627009137",
+                    "image_file_l": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN179872_EuropeanPanoramicSlide_11_Front.jpg.3840x3840_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=Hbhna4w1kDMbMrQ37wg3rBAnHK8%3D&Expires=1627009137",
+                    "caption": "LN179872_EuropeanPanoramicSlide_11_Front",
+                    "credit_line": "Photograph by Egmont Contreras, ACMI",
+                    "alt_text": "",
+                    "width": 4631,
+                    "height": 1538,
+                    "access_level": "View anywhere"
+                },
+                {
+                    "id": 12577,
+                    "image_file": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN179872_EuropeanPanoramicSlide_11_Back.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=dnETxzqw1u2dEsVzjD87HWOdcAM%3D&Expires=1627009137",
+                    "image_file_thumbnail": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN179872_EuropeanPanoramicSlide_11_Back.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=Qj3lTlRMu8Pg%2BNvjmoAjjEupEYY%3D&Expires=1627009137",
+                    "image_file_xs": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN179872_EuropeanPanoramicSlide_11_Back.jpg.480x480_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=hTvr16up7ERgIQtDO5IIzgR2Um4%3D&Expires=1627009137",
+                    "image_file_s": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN179872_EuropeanPanoramicSlide_11_Back.jpg.960x960_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=pyqIprZITLn62HphzlpNsIdXjvk%3D&Expires=1627009137",
+                    "image_file_m": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN179872_EuropeanPanoramicSlide_11_Back.jpg.1920x1920_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=5HnYd0JzANlFr3uaqG%2BSdKrFbzk%3D&Expires=1627009137",
+                    "image_file_l": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN179872_EuropeanPanoramicSlide_11_Back.jpg.3840x3840_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=fLXDL3saaZORYRT9B8nsm9lQYxU%3D&Expires=1627009137",
+                    "caption": "LN179872_EuropeanPanoramicSlide_11_Back",
+                    "credit_line": "Photograph by Egmont Contreras, ACMI",
+                    "alt_text": "",
+                    "width": 4644,
+                    "height": 1501,
+                    "access_level": "View anywhere"
+                }
+            ],
+            "videos": [],
+            "holdings": [],
+            "part_of": null,
+            "parts": [],
+            "part_siblings": [],
+            "group": null,
+            "group_works": [],
+            "group_siblings": [],
+            "source": {
+                "name": "Vernon",
+                "slug": "vernon"
+            },
+            "source_identifier": "179872",
+            "production_places": [],
+            "production_dates": [],
+            "labels": [
+                39101
+            ]
+        },
+        {
+            "id": 99605,
+            "acmi_id": "179871",
+            "title": "European hand painted panoramic magic lantern slides",
+            "title_annotation": "",
+            "slug": "european-panoramic-slide-1012",
+            "creator_credit": "Maker not documented",
+            "credit_line": "<p>Courtesy Martyn Jolly</p>",
+            "headline_credit": "",
+            "thumbnail": {
+                "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN179871_EuropeanPanoramicSlide_10_Front.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=SkgBZ1BR2L9qiVoUGgrj6ajOJJ8%3D&Expires=1627009137",
+                "has_video": false
+            },
+            "record_type": "work",
+            "type": "Object",
+            "is_on_display": false,
+            "last_on_display_place": "ACMI",
+            "last_on_display_date": "2022-02-10",
+            "is_context_indigenous": false,
+            "material_description": "wood, glass, pigment",
+            "unpublished": false,
+            "first_production_date": null,
+            "brief_description": "",
+            "constellations_primary": [],
+            "constellations_other": [],
+            "recommendations": [],
+            "title_for_label": "<p>European hand painted panoramic slides</p>",
+            "creator_credit_for_label": "<p>Maker not documented</p>",
+            "headline_credit_for_label": "",
+            "description": "",
+            "description_for_label": [],
+            "credit_line_for_label": "<p>Courtesy Martyn Jolly</p>",
+            "details": [
+                {
+                    "label": "Curatorial section",
+                    "display_values": [
+                        "The Story of the Moving Image&nbsp;→ Moving Pictures&nbsp;→ 02. Play and Illusion&nbsp;→ MI-02-C01"
+                    ]
+                },
+                {
+                    "label": "Measurements",
+                    "display_values": [
+                        "88 x 350 x 6mm"
+                    ]
+                },
+                {
+                    "label": "Materials",
+                    "display_values": [
+                        "wood, glass, pigment"
+                    ]
+                }
+            ],
+            "stats": {
+                "tap_count": 0
+            },
+            "links": [],
+            "creators_primary": [
+                {
+                    "id": 1134470,
+                    "name": "Maker not documented",
+                    "creator_id": 71446,
+                    "role": "creator",
+                    "role_id": 968,
+                    "is_primary": true
+                }
+            ],
+            "creators_other": [],
+            "video_links": [],
+            "media_note": null,
+            "images": [
+                {
+                    "id": 12574,
+                    "image_file": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN179871_EuropeanPanoramicSlide_10_Front.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=ekWRlnTZBJc4Q173uCfynK%2FF0Vw%3D&Expires=1627009137",
+                    "image_file_thumbnail": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN179871_EuropeanPanoramicSlide_10_Front.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=SkgBZ1BR2L9qiVoUGgrj6ajOJJ8%3D&Expires=1627009137",
+                    "image_file_xs": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN179871_EuropeanPanoramicSlide_10_Front.jpg.480x480_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=pJvRCzuxL7XpCRcSXK7L9nx7WnE%3D&Expires=1627009137",
+                    "image_file_s": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN179871_EuropeanPanoramicSlide_10_Front.jpg.960x960_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=qdB8AE0aoHH79CH6TcZHD%2BOfiYg%3D&Expires=1627009137",
+                    "image_file_m": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN179871_EuropeanPanoramicSlide_10_Front.jpg.1920x1920_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=%2BxXNNCPwFehGnn5neZC%2FyMiumNY%3D&Expires=1627009137",
+                    "image_file_l": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN179871_EuropeanPanoramicSlide_10_Front.jpg.3840x3840_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=etq5OSpPc2sbAfOXdnz7et4%2Fn7s%3D&Expires=1627009137",
+                    "caption": "LN179871_EuropeanPanoramicSlide_10_Front",
+                    "credit_line": "Photograph by Egmont Contreras, ACMI",
+                    "alt_text": "",
+                    "width": 4612,
+                    "height": 1486,
+                    "access_level": "View anywhere"
+                },
+                {
+                    "id": 12575,
+                    "image_file": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN179871_EuropeanPanoramicSlide_10_Back.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=pBbICIvHmx%2FNseYcQz5E1Ddw7OQ%3D&Expires=1627009137",
+                    "image_file_thumbnail": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN179871_EuropeanPanoramicSlide_10_Back.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=yzTcX7YkxfwnTHt0bCp5V4%2Ff35E%3D&Expires=1627009137",
+                    "image_file_xs": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN179871_EuropeanPanoramicSlide_10_Back.jpg.480x480_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=eKLxCV0GqF1X1OdRZ2IBwq2LHfs%3D&Expires=1627009137",
+                    "image_file_s": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN179871_EuropeanPanoramicSlide_10_Back.jpg.960x960_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=jpPs52nzysyXGO%2FJHtRlP917fdA%3D&Expires=1627009137",
+                    "image_file_m": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN179871_EuropeanPanoramicSlide_10_Back.jpg.1920x1920_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=ZhdiGhBq%2FNkBXvAgxWtImMuFlIM%3D&Expires=1627009137",
+                    "image_file_l": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN179871_EuropeanPanoramicSlide_10_Back.jpg.3840x3840_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=w%2BR62L6ru6fsoabMX%2FWMLg7fJMA%3D&Expires=1627009137",
+                    "caption": "LN179871_EuropeanPanoramicSlide_10_Back",
+                    "credit_line": "Photograph by Egmont Contreras, ACMI",
+                    "alt_text": "",
+                    "width": 4686,
+                    "height": 1496,
+                    "access_level": "View anywhere"
+                }
+            ],
+            "videos": [],
+            "holdings": [],
+            "part_of": null,
+            "parts": [],
+            "part_siblings": [],
+            "group": null,
+            "group_works": [],
+            "group_siblings": [],
+            "source": {
+                "name": "Vernon",
+                "slug": "vernon"
+            },
+            "source_identifier": "179871",
+            "production_places": [],
+            "production_dates": [],
+            "labels": [
+                39100
+            ]
+        },
+        {
+            "id": 99604,
+            "acmi_id": "179870",
+            "title": "European hand painted panoramic magic lantern slides",
+            "title_annotation": "",
+            "slug": "european-panoramic-slide-912",
+            "creator_credit": "Maker not documented",
+            "credit_line": "<p>Courtesy Martyn Jolly</p>",
+            "headline_credit": "",
+            "thumbnail": {
+                "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN179870_EuropeanPanoramicSlide_9_Front.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=R61qtLHtNps2ZcAcCCNZUHJuW8o%3D&Expires=1627009137",
+                "has_video": false
+            },
+            "record_type": "work",
+            "type": "Object",
+            "is_on_display": false,
+            "last_on_display_place": "ACMI",
+            "last_on_display_date": "2022-02-10",
+            "is_context_indigenous": false,
+            "material_description": "wood, glass, pigment",
+            "unpublished": false,
+            "first_production_date": null,
+            "brief_description": "",
+            "constellations_primary": [],
+            "constellations_other": [],
+            "recommendations": [],
+            "title_for_label": "<p>European hand painted panoramic slides</p>",
+            "creator_credit_for_label": "<p>Maker not documented</p>",
+            "headline_credit_for_label": "",
+            "description": "",
+            "description_for_label": [],
+            "credit_line_for_label": "<p>Courtesy Martyn Jolly</p>",
+            "details": [
+                {
+                    "label": "Curatorial section",
+                    "display_values": [
+                        "The Story of the Moving Image&nbsp;→ Moving Pictures&nbsp;→ 02. Play and Illusion&nbsp;→ MI-02-C01"
+                    ]
+                },
+                {
+                    "label": "Measurements",
+                    "display_values": [
+                        "88 x 350 x 6mm"
+                    ]
+                },
+                {
+                    "label": "Materials",
+                    "display_values": [
+                        "wood, glass, pigment"
+                    ]
+                }
+            ],
+            "stats": {
+                "tap_count": 0
+            },
+            "links": [],
+            "creators_primary": [
+                {
+                    "id": 1134469,
+                    "name": "Maker not documented",
+                    "creator_id": 71446,
+                    "role": "creator",
+                    "role_id": 968,
+                    "is_primary": true
+                }
+            ],
+            "creators_other": [],
+            "video_links": [],
+            "media_note": null,
+            "images": [
+                {
+                    "id": 12572,
+                    "image_file": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN179870_EuropeanPanoramicSlide_9_Front.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=b9%2FWj1JU9wKJpK%2BeOk9Lu6D7pTw%3D&Expires=1627009137",
+                    "image_file_thumbnail": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN179870_EuropeanPanoramicSlide_9_Front.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=R61qtLHtNps2ZcAcCCNZUHJuW8o%3D&Expires=1627009137",
+                    "image_file_xs": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN179870_EuropeanPanoramicSlide_9_Front.jpg.480x480_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=YQaQdM5FacsXP7MQvaKYAT%2B9CcE%3D&Expires=1627009137",
+                    "image_file_s": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN179870_EuropeanPanoramicSlide_9_Front.jpg.960x960_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=sHt84Pm8rFBjpRRgLEBa8zakGzo%3D&Expires=1627009137",
+                    "image_file_m": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN179870_EuropeanPanoramicSlide_9_Front.jpg.1920x1920_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=p%2FC4RJt90uOzY%2F2%2BmfJvxmU%2B%2FNw%3D&Expires=1627009137",
+                    "image_file_l": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN179870_EuropeanPanoramicSlide_9_Front.jpg.3840x3840_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=JaLa4gmTg58cy24uUPJe7415Ju4%3D&Expires=1627009137",
+                    "caption": "LN179870_EuropeanPanoramicSlide_9_Front",
+                    "credit_line": "Photograph by Egmont Contreras, ACMI",
+                    "alt_text": "",
+                    "width": 4668,
+                    "height": 1564,
+                    "access_level": "View anywhere"
+                },
+                {
+                    "id": 12573,
+                    "image_file": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN179870_EuropeanPanoramicSlide_9_Back.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=tvIeOjsrAMB126VKQDHp0EHPte0%3D&Expires=1627009137",
+                    "image_file_thumbnail": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN179870_EuropeanPanoramicSlide_9_Back.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=QV70Mbo%2BklzD8UXWFfmTWJYc5M4%3D&Expires=1627009137",
+                    "image_file_xs": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN179870_EuropeanPanoramicSlide_9_Back.jpg.480x480_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=kBUA68ckDSbfwYmz7hAgkhx56Rc%3D&Expires=1627009137",
+                    "image_file_s": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN179870_EuropeanPanoramicSlide_9_Back.jpg.960x960_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=aeqGrKnQYfwTlzQWBfR550HkTRM%3D&Expires=1627009137",
+                    "image_file_m": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN179870_EuropeanPanoramicSlide_9_Back.jpg.1920x1920_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=PfePyIXUwIfqD8R75Ygl7NrHbqc%3D&Expires=1627009137",
+                    "image_file_l": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN179870_EuropeanPanoramicSlide_9_Back.jpg.3840x3840_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=Xc9CGYrb41%2FDbG6yAlyE9ma7B3o%3D&Expires=1627009137",
+                    "caption": "LN179870_EuropeanPanoramicSlide_9_Back",
+                    "credit_line": "Photograph by Egmont Contreras, ACMI",
+                    "alt_text": "",
+                    "width": 4621,
+                    "height": 1480,
+                    "access_level": "View anywhere"
+                }
+            ],
+            "videos": [],
+            "holdings": [],
+            "part_of": null,
+            "parts": [],
+            "part_siblings": [],
+            "group": null,
+            "group_works": [],
+            "group_siblings": [],
+            "source": {
+                "name": "Vernon",
+                "slug": "vernon"
+            },
+            "source_identifier": "179870",
+            "production_places": [],
+            "production_dates": [],
+            "labels": [
+                39099
+            ]
+        },
+        {
+            "id": 99603,
+            "acmi_id": "179869",
+            "title": "European hand painted panoramic magic lantern slides",
+            "title_annotation": "",
+            "slug": "european-panoramic-slide-812",
+            "creator_credit": "Maker not documented",
+            "credit_line": "<p>Courtesy Martyn Jolly</p>",
+            "headline_credit": "",
+            "thumbnail": {
+                "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN179869_EuropeanPanoramicSlide_8_Front.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=gNE9rtySn1V8gEYgIj2oJTImh80%3D&Expires=1627009137",
+                "has_video": false
+            },
+            "record_type": "work",
+            "type": "Object",
+            "is_on_display": false,
+            "last_on_display_place": "ACMI",
+            "last_on_display_date": "2022-02-10",
+            "is_context_indigenous": false,
+            "material_description": "wood, glass, pigment",
+            "unpublished": false,
+            "first_production_date": null,
+            "brief_description": "",
+            "constellations_primary": [],
+            "constellations_other": [],
+            "recommendations": [],
+            "title_for_label": "<p>European hand painted panoramic slides</p>",
+            "creator_credit_for_label": "<p>Maker not documented</p>",
+            "headline_credit_for_label": "",
+            "description": "",
+            "description_for_label": [],
+            "credit_line_for_label": "<p>Courtesy Martyn Jolly</p>",
+            "details": [
+                {
+                    "label": "Curatorial section",
+                    "display_values": [
+                        "The Story of the Moving Image&nbsp;→ Moving Pictures&nbsp;→ 02. Play and Illusion&nbsp;→ MI-02-C01"
+                    ]
+                },
+                {
+                    "label": "Measurements",
+                    "display_values": [
+                        "88 x 350 x 6mm"
+                    ]
+                },
+                {
+                    "label": "Materials",
+                    "display_values": [
+                        "wood, glass, pigment"
+                    ]
+                }
+            ],
+            "stats": {
+                "tap_count": 0
+            },
+            "links": [],
+            "creators_primary": [
+                {
+                    "id": 1134468,
+                    "name": "Maker not documented",
+                    "creator_id": 71446,
+                    "role": "creator",
+                    "role_id": 968,
+                    "is_primary": true
+                }
+            ],
+            "creators_other": [],
+            "video_links": [],
+            "media_note": null,
+            "images": [
+                {
+                    "id": 12570,
+                    "image_file": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN179869_EuropeanPanoramicSlide_8_Front.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=6ZMmDApJL8G1tWv3vqFG91AhP3k%3D&Expires=1627009137",
+                    "image_file_thumbnail": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN179869_EuropeanPanoramicSlide_8_Front.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=gNE9rtySn1V8gEYgIj2oJTImh80%3D&Expires=1627009137",
+                    "image_file_xs": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN179869_EuropeanPanoramicSlide_8_Front.jpg.480x480_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=hr3mpZqqSMyCvTynowRdEkPfRts%3D&Expires=1627009137",
+                    "image_file_s": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN179869_EuropeanPanoramicSlide_8_Front.jpg.960x960_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=w53isDQdc1H4emTohpz%2BWwGkE%2F4%3D&Expires=1627009137",
+                    "image_file_m": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN179869_EuropeanPanoramicSlide_8_Front.jpg.1920x1920_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=vMc4xw%2Fzwzdn0xek9cPHTqQjruI%3D&Expires=1627009137",
+                    "image_file_l": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN179869_EuropeanPanoramicSlide_8_Front.jpg.3840x3840_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=64%2F3l%2BrLsecbJJvGnjEVOXBEO1w%3D&Expires=1627009137",
+                    "caption": "LN179869_EuropeanPanoramicSlide_8_Front",
+                    "credit_line": "Photograph by Egmont Contreras, ACMI",
+                    "alt_text": "",
+                    "width": 4603,
+                    "height": 1436,
+                    "access_level": "View anywhere"
+                },
+                {
+                    "id": 12571,
+                    "image_file": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN179869_EuropeanPanoramicSlide_8_Back.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=zGoQs%2BVhSThbgOyVNeEwo%2BypU8c%3D&Expires=1627009137",
+                    "image_file_thumbnail": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN179869_EuropeanPanoramicSlide_8_Back.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=0VnCynwNlQ7TkmaoqXmVVc9r1k8%3D&Expires=1627009137",
+                    "image_file_xs": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN179869_EuropeanPanoramicSlide_8_Back.jpg.480x480_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=QVVvtRy1oRi6YrwADcTWjqnF6uY%3D&Expires=1627009137",
+                    "image_file_s": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN179869_EuropeanPanoramicSlide_8_Back.jpg.960x960_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=2TykkuWI086NMUZRxHNyIq66ND0%3D&Expires=1627009137",
+                    "image_file_m": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN179869_EuropeanPanoramicSlide_8_Back.jpg.1920x1920_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=A1xKmczeSDZppH0CFTj721VLva4%3D&Expires=1627009137",
+                    "image_file_l": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN179869_EuropeanPanoramicSlide_8_Back.jpg.3840x3840_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=r7HO3l7rd2Nrha5dO7AoG1ExB7Y%3D&Expires=1627009137",
+                    "caption": "LN179869_EuropeanPanoramicSlide_8_Back",
+                    "credit_line": "Photograph by Egmont Contreras, ACMI",
+                    "alt_text": "",
+                    "width": 4664,
+                    "height": 1412,
+                    "access_level": "View anywhere"
+                }
+            ],
+            "videos": [],
+            "holdings": [],
+            "part_of": null,
+            "parts": [],
+            "part_siblings": [],
+            "group": null,
+            "group_works": [],
+            "group_siblings": [],
+            "source": {
+                "name": "Vernon",
+                "slug": "vernon"
+            },
+            "source_identifier": "179869",
+            "production_places": [],
+            "production_dates": [],
+            "labels": [
+                39098
+            ]
+        },
+        {
+            "id": 99602,
+            "acmi_id": "179868",
+            "title": "European hand painted panoramic magic lantern slides",
+            "title_annotation": "",
+            "slug": "european-panoramic-slide-712",
+            "creator_credit": "Maker not documented",
+            "credit_line": "<p>Courtesy Martyn Jolly</p>",
+            "headline_credit": "",
+            "thumbnail": {
+                "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN179868_EuropeanPanoramicSlide_7_Front.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=MMYy%2BzrWJYJm1q%2BXwLDG%2BKcHgHc%3D&Expires=1627009137",
+                "has_video": false
+            },
+            "record_type": "work",
+            "type": "Object",
+            "is_on_display": false,
+            "last_on_display_place": "ACMI",
+            "last_on_display_date": "2022-02-10",
+            "is_context_indigenous": false,
+            "material_description": "wood, glass, pigment",
+            "unpublished": false,
+            "first_production_date": null,
+            "brief_description": "",
+            "constellations_primary": [],
+            "constellations_other": [],
+            "recommendations": [],
+            "title_for_label": "<p>European hand painted panoramic slides</p>",
+            "creator_credit_for_label": "<p>Maker not documented</p>",
+            "headline_credit_for_label": "",
+            "description": "",
+            "description_for_label": [],
+            "credit_line_for_label": "<p>Courtesy Martyn Jolly</p>",
+            "details": [
+                {
+                    "label": "Curatorial section",
+                    "display_values": [
+                        "The Story of the Moving Image&nbsp;→ Moving Pictures&nbsp;→ 02. Play and Illusion&nbsp;→ MI-02-C01"
+                    ]
+                },
+                {
+                    "label": "Measurements",
+                    "display_values": [
+                        "88 x 350 x 6mm"
+                    ]
+                },
+                {
+                    "label": "Materials",
+                    "display_values": [
+                        "wood, glass, pigment"
+                    ]
+                }
+            ],
+            "stats": {
+                "tap_count": 0
+            },
+            "links": [],
+            "creators_primary": [
+                {
+                    "id": 1134467,
+                    "name": "Maker not documented",
+                    "creator_id": 71446,
+                    "role": "creator",
+                    "role_id": 968,
+                    "is_primary": true
+                }
+            ],
+            "creators_other": [],
+            "video_links": [],
+            "media_note": null,
+            "images": [
+                {
+                    "id": 12568,
+                    "image_file": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN179868_EuropeanPanoramicSlide_7_Front.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=p4k7%2Fdb9B3netCrg30F9e4bgw9o%3D&Expires=1627009137",
+                    "image_file_thumbnail": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN179868_EuropeanPanoramicSlide_7_Front.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=MMYy%2BzrWJYJm1q%2BXwLDG%2BKcHgHc%3D&Expires=1627009137",
+                    "image_file_xs": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN179868_EuropeanPanoramicSlide_7_Front.jpg.480x480_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=QRH7JFtQz3jn6j4oWUx%2F9L7EGpA%3D&Expires=1627009137",
+                    "image_file_s": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN179868_EuropeanPanoramicSlide_7_Front.jpg.960x960_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=Zh4vdnsZPeLo%2BnfgozI7utLG4gw%3D&Expires=1627009137",
+                    "image_file_m": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN179868_EuropeanPanoramicSlide_7_Front.jpg.1920x1920_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=ivaBO6uX20s6vjfxDAvD46c66TQ%3D&Expires=1627009137",
+                    "image_file_l": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN179868_EuropeanPanoramicSlide_7_Front.jpg.3840x3840_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=iQc7V3qDJ%2BaMMcc0BmK1qkXRWHY%3D&Expires=1627009137",
+                    "caption": "LN179868_EuropeanPanoramicSlide_7_Front",
+                    "credit_line": "Photograph by Egmont Contreras, ACMI",
+                    "alt_text": "",
+                    "width": 4738,
+                    "height": 1464,
+                    "access_level": "View anywhere"
+                },
+                {
+                    "id": 12569,
+                    "image_file": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN179868_EuropeanPanoramicSlide_7_Back.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=oQFpp4Okjn9oOcWdSDxpoQgOlbI%3D&Expires=1627009137",
+                    "image_file_thumbnail": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN179868_EuropeanPanoramicSlide_7_Back.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=VUWq4QNZAU%2FufVr5kfXymERI0as%3D&Expires=1627009137",
+                    "image_file_xs": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN179868_EuropeanPanoramicSlide_7_Back.jpg.480x480_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=g5YwD4qs4HDJtA98kY4LrsKgpQo%3D&Expires=1627009137",
+                    "image_file_s": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN179868_EuropeanPanoramicSlide_7_Back.jpg.960x960_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=qTyVaCuCuvlRQvRsK%2FNOKi9bHgA%3D&Expires=1627009137",
+                    "image_file_m": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN179868_EuropeanPanoramicSlide_7_Back.jpg.1920x1920_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=W1JgftbS6kUJrjRdEg4%2Fqzs4lHQ%3D&Expires=1627009137",
+                    "image_file_l": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN179868_EuropeanPanoramicSlide_7_Back.jpg.3840x3840_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=AR7ny0vLApXjW7RIrg4nVc9lamk%3D&Expires=1627009137",
+                    "caption": "LN179868_EuropeanPanoramicSlide_7_Back",
+                    "credit_line": "Photograph by Egmont Contreras, ACMI",
+                    "alt_text": "",
+                    "width": 4767,
+                    "height": 1510,
+                    "access_level": "View anywhere"
+                }
+            ],
+            "videos": [],
+            "holdings": [],
+            "part_of": null,
+            "parts": [],
+            "part_siblings": [],
+            "group": null,
+            "group_works": [],
+            "group_siblings": [],
+            "source": {
+                "name": "Vernon",
+                "slug": "vernon"
+            },
+            "source_identifier": "179868",
+            "production_places": [],
+            "production_dates": [],
+            "labels": [
+                39097
+            ]
+        },
+        {
+            "id": 99601,
+            "acmi_id": "179867",
+            "title": "European hand painted panoramic magic lantern slides",
+            "title_annotation": "",
+            "slug": "european-panoramic-slide-612",
+            "creator_credit": "Maker not documented",
+            "credit_line": "<p>Courtesy Martyn Jolly</p>",
+            "headline_credit": "",
+            "thumbnail": {
+                "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN179867_EuropeanPanoramicSlide_6_Back.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=bruAlkoxM5cubuxCzzovLda8pZQ%3D&Expires=1627009137",
+                "has_video": false
+            },
+            "record_type": "work",
+            "type": "Object",
+            "is_on_display": true,
+            "last_on_display_place": "ACMI: Gallery 1",
+            "last_on_display_date": "2021-08-12",
+            "is_context_indigenous": false,
+            "material_description": "wood, glass, pigment",
+            "unpublished": false,
+            "first_production_date": null,
+            "brief_description": "",
+            "constellations_primary": [],
+            "constellations_other": [],
+            "recommendations": [],
+            "title_for_label": "<p>European hand painted panoramic slides</p>",
+            "creator_credit_for_label": "<p>Maker not documented</p>",
+            "headline_credit_for_label": "",
+            "description": "",
+            "description_for_label": [],
+            "credit_line_for_label": "<p>Courtesy Martyn Jolly</p>",
+            "details": [
+                {
+                    "label": "Curatorial section",
+                    "display_values": [
+                        "The Story of the Moving Image&nbsp;→ Moving Pictures&nbsp;→ 02. Play and Illusion&nbsp;→ MI-02-C01"
+                    ]
+                },
+                {
+                    "label": "Measurements",
+                    "display_values": [
+                        "88 x 350 x 6mm"
+                    ]
+                },
+                {
+                    "label": "Materials",
+                    "display_values": [
+                        "wood, glass, pigment"
+                    ]
+                }
+            ],
+            "stats": {
+                "tap_count": 0
+            },
+            "links": [],
+            "creators_primary": [
+                {
+                    "id": 1134466,
+                    "name": "Maker not documented",
+                    "creator_id": 71446,
+                    "role": "creator",
+                    "role_id": 968,
+                    "is_primary": true
+                }
+            ],
+            "creators_other": [],
+            "video_links": [],
+            "media_note": null,
+            "images": [
+                {
+                    "id": 12567,
+                    "image_file": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN179867_EuropeanPanoramicSlide_6_Back.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=w7hVl6pUZBFSIeEND8l690G95pI%3D&Expires=1627009137",
+                    "image_file_thumbnail": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN179867_EuropeanPanoramicSlide_6_Back.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=bruAlkoxM5cubuxCzzovLda8pZQ%3D&Expires=1627009137",
+                    "image_file_xs": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN179867_EuropeanPanoramicSlide_6_Back.jpg.480x480_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=IWiitjx9cJZDjmtRLSyxJFc%2BjY8%3D&Expires=1627009137",
+                    "image_file_s": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN179867_EuropeanPanoramicSlide_6_Back.jpg.960x960_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=k%2BajeInteL7o1O6iXaKE7skCjgo%3D&Expires=1627009137",
+                    "image_file_m": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN179867_EuropeanPanoramicSlide_6_Back.jpg.1920x1920_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=HYLm7SvyiGq9ot5%2BBaPn2hAgF7Q%3D&Expires=1627009137",
+                    "image_file_l": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN179867_EuropeanPanoramicSlide_6_Back.jpg.3840x3840_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=Tavn1VPygsGw6EP0yqz9CoN5cTc%3D&Expires=1627009137",
+                    "caption": "LN179867_EuropeanPanoramicSlide_6_Back",
+                    "credit_line": "Photograph by Egmont Contreras, ACMI",
+                    "alt_text": "",
+                    "width": 4642,
+                    "height": 1467,
+                    "access_level": "View anywhere"
+                },
+                {
+                    "id": 12566,
+                    "image_file": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN179867_EuropeanPanoramicSlide_6_Front.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=0QzXqWQ1zobZfonNFqY1CTuRkCU%3D&Expires=1627009137",
+                    "image_file_thumbnail": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN179867_EuropeanPanoramicSlide_6_Front.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=DUDHU82sLPJAu4TQYL%2BXOEg4fNY%3D&Expires=1627009137",
+                    "image_file_xs": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN179867_EuropeanPanoramicSlide_6_Front.jpg.480x480_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=%2FB21FFR7OW08PXggFqXFQJi95cg%3D&Expires=1627009137",
+                    "image_file_s": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN179867_EuropeanPanoramicSlide_6_Front.jpg.960x960_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=6uai6e0bG5yvhzbIj2AgCvpzisQ%3D&Expires=1627009137",
+                    "image_file_m": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN179867_EuropeanPanoramicSlide_6_Front.jpg.1920x1920_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=igRy2COpmVX8uYAQ4ZNpiUBtzHU%3D&Expires=1627009137",
+                    "image_file_l": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN179867_EuropeanPanoramicSlide_6_Front.jpg.3840x3840_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=YFk9Txw3aPwIusl5d5nrAIpR6qc%3D&Expires=1627009137",
+                    "caption": "LN179867_EuropeanPanoramicSlide_6_Front",
+                    "credit_line": "Photograph by Egmont Contreras, ACMI",
+                    "alt_text": "",
+                    "width": 4664,
+                    "height": 1543,
+                    "access_level": "View anywhere"
+                }
+            ],
+            "videos": [],
+            "holdings": [],
+            "part_of": null,
+            "parts": [],
+            "part_siblings": [],
+            "group": {
+                "id": 100564,
+                "acmi_id": "181485",
+                "title": "European hand-painted panoramic magic lantern slides",
+                "title_annotation": "",
+                "slug": "european-hand-painted-panoramic-magic-lantern-slides",
+                "creator_credit": "Maker not documented",
+                "credit_line": "<p>Courtesy Martyn Jolly</p>",
+                "headline_credit": "",
+                "thumbnail": {
+                    "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/GROUP_European_Panoramic_Slides_1to6.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=j0l7CdOz44K1eIvvTxIaM%2FXXT5k%3D&Expires=1627009137",
+                    "has_video": false
+                },
+                "record_type": "group",
+                "type": "Object",
+                "is_on_display": true,
+                "last_on_display_place": "ACMI: Gallery 1",
+                "last_on_display_date": "2031-02-16",
+                "is_context_indigenous": false,
+                "material_description": "",
+                "unpublished": false,
+                "first_production_date": null
+            },
+            "group_works": [],
+            "group_siblings": [
+                {
+                    "id": 99600,
+                    "acmi_id": "179866",
+                    "title": "European hand painted panoramic magic lantern slides",
+                    "title_annotation": "",
+                    "slug": "european-panoramic-slide-512",
+                    "creator_credit": "Maker not documented",
+                    "credit_line": "<p>Courtesy Martyn Jolly</p>",
+                    "headline_credit": "",
+                    "thumbnail": {
+                        "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN179866_EuropeanPanoramicSlide_5_Back.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=heypQw2vgT6hqKtRsdg%2BdjDRUGQ%3D&Expires=1627009137",
+                        "has_video": false
+                    },
+                    "record_type": "work",
+                    "type": "Object",
+                    "is_on_display": true,
+                    "last_on_display_place": "ACMI: Gallery 1",
+                    "last_on_display_date": "2021-08-12",
+                    "is_context_indigenous": false,
+                    "material_description": "wood, glass, pigment",
+                    "unpublished": false,
+                    "first_production_date": null
+                },
+                {
+                    "id": 99598,
+                    "acmi_id": "179864",
+                    "title": "European hand painted panoramic magic lantern slides",
+                    "title_annotation": "",
+                    "slug": "european-panoramic-slide-312",
+                    "creator_credit": "Maker not documented",
+                    "credit_line": "<p>Courtesy Martyn Jolly</p>",
+                    "headline_credit": "",
+                    "thumbnail": {
+                        "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN179864_EuropeanPanoramicSlide_3_Front.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=4A9hPWiSYUWqKq3j4KWMBKBjhmQ%3D&Expires=1627009137",
+                        "has_video": false
+                    },
+                    "record_type": "work",
+                    "type": "Object",
+                    "is_on_display": true,
+                    "last_on_display_place": "ACMI: Gallery 1",
+                    "last_on_display_date": "2021-08-12",
+                    "is_context_indigenous": false,
+                    "material_description": "wood, glass, pigment",
+                    "unpublished": false,
+                    "first_production_date": null
+                },
+                {
+                    "id": 99597,
+                    "acmi_id": "179815",
+                    "title": "European hand painted panoramic magic lantern slides",
+                    "title_annotation": "",
+                    "slug": "european-panoramic-slide-212",
+                    "creator_credit": "Maker not documented",
+                    "credit_line": "<p>Courtesy Martyn Jolly</p>",
+                    "headline_credit": "",
+                    "thumbnail": {
+                        "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN179815_EuropeanPanoramicSlide_2_Back.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=Xu5VE6a01h1i8%2BlCZ4%2BKqrjsGrg%3D&Expires=1627009137",
+                        "has_video": false
+                    },
+                    "record_type": "work",
+                    "type": "Object",
+                    "is_on_display": true,
+                    "last_on_display_place": "ACMI: Gallery 1",
+                    "last_on_display_date": "2021-08-12",
+                    "is_context_indigenous": false,
+                    "material_description": "wood, glass, pigment",
+                    "unpublished": false,
+                    "first_production_date": null
+                },
+                {
+                    "id": 99596,
+                    "acmi_id": "179814",
+                    "title": "European hand painted panoramic magic lantern slides",
+                    "title_annotation": "",
+                    "slug": "european-panoramic-slide-112",
+                    "creator_credit": "Maker not documented",
+                    "credit_line": "<p>Courtesy Martyn Jolly</p>",
+                    "headline_credit": "",
+                    "thumbnail": {
+                        "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN179814_EuropeanPanoramicSlide_1_Front.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=%2FaHL%2FS%2Bfz%2B64KcXUqFZZ3VfznuU%3D&Expires=1627009137",
+                        "has_video": false
+                    },
+                    "record_type": "work",
+                    "type": "Object",
+                    "is_on_display": true,
+                    "last_on_display_place": "ACMI: Gallery 1",
+                    "last_on_display_date": "2021-08-12",
+                    "is_context_indigenous": false,
+                    "material_description": "wood, glass, pigment",
+                    "unpublished": false,
+                    "first_production_date": null
+                },
+                {
+                    "id": 99599,
+                    "acmi_id": "179865",
+                    "title": "European hand painted panoramic magic lantern slides",
+                    "title_annotation": "",
+                    "slug": "european-panoramic-slide-412",
+                    "creator_credit": "Maker not documented",
+                    "credit_line": "<p>Courtesy Martyn Jolly</p>",
+                    "headline_credit": "",
+                    "thumbnail": {
+                        "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN179865_EuropeanPanoramicSlide_4_Back.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=OgLLrXydzF3rBI3YFNut3maNh9E%3D&Expires=1627009137",
+                        "has_video": false
+                    },
+                    "record_type": "work",
+                    "type": "Object",
+                    "is_on_display": true,
+                    "last_on_display_place": "ACMI: Gallery 1",
+                    "last_on_display_date": "2021-08-12",
+                    "is_context_indigenous": false,
+                    "material_description": "wood, glass, pigment",
+                    "unpublished": false,
+                    "first_production_date": null
+                }
+            ],
+            "source": {
+                "name": "Vernon",
+                "slug": "vernon"
+            },
+            "source_identifier": "179867",
+            "production_places": [],
+            "production_dates": [],
+            "labels": [
+                39096
+            ]
+        }
+    ]
+}

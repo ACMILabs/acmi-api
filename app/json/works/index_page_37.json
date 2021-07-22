@@ -1,0 +1,2838 @@
+{
+    "count": 922,
+    "next": "https://api.acmi.net.au/works/?page=38",
+    "previous": "https://api.acmi.net.au/works/?page=36",
+    "results": [
+        {
+            "id": 99443,
+            "acmi_id": "175947",
+            "title": "Chromatrope double pulley slide",
+            "title_annotation": "",
+            "slug": "magic-lantern-double-pulley-slide-chromatrope",
+            "creator_credit": "Maker not documented",
+            "credit_line": "",
+            "headline_credit": "France, c. 1880",
+            "thumbnail": {
+                "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AEO_MechanicalML_Chromatrope_Back.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=VNyvap24ErTiPLcb3bsHsO6ggWE%3D&Expires=1627009218",
+                "has_video": false
+            },
+            "record_type": "work",
+            "type": "Object",
+            "is_on_display": true,
+            "last_on_display_place": "ACMI: Gallery 1",
+            "last_on_display_date": "2021-08-12",
+            "is_context_indigenous": false,
+            "material_description": "wood, glass, ink, pulley system",
+            "unpublished": false,
+            "first_production_date": null,
+            "brief_description": "",
+            "constellations_primary": [],
+            "constellations_other": [],
+            "recommendations": [],
+            "title_for_label": "<p>Chromatrope double pulley slide</p>",
+            "creator_credit_for_label": "<p>Maker not documented</p>",
+            "headline_credit_for_label": "<p>France, c. 1880</p>",
+            "description": "",
+            "description_for_label": [],
+            "credit_line_for_label": "",
+            "details": [
+                {
+                    "label": "Curatorial section",
+                    "display_values": [
+                        "The Story of the Moving Image&nbsp;→ Moving Pictures&nbsp;→ 02. Play and Illusion&nbsp;→ MI-02-C01"
+                    ]
+                },
+                {
+                    "label": "Measurements",
+                    "display_values": [
+                        "51 x 167 x 34mm"
+                    ]
+                },
+                {
+                    "label": "Materials",
+                    "display_values": [
+                        "wood, glass, ink, pulley system"
+                    ]
+                }
+            ],
+            "stats": {
+                "tap_count": 0
+            },
+            "links": [],
+            "creators_primary": [
+                {
+                    "id": 1134347,
+                    "name": "Maker not documented",
+                    "creator_id": 71446,
+                    "role": "creator",
+                    "role_id": 968,
+                    "is_primary": true
+                }
+            ],
+            "creators_other": [],
+            "video_links": [],
+            "media_note": null,
+            "images": [
+                {
+                    "id": 12209,
+                    "image_file": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AEO_MechanicalML_Chromatrope_Back.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=aVxf6fbuS3qT8lb72SMc7uP2Lrk%3D&Expires=1627009218",
+                    "image_file_thumbnail": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AEO_MechanicalML_Chromatrope_Back.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=VNyvap24ErTiPLcb3bsHsO6ggWE%3D&Expires=1627009218",
+                    "image_file_xs": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AEO_MechanicalML_Chromatrope_Back.jpg.480x480_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=VPaoMpDI7Cp5aJ%2FjjcxynKAChQM%3D&Expires=1627009218",
+                    "image_file_s": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AEO_MechanicalML_Chromatrope_Back.jpg.960x960_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=sohpWwHqetR3KoUUkIBl2Eu4g6k%3D&Expires=1627009218",
+                    "image_file_m": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AEO_MechanicalML_Chromatrope_Back.jpg.1920x1920_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=ZWgNt7yjA2l%2BkhnK%2FcZMt8Q1ld0%3D&Expires=1627009218",
+                    "image_file_l": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AEO_MechanicalML_Chromatrope_Back.jpg.3840x3840_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=u2DQ8DIW4jX%2Fr4OAW9VhNQuE%2Fu8%3D&Expires=1627009218",
+                    "caption": "AEO_MechanicalML_Chromatrope_Back",
+                    "credit_line": "Photograph by Egmont Contreras, ACMI",
+                    "alt_text": "",
+                    "width": 4607,
+                    "height": 2274,
+                    "access_level": "View anywhere"
+                }
+            ],
+            "videos": [],
+            "holdings": [],
+            "part_of": null,
+            "parts": [],
+            "part_siblings": [],
+            "group": {
+                "id": 100517,
+                "acmi_id": "181480",
+                "title": "Mechanical magic lantern slides",
+                "title_annotation": "",
+                "slug": "mechanical-magic-lantern-slides",
+                "creator_credit": "",
+                "credit_line": "",
+                "headline_credit": "",
+                "thumbnail": {
+                    "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AEO175944_MechanicalML_Chromatrope_Back.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=5JY51%2BDCfRKuWhkUj2DzJ1JtcH4%3D&Expires=1627009218",
+                    "has_video": false
+                },
+                "record_type": "group",
+                "type": "Object",
+                "is_on_display": true,
+                "last_on_display_place": "ACMI: Gallery 1",
+                "last_on_display_date": "2031-02-16",
+                "is_context_indigenous": false,
+                "material_description": "",
+                "unpublished": false,
+                "first_production_date": null
+            },
+            "group_works": [],
+            "group_siblings": [
+                {
+                    "id": 59892,
+                    "acmi_id": "175944",
+                    "title": "Chromatrope rackwork slide",
+                    "title_annotation": "",
+                    "slug": "chromatrope-mechanical-magic-lantern-slide",
+                    "creator_credit": "Maker not documented",
+                    "credit_line": "",
+                    "headline_credit": "France",
+                    "thumbnail": {
+                        "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AEO175944_MechanicalML_Chromatrope_Back.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=5JY51%2BDCfRKuWhkUj2DzJ1JtcH4%3D&Expires=1627009218",
+                        "has_video": false
+                    },
+                    "record_type": "work",
+                    "type": "Object",
+                    "is_on_display": true,
+                    "last_on_display_place": "ACMI: Gallery 1",
+                    "last_on_display_date": "2021-08-12",
+                    "is_context_indigenous": false,
+                    "material_description": "wood, glass, pigment, metal",
+                    "unpublished": false,
+                    "first_production_date": null
+                },
+                {
+                    "id": 107892,
+                    "acmi_id": "175948",
+                    "title": "Hand painted chromatrope rackwork slide",
+                    "title_annotation": "",
+                    "slug": "hand-painted-chromatrope-rackwork-slide",
+                    "creator_credit": "Maker not documented",
+                    "credit_line": "",
+                    "headline_credit": "France, c. 1860",
+                    "thumbnail": {
+                        "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AEO175948_MechanicalMLS_Chromatrope_Back.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=dhV2uG6LmQc9FDqR6flE6ixYzA4%3D&Expires=1627009218",
+                        "has_video": false
+                    },
+                    "record_type": "work",
+                    "type": "Object",
+                    "is_on_display": true,
+                    "last_on_display_place": "ACMI: Gallery 1",
+                    "last_on_display_date": "2021-08-12",
+                    "is_context_indigenous": false,
+                    "material_description": "wood, glass, pigment, metal",
+                    "unpublished": false,
+                    "first_production_date": null
+                },
+                {
+                    "id": 99550,
+                    "acmi_id": "179378",
+                    "title": "Boy and Girl slipping slide",
+                    "title_annotation": "",
+                    "slug": "magic-lantern-slipping-slide-boy-girl",
+                    "creator_credit": "Maker not documented",
+                    "credit_line": "<p>ACMI Collection</p>",
+                    "headline_credit": "United Kingdom, c. 1900",
+                    "thumbnail": {
+                        "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/R0007984_MLS_BoyGirl_1.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=vw3JLWPY81srcNj3Sp6KK2RW5gE%3D&Expires=1627009218",
+                        "has_video": false
+                    },
+                    "record_type": "work",
+                    "type": "Object",
+                    "is_on_display": true,
+                    "last_on_display_place": "ACMI: Gallery 1",
+                    "last_on_display_date": "2021-08-12",
+                    "is_context_indigenous": false,
+                    "material_description": "wood, glass, ink",
+                    "unpublished": false,
+                    "first_production_date": null
+                },
+                {
+                    "id": 99441,
+                    "acmi_id": "175945",
+                    "title": "Crocodile lever slide",
+                    "title_annotation": "",
+                    "slug": "magic-lantern-lever-slide-crocodile",
+                    "creator_credit": "Maker not documented",
+                    "credit_line": "",
+                    "headline_credit": "France, c. 1860",
+                    "thumbnail": {
+                        "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AEO175945_MLS_Crocodile_Front.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=e4k956pykftBwScWjMhSmeVybuY%3D&Expires=1627009218",
+                        "has_video": false
+                    },
+                    "record_type": "work",
+                    "type": "Object",
+                    "is_on_display": true,
+                    "last_on_display_place": "ACMI: Gallery 1",
+                    "last_on_display_date": "2021-08-12",
+                    "is_context_indigenous": false,
+                    "material_description": "wood, glass, ink, metal",
+                    "unpublished": false,
+                    "first_production_date": null
+                },
+                {
+                    "id": 99549,
+                    "acmi_id": "179377",
+                    "title": "Flower bloom three panel slipping slide",
+                    "title_annotation": "",
+                    "slug": "magic-lantern-three-panel-slipping-slide-flower-bloom",
+                    "creator_credit": "Maker not documented",
+                    "credit_line": "<p>ACMI Collection</p>",
+                    "headline_credit": "United Kingdom, c. 1900",
+                    "thumbnail": {
+                        "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/R0007987_MLS_FlowerBloom_1.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=lEtl0bMuvGzRpGgvACKNGdoJJGg%3D&Expires=1627009218",
+                        "has_video": false
+                    },
+                    "record_type": "work",
+                    "type": "Object",
+                    "is_on_display": true,
+                    "last_on_display_place": "ACMI: Gallery 1",
+                    "last_on_display_date": "2021-08-12",
+                    "is_context_indigenous": false,
+                    "material_description": "wood, glass, ink",
+                    "unpublished": false,
+                    "first_production_date": null
+                },
+                {
+                    "id": 99444,
+                    "acmi_id": "175949",
+                    "title": "Girl jumping rope slipping slide",
+                    "title_annotation": "",
+                    "slug": "magic-lantern-slipping-slide-girl-jumping-rope",
+                    "creator_credit": "Maker not documented",
+                    "credit_line": "",
+                    "headline_credit": "France, c. 1860",
+                    "thumbnail": {
+                        "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AEO175949_MLS_JumpingRope_Back.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=Tw%2BougqnZi2u9uheRpShSzp2Ols%3D&Expires=1627009218",
+                        "has_video": false
+                    },
+                    "record_type": "work",
+                    "type": "Object",
+                    "is_on_display": true,
+                    "last_on_display_place": "ACMI: Gallery 1",
+                    "last_on_display_date": "2021-08-12",
+                    "is_context_indigenous": false,
+                    "material_description": "wood, glass, metal, ink",
+                    "unpublished": false,
+                    "first_production_date": null
+                },
+                {
+                    "id": 99552,
+                    "acmi_id": "179385",
+                    "title": "House in Summer slide",
+                    "title_annotation": "",
+                    "slug": "magic-lantern-slide-house-in-summer",
+                    "creator_credit": "Maker not documented",
+                    "credit_line": "<p>ACMI Collection</p>",
+                    "headline_credit": "United Kingdom, c. 1900",
+                    "thumbnail": {
+                        "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/R0007983_MLS_HouseInSumme_2.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=ePbK6UHDQowY1YawCN85w5zxyJI%3D&Expires=1627009218",
+                        "has_video": false
+                    },
+                    "record_type": "work",
+                    "type": "Object",
+                    "is_on_display": true,
+                    "last_on_display_place": "ACMI: Gallery 1",
+                    "last_on_display_date": "2021-08-12",
+                    "is_context_indigenous": false,
+                    "material_description": "wood, glass, ink",
+                    "unpublished": false,
+                    "first_production_date": null
+                },
+                {
+                    "id": 99442,
+                    "acmi_id": "175946",
+                    "title": "Jester slipping slide",
+                    "title_annotation": "",
+                    "slug": "magic-lantern-slipping-slide-jester",
+                    "creator_credit": "Maker not documented",
+                    "credit_line": "",
+                    "headline_credit": "France, c. 1870",
+                    "thumbnail": {
+                        "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AEO175946_MLS_Jester_Front.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=qGvhFuNlWlmM6E4%2FY6JxJg8bLJk%3D&Expires=1627009218",
+                        "has_video": false
+                    },
+                    "record_type": "work",
+                    "type": "Object",
+                    "is_on_display": true,
+                    "last_on_display_place": "ACMI: Gallery 1",
+                    "last_on_display_date": "2021-08-12",
+                    "is_context_indigenous": false,
+                    "material_description": "wood, glass, ink",
+                    "unpublished": false,
+                    "first_production_date": null
+                },
+                {
+                    "id": 99551,
+                    "acmi_id": "179379",
+                    "title": "Knight and Princess slipping slide",
+                    "title_annotation": "",
+                    "slug": "magic-lantern-slipping-slide-knight-and-princess",
+                    "creator_credit": "Maker not documented",
+                    "credit_line": "<p>ACMI Collection</p>",
+                    "headline_credit": "United Kingdom, c. 1900",
+                    "thumbnail": {
+                        "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/R0007985_MLS_KnightAndPrincess_3.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=1C4tijV4giRdFF99B%2Bwbo0EcoV4%3D&Expires=1627009218",
+                        "has_video": false
+                    },
+                    "record_type": "work",
+                    "type": "Object",
+                    "is_on_display": true,
+                    "last_on_display_place": "ACMI: Gallery 1",
+                    "last_on_display_date": "2021-08-12",
+                    "is_context_indigenous": false,
+                    "material_description": "wood, glass, ink",
+                    "unpublished": false,
+                    "first_production_date": null
+                },
+                {
+                    "id": 99548,
+                    "acmi_id": "179376",
+                    "title": "Man and Donkey lever slide",
+                    "title_annotation": "",
+                    "slug": "magic-lantern-lever-slide-man-and-donkey",
+                    "creator_credit": "Maker not documented",
+                    "credit_line": "<p>ACMI Collection</p>",
+                    "headline_credit": "United Kingdom, c. 1900",
+                    "thumbnail": {
+                        "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/R0007986_MLS_ManDonkey_Front_2.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=MJ04XJNKUaBCgrI0JDinu%2F9I1cY%3D&Expires=1627009218",
+                        "has_video": false
+                    },
+                    "record_type": "work",
+                    "type": "Object",
+                    "is_on_display": true,
+                    "last_on_display_place": "ACMI: Gallery 1",
+                    "last_on_display_date": "2021-08-12",
+                    "is_context_indigenous": false,
+                    "material_description": "wood, glass, metal, ink",
+                    "unpublished": false,
+                    "first_production_date": null
+                },
+                {
+                    "id": 99445,
+                    "acmi_id": "175950",
+                    "title": "Peacock slipping slide",
+                    "title_annotation": "",
+                    "slug": "magic-lantern-slipping-slide-peacock",
+                    "creator_credit": "Maker not documented",
+                    "credit_line": "",
+                    "headline_credit": "France, c. 1870",
+                    "thumbnail": {
+                        "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AEO175950_MLS_Peacock_Front.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=tm6ZoF48WkiY5yRUDEGYAoWKlyI%3D&Expires=1627009218",
+                        "has_video": false
+                    },
+                    "record_type": "work",
+                    "type": "Object",
+                    "is_on_display": true,
+                    "last_on_display_place": "ACMI: Gallery 1",
+                    "last_on_display_date": "2021-08-12",
+                    "is_context_indigenous": false,
+                    "material_description": "wood, glass, ink",
+                    "unpublished": false,
+                    "first_production_date": null
+                }
+            ],
+            "source": {
+                "name": "Vernon",
+                "slug": "vernon"
+            },
+            "source_identifier": "175947",
+            "production_places": [
+                {
+                    "id": 17,
+                    "name": "France",
+                    "slug": "france"
+                }
+            ],
+            "production_dates": [
+                {
+                    "date": "c. 1880",
+                    "notes": "",
+                    "to_year": "c. 1880"
+                }
+            ],
+            "labels": [
+                38938
+            ]
+        },
+        {
+            "id": 99442,
+            "acmi_id": "175946",
+            "title": "Jester slipping slide",
+            "title_annotation": "",
+            "slug": "magic-lantern-slipping-slide-jester",
+            "creator_credit": "Maker not documented",
+            "credit_line": "",
+            "headline_credit": "France, c. 1870",
+            "thumbnail": {
+                "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AEO175946_MLS_Jester_Front.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=qGvhFuNlWlmM6E4%2FY6JxJg8bLJk%3D&Expires=1627009218",
+                "has_video": false
+            },
+            "record_type": "work",
+            "type": "Object",
+            "is_on_display": true,
+            "last_on_display_place": "ACMI: Gallery 1",
+            "last_on_display_date": "2021-08-12",
+            "is_context_indigenous": false,
+            "material_description": "wood, glass, ink",
+            "unpublished": false,
+            "first_production_date": null,
+            "brief_description": "",
+            "constellations_primary": [],
+            "constellations_other": [],
+            "recommendations": [],
+            "title_for_label": "<p>Jester slipping slide</p>",
+            "creator_credit_for_label": "<p>Maker not documented</p>",
+            "headline_credit_for_label": "<p>France, c. 1870</p>",
+            "description": "",
+            "description_for_label": [],
+            "credit_line_for_label": "",
+            "details": [
+                {
+                    "label": "Curatorial section",
+                    "display_values": [
+                        "The Story of the Moving Image&nbsp;→ Moving Pictures&nbsp;→ 02. Play and Illusion&nbsp;→ MI-02-C01"
+                    ]
+                },
+                {
+                    "label": "Measurements",
+                    "display_values": [
+                        "18 x 10cm"
+                    ]
+                },
+                {
+                    "label": "Materials",
+                    "display_values": [
+                        "wood, glass, ink"
+                    ]
+                }
+            ],
+            "stats": {
+                "tap_count": 0
+            },
+            "links": [],
+            "creators_primary": [
+                {
+                    "id": 1134346,
+                    "name": "Maker not documented",
+                    "creator_id": 71446,
+                    "role": "creator",
+                    "role_id": 968,
+                    "is_primary": true
+                }
+            ],
+            "creators_other": [],
+            "video_links": [],
+            "media_note": null,
+            "images": [
+                {
+                    "id": 12207,
+                    "image_file": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AEO175946_MLS_Jester_Front.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=Ymipb3ozX%2BCbkRIVL5ZviFWKk88%3D&Expires=1627009218",
+                    "image_file_thumbnail": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AEO175946_MLS_Jester_Front.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=qGvhFuNlWlmM6E4%2FY6JxJg8bLJk%3D&Expires=1627009218",
+                    "image_file_xs": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AEO175946_MLS_Jester_Front.jpg.480x480_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=u6Ss9SeR4haLIoYDZZxwxqRIqaI%3D&Expires=1627009218",
+                    "image_file_s": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AEO175946_MLS_Jester_Front.jpg.960x960_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=xybALroyN975%2FYO6Xhd%2FAlymtP0%3D&Expires=1627009218",
+                    "image_file_m": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AEO175946_MLS_Jester_Front.jpg.1920x1920_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=WYFjHPtVUhbN4McPqslOSVOM%2Fx8%3D&Expires=1627009218",
+                    "image_file_l": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AEO175946_MLS_Jester_Front.jpg.3840x3840_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=k1tyqMrmYkDvE%2FgPNqr%2BCxZ514Q%3D&Expires=1627009218",
+                    "caption": "AEO175946_MLS_Jester_Front",
+                    "credit_line": "Photograph by Egmont Contreras, ACMI",
+                    "alt_text": "",
+                    "width": 4802,
+                    "height": 3048,
+                    "access_level": "View anywhere"
+                },
+                {
+                    "id": 12206,
+                    "image_file": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AEO175946_MLS_Jester_Back.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=L%2BdzKxzkSdC622Mzz4Xla5rpt1A%3D&Expires=1627009218",
+                    "image_file_thumbnail": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AEO175946_MLS_Jester_Back.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=GfvjTdeB3ok1vrv18qXUAd%2FjpZw%3D&Expires=1627009218",
+                    "image_file_xs": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AEO175946_MLS_Jester_Back.jpg.480x480_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=T7u7FzqdNv8zxot7GnzDp9Tu6Ho%3D&Expires=1627009218",
+                    "image_file_s": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AEO175946_MLS_Jester_Back.jpg.960x960_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=PHsQDOZUMEPwrLEUjt8M1u1jad8%3D&Expires=1627009218",
+                    "image_file_m": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AEO175946_MLS_Jester_Back.jpg.1920x1920_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=4ttFlGZJAWsX7NlODHIrqQrvz7g%3D&Expires=1627009218",
+                    "image_file_l": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AEO175946_MLS_Jester_Back.jpg.3840x3840_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=PhCJIoHHka95vdczir5FkFon3M0%3D&Expires=1627009218",
+                    "caption": "AEO175946_MLS_Jester_Back",
+                    "credit_line": "Photograph by Egmont Contreras, ACMI",
+                    "alt_text": "",
+                    "width": 4685,
+                    "height": 3068,
+                    "access_level": "View anywhere"
+                },
+                {
+                    "id": 12208,
+                    "image_file": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AEO175946_MLS_Jester_Front_open.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=JpyBjQtjTFD1D5Qd8buLTq29K5s%3D&Expires=1627009218",
+                    "image_file_thumbnail": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AEO175946_MLS_Jester_Front_open.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=suI00HbW%2BwIstxC6Ga4k6%2BU%2B%2B9g%3D&Expires=1627009218",
+                    "image_file_xs": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AEO175946_MLS_Jester_Front_open.jpg.480x480_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=Zgu3JHovSz9danwhY%2Fsq1Qk%2F3Lg%3D&Expires=1627009218",
+                    "image_file_s": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AEO175946_MLS_Jester_Front_open.jpg.960x960_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=kOZb3x4MORdFLWk4lSNayo%2B5ogc%3D&Expires=1627009218",
+                    "image_file_m": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AEO175946_MLS_Jester_Front_open.jpg.1920x1920_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=dW0Qr34KfJprKZx2N%2FdoY2cgVoQ%3D&Expires=1627009218",
+                    "image_file_l": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AEO175946_MLS_Jester_Front_open.jpg.3840x3840_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=y6XkDcSYtbVfSFXs5gyM1mDJdDY%3D&Expires=1627009218",
+                    "caption": "AEO175946_MLS_Jester_Front_open",
+                    "credit_line": "Photograph by Egmont Contreras, ACMI",
+                    "alt_text": "",
+                    "width": 4668,
+                    "height": 3019,
+                    "access_level": "View anywhere"
+                }
+            ],
+            "videos": [],
+            "holdings": [],
+            "part_of": null,
+            "parts": [],
+            "part_siblings": [],
+            "group": {
+                "id": 100517,
+                "acmi_id": "181480",
+                "title": "Mechanical magic lantern slides",
+                "title_annotation": "",
+                "slug": "mechanical-magic-lantern-slides",
+                "creator_credit": "",
+                "credit_line": "",
+                "headline_credit": "",
+                "thumbnail": {
+                    "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AEO175944_MechanicalML_Chromatrope_Back.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=5JY51%2BDCfRKuWhkUj2DzJ1JtcH4%3D&Expires=1627009218",
+                    "has_video": false
+                },
+                "record_type": "group",
+                "type": "Object",
+                "is_on_display": true,
+                "last_on_display_place": "ACMI: Gallery 1",
+                "last_on_display_date": "2031-02-16",
+                "is_context_indigenous": false,
+                "material_description": "",
+                "unpublished": false,
+                "first_production_date": null
+            },
+            "group_works": [],
+            "group_siblings": [
+                {
+                    "id": 59892,
+                    "acmi_id": "175944",
+                    "title": "Chromatrope rackwork slide",
+                    "title_annotation": "",
+                    "slug": "chromatrope-mechanical-magic-lantern-slide",
+                    "creator_credit": "Maker not documented",
+                    "credit_line": "",
+                    "headline_credit": "France",
+                    "thumbnail": {
+                        "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AEO175944_MechanicalML_Chromatrope_Back.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=5JY51%2BDCfRKuWhkUj2DzJ1JtcH4%3D&Expires=1627009218",
+                        "has_video": false
+                    },
+                    "record_type": "work",
+                    "type": "Object",
+                    "is_on_display": true,
+                    "last_on_display_place": "ACMI: Gallery 1",
+                    "last_on_display_date": "2021-08-12",
+                    "is_context_indigenous": false,
+                    "material_description": "wood, glass, pigment, metal",
+                    "unpublished": false,
+                    "first_production_date": null
+                },
+                {
+                    "id": 107892,
+                    "acmi_id": "175948",
+                    "title": "Hand painted chromatrope rackwork slide",
+                    "title_annotation": "",
+                    "slug": "hand-painted-chromatrope-rackwork-slide",
+                    "creator_credit": "Maker not documented",
+                    "credit_line": "",
+                    "headline_credit": "France, c. 1860",
+                    "thumbnail": {
+                        "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AEO175948_MechanicalMLS_Chromatrope_Back.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=dhV2uG6LmQc9FDqR6flE6ixYzA4%3D&Expires=1627009218",
+                        "has_video": false
+                    },
+                    "record_type": "work",
+                    "type": "Object",
+                    "is_on_display": true,
+                    "last_on_display_place": "ACMI: Gallery 1",
+                    "last_on_display_date": "2021-08-12",
+                    "is_context_indigenous": false,
+                    "material_description": "wood, glass, pigment, metal",
+                    "unpublished": false,
+                    "first_production_date": null
+                },
+                {
+                    "id": 99550,
+                    "acmi_id": "179378",
+                    "title": "Boy and Girl slipping slide",
+                    "title_annotation": "",
+                    "slug": "magic-lantern-slipping-slide-boy-girl",
+                    "creator_credit": "Maker not documented",
+                    "credit_line": "<p>ACMI Collection</p>",
+                    "headline_credit": "United Kingdom, c. 1900",
+                    "thumbnail": {
+                        "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/R0007984_MLS_BoyGirl_1.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=vw3JLWPY81srcNj3Sp6KK2RW5gE%3D&Expires=1627009218",
+                        "has_video": false
+                    },
+                    "record_type": "work",
+                    "type": "Object",
+                    "is_on_display": true,
+                    "last_on_display_place": "ACMI: Gallery 1",
+                    "last_on_display_date": "2021-08-12",
+                    "is_context_indigenous": false,
+                    "material_description": "wood, glass, ink",
+                    "unpublished": false,
+                    "first_production_date": null
+                },
+                {
+                    "id": 99443,
+                    "acmi_id": "175947",
+                    "title": "Chromatrope double pulley slide",
+                    "title_annotation": "",
+                    "slug": "magic-lantern-double-pulley-slide-chromatrope",
+                    "creator_credit": "Maker not documented",
+                    "credit_line": "",
+                    "headline_credit": "France, c. 1880",
+                    "thumbnail": {
+                        "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AEO_MechanicalML_Chromatrope_Back.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=VNyvap24ErTiPLcb3bsHsO6ggWE%3D&Expires=1627009218",
+                        "has_video": false
+                    },
+                    "record_type": "work",
+                    "type": "Object",
+                    "is_on_display": true,
+                    "last_on_display_place": "ACMI: Gallery 1",
+                    "last_on_display_date": "2021-08-12",
+                    "is_context_indigenous": false,
+                    "material_description": "wood, glass, ink, pulley system",
+                    "unpublished": false,
+                    "first_production_date": null
+                },
+                {
+                    "id": 99441,
+                    "acmi_id": "175945",
+                    "title": "Crocodile lever slide",
+                    "title_annotation": "",
+                    "slug": "magic-lantern-lever-slide-crocodile",
+                    "creator_credit": "Maker not documented",
+                    "credit_line": "",
+                    "headline_credit": "France, c. 1860",
+                    "thumbnail": {
+                        "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AEO175945_MLS_Crocodile_Front.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=e4k956pykftBwScWjMhSmeVybuY%3D&Expires=1627009218",
+                        "has_video": false
+                    },
+                    "record_type": "work",
+                    "type": "Object",
+                    "is_on_display": true,
+                    "last_on_display_place": "ACMI: Gallery 1",
+                    "last_on_display_date": "2021-08-12",
+                    "is_context_indigenous": false,
+                    "material_description": "wood, glass, ink, metal",
+                    "unpublished": false,
+                    "first_production_date": null
+                },
+                {
+                    "id": 99549,
+                    "acmi_id": "179377",
+                    "title": "Flower bloom three panel slipping slide",
+                    "title_annotation": "",
+                    "slug": "magic-lantern-three-panel-slipping-slide-flower-bloom",
+                    "creator_credit": "Maker not documented",
+                    "credit_line": "<p>ACMI Collection</p>",
+                    "headline_credit": "United Kingdom, c. 1900",
+                    "thumbnail": {
+                        "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/R0007987_MLS_FlowerBloom_1.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=lEtl0bMuvGzRpGgvACKNGdoJJGg%3D&Expires=1627009218",
+                        "has_video": false
+                    },
+                    "record_type": "work",
+                    "type": "Object",
+                    "is_on_display": true,
+                    "last_on_display_place": "ACMI: Gallery 1",
+                    "last_on_display_date": "2021-08-12",
+                    "is_context_indigenous": false,
+                    "material_description": "wood, glass, ink",
+                    "unpublished": false,
+                    "first_production_date": null
+                },
+                {
+                    "id": 99444,
+                    "acmi_id": "175949",
+                    "title": "Girl jumping rope slipping slide",
+                    "title_annotation": "",
+                    "slug": "magic-lantern-slipping-slide-girl-jumping-rope",
+                    "creator_credit": "Maker not documented",
+                    "credit_line": "",
+                    "headline_credit": "France, c. 1860",
+                    "thumbnail": {
+                        "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AEO175949_MLS_JumpingRope_Back.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=Tw%2BougqnZi2u9uheRpShSzp2Ols%3D&Expires=1627009218",
+                        "has_video": false
+                    },
+                    "record_type": "work",
+                    "type": "Object",
+                    "is_on_display": true,
+                    "last_on_display_place": "ACMI: Gallery 1",
+                    "last_on_display_date": "2021-08-12",
+                    "is_context_indigenous": false,
+                    "material_description": "wood, glass, metal, ink",
+                    "unpublished": false,
+                    "first_production_date": null
+                },
+                {
+                    "id": 99552,
+                    "acmi_id": "179385",
+                    "title": "House in Summer slide",
+                    "title_annotation": "",
+                    "slug": "magic-lantern-slide-house-in-summer",
+                    "creator_credit": "Maker not documented",
+                    "credit_line": "<p>ACMI Collection</p>",
+                    "headline_credit": "United Kingdom, c. 1900",
+                    "thumbnail": {
+                        "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/R0007983_MLS_HouseInSumme_2.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=ePbK6UHDQowY1YawCN85w5zxyJI%3D&Expires=1627009218",
+                        "has_video": false
+                    },
+                    "record_type": "work",
+                    "type": "Object",
+                    "is_on_display": true,
+                    "last_on_display_place": "ACMI: Gallery 1",
+                    "last_on_display_date": "2021-08-12",
+                    "is_context_indigenous": false,
+                    "material_description": "wood, glass, ink",
+                    "unpublished": false,
+                    "first_production_date": null
+                },
+                {
+                    "id": 99551,
+                    "acmi_id": "179379",
+                    "title": "Knight and Princess slipping slide",
+                    "title_annotation": "",
+                    "slug": "magic-lantern-slipping-slide-knight-and-princess",
+                    "creator_credit": "Maker not documented",
+                    "credit_line": "<p>ACMI Collection</p>",
+                    "headline_credit": "United Kingdom, c. 1900",
+                    "thumbnail": {
+                        "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/R0007985_MLS_KnightAndPrincess_3.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=1C4tijV4giRdFF99B%2Bwbo0EcoV4%3D&Expires=1627009218",
+                        "has_video": false
+                    },
+                    "record_type": "work",
+                    "type": "Object",
+                    "is_on_display": true,
+                    "last_on_display_place": "ACMI: Gallery 1",
+                    "last_on_display_date": "2021-08-12",
+                    "is_context_indigenous": false,
+                    "material_description": "wood, glass, ink",
+                    "unpublished": false,
+                    "first_production_date": null
+                },
+                {
+                    "id": 99548,
+                    "acmi_id": "179376",
+                    "title": "Man and Donkey lever slide",
+                    "title_annotation": "",
+                    "slug": "magic-lantern-lever-slide-man-and-donkey",
+                    "creator_credit": "Maker not documented",
+                    "credit_line": "<p>ACMI Collection</p>",
+                    "headline_credit": "United Kingdom, c. 1900",
+                    "thumbnail": {
+                        "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/R0007986_MLS_ManDonkey_Front_2.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=MJ04XJNKUaBCgrI0JDinu%2F9I1cY%3D&Expires=1627009218",
+                        "has_video": false
+                    },
+                    "record_type": "work",
+                    "type": "Object",
+                    "is_on_display": true,
+                    "last_on_display_place": "ACMI: Gallery 1",
+                    "last_on_display_date": "2021-08-12",
+                    "is_context_indigenous": false,
+                    "material_description": "wood, glass, metal, ink",
+                    "unpublished": false,
+                    "first_production_date": null
+                },
+                {
+                    "id": 99445,
+                    "acmi_id": "175950",
+                    "title": "Peacock slipping slide",
+                    "title_annotation": "",
+                    "slug": "magic-lantern-slipping-slide-peacock",
+                    "creator_credit": "Maker not documented",
+                    "credit_line": "",
+                    "headline_credit": "France, c. 1870",
+                    "thumbnail": {
+                        "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AEO175950_MLS_Peacock_Front.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=tm6ZoF48WkiY5yRUDEGYAoWKlyI%3D&Expires=1627009218",
+                        "has_video": false
+                    },
+                    "record_type": "work",
+                    "type": "Object",
+                    "is_on_display": true,
+                    "last_on_display_place": "ACMI: Gallery 1",
+                    "last_on_display_date": "2021-08-12",
+                    "is_context_indigenous": false,
+                    "material_description": "wood, glass, ink",
+                    "unpublished": false,
+                    "first_production_date": null
+                }
+            ],
+            "source": {
+                "name": "Vernon",
+                "slug": "vernon"
+            },
+            "source_identifier": "175946",
+            "production_places": [
+                {
+                    "id": 17,
+                    "name": "France",
+                    "slug": "france"
+                }
+            ],
+            "production_dates": [
+                {
+                    "date": "c. 1870",
+                    "notes": "",
+                    "to_year": "c. 1870"
+                }
+            ],
+            "labels": [
+                38937
+            ]
+        },
+        {
+            "id": 99441,
+            "acmi_id": "175945",
+            "title": "Crocodile lever slide",
+            "title_annotation": "",
+            "slug": "magic-lantern-lever-slide-crocodile",
+            "creator_credit": "Maker not documented",
+            "credit_line": "",
+            "headline_credit": "France, c. 1860",
+            "thumbnail": {
+                "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AEO175945_MLS_Crocodile_Front.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=e4k956pykftBwScWjMhSmeVybuY%3D&Expires=1627009218",
+                "has_video": false
+            },
+            "record_type": "work",
+            "type": "Object",
+            "is_on_display": true,
+            "last_on_display_place": "ACMI: Gallery 1",
+            "last_on_display_date": "2021-08-12",
+            "is_context_indigenous": false,
+            "material_description": "wood, glass, ink, metal",
+            "unpublished": false,
+            "first_production_date": null,
+            "brief_description": "",
+            "constellations_primary": [],
+            "constellations_other": [],
+            "recommendations": [],
+            "title_for_label": "<p>Crocodile lever slide</p>",
+            "creator_credit_for_label": "<p>Maker not documented</p>",
+            "headline_credit_for_label": "<p>France, c. 1860</p>",
+            "description": "",
+            "description_for_label": [],
+            "credit_line_for_label": "",
+            "details": [
+                {
+                    "label": "Curatorial section",
+                    "display_values": [
+                        "The Story of the Moving Image&nbsp;→ Moving Pictures&nbsp;→ 02. Play and Illusion&nbsp;→ MI-02-C01"
+                    ]
+                },
+                {
+                    "label": "Measurements",
+                    "display_values": [
+                        "98 x 199 x 13mm"
+                    ]
+                },
+                {
+                    "label": "Materials",
+                    "display_values": [
+                        "wood, glass, ink, metal"
+                    ]
+                }
+            ],
+            "stats": {
+                "tap_count": 0
+            },
+            "links": [],
+            "creators_primary": [
+                {
+                    "id": 1134345,
+                    "name": "Maker not documented",
+                    "creator_id": 71446,
+                    "role": "creator",
+                    "role_id": 968,
+                    "is_primary": true
+                }
+            ],
+            "creators_other": [],
+            "video_links": [],
+            "media_note": null,
+            "images": [
+                {
+                    "id": 12204,
+                    "image_file": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AEO175945_MLS_Crocodile_Front.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=iGcabUawowLqU90zaBK6EBE1F%2FQ%3D&Expires=1627009218",
+                    "image_file_thumbnail": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AEO175945_MLS_Crocodile_Front.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=e4k956pykftBwScWjMhSmeVybuY%3D&Expires=1627009218",
+                    "image_file_xs": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AEO175945_MLS_Crocodile_Front.jpg.480x480_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=1rzPiSPbpM1CexHAsPdUaQF3wzw%3D&Expires=1627009218",
+                    "image_file_s": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AEO175945_MLS_Crocodile_Front.jpg.960x960_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=uvzM9zQxG6G9yp96nJTGTYTsziA%3D&Expires=1627009218",
+                    "image_file_m": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AEO175945_MLS_Crocodile_Front.jpg.1920x1920_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=VYe51XdkEzNtIy5FMgQRV%2BSg05c%3D&Expires=1627009218",
+                    "image_file_l": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AEO175945_MLS_Crocodile_Front.jpg.3840x3840_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=nVt1MELtDsqvU9vqhqgH6DcRhsw%3D&Expires=1627009218",
+                    "caption": "AEO175945_MLS_Crocodile_Front",
+                    "credit_line": "Photograph by Egmont Contreras, ACMI",
+                    "alt_text": "",
+                    "width": 4430,
+                    "height": 2674,
+                    "access_level": "View anywhere"
+                },
+                {
+                    "id": 12205,
+                    "image_file": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AEO175945_MLS_Crocodile_Back.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=h0jssRFfPAkXXHPO7t5wbdPQl5M%3D&Expires=1627009218",
+                    "image_file_thumbnail": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AEO175945_MLS_Crocodile_Back.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=HtlsLS7207rxctGD1DAs8%2BiAdUM%3D&Expires=1627009218",
+                    "image_file_xs": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AEO175945_MLS_Crocodile_Back.jpg.480x480_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=S1JqATs8%2FSslPWQRiKeG53AzqcI%3D&Expires=1627009218",
+                    "image_file_s": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AEO175945_MLS_Crocodile_Back.jpg.960x960_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=7O3QhRaiBS9T4YtZ%2F%2BU0BMY6%2Fk4%3D&Expires=1627009218",
+                    "image_file_m": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AEO175945_MLS_Crocodile_Back.jpg.1920x1920_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=N12T4%2FeBVV0MDk5j6R4xk1MUgfY%3D&Expires=1627009218",
+                    "image_file_l": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AEO175945_MLS_Crocodile_Back.jpg.3840x3840_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=5D3LpnCaY0bMqy3ZJXJtBxtWCqg%3D&Expires=1627009218",
+                    "caption": "AEO175945_MLS_Crocodile_Back",
+                    "credit_line": "Photograph by Egmont Contreras, ACMI",
+                    "alt_text": "",
+                    "width": 4205,
+                    "height": 2543,
+                    "access_level": "View anywhere"
+                }
+            ],
+            "videos": [],
+            "holdings": [],
+            "part_of": null,
+            "parts": [],
+            "part_siblings": [],
+            "group": {
+                "id": 100517,
+                "acmi_id": "181480",
+                "title": "Mechanical magic lantern slides",
+                "title_annotation": "",
+                "slug": "mechanical-magic-lantern-slides",
+                "creator_credit": "",
+                "credit_line": "",
+                "headline_credit": "",
+                "thumbnail": {
+                    "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AEO175944_MechanicalML_Chromatrope_Back.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=5JY51%2BDCfRKuWhkUj2DzJ1JtcH4%3D&Expires=1627009218",
+                    "has_video": false
+                },
+                "record_type": "group",
+                "type": "Object",
+                "is_on_display": true,
+                "last_on_display_place": "ACMI: Gallery 1",
+                "last_on_display_date": "2031-02-16",
+                "is_context_indigenous": false,
+                "material_description": "",
+                "unpublished": false,
+                "first_production_date": null
+            },
+            "group_works": [],
+            "group_siblings": [
+                {
+                    "id": 59892,
+                    "acmi_id": "175944",
+                    "title": "Chromatrope rackwork slide",
+                    "title_annotation": "",
+                    "slug": "chromatrope-mechanical-magic-lantern-slide",
+                    "creator_credit": "Maker not documented",
+                    "credit_line": "",
+                    "headline_credit": "France",
+                    "thumbnail": {
+                        "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AEO175944_MechanicalML_Chromatrope_Back.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=5JY51%2BDCfRKuWhkUj2DzJ1JtcH4%3D&Expires=1627009218",
+                        "has_video": false
+                    },
+                    "record_type": "work",
+                    "type": "Object",
+                    "is_on_display": true,
+                    "last_on_display_place": "ACMI: Gallery 1",
+                    "last_on_display_date": "2021-08-12",
+                    "is_context_indigenous": false,
+                    "material_description": "wood, glass, pigment, metal",
+                    "unpublished": false,
+                    "first_production_date": null
+                },
+                {
+                    "id": 107892,
+                    "acmi_id": "175948",
+                    "title": "Hand painted chromatrope rackwork slide",
+                    "title_annotation": "",
+                    "slug": "hand-painted-chromatrope-rackwork-slide",
+                    "creator_credit": "Maker not documented",
+                    "credit_line": "",
+                    "headline_credit": "France, c. 1860",
+                    "thumbnail": {
+                        "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AEO175948_MechanicalMLS_Chromatrope_Back.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=dhV2uG6LmQc9FDqR6flE6ixYzA4%3D&Expires=1627009218",
+                        "has_video": false
+                    },
+                    "record_type": "work",
+                    "type": "Object",
+                    "is_on_display": true,
+                    "last_on_display_place": "ACMI: Gallery 1",
+                    "last_on_display_date": "2021-08-12",
+                    "is_context_indigenous": false,
+                    "material_description": "wood, glass, pigment, metal",
+                    "unpublished": false,
+                    "first_production_date": null
+                },
+                {
+                    "id": 99550,
+                    "acmi_id": "179378",
+                    "title": "Boy and Girl slipping slide",
+                    "title_annotation": "",
+                    "slug": "magic-lantern-slipping-slide-boy-girl",
+                    "creator_credit": "Maker not documented",
+                    "credit_line": "<p>ACMI Collection</p>",
+                    "headline_credit": "United Kingdom, c. 1900",
+                    "thumbnail": {
+                        "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/R0007984_MLS_BoyGirl_1.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=vw3JLWPY81srcNj3Sp6KK2RW5gE%3D&Expires=1627009218",
+                        "has_video": false
+                    },
+                    "record_type": "work",
+                    "type": "Object",
+                    "is_on_display": true,
+                    "last_on_display_place": "ACMI: Gallery 1",
+                    "last_on_display_date": "2021-08-12",
+                    "is_context_indigenous": false,
+                    "material_description": "wood, glass, ink",
+                    "unpublished": false,
+                    "first_production_date": null
+                },
+                {
+                    "id": 99443,
+                    "acmi_id": "175947",
+                    "title": "Chromatrope double pulley slide",
+                    "title_annotation": "",
+                    "slug": "magic-lantern-double-pulley-slide-chromatrope",
+                    "creator_credit": "Maker not documented",
+                    "credit_line": "",
+                    "headline_credit": "France, c. 1880",
+                    "thumbnail": {
+                        "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AEO_MechanicalML_Chromatrope_Back.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=VNyvap24ErTiPLcb3bsHsO6ggWE%3D&Expires=1627009218",
+                        "has_video": false
+                    },
+                    "record_type": "work",
+                    "type": "Object",
+                    "is_on_display": true,
+                    "last_on_display_place": "ACMI: Gallery 1",
+                    "last_on_display_date": "2021-08-12",
+                    "is_context_indigenous": false,
+                    "material_description": "wood, glass, ink, pulley system",
+                    "unpublished": false,
+                    "first_production_date": null
+                },
+                {
+                    "id": 99549,
+                    "acmi_id": "179377",
+                    "title": "Flower bloom three panel slipping slide",
+                    "title_annotation": "",
+                    "slug": "magic-lantern-three-panel-slipping-slide-flower-bloom",
+                    "creator_credit": "Maker not documented",
+                    "credit_line": "<p>ACMI Collection</p>",
+                    "headline_credit": "United Kingdom, c. 1900",
+                    "thumbnail": {
+                        "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/R0007987_MLS_FlowerBloom_1.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=lEtl0bMuvGzRpGgvACKNGdoJJGg%3D&Expires=1627009218",
+                        "has_video": false
+                    },
+                    "record_type": "work",
+                    "type": "Object",
+                    "is_on_display": true,
+                    "last_on_display_place": "ACMI: Gallery 1",
+                    "last_on_display_date": "2021-08-12",
+                    "is_context_indigenous": false,
+                    "material_description": "wood, glass, ink",
+                    "unpublished": false,
+                    "first_production_date": null
+                },
+                {
+                    "id": 99444,
+                    "acmi_id": "175949",
+                    "title": "Girl jumping rope slipping slide",
+                    "title_annotation": "",
+                    "slug": "magic-lantern-slipping-slide-girl-jumping-rope",
+                    "creator_credit": "Maker not documented",
+                    "credit_line": "",
+                    "headline_credit": "France, c. 1860",
+                    "thumbnail": {
+                        "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AEO175949_MLS_JumpingRope_Back.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=Tw%2BougqnZi2u9uheRpShSzp2Ols%3D&Expires=1627009218",
+                        "has_video": false
+                    },
+                    "record_type": "work",
+                    "type": "Object",
+                    "is_on_display": true,
+                    "last_on_display_place": "ACMI: Gallery 1",
+                    "last_on_display_date": "2021-08-12",
+                    "is_context_indigenous": false,
+                    "material_description": "wood, glass, metal, ink",
+                    "unpublished": false,
+                    "first_production_date": null
+                },
+                {
+                    "id": 99552,
+                    "acmi_id": "179385",
+                    "title": "House in Summer slide",
+                    "title_annotation": "",
+                    "slug": "magic-lantern-slide-house-in-summer",
+                    "creator_credit": "Maker not documented",
+                    "credit_line": "<p>ACMI Collection</p>",
+                    "headline_credit": "United Kingdom, c. 1900",
+                    "thumbnail": {
+                        "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/R0007983_MLS_HouseInSumme_2.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=ePbK6UHDQowY1YawCN85w5zxyJI%3D&Expires=1627009218",
+                        "has_video": false
+                    },
+                    "record_type": "work",
+                    "type": "Object",
+                    "is_on_display": true,
+                    "last_on_display_place": "ACMI: Gallery 1",
+                    "last_on_display_date": "2021-08-12",
+                    "is_context_indigenous": false,
+                    "material_description": "wood, glass, ink",
+                    "unpublished": false,
+                    "first_production_date": null
+                },
+                {
+                    "id": 99442,
+                    "acmi_id": "175946",
+                    "title": "Jester slipping slide",
+                    "title_annotation": "",
+                    "slug": "magic-lantern-slipping-slide-jester",
+                    "creator_credit": "Maker not documented",
+                    "credit_line": "",
+                    "headline_credit": "France, c. 1870",
+                    "thumbnail": {
+                        "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AEO175946_MLS_Jester_Front.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=qGvhFuNlWlmM6E4%2FY6JxJg8bLJk%3D&Expires=1627009218",
+                        "has_video": false
+                    },
+                    "record_type": "work",
+                    "type": "Object",
+                    "is_on_display": true,
+                    "last_on_display_place": "ACMI: Gallery 1",
+                    "last_on_display_date": "2021-08-12",
+                    "is_context_indigenous": false,
+                    "material_description": "wood, glass, ink",
+                    "unpublished": false,
+                    "first_production_date": null
+                },
+                {
+                    "id": 99551,
+                    "acmi_id": "179379",
+                    "title": "Knight and Princess slipping slide",
+                    "title_annotation": "",
+                    "slug": "magic-lantern-slipping-slide-knight-and-princess",
+                    "creator_credit": "Maker not documented",
+                    "credit_line": "<p>ACMI Collection</p>",
+                    "headline_credit": "United Kingdom, c. 1900",
+                    "thumbnail": {
+                        "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/R0007985_MLS_KnightAndPrincess_3.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=1C4tijV4giRdFF99B%2Bwbo0EcoV4%3D&Expires=1627009218",
+                        "has_video": false
+                    },
+                    "record_type": "work",
+                    "type": "Object",
+                    "is_on_display": true,
+                    "last_on_display_place": "ACMI: Gallery 1",
+                    "last_on_display_date": "2021-08-12",
+                    "is_context_indigenous": false,
+                    "material_description": "wood, glass, ink",
+                    "unpublished": false,
+                    "first_production_date": null
+                },
+                {
+                    "id": 99548,
+                    "acmi_id": "179376",
+                    "title": "Man and Donkey lever slide",
+                    "title_annotation": "",
+                    "slug": "magic-lantern-lever-slide-man-and-donkey",
+                    "creator_credit": "Maker not documented",
+                    "credit_line": "<p>ACMI Collection</p>",
+                    "headline_credit": "United Kingdom, c. 1900",
+                    "thumbnail": {
+                        "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/R0007986_MLS_ManDonkey_Front_2.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=MJ04XJNKUaBCgrI0JDinu%2F9I1cY%3D&Expires=1627009218",
+                        "has_video": false
+                    },
+                    "record_type": "work",
+                    "type": "Object",
+                    "is_on_display": true,
+                    "last_on_display_place": "ACMI: Gallery 1",
+                    "last_on_display_date": "2021-08-12",
+                    "is_context_indigenous": false,
+                    "material_description": "wood, glass, metal, ink",
+                    "unpublished": false,
+                    "first_production_date": null
+                },
+                {
+                    "id": 99445,
+                    "acmi_id": "175950",
+                    "title": "Peacock slipping slide",
+                    "title_annotation": "",
+                    "slug": "magic-lantern-slipping-slide-peacock",
+                    "creator_credit": "Maker not documented",
+                    "credit_line": "",
+                    "headline_credit": "France, c. 1870",
+                    "thumbnail": {
+                        "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AEO175950_MLS_Peacock_Front.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=tm6ZoF48WkiY5yRUDEGYAoWKlyI%3D&Expires=1627009218",
+                        "has_video": false
+                    },
+                    "record_type": "work",
+                    "type": "Object",
+                    "is_on_display": true,
+                    "last_on_display_place": "ACMI: Gallery 1",
+                    "last_on_display_date": "2021-08-12",
+                    "is_context_indigenous": false,
+                    "material_description": "wood, glass, ink",
+                    "unpublished": false,
+                    "first_production_date": null
+                }
+            ],
+            "source": {
+                "name": "Vernon",
+                "slug": "vernon"
+            },
+            "source_identifier": "175945",
+            "production_places": [
+                {
+                    "id": 17,
+                    "name": "France",
+                    "slug": "france"
+                }
+            ],
+            "production_dates": [
+                {
+                    "date": "c. 1860",
+                    "notes": "",
+                    "to_year": "c. 1860"
+                }
+            ],
+            "labels": [
+                38936
+            ]
+        },
+        {
+            "id": 59892,
+            "acmi_id": "175944",
+            "title": "Chromatrope rackwork slide",
+            "title_annotation": "",
+            "slug": "chromatrope-mechanical-magic-lantern-slide",
+            "creator_credit": "Maker not documented",
+            "credit_line": "",
+            "headline_credit": "France",
+            "thumbnail": {
+                "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AEO175944_MechanicalML_Chromatrope_Back.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=5JY51%2BDCfRKuWhkUj2DzJ1JtcH4%3D&Expires=1627009218",
+                "has_video": false
+            },
+            "record_type": "work",
+            "type": "Object",
+            "is_on_display": true,
+            "last_on_display_place": "ACMI: Gallery 1",
+            "last_on_display_date": "2021-08-12",
+            "is_context_indigenous": false,
+            "material_description": "wood, glass, pigment, metal",
+            "unpublished": false,
+            "first_production_date": null,
+            "brief_description": "",
+            "constellations_primary": [
+                {
+                    "id": 168,
+                    "name": "Dancing on a dream",
+                    "description": "Mechanical lantern slides called chromotropes created wondrously complex patterns of light through sliding glass panels and internal gears."
+                }
+            ],
+            "constellations_other": [],
+            "recommendations": [],
+            "title_for_label": "<p>Chromatrope rackwork slide</p>",
+            "creator_credit_for_label": "<p>Maker not documented</p>",
+            "headline_credit_for_label": "<p>France</p>",
+            "description": "<p>Mechanical magic lantern slides created basic moving pictures. ‘Slipping slides’ used two glass slides featuring complementary images – one stationary and one that ‘slipped’ over the other to give the illusion of movement, like crocodiles snapping their jaws. As appetite for more dynamic lantern shows increased, so did the complexity of slides. Levers were incorporated to make children appear to skip, and pulley systems used two discs to create movements like whirling windmills. Rackwork mechanisms made glass discs revolve in opposite directions to show planets orbiting the sun and were used in chromotopes to create hypnotic, kaleidoscopic effects.</p>",
+            "description_for_label": [
+                "<p>Mechanical magic lantern slides created basic moving pictures. ‘Slipping slides’ used two glass slides featuring complementary images – one stationary and one that ‘slipped’ over the other to give the illusion of movement, like crocodiles snapping their jaws. As appetite for more dynamic lantern shows increased, so did the complexity of slides. Levers were incorporated to make children appear to skip, and pulley systems used two discs to create movements like whirling windmills. Rackwork mechanisms made glass discs revolve in opposite directions to show planets orbiting the sun and were used in chromotopes to create hypnotic, kaleidoscopic effects.</p>"
+            ],
+            "credit_line_for_label": "",
+            "details": [
+                {
+                    "label": "Curatorial section",
+                    "display_values": [
+                        "The Story of the Moving Image&nbsp;→ Moving Pictures&nbsp;→ 02. Play and Illusion&nbsp;→ MI-02-C01"
+                    ]
+                },
+                {
+                    "label": "Measurements",
+                    "display_values": [
+                        "115 x 255 x 14mm"
+                    ]
+                },
+                {
+                    "label": "Materials",
+                    "display_values": [
+                        "wood, glass, pigment, metal"
+                    ]
+                }
+            ],
+            "stats": {
+                "tap_count": 12
+            },
+            "links": [],
+            "creators_primary": [
+                {
+                    "id": 1134344,
+                    "name": "Maker not documented",
+                    "creator_id": 71446,
+                    "role": "creator",
+                    "role_id": 968,
+                    "is_primary": true
+                }
+            ],
+            "creators_other": [],
+            "video_links": [],
+            "media_note": null,
+            "images": [
+                {
+                    "id": 12203,
+                    "image_file": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AEO175944_MechanicalML_Chromatrope_Back.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=F%2FY8Q3l6Qf497wLIiFj%2BSqkTcf8%3D&Expires=1627009218",
+                    "image_file_thumbnail": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AEO175944_MechanicalML_Chromatrope_Back.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=5JY51%2BDCfRKuWhkUj2DzJ1JtcH4%3D&Expires=1627009218",
+                    "image_file_xs": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AEO175944_MechanicalML_Chromatrope_Back.jpg.480x480_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=pcCjXBs%2BAKkVE5mMI8BkfIju3lw%3D&Expires=1627009218",
+                    "image_file_s": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AEO175944_MechanicalML_Chromatrope_Back.jpg.960x960_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=N0b1%2BGsouyyddMIwc7L4iJ2wF3c%3D&Expires=1627009218",
+                    "image_file_m": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AEO175944_MechanicalML_Chromatrope_Back.jpg.1920x1920_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=skQJvQk5Nyc%2B32wzYu7wSVnGG3E%3D&Expires=1627009218",
+                    "image_file_l": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AEO175944_MechanicalML_Chromatrope_Back.jpg.3840x3840_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=4q5vH6Uju6%2FUcF%2Bq3R4MpegwOhw%3D&Expires=1627009218",
+                    "caption": "AEO175944_MechanicalML_Chromatrope_Back",
+                    "credit_line": "Photograph by Egmont Contreras, ACMI",
+                    "alt_text": "",
+                    "width": 4773,
+                    "height": 2761,
+                    "access_level": "View anywhere"
+                },
+                {
+                    "id": 12202,
+                    "image_file": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AEO175944_MechanicalML_Chromatrope_Front.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=mZdnwpluGRkqItQGDFYU0ynNWxI%3D&Expires=1627009218",
+                    "image_file_thumbnail": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AEO175944_MechanicalML_Chromatrope_Front.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=v0YMavkdz6826Xd%2B5b7YxzO79Fs%3D&Expires=1627009218",
+                    "image_file_xs": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AEO175944_MechanicalML_Chromatrope_Front.jpg.480x480_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=TvYsRX%2BlfYSi%2BytQUQMdSI7ljFU%3D&Expires=1627009218",
+                    "image_file_s": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AEO175944_MechanicalML_Chromatrope_Front.jpg.960x960_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=VTNpXQwjUHrqqLceXMsFyIfK1Tw%3D&Expires=1627009218",
+                    "image_file_m": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AEO175944_MechanicalML_Chromatrope_Front.jpg.1920x1920_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=iWEIeugWax32RUW47Z6%2Bg%2FXPics%3D&Expires=1627009218",
+                    "image_file_l": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AEO175944_MechanicalML_Chromatrope_Front.jpg.3840x3840_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=U1pGbQEcAT1HB0OMrp8p%2Fs%2Fj67o%3D&Expires=1627009218",
+                    "caption": "AEO175944_MechanicalML_Chromatrope_Front",
+                    "credit_line": "Photograph by Egmont Contreras, ACMI",
+                    "alt_text": "",
+                    "width": 4835,
+                    "height": 2791,
+                    "access_level": "View anywhere"
+                }
+            ],
+            "videos": [],
+            "holdings": [],
+            "part_of": null,
+            "parts": [],
+            "part_siblings": [],
+            "group": {
+                "id": 100517,
+                "acmi_id": "181480",
+                "title": "Mechanical magic lantern slides",
+                "title_annotation": "",
+                "slug": "mechanical-magic-lantern-slides",
+                "creator_credit": "",
+                "credit_line": "",
+                "headline_credit": "",
+                "thumbnail": {
+                    "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AEO175944_MechanicalML_Chromatrope_Back.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=5JY51%2BDCfRKuWhkUj2DzJ1JtcH4%3D&Expires=1627009218",
+                    "has_video": false
+                },
+                "record_type": "group",
+                "type": "Object",
+                "is_on_display": true,
+                "last_on_display_place": "ACMI: Gallery 1",
+                "last_on_display_date": "2031-02-16",
+                "is_context_indigenous": false,
+                "material_description": "",
+                "unpublished": false,
+                "first_production_date": null
+            },
+            "group_works": [],
+            "group_siblings": [
+                {
+                    "id": 107892,
+                    "acmi_id": "175948",
+                    "title": "Hand painted chromatrope rackwork slide",
+                    "title_annotation": "",
+                    "slug": "hand-painted-chromatrope-rackwork-slide",
+                    "creator_credit": "Maker not documented",
+                    "credit_line": "",
+                    "headline_credit": "France, c. 1860",
+                    "thumbnail": {
+                        "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AEO175948_MechanicalMLS_Chromatrope_Back.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=dhV2uG6LmQc9FDqR6flE6ixYzA4%3D&Expires=1627009218",
+                        "has_video": false
+                    },
+                    "record_type": "work",
+                    "type": "Object",
+                    "is_on_display": true,
+                    "last_on_display_place": "ACMI: Gallery 1",
+                    "last_on_display_date": "2021-08-12",
+                    "is_context_indigenous": false,
+                    "material_description": "wood, glass, pigment, metal",
+                    "unpublished": false,
+                    "first_production_date": null
+                },
+                {
+                    "id": 99550,
+                    "acmi_id": "179378",
+                    "title": "Boy and Girl slipping slide",
+                    "title_annotation": "",
+                    "slug": "magic-lantern-slipping-slide-boy-girl",
+                    "creator_credit": "Maker not documented",
+                    "credit_line": "<p>ACMI Collection</p>",
+                    "headline_credit": "United Kingdom, c. 1900",
+                    "thumbnail": {
+                        "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/R0007984_MLS_BoyGirl_1.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=vw3JLWPY81srcNj3Sp6KK2RW5gE%3D&Expires=1627009218",
+                        "has_video": false
+                    },
+                    "record_type": "work",
+                    "type": "Object",
+                    "is_on_display": true,
+                    "last_on_display_place": "ACMI: Gallery 1",
+                    "last_on_display_date": "2021-08-12",
+                    "is_context_indigenous": false,
+                    "material_description": "wood, glass, ink",
+                    "unpublished": false,
+                    "first_production_date": null
+                },
+                {
+                    "id": 99443,
+                    "acmi_id": "175947",
+                    "title": "Chromatrope double pulley slide",
+                    "title_annotation": "",
+                    "slug": "magic-lantern-double-pulley-slide-chromatrope",
+                    "creator_credit": "Maker not documented",
+                    "credit_line": "",
+                    "headline_credit": "France, c. 1880",
+                    "thumbnail": {
+                        "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AEO_MechanicalML_Chromatrope_Back.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=VNyvap24ErTiPLcb3bsHsO6ggWE%3D&Expires=1627009218",
+                        "has_video": false
+                    },
+                    "record_type": "work",
+                    "type": "Object",
+                    "is_on_display": true,
+                    "last_on_display_place": "ACMI: Gallery 1",
+                    "last_on_display_date": "2021-08-12",
+                    "is_context_indigenous": false,
+                    "material_description": "wood, glass, ink, pulley system",
+                    "unpublished": false,
+                    "first_production_date": null
+                },
+                {
+                    "id": 99441,
+                    "acmi_id": "175945",
+                    "title": "Crocodile lever slide",
+                    "title_annotation": "",
+                    "slug": "magic-lantern-lever-slide-crocodile",
+                    "creator_credit": "Maker not documented",
+                    "credit_line": "",
+                    "headline_credit": "France, c. 1860",
+                    "thumbnail": {
+                        "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AEO175945_MLS_Crocodile_Front.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=e4k956pykftBwScWjMhSmeVybuY%3D&Expires=1627009218",
+                        "has_video": false
+                    },
+                    "record_type": "work",
+                    "type": "Object",
+                    "is_on_display": true,
+                    "last_on_display_place": "ACMI: Gallery 1",
+                    "last_on_display_date": "2021-08-12",
+                    "is_context_indigenous": false,
+                    "material_description": "wood, glass, ink, metal",
+                    "unpublished": false,
+                    "first_production_date": null
+                },
+                {
+                    "id": 99549,
+                    "acmi_id": "179377",
+                    "title": "Flower bloom three panel slipping slide",
+                    "title_annotation": "",
+                    "slug": "magic-lantern-three-panel-slipping-slide-flower-bloom",
+                    "creator_credit": "Maker not documented",
+                    "credit_line": "<p>ACMI Collection</p>",
+                    "headline_credit": "United Kingdom, c. 1900",
+                    "thumbnail": {
+                        "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/R0007987_MLS_FlowerBloom_1.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=lEtl0bMuvGzRpGgvACKNGdoJJGg%3D&Expires=1627009218",
+                        "has_video": false
+                    },
+                    "record_type": "work",
+                    "type": "Object",
+                    "is_on_display": true,
+                    "last_on_display_place": "ACMI: Gallery 1",
+                    "last_on_display_date": "2021-08-12",
+                    "is_context_indigenous": false,
+                    "material_description": "wood, glass, ink",
+                    "unpublished": false,
+                    "first_production_date": null
+                },
+                {
+                    "id": 99444,
+                    "acmi_id": "175949",
+                    "title": "Girl jumping rope slipping slide",
+                    "title_annotation": "",
+                    "slug": "magic-lantern-slipping-slide-girl-jumping-rope",
+                    "creator_credit": "Maker not documented",
+                    "credit_line": "",
+                    "headline_credit": "France, c. 1860",
+                    "thumbnail": {
+                        "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AEO175949_MLS_JumpingRope_Back.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=Tw%2BougqnZi2u9uheRpShSzp2Ols%3D&Expires=1627009218",
+                        "has_video": false
+                    },
+                    "record_type": "work",
+                    "type": "Object",
+                    "is_on_display": true,
+                    "last_on_display_place": "ACMI: Gallery 1",
+                    "last_on_display_date": "2021-08-12",
+                    "is_context_indigenous": false,
+                    "material_description": "wood, glass, metal, ink",
+                    "unpublished": false,
+                    "first_production_date": null
+                },
+                {
+                    "id": 99552,
+                    "acmi_id": "179385",
+                    "title": "House in Summer slide",
+                    "title_annotation": "",
+                    "slug": "magic-lantern-slide-house-in-summer",
+                    "creator_credit": "Maker not documented",
+                    "credit_line": "<p>ACMI Collection</p>",
+                    "headline_credit": "United Kingdom, c. 1900",
+                    "thumbnail": {
+                        "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/R0007983_MLS_HouseInSumme_2.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=ePbK6UHDQowY1YawCN85w5zxyJI%3D&Expires=1627009218",
+                        "has_video": false
+                    },
+                    "record_type": "work",
+                    "type": "Object",
+                    "is_on_display": true,
+                    "last_on_display_place": "ACMI: Gallery 1",
+                    "last_on_display_date": "2021-08-12",
+                    "is_context_indigenous": false,
+                    "material_description": "wood, glass, ink",
+                    "unpublished": false,
+                    "first_production_date": null
+                },
+                {
+                    "id": 99442,
+                    "acmi_id": "175946",
+                    "title": "Jester slipping slide",
+                    "title_annotation": "",
+                    "slug": "magic-lantern-slipping-slide-jester",
+                    "creator_credit": "Maker not documented",
+                    "credit_line": "",
+                    "headline_credit": "France, c. 1870",
+                    "thumbnail": {
+                        "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AEO175946_MLS_Jester_Front.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=qGvhFuNlWlmM6E4%2FY6JxJg8bLJk%3D&Expires=1627009218",
+                        "has_video": false
+                    },
+                    "record_type": "work",
+                    "type": "Object",
+                    "is_on_display": true,
+                    "last_on_display_place": "ACMI: Gallery 1",
+                    "last_on_display_date": "2021-08-12",
+                    "is_context_indigenous": false,
+                    "material_description": "wood, glass, ink",
+                    "unpublished": false,
+                    "first_production_date": null
+                },
+                {
+                    "id": 99551,
+                    "acmi_id": "179379",
+                    "title": "Knight and Princess slipping slide",
+                    "title_annotation": "",
+                    "slug": "magic-lantern-slipping-slide-knight-and-princess",
+                    "creator_credit": "Maker not documented",
+                    "credit_line": "<p>ACMI Collection</p>",
+                    "headline_credit": "United Kingdom, c. 1900",
+                    "thumbnail": {
+                        "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/R0007985_MLS_KnightAndPrincess_3.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=1C4tijV4giRdFF99B%2Bwbo0EcoV4%3D&Expires=1627009218",
+                        "has_video": false
+                    },
+                    "record_type": "work",
+                    "type": "Object",
+                    "is_on_display": true,
+                    "last_on_display_place": "ACMI: Gallery 1",
+                    "last_on_display_date": "2021-08-12",
+                    "is_context_indigenous": false,
+                    "material_description": "wood, glass, ink",
+                    "unpublished": false,
+                    "first_production_date": null
+                },
+                {
+                    "id": 99548,
+                    "acmi_id": "179376",
+                    "title": "Man and Donkey lever slide",
+                    "title_annotation": "",
+                    "slug": "magic-lantern-lever-slide-man-and-donkey",
+                    "creator_credit": "Maker not documented",
+                    "credit_line": "<p>ACMI Collection</p>",
+                    "headline_credit": "United Kingdom, c. 1900",
+                    "thumbnail": {
+                        "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/R0007986_MLS_ManDonkey_Front_2.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=MJ04XJNKUaBCgrI0JDinu%2F9I1cY%3D&Expires=1627009218",
+                        "has_video": false
+                    },
+                    "record_type": "work",
+                    "type": "Object",
+                    "is_on_display": true,
+                    "last_on_display_place": "ACMI: Gallery 1",
+                    "last_on_display_date": "2021-08-12",
+                    "is_context_indigenous": false,
+                    "material_description": "wood, glass, metal, ink",
+                    "unpublished": false,
+                    "first_production_date": null
+                },
+                {
+                    "id": 99445,
+                    "acmi_id": "175950",
+                    "title": "Peacock slipping slide",
+                    "title_annotation": "",
+                    "slug": "magic-lantern-slipping-slide-peacock",
+                    "creator_credit": "Maker not documented",
+                    "credit_line": "",
+                    "headline_credit": "France, c. 1870",
+                    "thumbnail": {
+                        "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AEO175950_MLS_Peacock_Front.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=tm6ZoF48WkiY5yRUDEGYAoWKlyI%3D&Expires=1627009218",
+                        "has_video": false
+                    },
+                    "record_type": "work",
+                    "type": "Object",
+                    "is_on_display": true,
+                    "last_on_display_place": "ACMI: Gallery 1",
+                    "last_on_display_date": "2021-08-12",
+                    "is_context_indigenous": false,
+                    "material_description": "wood, glass, ink",
+                    "unpublished": false,
+                    "first_production_date": null
+                }
+            ],
+            "source": {
+                "name": "Vernon",
+                "slug": "vernon"
+            },
+            "source_identifier": "175944",
+            "production_places": [
+                {
+                    "id": 17,
+                    "name": "France",
+                    "slug": "france"
+                }
+            ],
+            "production_dates": [],
+            "labels": [
+                270
+            ]
+        },
+        {
+            "id": 99436,
+            "acmi_id": "175774",
+            "title": "Imperial Guard costume",
+            "title_annotation": "",
+            "slug": "imperial-guard-costume-from-the-last-emperor",
+            "creator_credit": "James Acheson",
+            "credit_line": "<p>The Last Emperor</p>",
+            "headline_credit": "France and Italy, 1987",
+            "thumbnail": {
+                "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AEO175774_ImperialGuardCostume_34.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=n1W7yHoJVZyuKQ%2FKHdr5BF2qGLg%3D&Expires=1627009218",
+                "has_video": false
+            },
+            "record_type": "work",
+            "type": "Object",
+            "is_on_display": true,
+            "last_on_display_place": "ACMI: Gallery 1",
+            "last_on_display_date": "2021-08-12",
+            "is_context_indigenous": false,
+            "material_description": "Silk screened rayon fabric",
+            "unpublished": false,
+            "first_production_date": "1987-01-01T11:00:00+11:00",
+            "brief_description": "<p>From seller: An Imperial Guard uniform from the 1987 multi-Oscar winning historical drama The Last Emperor. This elaborate outfit first appeared when a young Pu Yi (Richard Vuu), aged a mere three years old, is taken at night from his mother with only his wet nurse for comfort, and escorted to the secretive Forbidden City to become Emperor, and later at his coronation.<br />\nThe ensemble has multiple layers and would have been a challenge to wear atop a horse during the lengthy hours on set. The imposing uniform consists of a pair of navy rayon trousers, undertunic and skirt, topped with a jacket and three-piece skirt decorated with an Indian print gold metallic mesh trimmed in black satin and adorned with brass pauldrons and metal roundels. In addition to the already comprehensive costume is the traditional metal helmet trimmed with stamp pressed brass reliefs, topped by a rabbit fur and horse hair plume worn over a protective balaclava hood. Completing the costume is a leather belt sash with hard rubber sword and tsuba.<br />\nThis is a unique opportunity to acquire an instantly recognisable costume from the first scenes of the young Emperor&#8217;s life, and although has some slight distress due to use on set and age it is still in very good condition.<br />\nThis comes from the private collection of renowned producer Jeremy Thomas (who single handedly raised the $25million budget for the movie) and was archived after filming completed until only recently, when the Prop Store was proud to assist in sorting and cataloguing the incredible inventory under the guidance and in collaboration with Oscar-winning Costume Designer, Jim Acheson.</p>",
+            "constellations_primary": [],
+            "constellations_other": [],
+            "recommendations": [],
+            "title_for_label": "<p>Imperial Guard costume</p>",
+            "creator_credit_for_label": "<p>James Acheson</p>",
+            "headline_credit_for_label": "<p>France and Italy, 1987</p>",
+            "description": "<p>From seller: An Imperial Guard uniform from the 1987 multi-Oscar winning historical drama The Last Emperor. This elaborate outfit first appeared when a young Pu Yi (Richard Vuu), aged a mere three years old, is taken at night from his mother with only his wet nurse for comfort, and escorted to the secretive Forbidden City to become Emperor, and later at his coronation.<br />\nThe ensemble has multiple layers and would have been a challenge to wear atop a horse during the lengthy hours on set. The imposing uniform consists of a pair of navy rayon trousers, undertunic and skirt, topped with a jacket and three-piece skirt decorated with an Indian print gold metallic mesh trimmed in black satin and adorned with brass pauldrons and metal roundels. In addition to the already comprehensive costume is the traditional metal helmet trimmed with stamp pressed brass reliefs, topped by a rabbit fur and horse hair plume worn over a protective balaclava hood. Completing the costume is a leather belt sash with hard rubber sword and tsuba.<br />\nThis is a unique opportunity to acquire an instantly recognisable costume from the first scenes of the young Emperor&#8217;s life, and although has some slight distress due to use on set and age it is still in very good condition.<br />\nThis comes from the private collection of renowned producer Jeremy Thomas (who single handedly raised the $25million budget for the movie) and was archived after filming completed until only recently, when the Prop Store was proud to assist in sorting and cataloguing the incredible inventory under the guidance and in collaboration with Oscar-winning Costume Designer, Jim Acheson.</p>",
+            "description_for_label": [
+                "<p>From seller: An Imperial Guard uniform from the 1987 multi-Oscar winning historical drama The Last Emperor. This elaborate outfit first appeared when a young Pu Yi (Richard Vuu), aged a mere three years old, is taken at night from his mother with only his wet nurse for comfort, and escorted to the secretive Forbidden City to become Emperor, and later at his coronation.<br />\nThe ensemble has multiple layers and would have been a challenge to wear atop a horse during the lengthy hours on set. The imposing uniform consists of a pair of navy rayon trousers, undertunic and skirt, topped with a jacket and three-piece skirt decorated with an Indian print gold metallic mesh trimmed in black satin and adorned with brass pauldrons and metal roundels. In addition to the already comprehensive costume is the traditional metal helmet trimmed with stamp pressed brass reliefs, topped by a rabbit fur and horse hair plume worn over a protective balaclava hood. Completing the costume is a leather belt sash with hard rubber sword and tsuba.<br />\nThis is a unique opportunity to acquire an instantly recognisable costume from the first scenes of the young Emperor&#8217;s life, and although has some slight distress due to use on set and age it is still in very good condition.<br />\nThis comes from the private collection of renowned producer Jeremy Thomas (who single handedly raised the $25million budget for the movie) and was archived after filming completed until only recently, when the Prop Store was proud to assist in sorting and cataloguing the incredible inventory under the guidance and in collaboration with Oscar-winning Costume Designer, Jim Acheson.</p>"
+            ],
+            "credit_line_for_label": "<p>The Last Emperor</p>",
+            "details": [
+                {
+                    "label": "Curatorial section",
+                    "display_values": [
+                        "The Story of the Moving Image&nbsp;→ Moving Pictures&nbsp;→ 05. Sound and Colour&nbsp;→ MI-05-C01"
+                    ]
+                },
+                {
+                    "label": "Materials",
+                    "display_values": [
+                        "Silk screened rayon fabric"
+                    ]
+                }
+            ],
+            "stats": {
+                "tap_count": 0
+            },
+            "links": [],
+            "creators_primary": [
+                {
+                    "id": 1134343,
+                    "name": "James Acheson",
+                    "creator_id": 70564,
+                    "role": "costume designer",
+                    "role_id": 961,
+                    "is_primary": true
+                }
+            ],
+            "creators_other": [],
+            "video_links": [],
+            "media_note": null,
+            "images": [
+                {
+                    "id": 16600,
+                    "image_file": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AEO175774_ImperialGuardCostume_34.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=vj99InlCmY2X65CHgs5ueYdtvwk%3D&Expires=1627009218",
+                    "image_file_thumbnail": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AEO175774_ImperialGuardCostume_34.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=n1W7yHoJVZyuKQ%2FKHdr5BF2qGLg%3D&Expires=1627009218",
+                    "image_file_xs": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AEO175774_ImperialGuardCostume_34.jpg.480x480_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=L%2BFxqAul5A9ilpBiF2O8rj4w1Us%3D&Expires=1627009218",
+                    "image_file_s": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AEO175774_ImperialGuardCostume_34.jpg.960x960_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=pd8d90TXVO47UbDYz597qx%2F4xh8%3D&Expires=1627009218",
+                    "image_file_m": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AEO175774_ImperialGuardCostume_34.jpg.1920x1920_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=Bi0muI%2FAR35eLz8k6IQNnd6eau0%3D&Expires=1627009218",
+                    "image_file_l": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AEO175774_ImperialGuardCostume_34.jpg.3840x3840_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=7oQWKXS9vXg7LItkVwsEIdkEFz4%3D&Expires=1627009218",
+                    "caption": "AEO175774_ImperialGuardCostume_34",
+                    "credit_line": "Photograph by Egmont Contreras, ACMI.",
+                    "alt_text": "",
+                    "width": 2940,
+                    "height": 4410,
+                    "access_level": "View anywhere"
+                },
+                {
+                    "id": 16601,
+                    "image_file": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AEO175774_ImperialGuardCostume_Front.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=ITS6PqgXrm94oBaF8bwRDr6AC7M%3D&Expires=1627009218",
+                    "image_file_thumbnail": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AEO175774_ImperialGuardCostume_Front.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=kY%2FmKpQgwuhoGYJvuAXxDdk5vDY%3D&Expires=1627009218",
+                    "image_file_xs": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AEO175774_ImperialGuardCostume_Front.jpg.480x480_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=19Gd4uBBIorGKoDXa%2FWT0TF2HfM%3D&Expires=1627009218",
+                    "image_file_s": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AEO175774_ImperialGuardCostume_Front.jpg.960x960_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=hYv6OydgE7K7GkalBsYWOivhuh0%3D&Expires=1627009218",
+                    "image_file_m": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AEO175774_ImperialGuardCostume_Front.jpg.1920x1920_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=0GWSwYIZHzJtml1gCbxa%2B24N%2BVQ%3D&Expires=1627009218",
+                    "image_file_l": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AEO175774_ImperialGuardCostume_Front.jpg.3840x3840_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=JNbvsXpoH5Cq5BK9Szen%2Br8dp40%3D&Expires=1627009218",
+                    "caption": "AEO175774_ImperialGuardCostume_Front",
+                    "credit_line": "Photograph by Egmont Contreras, ACMI.",
+                    "alt_text": "",
+                    "width": 3218,
+                    "height": 4812,
+                    "access_level": "View anywhere"
+                },
+                {
+                    "id": 16602,
+                    "image_file": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AEO175774_ImperialGuardCostume_BackDetail.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=UljXMtU%2B7BVXirWC3szna11p1I0%3D&Expires=1627009218",
+                    "image_file_thumbnail": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AEO175774_ImperialGuardCostume_BackDetail.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=q%2BtqhzUqnhnNTvysgvw0JA%2Buo9c%3D&Expires=1627009218",
+                    "image_file_xs": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AEO175774_ImperialGuardCostume_BackDetail.jpg.480x480_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=O%2FxOQLiBdrrth607tCNs2w9NLdQ%3D&Expires=1627009218",
+                    "image_file_s": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AEO175774_ImperialGuardCostume_BackDetail.jpg.960x960_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=EadX6K69Z6D8cdbELLOcmCZVJ2s%3D&Expires=1627009218",
+                    "image_file_m": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AEO175774_ImperialGuardCostume_BackDetail.jpg.1920x1920_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=hKd6k11YCsspwQUlqfqUk4KtuCI%3D&Expires=1627009218",
+                    "image_file_l": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AEO175774_ImperialGuardCostume_BackDetail.jpg.3840x3840_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=2tqvF6P8G4xHXa%2FDKJF0IJbxIhQ%3D&Expires=1627009218",
+                    "caption": "AEO175774_ImperialGuardCostume_BackDetail",
+                    "credit_line": "Photograph by Egmont Contreras, ACMI.",
+                    "alt_text": "",
+                    "width": 3200,
+                    "height": 4800,
+                    "access_level": "View anywhere"
+                },
+                {
+                    "id": 16603,
+                    "image_file": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AEO175774_ImperialGuardCostume_HelmetFront.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=g3xxauZbf4WUon%2FLi9wD4IULtV4%3D&Expires=1627009218",
+                    "image_file_thumbnail": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AEO175774_ImperialGuardCostume_HelmetFront.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=MZtNOpdo1u51KIo%2BF3zvTBV8LUI%3D&Expires=1627009218",
+                    "image_file_xs": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AEO175774_ImperialGuardCostume_HelmetFront.jpg.480x480_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=ZNACn%2BxA1uqwhlAn4LFlOuXbZoI%3D&Expires=1627009218",
+                    "image_file_s": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AEO175774_ImperialGuardCostume_HelmetFront.jpg.960x960_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=duuvcL%2FcW%2FtvgFC48pb3Kz54Upw%3D&Expires=1627009218",
+                    "image_file_m": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AEO175774_ImperialGuardCostume_HelmetFront.jpg.1920x1920_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=Rlk8kDD3G%2BloPDHmS4FyzC4J%2B7k%3D&Expires=1627009218",
+                    "image_file_l": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AEO175774_ImperialGuardCostume_HelmetFront.jpg.3840x3840_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=a%2FvEj97XsOdDLfWsY0aMsIhwxNU%3D&Expires=1627009218",
+                    "caption": "AEO175774_ImperialGuardCostume_HelmetFront",
+                    "credit_line": "Photograph by Egmont Contreras, ACMI.",
+                    "alt_text": "",
+                    "width": 3142,
+                    "height": 4649,
+                    "access_level": "View anywhere"
+                },
+                {
+                    "id": 16604,
+                    "image_file": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AEO175774_ImperialGuardCostume_HelmetDetail.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=RNcudjE%2Bh1Bc%2B9f22Gd4isEENOs%3D&Expires=1627009218",
+                    "image_file_thumbnail": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AEO175774_ImperialGuardCostume_HelmetDetail.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=1rNl6JAVIl%2B4sCLcVUfK2wHctYI%3D&Expires=1627009218",
+                    "image_file_xs": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AEO175774_ImperialGuardCostume_HelmetDetail.jpg.480x480_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=imraV9EP6u7tLUGDz1TQZl2lsRM%3D&Expires=1627009218",
+                    "image_file_s": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AEO175774_ImperialGuardCostume_HelmetDetail.jpg.960x960_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=Fdszk0iJZRKs47o%2FcR2eE9%2FRv%2Fg%3D&Expires=1627009218",
+                    "image_file_m": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AEO175774_ImperialGuardCostume_HelmetDetail.jpg.1920x1920_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=L4pjmWtpPgp0cGbEXFqim%2FMw9qs%3D&Expires=1627009218",
+                    "image_file_l": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AEO175774_ImperialGuardCostume_HelmetDetail.jpg.3840x3840_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=mQ6TZMrLh0%2FiTIyCLhxxp5yi7QQ%3D&Expires=1627009218",
+                    "caption": "AEO175774_ImperialGuardCostume_HelmetDetail",
+                    "credit_line": "Photograph by Egmont Contreras, ACMI.",
+                    "alt_text": "",
+                    "width": 4470,
+                    "height": 3102,
+                    "access_level": "View anywhere"
+                },
+                {
+                    "id": 16605,
+                    "image_file": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AEO175774_ImperialGuardCostume_ShoulderDetail.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=4pzM5B%2BQC6I0mhQIOkV2v7TC7yQ%3D&Expires=1627009218",
+                    "image_file_thumbnail": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AEO175774_ImperialGuardCostume_ShoulderDetail.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=5YWYsorbFx4zTdJKqu%2FquDQVnfw%3D&Expires=1627009218",
+                    "image_file_xs": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AEO175774_ImperialGuardCostume_ShoulderDetail.jpg.480x480_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=SUgeonsu4iJ3eg88wn%2FX7MeG6aA%3D&Expires=1627009218",
+                    "image_file_s": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AEO175774_ImperialGuardCostume_ShoulderDetail.jpg.960x960_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=1d0IpCzhHaOWVxTgce8EpN7%2Byc8%3D&Expires=1627009218",
+                    "image_file_m": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AEO175774_ImperialGuardCostume_ShoulderDetail.jpg.1920x1920_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=j1Mjp4Gt1uwmy0GT5j3L5u9R1Ps%3D&Expires=1627009218",
+                    "image_file_l": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AEO175774_ImperialGuardCostume_ShoulderDetail.jpg.3840x3840_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=3YMV0hQ1ZxrzByOJ84AyFP9aygI%3D&Expires=1627009218",
+                    "caption": "AEO175774_ImperialGuardCostume_ShoulderDetail",
+                    "credit_line": "Photograph by Egmont Contreras, ACMI.",
+                    "alt_text": "",
+                    "width": 4800,
+                    "height": 3200,
+                    "access_level": "View anywhere"
+                },
+                {
+                    "id": 16606,
+                    "image_file": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AEO175774_ImperialGuardCostume_ChestDetail.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=TdAIqSN2ik%2BA6X0EnRtl%2BnmQ6Ys%3D&Expires=1627009218",
+                    "image_file_thumbnail": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AEO175774_ImperialGuardCostume_ChestDetail.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=RpjdhinZcsP%2BcNvedNLgm1dCfwQ%3D&Expires=1627009218",
+                    "image_file_xs": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AEO175774_ImperialGuardCostume_ChestDetail.jpg.480x480_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=IvAzLg4FXDxnU9dQTCCYlaO7j%2Fg%3D&Expires=1627009218",
+                    "image_file_s": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AEO175774_ImperialGuardCostume_ChestDetail.jpg.960x960_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=ZS7RPllQSZOFuJDORkZ5k9DhNnI%3D&Expires=1627009218",
+                    "image_file_m": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AEO175774_ImperialGuardCostume_ChestDetail.jpg.1920x1920_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=s%2F7JequYTQj4dvaM%2Fe6SP9mwqFc%3D&Expires=1627009218",
+                    "image_file_l": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AEO175774_ImperialGuardCostume_ChestDetail.jpg.3840x3840_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=0tjjY0ac4m4LBr0%2BzG8dfyxT6Bc%3D&Expires=1627009218",
+                    "caption": "AEO175774_ImperialGuardCostume_ChestDetail",
+                    "credit_line": "Photograph by Egmont Contreras, ACMI.",
+                    "alt_text": "",
+                    "width": 4373,
+                    "height": 2850,
+                    "access_level": "View anywhere"
+                }
+            ],
+            "videos": [],
+            "holdings": [],
+            "part_of": null,
+            "parts": [],
+            "part_siblings": [],
+            "group": {
+                "id": 100513,
+                "acmi_id": "182500",
+                "title": "The Last Emperor costumes",
+                "title_annotation": "",
+                "slug": "the-last-emperor-costume-display-group",
+                "creator_credit": "James Acheson",
+                "credit_line": "",
+                "headline_credit": "France and Italy, 1987",
+                "thumbnail": {
+                    "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AEO175774_ImperialGuardCostume_34.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=n1W7yHoJVZyuKQ%2FKHdr5BF2qGLg%3D&Expires=1627009218",
+                    "has_video": false
+                },
+                "record_type": "group",
+                "type": "Film",
+                "is_on_display": true,
+                "last_on_display_place": "ACMI: Gallery 1",
+                "last_on_display_date": "2031-02-16",
+                "is_context_indigenous": false,
+                "material_description": "Silk screened rayon fabric",
+                "unpublished": false,
+                "first_production_date": "1987-01-01T11:00:00+11:00"
+            },
+            "group_works": [],
+            "group_siblings": [
+                {
+                    "id": 99434,
+                    "acmi_id": "175772",
+                    "title": "Princess of the Blood robes costume",
+                    "title_annotation": "",
+                    "slug": "princess-of-the-blood-robes-from-the-last-emperor",
+                    "creator_credit": "James Acheson",
+                    "credit_line": "<p>The Last Emperor</p>",
+                    "headline_credit": "France and Italy, 1987",
+                    "thumbnail": {
+                        "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AEO175772_TheLastEmperor_PrincessOfTheBloodRobes_necklace__34.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=32OPswNes%2BUX3ZdYBDocWYrEnyU%3D&Expires=1627009218",
+                        "has_video": false
+                    },
+                    "record_type": "work",
+                    "type": "Object",
+                    "is_on_display": true,
+                    "last_on_display_place": "ACMI: Gallery 1",
+                    "last_on_display_date": "2021-08-12",
+                    "is_context_indigenous": false,
+                    "material_description": "Silk screened rayon fabric",
+                    "unpublished": false,
+                    "first_production_date": "1987-01-01T11:00:00+11:00"
+                }
+            ],
+            "source": {
+                "name": "Vernon",
+                "slug": "vernon"
+            },
+            "source_identifier": "175774",
+            "production_places": [
+                {
+                    "id": 17,
+                    "name": "France",
+                    "slug": "france"
+                },
+                {
+                    "id": 19,
+                    "name": "Italy",
+                    "slug": "italy"
+                }
+            ],
+            "production_dates": [
+                {
+                    "date": "1987",
+                    "notes": "",
+                    "to_year": "1987"
+                }
+            ],
+            "labels": [
+                38931
+            ]
+        },
+        {
+            "id": 99435,
+            "acmi_id": "175773",
+            "title": "Mongolian Princess costume",
+            "title_annotation": "",
+            "slug": "mongolian-princess-costume-from-the-last-emperor",
+            "creator_credit": "James Acheson",
+            "credit_line": "<p>The Last Emperor, Italy / France, 1987<br />\nDesigned by James Acheson<br />\nSilk screened rayon fabric</p>",
+            "headline_credit": "France and Italy, 1980s",
+            "thumbnail": null,
+            "record_type": "work",
+            "type": "Object",
+            "is_on_display": false,
+            "last_on_display_place": "ACMI",
+            "last_on_display_date": "2022-02-10",
+            "is_context_indigenous": false,
+            "material_description": "Silk screened rayon fabric",
+            "unpublished": true,
+            "first_production_date": null,
+            "brief_description": "<p>From seller: A Mongolian Princess costume worn in the 1987 multi Oscar-winning drama The Last Emperor. This stunning costume was worn when the 15 year-old Pu-Yi (Wu Tao) wed&#8217;s the &#8216;old&#8217; government chosen first wife and Empress, 17-year old Wan Jung.<br />\nThe multi-layered costume consists of a thick white quilted gown with ties to the front, a red rayon brocade under robe overprinted in gold with panels in mulberry green and gold appliqué, high padded shoulders, tall collars, and cuffs trimmed in grey Astrakhan and Mongolian lambswool, and finally a waistcoat in maroon velvet and green brocade, overprinted in gold trimmed with antique fabric appliqués on the front and back panels. There are no sizes marked on this wonderful costume and it remains in excellent condition.<br />\nThis comes from the private collection of renowned producer Jeremy Thomas (who single handedly raised the $25million budget for the movie) and was archived after filming completed until only recently, when the Prop Store was proud to assist in sorting and cataloguing the incredible inventory under the guidance and in collaboration with Oscar-winning Costume Designer, Jim Acheson.</p>",
+            "constellations_primary": [],
+            "constellations_other": [],
+            "recommendations": [],
+            "title_for_label": "<p>Mongolian Princess costume</p>",
+            "creator_credit_for_label": "<p>James Acheson</p>",
+            "headline_credit_for_label": "<p>France and Italy, 1980s</p>",
+            "description": "<p>From seller: A Mongolian Princess costume worn in the 1987 multi Oscar-winning drama The Last Emperor. This stunning costume was worn when the 15 year-old Pu-Yi (Wu Tao) wed&#8217;s the &#8216;old&#8217; government chosen first wife and Empress, 17-year old Wan Jung.<br />\nThe multi-layered costume consists of a thick white quilted gown with ties to the front, a red rayon brocade under robe overprinted in gold with panels in mulberry green and gold appliqué, high padded shoulders, tall collars, and cuffs trimmed in grey Astrakhan and Mongolian lambswool, and finally a waistcoat in maroon velvet and green brocade, overprinted in gold trimmed with antique fabric appliqués on the front and back panels. There are no sizes marked on this wonderful costume and it remains in excellent condition.<br />\nThis comes from the private collection of renowned producer Jeremy Thomas (who single handedly raised the $25million budget for the movie) and was archived after filming completed until only recently, when the Prop Store was proud to assist in sorting and cataloguing the incredible inventory under the guidance and in collaboration with Oscar-winning Costume Designer, Jim Acheson.</p>",
+            "description_for_label": [
+                "<p>From seller: A Mongolian Princess costume worn in the 1987 multi Oscar-winning drama The Last Emperor. This stunning costume was worn when the 15 year-old Pu-Yi (Wu Tao) wed&#8217;s the &#8216;old&#8217; government chosen first wife and Empress, 17-year old Wan Jung.<br />\nThe multi-layered costume consists of a thick white quilted gown with ties to the front, a red rayon brocade under robe overprinted in gold with panels in mulberry green and gold appliqué, high padded shoulders, tall collars, and cuffs trimmed in grey Astrakhan and Mongolian lambswool, and finally a waistcoat in maroon velvet and green brocade, overprinted in gold trimmed with antique fabric appliqués on the front and back panels. There are no sizes marked on this wonderful costume and it remains in excellent condition.<br />\nThis comes from the private collection of renowned producer Jeremy Thomas (who single handedly raised the $25million budget for the movie) and was archived after filming completed until only recently, when the Prop Store was proud to assist in sorting and cataloguing the incredible inventory under the guidance and in collaboration with Oscar-winning Costume Designer, Jim Acheson.</p>"
+            ],
+            "credit_line_for_label": "<p>The Last Emperor, Italy / France, 1987<br />\nDesigned by James Acheson<br />\nSilk screened rayon fabric</p>",
+            "details": [
+                {
+                    "label": "Curatorial section",
+                    "display_values": [
+                        "The Story of the Moving Image&nbsp;→ Moving Pictures&nbsp;→ 05. Sound and Colour&nbsp;→ MI-05-C01"
+                    ]
+                },
+                {
+                    "label": "Materials",
+                    "display_values": [
+                        "Silk screened rayon fabric"
+                    ]
+                }
+            ],
+            "stats": {
+                "tap_count": 0
+            },
+            "links": [],
+            "creators_primary": [
+                {
+                    "id": 1134342,
+                    "name": "James Acheson",
+                    "creator_id": 70564,
+                    "role": "costume designer",
+                    "role_id": 961,
+                    "is_primary": true
+                }
+            ],
+            "creators_other": [],
+            "video_links": [],
+            "media_note": "Sorry, we don't have images or video for this item.",
+            "images": [],
+            "videos": [],
+            "holdings": [],
+            "part_of": null,
+            "parts": [],
+            "part_siblings": [],
+            "group": null,
+            "group_works": [],
+            "group_siblings": [],
+            "source": {
+                "name": "Vernon",
+                "slug": "vernon"
+            },
+            "source_identifier": "175773",
+            "production_places": [
+                {
+                    "id": 17,
+                    "name": "France",
+                    "slug": "france"
+                },
+                {
+                    "id": 19,
+                    "name": "Italy",
+                    "slug": "italy"
+                }
+            ],
+            "production_dates": [
+                {
+                    "date": "1980s",
+                    "notes": "",
+                    "to_year": "1980s"
+                }
+            ],
+            "labels": [
+                38930
+            ]
+        },
+        {
+            "id": 99434,
+            "acmi_id": "175772",
+            "title": "Princess of the Blood robes costume",
+            "title_annotation": "",
+            "slug": "princess-of-the-blood-robes-from-the-last-emperor",
+            "creator_credit": "James Acheson",
+            "credit_line": "<p>The Last Emperor</p>",
+            "headline_credit": "France and Italy, 1987",
+            "thumbnail": {
+                "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AEO175772_TheLastEmperor_PrincessOfTheBloodRobes_necklace__34.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=32OPswNes%2BUX3ZdYBDocWYrEnyU%3D&Expires=1627009218",
+                "has_video": false
+            },
+            "record_type": "work",
+            "type": "Object",
+            "is_on_display": true,
+            "last_on_display_place": "ACMI: Gallery 1",
+            "last_on_display_date": "2021-08-12",
+            "is_context_indigenous": false,
+            "material_description": "Silk screened rayon fabric",
+            "unpublished": false,
+            "first_production_date": "1987-01-01T11:00:00+11:00",
+            "brief_description": "<p>A Princess of the Blood gown and overrobe from the 1987 multi Oscar-winning historical drama The Last Emperor. These women can be seen on several occasions throughout the movie, when PuYi chooses his secondary consort, and at PuYi&#8217;s wedding to the Empress. This stunning and elaborate costume consists of a full-length gown of printed red rayon satin, overprinted with dragon robe motif, similarly printed sleeveless overrobe. Also included is a black satin headband with gold filigree buttons (some have been lost over the years) and a string of glass beads and polished stones that hang down the chest, and a cream quilted cotton under robe.<br />\nIt comes from the private collection of renowned producer Jeremy Thomas (who single handedly raised the $25million budget for the movie) and was archived after filming completed until only recently, when the Prop Store was proud to assist in sorting and cataloguing the incredible inventory under the guidance and in collaboration with Oscar-winning Costume Designer, Jim Acheson.</p>",
+            "constellations_primary": [],
+            "constellations_other": [],
+            "recommendations": [],
+            "title_for_label": "<p>Princess of the Blood robes</p>",
+            "creator_credit_for_label": "<p>James Acheson</p>",
+            "headline_credit_for_label": "<p>France and Italy, 1987</p>",
+            "description": "<p>A Princess of the Blood gown and overrobe from the 1987 multi Oscar-winning historical drama The Last Emperor. These women can be seen on several occasions throughout the movie, when PuYi chooses his secondary consort, and at PuYi&#8217;s wedding to the Empress. This stunning and elaborate costume consists of a full-length gown of printed red rayon satin, overprinted with dragon robe motif, similarly printed sleeveless overrobe. Also included is a black satin headband with gold filigree buttons (some have been lost over the years) and a string of glass beads and polished stones that hang down the chest, and a cream quilted cotton under robe.<br />\nIt comes from the private collection of renowned producer Jeremy Thomas (who single handedly raised the $25million budget for the movie) and was archived after filming completed until only recently, when the Prop Store was proud to assist in sorting and cataloguing the incredible inventory under the guidance and in collaboration with Oscar-winning Costume Designer, Jim Acheson.</p>",
+            "description_for_label": [
+                "<p>A Princess of the Blood gown and overrobe from the 1987 multi Oscar-winning historical drama The Last Emperor. These women can be seen on several occasions throughout the movie, when PuYi chooses his secondary consort, and at PuYi&#8217;s wedding to the Empress. This stunning and elaborate costume consists of a full-length gown of printed red rayon satin, overprinted with dragon robe motif, similarly printed sleeveless overrobe. Also included is a black satin headband with gold filigree buttons (some have been lost over the years) and a string of glass beads and polished stones that hang down the chest, and a cream quilted cotton under robe.<br />\nIt comes from the private collection of renowned producer Jeremy Thomas (who single handedly raised the $25million budget for the movie) and was archived after filming completed until only recently, when the Prop Store was proud to assist in sorting and cataloguing the incredible inventory under the guidance and in collaboration with Oscar-winning Costume Designer, Jim Acheson.</p>"
+            ],
+            "credit_line_for_label": "<p>The Last Emperor</p>",
+            "details": [
+                {
+                    "label": "Curatorial section",
+                    "display_values": [
+                        "The Story of the Moving Image&nbsp;→ Moving Pictures&nbsp;→ 05. Sound and Colour&nbsp;→ MI-05-C01"
+                    ]
+                },
+                {
+                    "label": "Materials",
+                    "display_values": [
+                        "Silk screened rayon fabric"
+                    ]
+                }
+            ],
+            "stats": {
+                "tap_count": 0
+            },
+            "links": [],
+            "creators_primary": [
+                {
+                    "id": 1134341,
+                    "name": "James Acheson",
+                    "creator_id": 70564,
+                    "role": "costume designer",
+                    "role_id": 961,
+                    "is_primary": true
+                }
+            ],
+            "creators_other": [],
+            "video_links": [],
+            "media_note": null,
+            "images": [
+                {
+                    "id": 20896,
+                    "image_file": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AEO175772_TheLastEmperor_PrincessOfTheBloodRobes_necklace__34.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=0pD52XgpY2e3De%2FKKJE%2BkE0j9Lw%3D&Expires=1627009218",
+                    "image_file_thumbnail": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AEO175772_TheLastEmperor_PrincessOfTheBloodRobes_necklace__34.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=32OPswNes%2BUX3ZdYBDocWYrEnyU%3D&Expires=1627009218",
+                    "image_file_xs": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AEO175772_TheLastEmperor_PrincessOfTheBloodRobes_necklace__34.jpg.480x480_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=gYpQPt%2BtxaXZkGxR96cg55g2kt8%3D&Expires=1627009218",
+                    "image_file_s": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AEO175772_TheLastEmperor_PrincessOfTheBloodRobes_necklace__34.jpg.960x960_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=kJYn3sGwStrnHVxnlnvU16yYm0U%3D&Expires=1627009218",
+                    "image_file_m": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AEO175772_TheLastEmperor_PrincessOfTheBloodRobes_necklace__34.jpg.1920x1920_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=qT0y4P5%2Fju627QncI%2F24THkCCyA%3D&Expires=1627009218",
+                    "image_file_l": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AEO175772_TheLastEmperor_PrincessOfTheBloodRobes_necklace__34.jpg.3840x3840_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=51CoWBhy7zVQOv2gVgKyweGSA80%3D&Expires=1627009218",
+                    "caption": "AEO175772_TheLastEmperor_PrincessOfTheBloodRobes_necklace__34",
+                    "credit_line": "Photograph by Egmont Contreras",
+                    "alt_text": "",
+                    "width": 3200,
+                    "height": 4800,
+                    "access_level": "View anywhere"
+                },
+                {
+                    "id": 20897,
+                    "image_file": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AEO175772_TheLastEmperor_PrincessOfTheBloodRobes_necklace_Front.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=YXiBrJPC6OAr%2FuVbRBYz18HvcT8%3D&Expires=1627009218",
+                    "image_file_thumbnail": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AEO175772_TheLastEmperor_PrincessOfTheBloodRobes_necklace_Front.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=y8D%2BilQrETfyR776oFTyUOuOcPY%3D&Expires=1627009218",
+                    "image_file_xs": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AEO175772_TheLastEmperor_PrincessOfTheBloodRobes_necklace_Front.jpg.480x480_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=IJisJwbbzFSQ2WcAsXUbx5lcirU%3D&Expires=1627009218",
+                    "image_file_s": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AEO175772_TheLastEmperor_PrincessOfTheBloodRobes_necklace_Front.jpg.960x960_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=%2BPYvAGkLixcz1GCpcngQaoQW6To%3D&Expires=1627009218",
+                    "image_file_m": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AEO175772_TheLastEmperor_PrincessOfTheBloodRobes_necklace_Front.jpg.1920x1920_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=Jm5hgWhJc0TSoUgNTYc2vFX1t%2FU%3D&Expires=1627009218",
+                    "image_file_l": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AEO175772_TheLastEmperor_PrincessOfTheBloodRobes_necklace_Front.jpg.3840x3840_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=jXTb2YjV0%2BWMO9CNj1gZsJZrhWo%3D&Expires=1627009218",
+                    "caption": "AEO175772_TheLastEmperor_PrincessOfTheBloodRobes_necklace_Front",
+                    "credit_line": "Photograph by Egmont Contreras",
+                    "alt_text": "",
+                    "width": 3132,
+                    "height": 4658,
+                    "access_level": "View anywhere"
+                },
+                {
+                    "id": 16509,
+                    "image_file": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AEO175772_TheLastEmperor_PrincessOfTheBloodRobes_Back.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=omk5F%2B3h9x6%2F0%2FuQIEWNIyaacPg%3D&Expires=1627009218",
+                    "image_file_thumbnail": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AEO175772_TheLastEmperor_PrincessOfTheBloodRobes_Back.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=zeMPF4E1uS4RxuEB9La96Rep20A%3D&Expires=1627009218",
+                    "image_file_xs": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AEO175772_TheLastEmperor_PrincessOfTheBloodRobes_Back.jpg.480x480_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=z75zGRxlJFv03HqSoOCfnjVPY7Y%3D&Expires=1627009218",
+                    "image_file_s": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AEO175772_TheLastEmperor_PrincessOfTheBloodRobes_Back.jpg.960x960_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=NEdyS2823uQ4s6%2Fy4ahReXkA5cM%3D&Expires=1627009218",
+                    "image_file_m": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AEO175772_TheLastEmperor_PrincessOfTheBloodRobes_Back.jpg.1920x1920_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=9FgWZVrda%2BsmxC2S72ibMHC1%2FPU%3D&Expires=1627009218",
+                    "image_file_l": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AEO175772_TheLastEmperor_PrincessOfTheBloodRobes_Back.jpg.3840x3840_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=FyoRXYr6Ga8bsP%2BfT2FDY5XTfZ8%3D&Expires=1627009218",
+                    "caption": "AEO175772_TheLastEmperor_PrincessOfTheBloodRobes_Back",
+                    "credit_line": "Photograph by Egmont Contreras, ACMI.",
+                    "alt_text": "",
+                    "width": 3010,
+                    "height": 4516,
+                    "access_level": "View anywhere"
+                },
+                {
+                    "id": 16510,
+                    "image_file": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AEO175772_TheLastEmperor_PrincessOfTheBloodRobes_BackDetail2.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=BYGPezbfLjsPHPl5Sosq3ZTN4nw%3D&Expires=1627009218",
+                    "image_file_thumbnail": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AEO175772_TheLastEmperor_PrincessOfTheBloodRobes_BackDetail2.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=Iu30YcTsSv0BN6rprnjwMMmoy%2B0%3D&Expires=1627009218",
+                    "image_file_xs": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AEO175772_TheLastEmperor_PrincessOfTheBloodRobes_BackDetail2.jpg.480x480_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=I7B%2F7dESWqQHoF9UleUy7swjZ%2BU%3D&Expires=1627009218",
+                    "image_file_s": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AEO175772_TheLastEmperor_PrincessOfTheBloodRobes_BackDetail2.jpg.960x960_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=Yom5PaCNzi8SQmrr%2FsUE0kTjY00%3D&Expires=1627009218",
+                    "image_file_m": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AEO175772_TheLastEmperor_PrincessOfTheBloodRobes_BackDetail2.jpg.1920x1920_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=BenNsIscblENZRxwsJSFKEvA3t4%3D&Expires=1627009218",
+                    "image_file_l": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AEO175772_TheLastEmperor_PrincessOfTheBloodRobes_BackDetail2.jpg.3840x3840_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=7hCvY2tkpL7GtGueXTS4NwcFpWY%3D&Expires=1627009218",
+                    "caption": "AEO175772_TheLastEmperor_PrincessOfTheBloodRobes_BackDetail2",
+                    "credit_line": "Photograph by Egmont Contreras, ACMI.",
+                    "alt_text": "",
+                    "width": 4706,
+                    "height": 3137,
+                    "access_level": "View anywhere"
+                },
+                {
+                    "id": 16511,
+                    "image_file": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AEO175772_TheLastEmperor_PrincessOfTheBloodRobes_DetailChest.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=ADGTKNGnD%2FcYiAtuCj%2FTixBYEMs%3D&Expires=1627009218",
+                    "image_file_thumbnail": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AEO175772_TheLastEmperor_PrincessOfTheBloodRobes_DetailChest.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=uUD5paNMkXJ9vWMGiAeIv9LhV5c%3D&Expires=1627009218",
+                    "image_file_xs": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AEO175772_TheLastEmperor_PrincessOfTheBloodRobes_DetailChest.jpg.480x480_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=F0p%2BxmkjhtIKuaZr8aFlfGvGY0k%3D&Expires=1627009218",
+                    "image_file_s": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AEO175772_TheLastEmperor_PrincessOfTheBloodRobes_DetailChest.jpg.960x960_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=KC9grs29NAsQnBF0l8zG8ZIVSM8%3D&Expires=1627009218",
+                    "image_file_m": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AEO175772_TheLastEmperor_PrincessOfTheBloodRobes_DetailChest.jpg.1920x1920_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=n8vYcpCIvU9Ws4PSDti5XoIbE6Q%3D&Expires=1627009218",
+                    "image_file_l": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AEO175772_TheLastEmperor_PrincessOfTheBloodRobes_DetailChest.jpg.3840x3840_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=WzfD2dpeBjVNB8GDBs5euPk6RqA%3D&Expires=1627009218",
+                    "caption": "AEO175772_TheLastEmperor_PrincessOfTheBloodRobes_ChestDetail",
+                    "credit_line": "Photograph by Egmont Contreras, ACMI.",
+                    "alt_text": "",
+                    "width": 3126,
+                    "height": 4689,
+                    "access_level": "View anywhere"
+                },
+                {
+                    "id": 16512,
+                    "image_file": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AEO175772_TheLastEmperor_PrincessOfTheBloodRobes_SideDetail.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=G209uzkfF%2Buogh8zcA4fuoTLZ8o%3D&Expires=1627009218",
+                    "image_file_thumbnail": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AEO175772_TheLastEmperor_PrincessOfTheBloodRobes_SideDetail.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=Zyi84AS2YxN1xoSSg76GZhp0mug%3D&Expires=1627009218",
+                    "image_file_xs": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AEO175772_TheLastEmperor_PrincessOfTheBloodRobes_SideDetail.jpg.480x480_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=V73rZfxfC7%2BTmno9MOY38B75Kqk%3D&Expires=1627009218",
+                    "image_file_s": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AEO175772_TheLastEmperor_PrincessOfTheBloodRobes_SideDetail.jpg.960x960_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=WPY5a6VGIDxTkZeL8yqlh9LqnIg%3D&Expires=1627009218",
+                    "image_file_m": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AEO175772_TheLastEmperor_PrincessOfTheBloodRobes_SideDetail.jpg.1920x1920_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=FVzrOlvygTaJuL34KtMvwIjFwb0%3D&Expires=1627009218",
+                    "image_file_l": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AEO175772_TheLastEmperor_PrincessOfTheBloodRobes_SideDetail.jpg.3840x3840_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=zMtSFH3BP%2FFn2RvV0BsvIiGxATc%3D&Expires=1627009218",
+                    "caption": "AEO175772_TheLastEmperor_PrincessOfTheBloodRobes_SideDetail",
+                    "credit_line": "Photograph by Egmont Contreras, ACMI.",
+                    "alt_text": "",
+                    "width": 4800,
+                    "height": 3200,
+                    "access_level": "View anywhere"
+                },
+                {
+                    "id": 16513,
+                    "image_file": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AEO175772_TheLastEmperor_PrincessOfTheBloodRobes_SleevesDetail.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=zWoM9N8Sr0Oi0o09KA6YVp0O14o%3D&Expires=1627009218",
+                    "image_file_thumbnail": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AEO175772_TheLastEmperor_PrincessOfTheBloodRobes_SleevesDetail.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=pNyeigd4hFUG9A4JMp9M7ObM76U%3D&Expires=1627009218",
+                    "image_file_xs": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AEO175772_TheLastEmperor_PrincessOfTheBloodRobes_SleevesDetail.jpg.480x480_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=4%2BOjoI1toz7zRzyohYwHAodjiJU%3D&Expires=1627009218",
+                    "image_file_s": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AEO175772_TheLastEmperor_PrincessOfTheBloodRobes_SleevesDetail.jpg.960x960_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=9ouraatitMlUoE96%2Bnp8snJU%2FUk%3D&Expires=1627009218",
+                    "image_file_m": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AEO175772_TheLastEmperor_PrincessOfTheBloodRobes_SleevesDetail.jpg.1920x1920_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=%2Bwm49%2FmY5B5oeqqcqvNfDfueFWo%3D&Expires=1627009218",
+                    "image_file_l": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AEO175772_TheLastEmperor_PrincessOfTheBloodRobes_SleevesDetail.jpg.3840x3840_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=4rAnwhUvyoqD5L7emszqhRwx22A%3D&Expires=1627009218",
+                    "caption": "AEO175772_TheLastEmperor_PrincessOfTheBloodRobes_SleevesDetail",
+                    "credit_line": "Photograph by Egmont Contreras, ACMI.",
+                    "alt_text": "",
+                    "width": 4800,
+                    "height": 3200,
+                    "access_level": "View anywhere"
+                },
+                {
+                    "id": 28105,
+                    "image_file": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AEO175772_TheLastEmperor_PrincessOfTheBloodRobes_34.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=WLx%2Bdy1mpA7Dm2%2FIElv6CeZ945E%3D&Expires=1627009218",
+                    "image_file_thumbnail": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AEO175772_TheLastEmperor_PrincessOfTheBloodRobes_34.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=uqw%2FQkuhQQ33Iynx2idRCySU93g%3D&Expires=1627009218",
+                    "image_file_xs": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AEO175772_TheLastEmperor_PrincessOfTheBloodRobes_34.jpg.480x480_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=ni91ILKiSlH2OHqtpTKM%2BiWOslA%3D&Expires=1627009218",
+                    "image_file_s": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AEO175772_TheLastEmperor_PrincessOfTheBloodRobes_34.jpg.960x960_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=02gBJdeQchZ%2BSpJTyUQL55al7B0%3D&Expires=1627009218",
+                    "image_file_m": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AEO175772_TheLastEmperor_PrincessOfTheBloodRobes_34.jpg.1920x1920_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=uPMAc1%2BM6LdVbdip5yszJJthymY%3D&Expires=1627009218",
+                    "image_file_l": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AEO175772_TheLastEmperor_PrincessOfTheBloodRobes_34.jpg.3840x3840_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=6Uzt8o1w8lSGVTx38qWo9ddEDPA%3D&Expires=1627009218",
+                    "caption": "AEO175772_TheLastEmperor_PrincessOfTheBloodRobes_34",
+                    "credit_line": "Photograph by Egmont Contreras, ACMI.",
+                    "alt_text": "",
+                    "width": 3200,
+                    "height": 4800,
+                    "access_level": "View anywhere"
+                }
+            ],
+            "videos": [],
+            "holdings": [],
+            "part_of": null,
+            "parts": [],
+            "part_siblings": [],
+            "group": {
+                "id": 100513,
+                "acmi_id": "182500",
+                "title": "The Last Emperor costumes",
+                "title_annotation": "",
+                "slug": "the-last-emperor-costume-display-group",
+                "creator_credit": "James Acheson",
+                "credit_line": "",
+                "headline_credit": "France and Italy, 1987",
+                "thumbnail": {
+                    "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AEO175774_ImperialGuardCostume_34.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=n1W7yHoJVZyuKQ%2FKHdr5BF2qGLg%3D&Expires=1627009218",
+                    "has_video": false
+                },
+                "record_type": "group",
+                "type": "Film",
+                "is_on_display": true,
+                "last_on_display_place": "ACMI: Gallery 1",
+                "last_on_display_date": "2031-02-16",
+                "is_context_indigenous": false,
+                "material_description": "Silk screened rayon fabric",
+                "unpublished": false,
+                "first_production_date": "1987-01-01T11:00:00+11:00"
+            },
+            "group_works": [],
+            "group_siblings": [
+                {
+                    "id": 99436,
+                    "acmi_id": "175774",
+                    "title": "Imperial Guard costume",
+                    "title_annotation": "",
+                    "slug": "imperial-guard-costume-from-the-last-emperor",
+                    "creator_credit": "James Acheson",
+                    "credit_line": "<p>The Last Emperor</p>",
+                    "headline_credit": "France and Italy, 1987",
+                    "thumbnail": {
+                        "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AEO175774_ImperialGuardCostume_34.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=n1W7yHoJVZyuKQ%2FKHdr5BF2qGLg%3D&Expires=1627009218",
+                        "has_video": false
+                    },
+                    "record_type": "work",
+                    "type": "Object",
+                    "is_on_display": true,
+                    "last_on_display_place": "ACMI: Gallery 1",
+                    "last_on_display_date": "2021-08-12",
+                    "is_context_indigenous": false,
+                    "material_description": "Silk screened rayon fabric",
+                    "unpublished": false,
+                    "first_production_date": "1987-01-01T11:00:00+11:00"
+                }
+            ],
+            "source": {
+                "name": "Vernon",
+                "slug": "vernon"
+            },
+            "source_identifier": "175772",
+            "production_places": [
+                {
+                    "id": 17,
+                    "name": "France",
+                    "slug": "france"
+                },
+                {
+                    "id": 19,
+                    "name": "Italy",
+                    "slug": "italy"
+                }
+            ],
+            "production_dates": [
+                {
+                    "date": "1987",
+                    "notes": "",
+                    "to_year": "1987"
+                }
+            ],
+            "labels": [
+                38929
+            ]
+        },
+        {
+            "id": 99433,
+            "acmi_id": "175771",
+            "title": "US Navy Ciné-Kodak Special",
+            "title_annotation": "",
+            "slug": "eastman-kodak-us-navy-cine-kodak-special-16mm-camera",
+            "creator_credit": "Eastman Kodak",
+            "credit_line": "",
+            "headline_credit": "United States, c. 1940s",
+            "thumbnail": {
+                "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AEO175771_EastmanKodakUSNavy16mmCamera_34.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=22YXMlmUTyOhA67%2F5tVBU8PSCoA%3D&Expires=1627009218",
+                "has_video": false
+            },
+            "record_type": "work",
+            "type": "Object",
+            "is_on_display": true,
+            "last_on_display_place": "ACMI: Gallery 1",
+            "last_on_display_date": "2031-02-16",
+            "is_context_indigenous": false,
+            "material_description": "vintage movie camera",
+            "unpublished": false,
+            "first_production_date": null,
+            "brief_description": "<p>Eastman Kodak introduced the Ciné-Kodak Special in 1933. The silent 16mm camera was durable and lightweight enough to be used by combat photographers working in the field and Kodak manufactured a military version in all-black without the usual chrome edges.</p>",
+            "constellations_primary": [
+                {
+                    "id": 173,
+                    "name": "Australia and WW2",
+                    "description": "A constellation exploring representations of Australians during World War 2."
+                }
+            ],
+            "constellations_other": [],
+            "recommendations": [],
+            "title_for_label": "<p>US Navy Ciné-Kodak Special</p>",
+            "creator_credit_for_label": "<p>Eastman Kodak</p>",
+            "headline_credit_for_label": "<p>United States, c. 1940s</p>",
+            "description": "<p>Footage captured during war has the ability to give audiences a sense of what is happening in combat, documenting the frontlines with an unflinching lens and bearing witness to atrocities. Yet it can also be used as propaganda to enlist forces, making it a powerful tool. Eastman Kodak introduced the Ciné-Kodak Special in 1933 following on from its earlier model the Ciné-Kodak in 1923. The silent 16mm camera was durable and lightweight enough to be used by combat photographers working in the field and Kodak manufactured a military version in all-black without the usual chrome edges.</p>",
+            "description_for_label": [
+                "<p>Footage captured during war has the ability to give audiences a sense of what is happening in combat, documenting the frontlines with an unflinching lens and bearing witness to atrocities. Yet it can also be used as propaganda to enlist forces, making it a powerful tool. Eastman Kodak introduced the Ciné-Kodak Special in 1933 following on from its earlier model the Ciné-Kodak in 1923. The silent 16mm camera was durable and lightweight enough to be used by combat photographers working in the field and Kodak manufactured a military version in all-black without the usual chrome edges.</p>"
+            ],
+            "credit_line_for_label": "",
+            "details": [
+                {
+                    "label": "Subject category",
+                    "display_values": [
+                        "object&nbsp;→ 3D artefact"
+                    ]
+                },
+                {
+                    "label": "Curatorial section",
+                    "display_values": [
+                        "The Story of the Moving Image&nbsp;→ Moving Minds&nbsp;→ 05. Camera Tech&nbsp;→ MM-05-C01"
+                    ]
+                },
+                {
+                    "label": "Measurements",
+                    "display_values": [
+                        "4.6kg"
+                    ]
+                },
+                {
+                    "label": "Materials",
+                    "display_values": [
+                        "vintage movie camera"
+                    ]
+                }
+            ],
+            "stats": {
+                "tap_count": 1566
+            },
+            "links": [],
+            "creators_primary": [
+                {
+                    "id": 1134340,
+                    "name": "Eastman Kodak",
+                    "creator_id": 10305,
+                    "role": "manufacturer",
+                    "role_id": 627,
+                    "is_primary": true
+                }
+            ],
+            "creators_other": [],
+            "video_links": [],
+            "media_note": null,
+            "images": [
+                {
+                    "id": 12443,
+                    "image_file": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AEO175771_EastmanKodakUSNavy16mmCamera_34.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=v6nVQJk96lECfWdjsyfGsWo2rVQ%3D&Expires=1627009218",
+                    "image_file_thumbnail": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AEO175771_EastmanKodakUSNavy16mmCamera_34.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=22YXMlmUTyOhA67%2F5tVBU8PSCoA%3D&Expires=1627009218",
+                    "image_file_xs": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AEO175771_EastmanKodakUSNavy16mmCamera_34.jpg.480x480_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=9pqy8%2Fe9BvV7bMJY26n5KSHYecE%3D&Expires=1627009218",
+                    "image_file_s": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AEO175771_EastmanKodakUSNavy16mmCamera_34.jpg.960x960_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=tGjulkwzIcr8vmLdAjuA%2FeJpOYg%3D&Expires=1627009218",
+                    "image_file_m": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AEO175771_EastmanKodakUSNavy16mmCamera_34.jpg.1920x1920_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=DAcKHCecoNDoCvkFuUc5qG7Sb0s%3D&Expires=1627009218",
+                    "image_file_l": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AEO175771_EastmanKodakUSNavy16mmCamera_34.jpg.3840x3840_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=PHXBXuILER3nn0Km%2FIYerE7D11Q%3D&Expires=1627009218",
+                    "caption": "AEO175771_EastmanKodakUSNavy16mmCamera_34",
+                    "credit_line": "Photograph by Egmont Contreras, ACMI",
+                    "alt_text": "",
+                    "width": 4928,
+                    "height": 3264,
+                    "access_level": "View anywhere"
+                },
+                {
+                    "id": 12444,
+                    "image_file": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AEO175771_EastmanKodakUSNavy16mmCamera_34open.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=XOnEOnB2oGF9A1777nwLTzPeCPo%3D&Expires=1627009218",
+                    "image_file_thumbnail": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AEO175771_EastmanKodakUSNavy16mmCamera_34open.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=mT3RkXLspG6WjZu391Y3C5OE2Ew%3D&Expires=1627009218",
+                    "image_file_xs": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AEO175771_EastmanKodakUSNavy16mmCamera_34open.jpg.480x480_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=MLZbODTj66Gz0HTLRjh9F3M33Ws%3D&Expires=1627009218",
+                    "image_file_s": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AEO175771_EastmanKodakUSNavy16mmCamera_34open.jpg.960x960_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=5qP3bYYQUagpm5nclOOW9X5p2JE%3D&Expires=1627009218",
+                    "image_file_m": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AEO175771_EastmanKodakUSNavy16mmCamera_34open.jpg.1920x1920_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=hRgeEsFtuJReLNPtR9jjHPXySv8%3D&Expires=1627009218",
+                    "image_file_l": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AEO175771_EastmanKodakUSNavy16mmCamera_34open.jpg.3840x3840_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=WMJLFmODUE5XU%2Fg5D%2B52eONvd%2BE%3D&Expires=1627009218",
+                    "caption": "AEO175771_EastmanKodakUSNavy16mmCamera_34open",
+                    "credit_line": "Photograph by Egmont Contreras, ACMI",
+                    "alt_text": "",
+                    "width": 4469,
+                    "height": 2912,
+                    "access_level": "View anywhere"
+                },
+                {
+                    "id": 13966,
+                    "image_file": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AEO175771_EastmanKodakUSNavy16mmCamera_Right.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=zvEm0bWBN8lQr%2BMW0o%2Bu1rFo8hQ%3D&Expires=1627009218",
+                    "image_file_thumbnail": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AEO175771_EastmanKodakUSNavy16mmCamera_Right.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=8wabIhUvbjZ12pwzjSYHxJHNhOo%3D&Expires=1627009218",
+                    "image_file_xs": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AEO175771_EastmanKodakUSNavy16mmCamera_Right.jpg.480x480_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=%2F2uPazEDHtF1vIN5kW0U164Sp0w%3D&Expires=1627009218",
+                    "image_file_s": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AEO175771_EastmanKodakUSNavy16mmCamera_Right.jpg.960x960_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=MO0BjRTE2yFrUxVSU6esQ00LN3k%3D&Expires=1627009218",
+                    "image_file_m": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AEO175771_EastmanKodakUSNavy16mmCamera_Right.jpg.1920x1920_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=m3HE3wHdRHisExzZzz%2BGtIaMkRo%3D&Expires=1627009218",
+                    "image_file_l": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AEO175771_EastmanKodakUSNavy16mmCamera_Right.jpg.3840x3840_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=REFv%2FEs07iyI%2FZW%2FGDD7e6JYs%2Fo%3D&Expires=1627009218",
+                    "caption": "AEO175771_EastmanKodakUSNavy16mmCamera_Right",
+                    "credit_line": "Photograph by Egmont Contreras, ACMI",
+                    "alt_text": "",
+                    "width": 4784,
+                    "height": 3169,
+                    "access_level": "View anywhere"
+                },
+                {
+                    "id": 14648,
+                    "image_file": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AEO175771_EastmanKodakUSNavy16mmCamera_Left.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=KVHxTcI%2BtcfZtLnP6%2B7fWZnOdyI%3D&Expires=1627009218",
+                    "image_file_thumbnail": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AEO175771_EastmanKodakUSNavy16mmCamera_Left.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=kKtmSk4pa8Y1uY5yej1HBTfjYp4%3D&Expires=1627009218",
+                    "image_file_xs": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AEO175771_EastmanKodakUSNavy16mmCamera_Left.jpg.480x480_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=fSg4xmrYDVjHUrhPDrlZlXwLFMo%3D&Expires=1627009218",
+                    "image_file_s": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AEO175771_EastmanKodakUSNavy16mmCamera_Left.jpg.960x960_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=lbYiXvA8SdLJyN5XZzAp1w1%2Fyio%3D&Expires=1627009218",
+                    "image_file_m": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AEO175771_EastmanKodakUSNavy16mmCamera_Left.jpg.1920x1920_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=cFBlT70B7X3yd4fA5iC8Qem83Ow%3D&Expires=1627009218",
+                    "image_file_l": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AEO175771_EastmanKodakUSNavy16mmCamera_Left.jpg.3840x3840_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=RAgXsTeU%2FiIhUl%2Feo66ctjTa75k%3D&Expires=1627009218",
+                    "caption": "AEO175771_EastmanKodakUSNavy16mmCamera_Left",
+                    "credit_line": "Photograph by Egmont Contreras, ACMI",
+                    "alt_text": "",
+                    "width": 4928,
+                    "height": 3264,
+                    "access_level": "View anywhere"
+                },
+                {
+                    "id": 14652,
+                    "image_file": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AEO175771_EastmanKodakUSNavy16mmCamera_Front.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=c6dj1u%2F174TyZTEX%2BitHgAYnN7c%3D&Expires=1627009218",
+                    "image_file_thumbnail": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AEO175771_EastmanKodakUSNavy16mmCamera_Front.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=sBhKB6ETPQwP9%2Brky1Ilrzsn2UI%3D&Expires=1627009218",
+                    "image_file_xs": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AEO175771_EastmanKodakUSNavy16mmCamera_Front.jpg.480x480_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=2SxZq%2BetAT10EvrnMtmO%2FXlYgeQ%3D&Expires=1627009218",
+                    "image_file_s": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AEO175771_EastmanKodakUSNavy16mmCamera_Front.jpg.960x960_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=E2Yjo8%2BmCatUS289K5wthIbGLIU%3D&Expires=1627009218",
+                    "image_file_m": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AEO175771_EastmanKodakUSNavy16mmCamera_Front.jpg.1920x1920_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=QaYkFln1INL9bb44UlAvUgivxmQ%3D&Expires=1627009218",
+                    "image_file_l": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AEO175771_EastmanKodakUSNavy16mmCamera_Front.jpg.3840x3840_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=rKcVVgkErjFErdmDaEevi9CuK9w%3D&Expires=1627009218",
+                    "caption": "AEO175771_EastmanKodakUSNavy16mmCamera_Front",
+                    "credit_line": "Photograph by Egmont Contreras, ACMI",
+                    "alt_text": "",
+                    "width": 2545,
+                    "height": 3219,
+                    "access_level": "View anywhere"
+                },
+                {
+                    "id": 14655,
+                    "image_file": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AEO175771_EastmanKodakUSNavy16mmCamera_Back.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=l36GP5Z9upT3GIVZ%2FzNjOa%2FX5Xk%3D&Expires=1627009218",
+                    "image_file_thumbnail": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AEO175771_EastmanKodakUSNavy16mmCamera_Back.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=6Xo%2BfzVYQ1K8SWCTK0rQpiCUCZg%3D&Expires=1627009218",
+                    "image_file_xs": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AEO175771_EastmanKodakUSNavy16mmCamera_Back.jpg.480x480_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=JVVpF3tM%2B6NWd%2BCXySJBFwrKM7k%3D&Expires=1627009218",
+                    "image_file_s": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AEO175771_EastmanKodakUSNavy16mmCamera_Back.jpg.960x960_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=dTdCQi9l5d4uj2s%2BQ7M5yZQmonU%3D&Expires=1627009218",
+                    "image_file_m": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AEO175771_EastmanKodakUSNavy16mmCamera_Back.jpg.1920x1920_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=R6zegkqRiq7gZc32kSlHhaW4NrE%3D&Expires=1627009218",
+                    "image_file_l": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AEO175771_EastmanKodakUSNavy16mmCamera_Back.jpg.3840x3840_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=cMatnF67zVBZHXS2VlYZuXfujLQ%3D&Expires=1627009218",
+                    "caption": "AEO175771_EastmanKodakUSNavy16mmCamera_Back",
+                    "credit_line": "Photograph by Egmont Contreras, ACMI",
+                    "alt_text": "",
+                    "width": 2357,
+                    "height": 3218,
+                    "access_level": "View anywhere"
+                }
+            ],
+            "videos": [],
+            "holdings": [],
+            "part_of": null,
+            "parts": [],
+            "part_siblings": [],
+            "group": null,
+            "group_works": [],
+            "group_siblings": [],
+            "source": {
+                "name": "Vernon",
+                "slug": "vernon"
+            },
+            "source_identifier": "175771",
+            "production_places": [
+                {
+                    "id": 2,
+                    "name": "United States",
+                    "slug": "united-states"
+                }
+            ],
+            "production_dates": [
+                {
+                    "date": "c. 1940s",
+                    "notes": "estimated",
+                    "to_year": "c. 1940s"
+                }
+            ],
+            "labels": [
+                38928
+            ]
+        },
+        {
+            "id": 59816,
+            "acmi_id": "175769",
+            "title": "Princess of the Blood robes costume",
+            "title_annotation": "",
+            "slug": "princess-of-the-blood-costume-from-the-last-emperor",
+            "creator_credit": "James Acheson",
+            "credit_line": "<p>The Last Emperor, Italy / France, 1987<br />\nDesigned by James Acheson<br />\nSilk screened rayon fabric</p>",
+            "headline_credit": "France and Italy, 1987",
+            "thumbnail": null,
+            "record_type": "work",
+            "type": "Object",
+            "is_on_display": false,
+            "last_on_display_place": "ACMI",
+            "last_on_display_date": "2022-02-10",
+            "is_context_indigenous": false,
+            "material_description": "Silk screened rayon fabric",
+            "unpublished": true,
+            "first_production_date": "1987-01-01T11:00:00+11:00",
+            "brief_description": "<p>This costume from The Last Emperor enlivens the Imperial court with rich reds that bring grandeur to the screen, a sense that’s reinforced by 9,500 extras who appear to be draped in delicately embroidered silk thanks to screen-printed rayon.</p>",
+            "constellations_primary": [],
+            "constellations_other": [],
+            "recommendations": [],
+            "title_for_label": "<p>Princess of the Blood robes</p>",
+            "creator_credit_for_label": "<p>James Acheson</p>",
+            "headline_credit_for_label": "<p>France and Italy, 1987</p>",
+            "description": "<p>From seller: A Princess of the Blood gown and overrobe from the 1987 multi Oscar-winning historical drama The Last Emperor. These women can be seen on several occasions throughout the movie, when PuYi chooses his secondary consort, and at PuYi&#8217;s wedding to the Empress. This stunning and elaborate costume consists of a full-length gown of printed red rayon satin, overprinted with dragon robe motif, similarly printed sleeveless overrobe. Also included is a black satin headband with gold filigree buttons (some have been lost over the years) and a string of glass beads and polished stones that hang down the chest, and a cream quilted cotton under robe.<br />\nIt comes from the private collection of renowned producer Jeremy Thomas (who single handedly raised the $25million budget for the movie) and was archived after filming completed until only recently, when the Prop Store was proud to assist in sorting and cataloguing the incredible inventory under the guidance and in collaboration with Oscar-winning Costume Designer, Jim Acheson.</p>",
+            "description_for_label": [
+                "<p>Colour had arrived in cinema when The Last Emperor (1987) was released but its use in costume and cinematography was Oscar-winning. The film follows Pu Yi’s transition from the last emperor of China to ordinary citizen and colour is fundamental to his journey. Deep crimson and orange hues capture both the majesty and innocence of his childhood in the Forbidden City, while grey saturates moments in jail later in life. This costume by James Acheson enlivens the Imperial court with rich reds that bring grandeur to the screen, further reinforced by 9,500 extras that appear to be draped in delicately embroidered silk thanks to screen-printed rayon.</p>"
+            ],
+            "credit_line_for_label": "<p>The Last Emperor, Italy / France, 1987<br />\nDesigned by James Acheson<br />\nSilk screened rayon fabric</p>",
+            "details": [
+                {
+                    "label": "Curatorial section",
+                    "display_values": [
+                        "The Story of the Moving Image&nbsp;→ Moving Pictures&nbsp;→ 05. Sound and Colour&nbsp;→ MI-05-C01"
+                    ]
+                },
+                {
+                    "label": "Materials",
+                    "display_values": [
+                        "Silk screened rayon fabric"
+                    ]
+                }
+            ],
+            "stats": {
+                "tap_count": 0
+            },
+            "links": [],
+            "creators_primary": [
+                {
+                    "id": 1134339,
+                    "name": "James Acheson",
+                    "creator_id": 70564,
+                    "role": "costume designer",
+                    "role_id": 961,
+                    "is_primary": true
+                }
+            ],
+            "creators_other": [],
+            "video_links": [],
+            "media_note": "Sorry, we don't have images or video for this item.",
+            "images": [],
+            "videos": [],
+            "holdings": [],
+            "part_of": null,
+            "parts": [],
+            "part_siblings": [],
+            "group": null,
+            "group_works": [],
+            "group_siblings": [],
+            "source": {
+                "name": "Vernon",
+                "slug": "vernon"
+            },
+            "source_identifier": "175769",
+            "production_places": [
+                {
+                    "id": 17,
+                    "name": "France",
+                    "slug": "france"
+                },
+                {
+                    "id": 19,
+                    "name": "Italy",
+                    "slug": "italy"
+                }
+            ],
+            "production_dates": [
+                {
+                    "date": "1987",
+                    "notes": "",
+                    "to_year": "1987"
+                }
+            ],
+            "labels": [
+                835
+            ]
+        },
+        {
+            "id": 59805,
+            "acmi_id": "175590",
+            "title": "The Beehive",
+            "title_annotation": "",
+            "slug": "the-beehive",
+            "creator_credit": "Philippa Bateman and Zanny Begg",
+            "credit_line": "<p>Zanny Begg</p>\n<p>Artbank + ACMI Commission, ACMI Collection</p>\n<p>Digital video, stereo sound, variable duration</p>",
+            "headline_credit": "Australia, 2018",
+            "thumbnail": {
+                "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/Beehive_KokoCarey_PBateman-2.tif.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=oSCWyG745Ie7BvKPetTFnrJLXsc%3D&Expires=1627009218",
+                "has_video": false
+            },
+            "record_type": "work",
+            "type": "Digital art",
+            "is_on_display": false,
+            "last_on_display_place": "ACMI: Gallery 3",
+            "last_on_display_date": "2018-11-06",
+            "is_context_indigenous": false,
+            "material_description": "Single channel digital video and software, colour and audio",
+            "unpublished": false,
+            "first_production_date": "2018-01-01T11:00:00+11:00",
+            "brief_description": "<p>The Beehive explores the unsolved murder of Sydney anti-development campaigner Juanita Nielsen. The inaugural Artbank + ACMI Commission, the video installation examines themes of gentrification, corruption, sex-work, feminism and non-conformist lifestyles.</p>",
+            "constellations_primary": [],
+            "constellations_other": [
+                {
+                    "id": 117,
+                    "name": "Neo-Noir",
+                    "description": "<i>Blade Runner</i>'s retro-futurist setting lends it a timeless quality, while also connecting it to the past and the future."
+                },
+                {
+                    "id": 206,
+                    "name": "Women and crime",
+                    "description": "The allure and fascination of dangerous women and women in danger."
+                }
+            ],
+            "recommendations": [],
+            "title_for_label": "<p>The Beehive</p>",
+            "creator_credit_for_label": "<p>Philippa Bateman and Zanny Begg</p>",
+            "headline_credit_for_label": "<p>Australia, 2018</p>",
+            "description": "<p>Zanny Begg’s <i>The Beehive</i> is the inaugural Artbank + ACMI Commission supporting ambitious and experimental screen-based work at the nexus of film and art.</p>\n<p><i>The Beehive</i> is a non-linear experimental documentary exploring the unsolved murder of Sydney anti-development campaigner and glamourous style icon Juanita Nielsen in Kings Cross in 1975. Juanita’s body has never been found and her murderers have never been charged.</p>\n<p><i>The Beehive</i> consists of scripted fictions, documentary interviews and choreographed scenes with multiple actors playing the role of Juanita. The film is ever-changing, as a different combination of footage is randomly selected for each screening with 1,344 possible variations. <i>The Beehive</i> therefore continually morphs and evolves to reveal different interpretations of this violent historical act and its social context.  Operating like a forensic investigation, the film presents a variety of puzzle pieces, asking new questions and potentially pointing to an answer.</p>\n<p>The title is a reference to Juanita Nielsen’s famous hairdo but is also a metaphor for human cities. In classical times the beehive was seen as a hierarchical and densely industrious hub; in pre-Christian symbolism the beehive was a dark cooperative womb guided by a powerful queen. This clash between utilitarian and feminist interpretations of our cities provides a poetic tension that flows through the film.</p>\n<p>Who killed Juanita Nielsen?</p>",
+            "description_for_label": [
+                "<p>The Beehive explores the unsolved murder of Sydney anti-development campaigner Juanita Nielsen. The inaugural Artbank + ACMI Commission, the video installation examines themes of gentrification, corruption, sex-work, feminism and non-conformist lifestyles.</p>"
+            ],
+            "credit_line_for_label": "<p>Zanny Begg</p>\n<p>Artbank + ACMI Commission, ACMI Collection</p>\n<p>Digital video, stereo sound, variable duration</p>",
+            "details": [
+                {
+                    "label": "Language",
+                    "display_values": [
+                        "English"
+                    ]
+                },
+                {
+                    "label": "Subject category",
+                    "display_values": [
+                        "Digital Art"
+                    ]
+                },
+                {
+                    "label": "Sound/audio",
+                    "display_values": [
+                        "Sound"
+                    ]
+                },
+                {
+                    "label": "Colour",
+                    "display_values": [
+                        "Colour"
+                    ]
+                },
+                {
+                    "label": "Materials",
+                    "display_values": [
+                        "Single channel digital video and software, colour and audio"
+                    ]
+                }
+            ],
+            "stats": {
+                "tap_count": 68
+            },
+            "links": [],
+            "creators_primary": [
+                {
+                    "id": 1134338,
+                    "name": "Philippa Bateman",
+                    "creator_id": 84379,
+                    "role": "producer",
+                    "role_id": 960,
+                    "is_primary": true
+                },
+                {
+                    "id": 1134337,
+                    "name": "Zanny Begg",
+                    "creator_id": 43479,
+                    "role": "creator",
+                    "role_id": 968,
+                    "is_primary": true
+                }
+            ],
+            "creators_other": [],
+            "video_links": [],
+            "media_note": null,
+            "images": [
+                {
+                    "id": 16295,
+                    "image_file": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/Beehive_KokoCarey_PBateman-2.tif?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=dku5VrRGBRMkDxFT913eNNtj5%2BI%3D&Expires=1627009218",
+                    "image_file_thumbnail": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/Beehive_KokoCarey_PBateman-2.tif.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=oSCWyG745Ie7BvKPetTFnrJLXsc%3D&Expires=1627009218",
+                    "image_file_xs": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/Beehive_KokoCarey_PBateman-2.tif.480x480_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=vbcQifNy%2FPcBfc8S9LFBKJPrdTw%3D&Expires=1627009218",
+                    "image_file_s": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/Beehive_KokoCarey_PBateman-2.tif.960x960_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=uMqdHosUbidZZPHqqlXnBkYFwhc%3D&Expires=1627009218",
+                    "image_file_m": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/Beehive_KokoCarey_PBateman-2.tif.1920x1920_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=PH9OFotAQetPnVG8rNJBZBMI5Ks%3D&Expires=1627009218",
+                    "image_file_l": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/Beehive_KokoCarey_PBateman-2.tif.3840x3840_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=JEse2PmULjwxhnRBifvqfkmGRxk%3D&Expires=1627009218",
+                    "caption": "Z000121_TheBeehive still 1",
+                    "credit_line": "",
+                    "alt_text": "",
+                    "width": 5419,
+                    "height": 3613,
+                    "access_level": "View anywhere"
+                },
+                {
+                    "id": 16296,
+                    "image_file": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/ACMI-22082018-36.4.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=Nwz5qb%2FZelsiWcy9PZ0fCgXnpSk%3D&Expires=1627009218",
+                    "image_file_thumbnail": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/ACMI-22082018-36.4.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=2bX9%2FVlF%2BIc1JnHTQBz9x2nSb7A%3D&Expires=1627009218",
+                    "image_file_xs": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/ACMI-22082018-36.4.jpg.480x480_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=GDE%2BEIkisYcirNd3PIOzkXC1XNk%3D&Expires=1627009218",
+                    "image_file_s": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/ACMI-22082018-36.4.jpg.960x960_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=PjC2W1IMkfLtIB1hEp%2F%2FfwMlX3Q%3D&Expires=1627009218",
+                    "image_file_m": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/ACMI-22082018-36.4.jpg.1920x1920_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=huo9gNNF9hTpMRpTLUUV3lfVbLE%3D&Expires=1627009218",
+                    "image_file_l": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/ACMI-22082018-36.4.jpg.3840x3840_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=PpqgaVZ9%2Foibjx%2BVmAvb3FIOs2s%3D&Expires=1627009218",
+                    "caption": "Z000121_TheBeehive installation photograph",
+                    "credit_line": "",
+                    "alt_text": "",
+                    "width": 1200,
+                    "height": 800,
+                    "access_level": "View anywhere"
+                },
+                {
+                    "id": 21286,
+                    "image_file": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/Z000121_TheBeehive_still01.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=LsJkYlZnsez%2FW08WFNM7AZ5dJS0%3D&Expires=1627009218",
+                    "image_file_thumbnail": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/Z000121_TheBeehive_still01.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=cKnYJ%2FkmfXit8gENJWIcZqUKWIk%3D&Expires=1627009218",
+                    "image_file_xs": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/Z000121_TheBeehive_still01.jpg.480x480_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=Giw85SdP%2FCjsGP3J6EifFJQ5AzQ%3D&Expires=1627009218",
+                    "image_file_s": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/Z000121_TheBeehive_still01.jpg.960x960_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=Q7Vlhc1km3agKhAJsdfytrkJ7eg%3D&Expires=1627009218",
+                    "image_file_m": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/Z000121_TheBeehive_still01.jpg.1920x1920_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=cMGILYcjKZ8%2BoW6d2mCpaS%2BDcZg%3D&Expires=1627009218",
+                    "image_file_l": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/Z000121_TheBeehive_still01.jpg.3840x3840_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=XQtHohmMVBfWc0rJT%2BIeMNFLdTA%3D&Expires=1627009218",
+                    "caption": "Z000121 The Beehive still 01",
+                    "credit_line": "Zanny Begg, The Beehive (production still), 2018. Courtesy Enigma Machine. Photograph: Philippa Bateman.",
+                    "alt_text": "",
+                    "width": 5760,
+                    "height": 3840,
+                    "access_level": "View anywhere"
+                },
+                {
+                    "id": 21287,
+                    "image_file": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/Z000121_TheBeehive_still02.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=gFg9F0YTROcnqqU7zs1CBCLtKWM%3D&Expires=1627009218",
+                    "image_file_thumbnail": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/Z000121_TheBeehive_still02.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=DP9058CTp94%2FogW4rDPVjrOZZlY%3D&Expires=1627009218",
+                    "image_file_xs": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/Z000121_TheBeehive_still02.jpg.480x480_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=F5wZP0amNcqdvA2xG3gBsWDfnT8%3D&Expires=1627009218",
+                    "image_file_s": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/Z000121_TheBeehive_still02.jpg.960x960_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=MSCKLQX45oqEq6ahStLBhJWEGfo%3D&Expires=1627009218",
+                    "image_file_m": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/Z000121_TheBeehive_still02.jpg.1920x1920_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=bYiAZC4w3p7Iuv1x7d0%2B3KQjmjI%3D&Expires=1627009218",
+                    "image_file_l": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/Z000121_TheBeehive_still02.jpg.3840x3840_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=ns2rzhAXNJStk5bN7FjgwQZfFyo%3D&Expires=1627009218",
+                    "caption": "Z000121 The Beehive still 02",
+                    "credit_line": "Zanny Begg, The Beehive (production still), 2018. Courtesy Engima Machine. Photograph: Philippa Bateman.",
+                    "alt_text": "",
+                    "width": 5760,
+                    "height": 3840,
+                    "access_level": "View anywhere"
+                },
+                {
+                    "id": 21288,
+                    "image_file": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/Z000121_TheBeehive_still03.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=yssxY6hsqaRj4ts9zLa%2FRQIZ30g%3D&Expires=1627009218",
+                    "image_file_thumbnail": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/Z000121_TheBeehive_still03.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=CuQ9nmLOgcW0Wv9qxMLYx6H81nc%3D&Expires=1627009218",
+                    "image_file_xs": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/Z000121_TheBeehive_still03.jpg.480x480_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=hJIF4pWWKP52m8mOn%2FTqQSJVstI%3D&Expires=1627009218",
+                    "image_file_s": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/Z000121_TheBeehive_still03.jpg.960x960_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=Y7RtV21CWwM%2FrDyHSQJ07rthFVQ%3D&Expires=1627009218",
+                    "image_file_m": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/Z000121_TheBeehive_still03.jpg.1920x1920_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=iYfdgAizjIP7trAXl12BUziDDtY%3D&Expires=1627009218",
+                    "image_file_l": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/Z000121_TheBeehive_still03.jpg.3840x3840_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=%2FAY9sgErbFTMe8VHSdtke0JkdoA%3D&Expires=1627009218",
+                    "caption": "Z000121 The Beehive still 03",
+                    "credit_line": "Zanny Begg, The Beehive (production still), 2018. Courtesy Engima Machine. Photograph: Philippa Bateman.",
+                    "alt_text": "",
+                    "width": 4790,
+                    "height": 3193,
+                    "access_level": "View anywhere"
+                },
+                {
+                    "id": 21289,
+                    "image_file": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/Z000121_TheBeehive_still04.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=AeK2MZ1uoAFm2MTTeOpApuLAEco%3D&Expires=1627009218",
+                    "image_file_thumbnail": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/Z000121_TheBeehive_still04.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=YrbSUuuz%2Fqmo6JoHUFVhXT0KKhg%3D&Expires=1627009218",
+                    "image_file_xs": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/Z000121_TheBeehive_still04.jpg.480x480_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=gaySfWPxne5PjdWZLh4Dwxf5EuM%3D&Expires=1627009218",
+                    "image_file_s": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/Z000121_TheBeehive_still04.jpg.960x960_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=L4nlKcqRfpTAoTyIqpF1lZb%2Bpg0%3D&Expires=1627009218",
+                    "image_file_m": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/Z000121_TheBeehive_still04.jpg.1920x1920_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=F90pePbi2QqQ4MAickQAWEEVY7A%3D&Expires=1627009218",
+                    "image_file_l": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/Z000121_TheBeehive_still04.jpg.3840x3840_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=ZEYCObbRRSrUGFgRlIQZINHUowU%3D&Expires=1627009218",
+                    "caption": "Z000121 The Beehive still 04",
+                    "credit_line": "Zanny Begg, The Beehive (production still), 2018. Photograph: Hugh Hamilton.",
+                    "alt_text": "",
+                    "width": 3456,
+                    "height": 4608,
+                    "access_level": "View anywhere"
+                },
+                {
+                    "id": 21290,
+                    "image_file": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/Z000121_TheBeehive_still05.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=spnw%2B%2F3NW98UhG4oWHxxpxUxQWk%3D&Expires=1627009218",
+                    "image_file_thumbnail": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/Z000121_TheBeehive_still05.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=OsG9CqCHNEMuNlv%2Bmbmppz4AUj8%3D&Expires=1627009218",
+                    "image_file_xs": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/Z000121_TheBeehive_still05.jpg.480x480_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=u1M133LHpp4GX9HnZacMfNLrYHo%3D&Expires=1627009218",
+                    "image_file_s": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/Z000121_TheBeehive_still05.jpg.960x960_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=lzuF4S3qVCRCBbDXzkDLPGJUFzU%3D&Expires=1627009218",
+                    "image_file_m": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/Z000121_TheBeehive_still05.jpg.1920x1920_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=%2FeeDmCPlYGCkPBSLHexkzxUFmy8%3D&Expires=1627009218",
+                    "image_file_l": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/Z000121_TheBeehive_still05.jpg.3840x3840_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=vwsK1XdV8riooP2CccvH0vSSxX8%3D&Expires=1627009218",
+                    "caption": "Z000121 The Beehive still 05",
+                    "credit_line": "Zanny Begg, The Beehive (production still), 2018. Courtesy Enigma Machine. Photograph: Sam Droege.",
+                    "alt_text": "",
+                    "width": 4586,
+                    "height": 3972,
+                    "access_level": "View anywhere"
+                },
+                {
+                    "id": 21291,
+                    "image_file": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/Z000121_TheBeehive_still06.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=tAZU%2Fyd94vEsoYDPqJDSWL08sT8%3D&Expires=1627009218",
+                    "image_file_thumbnail": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/Z000121_TheBeehive_still06.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=vU8lSyJIiukV%2Fzi3YwifX4lKGdE%3D&Expires=1627009218",
+                    "image_file_xs": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/Z000121_TheBeehive_still06.jpg.480x480_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=I6mduZ697viDEOeLwd9ypbmgXO8%3D&Expires=1627009218",
+                    "image_file_s": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/Z000121_TheBeehive_still06.jpg.960x960_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=RBqKHTtslCUVfTFhsK%2FtsYDMXmc%3D&Expires=1627009218",
+                    "image_file_m": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/Z000121_TheBeehive_still06.jpg.1920x1920_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=SCB%2BfGsbbSagT24uJj45rkAfLN8%3D&Expires=1627009218",
+                    "image_file_l": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/Z000121_TheBeehive_still06.jpg.3840x3840_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=SHqNIErgeBPOIbma0%2Bq9thfhQQ4%3D&Expires=1627009218",
+                    "caption": "Z000121 The Beehive still 06",
+                    "credit_line": "Zanny Begg, The Beehive (production still), 2018. Courtesy Enigma Machine. Photograph: Hugh Hamilton.",
+                    "alt_text": "",
+                    "width": 3276,
+                    "height": 2457,
+                    "access_level": "View anywhere"
+                },
+                {
+                    "id": 21292,
+                    "image_file": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/Z000121_TheBeehive_still07.jpeg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=b4bgllg%2BVNtxhN0DfEMg5lRD63Y%3D&Expires=1627009218",
+                    "image_file_thumbnail": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/Z000121_TheBeehive_still07.jpeg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=q45aoWxlxU58FQfk9zKOz4y15bg%3D&Expires=1627009218",
+                    "image_file_xs": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/Z000121_TheBeehive_still07.jpeg.480x480_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=HMT8FO%2Fsm0o3pSbQkjx%2B%2B5%2BuJNs%3D&Expires=1627009218",
+                    "image_file_s": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/Z000121_TheBeehive_still07.jpeg.960x960_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=Fugb9pxA18K3c8R8sCV6Z7jp6i8%3D&Expires=1627009218",
+                    "image_file_m": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/Z000121_TheBeehive_still07.jpeg.1920x1920_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=bi3Ri%2FyCvKlCoAUhOiYZHHvN9zM%3D&Expires=1627009218",
+                    "image_file_l": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/Z000121_TheBeehive_still07.jpeg.3840x3840_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=a5IKbojZ8Blg2oZhgVqQaSbAgNo%3D&Expires=1627009218",
+                    "caption": "Z000121 The Beehive still 07",
+                    "credit_line": "Zanny Begg, The Beehive (production still), 2018. Courtesy Enigma Machine. Photograph: Philippa Bateman.",
+                    "alt_text": "",
+                    "width": 640,
+                    "height": 427,
+                    "access_level": "View anywhere"
+                }
+            ],
+            "videos": [],
+            "holdings": [],
+            "part_of": null,
+            "parts": [],
+            "part_siblings": [],
+            "group": null,
+            "group_works": [],
+            "group_siblings": [],
+            "source": {
+                "name": "Vernon",
+                "slug": "vernon"
+            },
+            "source_identifier": "175590",
+            "production_places": [
+                {
+                    "id": 3,
+                    "name": "Australia",
+                    "slug": "australia"
+                }
+            ],
+            "production_dates": [
+                {
+                    "date": "2018",
+                    "notes": "",
+                    "to_year": "2018"
+                }
+            ],
+            "labels": [
+                1063
+            ]
+        }
+    ]
+}

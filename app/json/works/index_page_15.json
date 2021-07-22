@@ -1,0 +1,2397 @@
+{
+    "count": 922,
+    "next": "https://api.acmi.net.au/works/?page=16",
+    "previous": "https://api.acmi.net.au/works/?page=14",
+    "results": [
+        {
+            "id": 100798,
+            "acmi_id": "180602",
+            "title": "Hollow Knight Paintmaster image",
+            "title_annotation": "Facsimile",
+            "slug": "graphic-image-of-finished-game-paintmaster",
+            "creator_credit": "Team Cherry",
+            "credit_line": "<p>Courtesy Team Cherry</p>",
+            "headline_credit": "Australia",
+            "thumbnail": {
+                "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/P180602_G399.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=OxFvI8TEkvz7HFhzZYZnz%2B77fvs%3D&Expires=1627009082",
+                "has_video": false
+            },
+            "record_type": "work",
+            "type": "Object",
+            "is_on_display": true,
+            "last_on_display_place": "ACMI: Gallery 1",
+            "last_on_display_date": "2023-02-09",
+            "is_context_indigenous": false,
+            "material_description": "Graphic",
+            "unpublished": false,
+            "first_production_date": null,
+            "brief_description": "",
+            "constellations_primary": [],
+            "constellations_other": [],
+            "recommendations": [],
+            "title_for_label": "<p>Early and finished versions of locations in Hallownest</p>",
+            "creator_credit_for_label": "<p>Team Cherry</p>",
+            "headline_credit_for_label": "<p>Australia</p>",
+            "description": "",
+            "description_for_label": [],
+            "credit_line_for_label": "<p>Courtesy Team Cherry</p>",
+            "details": [
+                {
+                    "label": "Curatorial section",
+                    "display_values": [
+                        "The Story of the Moving Image&nbsp;→ Moving Worlds&nbsp;→ 03. Production Design&nbsp;→ MW-03-C02&nbsp;→ MW-03-C02.01"
+                    ]
+                },
+                {
+                    "label": "Measurements",
+                    "display_values": [
+                        "152 x 271mm"
+                    ]
+                },
+                {
+                    "label": "Materials",
+                    "display_values": [
+                        "Graphic"
+                    ]
+                }
+            ],
+            "stats": {
+                "tap_count": 0
+            },
+            "links": [],
+            "creators_primary": [
+                {
+                    "id": 1134555,
+                    "name": "Team Cherry",
+                    "creator_id": 72009,
+                    "role": "developer",
+                    "role_id": 658,
+                    "is_primary": true
+                }
+            ],
+            "creators_other": [],
+            "video_links": [],
+            "media_note": null,
+            "images": [
+                {
+                    "id": 13212,
+                    "image_file": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/P180602_G399.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=8xJ8FLE6znlERuZjnjlMbS9Bmn8%3D&Expires=1627009082",
+                    "image_file_thumbnail": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/P180602_G399.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=OxFvI8TEkvz7HFhzZYZnz%2B77fvs%3D&Expires=1627009082",
+                    "image_file_xs": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/P180602_G399.jpg.480x480_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=wnP%2Fv8syJRhkt4TUKejgWMzLqhQ%3D&Expires=1627009082",
+                    "image_file_s": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/P180602_G399.jpg.960x960_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=TJDvTsTk3SwI35YJj5%2Br7DDIs2U%3D&Expires=1627009082",
+                    "image_file_m": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/P180602_G399.jpg.1920x1920_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=5wagQOjuFJxfbMEZOnRX8bO%2Fp5k%3D&Expires=1627009082",
+                    "image_file_l": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/P180602_G399.jpg.3840x3840_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=a5P9UyKu7ufhuRFbVh9iDiGDt7E%3D&Expires=1627009082",
+                    "caption": "",
+                    "credit_line": "",
+                    "alt_text": "",
+                    "width": 1920,
+                    "height": 1080,
+                    "access_level": "View anywhere"
+                }
+            ],
+            "videos": [],
+            "holdings": [],
+            "part_of": null,
+            "parts": [],
+            "part_siblings": [],
+            "group": {
+                "id": 112218,
+                "acmi_id": "183571",
+                "title": "Early and finished versions of locations in Hallownest",
+                "title_annotation": "",
+                "slug": "early-and-finished-versions-of-locations-in-hallownest",
+                "creator_credit": "",
+                "credit_line": "<p>Courtesy Team Cherry</p>",
+                "headline_credit": "",
+                "thumbnail": {
+                    "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/P180498_G208.png.1200x1200_q85.png?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=7ABsMevZ3rdDX01l62XeuzcmQr8%3D&Expires=1627009082",
+                    "has_video": false
+                },
+                "record_type": "group",
+                "type": "Film",
+                "is_on_display": true,
+                "last_on_display_place": "ACMI: Gallery 1",
+                "last_on_display_date": "2023-02-09",
+                "is_context_indigenous": false,
+                "material_description": "",
+                "unpublished": false,
+                "first_production_date": null
+            },
+            "group_works": [],
+            "group_siblings": [
+                {
+                    "id": 100695,
+                    "acmi_id": "180498",
+                    "title": "Hollow Knight block/tile version of a room",
+                    "title_annotation": "Facsimile",
+                    "slug": "graphic-blocktile-version-of-room",
+                    "creator_credit": "",
+                    "credit_line": "<p>Courtesy Team Cherry</p>",
+                    "headline_credit": "Australia",
+                    "thumbnail": {
+                        "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/P180498_G208.png.1200x1200_q85.png?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=7ABsMevZ3rdDX01l62XeuzcmQr8%3D&Expires=1627009082",
+                        "has_video": false
+                    },
+                    "record_type": "work",
+                    "type": "Object",
+                    "is_on_display": true,
+                    "last_on_display_place": "ACMI: Gallery 1",
+                    "last_on_display_date": "2023-02-09",
+                    "is_context_indigenous": false,
+                    "material_description": "Graphic",
+                    "unpublished": false,
+                    "first_production_date": null
+                },
+                {
+                    "id": 100697,
+                    "acmi_id": "180500",
+                    "title": "Hollow Knight dressed version of a room",
+                    "title_annotation": "Facsimile",
+                    "slug": "graphic-dressed-version-of-room",
+                    "creator_credit": "",
+                    "credit_line": "<p>Courtesy Team Cherry</p>",
+                    "headline_credit": "Australia",
+                    "thumbnail": {
+                        "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/P180500_G210.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=RVrRGBfq8RRK2Nw%2B%2Br2neFDVesE%3D&Expires=1627009082",
+                        "has_video": false
+                    },
+                    "record_type": "work",
+                    "type": "Object",
+                    "is_on_display": true,
+                    "last_on_display_place": "ACMI: Gallery 1",
+                    "last_on_display_date": "2023-02-09",
+                    "is_context_indigenous": false,
+                    "material_description": "Graphic",
+                    "unpublished": false,
+                    "first_production_date": null
+                },
+                {
+                    "id": 100796,
+                    "acmi_id": "180600",
+                    "title": "Hollow Knight Grimm Tent image",
+                    "title_annotation": "Facsimile",
+                    "slug": "graphic-image-of-finished-game-grimm-tent",
+                    "creator_credit": "Team Cherry",
+                    "credit_line": "<p>Courtesy Team Cherry</p>",
+                    "headline_credit": "Australia",
+                    "thumbnail": {
+                        "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/P180600_G397.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=wCzf5GhubbkMrWuAR4PVHMuVApg%3D&Expires=1627009082",
+                        "has_video": false
+                    },
+                    "record_type": "work",
+                    "type": "Object",
+                    "is_on_display": true,
+                    "last_on_display_place": "ACMI: Gallery 1",
+                    "last_on_display_date": "2023-02-09",
+                    "is_context_indigenous": false,
+                    "material_description": "Graphic",
+                    "unpublished": false,
+                    "first_production_date": null
+                },
+                {
+                    "id": 100797,
+                    "acmi_id": "180601",
+                    "title": "Hollow Knight Lake of Unn image",
+                    "title_annotation": "Facsimile",
+                    "slug": "graphic-image-of-finished-game-lake-of-unn",
+                    "creator_credit": "Team Cherry",
+                    "credit_line": "<p>Courtesy Team Cherry</p>",
+                    "headline_credit": "Australia",
+                    "thumbnail": {
+                        "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/P180601_G398.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=4ZS1M4VBr89LNJVu%2FjQ06ham9ok%3D&Expires=1627009082",
+                        "has_video": false
+                    },
+                    "record_type": "work",
+                    "type": "Object",
+                    "is_on_display": true,
+                    "last_on_display_place": "ACMI: Gallery 1",
+                    "last_on_display_date": "2023-02-09",
+                    "is_context_indigenous": false,
+                    "material_description": "Graphic",
+                    "unpublished": false,
+                    "first_production_date": null
+                },
+                {
+                    "id": 100799,
+                    "acmi_id": "180603",
+                    "title": "Hollow Knight Mines image",
+                    "title_annotation": "Facsimile",
+                    "slug": "graphic-image-of-finished-game-mines",
+                    "creator_credit": "Team Cherry",
+                    "credit_line": "<p>Courtesy Team Cherry</p>",
+                    "headline_credit": "Australia",
+                    "thumbnail": {
+                        "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/P180603_G400.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=CdSUoaYCXIaGX98gEJwVBtsW%2B7E%3D&Expires=1627009082",
+                        "has_video": false
+                    },
+                    "record_type": "work",
+                    "type": "Object",
+                    "is_on_display": true,
+                    "last_on_display_place": "ACMI: Gallery 1",
+                    "last_on_display_date": "2023-02-09",
+                    "is_context_indigenous": false,
+                    "material_description": "Graphic",
+                    "unpublished": false,
+                    "first_production_date": null
+                }
+            ],
+            "source": {
+                "name": "Vernon",
+                "slug": "vernon"
+            },
+            "source_identifier": "180602",
+            "production_places": [
+                {
+                    "id": 3,
+                    "name": "Australia",
+                    "slug": "australia"
+                }
+            ],
+            "production_dates": [],
+            "labels": [
+                40286
+            ]
+        },
+        {
+            "id": 100797,
+            "acmi_id": "180601",
+            "title": "Hollow Knight Lake of Unn image",
+            "title_annotation": "Facsimile",
+            "slug": "graphic-image-of-finished-game-lake-of-unn",
+            "creator_credit": "Team Cherry",
+            "credit_line": "<p>Courtesy Team Cherry</p>",
+            "headline_credit": "Australia",
+            "thumbnail": {
+                "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/P180601_G398.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=4ZS1M4VBr89LNJVu%2FjQ06ham9ok%3D&Expires=1627009082",
+                "has_video": false
+            },
+            "record_type": "work",
+            "type": "Object",
+            "is_on_display": true,
+            "last_on_display_place": "ACMI: Gallery 1",
+            "last_on_display_date": "2023-02-09",
+            "is_context_indigenous": false,
+            "material_description": "Graphic",
+            "unpublished": false,
+            "first_production_date": null,
+            "brief_description": "",
+            "constellations_primary": [],
+            "constellations_other": [],
+            "recommendations": [],
+            "title_for_label": "<p>Early and finished versions of locations in Hallownest</p>",
+            "creator_credit_for_label": "<p>Team Cherry</p>",
+            "headline_credit_for_label": "<p>Australia</p>",
+            "description": "",
+            "description_for_label": [],
+            "credit_line_for_label": "<p>Courtesy Team Cherry</p>",
+            "details": [
+                {
+                    "label": "Curatorial section",
+                    "display_values": [
+                        "The Story of the Moving Image&nbsp;→ Moving Worlds&nbsp;→ 03. Production Design&nbsp;→ MW-03-C02&nbsp;→ MW-03-C02.01"
+                    ]
+                },
+                {
+                    "label": "Measurements",
+                    "display_values": [
+                        "152 x 271mm"
+                    ]
+                },
+                {
+                    "label": "Materials",
+                    "display_values": [
+                        "Graphic"
+                    ]
+                }
+            ],
+            "stats": {
+                "tap_count": 0
+            },
+            "links": [],
+            "creators_primary": [
+                {
+                    "id": 1134554,
+                    "name": "Team Cherry",
+                    "creator_id": 72009,
+                    "role": "developer",
+                    "role_id": 658,
+                    "is_primary": true
+                }
+            ],
+            "creators_other": [],
+            "video_links": [],
+            "media_note": null,
+            "images": [
+                {
+                    "id": 13211,
+                    "image_file": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/P180601_G398.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=ypu9OpNtNGL6nFHhfoHyqTz6xzQ%3D&Expires=1627009082",
+                    "image_file_thumbnail": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/P180601_G398.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=4ZS1M4VBr89LNJVu%2FjQ06ham9ok%3D&Expires=1627009082",
+                    "image_file_xs": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/P180601_G398.jpg.480x480_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=sF8B4jav9XQyS72Z0wx2ci8ID1s%3D&Expires=1627009082",
+                    "image_file_s": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/P180601_G398.jpg.960x960_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=EyRV25lPVoLKwuMTaSmPh3UK3A4%3D&Expires=1627009082",
+                    "image_file_m": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/P180601_G398.jpg.1920x1920_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=XKmdtS%2B3Is%2BjPheq3oh9ceDa%2B6w%3D&Expires=1627009082",
+                    "image_file_l": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/P180601_G398.jpg.3840x3840_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=X4A3u91jdIVKMZIQXBT6fbDdaoM%3D&Expires=1627009082",
+                    "caption": "",
+                    "credit_line": "",
+                    "alt_text": "",
+                    "width": 1920,
+                    "height": 1080,
+                    "access_level": "View anywhere"
+                }
+            ],
+            "videos": [],
+            "holdings": [],
+            "part_of": null,
+            "parts": [],
+            "part_siblings": [],
+            "group": {
+                "id": 112218,
+                "acmi_id": "183571",
+                "title": "Early and finished versions of locations in Hallownest",
+                "title_annotation": "",
+                "slug": "early-and-finished-versions-of-locations-in-hallownest",
+                "creator_credit": "",
+                "credit_line": "<p>Courtesy Team Cherry</p>",
+                "headline_credit": "",
+                "thumbnail": {
+                    "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/P180498_G208.png.1200x1200_q85.png?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=7ABsMevZ3rdDX01l62XeuzcmQr8%3D&Expires=1627009082",
+                    "has_video": false
+                },
+                "record_type": "group",
+                "type": "Film",
+                "is_on_display": true,
+                "last_on_display_place": "ACMI: Gallery 1",
+                "last_on_display_date": "2023-02-09",
+                "is_context_indigenous": false,
+                "material_description": "",
+                "unpublished": false,
+                "first_production_date": null
+            },
+            "group_works": [],
+            "group_siblings": [
+                {
+                    "id": 100695,
+                    "acmi_id": "180498",
+                    "title": "Hollow Knight block/tile version of a room",
+                    "title_annotation": "Facsimile",
+                    "slug": "graphic-blocktile-version-of-room",
+                    "creator_credit": "",
+                    "credit_line": "<p>Courtesy Team Cherry</p>",
+                    "headline_credit": "Australia",
+                    "thumbnail": {
+                        "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/P180498_G208.png.1200x1200_q85.png?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=7ABsMevZ3rdDX01l62XeuzcmQr8%3D&Expires=1627009082",
+                        "has_video": false
+                    },
+                    "record_type": "work",
+                    "type": "Object",
+                    "is_on_display": true,
+                    "last_on_display_place": "ACMI: Gallery 1",
+                    "last_on_display_date": "2023-02-09",
+                    "is_context_indigenous": false,
+                    "material_description": "Graphic",
+                    "unpublished": false,
+                    "first_production_date": null
+                },
+                {
+                    "id": 100697,
+                    "acmi_id": "180500",
+                    "title": "Hollow Knight dressed version of a room",
+                    "title_annotation": "Facsimile",
+                    "slug": "graphic-dressed-version-of-room",
+                    "creator_credit": "",
+                    "credit_line": "<p>Courtesy Team Cherry</p>",
+                    "headline_credit": "Australia",
+                    "thumbnail": {
+                        "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/P180500_G210.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=RVrRGBfq8RRK2Nw%2B%2Br2neFDVesE%3D&Expires=1627009082",
+                        "has_video": false
+                    },
+                    "record_type": "work",
+                    "type": "Object",
+                    "is_on_display": true,
+                    "last_on_display_place": "ACMI: Gallery 1",
+                    "last_on_display_date": "2023-02-09",
+                    "is_context_indigenous": false,
+                    "material_description": "Graphic",
+                    "unpublished": false,
+                    "first_production_date": null
+                },
+                {
+                    "id": 100796,
+                    "acmi_id": "180600",
+                    "title": "Hollow Knight Grimm Tent image",
+                    "title_annotation": "Facsimile",
+                    "slug": "graphic-image-of-finished-game-grimm-tent",
+                    "creator_credit": "Team Cherry",
+                    "credit_line": "<p>Courtesy Team Cherry</p>",
+                    "headline_credit": "Australia",
+                    "thumbnail": {
+                        "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/P180600_G397.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=wCzf5GhubbkMrWuAR4PVHMuVApg%3D&Expires=1627009082",
+                        "has_video": false
+                    },
+                    "record_type": "work",
+                    "type": "Object",
+                    "is_on_display": true,
+                    "last_on_display_place": "ACMI: Gallery 1",
+                    "last_on_display_date": "2023-02-09",
+                    "is_context_indigenous": false,
+                    "material_description": "Graphic",
+                    "unpublished": false,
+                    "first_production_date": null
+                },
+                {
+                    "id": 100799,
+                    "acmi_id": "180603",
+                    "title": "Hollow Knight Mines image",
+                    "title_annotation": "Facsimile",
+                    "slug": "graphic-image-of-finished-game-mines",
+                    "creator_credit": "Team Cherry",
+                    "credit_line": "<p>Courtesy Team Cherry</p>",
+                    "headline_credit": "Australia",
+                    "thumbnail": {
+                        "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/P180603_G400.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=CdSUoaYCXIaGX98gEJwVBtsW%2B7E%3D&Expires=1627009082",
+                        "has_video": false
+                    },
+                    "record_type": "work",
+                    "type": "Object",
+                    "is_on_display": true,
+                    "last_on_display_place": "ACMI: Gallery 1",
+                    "last_on_display_date": "2023-02-09",
+                    "is_context_indigenous": false,
+                    "material_description": "Graphic",
+                    "unpublished": false,
+                    "first_production_date": null
+                },
+                {
+                    "id": 100798,
+                    "acmi_id": "180602",
+                    "title": "Hollow Knight Paintmaster image",
+                    "title_annotation": "Facsimile",
+                    "slug": "graphic-image-of-finished-game-paintmaster",
+                    "creator_credit": "Team Cherry",
+                    "credit_line": "<p>Courtesy Team Cherry</p>",
+                    "headline_credit": "Australia",
+                    "thumbnail": {
+                        "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/P180602_G399.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=OxFvI8TEkvz7HFhzZYZnz%2B77fvs%3D&Expires=1627009082",
+                        "has_video": false
+                    },
+                    "record_type": "work",
+                    "type": "Object",
+                    "is_on_display": true,
+                    "last_on_display_place": "ACMI: Gallery 1",
+                    "last_on_display_date": "2023-02-09",
+                    "is_context_indigenous": false,
+                    "material_description": "Graphic",
+                    "unpublished": false,
+                    "first_production_date": null
+                }
+            ],
+            "source": {
+                "name": "Vernon",
+                "slug": "vernon"
+            },
+            "source_identifier": "180601",
+            "production_places": [
+                {
+                    "id": 3,
+                    "name": "Australia",
+                    "slug": "australia"
+                }
+            ],
+            "production_dates": [],
+            "labels": [
+                40285
+            ]
+        },
+        {
+            "id": 100796,
+            "acmi_id": "180600",
+            "title": "Hollow Knight Grimm Tent image",
+            "title_annotation": "Facsimile",
+            "slug": "graphic-image-of-finished-game-grimm-tent",
+            "creator_credit": "Team Cherry",
+            "credit_line": "<p>Courtesy Team Cherry</p>",
+            "headline_credit": "Australia",
+            "thumbnail": {
+                "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/P180600_G397.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=wCzf5GhubbkMrWuAR4PVHMuVApg%3D&Expires=1627009082",
+                "has_video": false
+            },
+            "record_type": "work",
+            "type": "Object",
+            "is_on_display": true,
+            "last_on_display_place": "ACMI: Gallery 1",
+            "last_on_display_date": "2023-02-09",
+            "is_context_indigenous": false,
+            "material_description": "Graphic",
+            "unpublished": false,
+            "first_production_date": null,
+            "brief_description": "",
+            "constellations_primary": [],
+            "constellations_other": [],
+            "recommendations": [],
+            "title_for_label": "<p>Early and finished versions of locations in Hallownest</p>",
+            "creator_credit_for_label": "<p>Team Cherry</p>",
+            "headline_credit_for_label": "<p>Australia</p>",
+            "description": "",
+            "description_for_label": [],
+            "credit_line_for_label": "<p>Courtesy Team Cherry</p>",
+            "details": [
+                {
+                    "label": "Curatorial section",
+                    "display_values": [
+                        "The Story of the Moving Image&nbsp;→ Moving Worlds&nbsp;→ 03. Production Design&nbsp;→ MW-03-C02&nbsp;→ MW-03-C02.01"
+                    ]
+                },
+                {
+                    "label": "Measurements",
+                    "display_values": [
+                        "152 x 271mm"
+                    ]
+                },
+                {
+                    "label": "Materials",
+                    "display_values": [
+                        "Graphic"
+                    ]
+                }
+            ],
+            "stats": {
+                "tap_count": 0
+            },
+            "links": [],
+            "creators_primary": [
+                {
+                    "id": 1134553,
+                    "name": "Team Cherry",
+                    "creator_id": 72009,
+                    "role": "developer",
+                    "role_id": 658,
+                    "is_primary": true
+                }
+            ],
+            "creators_other": [],
+            "video_links": [],
+            "media_note": null,
+            "images": [
+                {
+                    "id": 13210,
+                    "image_file": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/P180600_G397.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=%2BmTZuIw7v3oxDshs%2Bx79IRFAWF8%3D&Expires=1627009082",
+                    "image_file_thumbnail": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/P180600_G397.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=wCzf5GhubbkMrWuAR4PVHMuVApg%3D&Expires=1627009082",
+                    "image_file_xs": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/P180600_G397.jpg.480x480_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=kMSPbaBtnc3gIub3CrGvb3QcLqE%3D&Expires=1627009082",
+                    "image_file_s": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/P180600_G397.jpg.960x960_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=%2BTDL28IQBF9LvYl6OF%2F6Us6gkwI%3D&Expires=1627009082",
+                    "image_file_m": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/P180600_G397.jpg.1920x1920_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=5C6W7PCZywOB%2B05%2FZvByFDgXa%2B4%3D&Expires=1627009082",
+                    "image_file_l": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/P180600_G397.jpg.3840x3840_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=n3Fi5lokF5oE3BlrgtTphXPbILk%3D&Expires=1627009082",
+                    "caption": "",
+                    "credit_line": "",
+                    "alt_text": "",
+                    "width": 1920,
+                    "height": 1080,
+                    "access_level": "View anywhere"
+                }
+            ],
+            "videos": [],
+            "holdings": [],
+            "part_of": null,
+            "parts": [],
+            "part_siblings": [],
+            "group": {
+                "id": 112218,
+                "acmi_id": "183571",
+                "title": "Early and finished versions of locations in Hallownest",
+                "title_annotation": "",
+                "slug": "early-and-finished-versions-of-locations-in-hallownest",
+                "creator_credit": "",
+                "credit_line": "<p>Courtesy Team Cherry</p>",
+                "headline_credit": "",
+                "thumbnail": {
+                    "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/P180498_G208.png.1200x1200_q85.png?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=7ABsMevZ3rdDX01l62XeuzcmQr8%3D&Expires=1627009082",
+                    "has_video": false
+                },
+                "record_type": "group",
+                "type": "Film",
+                "is_on_display": true,
+                "last_on_display_place": "ACMI: Gallery 1",
+                "last_on_display_date": "2023-02-09",
+                "is_context_indigenous": false,
+                "material_description": "",
+                "unpublished": false,
+                "first_production_date": null
+            },
+            "group_works": [],
+            "group_siblings": [
+                {
+                    "id": 100695,
+                    "acmi_id": "180498",
+                    "title": "Hollow Knight block/tile version of a room",
+                    "title_annotation": "Facsimile",
+                    "slug": "graphic-blocktile-version-of-room",
+                    "creator_credit": "",
+                    "credit_line": "<p>Courtesy Team Cherry</p>",
+                    "headline_credit": "Australia",
+                    "thumbnail": {
+                        "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/P180498_G208.png.1200x1200_q85.png?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=7ABsMevZ3rdDX01l62XeuzcmQr8%3D&Expires=1627009082",
+                        "has_video": false
+                    },
+                    "record_type": "work",
+                    "type": "Object",
+                    "is_on_display": true,
+                    "last_on_display_place": "ACMI: Gallery 1",
+                    "last_on_display_date": "2023-02-09",
+                    "is_context_indigenous": false,
+                    "material_description": "Graphic",
+                    "unpublished": false,
+                    "first_production_date": null
+                },
+                {
+                    "id": 100697,
+                    "acmi_id": "180500",
+                    "title": "Hollow Knight dressed version of a room",
+                    "title_annotation": "Facsimile",
+                    "slug": "graphic-dressed-version-of-room",
+                    "creator_credit": "",
+                    "credit_line": "<p>Courtesy Team Cherry</p>",
+                    "headline_credit": "Australia",
+                    "thumbnail": {
+                        "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/P180500_G210.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=RVrRGBfq8RRK2Nw%2B%2Br2neFDVesE%3D&Expires=1627009082",
+                        "has_video": false
+                    },
+                    "record_type": "work",
+                    "type": "Object",
+                    "is_on_display": true,
+                    "last_on_display_place": "ACMI: Gallery 1",
+                    "last_on_display_date": "2023-02-09",
+                    "is_context_indigenous": false,
+                    "material_description": "Graphic",
+                    "unpublished": false,
+                    "first_production_date": null
+                },
+                {
+                    "id": 100797,
+                    "acmi_id": "180601",
+                    "title": "Hollow Knight Lake of Unn image",
+                    "title_annotation": "Facsimile",
+                    "slug": "graphic-image-of-finished-game-lake-of-unn",
+                    "creator_credit": "Team Cherry",
+                    "credit_line": "<p>Courtesy Team Cherry</p>",
+                    "headline_credit": "Australia",
+                    "thumbnail": {
+                        "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/P180601_G398.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=4ZS1M4VBr89LNJVu%2FjQ06ham9ok%3D&Expires=1627009082",
+                        "has_video": false
+                    },
+                    "record_type": "work",
+                    "type": "Object",
+                    "is_on_display": true,
+                    "last_on_display_place": "ACMI: Gallery 1",
+                    "last_on_display_date": "2023-02-09",
+                    "is_context_indigenous": false,
+                    "material_description": "Graphic",
+                    "unpublished": false,
+                    "first_production_date": null
+                },
+                {
+                    "id": 100799,
+                    "acmi_id": "180603",
+                    "title": "Hollow Knight Mines image",
+                    "title_annotation": "Facsimile",
+                    "slug": "graphic-image-of-finished-game-mines",
+                    "creator_credit": "Team Cherry",
+                    "credit_line": "<p>Courtesy Team Cherry</p>",
+                    "headline_credit": "Australia",
+                    "thumbnail": {
+                        "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/P180603_G400.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=CdSUoaYCXIaGX98gEJwVBtsW%2B7E%3D&Expires=1627009082",
+                        "has_video": false
+                    },
+                    "record_type": "work",
+                    "type": "Object",
+                    "is_on_display": true,
+                    "last_on_display_place": "ACMI: Gallery 1",
+                    "last_on_display_date": "2023-02-09",
+                    "is_context_indigenous": false,
+                    "material_description": "Graphic",
+                    "unpublished": false,
+                    "first_production_date": null
+                },
+                {
+                    "id": 100798,
+                    "acmi_id": "180602",
+                    "title": "Hollow Knight Paintmaster image",
+                    "title_annotation": "Facsimile",
+                    "slug": "graphic-image-of-finished-game-paintmaster",
+                    "creator_credit": "Team Cherry",
+                    "credit_line": "<p>Courtesy Team Cherry</p>",
+                    "headline_credit": "Australia",
+                    "thumbnail": {
+                        "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/P180602_G399.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=OxFvI8TEkvz7HFhzZYZnz%2B77fvs%3D&Expires=1627009082",
+                        "has_video": false
+                    },
+                    "record_type": "work",
+                    "type": "Object",
+                    "is_on_display": true,
+                    "last_on_display_place": "ACMI: Gallery 1",
+                    "last_on_display_date": "2023-02-09",
+                    "is_context_indigenous": false,
+                    "material_description": "Graphic",
+                    "unpublished": false,
+                    "first_production_date": null
+                }
+            ],
+            "source": {
+                "name": "Vernon",
+                "slug": "vernon"
+            },
+            "source_identifier": "180600",
+            "production_places": [
+                {
+                    "id": 3,
+                    "name": "Australia",
+                    "slug": "australia"
+                }
+            ],
+            "production_dates": [],
+            "labels": [
+                40284
+            ]
+        },
+        {
+            "id": 100795,
+            "acmi_id": "180599",
+            "title": "Sweet Country set design panoramic collage",
+            "title_annotation": "Facsimile",
+            "slug": "graphic-set-design-panoramic-collage",
+            "creator_credit": "",
+            "credit_line": "<p>Courtesy Bunya Productions Pty Ltd</p>",
+            "headline_credit": "Australia, 2018",
+            "thumbnail": {
+                "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/P180599_G396_.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=3edMYip1Tvy%2FZPYlLauGC9Ybaz8%3D&Expires=1627009082",
+                "has_video": false
+            },
+            "record_type": "work",
+            "type": "Object",
+            "is_on_display": true,
+            "last_on_display_place": "ACMI: Gallery 1",
+            "last_on_display_date": "2023-02-09",
+            "is_context_indigenous": false,
+            "material_description": "Graphic",
+            "unpublished": false,
+            "first_production_date": "2018-01-01T11:00:00+11:00",
+            "brief_description": "",
+            "constellations_primary": [],
+            "constellations_other": [],
+            "recommendations": [],
+            "title_for_label": "<p>Plans and colour references for set</p>",
+            "creator_credit_for_label": "",
+            "headline_credit_for_label": "<p>Australia, 2018</p>",
+            "description": "",
+            "description_for_label": [],
+            "credit_line_for_label": "<p>Courtesy Bunya Productions Pty Ltd</p>",
+            "details": [
+                {
+                    "label": "Curatorial section",
+                    "display_values": [
+                        "The Story of the Moving Image&nbsp;→ Moving Worlds&nbsp;→ 03. Production Design&nbsp;→ MW-03-C01&nbsp;→ MW-03-C01.01"
+                    ]
+                },
+                {
+                    "label": "Measurements",
+                    "display_values": [
+                        "95 x 650mm"
+                    ]
+                },
+                {
+                    "label": "Materials",
+                    "display_values": [
+                        "Graphic"
+                    ]
+                }
+            ],
+            "stats": {
+                "tap_count": 0
+            },
+            "links": [],
+            "creators_primary": [],
+            "creators_other": [
+                {
+                    "id": 1134552,
+                    "name": "Theo Benton",
+                    "creator_id": 72963,
+                    "role": "photographer",
+                    "role_id": 440,
+                    "is_primary": false
+                },
+                {
+                    "id": 1134551,
+                    "name": "Tony Cronin",
+                    "creator_id": 51103,
+                    "role": "photographer",
+                    "role_id": 440,
+                    "is_primary": false
+                }
+            ],
+            "video_links": [],
+            "media_note": null,
+            "images": [
+                {
+                    "id": 12658,
+                    "image_file": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/P180599_G396_.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=TUSfp%2B4QTbtZPZg0qfjIiDRx8a0%3D&Expires=1627009082",
+                    "image_file_thumbnail": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/P180599_G396_.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=3edMYip1Tvy%2FZPYlLauGC9Ybaz8%3D&Expires=1627009082",
+                    "image_file_xs": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/P180599_G396_.jpg.480x480_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=%2Bgsi%2FetoekWBhp9%2B4goCyjEvvnA%3D&Expires=1627009082",
+                    "image_file_s": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/P180599_G396_.jpg.960x960_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=pKgf07zhwCJT2fiA%2BvUsGDXfYXU%3D&Expires=1627009082",
+                    "image_file_m": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/P180599_G396_.jpg.1920x1920_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=izYkVR2rIm7%2F3qmhLvj9pPWoKb8%3D&Expires=1627009082",
+                    "image_file_l": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/P180599_G396_.jpg.3840x3840_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=KIfEeefR2y54oyRjefEvUlVFBvY%3D&Expires=1627009082",
+                    "caption": "",
+                    "credit_line": "",
+                    "alt_text": "",
+                    "width": 13440,
+                    "height": 1596,
+                    "access_level": "View anywhere"
+                }
+            ],
+            "videos": [],
+            "holdings": [],
+            "part_of": null,
+            "parts": [],
+            "part_siblings": [],
+            "group": {
+                "id": 112208,
+                "acmi_id": "183576",
+                "title": "Plans and colour references for set",
+                "title_annotation": "",
+                "slug": "plans-and-colour-references-for-set",
+                "creator_credit": "Theo Benton and Tony Cronin",
+                "credit_line": "",
+                "headline_credit": "",
+                "thumbnail": {
+                    "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/P180496_G205.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=nwghPh2zu94AwbNhNHa3xWF20Yg%3D&Expires=1627009082",
+                    "has_video": false
+                },
+                "record_type": "group",
+                "type": "Film",
+                "is_on_display": true,
+                "last_on_display_place": "ACMI: Gallery 1",
+                "last_on_display_date": "2023-02-09",
+                "is_context_indigenous": false,
+                "material_description": "",
+                "unpublished": false,
+                "first_production_date": null
+            },
+            "group_works": [],
+            "group_siblings": [
+                {
+                    "id": 100693,
+                    "acmi_id": "180496",
+                    "title": "Sweet Country homestead blueprints",
+                    "title_annotation": "Facsimile",
+                    "slug": "graphic-homestead-blueprints",
+                    "creator_credit": "",
+                    "credit_line": "<p>Courtesy Bunya Productions Pty Ltd</p>",
+                    "headline_credit": "Australia, 2018",
+                    "thumbnail": {
+                        "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/P180496_G205.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=nwghPh2zu94AwbNhNHa3xWF20Yg%3D&Expires=1627009082",
+                        "has_video": false
+                    },
+                    "record_type": "work",
+                    "type": "Object",
+                    "is_on_display": true,
+                    "last_on_display_place": "ACMI: Gallery 1",
+                    "last_on_display_date": "2023-02-09",
+                    "is_context_indigenous": false,
+                    "material_description": "Graphic",
+                    "unpublished": false,
+                    "first_production_date": "2018-01-01T11:00:00+11:00"
+                },
+                {
+                    "id": 100692,
+                    "acmi_id": "180495",
+                    "title": "Sweet Country set colour references",
+                    "title_annotation": "Facsimile",
+                    "slug": "graphic-colour-palette",
+                    "creator_credit": "",
+                    "credit_line": "<p>Courtesy Bunya Productions Pty Ltd</p>",
+                    "headline_credit": "Australia, 2018",
+                    "thumbnail": null,
+                    "record_type": "work",
+                    "type": "Object",
+                    "is_on_display": true,
+                    "last_on_display_place": "ACMI: Gallery 1",
+                    "last_on_display_date": "2023-02-09",
+                    "is_context_indigenous": false,
+                    "material_description": "Graphic",
+                    "unpublished": false,
+                    "first_production_date": "2018-01-01T11:00:00+11:00"
+                }
+            ],
+            "source": {
+                "name": "Vernon",
+                "slug": "vernon"
+            },
+            "source_identifier": "180599",
+            "production_places": [
+                {
+                    "id": 3,
+                    "name": "Australia",
+                    "slug": "australia"
+                }
+            ],
+            "production_dates": [
+                {
+                    "date": "2018",
+                    "notes": "",
+                    "to_year": "2018"
+                }
+            ],
+            "labels": [
+                40283
+            ]
+        },
+        {
+            "id": 100751,
+            "acmi_id": "180554",
+            "title": "Cleverman hair test photos",
+            "title_annotation": "Facsimile",
+            "slug": "graphic-hair-test-photo",
+            "creator_credit": "Weta Workshop",
+            "credit_line": "<p>Courtesy Goalpost Pictures</p>",
+            "headline_credit": "Australia, 2016",
+            "thumbnail": {
+                "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/P180554_G264.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=RUsHJ%2FwuL0yxeMJFKXMaq4LncaQ%3D&Expires=1627009082",
+                "has_video": false
+            },
+            "record_type": "work",
+            "type": "Object",
+            "is_on_display": true,
+            "last_on_display_place": "ACMI: Gallery 1",
+            "last_on_display_date": "2023-02-09",
+            "is_context_indigenous": false,
+            "material_description": "Graphic",
+            "unpublished": false,
+            "first_production_date": "2016-01-01T11:00:00+11:00",
+            "brief_description": "",
+            "constellations_primary": [],
+            "constellations_other": [],
+            "recommendations": [],
+            "title_for_label": "<p>Hair tests</p>",
+            "creator_credit_for_label": "<p>Weta Workshop</p>",
+            "headline_credit_for_label": "<p>Australia, 2016</p>",
+            "description": "",
+            "description_for_label": [],
+            "credit_line_for_label": "<p>Courtesy Goalpost Pictures</p>",
+            "details": [
+                {
+                    "label": "Curatorial section",
+                    "display_values": [
+                        "The Story of the Moving Image&nbsp;→ Moving Worlds&nbsp;→ 05. Character Design&nbsp;→ MW-05-C01&nbsp;→ MW-05-C01.02"
+                    ]
+                },
+                {
+                    "label": "Measurements",
+                    "display_values": [
+                        "105 x 148mm"
+                    ]
+                },
+                {
+                    "label": "Materials",
+                    "display_values": [
+                        "Graphic"
+                    ]
+                }
+            ],
+            "stats": {
+                "tap_count": 0
+            },
+            "links": [],
+            "creators_primary": [
+                {
+                    "id": 1134550,
+                    "name": "Weta Workshop",
+                    "creator_id": 72937,
+                    "role": "artist",
+                    "role_id": 505,
+                    "is_primary": true
+                }
+            ],
+            "creators_other": [],
+            "video_links": [],
+            "media_note": null,
+            "images": [
+                {
+                    "id": 12436,
+                    "image_file": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/P180554_G264.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=%2B4sOfmivTyJbuXTFpS2U%2BPnRqf8%3D&Expires=1627009082",
+                    "image_file_thumbnail": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/P180554_G264.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=RUsHJ%2FwuL0yxeMJFKXMaq4LncaQ%3D&Expires=1627009082",
+                    "image_file_xs": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/P180554_G264.jpg.480x480_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=bZGBawMB3C%2Bh0LdgPyfd4lTE9cI%3D&Expires=1627009082",
+                    "image_file_s": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/P180554_G264.jpg.960x960_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=rpTA4hDiGegDMXGrc1k%2FUdkaHcw%3D&Expires=1627009082",
+                    "image_file_m": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/P180554_G264.jpg.1920x1920_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=ovni9PJjfVcQRgE9C7Z6hEoKd%2FI%3D&Expires=1627009082",
+                    "image_file_l": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/P180554_G264.jpg.3840x3840_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=K559q2w6WkGNrWZ5kGoMx6Cavds%3D&Expires=1627009082",
+                    "caption": "",
+                    "credit_line": "",
+                    "alt_text": "",
+                    "width": 4368,
+                    "height": 2912,
+                    "access_level": "View anywhere"
+                }
+            ],
+            "videos": [],
+            "holdings": [],
+            "part_of": null,
+            "parts": [],
+            "part_siblings": [],
+            "group": {
+                "id": 112117,
+                "acmi_id": "183548",
+                "title": "Hair tests",
+                "title_annotation": "",
+                "slug": "hair-tests",
+                "creator_credit": "Weta Workshop",
+                "credit_line": "<p>Courtesy Goalpost Pictures</p>",
+                "headline_credit": "",
+                "thumbnail": {
+                    "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/P180552_G262.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=6r2M0WTbbfoXUUAeudC7yV%2BVXnA%3D&Expires=1627009082",
+                    "has_video": false
+                },
+                "record_type": "group",
+                "type": "Film",
+                "is_on_display": true,
+                "last_on_display_place": "ACMI: Gallery 1",
+                "last_on_display_date": "2023-02-09",
+                "is_context_indigenous": false,
+                "material_description": "",
+                "unpublished": false,
+                "first_production_date": null
+            },
+            "group_works": [],
+            "group_siblings": [
+                {
+                    "id": 100749,
+                    "acmi_id": "180552",
+                    "title": "Cleverman hair test photos",
+                    "title_annotation": "Facsimile",
+                    "slug": "graphic-hair-test-photo",
+                    "creator_credit": "Weta Workshop",
+                    "credit_line": "<p>Courtesy Goalpost Pictures</p>",
+                    "headline_credit": "Australia, 2016",
+                    "thumbnail": {
+                        "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/P180552_G262.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=6r2M0WTbbfoXUUAeudC7yV%2BVXnA%3D&Expires=1627009082",
+                        "has_video": false
+                    },
+                    "record_type": "work",
+                    "type": "Object",
+                    "is_on_display": true,
+                    "last_on_display_place": "ACMI: Gallery 1",
+                    "last_on_display_date": "2023-02-09",
+                    "is_context_indigenous": false,
+                    "material_description": "Graphic",
+                    "unpublished": false,
+                    "first_production_date": "2016-01-01T11:00:00+11:00"
+                },
+                {
+                    "id": 100750,
+                    "acmi_id": "180553",
+                    "title": "Cleverman hair test photos",
+                    "title_annotation": "Facsimile",
+                    "slug": "graphic-hair-test-photo",
+                    "creator_credit": "Weta Workshop",
+                    "credit_line": "<p>Courtesy Goalpost Pictures</p>",
+                    "headline_credit": "Australia, 2016",
+                    "thumbnail": {
+                        "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/P180553_G263.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=lXdPjPJIt1ARxp%2FXoaGH4t4fPnk%3D&Expires=1627009082",
+                        "has_video": false
+                    },
+                    "record_type": "work",
+                    "type": "Object",
+                    "is_on_display": true,
+                    "last_on_display_place": "ACMI: Gallery 1",
+                    "last_on_display_date": "2023-02-09",
+                    "is_context_indigenous": false,
+                    "material_description": "Graphic",
+                    "unpublished": false,
+                    "first_production_date": "2016-01-01T11:00:00+11:00"
+                }
+            ],
+            "source": {
+                "name": "Vernon",
+                "slug": "vernon"
+            },
+            "source_identifier": "180554",
+            "production_places": [
+                {
+                    "id": 3,
+                    "name": "Australia",
+                    "slug": "australia"
+                }
+            ],
+            "production_dates": [
+                {
+                    "date": "2016",
+                    "notes": "",
+                    "to_year": "2016"
+                }
+            ],
+            "labels": [
+                40239
+            ]
+        },
+        {
+            "id": 100750,
+            "acmi_id": "180553",
+            "title": "Cleverman hair test photos",
+            "title_annotation": "Facsimile",
+            "slug": "graphic-hair-test-photo",
+            "creator_credit": "Weta Workshop",
+            "credit_line": "<p>Courtesy Goalpost Pictures</p>",
+            "headline_credit": "Australia, 2016",
+            "thumbnail": {
+                "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/P180553_G263.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=lXdPjPJIt1ARxp%2FXoaGH4t4fPnk%3D&Expires=1627009082",
+                "has_video": false
+            },
+            "record_type": "work",
+            "type": "Object",
+            "is_on_display": true,
+            "last_on_display_place": "ACMI: Gallery 1",
+            "last_on_display_date": "2023-02-09",
+            "is_context_indigenous": false,
+            "material_description": "Graphic",
+            "unpublished": false,
+            "first_production_date": "2016-01-01T11:00:00+11:00",
+            "brief_description": "",
+            "constellations_primary": [],
+            "constellations_other": [],
+            "recommendations": [],
+            "title_for_label": "<p>Hair tests</p>",
+            "creator_credit_for_label": "<p>Weta Workshop</p>",
+            "headline_credit_for_label": "<p>Australia, 2016</p>",
+            "description": "",
+            "description_for_label": [],
+            "credit_line_for_label": "<p>Courtesy Goalpost Pictures</p>",
+            "details": [
+                {
+                    "label": "Curatorial section",
+                    "display_values": [
+                        "The Story of the Moving Image&nbsp;→ Moving Worlds&nbsp;→ 05. Character Design&nbsp;→ MW-05-C01&nbsp;→ MW-05-C01.02"
+                    ]
+                },
+                {
+                    "label": "Measurements",
+                    "display_values": [
+                        "105 x 148mm"
+                    ]
+                },
+                {
+                    "label": "Materials",
+                    "display_values": [
+                        "Graphic"
+                    ]
+                }
+            ],
+            "stats": {
+                "tap_count": 0
+            },
+            "links": [],
+            "creators_primary": [
+                {
+                    "id": 1134549,
+                    "name": "Weta Workshop",
+                    "creator_id": 72937,
+                    "role": "artist",
+                    "role_id": 505,
+                    "is_primary": true
+                }
+            ],
+            "creators_other": [],
+            "video_links": [],
+            "media_note": null,
+            "images": [
+                {
+                    "id": 12435,
+                    "image_file": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/P180553_G263.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=MxQvnSD33h055rBAMqV9VWDoUhY%3D&Expires=1627009082",
+                    "image_file_thumbnail": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/P180553_G263.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=lXdPjPJIt1ARxp%2FXoaGH4t4fPnk%3D&Expires=1627009082",
+                    "image_file_xs": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/P180553_G263.jpg.480x480_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=xyazBK7raQoydCEB%2FmOKof8i5Mk%3D&Expires=1627009082",
+                    "image_file_s": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/P180553_G263.jpg.960x960_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=rZtzw8TG31BYNwex5P%2BpEI4EpeI%3D&Expires=1627009082",
+                    "image_file_m": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/P180553_G263.jpg.1920x1920_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=ESg6NzLnUSnvLxEuzmeDM8j4zEo%3D&Expires=1627009082",
+                    "image_file_l": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/P180553_G263.jpg.3840x3840_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=EgXeJu4lERKSvxSDv9Uc1UFrydM%3D&Expires=1627009082",
+                    "caption": "",
+                    "credit_line": "",
+                    "alt_text": "",
+                    "width": 3543,
+                    "height": 2362,
+                    "access_level": "View anywhere"
+                }
+            ],
+            "videos": [],
+            "holdings": [],
+            "part_of": null,
+            "parts": [],
+            "part_siblings": [],
+            "group": {
+                "id": 112117,
+                "acmi_id": "183548",
+                "title": "Hair tests",
+                "title_annotation": "",
+                "slug": "hair-tests",
+                "creator_credit": "Weta Workshop",
+                "credit_line": "<p>Courtesy Goalpost Pictures</p>",
+                "headline_credit": "",
+                "thumbnail": {
+                    "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/P180552_G262.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=6r2M0WTbbfoXUUAeudC7yV%2BVXnA%3D&Expires=1627009082",
+                    "has_video": false
+                },
+                "record_type": "group",
+                "type": "Film",
+                "is_on_display": true,
+                "last_on_display_place": "ACMI: Gallery 1",
+                "last_on_display_date": "2023-02-09",
+                "is_context_indigenous": false,
+                "material_description": "",
+                "unpublished": false,
+                "first_production_date": null
+            },
+            "group_works": [],
+            "group_siblings": [
+                {
+                    "id": 100749,
+                    "acmi_id": "180552",
+                    "title": "Cleverman hair test photos",
+                    "title_annotation": "Facsimile",
+                    "slug": "graphic-hair-test-photo",
+                    "creator_credit": "Weta Workshop",
+                    "credit_line": "<p>Courtesy Goalpost Pictures</p>",
+                    "headline_credit": "Australia, 2016",
+                    "thumbnail": {
+                        "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/P180552_G262.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=6r2M0WTbbfoXUUAeudC7yV%2BVXnA%3D&Expires=1627009082",
+                        "has_video": false
+                    },
+                    "record_type": "work",
+                    "type": "Object",
+                    "is_on_display": true,
+                    "last_on_display_place": "ACMI: Gallery 1",
+                    "last_on_display_date": "2023-02-09",
+                    "is_context_indigenous": false,
+                    "material_description": "Graphic",
+                    "unpublished": false,
+                    "first_production_date": "2016-01-01T11:00:00+11:00"
+                },
+                {
+                    "id": 100751,
+                    "acmi_id": "180554",
+                    "title": "Cleverman hair test photos",
+                    "title_annotation": "Facsimile",
+                    "slug": "graphic-hair-test-photo",
+                    "creator_credit": "Weta Workshop",
+                    "credit_line": "<p>Courtesy Goalpost Pictures</p>",
+                    "headline_credit": "Australia, 2016",
+                    "thumbnail": {
+                        "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/P180554_G264.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=RUsHJ%2FwuL0yxeMJFKXMaq4LncaQ%3D&Expires=1627009082",
+                        "has_video": false
+                    },
+                    "record_type": "work",
+                    "type": "Object",
+                    "is_on_display": true,
+                    "last_on_display_place": "ACMI: Gallery 1",
+                    "last_on_display_date": "2023-02-09",
+                    "is_context_indigenous": false,
+                    "material_description": "Graphic",
+                    "unpublished": false,
+                    "first_production_date": "2016-01-01T11:00:00+11:00"
+                }
+            ],
+            "source": {
+                "name": "Vernon",
+                "slug": "vernon"
+            },
+            "source_identifier": "180553",
+            "production_places": [
+                {
+                    "id": 3,
+                    "name": "Australia",
+                    "slug": "australia"
+                }
+            ],
+            "production_dates": [
+                {
+                    "date": "2016",
+                    "notes": "",
+                    "to_year": "2016"
+                }
+            ],
+            "labels": [
+                40238
+            ]
+        },
+        {
+            "id": 100749,
+            "acmi_id": "180552",
+            "title": "Cleverman hair test photos",
+            "title_annotation": "Facsimile",
+            "slug": "graphic-hair-test-photo",
+            "creator_credit": "Weta Workshop",
+            "credit_line": "<p>Courtesy Goalpost Pictures</p>",
+            "headline_credit": "Australia, 2016",
+            "thumbnail": {
+                "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/P180552_G262.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=6r2M0WTbbfoXUUAeudC7yV%2BVXnA%3D&Expires=1627009082",
+                "has_video": false
+            },
+            "record_type": "work",
+            "type": "Object",
+            "is_on_display": true,
+            "last_on_display_place": "ACMI: Gallery 1",
+            "last_on_display_date": "2023-02-09",
+            "is_context_indigenous": false,
+            "material_description": "Graphic",
+            "unpublished": false,
+            "first_production_date": "2016-01-01T11:00:00+11:00",
+            "brief_description": "",
+            "constellations_primary": [],
+            "constellations_other": [],
+            "recommendations": [],
+            "title_for_label": "<p>Hair tests</p>",
+            "creator_credit_for_label": "<p>Weta Workshop</p>",
+            "headline_credit_for_label": "<p>Australia, 2016</p>",
+            "description": "",
+            "description_for_label": [],
+            "credit_line_for_label": "<p>Courtesy Goalpost Pictures</p>",
+            "details": [
+                {
+                    "label": "Curatorial section",
+                    "display_values": [
+                        "The Story of the Moving Image&nbsp;→ Moving Worlds&nbsp;→ 05. Character Design&nbsp;→ MW-05-C01&nbsp;→ MW-05-C01.02"
+                    ]
+                },
+                {
+                    "label": "Measurements",
+                    "display_values": [
+                        "148 x 210mm"
+                    ]
+                },
+                {
+                    "label": "Materials",
+                    "display_values": [
+                        "Graphic"
+                    ]
+                }
+            ],
+            "stats": {
+                "tap_count": 0
+            },
+            "links": [],
+            "creators_primary": [
+                {
+                    "id": 1134548,
+                    "name": "Weta Workshop",
+                    "creator_id": 72937,
+                    "role": "artist",
+                    "role_id": 505,
+                    "is_primary": true
+                }
+            ],
+            "creators_other": [],
+            "video_links": [],
+            "media_note": null,
+            "images": [
+                {
+                    "id": 12434,
+                    "image_file": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/P180552_G262.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=fVScEpRF%2FDMQoHKBJLUqFO9xgwg%3D&Expires=1627009082",
+                    "image_file_thumbnail": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/P180552_G262.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=6r2M0WTbbfoXUUAeudC7yV%2BVXnA%3D&Expires=1627009082",
+                    "image_file_xs": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/P180552_G262.jpg.480x480_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=TYuZ4PO9nPoMmjdC7JwS8hEbVyQ%3D&Expires=1627009082",
+                    "image_file_s": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/P180552_G262.jpg.960x960_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=CfuMsXEWMYJKcpamgtaFYsLzySE%3D&Expires=1627009082",
+                    "image_file_m": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/P180552_G262.jpg.1920x1920_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=neMGAojGvP6xaBdAJIcLrE6WZ2o%3D&Expires=1627009082",
+                    "image_file_l": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/P180552_G262.jpg.3840x3840_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=ANXgq8mwSTXLKQQ9PLoTpJP7ZZE%3D&Expires=1627009082",
+                    "caption": "",
+                    "credit_line": "",
+                    "alt_text": "",
+                    "width": 3543,
+                    "height": 2362,
+                    "access_level": "View anywhere"
+                }
+            ],
+            "videos": [],
+            "holdings": [],
+            "part_of": null,
+            "parts": [],
+            "part_siblings": [],
+            "group": {
+                "id": 112117,
+                "acmi_id": "183548",
+                "title": "Hair tests",
+                "title_annotation": "",
+                "slug": "hair-tests",
+                "creator_credit": "Weta Workshop",
+                "credit_line": "<p>Courtesy Goalpost Pictures</p>",
+                "headline_credit": "",
+                "thumbnail": {
+                    "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/P180552_G262.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=6r2M0WTbbfoXUUAeudC7yV%2BVXnA%3D&Expires=1627009082",
+                    "has_video": false
+                },
+                "record_type": "group",
+                "type": "Film",
+                "is_on_display": true,
+                "last_on_display_place": "ACMI: Gallery 1",
+                "last_on_display_date": "2023-02-09",
+                "is_context_indigenous": false,
+                "material_description": "",
+                "unpublished": false,
+                "first_production_date": null
+            },
+            "group_works": [],
+            "group_siblings": [
+                {
+                    "id": 100751,
+                    "acmi_id": "180554",
+                    "title": "Cleverman hair test photos",
+                    "title_annotation": "Facsimile",
+                    "slug": "graphic-hair-test-photo",
+                    "creator_credit": "Weta Workshop",
+                    "credit_line": "<p>Courtesy Goalpost Pictures</p>",
+                    "headline_credit": "Australia, 2016",
+                    "thumbnail": {
+                        "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/P180554_G264.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=RUsHJ%2FwuL0yxeMJFKXMaq4LncaQ%3D&Expires=1627009082",
+                        "has_video": false
+                    },
+                    "record_type": "work",
+                    "type": "Object",
+                    "is_on_display": true,
+                    "last_on_display_place": "ACMI: Gallery 1",
+                    "last_on_display_date": "2023-02-09",
+                    "is_context_indigenous": false,
+                    "material_description": "Graphic",
+                    "unpublished": false,
+                    "first_production_date": "2016-01-01T11:00:00+11:00"
+                },
+                {
+                    "id": 100750,
+                    "acmi_id": "180553",
+                    "title": "Cleverman hair test photos",
+                    "title_annotation": "Facsimile",
+                    "slug": "graphic-hair-test-photo",
+                    "creator_credit": "Weta Workshop",
+                    "credit_line": "<p>Courtesy Goalpost Pictures</p>",
+                    "headline_credit": "Australia, 2016",
+                    "thumbnail": {
+                        "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/P180553_G263.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=lXdPjPJIt1ARxp%2FXoaGH4t4fPnk%3D&Expires=1627009082",
+                        "has_video": false
+                    },
+                    "record_type": "work",
+                    "type": "Object",
+                    "is_on_display": true,
+                    "last_on_display_place": "ACMI: Gallery 1",
+                    "last_on_display_date": "2023-02-09",
+                    "is_context_indigenous": false,
+                    "material_description": "Graphic",
+                    "unpublished": false,
+                    "first_production_date": "2016-01-01T11:00:00+11:00"
+                }
+            ],
+            "source": {
+                "name": "Vernon",
+                "slug": "vernon"
+            },
+            "source_identifier": "180552",
+            "production_places": [
+                {
+                    "id": 3,
+                    "name": "Australia",
+                    "slug": "australia"
+                }
+            ],
+            "production_dates": [
+                {
+                    "date": "2016",
+                    "notes": "",
+                    "to_year": "2016"
+                }
+            ],
+            "labels": [
+                40237
+            ]
+        },
+        {
+            "id": 100748,
+            "acmi_id": "180551",
+            "title": "Cleverman hair test photo (Tony Briggs) with feedback from Jacob Nash",
+            "title_annotation": "Facsimile",
+            "slug": "graphic-hair-test-photo-tony-briggs-with-feedback",
+            "creator_credit": "Weta Workshop",
+            "credit_line": "<p>Courtesy Goalpost Pictures</p>",
+            "headline_credit": "Australia, 2016",
+            "thumbnail": {
+                "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/P180551_G261.tiff.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=8FntMywPxBG%2Fap0IbZyzL4x6YjY%3D&Expires=1627009082",
+                "has_video": false
+            },
+            "record_type": "work",
+            "type": "Object",
+            "is_on_display": true,
+            "last_on_display_place": "ACMI: Gallery 1",
+            "last_on_display_date": "2023-02-09",
+            "is_context_indigenous": false,
+            "material_description": "Graphic",
+            "unpublished": false,
+            "first_production_date": "2016-01-01T11:00:00+11:00",
+            "brief_description": "",
+            "constellations_primary": [],
+            "constellations_other": [],
+            "recommendations": [],
+            "title_for_label": "<p>Character concept art with feedback from Jacob Nash</p>",
+            "creator_credit_for_label": "<p>Weta Workshop</p>",
+            "headline_credit_for_label": "<p>Australia, 2016</p>",
+            "description": "",
+            "description_for_label": [],
+            "credit_line_for_label": "<p>Courtesy Goalpost Pictures</p>",
+            "details": [
+                {
+                    "label": "Curatorial section",
+                    "display_values": [
+                        "The Story of the Moving Image&nbsp;→ Moving Worlds&nbsp;→ 05. Character Design&nbsp;→ MW-05-C01&nbsp;→ MW-05-C01.01"
+                    ]
+                },
+                {
+                    "label": "Measurements",
+                    "display_values": [
+                        "203 x 310mm"
+                    ]
+                },
+                {
+                    "label": "Materials",
+                    "display_values": [
+                        "Graphic"
+                    ]
+                }
+            ],
+            "stats": {
+                "tap_count": 0
+            },
+            "links": [],
+            "creators_primary": [
+                {
+                    "id": 1134547,
+                    "name": "Weta Workshop",
+                    "creator_id": 72937,
+                    "role": "artist",
+                    "role_id": 505,
+                    "is_primary": true
+                }
+            ],
+            "creators_other": [],
+            "video_links": [],
+            "media_note": null,
+            "images": [
+                {
+                    "id": 12433,
+                    "image_file": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/P180551_G261.tiff?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=av72f1WYTabFQ6KwdRoYgpQGnOM%3D&Expires=1627009082",
+                    "image_file_thumbnail": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/P180551_G261.tiff.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=8FntMywPxBG%2Fap0IbZyzL4x6YjY%3D&Expires=1627009082",
+                    "image_file_xs": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/P180551_G261.tiff.480x480_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=b4y6UWwL0fDihI%2FulGX24JpV1v0%3D&Expires=1627009082",
+                    "image_file_s": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/P180551_G261.tiff.960x960_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=eupI2dPAEX8HACxFnn6l6h41%2BqA%3D&Expires=1627009082",
+                    "image_file_m": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/P180551_G261.tiff.1920x1920_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=llQVotJjnK1kex2aR8fp9ylIOQg%3D&Expires=1627009082",
+                    "image_file_l": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/P180551_G261.tiff.3840x3840_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=3u1Yswo%2BKMQdWLbzlf5rirEmswg%3D&Expires=1627009082",
+                    "caption": "",
+                    "credit_line": "",
+                    "alt_text": "",
+                    "width": 1123,
+                    "height": 794,
+                    "access_level": "View anywhere"
+                }
+            ],
+            "videos": [],
+            "holdings": [],
+            "part_of": null,
+            "parts": [],
+            "part_siblings": [],
+            "group": {
+                "id": 112116,
+                "acmi_id": "183545",
+                "title": "Character concept art with feedback from Jacob Nash",
+                "title_annotation": "",
+                "slug": "character-concept-art-with-feedback-from-jacob-nash",
+                "creator_credit": "Weta Workshop",
+                "credit_line": "<p>Courtesy Goalpost Pictures</p>",
+                "headline_credit": "",
+                "thumbnail": {
+                    "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/P180546_G256.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=QPrmtX%2Bqm1BRPJfUYifs5vhBgE0%3D&Expires=1627009082",
+                    "has_video": false
+                },
+                "record_type": "group",
+                "type": "Film",
+                "is_on_display": true,
+                "last_on_display_place": "ACMI: Gallery 1",
+                "last_on_display_date": "2023-02-09",
+                "is_context_indigenous": false,
+                "material_description": "",
+                "unpublished": false,
+                "first_production_date": null
+            },
+            "group_works": [],
+            "group_siblings": [
+                {
+                    "id": 100743,
+                    "acmi_id": "180546",
+                    "title": "Cleverman character concept art of heads and busts",
+                    "title_annotation": "Facsimile",
+                    "slug": "graphic-jake-nash-feedback",
+                    "creator_credit": "Weta Workshop",
+                    "credit_line": "<p>Courtesy Goalpost Pictures</p>",
+                    "headline_credit": "Australia, 2016",
+                    "thumbnail": {
+                        "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/P180546_G256.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=QPrmtX%2Bqm1BRPJfUYifs5vhBgE0%3D&Expires=1627009082",
+                        "has_video": false
+                    },
+                    "record_type": "work",
+                    "type": "Object",
+                    "is_on_display": true,
+                    "last_on_display_place": "ACMI: Gallery 1",
+                    "last_on_display_date": "2023-02-09",
+                    "is_context_indigenous": false,
+                    "material_description": "Graphic",
+                    "unpublished": false,
+                    "first_production_date": "2016-01-01T11:00:00+11:00"
+                },
+                {
+                    "id": 100742,
+                    "acmi_id": "180545",
+                    "title": "Cleverman concept art",
+                    "title_annotation": "Facsimile",
+                    "slug": "graphic-response-1st-pass-p2",
+                    "creator_credit": "Weta Workshop",
+                    "credit_line": "<p>Courtesy Goalpost Pictures</p>",
+                    "headline_credit": "Australia, 2016",
+                    "thumbnail": null,
+                    "record_type": "work",
+                    "type": "Object",
+                    "is_on_display": true,
+                    "last_on_display_place": "ACMI: Gallery 1",
+                    "last_on_display_date": "2023-02-09",
+                    "is_context_indigenous": false,
+                    "material_description": "Graphic",
+                    "unpublished": false,
+                    "first_production_date": "2016-01-01T11:00:00+11:00"
+                },
+                {
+                    "id": 100746,
+                    "acmi_id": "180549",
+                    "title": "Cleverman concept art with feedback from Jacob Nash",
+                    "title_annotation": "Facsimile",
+                    "slug": "graphic-jake-nash-feedback",
+                    "creator_credit": "Weta Workshop",
+                    "credit_line": "<p>Courtesy Goalpost Pictures</p>",
+                    "headline_credit": "Australia, 2016",
+                    "thumbnail": {
+                        "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/P180549_G259.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=xc%2FmTHQ3R3NesqY%2FlJLYYDQZ8Ok%3D&Expires=1627009082",
+                        "has_video": false
+                    },
+                    "record_type": "work",
+                    "type": "Object",
+                    "is_on_display": true,
+                    "last_on_display_place": "ACMI: Gallery 1",
+                    "last_on_display_date": "2023-02-09",
+                    "is_context_indigenous": false,
+                    "material_description": "Graphic",
+                    "unpublished": false,
+                    "first_production_date": "2016-01-01T11:00:00+11:00"
+                },
+                {
+                    "id": 100744,
+                    "acmi_id": "180547",
+                    "title": "Cleverman concept art with feedback from Jacob Nash",
+                    "title_annotation": "Facsimile",
+                    "slug": "graphic-jake-nash-feedback",
+                    "creator_credit": "Weta Workshop",
+                    "credit_line": "<p>Courtesy Goalpost Pictures</p>",
+                    "headline_credit": "Australia, 2016",
+                    "thumbnail": {
+                        "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/P180547_G257.png.1200x1200_q85.png?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=IrOJxRlGs4kZYDp%2BB3FA1%2B%2BGeBI%3D&Expires=1627009082",
+                        "has_video": false
+                    },
+                    "record_type": "work",
+                    "type": "Object",
+                    "is_on_display": true,
+                    "last_on_display_place": "ACMI: Gallery 1",
+                    "last_on_display_date": "2023-02-09",
+                    "is_context_indigenous": false,
+                    "material_description": "Graphic",
+                    "unpublished": false,
+                    "first_production_date": "2016-01-01T11:00:00+11:00"
+                },
+                {
+                    "id": 100745,
+                    "acmi_id": "180548",
+                    "title": "Cleverman concept art with feedback from Jacob Nash",
+                    "title_annotation": "Facsimile",
+                    "slug": "graphic-jake-nash-feedback",
+                    "creator_credit": "Weta Workshop",
+                    "credit_line": "<p>Courtesy Goalpost Pictures</p>",
+                    "headline_credit": "Australia, 2016",
+                    "thumbnail": {
+                        "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/P180548_G258.png.1200x1200_q85.png?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=rIw8x%2BsWxC3TyD4SLfICMXbehF0%3D&Expires=1627009082",
+                        "has_video": false
+                    },
+                    "record_type": "work",
+                    "type": "Object",
+                    "is_on_display": true,
+                    "last_on_display_place": "ACMI: Gallery 1",
+                    "last_on_display_date": "2023-02-09",
+                    "is_context_indigenous": false,
+                    "material_description": "Graphic",
+                    "unpublished": false,
+                    "first_production_date": "2016-01-01T11:00:00+11:00"
+                },
+                {
+                    "id": 100747,
+                    "acmi_id": "180550",
+                    "title": "Cleverman concept art with feedback from Jacob Nash",
+                    "title_annotation": "Facsimile",
+                    "slug": "graphic-hairy-design-progression-pdf-p1625",
+                    "creator_credit": "Weta Workshop",
+                    "credit_line": "<p>Courtesy Goalpost Pictures</p>",
+                    "headline_credit": "Australia, 2016",
+                    "thumbnail": {
+                        "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/P180550_G260.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=2lGbBz5tfFrSF56hWI7CTCi%2BtuI%3D&Expires=1627009082",
+                        "has_video": false
+                    },
+                    "record_type": "work",
+                    "type": "Object",
+                    "is_on_display": true,
+                    "last_on_display_place": "ACMI: Gallery 1",
+                    "last_on_display_date": "2023-02-09",
+                    "is_context_indigenous": false,
+                    "material_description": "Graphic",
+                    "unpublished": false,
+                    "first_production_date": "2016-01-01T11:00:00+11:00"
+                },
+                {
+                    "id": 100741,
+                    "acmi_id": "180544",
+                    "title": "Cleverman Hairy concept art",
+                    "title_annotation": "Facsimile",
+                    "slug": "graphic-hairy-concept-art",
+                    "creator_credit": "Weta Workshop",
+                    "credit_line": "<p>Courtesy Goalpost Pictures</p>",
+                    "headline_credit": "Australia, 2016",
+                    "thumbnail": {
+                        "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/P180544_G254.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=burgoIHTOOnEGMoZTqKCXXB1fho%3D&Expires=1627009082",
+                        "has_video": false
+                    },
+                    "record_type": "work",
+                    "type": "Object",
+                    "is_on_display": true,
+                    "last_on_display_place": "ACMI: Gallery 1",
+                    "last_on_display_date": "2023-02-09",
+                    "is_context_indigenous": false,
+                    "material_description": "Graphic",
+                    "unpublished": false,
+                    "first_production_date": "2016-01-01T11:00:00+11:00"
+                }
+            ],
+            "source": {
+                "name": "Vernon",
+                "slug": "vernon"
+            },
+            "source_identifier": "180551",
+            "production_places": [
+                {
+                    "id": 3,
+                    "name": "Australia",
+                    "slug": "australia"
+                }
+            ],
+            "production_dates": [
+                {
+                    "date": "2016",
+                    "notes": "",
+                    "to_year": "2016"
+                }
+            ],
+            "labels": [
+                40236
+            ]
+        },
+        {
+            "id": 100747,
+            "acmi_id": "180550",
+            "title": "Cleverman concept art with feedback from Jacob Nash",
+            "title_annotation": "Facsimile",
+            "slug": "graphic-hairy-design-progression-pdf-p1625",
+            "creator_credit": "Weta Workshop",
+            "credit_line": "<p>Courtesy Goalpost Pictures</p>",
+            "headline_credit": "Australia, 2016",
+            "thumbnail": {
+                "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/P180550_G260.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=2lGbBz5tfFrSF56hWI7CTCi%2BtuI%3D&Expires=1627009082",
+                "has_video": false
+            },
+            "record_type": "work",
+            "type": "Object",
+            "is_on_display": true,
+            "last_on_display_place": "ACMI: Gallery 1",
+            "last_on_display_date": "2023-02-09",
+            "is_context_indigenous": false,
+            "material_description": "Graphic",
+            "unpublished": false,
+            "first_production_date": "2016-01-01T11:00:00+11:00",
+            "brief_description": "",
+            "constellations_primary": [],
+            "constellations_other": [],
+            "recommendations": [],
+            "title_for_label": "<p>Character concept art with feedback from Jacob Nash</p>",
+            "creator_credit_for_label": "<p>Weta Workshop</p>",
+            "headline_credit_for_label": "<p>Australia, 2016</p>",
+            "description": "",
+            "description_for_label": [],
+            "credit_line_for_label": "<p>Courtesy Goalpost Pictures</p>",
+            "details": [
+                {
+                    "label": "Curatorial section",
+                    "display_values": [
+                        "The Story of the Moving Image&nbsp;→ Moving Worlds&nbsp;→ 05. Character Design&nbsp;→ MW-05-C01&nbsp;→ MW-05-C01.01"
+                    ]
+                },
+                {
+                    "label": "Measurements",
+                    "display_values": [
+                        "203 x 310mm"
+                    ]
+                },
+                {
+                    "label": "Materials",
+                    "display_values": [
+                        "Graphic"
+                    ]
+                }
+            ],
+            "stats": {
+                "tap_count": 0
+            },
+            "links": [],
+            "creators_primary": [
+                {
+                    "id": 1134546,
+                    "name": "Weta Workshop",
+                    "creator_id": 72937,
+                    "role": "artist",
+                    "role_id": 505,
+                    "is_primary": true
+                }
+            ],
+            "creators_other": [],
+            "video_links": [],
+            "media_note": null,
+            "images": [
+                {
+                    "id": 12432,
+                    "image_file": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/P180550_G260.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=Yrkr76xWpaa%2BdIU8f%2BIL8SluKZc%3D&Expires=1627009082",
+                    "image_file_thumbnail": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/P180550_G260.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=2lGbBz5tfFrSF56hWI7CTCi%2BtuI%3D&Expires=1627009082",
+                    "image_file_xs": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/P180550_G260.jpg.480x480_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=MZSsOOII0VEZydeY4YgFp5oPSE4%3D&Expires=1627009082",
+                    "image_file_s": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/P180550_G260.jpg.960x960_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=QU3cqlCrpx%2B9KBJG7nfrJwWPOco%3D&Expires=1627009082",
+                    "image_file_m": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/P180550_G260.jpg.1920x1920_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=3tK43L1QI6F0BNRpDUNR2ki9ia0%3D&Expires=1627009082",
+                    "image_file_l": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/P180550_G260.jpg.3840x3840_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=JAX1zX59RarQ3D9hwD21WYoxncI%3D&Expires=1627009082",
+                    "caption": "",
+                    "credit_line": "",
+                    "alt_text": "",
+                    "width": 3508,
+                    "height": 2480,
+                    "access_level": "View anywhere"
+                }
+            ],
+            "videos": [],
+            "holdings": [],
+            "part_of": null,
+            "parts": [],
+            "part_siblings": [],
+            "group": {
+                "id": 112116,
+                "acmi_id": "183545",
+                "title": "Character concept art with feedback from Jacob Nash",
+                "title_annotation": "",
+                "slug": "character-concept-art-with-feedback-from-jacob-nash",
+                "creator_credit": "Weta Workshop",
+                "credit_line": "<p>Courtesy Goalpost Pictures</p>",
+                "headline_credit": "",
+                "thumbnail": {
+                    "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/P180546_G256.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=QPrmtX%2Bqm1BRPJfUYifs5vhBgE0%3D&Expires=1627009082",
+                    "has_video": false
+                },
+                "record_type": "group",
+                "type": "Film",
+                "is_on_display": true,
+                "last_on_display_place": "ACMI: Gallery 1",
+                "last_on_display_date": "2023-02-09",
+                "is_context_indigenous": false,
+                "material_description": "",
+                "unpublished": false,
+                "first_production_date": null
+            },
+            "group_works": [],
+            "group_siblings": [
+                {
+                    "id": 100743,
+                    "acmi_id": "180546",
+                    "title": "Cleverman character concept art of heads and busts",
+                    "title_annotation": "Facsimile",
+                    "slug": "graphic-jake-nash-feedback",
+                    "creator_credit": "Weta Workshop",
+                    "credit_line": "<p>Courtesy Goalpost Pictures</p>",
+                    "headline_credit": "Australia, 2016",
+                    "thumbnail": {
+                        "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/P180546_G256.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=QPrmtX%2Bqm1BRPJfUYifs5vhBgE0%3D&Expires=1627009082",
+                        "has_video": false
+                    },
+                    "record_type": "work",
+                    "type": "Object",
+                    "is_on_display": true,
+                    "last_on_display_place": "ACMI: Gallery 1",
+                    "last_on_display_date": "2023-02-09",
+                    "is_context_indigenous": false,
+                    "material_description": "Graphic",
+                    "unpublished": false,
+                    "first_production_date": "2016-01-01T11:00:00+11:00"
+                },
+                {
+                    "id": 100742,
+                    "acmi_id": "180545",
+                    "title": "Cleverman concept art",
+                    "title_annotation": "Facsimile",
+                    "slug": "graphic-response-1st-pass-p2",
+                    "creator_credit": "Weta Workshop",
+                    "credit_line": "<p>Courtesy Goalpost Pictures</p>",
+                    "headline_credit": "Australia, 2016",
+                    "thumbnail": null,
+                    "record_type": "work",
+                    "type": "Object",
+                    "is_on_display": true,
+                    "last_on_display_place": "ACMI: Gallery 1",
+                    "last_on_display_date": "2023-02-09",
+                    "is_context_indigenous": false,
+                    "material_description": "Graphic",
+                    "unpublished": false,
+                    "first_production_date": "2016-01-01T11:00:00+11:00"
+                },
+                {
+                    "id": 100746,
+                    "acmi_id": "180549",
+                    "title": "Cleverman concept art with feedback from Jacob Nash",
+                    "title_annotation": "Facsimile",
+                    "slug": "graphic-jake-nash-feedback",
+                    "creator_credit": "Weta Workshop",
+                    "credit_line": "<p>Courtesy Goalpost Pictures</p>",
+                    "headline_credit": "Australia, 2016",
+                    "thumbnail": {
+                        "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/P180549_G259.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=xc%2FmTHQ3R3NesqY%2FlJLYYDQZ8Ok%3D&Expires=1627009082",
+                        "has_video": false
+                    },
+                    "record_type": "work",
+                    "type": "Object",
+                    "is_on_display": true,
+                    "last_on_display_place": "ACMI: Gallery 1",
+                    "last_on_display_date": "2023-02-09",
+                    "is_context_indigenous": false,
+                    "material_description": "Graphic",
+                    "unpublished": false,
+                    "first_production_date": "2016-01-01T11:00:00+11:00"
+                },
+                {
+                    "id": 100744,
+                    "acmi_id": "180547",
+                    "title": "Cleverman concept art with feedback from Jacob Nash",
+                    "title_annotation": "Facsimile",
+                    "slug": "graphic-jake-nash-feedback",
+                    "creator_credit": "Weta Workshop",
+                    "credit_line": "<p>Courtesy Goalpost Pictures</p>",
+                    "headline_credit": "Australia, 2016",
+                    "thumbnail": {
+                        "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/P180547_G257.png.1200x1200_q85.png?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=IrOJxRlGs4kZYDp%2BB3FA1%2B%2BGeBI%3D&Expires=1627009082",
+                        "has_video": false
+                    },
+                    "record_type": "work",
+                    "type": "Object",
+                    "is_on_display": true,
+                    "last_on_display_place": "ACMI: Gallery 1",
+                    "last_on_display_date": "2023-02-09",
+                    "is_context_indigenous": false,
+                    "material_description": "Graphic",
+                    "unpublished": false,
+                    "first_production_date": "2016-01-01T11:00:00+11:00"
+                },
+                {
+                    "id": 100745,
+                    "acmi_id": "180548",
+                    "title": "Cleverman concept art with feedback from Jacob Nash",
+                    "title_annotation": "Facsimile",
+                    "slug": "graphic-jake-nash-feedback",
+                    "creator_credit": "Weta Workshop",
+                    "credit_line": "<p>Courtesy Goalpost Pictures</p>",
+                    "headline_credit": "Australia, 2016",
+                    "thumbnail": {
+                        "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/P180548_G258.png.1200x1200_q85.png?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=rIw8x%2BsWxC3TyD4SLfICMXbehF0%3D&Expires=1627009082",
+                        "has_video": false
+                    },
+                    "record_type": "work",
+                    "type": "Object",
+                    "is_on_display": true,
+                    "last_on_display_place": "ACMI: Gallery 1",
+                    "last_on_display_date": "2023-02-09",
+                    "is_context_indigenous": false,
+                    "material_description": "Graphic",
+                    "unpublished": false,
+                    "first_production_date": "2016-01-01T11:00:00+11:00"
+                },
+                {
+                    "id": 100748,
+                    "acmi_id": "180551",
+                    "title": "Cleverman hair test photo (Tony Briggs) with feedback from Jacob Nash",
+                    "title_annotation": "Facsimile",
+                    "slug": "graphic-hair-test-photo-tony-briggs-with-feedback",
+                    "creator_credit": "Weta Workshop",
+                    "credit_line": "<p>Courtesy Goalpost Pictures</p>",
+                    "headline_credit": "Australia, 2016",
+                    "thumbnail": {
+                        "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/P180551_G261.tiff.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=8FntMywPxBG%2Fap0IbZyzL4x6YjY%3D&Expires=1627009082",
+                        "has_video": false
+                    },
+                    "record_type": "work",
+                    "type": "Object",
+                    "is_on_display": true,
+                    "last_on_display_place": "ACMI: Gallery 1",
+                    "last_on_display_date": "2023-02-09",
+                    "is_context_indigenous": false,
+                    "material_description": "Graphic",
+                    "unpublished": false,
+                    "first_production_date": "2016-01-01T11:00:00+11:00"
+                },
+                {
+                    "id": 100741,
+                    "acmi_id": "180544",
+                    "title": "Cleverman Hairy concept art",
+                    "title_annotation": "Facsimile",
+                    "slug": "graphic-hairy-concept-art",
+                    "creator_credit": "Weta Workshop",
+                    "credit_line": "<p>Courtesy Goalpost Pictures</p>",
+                    "headline_credit": "Australia, 2016",
+                    "thumbnail": {
+                        "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/P180544_G254.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=burgoIHTOOnEGMoZTqKCXXB1fho%3D&Expires=1627009082",
+                        "has_video": false
+                    },
+                    "record_type": "work",
+                    "type": "Object",
+                    "is_on_display": true,
+                    "last_on_display_place": "ACMI: Gallery 1",
+                    "last_on_display_date": "2023-02-09",
+                    "is_context_indigenous": false,
+                    "material_description": "Graphic",
+                    "unpublished": false,
+                    "first_production_date": "2016-01-01T11:00:00+11:00"
+                }
+            ],
+            "source": {
+                "name": "Vernon",
+                "slug": "vernon"
+            },
+            "source_identifier": "180550",
+            "production_places": [
+                {
+                    "id": 3,
+                    "name": "Australia",
+                    "slug": "australia"
+                }
+            ],
+            "production_dates": [
+                {
+                    "date": "2016",
+                    "notes": "",
+                    "to_year": "2016"
+                }
+            ],
+            "labels": [
+                40235
+            ]
+        },
+        {
+            "id": 100746,
+            "acmi_id": "180549",
+            "title": "Cleverman concept art with feedback from Jacob Nash",
+            "title_annotation": "Facsimile",
+            "slug": "graphic-jake-nash-feedback",
+            "creator_credit": "Weta Workshop",
+            "credit_line": "<p>Courtesy Goalpost Pictures</p>",
+            "headline_credit": "Australia, 2016",
+            "thumbnail": {
+                "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/P180549_G259.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=xc%2FmTHQ3R3NesqY%2FlJLYYDQZ8Ok%3D&Expires=1627009082",
+                "has_video": false
+            },
+            "record_type": "work",
+            "type": "Object",
+            "is_on_display": true,
+            "last_on_display_place": "ACMI: Gallery 1",
+            "last_on_display_date": "2023-02-09",
+            "is_context_indigenous": false,
+            "material_description": "Graphic",
+            "unpublished": false,
+            "first_production_date": "2016-01-01T11:00:00+11:00",
+            "brief_description": "",
+            "constellations_primary": [],
+            "constellations_other": [],
+            "recommendations": [],
+            "title_for_label": "<p>Character concept art with feedback from Jacob Nash</p>",
+            "creator_credit_for_label": "<p>Weta Workshop</p>",
+            "headline_credit_for_label": "<p>Australia, 2016</p>",
+            "description": "",
+            "description_for_label": [],
+            "credit_line_for_label": "<p>Courtesy Goalpost Pictures</p>",
+            "details": [
+                {
+                    "label": "Curatorial section",
+                    "display_values": [
+                        "The Story of the Moving Image&nbsp;→ Moving Worlds&nbsp;→ 05. Character Design&nbsp;→ MW-05-C01&nbsp;→ MW-05-C01.01"
+                    ]
+                },
+                {
+                    "label": "Measurements",
+                    "display_values": [
+                        "203 x 310mm"
+                    ]
+                },
+                {
+                    "label": "Materials",
+                    "display_values": [
+                        "Graphic"
+                    ]
+                }
+            ],
+            "stats": {
+                "tap_count": 0
+            },
+            "links": [],
+            "creators_primary": [
+                {
+                    "id": 1134545,
+                    "name": "Weta Workshop",
+                    "creator_id": 72937,
+                    "role": "artist",
+                    "role_id": 505,
+                    "is_primary": true
+                }
+            ],
+            "creators_other": [],
+            "video_links": [],
+            "media_note": null,
+            "images": [
+                {
+                    "id": 12431,
+                    "image_file": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/P180549_G259.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=D4E7Z7wMji1X0b4gdnHWJGchjjg%3D&Expires=1627009083",
+                    "image_file_thumbnail": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/P180549_G259.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=dhafBASfS4vFvbN8hVXE3rA19cc%3D&Expires=1627009083",
+                    "image_file_xs": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/P180549_G259.jpg.480x480_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=TNijYnSKeDrPWDJzeGwTfNYsRCk%3D&Expires=1627009083",
+                    "image_file_s": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/P180549_G259.jpg.960x960_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=8SlwisE08cpgxkAQeUFxMHQM3R8%3D&Expires=1627009083",
+                    "image_file_m": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/P180549_G259.jpg.1920x1920_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=1kmNZn4s7XvWvYt%2FoP%2BK2XZpw9M%3D&Expires=1627009083",
+                    "image_file_l": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/P180549_G259.jpg.3840x3840_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=ICaoEYQ5196IFZGoiwYI6NvYFTU%3D&Expires=1627009083",
+                    "caption": "",
+                    "credit_line": "",
+                    "alt_text": "",
+                    "width": 3508,
+                    "height": 2480,
+                    "access_level": "View anywhere"
+                }
+            ],
+            "videos": [],
+            "holdings": [],
+            "part_of": null,
+            "parts": [],
+            "part_siblings": [],
+            "group": {
+                "id": 112116,
+                "acmi_id": "183545",
+                "title": "Character concept art with feedback from Jacob Nash",
+                "title_annotation": "",
+                "slug": "character-concept-art-with-feedback-from-jacob-nash",
+                "creator_credit": "Weta Workshop",
+                "credit_line": "<p>Courtesy Goalpost Pictures</p>",
+                "headline_credit": "",
+                "thumbnail": {
+                    "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/P180546_G256.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=KiVgFyQDSvyl5onrAyKTBt%2B5eAE%3D&Expires=1627009083",
+                    "has_video": false
+                },
+                "record_type": "group",
+                "type": "Film",
+                "is_on_display": true,
+                "last_on_display_place": "ACMI: Gallery 1",
+                "last_on_display_date": "2023-02-09",
+                "is_context_indigenous": false,
+                "material_description": "",
+                "unpublished": false,
+                "first_production_date": null
+            },
+            "group_works": [],
+            "group_siblings": [
+                {
+                    "id": 100743,
+                    "acmi_id": "180546",
+                    "title": "Cleverman character concept art of heads and busts",
+                    "title_annotation": "Facsimile",
+                    "slug": "graphic-jake-nash-feedback",
+                    "creator_credit": "Weta Workshop",
+                    "credit_line": "<p>Courtesy Goalpost Pictures</p>",
+                    "headline_credit": "Australia, 2016",
+                    "thumbnail": {
+                        "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/P180546_G256.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=KiVgFyQDSvyl5onrAyKTBt%2B5eAE%3D&Expires=1627009083",
+                        "has_video": false
+                    },
+                    "record_type": "work",
+                    "type": "Object",
+                    "is_on_display": true,
+                    "last_on_display_place": "ACMI: Gallery 1",
+                    "last_on_display_date": "2023-02-09",
+                    "is_context_indigenous": false,
+                    "material_description": "Graphic",
+                    "unpublished": false,
+                    "first_production_date": "2016-01-01T11:00:00+11:00"
+                },
+                {
+                    "id": 100742,
+                    "acmi_id": "180545",
+                    "title": "Cleverman concept art",
+                    "title_annotation": "Facsimile",
+                    "slug": "graphic-response-1st-pass-p2",
+                    "creator_credit": "Weta Workshop",
+                    "credit_line": "<p>Courtesy Goalpost Pictures</p>",
+                    "headline_credit": "Australia, 2016",
+                    "thumbnail": null,
+                    "record_type": "work",
+                    "type": "Object",
+                    "is_on_display": true,
+                    "last_on_display_place": "ACMI: Gallery 1",
+                    "last_on_display_date": "2023-02-09",
+                    "is_context_indigenous": false,
+                    "material_description": "Graphic",
+                    "unpublished": false,
+                    "first_production_date": "2016-01-01T11:00:00+11:00"
+                },
+                {
+                    "id": 100744,
+                    "acmi_id": "180547",
+                    "title": "Cleverman concept art with feedback from Jacob Nash",
+                    "title_annotation": "Facsimile",
+                    "slug": "graphic-jake-nash-feedback",
+                    "creator_credit": "Weta Workshop",
+                    "credit_line": "<p>Courtesy Goalpost Pictures</p>",
+                    "headline_credit": "Australia, 2016",
+                    "thumbnail": {
+                        "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/P180547_G257.png.1200x1200_q85.png?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=0yDc0HfGlnirU2v8NcatWUrx6Xo%3D&Expires=1627009083",
+                        "has_video": false
+                    },
+                    "record_type": "work",
+                    "type": "Object",
+                    "is_on_display": true,
+                    "last_on_display_place": "ACMI: Gallery 1",
+                    "last_on_display_date": "2023-02-09",
+                    "is_context_indigenous": false,
+                    "material_description": "Graphic",
+                    "unpublished": false,
+                    "first_production_date": "2016-01-01T11:00:00+11:00"
+                },
+                {
+                    "id": 100745,
+                    "acmi_id": "180548",
+                    "title": "Cleverman concept art with feedback from Jacob Nash",
+                    "title_annotation": "Facsimile",
+                    "slug": "graphic-jake-nash-feedback",
+                    "creator_credit": "Weta Workshop",
+                    "credit_line": "<p>Courtesy Goalpost Pictures</p>",
+                    "headline_credit": "Australia, 2016",
+                    "thumbnail": {
+                        "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/P180548_G258.png.1200x1200_q85.png?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=4eU3sjbjEyRXpRxAdZb68Tk7JdI%3D&Expires=1627009083",
+                        "has_video": false
+                    },
+                    "record_type": "work",
+                    "type": "Object",
+                    "is_on_display": true,
+                    "last_on_display_place": "ACMI: Gallery 1",
+                    "last_on_display_date": "2023-02-09",
+                    "is_context_indigenous": false,
+                    "material_description": "Graphic",
+                    "unpublished": false,
+                    "first_production_date": "2016-01-01T11:00:00+11:00"
+                },
+                {
+                    "id": 100747,
+                    "acmi_id": "180550",
+                    "title": "Cleverman concept art with feedback from Jacob Nash",
+                    "title_annotation": "Facsimile",
+                    "slug": "graphic-hairy-design-progression-pdf-p1625",
+                    "creator_credit": "Weta Workshop",
+                    "credit_line": "<p>Courtesy Goalpost Pictures</p>",
+                    "headline_credit": "Australia, 2016",
+                    "thumbnail": {
+                        "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/P180550_G260.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=9UUyfKmlgcuTr6rftK%2Fu6LmXKeU%3D&Expires=1627009083",
+                        "has_video": false
+                    },
+                    "record_type": "work",
+                    "type": "Object",
+                    "is_on_display": true,
+                    "last_on_display_place": "ACMI: Gallery 1",
+                    "last_on_display_date": "2023-02-09",
+                    "is_context_indigenous": false,
+                    "material_description": "Graphic",
+                    "unpublished": false,
+                    "first_production_date": "2016-01-01T11:00:00+11:00"
+                },
+                {
+                    "id": 100748,
+                    "acmi_id": "180551",
+                    "title": "Cleverman hair test photo (Tony Briggs) with feedback from Jacob Nash",
+                    "title_annotation": "Facsimile",
+                    "slug": "graphic-hair-test-photo-tony-briggs-with-feedback",
+                    "creator_credit": "Weta Workshop",
+                    "credit_line": "<p>Courtesy Goalpost Pictures</p>",
+                    "headline_credit": "Australia, 2016",
+                    "thumbnail": {
+                        "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/P180551_G261.tiff.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=40J6QeZo2ZWcNC5S33jr8oqDX0M%3D&Expires=1627009083",
+                        "has_video": false
+                    },
+                    "record_type": "work",
+                    "type": "Object",
+                    "is_on_display": true,
+                    "last_on_display_place": "ACMI: Gallery 1",
+                    "last_on_display_date": "2023-02-09",
+                    "is_context_indigenous": false,
+                    "material_description": "Graphic",
+                    "unpublished": false,
+                    "first_production_date": "2016-01-01T11:00:00+11:00"
+                },
+                {
+                    "id": 100741,
+                    "acmi_id": "180544",
+                    "title": "Cleverman Hairy concept art",
+                    "title_annotation": "Facsimile",
+                    "slug": "graphic-hairy-concept-art",
+                    "creator_credit": "Weta Workshop",
+                    "credit_line": "<p>Courtesy Goalpost Pictures</p>",
+                    "headline_credit": "Australia, 2016",
+                    "thumbnail": {
+                        "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/P180544_G254.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=eTlsG9AieT1%2Bl2OPhiLlczTGGxk%3D&Expires=1627009083",
+                        "has_video": false
+                    },
+                    "record_type": "work",
+                    "type": "Object",
+                    "is_on_display": true,
+                    "last_on_display_place": "ACMI: Gallery 1",
+                    "last_on_display_date": "2023-02-09",
+                    "is_context_indigenous": false,
+                    "material_description": "Graphic",
+                    "unpublished": false,
+                    "first_production_date": "2016-01-01T11:00:00+11:00"
+                }
+            ],
+            "source": {
+                "name": "Vernon",
+                "slug": "vernon"
+            },
+            "source_identifier": "180549",
+            "production_places": [
+                {
+                    "id": 3,
+                    "name": "Australia",
+                    "slug": "australia"
+                }
+            ],
+            "production_dates": [
+                {
+                    "date": "2016",
+                    "notes": "",
+                    "to_year": "2016"
+                }
+            ],
+            "labels": [
+                40234
+            ]
+        }
+    ]
+}

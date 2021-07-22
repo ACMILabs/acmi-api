@@ -1,0 +1,98 @@
+{
+    "id": 107452,
+    "acmi_id": "174208",
+    "title": "Poster from the film: The Piano, 1993",
+    "title_annotation": "",
+    "slug": "poster-from-the-film-the-piano-1993",
+    "creator_credit": "",
+    "credit_line": "",
+    "headline_credit": "2018",
+    "thumbnail": {
+        "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/P174208.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=gf5e3%2B6nfaxQQGXfAfokziTWka0%3D&Expires=1627009225",
+        "has_video": false
+    },
+    "record_type": "work",
+    "type": "Object",
+    "is_on_display": false,
+    "last_on_display_place": "ACMI Ground Floor",
+    "last_on_display_date": "2019-04-22",
+    "is_context_indigenous": false,
+    "material_description": "1. Reproduction poster, printed on semi-gloss paper and mounted on 10mm black foamboard. 2/3. Reproduction posters, printed on semi-gloss paper, unmounted",
+    "unpublished": false,
+    "first_production_date": "2018-01-01T11:00:00+11:00",
+    "brief_description": "<p>Reproduction for Screen Worlds Piano display - original LN174195 returned to lender</p>",
+    "constellations_primary": [],
+    "constellations_other": [],
+    "recommendations": [],
+    "title_for_label": "<p>Poster from the film: The Piano, 1993</p>",
+    "creator_credit_for_label": "",
+    "headline_credit_for_label": "<p>2018</p>",
+    "description": "<p>Reproduction for Screen Worlds Piano display - original LN174195 returned to lender</p>",
+    "description_for_label": [
+        "<p>Reproduction for Screen Worlds Piano display - original LN174195 returned to lender</p>"
+    ],
+    "credit_line_for_label": "",
+    "details": [
+        {
+            "label": "Measurements",
+            "display_values": [
+                "1010 x 700mm"
+            ]
+        },
+        {
+            "label": "Materials",
+            "display_values": [
+                "1. Reproduction poster, printed on semi-gloss paper and mounted on 10mm black foamboard. 2/3. Reproduction posters, printed on semi-gloss paper, unmounted"
+            ]
+        }
+    ],
+    "stats": {
+        "tap_count": 0
+    },
+    "links": [],
+    "creators_primary": [],
+    "creators_other": [],
+    "video_links": [],
+    "media_note": null,
+    "images": [
+        {
+            "id": 12798,
+            "image_file": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/P174208.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=kSGiX%2BZ3YH3c%2FlWJXreOpa%2ByOXA%3D&Expires=1627009225",
+            "image_file_thumbnail": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/P174208.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=gf5e3%2B6nfaxQQGXfAfokziTWka0%3D&Expires=1627009225",
+            "image_file_xs": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/P174208.jpg.480x480_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=d9jpYz8I6FTCTNJh%2BwbpuK%2F39do%3D&Expires=1627009225",
+            "image_file_s": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/P174208.jpg.960x960_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=vAnGGAR9jAIH0xxuJDmg5F9WP6E%3D&Expires=1627009225",
+            "image_file_m": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/P174208.jpg.1920x1920_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=5feuYIVir7S7LcuA29cKE6n%2Fx7A%3D&Expires=1627009225",
+            "image_file_l": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/P174208.jpg.3840x3840_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=FSBICwDWYrwT1cj3eFd26XAuwdM%3D&Expires=1627009225",
+            "caption": "P174208",
+            "credit_line": "",
+            "alt_text": "",
+            "width": 8235,
+            "height": 11958,
+            "access_level": "View anywhere"
+        }
+    ],
+    "videos": [],
+    "holdings": [],
+    "part_of": null,
+    "parts": [],
+    "part_siblings": [],
+    "group": null,
+    "group_works": [],
+    "group_siblings": [],
+    "source": {
+        "name": "Vernon",
+        "slug": "vernon"
+    },
+    "source_identifier": "174208",
+    "production_places": [],
+    "production_dates": [
+        {
+            "date": "2018",
+            "notes": "",
+            "to_year": "2018"
+        }
+    ],
+    "labels": [
+        46945
+    ]
+}

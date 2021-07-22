@@ -1,0 +1,1771 @@
+{
+    "count": 922,
+    "next": "https://api.acmi.net.au/works/?page=64",
+    "previous": "https://api.acmi.net.au/works/?page=62",
+    "results": [
+        {
+            "id": 108728,
+            "acmi_id": "1882",
+            "title": "Symphonie Diagonale",
+            "title_annotation": "",
+            "slug": "symphonie-diagonale",
+            "creator_credit": "Viking Eggeling",
+            "credit_line": "",
+            "headline_credit": "",
+            "thumbnail": null,
+            "record_type": "work",
+            "type": "Film",
+            "is_on_display": false,
+            "last_on_display_place": null,
+            "last_on_display_date": null,
+            "is_context_indigenous": false,
+            "material_description": "",
+            "unpublished": false,
+            "first_production_date": null,
+            "brief_description": "",
+            "constellations_primary": [],
+            "constellations_other": [],
+            "recommendations": [],
+            "title_for_label": "<p>Symphonie Diagonale</p>",
+            "creator_credit_for_label": "<p>Viking Eggeling</p>",
+            "headline_credit_for_label": "",
+            "description": "",
+            "description_for_label": [],
+            "credit_line_for_label": "",
+            "details": [
+                {
+                    "label": "Duration",
+                    "display_values": [
+                        "00:05:00:00"
+                    ]
+                }
+            ],
+            "stats": {
+                "tap_count": 0
+            },
+            "links": [],
+            "creators_primary": [
+                {
+                    "id": 1133772,
+                    "name": "Viking Eggeling",
+                    "creator_id": 8841,
+                    "role": "creator",
+                    "role_id": 968,
+                    "is_primary": true
+                }
+            ],
+            "creators_other": [
+                {
+                    "id": 1133773,
+                    "name": "Viking Eggeling",
+                    "creator_id": 8841,
+                    "role": "animator",
+                    "role_id": 497,
+                    "is_primary": false
+                }
+            ],
+            "video_links": [],
+            "media_note": "Sorry, we don't have images or video for this item.",
+            "images": [],
+            "videos": [],
+            "holdings": [
+                {
+                    "name": "DVD [PAL]; Copy",
+                    "identifier": "",
+                    "description": ""
+                },
+                {
+                    "name": "Digital Betacam [PAL]; Master",
+                    "identifier": "",
+                    "description": ""
+                },
+                {
+                    "name": "VHS [PAL]; Reference - timecoded",
+                    "identifier": "",
+                    "description": ""
+                },
+                {
+                    "name": "Digital Betacam [PAL]; Sub-master",
+                    "identifier": "",
+                    "description": ""
+                },
+                {
+                    "name": "DVD [PAL]; Exhibition Copy",
+                    "identifier": "",
+                    "description": ""
+                }
+            ],
+            "part_of": null,
+            "parts": [],
+            "part_siblings": [],
+            "group": {
+                "id": 108727,
+                "acmi_id": "10460",
+                "title": "Selection of early silent experimental films (Walter Ruttmann, Viking Eggeling and Hans Richter)",
+                "title_annotation": "",
+                "slug": "selection-of-early-silent-experimental-films-walter-ruttmann-viking-eggeling-and-hans-richter",
+                "creator_credit": "Viking Eggeling, Hans Richter and Walter Ruttmann",
+                "credit_line": "",
+                "headline_credit": "1921-1925",
+                "thumbnail": null,
+                "record_type": "group",
+                "type": "Film",
+                "is_on_display": false,
+                "last_on_display_place": null,
+                "last_on_display_date": null,
+                "is_context_indigenous": false,
+                "material_description": "",
+                "unpublished": false,
+                "first_production_date": null
+            },
+            "group_works": [],
+            "group_siblings": [
+                {
+                    "id": 109973,
+                    "acmi_id": "12335",
+                    "title": "Opus 1",
+                    "title_annotation": "",
+                    "slug": "opus-1",
+                    "creator_credit": "Walter Ruttmann",
+                    "credit_line": "",
+                    "headline_credit": "1921",
+                    "thumbnail": null,
+                    "record_type": "work",
+                    "type": "Film",
+                    "is_on_display": false,
+                    "last_on_display_place": null,
+                    "last_on_display_date": null,
+                    "is_context_indigenous": false,
+                    "material_description": "",
+                    "unpublished": false,
+                    "first_production_date": "1921-01-01T10:00:00+10:00"
+                },
+                {
+                    "id": 108726,
+                    "acmi_id": "1881",
+                    "title": "Opus 2, 3, 4",
+                    "title_annotation": "",
+                    "slug": "opus-2-3-4",
+                    "creator_credit": "Walter Ruttmann",
+                    "credit_line": "",
+                    "headline_credit": "",
+                    "thumbnail": null,
+                    "record_type": "work",
+                    "type": "Film",
+                    "is_on_display": false,
+                    "last_on_display_place": null,
+                    "last_on_display_date": null,
+                    "is_context_indigenous": false,
+                    "material_description": "",
+                    "unpublished": false,
+                    "first_production_date": null
+                },
+                {
+                    "id": 114007,
+                    "acmi_id": "2082",
+                    "title": "Rhythm 21",
+                    "title_annotation": "",
+                    "slug": "rhythm-21",
+                    "creator_credit": "Hans Richter",
+                    "credit_line": "",
+                    "headline_credit": "",
+                    "thumbnail": null,
+                    "record_type": "work",
+                    "type": "Film",
+                    "is_on_display": false,
+                    "last_on_display_place": null,
+                    "last_on_display_date": null,
+                    "is_context_indigenous": false,
+                    "material_description": "",
+                    "unpublished": false,
+                    "first_production_date": null
+                }
+            ],
+            "source": {
+                "name": "Vernon",
+                "slug": "vernon"
+            },
+            "source_identifier": "1882",
+            "production_places": [],
+            "production_dates": [],
+            "labels": [
+                48221
+            ]
+        },
+        {
+            "id": 114007,
+            "acmi_id": "2082",
+            "title": "Rhythm 21",
+            "title_annotation": "",
+            "slug": "rhythm-21",
+            "creator_credit": "Hans Richter",
+            "credit_line": "",
+            "headline_credit": "",
+            "thumbnail": null,
+            "record_type": "work",
+            "type": "Film",
+            "is_on_display": false,
+            "last_on_display_place": null,
+            "last_on_display_date": null,
+            "is_context_indigenous": false,
+            "material_description": "",
+            "unpublished": false,
+            "first_production_date": null,
+            "brief_description": "",
+            "constellations_primary": [],
+            "constellations_other": [],
+            "recommendations": [],
+            "title_for_label": "<p>Rhythm 21</p>",
+            "creator_credit_for_label": "<p>Hans Richter</p>",
+            "headline_credit_for_label": "",
+            "description": "",
+            "description_for_label": [],
+            "credit_line_for_label": "",
+            "details": [],
+            "stats": {
+                "tap_count": 0
+            },
+            "links": [],
+            "creators_primary": [
+                {
+                    "id": 1133771,
+                    "name": "Hans Richter",
+                    "creator_id": 8921,
+                    "role": "creator",
+                    "role_id": 968,
+                    "is_primary": true
+                }
+            ],
+            "creators_other": [],
+            "video_links": [],
+            "media_note": "Sorry, we don't have images or video for this item.",
+            "images": [],
+            "videos": [],
+            "holdings": [
+                {
+                    "name": "DVD [PAL]; Copy",
+                    "identifier": "",
+                    "description": ""
+                },
+                {
+                    "name": "DVD ROM; Copy",
+                    "identifier": "",
+                    "description": ""
+                },
+                {
+                    "name": "Digital Betacam [PAL]; Master",
+                    "identifier": "",
+                    "description": ""
+                },
+                {
+                    "name": "VHS [PAL]; Reference - timecoded",
+                    "identifier": "",
+                    "description": ""
+                },
+                {
+                    "name": "Digital Betacam [PAL]; Sub-master",
+                    "identifier": "",
+                    "description": ""
+                },
+                {
+                    "name": "DVD [PAL]; Exhibition Copy",
+                    "identifier": "",
+                    "description": ""
+                }
+            ],
+            "part_of": null,
+            "parts": [],
+            "part_siblings": [],
+            "group": {
+                "id": 108727,
+                "acmi_id": "10460",
+                "title": "Selection of early silent experimental films (Walter Ruttmann, Viking Eggeling and Hans Richter)",
+                "title_annotation": "",
+                "slug": "selection-of-early-silent-experimental-films-walter-ruttmann-viking-eggeling-and-hans-richter",
+                "creator_credit": "Viking Eggeling, Hans Richter and Walter Ruttmann",
+                "credit_line": "",
+                "headline_credit": "1921-1925",
+                "thumbnail": null,
+                "record_type": "group",
+                "type": "Film",
+                "is_on_display": false,
+                "last_on_display_place": null,
+                "last_on_display_date": null,
+                "is_context_indigenous": false,
+                "material_description": "",
+                "unpublished": false,
+                "first_production_date": null
+            },
+            "group_works": [],
+            "group_siblings": [
+                {
+                    "id": 109973,
+                    "acmi_id": "12335",
+                    "title": "Opus 1",
+                    "title_annotation": "",
+                    "slug": "opus-1",
+                    "creator_credit": "Walter Ruttmann",
+                    "credit_line": "",
+                    "headline_credit": "1921",
+                    "thumbnail": null,
+                    "record_type": "work",
+                    "type": "Film",
+                    "is_on_display": false,
+                    "last_on_display_place": null,
+                    "last_on_display_date": null,
+                    "is_context_indigenous": false,
+                    "material_description": "",
+                    "unpublished": false,
+                    "first_production_date": "1921-01-01T10:00:00+10:00"
+                },
+                {
+                    "id": 108726,
+                    "acmi_id": "1881",
+                    "title": "Opus 2, 3, 4",
+                    "title_annotation": "",
+                    "slug": "opus-2-3-4",
+                    "creator_credit": "Walter Ruttmann",
+                    "credit_line": "",
+                    "headline_credit": "",
+                    "thumbnail": null,
+                    "record_type": "work",
+                    "type": "Film",
+                    "is_on_display": false,
+                    "last_on_display_place": null,
+                    "last_on_display_date": null,
+                    "is_context_indigenous": false,
+                    "material_description": "",
+                    "unpublished": false,
+                    "first_production_date": null
+                },
+                {
+                    "id": 108728,
+                    "acmi_id": "1882",
+                    "title": "Symphonie Diagonale",
+                    "title_annotation": "",
+                    "slug": "symphonie-diagonale",
+                    "creator_credit": "Viking Eggeling",
+                    "credit_line": "",
+                    "headline_credit": "",
+                    "thumbnail": null,
+                    "record_type": "work",
+                    "type": "Film",
+                    "is_on_display": false,
+                    "last_on_display_place": null,
+                    "last_on_display_date": null,
+                    "is_context_indigenous": false,
+                    "material_description": "",
+                    "unpublished": false,
+                    "first_production_date": null
+                }
+            ],
+            "source": {
+                "name": "Vernon",
+                "slug": "vernon"
+            },
+            "source_identifier": "2082",
+            "production_places": [],
+            "production_dates": [],
+            "labels": [
+                53501
+            ]
+        },
+        {
+            "id": 108726,
+            "acmi_id": "1881",
+            "title": "Opus 2, 3, 4",
+            "title_annotation": "",
+            "slug": "opus-2-3-4",
+            "creator_credit": "Walter Ruttmann",
+            "credit_line": "",
+            "headline_credit": "",
+            "thumbnail": null,
+            "record_type": "work",
+            "type": "Film",
+            "is_on_display": false,
+            "last_on_display_place": null,
+            "last_on_display_date": null,
+            "is_context_indigenous": false,
+            "material_description": "",
+            "unpublished": false,
+            "first_production_date": null,
+            "brief_description": "",
+            "constellations_primary": [],
+            "constellations_other": [],
+            "recommendations": [],
+            "title_for_label": "<p>Opus 2, 3, 4</p>",
+            "creator_credit_for_label": "<p>Walter Ruttmann</p>",
+            "headline_credit_for_label": "",
+            "description": "",
+            "description_for_label": [],
+            "credit_line_for_label": "",
+            "details": [
+                {
+                    "label": "Duration",
+                    "display_values": [
+                        "00:14:00:00"
+                    ]
+                }
+            ],
+            "stats": {
+                "tap_count": 0
+            },
+            "links": [],
+            "creators_primary": [
+                {
+                    "id": 1133770,
+                    "name": "Walter Ruttmann",
+                    "creator_id": 71820,
+                    "role": "creator",
+                    "role_id": 968,
+                    "is_primary": true
+                }
+            ],
+            "creators_other": [],
+            "video_links": [],
+            "media_note": "Sorry, we don't have images or video for this item.",
+            "images": [],
+            "videos": [],
+            "holdings": [
+                {
+                    "name": "DVD [PAL]; Copy",
+                    "identifier": "",
+                    "description": ""
+                },
+                {
+                    "name": "Digital Betacam [PAL]; Master",
+                    "identifier": "",
+                    "description": ""
+                },
+                {
+                    "name": "VHS [PAL]; Reference - timecoded",
+                    "identifier": "",
+                    "description": ""
+                },
+                {
+                    "name": "Digital Betacam [PAL]; Sub-master",
+                    "identifier": "",
+                    "description": ""
+                },
+                {
+                    "name": "DVD [PAL]; Exhibition Copy",
+                    "identifier": "",
+                    "description": ""
+                }
+            ],
+            "part_of": null,
+            "parts": [],
+            "part_siblings": [],
+            "group": {
+                "id": 108727,
+                "acmi_id": "10460",
+                "title": "Selection of early silent experimental films (Walter Ruttmann, Viking Eggeling and Hans Richter)",
+                "title_annotation": "",
+                "slug": "selection-of-early-silent-experimental-films-walter-ruttmann-viking-eggeling-and-hans-richter",
+                "creator_credit": "Viking Eggeling, Hans Richter and Walter Ruttmann",
+                "credit_line": "",
+                "headline_credit": "1921-1925",
+                "thumbnail": null,
+                "record_type": "group",
+                "type": "Film",
+                "is_on_display": false,
+                "last_on_display_place": null,
+                "last_on_display_date": null,
+                "is_context_indigenous": false,
+                "material_description": "",
+                "unpublished": false,
+                "first_production_date": null
+            },
+            "group_works": [],
+            "group_siblings": [
+                {
+                    "id": 109973,
+                    "acmi_id": "12335",
+                    "title": "Opus 1",
+                    "title_annotation": "",
+                    "slug": "opus-1",
+                    "creator_credit": "Walter Ruttmann",
+                    "credit_line": "",
+                    "headline_credit": "1921",
+                    "thumbnail": null,
+                    "record_type": "work",
+                    "type": "Film",
+                    "is_on_display": false,
+                    "last_on_display_place": null,
+                    "last_on_display_date": null,
+                    "is_context_indigenous": false,
+                    "material_description": "",
+                    "unpublished": false,
+                    "first_production_date": "1921-01-01T10:00:00+10:00"
+                },
+                {
+                    "id": 114007,
+                    "acmi_id": "2082",
+                    "title": "Rhythm 21",
+                    "title_annotation": "",
+                    "slug": "rhythm-21",
+                    "creator_credit": "Hans Richter",
+                    "credit_line": "",
+                    "headline_credit": "",
+                    "thumbnail": null,
+                    "record_type": "work",
+                    "type": "Film",
+                    "is_on_display": false,
+                    "last_on_display_place": null,
+                    "last_on_display_date": null,
+                    "is_context_indigenous": false,
+                    "material_description": "",
+                    "unpublished": false,
+                    "first_production_date": null
+                },
+                {
+                    "id": 108728,
+                    "acmi_id": "1882",
+                    "title": "Symphonie Diagonale",
+                    "title_annotation": "",
+                    "slug": "symphonie-diagonale",
+                    "creator_credit": "Viking Eggeling",
+                    "credit_line": "",
+                    "headline_credit": "",
+                    "thumbnail": null,
+                    "record_type": "work",
+                    "type": "Film",
+                    "is_on_display": false,
+                    "last_on_display_place": null,
+                    "last_on_display_date": null,
+                    "is_context_indigenous": false,
+                    "material_description": "",
+                    "unpublished": false,
+                    "first_production_date": null
+                }
+            ],
+            "source": {
+                "name": "Vernon",
+                "slug": "vernon"
+            },
+            "source_identifier": "1881",
+            "production_places": [],
+            "production_dates": [],
+            "labels": [
+                48219
+            ]
+        },
+        {
+            "id": 109973,
+            "acmi_id": "12335",
+            "title": "Opus 1",
+            "title_annotation": "",
+            "slug": "opus-1",
+            "creator_credit": "Walter Ruttmann",
+            "credit_line": "",
+            "headline_credit": "1921",
+            "thumbnail": null,
+            "record_type": "work",
+            "type": "Film",
+            "is_on_display": false,
+            "last_on_display_place": null,
+            "last_on_display_date": null,
+            "is_context_indigenous": false,
+            "material_description": "",
+            "unpublished": false,
+            "first_production_date": "1921-01-01T10:00:00+10:00",
+            "brief_description": "",
+            "constellations_primary": [],
+            "constellations_other": [],
+            "recommendations": [],
+            "title_for_label": "<p>Opus 1</p>",
+            "creator_credit_for_label": "<p>Walter Ruttmann</p>",
+            "headline_credit_for_label": "<p>1921</p>",
+            "description": "",
+            "description_for_label": [],
+            "credit_line_for_label": "",
+            "details": [
+                {
+                    "label": "Duration",
+                    "display_values": [
+                        "00:13:00:00"
+                    ]
+                }
+            ],
+            "stats": {
+                "tap_count": 0
+            },
+            "links": [],
+            "creators_primary": [
+                {
+                    "id": 1133769,
+                    "name": "Walter Ruttmann",
+                    "creator_id": 71820,
+                    "role": "creator",
+                    "role_id": 968,
+                    "is_primary": true
+                }
+            ],
+            "creators_other": [],
+            "video_links": [],
+            "media_note": "Sorry, we don't have images or video for this item.",
+            "images": [],
+            "videos": [],
+            "holdings": [
+                {
+                    "name": "DVD [PAL]; Copy",
+                    "identifier": "",
+                    "description": ""
+                },
+                {
+                    "name": "Digital Betacam [PAL]; Master",
+                    "identifier": "",
+                    "description": ""
+                },
+                {
+                    "name": "VHS [PAL]; Reference - timecoded",
+                    "identifier": "",
+                    "description": ""
+                },
+                {
+                    "name": "Digital Betacam [PAL]; Sub-master",
+                    "identifier": "",
+                    "description": ""
+                },
+                {
+                    "name": "DVD [PAL]; Exhibition Copy",
+                    "identifier": "",
+                    "description": ""
+                }
+            ],
+            "part_of": null,
+            "parts": [],
+            "part_siblings": [],
+            "group": {
+                "id": 108727,
+                "acmi_id": "10460",
+                "title": "Selection of early silent experimental films (Walter Ruttmann, Viking Eggeling and Hans Richter)",
+                "title_annotation": "",
+                "slug": "selection-of-early-silent-experimental-films-walter-ruttmann-viking-eggeling-and-hans-richter",
+                "creator_credit": "Viking Eggeling, Hans Richter and Walter Ruttmann",
+                "credit_line": "",
+                "headline_credit": "1921-1925",
+                "thumbnail": null,
+                "record_type": "group",
+                "type": "Film",
+                "is_on_display": false,
+                "last_on_display_place": null,
+                "last_on_display_date": null,
+                "is_context_indigenous": false,
+                "material_description": "",
+                "unpublished": false,
+                "first_production_date": null
+            },
+            "group_works": [],
+            "group_siblings": [
+                {
+                    "id": 108726,
+                    "acmi_id": "1881",
+                    "title": "Opus 2, 3, 4",
+                    "title_annotation": "",
+                    "slug": "opus-2-3-4",
+                    "creator_credit": "Walter Ruttmann",
+                    "credit_line": "",
+                    "headline_credit": "",
+                    "thumbnail": null,
+                    "record_type": "work",
+                    "type": "Film",
+                    "is_on_display": false,
+                    "last_on_display_place": null,
+                    "last_on_display_date": null,
+                    "is_context_indigenous": false,
+                    "material_description": "",
+                    "unpublished": false,
+                    "first_production_date": null
+                },
+                {
+                    "id": 114007,
+                    "acmi_id": "2082",
+                    "title": "Rhythm 21",
+                    "title_annotation": "",
+                    "slug": "rhythm-21",
+                    "creator_credit": "Hans Richter",
+                    "credit_line": "",
+                    "headline_credit": "",
+                    "thumbnail": null,
+                    "record_type": "work",
+                    "type": "Film",
+                    "is_on_display": false,
+                    "last_on_display_place": null,
+                    "last_on_display_date": null,
+                    "is_context_indigenous": false,
+                    "material_description": "",
+                    "unpublished": false,
+                    "first_production_date": null
+                },
+                {
+                    "id": 108728,
+                    "acmi_id": "1882",
+                    "title": "Symphonie Diagonale",
+                    "title_annotation": "",
+                    "slug": "symphonie-diagonale",
+                    "creator_credit": "Viking Eggeling",
+                    "credit_line": "",
+                    "headline_credit": "",
+                    "thumbnail": null,
+                    "record_type": "work",
+                    "type": "Film",
+                    "is_on_display": false,
+                    "last_on_display_place": null,
+                    "last_on_display_date": null,
+                    "is_context_indigenous": false,
+                    "material_description": "",
+                    "unpublished": false,
+                    "first_production_date": null
+                }
+            ],
+            "source": {
+                "name": "Vernon",
+                "slug": "vernon"
+            },
+            "source_identifier": "12335",
+            "production_places": [],
+            "production_dates": [
+                {
+                    "date": "1921",
+                    "notes": "",
+                    "to_year": "1921"
+                }
+            ],
+            "labels": [
+                49466
+            ]
+        },
+        {
+            "id": 114134,
+            "acmi_id": "10454",
+            "title": "MAP compile loops 1 & 2",
+            "title_annotation": "",
+            "slug": "map-compile-loops-1-2",
+            "creator_credit": "ACMI",
+            "credit_line": "",
+            "headline_credit": "VIC/Australia, 2002",
+            "thumbnail": {
+                "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/B1004669_North.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=LRRf%2FoIJ43fCjlY%2F%2BZJGw7HvADU%3D&Expires=1627009373",
+                "has_video": false
+            },
+            "record_type": "group",
+            "type": "Film",
+            "is_on_display": false,
+            "last_on_display_place": null,
+            "last_on_display_date": null,
+            "is_context_indigenous": false,
+            "material_description": "",
+            "unpublished": true,
+            "first_production_date": "2002-01-01T11:00:00+11:00",
+            "brief_description": "<p>The Memory and Place (MAP) project captures stories, feelings and memories that we attach to places we know. This compile, in two parts, presents some of those stories and excerpts from the MAP Collection project:<br />\nMAP #1: Brunswick (Froggie&#8217;s gone), Northcote (Westbourne Grove), Cohuna (Tom Olsson&#8217;s Cohuna), Kensington (ReLocated - The Venny kids), Collingwood (North), Dunolly (The Posidon rush)<br />\nMAP #2: Carlton (Lygon Street), Ararat (Memories of Ararat c1930), Preston (Festival of kites), Burnley (Stack)</p>",
+            "constellations_primary": [],
+            "constellations_other": [],
+            "recommendations": [],
+            "title_for_label": "<p>MAP compile loops 1 &amp; 2</p>",
+            "creator_credit_for_label": "<p>ACMI</p>",
+            "headline_credit_for_label": "<p>VIC/Australia, 2002</p>",
+            "description": "<p>The Memory and Place (MAP) project captures stories, feelings and memories that we attach to places we know. This compile, in two parts, presents some of those stories and excerpts from the MAP Collection project:<br />\nMAP #1: Brunswick (Froggie&#8217;s gone), Northcote (Westbourne Grove), Cohuna (Tom Olsson&#8217;s Cohuna), Kensington (ReLocated - The Venny kids), Collingwood (North), Dunolly (The Posidon rush)<br />\nMAP #2: Carlton (Lygon Street), Ararat (Memories of Ararat c1930), Preston (Festival of kites), Burnley (Stack)</p>",
+            "description_for_label": [
+                "<p>The Memory and Place (MAP) project captures stories, feelings and memories that we attach to places we know. This compile, in two parts, presents some of those stories and excerpts from the MAP Collection project:<br />\nMAP #1: Brunswick (Froggie&#8217;s gone), Northcote (Westbourne Grove), Cohuna (Tom Olsson&#8217;s Cohuna), Kensington (ReLocated - The Venny kids), Collingwood (North), Dunolly (The Posidon rush)<br />\nMAP #2: Carlton (Lygon Street), Ararat (Memories of Ararat c1930), Preston (Festival of kites), Burnley (Stack)</p>"
+            ],
+            "credit_line_for_label": "",
+            "details": [
+                {
+                    "label": "Duration",
+                    "display_values": [
+                        "00:23:42:00"
+                    ]
+                },
+                {
+                    "label": "Language",
+                    "display_values": [
+                        "English"
+                    ]
+                },
+                {
+                    "label": "Audience classification",
+                    "display_values": [
+                        "ACMI classified"
+                    ]
+                },
+                {
+                    "label": "Subject categories",
+                    "display_values": [
+                        "Anthropology, Ethnology, Exploration & Travel&nbsp;→ Victoria - Description and travel",
+                        "Anthropology, Ethnology, Exploration & Travel&nbsp;→ Victoria - Social life and customs",
+                        "Biographical",
+                        "Documentary",
+                        "Food, Health, Lifestyle, Medicine, Psychology & Safety&nbsp;→ Memory",
+                        "History&nbsp;→ Australia - History",
+                        "History&nbsp;→ History"
+                    ]
+                },
+                {
+                    "label": "Sound/audio",
+                    "display_values": [
+                        "Sound"
+                    ]
+                },
+                {
+                    "label": "Colour",
+                    "display_values": [
+                        "Black and White",
+                        "Colour"
+                    ]
+                }
+            ],
+            "stats": {
+                "tap_count": 0
+            },
+            "links": [],
+            "creators_primary": [
+                {
+                    "id": 1133768,
+                    "name": "ACMI",
+                    "creator_id": 6272,
+                    "role": "producer",
+                    "role_id": 960,
+                    "is_primary": true
+                }
+            ],
+            "creators_other": [],
+            "video_links": [],
+            "media_note": null,
+            "images": [
+                {
+                    "id": 13741,
+                    "image_file": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/B1004669_North.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=5qhzg42kFNjifVuuwbP%2BuI1tFdU%3D&Expires=1627009373",
+                    "image_file_thumbnail": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/B1004669_North.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=LRRf%2FoIJ43fCjlY%2F%2BZJGw7HvADU%3D&Expires=1627009373",
+                    "image_file_xs": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/B1004669_North.jpg.480x480_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=xOoDsrXvLbZvFtFMNzyoIrJPuuY%3D&Expires=1627009373",
+                    "image_file_s": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/B1004669_North.jpg.960x960_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=GVK86N%2Bc3O6nC44%2BwasKl%2BuHIjI%3D&Expires=1627009373",
+                    "image_file_m": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/B1004669_North.jpg.1920x1920_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=yt25r2J7k89Udgm13KfNvOutPSM%3D&Expires=1627009373",
+                    "image_file_l": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/B1004669_North.jpg.3840x3840_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=Q6yvk%2FSTZis52svpWI%2FwN5Ay1Wg%3D&Expires=1627009373",
+                    "caption": "North (2002) still",
+                    "credit_line": "",
+                    "alt_text": "",
+                    "width": 438,
+                    "height": 327,
+                    "access_level": "View anywhere"
+                }
+            ],
+            "videos": [],
+            "holdings": [
+                {
+                    "name": "DVD ROM; Copy",
+                    "identifier": "",
+                    "description": ""
+                }
+            ],
+            "part_of": null,
+            "parts": [],
+            "part_siblings": [],
+            "group": null,
+            "group_works": [
+                {
+                    "id": 114135,
+                    "acmi_id": "1928",
+                    "title": "Festival of kites",
+                    "title_annotation": "",
+                    "slug": "festival-of-kites",
+                    "creator_credit": "The City of Darebin",
+                    "credit_line": "",
+                    "headline_credit": "Australia, 2001",
+                    "thumbnail": null,
+                    "record_type": "work",
+                    "type": "Film",
+                    "is_on_display": false,
+                    "last_on_display_place": null,
+                    "last_on_display_date": null,
+                    "is_context_indigenous": false,
+                    "material_description": "",
+                    "unpublished": false,
+                    "first_production_date": "2001-01-01T11:00:00+11:00"
+                },
+                {
+                    "id": 114158,
+                    "acmi_id": "1914",
+                    "title": "North",
+                    "title_annotation": "",
+                    "slug": "north",
+                    "creator_credit": "Christos Linou, Spiro Economopolous and Christos Tsiolkas",
+                    "credit_line": "",
+                    "headline_credit": "Australia, 2002",
+                    "thumbnail": {
+                        "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/B1004669_North.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=LRRf%2FoIJ43fCjlY%2F%2BZJGw7HvADU%3D&Expires=1627009373",
+                        "has_video": false
+                    },
+                    "record_type": "work",
+                    "type": "Film",
+                    "is_on_display": false,
+                    "last_on_display_place": "ACMI Viewing Booths",
+                    "last_on_display_date": "2019-04-22",
+                    "is_context_indigenous": false,
+                    "material_description": "",
+                    "unpublished": false,
+                    "first_production_date": "2002-01-01T11:00:00+11:00"
+                }
+            ],
+            "group_siblings": [],
+            "source": {
+                "name": "Vernon",
+                "slug": "vernon"
+            },
+            "source_identifier": "10454",
+            "production_places": [
+                {
+                    "id": 40,
+                    "name": "VIC/Australia",
+                    "slug": "vicaustralia"
+                }
+            ],
+            "production_dates": [
+                {
+                    "date": "2002",
+                    "notes": "",
+                    "to_year": "2002"
+                }
+            ],
+            "labels": [
+                53626
+            ]
+        },
+        {
+            "id": 114158,
+            "acmi_id": "1914",
+            "title": "North",
+            "title_annotation": "",
+            "slug": "north",
+            "creator_credit": "Christos Linou, Spiro Economopolous and Christos Tsiolkas",
+            "credit_line": "",
+            "headline_credit": "Australia, 2002",
+            "thumbnail": {
+                "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/B1004669_North.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=LRRf%2FoIJ43fCjlY%2F%2BZJGw7HvADU%3D&Expires=1627009373",
+                "has_video": false
+            },
+            "record_type": "work",
+            "type": "Film",
+            "is_on_display": false,
+            "last_on_display_place": "ACMI Viewing Booths",
+            "last_on_display_date": "2019-04-22",
+            "is_context_indigenous": false,
+            "material_description": "",
+            "unpublished": false,
+            "first_production_date": "2002-01-01T11:00:00+11:00",
+            "brief_description": "<p>Collingwood - &#8216;Hit the North. The north is where they put most of the wogs.&#8217; Utilising excerpts from Christos Tsiolkas&#8217; novel &#8216;Loaded&#8217;, &#8216;North&#8217; is a lyrical and haunting work about space and place in Melbourne&#8217;s inner-city northern suburbs. This short work reveals a history of migrant alienation and regret submerged underneath the asphalt, mortar and concrete of the modern Australian city.</p>",
+            "constellations_primary": [],
+            "constellations_other": [],
+            "recommendations": [],
+            "title_for_label": "<p>North</p>",
+            "creator_credit_for_label": "<p>Christos Linou, Spiro Economopolous and Christos Tsiolkas</p>",
+            "headline_credit_for_label": "<p>Australia, 2002</p>",
+            "description": "<p>Collingwood - &#8216;Hit the North. The north is where they put most of the wogs.&#8217; Utilising excerpts from Christos Tsiolkas&#8217; novel &#8216;Loaded&#8217;, &#8216;North&#8217; is a lyrical and haunting work about space and place in Melbourne&#8217;s inner-city northern suburbs. This short work reveals a history of migrant alienation and regret submerged underneath the asphalt, mortar and concrete of the modern Australian city.</p>",
+            "description_for_label": [
+                "<p>Collingwood - &#8216;Hit the North. The north is where they put most of the wogs.&#8217; Utilising excerpts from Christos Tsiolkas&#8217; novel &#8216;Loaded&#8217;, &#8216;North&#8217; is a lyrical and haunting work about space and place in Melbourne&#8217;s inner-city northern suburbs. This short work reveals a history of migrant alienation and regret submerged underneath the asphalt, mortar and concrete of the modern Australian city.</p>"
+            ],
+            "credit_line_for_label": "",
+            "details": [
+                {
+                    "label": "Duration",
+                    "display_values": [
+                        "00:02:13:00"
+                    ]
+                },
+                {
+                    "label": "Language",
+                    "display_values": [
+                        "English"
+                    ]
+                },
+                {
+                    "label": "Audience classifications",
+                    "display_values": [
+                        "ACMI classified",
+                        "Mediatheque - all ages (ACMI classified)"
+                    ]
+                },
+                {
+                    "label": "Subject categories",
+                    "display_values": [
+                        "Anthropology, Ethnology, Exploration & Travel&nbsp;→ Cities and towns",
+                        "Anthropology, Ethnology, Exploration & Travel&nbsp;→ Victoria - Description and travel",
+                        "Anthropology, Ethnology, Exploration & Travel&nbsp;→ Victoria - Social life and customs",
+                        "Economics, Philosophy, Politics, Religion & Sociology&nbsp;→ Australia - Emigration and immigration",
+                        "Economics, Philosophy, Politics, Religion & Sociology&nbsp;→ Immigrants - Australia",
+                        "Economics, Philosophy, Politics, Religion & Sociology&nbsp;→ Multiculturalism",
+                        "Places&nbsp;→ Melbourne (Vic.)",
+                        "Short films",
+                        "Short films&nbsp;→ Short films - Australia"
+                    ]
+                },
+                {
+                    "label": "Sound/audio",
+                    "display_values": [
+                        "Sound"
+                    ]
+                },
+                {
+                    "label": "Colour",
+                    "display_values": [
+                        "Colour"
+                    ]
+                }
+            ],
+            "stats": {
+                "tap_count": 0
+            },
+            "links": [],
+            "creators_primary": [
+                {
+                    "id": 1133749,
+                    "name": "Christos Linou",
+                    "creator_id": 7331,
+                    "role": "creator",
+                    "role_id": 968,
+                    "is_primary": true
+                },
+                {
+                    "id": 1133748,
+                    "name": "Spiro Economopolous",
+                    "creator_id": 8857,
+                    "role": "creator",
+                    "role_id": 968,
+                    "is_primary": true
+                },
+                {
+                    "id": 1133747,
+                    "name": "Christos Tsiolkas",
+                    "creator_id": 8775,
+                    "role": "creator",
+                    "role_id": 968,
+                    "is_primary": true
+                }
+            ],
+            "creators_other": [],
+            "video_links": [],
+            "media_note": null,
+            "images": [
+                {
+                    "id": 13741,
+                    "image_file": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/B1004669_North.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=5qhzg42kFNjifVuuwbP%2BuI1tFdU%3D&Expires=1627009373",
+                    "image_file_thumbnail": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/B1004669_North.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=LRRf%2FoIJ43fCjlY%2F%2BZJGw7HvADU%3D&Expires=1627009373",
+                    "image_file_xs": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/B1004669_North.jpg.480x480_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=xOoDsrXvLbZvFtFMNzyoIrJPuuY%3D&Expires=1627009373",
+                    "image_file_s": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/B1004669_North.jpg.960x960_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=GVK86N%2Bc3O6nC44%2BwasKl%2BuHIjI%3D&Expires=1627009373",
+                    "image_file_m": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/B1004669_North.jpg.1920x1920_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=yt25r2J7k89Udgm13KfNvOutPSM%3D&Expires=1627009373",
+                    "image_file_l": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/B1004669_North.jpg.3840x3840_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=Q6yvk%2FSTZis52svpWI%2FwN5Ay1Wg%3D&Expires=1627009373",
+                    "caption": "North (2002) still",
+                    "credit_line": "",
+                    "alt_text": "",
+                    "width": 438,
+                    "height": 327,
+                    "access_level": "View anywhere"
+                }
+            ],
+            "videos": [],
+            "holdings": [
+                {
+                    "name": "Mini DV; Master",
+                    "identifier": "",
+                    "description": ""
+                },
+                {
+                    "name": "DVD ROM; Copy",
+                    "identifier": "",
+                    "description": ""
+                },
+                {
+                    "name": "Digital Betacam; Master",
+                    "identifier": "",
+                    "description": ""
+                },
+                {
+                    "name": "Digital Betacam; Sub-master",
+                    "identifier": "",
+                    "description": ""
+                },
+                {
+                    "name": "VHS [PAL]; Reference - timecoded",
+                    "identifier": "",
+                    "description": ""
+                },
+                {
+                    "name": "VHS [PAL]; Copy",
+                    "identifier": "",
+                    "description": ""
+                },
+                {
+                    "name": "MPEG-2 Digital File; ACMI Digital Access Copy - presentation",
+                    "identifier": "",
+                    "description": ""
+                }
+            ],
+            "part_of": null,
+            "parts": [],
+            "part_siblings": [],
+            "group": {
+                "id": 114134,
+                "acmi_id": "10454",
+                "title": "MAP compile loops 1 & 2",
+                "title_annotation": "",
+                "slug": "map-compile-loops-1-2",
+                "creator_credit": "ACMI",
+                "credit_line": "",
+                "headline_credit": "VIC/Australia, 2002",
+                "thumbnail": {
+                    "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/B1004669_North.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=LRRf%2FoIJ43fCjlY%2F%2BZJGw7HvADU%3D&Expires=1627009373",
+                    "has_video": false
+                },
+                "record_type": "group",
+                "type": "Film",
+                "is_on_display": false,
+                "last_on_display_place": null,
+                "last_on_display_date": null,
+                "is_context_indigenous": false,
+                "material_description": "",
+                "unpublished": true,
+                "first_production_date": "2002-01-01T11:00:00+11:00"
+            },
+            "group_works": [],
+            "group_siblings": [
+                {
+                    "id": 114135,
+                    "acmi_id": "1928",
+                    "title": "Festival of kites",
+                    "title_annotation": "",
+                    "slug": "festival-of-kites",
+                    "creator_credit": "The City of Darebin",
+                    "credit_line": "",
+                    "headline_credit": "Australia, 2001",
+                    "thumbnail": null,
+                    "record_type": "work",
+                    "type": "Film",
+                    "is_on_display": false,
+                    "last_on_display_place": null,
+                    "last_on_display_date": null,
+                    "is_context_indigenous": false,
+                    "material_description": "",
+                    "unpublished": false,
+                    "first_production_date": "2001-01-01T11:00:00+11:00"
+                }
+            ],
+            "source": {
+                "name": "Vernon",
+                "slug": "vernon"
+            },
+            "source_identifier": "1914",
+            "production_places": [
+                {
+                    "id": 3,
+                    "name": "Australia",
+                    "slug": "australia"
+                }
+            ],
+            "production_dates": [
+                {
+                    "date": "2002",
+                    "notes": "",
+                    "to_year": "2002"
+                }
+            ],
+            "labels": [
+                53650
+            ]
+        },
+        {
+            "id": 114135,
+            "acmi_id": "1928",
+            "title": "Festival of kites",
+            "title_annotation": "",
+            "slug": "festival-of-kites",
+            "creator_credit": "The City of Darebin",
+            "credit_line": "",
+            "headline_credit": "Australia, 2001",
+            "thumbnail": null,
+            "record_type": "work",
+            "type": "Film",
+            "is_on_display": false,
+            "last_on_display_place": null,
+            "last_on_display_date": null,
+            "is_context_indigenous": false,
+            "material_description": "",
+            "unpublished": false,
+            "first_production_date": "2001-01-01T11:00:00+11:00",
+            "brief_description": "<p>Sponsored by the City of Darebin, this short video documents the Festival of Kites, organized by the North Eastern Melbourne Chinese Association and by the Australian Kite Association. An all-day event held in parklands in Preston, this multicultural event includes performances by comedians, Indian dancers and a Chinese Choir.</p>",
+            "constellations_primary": [],
+            "constellations_other": [],
+            "recommendations": [],
+            "title_for_label": "<p>Festival of kites</p>",
+            "creator_credit_for_label": "<p>The City of Darebin</p>",
+            "headline_credit_for_label": "<p>Australia, 2001</p>",
+            "description": "<p>Sponsored by the City of Darebin, this short video documents the Festival of Kites, organized by the North Eastern Melbourne Chinese Association and by the Australian Kite Association. An all-day event held in parklands in Preston, this multicultural event includes performances by comedians, Indian dancers and a Chinese Choir.</p>",
+            "description_for_label": [
+                "<p>Sponsored by the City of Darebin, this short video documents the Festival of Kites, organized by the North Eastern Melbourne Chinese Association and by the Australian Kite Association. An all-day event held in parklands in Preston, this multicultural event includes performances by comedians, Indian dancers and a Chinese Choir.</p>"
+            ],
+            "credit_line_for_label": "",
+            "details": [
+                {
+                    "label": "Language",
+                    "display_values": [
+                        "English"
+                    ]
+                },
+                {
+                    "label": "Audience classification",
+                    "display_values": [
+                        "ACMI classified"
+                    ]
+                },
+                {
+                    "label": "Subject categories",
+                    "display_values": [
+                        "Anthropology, Ethnology, Exploration & Travel&nbsp;→ Australia - Social life and customs",
+                        "Anthropology, Ethnology, Exploration & Travel&nbsp;→ Cities and towns",
+                        "Documentary",
+                        "Economics, Philosophy, Politics, Religion & Sociology&nbsp;→ Immigrants - Australia",
+                        "Economics, Philosophy, Politics, Religion & Sociology&nbsp;→ Multiculturalism",
+                        "Places&nbsp;→ Melbourne (Vic.)"
+                    ]
+                },
+                {
+                    "label": "Sound/audio",
+                    "display_values": [
+                        "Sound"
+                    ]
+                },
+                {
+                    "label": "Colour",
+                    "display_values": [
+                        "Colour"
+                    ]
+                }
+            ],
+            "stats": {
+                "tap_count": 0
+            },
+            "links": [],
+            "creators_primary": [
+                {
+                    "id": 1133742,
+                    "name": "The City of Darebin",
+                    "creator_id": 8873,
+                    "role": "production company",
+                    "role_id": 941,
+                    "is_primary": true
+                }
+            ],
+            "creators_other": [
+                {
+                    "id": 1133743,
+                    "name": "Peter Lane",
+                    "creator_id": 8866,
+                    "role": "film maker",
+                    "role_id": 459,
+                    "is_primary": false
+                }
+            ],
+            "video_links": [],
+            "media_note": "Sorry, we don't have images or video for this item.",
+            "images": [],
+            "videos": [],
+            "holdings": [
+                {
+                    "name": "DVD ROM; Copy",
+                    "identifier": "",
+                    "description": ""
+                }
+            ],
+            "part_of": null,
+            "parts": [],
+            "part_siblings": [],
+            "group": {
+                "id": 114134,
+                "acmi_id": "10454",
+                "title": "MAP compile loops 1 & 2",
+                "title_annotation": "",
+                "slug": "map-compile-loops-1-2",
+                "creator_credit": "ACMI",
+                "credit_line": "",
+                "headline_credit": "VIC/Australia, 2002",
+                "thumbnail": {
+                    "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/B1004669_North.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=LRRf%2FoIJ43fCjlY%2F%2BZJGw7HvADU%3D&Expires=1627009373",
+                    "has_video": false
+                },
+                "record_type": "group",
+                "type": "Film",
+                "is_on_display": false,
+                "last_on_display_place": null,
+                "last_on_display_date": null,
+                "is_context_indigenous": false,
+                "material_description": "",
+                "unpublished": true,
+                "first_production_date": "2002-01-01T11:00:00+11:00"
+            },
+            "group_works": [],
+            "group_siblings": [
+                {
+                    "id": 114158,
+                    "acmi_id": "1914",
+                    "title": "North",
+                    "title_annotation": "",
+                    "slug": "north",
+                    "creator_credit": "Christos Linou, Spiro Economopolous and Christos Tsiolkas",
+                    "credit_line": "",
+                    "headline_credit": "Australia, 2002",
+                    "thumbnail": {
+                        "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/B1004669_North.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=LRRf%2FoIJ43fCjlY%2F%2BZJGw7HvADU%3D&Expires=1627009373",
+                        "has_video": false
+                    },
+                    "record_type": "work",
+                    "type": "Film",
+                    "is_on_display": false,
+                    "last_on_display_place": "ACMI Viewing Booths",
+                    "last_on_display_date": "2019-04-22",
+                    "is_context_indigenous": false,
+                    "material_description": "",
+                    "unpublished": false,
+                    "first_production_date": "2002-01-01T11:00:00+11:00"
+                }
+            ],
+            "source": {
+                "name": "Vernon",
+                "slug": "vernon"
+            },
+            "source_identifier": "1928",
+            "production_places": [
+                {
+                    "id": 3,
+                    "name": "Australia",
+                    "slug": "australia"
+                }
+            ],
+            "production_dates": [
+                {
+                    "date": "2001",
+                    "notes": "",
+                    "to_year": "2001"
+                }
+            ],
+            "labels": [
+                53627
+            ]
+        },
+        {
+            "id": 108684,
+            "acmi_id": "10440",
+            "title": "Martine Corompt compilation",
+            "title_annotation": "",
+            "slug": "martine-corompt-compilation",
+            "creator_credit": "Martine Corompt",
+            "credit_line": "",
+            "headline_credit": "1998-2001",
+            "thumbnail": null,
+            "record_type": "group",
+            "type": "Film",
+            "is_on_display": false,
+            "last_on_display_place": null,
+            "last_on_display_date": null,
+            "is_context_indigenous": false,
+            "material_description": "",
+            "unpublished": true,
+            "first_production_date": null,
+            "brief_description": "",
+            "constellations_primary": [],
+            "constellations_other": [],
+            "recommendations": [],
+            "title_for_label": "<p>Martine Corompt compilation</p>",
+            "creator_credit_for_label": "<p>Martine Corompt</p>",
+            "headline_credit_for_label": "<p>1998-2001</p>",
+            "description": "",
+            "description_for_label": [],
+            "credit_line_for_label": "",
+            "details": [],
+            "stats": {
+                "tap_count": 0
+            },
+            "links": [],
+            "creators_primary": [
+                {
+                    "id": 1133741,
+                    "name": "Martine Corompt",
+                    "creator_id": 7116,
+                    "role": "creator",
+                    "role_id": 968,
+                    "is_primary": true
+                }
+            ],
+            "creators_other": [],
+            "video_links": [],
+            "media_note": "Sorry, we don't have images or video for this item.",
+            "images": [],
+            "videos": [],
+            "holdings": [
+                {
+                    "name": "Mini DV; Master",
+                    "identifier": "",
+                    "description": ""
+                },
+                {
+                    "name": "Digital Betacam; Sub-master",
+                    "identifier": "",
+                    "description": ""
+                },
+                {
+                    "name": "VHS [PAL]; Reference - timecoded",
+                    "identifier": "",
+                    "description": ""
+                }
+            ],
+            "part_of": null,
+            "parts": [],
+            "part_siblings": [],
+            "group": null,
+            "group_works": [
+                {
+                    "id": 108683,
+                    "acmi_id": "1809",
+                    "title": "Pet shop",
+                    "title_annotation": "",
+                    "slug": "pet-shop",
+                    "creator_credit": "Martine Corompt",
+                    "credit_line": "",
+                    "headline_credit": "Australia, 1998",
+                    "thumbnail": null,
+                    "record_type": "work",
+                    "type": "Film",
+                    "is_on_display": false,
+                    "last_on_display_place": null,
+                    "last_on_display_date": null,
+                    "is_context_indigenous": false,
+                    "material_description": "",
+                    "unpublished": false,
+                    "first_production_date": "1998-01-01T11:00:00+11:00"
+                },
+                {
+                    "id": 108686,
+                    "acmi_id": "1811",
+                    "title": "This is my world",
+                    "title_annotation": "",
+                    "slug": "this-is-my-world",
+                    "creator_credit": "Martine Corompt",
+                    "credit_line": "",
+                    "headline_credit": "Australia, 2001",
+                    "thumbnail": null,
+                    "record_type": "work",
+                    "type": "Film",
+                    "is_on_display": false,
+                    "last_on_display_place": null,
+                    "last_on_display_date": null,
+                    "is_context_indigenous": false,
+                    "material_description": "",
+                    "unpublished": false,
+                    "first_production_date": "2001-01-01T11:00:00+11:00"
+                }
+            ],
+            "group_siblings": [],
+            "source": {
+                "name": "Vernon",
+                "slug": "vernon"
+            },
+            "source_identifier": "10440",
+            "production_places": [],
+            "production_dates": [
+                {
+                    "date": "1998-2001",
+                    "notes": "",
+                    "to_year": "1998-2001"
+                }
+            ],
+            "labels": [
+                48177
+            ]
+        },
+        {
+            "id": 108686,
+            "acmi_id": "1811",
+            "title": "This is my world",
+            "title_annotation": "",
+            "slug": "this-is-my-world",
+            "creator_credit": "Martine Corompt",
+            "credit_line": "",
+            "headline_credit": "Australia, 2001",
+            "thumbnail": null,
+            "record_type": "work",
+            "type": "Film",
+            "is_on_display": false,
+            "last_on_display_place": null,
+            "last_on_display_date": null,
+            "is_context_indigenous": false,
+            "material_description": "",
+            "unpublished": false,
+            "first_production_date": "2001-01-01T11:00:00+11:00",
+            "brief_description": "<p>Leanne is a virtual popstar. The artist dressed as the character Leanne (modeled on an anime character) sings a sorrowful pop song about her lonely world. The video is shot in the liminal no-place space of the Shopping Centre.</p>",
+            "constellations_primary": [],
+            "constellations_other": [],
+            "recommendations": [],
+            "title_for_label": "<p>This is my world</p>",
+            "creator_credit_for_label": "<p>Martine Corompt</p>",
+            "headline_credit_for_label": "<p>Australia, 2001</p>",
+            "description": "<p>Leanne is a virtual popstar. The artist dressed as the character Leanne (modeled on an anime character) sings a sorrowful pop song about her lonely world. The video is shot in the liminal no-place space of the Shopping Centre.</p>",
+            "description_for_label": [
+                "<p>Leanne is a virtual popstar. The artist dressed as the character Leanne (modeled on an anime character) sings a sorrowful pop song about her lonely world. The video is shot in the liminal no-place space of the Shopping Centre.</p>"
+            ],
+            "credit_line_for_label": "",
+            "details": [
+                {
+                    "label": "Language",
+                    "display_values": [
+                        "English"
+                    ]
+                }
+            ],
+            "stats": {
+                "tap_count": 0
+            },
+            "links": [],
+            "creators_primary": [
+                {
+                    "id": 1133740,
+                    "name": "Martine Corompt",
+                    "creator_id": 7116,
+                    "role": "creator",
+                    "role_id": 968,
+                    "is_primary": true
+                }
+            ],
+            "creators_other": [],
+            "video_links": [],
+            "media_note": "Sorry, we don't have images or video for this item.",
+            "images": [],
+            "videos": [],
+            "holdings": [
+                {
+                    "name": "Mini DV; Master",
+                    "identifier": "",
+                    "description": ""
+                },
+                {
+                    "name": "Digital Betacam; Sub-master",
+                    "identifier": "",
+                    "description": ""
+                },
+                {
+                    "name": "VHS [PAL]; Reference - timecoded",
+                    "identifier": "",
+                    "description": ""
+                }
+            ],
+            "part_of": null,
+            "parts": [],
+            "part_siblings": [],
+            "group": {
+                "id": 108684,
+                "acmi_id": "10440",
+                "title": "Martine Corompt compilation",
+                "title_annotation": "",
+                "slug": "martine-corompt-compilation",
+                "creator_credit": "Martine Corompt",
+                "credit_line": "",
+                "headline_credit": "1998-2001",
+                "thumbnail": null,
+                "record_type": "group",
+                "type": "Film",
+                "is_on_display": false,
+                "last_on_display_place": null,
+                "last_on_display_date": null,
+                "is_context_indigenous": false,
+                "material_description": "",
+                "unpublished": true,
+                "first_production_date": null
+            },
+            "group_works": [],
+            "group_siblings": [
+                {
+                    "id": 108683,
+                    "acmi_id": "1809",
+                    "title": "Pet shop",
+                    "title_annotation": "",
+                    "slug": "pet-shop",
+                    "creator_credit": "Martine Corompt",
+                    "credit_line": "",
+                    "headline_credit": "Australia, 1998",
+                    "thumbnail": null,
+                    "record_type": "work",
+                    "type": "Film",
+                    "is_on_display": false,
+                    "last_on_display_place": null,
+                    "last_on_display_date": null,
+                    "is_context_indigenous": false,
+                    "material_description": "",
+                    "unpublished": false,
+                    "first_production_date": "1998-01-01T11:00:00+11:00"
+                }
+            ],
+            "source": {
+                "name": "Vernon",
+                "slug": "vernon"
+            },
+            "source_identifier": "1811",
+            "production_places": [
+                {
+                    "id": 3,
+                    "name": "Australia",
+                    "slug": "australia"
+                }
+            ],
+            "production_dates": [
+                {
+                    "date": "2001",
+                    "notes": "DVD version 2002",
+                    "to_year": "2001"
+                }
+            ],
+            "labels": [
+                48179
+            ]
+        },
+        {
+            "id": 108683,
+            "acmi_id": "1809",
+            "title": "Pet shop",
+            "title_annotation": "",
+            "slug": "pet-shop",
+            "creator_credit": "Martine Corompt",
+            "credit_line": "",
+            "headline_credit": "Australia, 1998",
+            "thumbnail": null,
+            "record_type": "work",
+            "type": "Film",
+            "is_on_display": false,
+            "last_on_display_place": null,
+            "last_on_display_date": null,
+            "is_context_indigenous": false,
+            "material_description": "",
+            "unpublished": false,
+            "first_production_date": "1998-01-01T11:00:00+11:00",
+            "brief_description": "<p>A four screen looping animation work, Pet Shop pulls at the heart strings with its adorably cute 2D animated animals. Corompt&#8217;s work uses reductive and stylised modes of representation, exploring how we engage with these synthetic characters. The unquie relationship that exists between spectator and subject, inviting the spectator to partake in an unspoken agreement, where they may teeter on the boundary of the objectivity and empathy, simultaneously acknowledging its artifice, while at the same time participating in its pathos.</p>",
+            "constellations_primary": [],
+            "constellations_other": [],
+            "recommendations": [],
+            "title_for_label": "<p>Pet shop</p>",
+            "creator_credit_for_label": "<p>Martine Corompt</p>",
+            "headline_credit_for_label": "<p>Australia, 1998</p>",
+            "description": "<p>A four screen looping animation work, Pet Shop pulls at the heart strings with its adorably cute 2D animated animals. Corompt&#8217;s work uses reductive and stylised modes of representation, exploring how we engage with these synthetic characters. The unquie relationship that exists between spectator and subject, inviting the spectator to partake in an unspoken agreement, where they may teeter on the boundary of the objectivity and empathy, simultaneously acknowledging its artifice, while at the same time participating in its pathos.</p>",
+            "description_for_label": [
+                "<p>A four screen looping animation work, Pet Shop pulls at the heart strings with its adorably cute 2D animated animals. Corompt&#8217;s work uses reductive and stylised modes of representation, exploring how we engage with these synthetic characters. The unquie relationship that exists between spectator and subject, inviting the spectator to partake in an unspoken agreement, where they may teeter on the boundary of the objectivity and empathy, simultaneously acknowledging its artifice, while at the same time participating in its pathos.</p>"
+            ],
+            "credit_line_for_label": "",
+            "details": [
+                {
+                    "label": "Language",
+                    "display_values": [
+                        "No spoken word"
+                    ]
+                }
+            ],
+            "stats": {
+                "tap_count": 0
+            },
+            "links": [],
+            "creators_primary": [
+                {
+                    "id": 1133739,
+                    "name": "Martine Corompt",
+                    "creator_id": 7116,
+                    "role": "creator",
+                    "role_id": 968,
+                    "is_primary": true
+                }
+            ],
+            "creators_other": [],
+            "video_links": [],
+            "media_note": "Sorry, we don't have images or video for this item.",
+            "images": [],
+            "videos": [],
+            "holdings": [
+                {
+                    "name": "Mini DV; Master",
+                    "identifier": "",
+                    "description": ""
+                },
+                {
+                    "name": "Digital Betacam; Sub-master",
+                    "identifier": "",
+                    "description": ""
+                },
+                {
+                    "name": "VHS [PAL]; Reference - timecoded",
+                    "identifier": "",
+                    "description": ""
+                }
+            ],
+            "part_of": null,
+            "parts": [],
+            "part_siblings": [],
+            "group": {
+                "id": 108684,
+                "acmi_id": "10440",
+                "title": "Martine Corompt compilation",
+                "title_annotation": "",
+                "slug": "martine-corompt-compilation",
+                "creator_credit": "Martine Corompt",
+                "credit_line": "",
+                "headline_credit": "1998-2001",
+                "thumbnail": null,
+                "record_type": "group",
+                "type": "Film",
+                "is_on_display": false,
+                "last_on_display_place": null,
+                "last_on_display_date": null,
+                "is_context_indigenous": false,
+                "material_description": "",
+                "unpublished": true,
+                "first_production_date": null
+            },
+            "group_works": [],
+            "group_siblings": [
+                {
+                    "id": 108686,
+                    "acmi_id": "1811",
+                    "title": "This is my world",
+                    "title_annotation": "",
+                    "slug": "this-is-my-world",
+                    "creator_credit": "Martine Corompt",
+                    "credit_line": "",
+                    "headline_credit": "Australia, 2001",
+                    "thumbnail": null,
+                    "record_type": "work",
+                    "type": "Film",
+                    "is_on_display": false,
+                    "last_on_display_place": null,
+                    "last_on_display_date": null,
+                    "is_context_indigenous": false,
+                    "material_description": "",
+                    "unpublished": false,
+                    "first_production_date": "2001-01-01T11:00:00+11:00"
+                }
+            ],
+            "source": {
+                "name": "Vernon",
+                "slug": "vernon"
+            },
+            "source_identifier": "1809",
+            "production_places": [
+                {
+                    "id": 3,
+                    "name": "Australia",
+                    "slug": "australia"
+                }
+            ],
+            "production_dates": [
+                {
+                    "date": "1998",
+                    "notes": "Original Amiga animation to VHS.\nDVD copy to be created for ACMI",
+                    "to_year": "1998"
+                }
+            ],
+            "labels": [
+                48176
+            ]
+        }
+    ]
+}

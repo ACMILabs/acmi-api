@@ -1,0 +1,284 @@
+{
+    "id": 108505,
+    "acmi_id": "1226",
+    "title": "Transfinite loops",
+    "title_annotation": "",
+    "slug": "transfinite-loops",
+    "creator_credit": "Van McElwee",
+    "credit_line": "",
+    "headline_credit": "1996",
+    "thumbnail": null,
+    "record_type": "work",
+    "type": "Digital art",
+    "is_on_display": false,
+    "last_on_display_place": null,
+    "last_on_display_date": null,
+    "is_context_indigenous": false,
+    "material_description": "Single channel moving image",
+    "unpublished": false,
+    "first_production_date": "1996-01-01T11:00:00+11:00",
+    "brief_description": "",
+    "constellations_primary": [],
+    "constellations_other": [],
+    "recommendations": [],
+    "title_for_label": "<p>Transfinite loops</p>",
+    "creator_credit_for_label": "<p>Van McElwee</p>",
+    "headline_credit_for_label": "<p>1996</p>",
+    "description": "",
+    "description_for_label": [],
+    "credit_line_for_label": "",
+    "details": [
+        {
+            "label": "Duration",
+            "display_values": [
+                "00:16:00:00"
+            ]
+        },
+        {
+            "label": "Subject category",
+            "display_values": [
+                "Digital Art"
+            ]
+        },
+        {
+            "label": "Sound/audio",
+            "display_values": [
+                "Sound"
+            ]
+        },
+        {
+            "label": "Materials",
+            "display_values": [
+                "Single channel moving image"
+            ]
+        }
+    ],
+    "stats": {
+        "tap_count": 0
+    },
+    "links": [],
+    "creators_primary": [
+        {
+            "id": 1133609,
+            "name": "Van McElwee",
+            "creator_id": 8120,
+            "role": "creator",
+            "role_id": 968,
+            "is_primary": true
+        }
+    ],
+    "creators_other": [],
+    "video_links": [],
+    "media_note": "Sorry, we don't have images or video for this item.",
+    "images": [],
+    "videos": [],
+    "holdings": [
+        {
+            "name": "MPEG-4 Digital File; ACMI Digital Access Copy - overscan",
+            "identifier": "",
+            "description": ""
+        },
+        {
+            "name": "MOV file ProRes4444; Digital Preservation Master - overscan",
+            "identifier": "",
+            "description": ""
+        },
+        {
+            "name": "Digital Betacam [PAL]; Master",
+            "identifier": "",
+            "description": ""
+        },
+        {
+            "name": "Digital Betacam [PAL]; Sub-master",
+            "identifier": "",
+            "description": ""
+        },
+        {
+            "name": "VHS [PAL]; Reference - timecoded",
+            "identifier": "",
+            "description": ""
+        }
+    ],
+    "part_of": null,
+    "parts": [],
+    "part_siblings": [],
+    "group": {
+        "id": 107306,
+        "acmi_id": "10340",
+        "title": "A Selection from Steve Reinke's 'The Hundred Videos' [compile 1]",
+        "title_annotation": "",
+        "slug": "a-selection-from-steve-reinkes-the-hundred-videos-compile-1",
+        "creator_credit": "Steve Reinke",
+        "credit_line": "",
+        "headline_credit": "Canada, [1994-1998]",
+        "thumbnail": null,
+        "record_type": "group",
+        "type": "Digital art",
+        "is_on_display": false,
+        "last_on_display_place": null,
+        "last_on_display_date": null,
+        "is_context_indigenous": false,
+        "material_description": "",
+        "unpublished": true,
+        "first_production_date": null
+    },
+    "group_works": [],
+    "group_siblings": [
+        {
+            "id": 108506,
+            "acmi_id": "1227",
+            "title": "Rue Francis",
+            "title_annotation": "",
+            "slug": "rue-francis",
+            "creator_credit": "Francois Vogel",
+            "credit_line": "",
+            "headline_credit": "Canada",
+            "thumbnail": null,
+            "record_type": "work",
+            "type": "Digital art",
+            "is_on_display": false,
+            "last_on_display_place": null,
+            "last_on_display_date": null,
+            "is_context_indigenous": false,
+            "material_description": "",
+            "unpublished": false,
+            "first_production_date": null
+        },
+        {
+            "id": 108504,
+            "acmi_id": "1224",
+            "title": "Space splice",
+            "title_annotation": "",
+            "slug": "space-splice",
+            "creator_credit": "Van McElwee",
+            "credit_line": "",
+            "headline_credit": "Canada, 1994",
+            "thumbnail": null,
+            "record_type": "work",
+            "type": "Digital art",
+            "is_on_display": false,
+            "last_on_display_place": null,
+            "last_on_display_date": null,
+            "is_context_indigenous": false,
+            "material_description": "Single channel moving image",
+            "unpublished": false,
+            "first_production_date": "1994-01-01T11:00:00+11:00"
+        },
+        {
+            "id": 114038,
+            "acmi_id": "714",
+            "title": "The Hundred Videos. No. ??. How photographs are stored in the brain",
+            "title_annotation": "",
+            "slug": "the-hundred-videos-no-how-photographs-are-stored-in-the-brain",
+            "creator_credit": "Steve Reinke",
+            "credit_line": "",
+            "headline_credit": "Canada, 1998",
+            "thumbnail": null,
+            "record_type": "work",
+            "type": "Digital art",
+            "is_on_display": false,
+            "last_on_display_place": "ACMI Screen Gallery",
+            "last_on_display_date": "2003-08-31",
+            "is_context_indigenous": false,
+            "material_description": "Single channel moving image",
+            "unpublished": false,
+            "first_production_date": "1998-01-01T11:00:00+11:00"
+        },
+        {
+            "id": 114088,
+            "acmi_id": "1223",
+            "title": "The Hundred Videos. No. 09. Falling",
+            "title_annotation": "",
+            "slug": "the-hundred-videos-no-09-falling",
+            "creator_credit": "Steve Reinke",
+            "credit_line": "",
+            "headline_credit": "Canada, 1997",
+            "thumbnail": null,
+            "record_type": "work",
+            "type": "Digital art",
+            "is_on_display": false,
+            "last_on_display_place": null,
+            "last_on_display_date": null,
+            "is_context_indigenous": false,
+            "material_description": "Single channel moving image",
+            "unpublished": false,
+            "first_production_date": "1997-01-01T11:00:00+11:00"
+        },
+        {
+            "id": 114085,
+            "acmi_id": "1220",
+            "title": "The Hundred Videos. No. 87. Children's Video Collective",
+            "title_annotation": "",
+            "slug": "the-hundred-videos-no-87-childrens-video-collective",
+            "creator_credit": "Steve Reinke",
+            "credit_line": "",
+            "headline_credit": "Canada, 1997",
+            "thumbnail": null,
+            "record_type": "work",
+            "type": "Digital art",
+            "is_on_display": false,
+            "last_on_display_place": null,
+            "last_on_display_date": null,
+            "is_context_indigenous": false,
+            "material_description": "Single channel moving image",
+            "unpublished": false,
+            "first_production_date": "1997-01-01T11:00:00+11:00"
+        },
+        {
+            "id": 114086,
+            "acmi_id": "1221",
+            "title": "The Hundred Videos. No. 90. Video for intellectuals",
+            "title_annotation": "",
+            "slug": "the-hundred-videos-no-90-video-for-intellectuals",
+            "creator_credit": "Steve Reinke",
+            "credit_line": "",
+            "headline_credit": "Canada, 1997",
+            "thumbnail": null,
+            "record_type": "work",
+            "type": "Digital art",
+            "is_on_display": false,
+            "last_on_display_place": null,
+            "last_on_display_date": null,
+            "is_context_indigenous": false,
+            "material_description": "Single channel moving image",
+            "unpublished": false,
+            "first_production_date": "1997-01-01T11:00:00+11:00"
+        },
+        {
+            "id": 114087,
+            "acmi_id": "1222",
+            "title": "The Hundred Videos. No. 94. Ants and bees",
+            "title_annotation": "",
+            "slug": "the-hundred-videos-no-94-ants-and-bees",
+            "creator_credit": "Steve Reinke",
+            "credit_line": "",
+            "headline_credit": "Canada, 1997",
+            "thumbnail": null,
+            "record_type": "work",
+            "type": "Digital art",
+            "is_on_display": false,
+            "last_on_display_place": null,
+            "last_on_display_date": null,
+            "is_context_indigenous": false,
+            "material_description": "Single channel moving image",
+            "unpublished": false,
+            "first_production_date": "1997-01-01T11:00:00+11:00"
+        }
+    ],
+    "source": {
+        "name": "Vernon",
+        "slug": "vernon"
+    },
+    "source_identifier": "1226",
+    "production_places": [],
+    "production_dates": [
+        {
+            "date": "1996",
+            "notes": "",
+            "to_year": "1996"
+        }
+    ],
+    "labels": [
+        47998
+    ]
+}

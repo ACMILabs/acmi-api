@@ -1,0 +1,387 @@
+{
+    "id": 99590,
+    "acmi_id": "179807",
+    "title": "Jane Conquest magic lantern slides",
+    "title_annotation": "",
+    "slug": "jane-conquest-1217",
+    "creator_credit": "York & Son",
+    "credit_line": "<p>Courtesy Martyn Jolly</p>",
+    "headline_credit": "United Kingdom, c. 1891",
+    "thumbnail": {
+        "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN179807_MLS_JanesConquest_12_Front.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=%2F6z%2Fu1EX7kT9jYmC4sMaqjE09q0%3D&Expires=1627009148",
+        "has_video": false
+    },
+    "record_type": "work",
+    "type": "Object",
+    "is_on_display": true,
+    "last_on_display_place": "ACMI",
+    "last_on_display_date": "2022-02-10",
+    "is_context_indigenous": false,
+    "material_description": "glass, ink, gum arabic tape",
+    "unpublished": true,
+    "first_production_date": null,
+    "brief_description": "<p>Creator, York &amp; Son, England. Man entering house in snow.<br />\nNarrative for slide &#8220;Harry Conquest was among those brought off the burning ship, and he was seen making his feeble way, his clothes all scorched and rent, amid overhanging crags, to his snowbound cottage.&#8221;</p>",
+    "constellations_primary": [],
+    "constellations_other": [],
+    "recommendations": [],
+    "title_for_label": "<p>Jane Conquest narrative slides</p>",
+    "creator_credit_for_label": "<p>York &amp; Son</p>",
+    "headline_credit_for_label": "<p>United Kingdom, c. 1891</p>",
+    "description": "<p>Creator, York &amp; Son, England. Man entering house in snow.<br />\nNarrative for slide &#8220;Harry Conquest was among those brought off the burning ship, and he was seen making his feeble way, his clothes all scorched and rent, amid overhanging crags, to his snowbound cottage.&#8221;</p>",
+    "description_for_label": [
+        "<p>Creator, York &amp; Son, England. Man entering house in snow.<br />\nNarrative for slide &#8220;Harry Conquest was among those brought off the burning ship, and he was seen making his feeble way, his clothes all scorched and rent, amid overhanging crags, to his snowbound cottage.&#8221;</p>"
+    ],
+    "credit_line_for_label": "<p>Courtesy Martyn Jolly</p>",
+    "details": [
+        {
+            "label": "Curatorial section",
+            "display_values": [
+                "The Story of the Moving Image&nbsp;→ Moving Pictures&nbsp;→ 02. Play and Illusion&nbsp;→ MI-02-C01"
+            ]
+        },
+        {
+            "label": "Measurements",
+            "display_values": [
+                "82 x 82 x 4mm"
+            ]
+        },
+        {
+            "label": "Materials",
+            "display_values": [
+                "glass, ink, gum arabic tape"
+            ]
+        }
+    ],
+    "stats": {
+        "tap_count": 0
+    },
+    "links": [],
+    "creators_primary": [
+        {
+            "id": 1134455,
+            "name": "York & Son",
+            "creator_id": 70602,
+            "role": "creator",
+            "role_id": 968,
+            "is_primary": true
+        }
+    ],
+    "creators_other": [],
+    "video_links": [],
+    "media_note": null,
+    "images": [
+        {
+            "id": 12544,
+            "image_file": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN179807_MLS_JanesConquest_12_Front.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=G3sYwEkusVwfWYsdqDbjTLmUPJE%3D&Expires=1627009148",
+            "image_file_thumbnail": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN179807_MLS_JanesConquest_12_Front.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=%2F6z%2Fu1EX7kT9jYmC4sMaqjE09q0%3D&Expires=1627009148",
+            "image_file_xs": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN179807_MLS_JanesConquest_12_Front.jpg.480x480_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=X6CmCdrbJgxAOyLBhsR1VlTieYY%3D&Expires=1627009148",
+            "image_file_s": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN179807_MLS_JanesConquest_12_Front.jpg.960x960_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=e1kw%2FezDF7H8YaK6rKb6EiFvBwQ%3D&Expires=1627009148",
+            "image_file_m": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN179807_MLS_JanesConquest_12_Front.jpg.1920x1920_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=1WgeOcf%2B%2FrWVTmBBG9FwkDNNpJw%3D&Expires=1627009148",
+            "image_file_l": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN179807_MLS_JanesConquest_12_Front.jpg.3840x3840_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=X6DwRUm4Ir5qM1FkLiXQC74vueo%3D&Expires=1627009148",
+            "caption": "LN179807_MLS_JanesConquest_12_Front",
+            "credit_line": "Photograph by Egmont Contreras, ACMI",
+            "alt_text": "",
+            "width": 3208,
+            "height": 3189,
+            "access_level": "View anywhere"
+        },
+        {
+            "id": 12545,
+            "image_file": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN179807_MLS_JanesConquest_12_Back.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=Adr3NcD9epieT1T%2Fz6EO6cyZJoU%3D&Expires=1627009148",
+            "image_file_thumbnail": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN179807_MLS_JanesConquest_12_Back.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=FmGmCYza%2FOLbBa%2FS1Ze6UpGQz8Y%3D&Expires=1627009148",
+            "image_file_xs": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN179807_MLS_JanesConquest_12_Back.jpg.480x480_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=9R%2BgvFhpLIe10%2Bzbw341RYewW2Q%3D&Expires=1627009148",
+            "image_file_s": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN179807_MLS_JanesConquest_12_Back.jpg.960x960_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=WF9aieKsLIUqTX2o9oDnNo8ZRkY%3D&Expires=1627009148",
+            "image_file_m": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN179807_MLS_JanesConquest_12_Back.jpg.1920x1920_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=X9%2BAJsfysJpHhWDu44erWxQH2JM%3D&Expires=1627009148",
+            "image_file_l": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN179807_MLS_JanesConquest_12_Back.jpg.3840x3840_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=2d7LmYhgLeQTvyVE9DA87tkQd60%3D&Expires=1627009148",
+            "caption": "LN179807_MLS_JanesConquest_12_Back",
+            "credit_line": "Photograph by Egmont Contreras, ACMI",
+            "alt_text": "",
+            "width": 3246,
+            "height": 3206,
+            "access_level": "View anywhere"
+        }
+    ],
+    "videos": [],
+    "holdings": [],
+    "part_of": null,
+    "parts": [],
+    "part_siblings": [],
+    "group": {
+        "id": 100563,
+        "acmi_id": "181484",
+        "title": "Jane Conquest magic lantern slides",
+        "title_annotation": "",
+        "slug": "jane-conquest-magic-lantern-slides",
+        "creator_credit": "York & Son",
+        "credit_line": "",
+        "headline_credit": "United Kingdom, c. 1891",
+        "thumbnail": {
+            "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN179809_MLS_JanesConquest_14_Front.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=5nBMPlQMONoYch8yVTDbS10O5Jo%3D&Expires=1627009148",
+            "has_video": false
+        },
+        "record_type": "group",
+        "type": "Film",
+        "is_on_display": true,
+        "last_on_display_place": "ACMI: Gallery 1",
+        "last_on_display_date": "2031-02-16",
+        "is_context_indigenous": false,
+        "material_description": "",
+        "unpublished": false,
+        "first_production_date": null
+    },
+    "group_works": [],
+    "group_siblings": [
+        {
+            "id": 99592,
+            "acmi_id": "179809",
+            "title": "Jane Conquest magic lantern slides",
+            "title_annotation": "",
+            "slug": "jane-conquest-1417",
+            "creator_credit": "York & Son",
+            "credit_line": "<p>Courtesy Martyn Jolly</p>",
+            "headline_credit": "United Kingdom, c. 1891",
+            "thumbnail": {
+                "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN179809_MLS_JanesConquest_14_Front.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=5nBMPlQMONoYch8yVTDbS10O5Jo%3D&Expires=1627009148",
+                "has_video": false
+            },
+            "record_type": "work",
+            "type": "Object",
+            "is_on_display": true,
+            "last_on_display_place": "ACMI",
+            "last_on_display_date": "2022-02-10",
+            "is_context_indigenous": false,
+            "material_description": "glass, ink, gum arabic tape",
+            "unpublished": true,
+            "first_production_date": null
+        },
+        {
+            "id": 99587,
+            "acmi_id": "179804",
+            "title": "Jane Conquest magic lantern slides",
+            "title_annotation": "",
+            "slug": "jane-conquest-917",
+            "creator_credit": "York & Son",
+            "credit_line": "<p>Courtesy Martyn Jolly</p>",
+            "headline_credit": "United Kingdom, c. 1891",
+            "thumbnail": {
+                "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN179804_MLS_JanesConquest_9_Front.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=jfu%2FltP5yw5kia7Y76%2FluSu1Ml8%3D&Expires=1627009148",
+                "has_video": false
+            },
+            "record_type": "work",
+            "type": "Object",
+            "is_on_display": true,
+            "last_on_display_place": "ACMI: Gallery 1",
+            "last_on_display_date": "2021-08-12",
+            "is_context_indigenous": false,
+            "material_description": "glass, ink, gum arabic tape",
+            "unpublished": false,
+            "first_production_date": null
+        },
+        {
+            "id": 99586,
+            "acmi_id": "179803",
+            "title": "Jane Conquest magic lantern slides",
+            "title_annotation": "",
+            "slug": "jane-conquest-817",
+            "creator_credit": "York & Son",
+            "credit_line": "<p>Courtesy Martyn Jolly</p>",
+            "headline_credit": "United Kingdom, c. 1891",
+            "thumbnail": {
+                "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN179803_MLS_JanesConquest_8_Front.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=TMqTl9rocG1YZ8%2F4aUKK6oOJuAA%3D&Expires=1627009148",
+                "has_video": false
+            },
+            "record_type": "work",
+            "type": "Object",
+            "is_on_display": true,
+            "last_on_display_place": "ACMI: Gallery 1",
+            "last_on_display_date": "2021-08-12",
+            "is_context_indigenous": false,
+            "material_description": "glass, ink, gum arabic tape",
+            "unpublished": false,
+            "first_production_date": null
+        },
+        {
+            "id": 99583,
+            "acmi_id": "179800",
+            "title": "Jane Conquest magic lantern slides",
+            "title_annotation": "",
+            "slug": "jane-conquest-517",
+            "creator_credit": "York & Son",
+            "credit_line": "<p>Courtesy Martyn Jolly</p>",
+            "headline_credit": "United Kingdom, c. 1891",
+            "thumbnail": {
+                "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN179800_MLS_JanesConquest_5_Front.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=Wxd5dUXmMHzn30N8MfkzS7Snldw%3D&Expires=1627009148",
+                "has_video": false
+            },
+            "record_type": "work",
+            "type": "Object",
+            "is_on_display": true,
+            "last_on_display_place": "ACMI: Gallery 1",
+            "last_on_display_date": "2021-08-12",
+            "is_context_indigenous": false,
+            "material_description": "glass, ink, gum arabic tape",
+            "unpublished": false,
+            "first_production_date": null
+        },
+        {
+            "id": 99582,
+            "acmi_id": "179799",
+            "title": "Jane Conquest magic lantern slides",
+            "title_annotation": "",
+            "slug": "jane-conquest-417",
+            "creator_credit": "York & Son",
+            "credit_line": "<p>Courtesy Martyn Jolly</p>",
+            "headline_credit": "United Kingdom, c. 1891",
+            "thumbnail": {
+                "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN179799_MLS_JanesConquest_4_Front.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=mM%2Fkkl33IqRfYAczAXXAXsMUR2s%3D&Expires=1627009148",
+                "has_video": false
+            },
+            "record_type": "work",
+            "type": "Object",
+            "is_on_display": true,
+            "last_on_display_place": "ACMI: Gallery 1",
+            "last_on_display_date": "2021-08-12",
+            "is_context_indigenous": false,
+            "material_description": "glass, ink, gum arabic tape",
+            "unpublished": false,
+            "first_production_date": null
+        },
+        {
+            "id": 99581,
+            "acmi_id": "179798",
+            "title": "Jane Conquest magic lantern slides",
+            "title_annotation": "",
+            "slug": "jane-conquest-317",
+            "creator_credit": "York & Son",
+            "credit_line": "<p>Courtesy Martyn Jolly</p>",
+            "headline_credit": "United Kingdom, c. 1891",
+            "thumbnail": {
+                "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN179798_MLS_JanesConquest_3_Front.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=WMRi99l24TEZkSzNTV6hNh7TR7s%3D&Expires=1627009148",
+                "has_video": false
+            },
+            "record_type": "work",
+            "type": "Object",
+            "is_on_display": true,
+            "last_on_display_place": "ACMI: Gallery 1",
+            "last_on_display_date": "2021-08-12",
+            "is_context_indigenous": false,
+            "material_description": "glass, ink, gum arabic tape",
+            "unpublished": false,
+            "first_production_date": null
+        },
+        {
+            "id": 99580,
+            "acmi_id": "179797",
+            "title": "Jane Conquest magic lantern slides",
+            "title_annotation": "",
+            "slug": "jane-conquest-217",
+            "creator_credit": "York & Son",
+            "credit_line": "<p>Courtesy Martyn Jolly</p>",
+            "headline_credit": "United Kingdom, c. 1891",
+            "thumbnail": {
+                "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN179797_MLS_JanesConquest_2_Front.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=u0Td7aq7MY3rLCrnwlLXGYdfn58%3D&Expires=1627009148",
+                "has_video": false
+            },
+            "record_type": "work",
+            "type": "Object",
+            "is_on_display": true,
+            "last_on_display_place": "ACMI: Gallery 1",
+            "last_on_display_date": "2021-08-12",
+            "is_context_indigenous": false,
+            "material_description": "glass, ink, gum arabic tape",
+            "unpublished": false,
+            "first_production_date": null
+        },
+        {
+            "id": 99594,
+            "acmi_id": "179811",
+            "title": "Jane Conquest magic lantern slides",
+            "title_annotation": "",
+            "slug": "jane-conquest-1617",
+            "creator_credit": "York & Son",
+            "credit_line": "<p>Courtesy Martyn Jolly</p>",
+            "headline_credit": "United Kingdom, c. 1891",
+            "thumbnail": {
+                "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN179811_MLS_JanesConquest_16_Front.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=eAPr2RjjSqfIZSC%2Bs8QADtvVomY%3D&Expires=1627009148",
+                "has_video": false
+            },
+            "record_type": "work",
+            "type": "Object",
+            "is_on_display": true,
+            "last_on_display_place": "ACMI",
+            "last_on_display_date": "2022-02-10",
+            "is_context_indigenous": false,
+            "material_description": "glass, ink, gum arabic tape",
+            "unpublished": true,
+            "first_production_date": null
+        },
+        {
+            "id": 99584,
+            "acmi_id": "179801",
+            "title": "Jane Conquest magic lantern slides",
+            "title_annotation": "",
+            "slug": "jane-conquest-617",
+            "creator_credit": "York & Son",
+            "credit_line": "<p>Courtesy Martyn Jolly</p>",
+            "headline_credit": "United Kingdom, c. 1891",
+            "thumbnail": {
+                "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN179801_MLS_JanesConquest_6_Front.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=Zs2QDCMx2CprLj3fF55KbNKSbco%3D&Expires=1627009148",
+                "has_video": false
+            },
+            "record_type": "work",
+            "type": "Object",
+            "is_on_display": true,
+            "last_on_display_place": "ACMI: Gallery 1",
+            "last_on_display_date": "2021-08-12",
+            "is_context_indigenous": false,
+            "material_description": "glass, ink, gum arabic tape",
+            "unpublished": false,
+            "first_production_date": null
+        },
+        {
+            "id": 99585,
+            "acmi_id": "179802",
+            "title": "Jane Conquest magic lantern slides",
+            "title_annotation": "",
+            "slug": "jane-conquest-717",
+            "creator_credit": "York & Son",
+            "credit_line": "<p>Courtesy Martyn Jolly</p>",
+            "headline_credit": "United Kingdom, c. 1891",
+            "thumbnail": {
+                "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN179802_MLS_JanesConquest_7_Front.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=I73lW5%2FXHRTlmOpRXXi2GyyjUbw%3D&Expires=1627009148",
+                "has_video": false
+            },
+            "record_type": "work",
+            "type": "Object",
+            "is_on_display": true,
+            "last_on_display_place": "ACMI: Gallery 1",
+            "last_on_display_date": "2021-08-12",
+            "is_context_indigenous": false,
+            "material_description": "glass, ink, gum arabic tape",
+            "unpublished": false,
+            "first_production_date": null
+        }
+    ],
+    "source": {
+        "name": "Vernon",
+        "slug": "vernon"
+    },
+    "source_identifier": "179807",
+    "production_places": [
+        {
+            "id": 10,
+            "name": "United Kingdom",
+            "slug": "united-kingdom"
+        }
+    ],
+    "production_dates": [
+        {
+            "date": "c. 1891",
+            "notes": "",
+            "to_year": "c. 1891"
+        }
+    ],
+    "labels": [
+        39085
+    ]
+}

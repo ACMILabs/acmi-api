@@ -1,0 +1,1971 @@
+{
+    "count": 922,
+    "next": "https://api.acmi.net.au/works/?page=20",
+    "previous": "https://api.acmi.net.au/works/?page=18",
+    "results": [
+        {
+            "id": 99873,
+            "acmi_id": "180384",
+            "title": "IMAX film comparison",
+            "title_annotation": "Facsimile",
+            "slug": "graphic-imax",
+            "creator_credit": "",
+            "credit_line": "",
+            "headline_credit": "",
+            "thumbnail": null,
+            "record_type": "work",
+            "type": "Object",
+            "is_on_display": true,
+            "last_on_display_place": "ACMI: Gallery 1",
+            "last_on_display_date": "2031-02-16",
+            "is_context_indigenous": false,
+            "material_description": "Graphic",
+            "unpublished": false,
+            "first_production_date": null,
+            "brief_description": "<p>70mm, 35mm and IMAX 70mm</p>",
+            "constellations_primary": [],
+            "constellations_other": [],
+            "recommendations": [],
+            "title_for_label": "<p>IMAX film comparison</p>",
+            "creator_credit_for_label": "",
+            "headline_credit_for_label": "",
+            "description": "<p>70mm, 35mm and IMAX 70mm</p>",
+            "description_for_label": [
+                "<p>70mm, 35mm and IMAX 70mm</p>"
+            ],
+            "credit_line_for_label": "",
+            "details": [
+                {
+                    "label": "Curatorial section",
+                    "display_values": [
+                        "The Story of the Moving Image&nbsp;→ Moving Pictures&nbsp;→ 08. Immersive Innovations&nbsp;→ MI-08-C01"
+                    ]
+                },
+                {
+                    "label": "Measurements",
+                    "display_values": [
+                        "105 x 180mm"
+                    ]
+                },
+                {
+                    "label": "Materials",
+                    "display_values": [
+                        "Graphic"
+                    ]
+                }
+            ],
+            "stats": {
+                "tap_count": 0
+            },
+            "links": [],
+            "creators_primary": [],
+            "creators_other": [],
+            "video_links": [],
+            "media_note": "Sorry, we aren't able to make images or video for this item available to the public online.",
+            "images": [],
+            "videos": [],
+            "holdings": [],
+            "part_of": null,
+            "parts": [],
+            "part_siblings": [],
+            "group": {
+                "id": 100550,
+                "acmi_id": "181519",
+                "title": "IMAX",
+                "title_annotation": "",
+                "slug": "imax",
+                "creator_credit": "",
+                "credit_line": "",
+                "headline_credit": "",
+                "thumbnail": {
+                    "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/P179567_Imax3DGlasses_34.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=aj5iWogkuapYyyvwyEJ9sRo8Olk%3D&Expires=1627009110",
+                    "has_video": false
+                },
+                "record_type": "group",
+                "type": "Film",
+                "is_on_display": true,
+                "last_on_display_place": "ACMI: Gallery 1",
+                "last_on_display_date": "2031-02-16",
+                "is_context_indigenous": false,
+                "material_description": "",
+                "unpublished": false,
+                "first_production_date": null
+            },
+            "group_works": [],
+            "group_siblings": [
+                {
+                    "id": 99570,
+                    "acmi_id": "179567",
+                    "title": "Electronic 3D glasses for domes",
+                    "title_annotation": "",
+                    "slug": "imax-fujitsu-electronic-3d-glasses-for-domes-liquid-crystal-shutters",
+                    "creator_credit": "IMAX and Fujitsu",
+                    "credit_line": "<p>Courtesy IMAX</p>",
+                    "headline_credit": "Canada",
+                    "thumbnail": {
+                        "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/P179567_Imax3DGlasses_34.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=aj5iWogkuapYyyvwyEJ9sRo8Olk%3D&Expires=1627009110",
+                        "has_video": false
+                    },
+                    "record_type": "work",
+                    "type": "Object",
+                    "is_on_display": true,
+                    "last_on_display_place": "ACMI: Gallery 1",
+                    "last_on_display_date": "2031-02-16",
+                    "is_context_indigenous": false,
+                    "material_description": "",
+                    "unpublished": false,
+                    "first_production_date": null
+                },
+                {
+                    "id": 99875,
+                    "acmi_id": "180386",
+                    "title": "Loading Film At The Feinstein IMAX Theatre",
+                    "title_annotation": "Facsimile",
+                    "slug": "graphic-loading-film-at-the-feinstein-imax-theatre",
+                    "creator_credit": "Dominic Chavez",
+                    "credit_line": "<p>Courtesy Boston Globe / Getty Images</p>",
+                    "headline_credit": "United States, 2001",
+                    "thumbnail": {
+                        "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/P180386_G096.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=VaYTAkdw4of98QAqGQD%2BEqGTAok%3D&Expires=1627009110",
+                        "has_video": false
+                    },
+                    "record_type": "work",
+                    "type": "Object",
+                    "is_on_display": true,
+                    "last_on_display_place": "ACMI: Gallery 1",
+                    "last_on_display_date": "2031-02-16",
+                    "is_context_indigenous": false,
+                    "material_description": "Graphic",
+                    "unpublished": false,
+                    "first_production_date": "2001-01-01T11:00:00+11:00"
+                },
+                {
+                    "id": 99874,
+                    "acmi_id": "180385",
+                    "title": "Typical 3D IMAX theatre",
+                    "title_annotation": "Facsimile",
+                    "slug": "graphic-typical-3d-imax-theatre",
+                    "creator_credit": "",
+                    "credit_line": "<p>Courtesy IMAX</p>",
+                    "headline_credit": "Canada",
+                    "thumbnail": null,
+                    "record_type": "work",
+                    "type": "Object",
+                    "is_on_display": true,
+                    "last_on_display_place": "ACMI: Gallery 1",
+                    "last_on_display_date": "2031-02-16",
+                    "is_context_indigenous": false,
+                    "material_description": "Graphic",
+                    "unpublished": false,
+                    "first_production_date": null
+                }
+            ],
+            "source": {
+                "name": "Vernon",
+                "slug": "vernon"
+            },
+            "source_identifier": "180384",
+            "production_places": [],
+            "production_dates": [],
+            "labels": [
+                39368
+            ]
+        },
+        {
+            "id": 99867,
+            "acmi_id": "180378",
+            "title": " \"I say, Sir…\" cartoon for Punch",
+            "title_annotation": "Facsimile",
+            "slug": "graphic-i-say-sir-john-leech-punch-may-17-1856",
+            "creator_credit": "Punch Magazine and John Leech",
+            "credit_line": "<p>Courtesy World History Archive / Alamy</p>",
+            "headline_credit": "1856",
+            "thumbnail": {
+                "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/P180378_G088.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=%2FUDN6aNOsO98efytPavz2zjUiDk%3D&Expires=1627009110",
+                "has_video": false
+            },
+            "record_type": "work",
+            "type": "Object",
+            "is_on_display": true,
+            "last_on_display_place": "ACMI: Gallery 1",
+            "last_on_display_date": "2031-02-16",
+            "is_context_indigenous": false,
+            "material_description": "Graphic",
+            "unpublished": false,
+            "first_production_date": "1856-01-01T09:40:00+09:40",
+            "brief_description": "",
+            "constellations_primary": [],
+            "constellations_other": [],
+            "recommendations": [],
+            "title_for_label": "<p>&#8220;I say, Sir…&#8221; cartoon for Punch</p>",
+            "creator_credit_for_label": "<p>Punch Magazine and John Leech</p>",
+            "headline_credit_for_label": "<p>1856</p>",
+            "description": "",
+            "description_for_label": [],
+            "credit_line_for_label": "<p>Courtesy World History Archive / Alamy</p>",
+            "details": [
+                {
+                    "label": "Curatorial section",
+                    "display_values": [
+                        "The Story of the Moving Image&nbsp;→ Moving Pictures&nbsp;→ 08. Immersive Innovations&nbsp;→ MI-08-C01"
+                    ]
+                },
+                {
+                    "label": "Measurements",
+                    "display_values": [
+                        "185 x 148mm"
+                    ]
+                },
+                {
+                    "label": "Materials",
+                    "display_values": [
+                        "Graphic"
+                    ]
+                }
+            ],
+            "stats": {
+                "tap_count": 0
+            },
+            "links": [],
+            "creators_primary": [
+                {
+                    "id": 1134510,
+                    "name": "Punch Magazine",
+                    "creator_id": 72033,
+                    "role": "publisher",
+                    "role_id": 942,
+                    "is_primary": true
+                },
+                {
+                    "id": 1134509,
+                    "name": "John Leech",
+                    "creator_id": 72032,
+                    "role": "artist",
+                    "role_id": 505,
+                    "is_primary": true
+                }
+            ],
+            "creators_other": [],
+            "video_links": [],
+            "media_note": null,
+            "images": [
+                {
+                    "id": 13078,
+                    "image_file": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/P180378_G088.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=ZgFk7EJ2kkTInIAoeSqbcvtu95Q%3D&Expires=1627009110",
+                    "image_file_thumbnail": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/P180378_G088.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=%2FUDN6aNOsO98efytPavz2zjUiDk%3D&Expires=1627009110",
+                    "image_file_xs": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/P180378_G088.jpg.480x480_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=TbJgn6RveISIkpLQlV%2Bjkp%2FMejg%3D&Expires=1627009110",
+                    "image_file_s": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/P180378_G088.jpg.960x960_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=hxgepvs68Sgu79OK5lQpE0xZr00%3D&Expires=1627009110",
+                    "image_file_m": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/P180378_G088.jpg.1920x1920_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=zy%2BWhs6BQEMb32M4MwT5fYwFPQg%3D&Expires=1627009110",
+                    "image_file_l": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/P180378_G088.jpg.3840x3840_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=fM0G5c9z%2FLaTlShamrG1v4aIxLg%3D&Expires=1627009110",
+                    "caption": "",
+                    "credit_line": "",
+                    "alt_text": "",
+                    "width": 4099,
+                    "height": 5116,
+                    "access_level": "View anywhere"
+                }
+            ],
+            "videos": [],
+            "holdings": [],
+            "part_of": null,
+            "parts": [],
+            "part_siblings": [],
+            "group": {
+                "id": 100525,
+                "acmi_id": "181518",
+                "title": "Stereoscopic viewers",
+                "title_annotation": "",
+                "slug": "stereoscopic-viewers",
+                "creator_credit": "",
+                "credit_line": "",
+                "headline_credit": "",
+                "thumbnail": {
+                    "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AEO176186_ElectricStereoscopicViewer_34.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=Q090LpO5txsbk6w9Rf4uAEstPM4%3D&Expires=1627009110",
+                    "has_video": false
+                },
+                "record_type": "group",
+                "type": "Film",
+                "is_on_display": true,
+                "last_on_display_place": "ACMI: Gallery 1",
+                "last_on_display_date": "2031-02-16",
+                "is_context_indigenous": false,
+                "material_description": "",
+                "unpublished": false,
+                "first_production_date": null
+            },
+            "group_works": [],
+            "group_siblings": [
+                {
+                    "id": 99461,
+                    "acmi_id": "176186",
+                    "title": "Electrical Stereoscopic Viewer",
+                    "title_annotation": "",
+                    "slug": "electrical-stereoscopic-viewer",
+                    "creator_credit": "Maker not documented",
+                    "credit_line": "",
+                    "headline_credit": "",
+                    "thumbnail": {
+                        "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AEO176186_ElectricStereoscopicViewer_34.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=Q090LpO5txsbk6w9Rf4uAEstPM4%3D&Expires=1627009110",
+                        "has_video": false
+                    },
+                    "record_type": "work",
+                    "type": "Object",
+                    "is_on_display": true,
+                    "last_on_display_place": "ACMI: Gallery 1",
+                    "last_on_display_date": "2031-02-16",
+                    "is_context_indigenous": false,
+                    "material_description": "",
+                    "unpublished": false,
+                    "first_production_date": null
+                },
+                {
+                    "id": 99459,
+                    "acmi_id": "176184",
+                    "title": "Paragon stereoviewer",
+                    "title_annotation": "",
+                    "slug": "keystone-stereoscopic-viewer",
+                    "creator_credit": "The Keystone View Company",
+                    "credit_line": "",
+                    "headline_credit": "United States, c. 1900",
+                    "thumbnail": {
+                        "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AEO176184_ParagonStereoviewer_34.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=o1BxQ%2ByvLixKAoeoJd5uxDRedpM%3D&Expires=1627009110",
+                        "has_video": false
+                    },
+                    "record_type": "work",
+                    "type": "Object",
+                    "is_on_display": true,
+                    "last_on_display_place": "ACMI: Gallery 1",
+                    "last_on_display_date": "2031-02-16",
+                    "is_context_indigenous": false,
+                    "material_description": "",
+                    "unpublished": false,
+                    "first_production_date": null
+                },
+                {
+                    "id": 99460,
+                    "acmi_id": "176185",
+                    "title": "Perfecscope stereoscopic viewer for 1900 Paris Exposition",
+                    "title_annotation": "",
+                    "slug": "the-perfecscope-stereoscopic-viewer",
+                    "creator_credit": "The Keystone View Company",
+                    "credit_line": "",
+                    "headline_credit": "United States, c. 1900",
+                    "thumbnail": {
+                        "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AEO176185_PercscopeStereoscopicViewer_Display.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=0E9JOMABUJ1DmJH1Tgtyj1NuwBI%3D&Expires=1627009110",
+                        "has_video": false
+                    },
+                    "record_type": "work",
+                    "type": "Object",
+                    "is_on_display": true,
+                    "last_on_display_place": "ACMI: Gallery 1",
+                    "last_on_display_date": "2031-02-16",
+                    "is_context_indigenous": false,
+                    "material_description": "Aluminium metal and wood",
+                    "unpublished": false,
+                    "first_production_date": null
+                },
+                {
+                    "id": 112092,
+                    "acmi_id": "183539",
+                    "title": "Stereoscopic image cards",
+                    "title_annotation": "",
+                    "slug": "stereoscopic-image-cards",
+                    "creator_credit": "",
+                    "credit_line": "<p>Courtesy Doug Hall</p>",
+                    "headline_credit": "",
+                    "thumbnail": {
+                        "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN176725_AndersonStBridgeAndAlexandraAve.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=pp6fQKAi6MOA6MeQ5aZ0cxbcxmY%3D&Expires=1627009110",
+                        "has_video": false
+                    },
+                    "record_type": "group",
+                    "type": "Film",
+                    "is_on_display": true,
+                    "last_on_display_place": "ACMI: Gallery 1",
+                    "last_on_display_date": "2031-02-16",
+                    "is_context_indigenous": false,
+                    "material_description": "",
+                    "unpublished": false,
+                    "first_production_date": null
+                },
+                {
+                    "id": 99916,
+                    "acmi_id": "181418",
+                    "title": "Stereoscopic interactive model",
+                    "title_annotation": "Interactive",
+                    "slug": "stereoscopic-interactive-model",
+                    "creator_credit": "",
+                    "credit_line": "",
+                    "headline_credit": "",
+                    "thumbnail": {
+                        "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/P181418_StereoscopicInteractiveModel.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=lSlyQGFEVGg3lC2uqLpOiOeMAqo%3D&Expires=1627009110",
+                        "has_video": false
+                    },
+                    "record_type": "work",
+                    "type": "Object",
+                    "is_on_display": true,
+                    "last_on_display_place": "ACMI: Gallery 1",
+                    "last_on_display_date": "2031-02-16",
+                    "is_context_indigenous": false,
+                    "material_description": "",
+                    "unpublished": false,
+                    "first_production_date": null
+                }
+            ],
+            "source": {
+                "name": "Vernon",
+                "slug": "vernon"
+            },
+            "source_identifier": "180378",
+            "production_places": [],
+            "production_dates": [
+                {
+                    "date": "1856",
+                    "notes": "",
+                    "to_year": "1856"
+                }
+            ],
+            "labels": [
+                39362
+            ]
+        },
+        {
+            "id": 99818,
+            "acmi_id": "180316",
+            "title": "Chronophotographic prints\nArab Horse Gallop",
+            "title_annotation": "Facsimile",
+            "slug": "graphic-arab-horse-gallop-1887",
+            "creator_credit": "Etienne-Jules Marey",
+            "credit_line": "<p>Courtesy Art Collection 4 / Granger Historical Picture Archive / Alamy</p>",
+            "headline_credit": "France, c. 1882-1890",
+            "thumbnail": {
+                "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/P180316_G024.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=LTMCXLK6wyguY9oHLGr7oQZsp%2BQ%3D&Expires=1627009110",
+                "has_video": false
+            },
+            "record_type": "work",
+            "type": "Object",
+            "is_on_display": true,
+            "last_on_display_place": "ACMI: Gallery 1",
+            "last_on_display_date": "2031-02-16",
+            "is_context_indigenous": false,
+            "material_description": "Digital print",
+            "unpublished": false,
+            "first_production_date": null,
+            "brief_description": "<p>French scientist Étienne-Jules Marey’s chronophotographic technique captured kinetic motion through multiple exposures in one photo. He used a photographic rifle with a revolving cylinder that shot 12 frames a second.</p>",
+            "constellations_primary": [],
+            "constellations_other": [],
+            "recommendations": [],
+            "title_for_label": "<p>Chronophotographic prints</p>",
+            "creator_credit_for_label": "<p>Etienne-Jules Marey</p>",
+            "headline_credit_for_label": "<p>France, c. 1882-1890</p>",
+            "description": "",
+            "description_for_label": [],
+            "credit_line_for_label": "<p>Courtesy Art Collection 4 / Granger Historical Picture Archive / Alamy</p>",
+            "details": [
+                {
+                    "label": "Curatorial sections",
+                    "display_values": [
+                        "The Story of the Moving Image&nbsp;→ Moving Pictures&nbsp;→ 03. Time and Movement",
+                        "The Story of the Moving Image&nbsp;→ Moving Pictures&nbsp;→ 03. Time and Movement&nbsp;→ MI-03-Splitting Time"
+                    ]
+                },
+                {
+                    "label": "Measurements",
+                    "display_values": [
+                        "210 x 550mm"
+                    ]
+                },
+                {
+                    "label": "Materials",
+                    "display_values": [
+                        "Digital print"
+                    ]
+                }
+            ],
+            "stats": {
+                "tap_count": 0
+            },
+            "links": [],
+            "creators_primary": [
+                {
+                    "id": 1134508,
+                    "name": "Etienne-Jules Marey",
+                    "creator_id": 72029,
+                    "role": "creator",
+                    "role_id": 968,
+                    "is_primary": true
+                }
+            ],
+            "creators_other": [],
+            "video_links": [],
+            "media_note": null,
+            "images": [
+                {
+                    "id": 12385,
+                    "image_file": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/P180316_G024.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=%2BnUGliPh3vF0i%2B%2Bx%2BmYjFWa%2B4sA%3D&Expires=1627009110",
+                    "image_file_thumbnail": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/P180316_G024.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=LTMCXLK6wyguY9oHLGr7oQZsp%2BQ%3D&Expires=1627009110",
+                    "image_file_xs": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/P180316_G024.jpg.480x480_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=b4P0FHzQiXYWslgsKKKqGkpndSQ%3D&Expires=1627009110",
+                    "image_file_s": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/P180316_G024.jpg.960x960_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=ySoKHzLZhCSWA23%2BunzW34pTaGM%3D&Expires=1627009110",
+                    "image_file_m": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/P180316_G024.jpg.1920x1920_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=4GkOj5jAo56lx221gm10vrz1rvE%3D&Expires=1627009110",
+                    "image_file_l": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/P180316_G024.jpg.3840x3840_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=d2Wag89E7gOA6Sxs39N2Fp0g2P4%3D&Expires=1627009110",
+                    "caption": "",
+                    "credit_line": "",
+                    "alt_text": "",
+                    "width": 2543,
+                    "height": 983,
+                    "access_level": "View anywhere"
+                }
+            ],
+            "videos": [],
+            "holdings": [],
+            "part_of": null,
+            "parts": [],
+            "part_siblings": [],
+            "group": {
+                "id": 112095,
+                "acmi_id": "183535",
+                "title": "Chronophotographic prints",
+                "title_annotation": "",
+                "slug": "chronophotographic-prints",
+                "creator_credit": "Etienne-Jules Marey",
+                "credit_line": "<p>Courtesy Art Collection 4 / Granger Historical Picture Archive / Alamy</p>",
+                "headline_credit": "1882-1890",
+                "thumbnail": {
+                    "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/P180316_G024.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=LTMCXLK6wyguY9oHLGr7oQZsp%2BQ%3D&Expires=1627009110",
+                    "has_video": false
+                },
+                "record_type": "group",
+                "type": "Film",
+                "is_on_display": true,
+                "last_on_display_place": "ACMI: Gallery 1",
+                "last_on_display_date": "2031-02-16",
+                "is_context_indigenous": false,
+                "material_description": "",
+                "unpublished": false,
+                "first_production_date": null
+            },
+            "group_works": [],
+            "group_siblings": [
+                {
+                    "id": 99816,
+                    "acmi_id": "180314",
+                    "title": "Chronophotographic prints\nBird in Flight",
+                    "title_annotation": "Facsimile",
+                    "slug": "graphic-bird-in-flight-1882",
+                    "creator_credit": "Etienne-Jules Marey",
+                    "credit_line": "<p>Courtesy Art Collection 4 / Granger Historical Picture Archive / Alamy</p>",
+                    "headline_credit": "France, c. 1882-1890",
+                    "thumbnail": {
+                        "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/P180314_G022.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=9xfZmyQ90o5JnmEi876NDLPDDaw%3D&Expires=1627009110",
+                        "has_video": false
+                    },
+                    "record_type": "work",
+                    "type": "Object",
+                    "is_on_display": true,
+                    "last_on_display_place": "ACMI: Gallery 1",
+                    "last_on_display_date": "2031-02-16",
+                    "is_context_indigenous": false,
+                    "material_description": "Digital print",
+                    "unpublished": false,
+                    "first_production_date": null
+                },
+                {
+                    "id": 99817,
+                    "acmi_id": "180315",
+                    "title": "Chronophotographic prints\nMovements in Pole Vaulting",
+                    "title_annotation": "Facsimile",
+                    "slug": "graphic-movements-in-pole-vaulting",
+                    "creator_credit": "Etienne-Jules Marey",
+                    "credit_line": "<p>Courtesy Art Collection 4 / Granger Historical Picture Archive / Alamy</p>",
+                    "headline_credit": "France, c. 1882-1890",
+                    "thumbnail": {
+                        "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/P180315_G023.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=8X5O%2FEaL7nwbIZvS3Fva8J%2BBICc%3D&Expires=1627009110",
+                        "has_video": false
+                    },
+                    "record_type": "work",
+                    "type": "Object",
+                    "is_on_display": true,
+                    "last_on_display_place": "ACMI: Gallery 1",
+                    "last_on_display_date": "2031-02-16",
+                    "is_context_indigenous": false,
+                    "material_description": "Digital print",
+                    "unpublished": false,
+                    "first_production_date": null
+                }
+            ],
+            "source": {
+                "name": "Vernon",
+                "slug": "vernon"
+            },
+            "source_identifier": "180316",
+            "production_places": [
+                {
+                    "id": 17,
+                    "name": "France",
+                    "slug": "france"
+                }
+            ],
+            "production_dates": [
+                {
+                    "date": "c. 1882-1890",
+                    "notes": "",
+                    "to_year": "c. 1882-1890"
+                }
+            ],
+            "labels": [
+                39313
+            ]
+        },
+        {
+            "id": 99817,
+            "acmi_id": "180315",
+            "title": "Chronophotographic prints\nMovements in Pole Vaulting",
+            "title_annotation": "Facsimile",
+            "slug": "graphic-movements-in-pole-vaulting",
+            "creator_credit": "Etienne-Jules Marey",
+            "credit_line": "<p>Courtesy Art Collection 4 / Granger Historical Picture Archive / Alamy</p>",
+            "headline_credit": "France, c. 1882-1890",
+            "thumbnail": {
+                "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/P180315_G023.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=8X5O%2FEaL7nwbIZvS3Fva8J%2BBICc%3D&Expires=1627009110",
+                "has_video": false
+            },
+            "record_type": "work",
+            "type": "Object",
+            "is_on_display": true,
+            "last_on_display_place": "ACMI: Gallery 1",
+            "last_on_display_date": "2031-02-16",
+            "is_context_indigenous": false,
+            "material_description": "Digital print",
+            "unpublished": false,
+            "first_production_date": null,
+            "brief_description": "<p>French scientist Étienne-Jules Marey’s chronophotographic technique captured kinetic motion through multiple exposures in one photo. He used a photographic rifle with a revolving cylinder that shot 12 frames a second.</p>",
+            "constellations_primary": [],
+            "constellations_other": [],
+            "recommendations": [],
+            "title_for_label": "<p>Chronophotographic prints</p>",
+            "creator_credit_for_label": "<p>Etienne-Jules Marey</p>",
+            "headline_credit_for_label": "<p>France, c. 1882-1890</p>",
+            "description": "",
+            "description_for_label": [],
+            "credit_line_for_label": "<p>Courtesy Art Collection 4 / Granger Historical Picture Archive / Alamy</p>",
+            "details": [
+                {
+                    "label": "Curatorial sections",
+                    "display_values": [
+                        "The Story of the Moving Image&nbsp;→ Moving Pictures&nbsp;→ 03. Time and Movement",
+                        "The Story of the Moving Image&nbsp;→ Moving Pictures&nbsp;→ 03. Time and Movement&nbsp;→ MI-03-Splitting Time"
+                    ]
+                },
+                {
+                    "label": "Measurements",
+                    "display_values": [
+                        "200 x 500mm"
+                    ]
+                },
+                {
+                    "label": "Materials",
+                    "display_values": [
+                        "Digital print"
+                    ]
+                }
+            ],
+            "stats": {
+                "tap_count": 0
+            },
+            "links": [],
+            "creators_primary": [
+                {
+                    "id": 1134507,
+                    "name": "Etienne-Jules Marey",
+                    "creator_id": 72029,
+                    "role": "creator",
+                    "role_id": 968,
+                    "is_primary": true
+                }
+            ],
+            "creators_other": [],
+            "video_links": [],
+            "media_note": null,
+            "images": [
+                {
+                    "id": 12384,
+                    "image_file": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/P180315_G023.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=NqundeAytz8s9618zaCETjqJ1HU%3D&Expires=1627009110",
+                    "image_file_thumbnail": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/P180315_G023.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=8X5O%2FEaL7nwbIZvS3Fva8J%2BBICc%3D&Expires=1627009110",
+                    "image_file_xs": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/P180315_G023.jpg.480x480_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=9vZvS7FpS5eFKhNEOLGgunT9tgc%3D&Expires=1627009110",
+                    "image_file_s": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/P180315_G023.jpg.960x960_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=QJdXqMtE4gwDpjbWlw5IT2%2BFNT8%3D&Expires=1627009110",
+                    "image_file_m": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/P180315_G023.jpg.1920x1920_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=qq%2BoByYAPGk9OCLTSD21aHKPbG0%3D&Expires=1627009110",
+                    "image_file_l": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/P180315_G023.jpg.3840x3840_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=dPsmnC22StGOMWIQ4fyipROghLM%3D&Expires=1627009110",
+                    "caption": "",
+                    "credit_line": "",
+                    "alt_text": "",
+                    "width": 2495,
+                    "height": 1002,
+                    "access_level": "View anywhere"
+                }
+            ],
+            "videos": [],
+            "holdings": [],
+            "part_of": null,
+            "parts": [],
+            "part_siblings": [],
+            "group": {
+                "id": 112095,
+                "acmi_id": "183535",
+                "title": "Chronophotographic prints",
+                "title_annotation": "",
+                "slug": "chronophotographic-prints",
+                "creator_credit": "Etienne-Jules Marey",
+                "credit_line": "<p>Courtesy Art Collection 4 / Granger Historical Picture Archive / Alamy</p>",
+                "headline_credit": "1882-1890",
+                "thumbnail": {
+                    "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/P180316_G024.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=LTMCXLK6wyguY9oHLGr7oQZsp%2BQ%3D&Expires=1627009110",
+                    "has_video": false
+                },
+                "record_type": "group",
+                "type": "Film",
+                "is_on_display": true,
+                "last_on_display_place": "ACMI: Gallery 1",
+                "last_on_display_date": "2031-02-16",
+                "is_context_indigenous": false,
+                "material_description": "",
+                "unpublished": false,
+                "first_production_date": null
+            },
+            "group_works": [],
+            "group_siblings": [
+                {
+                    "id": 99818,
+                    "acmi_id": "180316",
+                    "title": "Chronophotographic prints\nArab Horse Gallop",
+                    "title_annotation": "Facsimile",
+                    "slug": "graphic-arab-horse-gallop-1887",
+                    "creator_credit": "Etienne-Jules Marey",
+                    "credit_line": "<p>Courtesy Art Collection 4 / Granger Historical Picture Archive / Alamy</p>",
+                    "headline_credit": "France, c. 1882-1890",
+                    "thumbnail": {
+                        "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/P180316_G024.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=LTMCXLK6wyguY9oHLGr7oQZsp%2BQ%3D&Expires=1627009110",
+                        "has_video": false
+                    },
+                    "record_type": "work",
+                    "type": "Object",
+                    "is_on_display": true,
+                    "last_on_display_place": "ACMI: Gallery 1",
+                    "last_on_display_date": "2031-02-16",
+                    "is_context_indigenous": false,
+                    "material_description": "Digital print",
+                    "unpublished": false,
+                    "first_production_date": null
+                },
+                {
+                    "id": 99816,
+                    "acmi_id": "180314",
+                    "title": "Chronophotographic prints\nBird in Flight",
+                    "title_annotation": "Facsimile",
+                    "slug": "graphic-bird-in-flight-1882",
+                    "creator_credit": "Etienne-Jules Marey",
+                    "credit_line": "<p>Courtesy Art Collection 4 / Granger Historical Picture Archive / Alamy</p>",
+                    "headline_credit": "France, c. 1882-1890",
+                    "thumbnail": {
+                        "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/P180314_G022.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=9xfZmyQ90o5JnmEi876NDLPDDaw%3D&Expires=1627009110",
+                        "has_video": false
+                    },
+                    "record_type": "work",
+                    "type": "Object",
+                    "is_on_display": true,
+                    "last_on_display_place": "ACMI: Gallery 1",
+                    "last_on_display_date": "2031-02-16",
+                    "is_context_indigenous": false,
+                    "material_description": "Digital print",
+                    "unpublished": false,
+                    "first_production_date": null
+                }
+            ],
+            "source": {
+                "name": "Vernon",
+                "slug": "vernon"
+            },
+            "source_identifier": "180315",
+            "production_places": [
+                {
+                    "id": 17,
+                    "name": "France",
+                    "slug": "france"
+                }
+            ],
+            "production_dates": [
+                {
+                    "date": "c. 1882-1890",
+                    "notes": "",
+                    "to_year": "c. 1882-1890"
+                }
+            ],
+            "labels": [
+                39312
+            ]
+        },
+        {
+            "id": 99816,
+            "acmi_id": "180314",
+            "title": "Chronophotographic prints\nBird in Flight",
+            "title_annotation": "Facsimile",
+            "slug": "graphic-bird-in-flight-1882",
+            "creator_credit": "Etienne-Jules Marey",
+            "credit_line": "<p>Courtesy Art Collection 4 / Granger Historical Picture Archive / Alamy</p>",
+            "headline_credit": "France, c. 1882-1890",
+            "thumbnail": {
+                "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/P180314_G022.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=9xfZmyQ90o5JnmEi876NDLPDDaw%3D&Expires=1627009110",
+                "has_video": false
+            },
+            "record_type": "work",
+            "type": "Object",
+            "is_on_display": true,
+            "last_on_display_place": "ACMI: Gallery 1",
+            "last_on_display_date": "2031-02-16",
+            "is_context_indigenous": false,
+            "material_description": "Digital print",
+            "unpublished": false,
+            "first_production_date": null,
+            "brief_description": "<p>French scientist Étienne-Jules Marey’s chronophotographic technique captured kinetic motion through multiple exposures in one photo. He used a photographic rifle with a revolving cylinder that shot 12 frames a second.</p>",
+            "constellations_primary": [],
+            "constellations_other": [],
+            "recommendations": [],
+            "title_for_label": "<p>Chronophotographic prints</p>",
+            "creator_credit_for_label": "<p>Etienne-Jules Marey</p>",
+            "headline_credit_for_label": "<p>France, c. 1882-1890</p>",
+            "description": "",
+            "description_for_label": [],
+            "credit_line_for_label": "<p>Courtesy Art Collection 4 / Granger Historical Picture Archive / Alamy</p>",
+            "details": [
+                {
+                    "label": "Curatorial sections",
+                    "display_values": [
+                        "The Story of the Moving Image&nbsp;→ Moving Pictures&nbsp;→ 03. Time and Movement",
+                        "The Story of the Moving Image&nbsp;→ Moving Pictures&nbsp;→ 03. Time and Movement&nbsp;→ MI-03-Splitting Time"
+                    ]
+                },
+                {
+                    "label": "Measurements",
+                    "display_values": [
+                        "300 x 500mm"
+                    ]
+                },
+                {
+                    "label": "Materials",
+                    "display_values": [
+                        "Digital print"
+                    ]
+                }
+            ],
+            "stats": {
+                "tap_count": 0
+            },
+            "links": [],
+            "creators_primary": [
+                {
+                    "id": 1134506,
+                    "name": "Etienne-Jules Marey",
+                    "creator_id": 72029,
+                    "role": "creator",
+                    "role_id": 968,
+                    "is_primary": true
+                }
+            ],
+            "creators_other": [],
+            "video_links": [],
+            "media_note": null,
+            "images": [
+                {
+                    "id": 12383,
+                    "image_file": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/P180314_G022.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=Y1nNQQeuyvsrmpibWH08fQOmDOo%3D&Expires=1627009110",
+                    "image_file_thumbnail": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/P180314_G022.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=9xfZmyQ90o5JnmEi876NDLPDDaw%3D&Expires=1627009110",
+                    "image_file_xs": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/P180314_G022.jpg.480x480_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=F1P7kEcziHpDdrU5hD11DVSuBc0%3D&Expires=1627009110",
+                    "image_file_s": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/P180314_G022.jpg.960x960_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=xQXSNDo63laSybaistJacJNWFe0%3D&Expires=1627009110",
+                    "image_file_m": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/P180314_G022.jpg.1920x1920_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=EdLjathwBuhxSGi2bizF0GOWTOc%3D&Expires=1627009110",
+                    "image_file_l": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/P180314_G022.jpg.3840x3840_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=jkKuSqBR6LDH2h5%2F%2FYLQLNRTS68%3D&Expires=1627009110",
+                    "caption": "",
+                    "credit_line": "",
+                    "alt_text": "",
+                    "width": 3240,
+                    "height": 2024,
+                    "access_level": "View anywhere"
+                }
+            ],
+            "videos": [],
+            "holdings": [],
+            "part_of": null,
+            "parts": [],
+            "part_siblings": [],
+            "group": {
+                "id": 112095,
+                "acmi_id": "183535",
+                "title": "Chronophotographic prints",
+                "title_annotation": "",
+                "slug": "chronophotographic-prints",
+                "creator_credit": "Etienne-Jules Marey",
+                "credit_line": "<p>Courtesy Art Collection 4 / Granger Historical Picture Archive / Alamy</p>",
+                "headline_credit": "1882-1890",
+                "thumbnail": {
+                    "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/P180316_G024.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=LTMCXLK6wyguY9oHLGr7oQZsp%2BQ%3D&Expires=1627009110",
+                    "has_video": false
+                },
+                "record_type": "group",
+                "type": "Film",
+                "is_on_display": true,
+                "last_on_display_place": "ACMI: Gallery 1",
+                "last_on_display_date": "2031-02-16",
+                "is_context_indigenous": false,
+                "material_description": "",
+                "unpublished": false,
+                "first_production_date": null
+            },
+            "group_works": [],
+            "group_siblings": [
+                {
+                    "id": 99818,
+                    "acmi_id": "180316",
+                    "title": "Chronophotographic prints\nArab Horse Gallop",
+                    "title_annotation": "Facsimile",
+                    "slug": "graphic-arab-horse-gallop-1887",
+                    "creator_credit": "Etienne-Jules Marey",
+                    "credit_line": "<p>Courtesy Art Collection 4 / Granger Historical Picture Archive / Alamy</p>",
+                    "headline_credit": "France, c. 1882-1890",
+                    "thumbnail": {
+                        "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/P180316_G024.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=LTMCXLK6wyguY9oHLGr7oQZsp%2BQ%3D&Expires=1627009110",
+                        "has_video": false
+                    },
+                    "record_type": "work",
+                    "type": "Object",
+                    "is_on_display": true,
+                    "last_on_display_place": "ACMI: Gallery 1",
+                    "last_on_display_date": "2031-02-16",
+                    "is_context_indigenous": false,
+                    "material_description": "Digital print",
+                    "unpublished": false,
+                    "first_production_date": null
+                },
+                {
+                    "id": 99817,
+                    "acmi_id": "180315",
+                    "title": "Chronophotographic prints\nMovements in Pole Vaulting",
+                    "title_annotation": "Facsimile",
+                    "slug": "graphic-movements-in-pole-vaulting",
+                    "creator_credit": "Etienne-Jules Marey",
+                    "credit_line": "<p>Courtesy Art Collection 4 / Granger Historical Picture Archive / Alamy</p>",
+                    "headline_credit": "France, c. 1882-1890",
+                    "thumbnail": {
+                        "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/P180315_G023.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=8X5O%2FEaL7nwbIZvS3Fva8J%2BBICc%3D&Expires=1627009110",
+                        "has_video": false
+                    },
+                    "record_type": "work",
+                    "type": "Object",
+                    "is_on_display": true,
+                    "last_on_display_place": "ACMI: Gallery 1",
+                    "last_on_display_date": "2031-02-16",
+                    "is_context_indigenous": false,
+                    "material_description": "Digital print",
+                    "unpublished": false,
+                    "first_production_date": null
+                }
+            ],
+            "source": {
+                "name": "Vernon",
+                "slug": "vernon"
+            },
+            "source_identifier": "180314",
+            "production_places": [
+                {
+                    "id": 17,
+                    "name": "France",
+                    "slug": "france"
+                }
+            ],
+            "production_dates": [
+                {
+                    "date": "c. 1882-1890",
+                    "notes": "",
+                    "to_year": "c. 1882-1890"
+                }
+            ],
+            "labels": [
+                39311
+            ]
+        },
+        {
+            "id": 99815,
+            "acmi_id": "180313",
+            "title": "Sequential photographs\nMotion Studies: Straight High Jump",
+            "title_annotation": "Facsimile",
+            "slug": "graphic-woman-jumping-running-straight-high-jump",
+            "creator_credit": "Eadweard Muybridge",
+            "credit_line": "<p>Courtesy Heritage Image Partnership Ltd / World History Archive / Welcome Collection / Alamy</p>",
+            "headline_credit": "United Kingdom, 1887",
+            "thumbnail": {
+                "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/P180313_G021.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=uMU4w9wheSzpP6rl4jpkrTyfj9Y%3D&Expires=1627009110",
+                "has_video": false
+            },
+            "record_type": "work",
+            "type": "Object",
+            "is_on_display": true,
+            "last_on_display_place": "ACMI: Gallery 1",
+            "last_on_display_date": "2031-02-16",
+            "is_context_indigenous": false,
+            "material_description": "Digital print",
+            "unpublished": false,
+            "first_production_date": "1887-01-01T09:40:00+09:40",
+            "brief_description": "<p>British American photographer Eadweard Muybridge laid the foundation of the moving image. Using multiple cameras triggered by trip wires, he captured a galloping horse in sequential images, reproduced them in a zoetrope and created the world’s first moving photographs.</p>",
+            "constellations_primary": [],
+            "constellations_other": [],
+            "recommendations": [],
+            "title_for_label": "<p>Sequential photographs</p>",
+            "creator_credit_for_label": "<p>Eadweard Muybridge</p>",
+            "headline_credit_for_label": "<p>United Kingdom, 1887</p>",
+            "description": "",
+            "description_for_label": [],
+            "credit_line_for_label": "<p>Courtesy Heritage Image Partnership Ltd / World History Archive / Welcome Collection / Alamy</p>",
+            "details": [
+                {
+                    "label": "Curatorial sections",
+                    "display_values": [
+                        "The Story of the Moving Image&nbsp;→ Moving Pictures&nbsp;→ 03. Time and Movement",
+                        "The Story of the Moving Image&nbsp;→ Moving Pictures&nbsp;→ 03. Time and Movement&nbsp;→ MI-03-Splitting Time"
+                    ]
+                },
+                {
+                    "label": "Measurements",
+                    "display_values": [
+                        "250 x 600mm"
+                    ]
+                },
+                {
+                    "label": "Materials",
+                    "display_values": [
+                        "Digital print"
+                    ]
+                }
+            ],
+            "stats": {
+                "tap_count": 0
+            },
+            "links": [],
+            "creators_primary": [
+                {
+                    "id": 1134505,
+                    "name": "Eadweard Muybridge",
+                    "creator_id": 72028,
+                    "role": "creator",
+                    "role_id": 968,
+                    "is_primary": true
+                }
+            ],
+            "creators_other": [],
+            "video_links": [],
+            "media_note": null,
+            "images": [
+                {
+                    "id": 12382,
+                    "image_file": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/P180313_G021.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=eP1wgoUWPKTfVYEO0RORb67Xdhw%3D&Expires=1627009110",
+                    "image_file_thumbnail": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/P180313_G021.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=uMU4w9wheSzpP6rl4jpkrTyfj9Y%3D&Expires=1627009110",
+                    "image_file_xs": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/P180313_G021.jpg.480x480_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=9WhrHDpv85pmMESoejHJrNZPNUs%3D&Expires=1627009110",
+                    "image_file_s": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/P180313_G021.jpg.960x960_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=14wfl4eIY6cQcaC8jatOS2V8iHo%3D&Expires=1627009110",
+                    "image_file_m": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/P180313_G021.jpg.1920x1920_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=xw%2B0yED%2B61QAanQcrVZmNLcLqLU%3D&Expires=1627009110",
+                    "image_file_l": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/P180313_G021.jpg.3840x3840_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=GxxI5Goyd7OYwFz0w%2BwCLPybfCw%3D&Expires=1627009110",
+                    "caption": "",
+                    "credit_line": "",
+                    "alt_text": "",
+                    "width": 5043,
+                    "height": 2094,
+                    "access_level": "View anywhere"
+                }
+            ],
+            "videos": [],
+            "holdings": [],
+            "part_of": null,
+            "parts": [],
+            "part_siblings": [],
+            "group": {
+                "id": 112094,
+                "acmi_id": "183537",
+                "title": "Sequential photographs",
+                "title_annotation": "",
+                "slug": "sequential-photographs",
+                "creator_credit": "Eadweard Muybridge",
+                "credit_line": "<p>Courtesy Heritage Image Partnership Ltd / World History Archive / Welcome Collection / Alamy</p>",
+                "headline_credit": "1887",
+                "thumbnail": {
+                    "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/P180308_G016_resaved_2.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=QlXUvLOGps4xIXGUOo8qxYKaLEQ%3D&Expires=1627009110",
+                    "has_video": false
+                },
+                "record_type": "group",
+                "type": "Film",
+                "is_on_display": true,
+                "last_on_display_place": "ACMI: Gallery 1",
+                "last_on_display_date": "2031-02-16",
+                "is_context_indigenous": false,
+                "material_description": "",
+                "unpublished": false,
+                "first_production_date": "1887-01-01T09:40:00+09:40"
+            },
+            "group_works": [],
+            "group_siblings": [
+                {
+                    "id": 99812,
+                    "acmi_id": "180310",
+                    "title": "Sequential photographs\nMotion Studies: A man standing on his hands from a lying down position",
+                    "title_annotation": "Facsimile",
+                    "slug": "graphic-a-man-standing-on-his-hands-from-a-lying-down-position",
+                    "creator_credit": "Eadweard Muybridge",
+                    "credit_line": "<p>Courtesy Heritage Image Partnership Ltd / World History Archive / Welcome Collection / Alamy</p>",
+                    "headline_credit": "United Kingdom, 1887",
+                    "thumbnail": null,
+                    "record_type": "work",
+                    "type": "Object",
+                    "is_on_display": true,
+                    "last_on_display_place": "ACMI: Gallery 1",
+                    "last_on_display_date": "2031-02-16",
+                    "is_context_indigenous": false,
+                    "material_description": "Digital print",
+                    "unpublished": false,
+                    "first_production_date": "1887-01-01T09:40:00+09:40"
+                },
+                {
+                    "id": 99810,
+                    "acmi_id": "180308",
+                    "title": "Sequential photographs\nMotion Studies: Horse",
+                    "title_annotation": "Facsimile",
+                    "slug": "graphic-motion-studies-horse-image-1887",
+                    "creator_credit": "Eadweard Muybridge",
+                    "credit_line": "<p>Courtesy Heritage Image Partnership Ltd / World History Archive / Welcome Collection / Alamy</p>",
+                    "headline_credit": "United Kingdom, 1887",
+                    "thumbnail": {
+                        "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/P180308_G016_resaved_2.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=QlXUvLOGps4xIXGUOo8qxYKaLEQ%3D&Expires=1627009110",
+                        "has_video": false
+                    },
+                    "record_type": "work",
+                    "type": "Object",
+                    "is_on_display": true,
+                    "last_on_display_place": "ACMI: Gallery 1",
+                    "last_on_display_date": "2031-02-16",
+                    "is_context_indigenous": false,
+                    "material_description": "Digital print",
+                    "unpublished": false,
+                    "first_production_date": "1887-01-01T09:40:00+09:40"
+                },
+                {
+                    "id": 99814,
+                    "acmi_id": "180312",
+                    "title": "Sequential photographs\nMotion Studies: Man with Hat",
+                    "title_annotation": "Facsimile",
+                    "slug": "graphic-motion-studies-man-with-hat-1987",
+                    "creator_credit": "Eadweard Muybridge",
+                    "credit_line": "<p>Courtesy Heritage Image Partnership Ltd / World History Archive / Welcome Collection / Alamy</p>",
+                    "headline_credit": "United Kingdom, 1887",
+                    "thumbnail": {
+                        "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/P180312_G020.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=eso9VYv1qT4PQsHBF7gCkAmWacI%3D&Expires=1627009110",
+                        "has_video": false
+                    },
+                    "record_type": "work",
+                    "type": "Object",
+                    "is_on_display": true,
+                    "last_on_display_place": "ACMI: Gallery 1",
+                    "last_on_display_date": "2031-02-16",
+                    "is_context_indigenous": false,
+                    "material_description": "Digital print",
+                    "unpublished": false,
+                    "first_production_date": "1887-01-01T09:40:00+09:40"
+                }
+            ],
+            "source": {
+                "name": "Vernon",
+                "slug": "vernon"
+            },
+            "source_identifier": "180313",
+            "production_places": [
+                {
+                    "id": 10,
+                    "name": "United Kingdom",
+                    "slug": "united-kingdom"
+                }
+            ],
+            "production_dates": [
+                {
+                    "date": "1887",
+                    "notes": "",
+                    "to_year": "1887"
+                }
+            ],
+            "labels": [
+                39310
+            ]
+        },
+        {
+            "id": 99814,
+            "acmi_id": "180312",
+            "title": "Sequential photographs\nMotion Studies: Man with Hat",
+            "title_annotation": "Facsimile",
+            "slug": "graphic-motion-studies-man-with-hat-1987",
+            "creator_credit": "Eadweard Muybridge",
+            "credit_line": "<p>Courtesy Heritage Image Partnership Ltd / World History Archive / Welcome Collection / Alamy</p>",
+            "headline_credit": "United Kingdom, 1887",
+            "thumbnail": {
+                "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/P180312_G020.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=eso9VYv1qT4PQsHBF7gCkAmWacI%3D&Expires=1627009110",
+                "has_video": false
+            },
+            "record_type": "work",
+            "type": "Object",
+            "is_on_display": true,
+            "last_on_display_place": "ACMI: Gallery 1",
+            "last_on_display_date": "2031-02-16",
+            "is_context_indigenous": false,
+            "material_description": "Digital print",
+            "unpublished": false,
+            "first_production_date": "1887-01-01T09:40:00+09:40",
+            "brief_description": "<p>British American photographer Eadweard Muybridge laid the foundation of the moving image. Using multiple cameras triggered by trip wires, he captured a galloping horse in sequential images, reproduced them in a zoetrope and created the world’s first moving photographs.</p>",
+            "constellations_primary": [],
+            "constellations_other": [],
+            "recommendations": [],
+            "title_for_label": "<p>Sequential photographs</p>",
+            "creator_credit_for_label": "<p>Eadweard Muybridge</p>",
+            "headline_credit_for_label": "<p>United Kingdom, 1887</p>",
+            "description": "",
+            "description_for_label": [],
+            "credit_line_for_label": "<p>Courtesy Heritage Image Partnership Ltd / World History Archive / Welcome Collection / Alamy</p>",
+            "details": [
+                {
+                    "label": "Curatorial sections",
+                    "display_values": [
+                        "The Story of the Moving Image&nbsp;→ Moving Pictures&nbsp;→ 03. Time and Movement",
+                        "The Story of the Moving Image&nbsp;→ Moving Pictures&nbsp;→ 03. Time and Movement&nbsp;→ MI-03-Splitting Time"
+                    ]
+                },
+                {
+                    "label": "Measurements",
+                    "display_values": [
+                        "470 x 800mm"
+                    ]
+                },
+                {
+                    "label": "Materials",
+                    "display_values": [
+                        "Digital print"
+                    ]
+                }
+            ],
+            "stats": {
+                "tap_count": 0
+            },
+            "links": [],
+            "creators_primary": [
+                {
+                    "id": 1134504,
+                    "name": "Eadweard Muybridge",
+                    "creator_id": 72028,
+                    "role": "creator",
+                    "role_id": 968,
+                    "is_primary": true
+                }
+            ],
+            "creators_other": [],
+            "video_links": [],
+            "media_note": null,
+            "images": [
+                {
+                    "id": 12381,
+                    "image_file": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/P180312_G020.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=xG1xPYATSIRbOOE8SiYUfSBS0zk%3D&Expires=1627009110",
+                    "image_file_thumbnail": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/P180312_G020.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=eso9VYv1qT4PQsHBF7gCkAmWacI%3D&Expires=1627009110",
+                    "image_file_xs": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/P180312_G020.jpg.480x480_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=Sg2RhTdYgkDPoKDRQFdsg%2B%2FTJOs%3D&Expires=1627009110",
+                    "image_file_s": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/P180312_G020.jpg.960x960_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=xCJKIxK7QP%2BZ6uV6Z59w78yz%2Fok%3D&Expires=1627009110",
+                    "image_file_m": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/P180312_G020.jpg.1920x1920_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=5SKsUHeIph1gz4YuVR83DJ%2FUKqw%3D&Expires=1627009110",
+                    "image_file_l": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/P180312_G020.jpg.3840x3840_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=6x25n7ENF%2F%2FTLp1ufcrdPvUv5%2Bo%3D&Expires=1627009110",
+                    "caption": "",
+                    "credit_line": "",
+                    "alt_text": "",
+                    "width": 3096,
+                    "height": 2139,
+                    "access_level": "View anywhere"
+                }
+            ],
+            "videos": [],
+            "holdings": [],
+            "part_of": null,
+            "parts": [],
+            "part_siblings": [],
+            "group": {
+                "id": 112094,
+                "acmi_id": "183537",
+                "title": "Sequential photographs",
+                "title_annotation": "",
+                "slug": "sequential-photographs",
+                "creator_credit": "Eadweard Muybridge",
+                "credit_line": "<p>Courtesy Heritage Image Partnership Ltd / World History Archive / Welcome Collection / Alamy</p>",
+                "headline_credit": "1887",
+                "thumbnail": {
+                    "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/P180308_G016_resaved_2.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=QlXUvLOGps4xIXGUOo8qxYKaLEQ%3D&Expires=1627009110",
+                    "has_video": false
+                },
+                "record_type": "group",
+                "type": "Film",
+                "is_on_display": true,
+                "last_on_display_place": "ACMI: Gallery 1",
+                "last_on_display_date": "2031-02-16",
+                "is_context_indigenous": false,
+                "material_description": "",
+                "unpublished": false,
+                "first_production_date": "1887-01-01T09:40:00+09:40"
+            },
+            "group_works": [],
+            "group_siblings": [
+                {
+                    "id": 99812,
+                    "acmi_id": "180310",
+                    "title": "Sequential photographs\nMotion Studies: A man standing on his hands from a lying down position",
+                    "title_annotation": "Facsimile",
+                    "slug": "graphic-a-man-standing-on-his-hands-from-a-lying-down-position",
+                    "creator_credit": "Eadweard Muybridge",
+                    "credit_line": "<p>Courtesy Heritage Image Partnership Ltd / World History Archive / Welcome Collection / Alamy</p>",
+                    "headline_credit": "United Kingdom, 1887",
+                    "thumbnail": null,
+                    "record_type": "work",
+                    "type": "Object",
+                    "is_on_display": true,
+                    "last_on_display_place": "ACMI: Gallery 1",
+                    "last_on_display_date": "2031-02-16",
+                    "is_context_indigenous": false,
+                    "material_description": "Digital print",
+                    "unpublished": false,
+                    "first_production_date": "1887-01-01T09:40:00+09:40"
+                },
+                {
+                    "id": 99810,
+                    "acmi_id": "180308",
+                    "title": "Sequential photographs\nMotion Studies: Horse",
+                    "title_annotation": "Facsimile",
+                    "slug": "graphic-motion-studies-horse-image-1887",
+                    "creator_credit": "Eadweard Muybridge",
+                    "credit_line": "<p>Courtesy Heritage Image Partnership Ltd / World History Archive / Welcome Collection / Alamy</p>",
+                    "headline_credit": "United Kingdom, 1887",
+                    "thumbnail": {
+                        "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/P180308_G016_resaved_2.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=QlXUvLOGps4xIXGUOo8qxYKaLEQ%3D&Expires=1627009110",
+                        "has_video": false
+                    },
+                    "record_type": "work",
+                    "type": "Object",
+                    "is_on_display": true,
+                    "last_on_display_place": "ACMI: Gallery 1",
+                    "last_on_display_date": "2031-02-16",
+                    "is_context_indigenous": false,
+                    "material_description": "Digital print",
+                    "unpublished": false,
+                    "first_production_date": "1887-01-01T09:40:00+09:40"
+                },
+                {
+                    "id": 99815,
+                    "acmi_id": "180313",
+                    "title": "Sequential photographs\nMotion Studies: Straight High Jump",
+                    "title_annotation": "Facsimile",
+                    "slug": "graphic-woman-jumping-running-straight-high-jump",
+                    "creator_credit": "Eadweard Muybridge",
+                    "credit_line": "<p>Courtesy Heritage Image Partnership Ltd / World History Archive / Welcome Collection / Alamy</p>",
+                    "headline_credit": "United Kingdom, 1887",
+                    "thumbnail": {
+                        "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/P180313_G021.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=uMU4w9wheSzpP6rl4jpkrTyfj9Y%3D&Expires=1627009110",
+                        "has_video": false
+                    },
+                    "record_type": "work",
+                    "type": "Object",
+                    "is_on_display": true,
+                    "last_on_display_place": "ACMI: Gallery 1",
+                    "last_on_display_date": "2031-02-16",
+                    "is_context_indigenous": false,
+                    "material_description": "Digital print",
+                    "unpublished": false,
+                    "first_production_date": "1887-01-01T09:40:00+09:40"
+                }
+            ],
+            "source": {
+                "name": "Vernon",
+                "slug": "vernon"
+            },
+            "source_identifier": "180312",
+            "production_places": [
+                {
+                    "id": 10,
+                    "name": "United Kingdom",
+                    "slug": "united-kingdom"
+                }
+            ],
+            "production_dates": [
+                {
+                    "date": "1887",
+                    "notes": "",
+                    "to_year": "1887"
+                }
+            ],
+            "labels": [
+                39309
+            ]
+        },
+        {
+            "id": 99813,
+            "acmi_id": "180311",
+            "title": "Gelatin silver print\nGolfer",
+            "title_annotation": "Facsimile",
+            "slug": "graphic-golfer",
+            "creator_credit": "Harold Edgerton",
+            "credit_line": "<p>Courtesy ©2010 MIT Museum</p>",
+            "headline_credit": "United States, c. 1938-1957",
+            "thumbnail": {
+                "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/P180311_G019.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=cC6FQsruI8NvozkwhmG%2BoKZemQM%3D&Expires=1627009110",
+                "has_video": false
+            },
+            "record_type": "work",
+            "type": "Object",
+            "is_on_display": true,
+            "last_on_display_place": "ACMI: Gallery 1",
+            "last_on_display_date": "2031-02-16",
+            "is_context_indigenous": false,
+            "material_description": "Digital print",
+            "unpublished": false,
+            "first_production_date": null,
+            "brief_description": "<p>American professor Harold ‘Doc’ Edgerton’s pioneering development of the electric stroboscopic flash suspended movement, stopping skipping ropes mid-swing – and even speeding bullets.</p>",
+            "constellations_primary": [],
+            "constellations_other": [],
+            "recommendations": [],
+            "title_for_label": "<p>Gelatin silver prints</p>",
+            "creator_credit_for_label": "<p>Harold Edgerton</p>",
+            "headline_credit_for_label": "<p>United States, c. 1938-1957</p>",
+            "description": "",
+            "description_for_label": [],
+            "credit_line_for_label": "<p>Courtesy ©2010 MIT Museum</p>",
+            "details": [
+                {
+                    "label": "Curatorial sections",
+                    "display_values": [
+                        "The Story of the Moving Image&nbsp;→ Moving Pictures&nbsp;→ 03. Time and Movement",
+                        "The Story of the Moving Image&nbsp;→ Moving Pictures&nbsp;→ 03. Time and Movement&nbsp;→ MI-03-Splitting Time"
+                    ]
+                },
+                {
+                    "label": "Measurements",
+                    "display_values": [
+                        "420 x 450mm"
+                    ]
+                },
+                {
+                    "label": "Materials",
+                    "display_values": [
+                        "Digital print"
+                    ]
+                }
+            ],
+            "stats": {
+                "tap_count": 0
+            },
+            "links": [],
+            "creators_primary": [
+                {
+                    "id": 1134503,
+                    "name": "Harold Edgerton",
+                    "creator_id": 71431,
+                    "role": "creator",
+                    "role_id": 968,
+                    "is_primary": true
+                }
+            ],
+            "creators_other": [],
+            "video_links": [],
+            "media_note": null,
+            "images": [
+                {
+                    "id": 12380,
+                    "image_file": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/P180311_G019.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=yfWl%2FIhIXuZNgKSc4YCxhG07JBk%3D&Expires=1627009110",
+                    "image_file_thumbnail": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/P180311_G019.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=cC6FQsruI8NvozkwhmG%2BoKZemQM%3D&Expires=1627009110",
+                    "image_file_xs": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/P180311_G019.jpg.480x480_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=AYGBdF6cFCnVphJ2HBcwDRVQKMM%3D&Expires=1627009110",
+                    "image_file_s": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/P180311_G019.jpg.960x960_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=tPSTYCNmnsRhDcsp5YC%2FdF8PYus%3D&Expires=1627009110",
+                    "image_file_m": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/P180311_G019.jpg.1920x1920_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=LRnSBm%2BBVsfp%2FyQTM11Rarw4CHs%3D&Expires=1627009110",
+                    "image_file_l": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/P180311_G019.jpg.3840x3840_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=FTy9w048%2BArMWmW4aLApAsxRmYM%3D&Expires=1627009110",
+                    "caption": "",
+                    "credit_line": "",
+                    "alt_text": "",
+                    "width": 6000,
+                    "height": 5569,
+                    "access_level": "View anywhere"
+                }
+            ],
+            "videos": [],
+            "holdings": [],
+            "part_of": null,
+            "parts": [],
+            "part_siblings": [],
+            "group": {
+                "id": 112093,
+                "acmi_id": "183536",
+                "title": "Gelatin silver prints",
+                "title_annotation": "",
+                "slug": "gelatin-silver-prints",
+                "creator_credit": "Harold Edgerton",
+                "credit_line": "<p>Courtesy ©2010 MIT Museum</p>",
+                "headline_credit": "1938-1957",
+                "thumbnail": {
+                    "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/P180309_G017.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=ymCpw4X%2FzqdKCmM3YKuE8rx0cBU%3D&Expires=1627009110",
+                    "has_video": false
+                },
+                "record_type": "group",
+                "type": "Film",
+                "is_on_display": true,
+                "last_on_display_place": "ACMI: Gallery 1",
+                "last_on_display_date": "2031-02-16",
+                "is_context_indigenous": false,
+                "material_description": "",
+                "unpublished": false,
+                "first_production_date": null
+            },
+            "group_works": [],
+            "group_siblings": [
+                {
+                    "id": 99811,
+                    "acmi_id": "180309",
+                    "title": "Gelatin silver print\nBob running",
+                    "title_annotation": "Facsimile",
+                    "slug": "graphic-bob-running-1939",
+                    "creator_credit": "Harold Edgerton",
+                    "credit_line": "<p>Courtesy ©2010 MIT Museum</p>",
+                    "headline_credit": "United States, c. 1938-1957",
+                    "thumbnail": {
+                        "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/P180309_G017.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=ymCpw4X%2FzqdKCmM3YKuE8rx0cBU%3D&Expires=1627009110",
+                        "has_video": false
+                    },
+                    "record_type": "work",
+                    "type": "Object",
+                    "is_on_display": true,
+                    "last_on_display_place": "ACMI: Gallery 1",
+                    "last_on_display_date": "2031-02-16",
+                    "is_context_indigenous": false,
+                    "material_description": "Digital print",
+                    "unpublished": false,
+                    "first_production_date": null
+                },
+                {
+                    "id": 99809,
+                    "acmi_id": "180307",
+                    "title": "Gelatin silver print\nMoving Skip Rope",
+                    "title_annotation": "Facsimile",
+                    "slug": "graphic-moving-skip-rope-1952",
+                    "creator_credit": "Harold Edgerton",
+                    "credit_line": "<p>Courtesy ©2010 MIT Museum</p>",
+                    "headline_credit": "United States, c. 1938-1957",
+                    "thumbnail": {
+                        "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/P180307_G015.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=BexL4sQZNOgQb7NmcB6wGDIZt6A%3D&Expires=1627009110",
+                        "has_video": false
+                    },
+                    "record_type": "work",
+                    "type": "Object",
+                    "is_on_display": true,
+                    "last_on_display_place": "ACMI: Gallery 1",
+                    "last_on_display_date": "2031-02-16",
+                    "is_context_indigenous": false,
+                    "material_description": "Digital print",
+                    "unpublished": false,
+                    "first_production_date": null
+                }
+            ],
+            "source": {
+                "name": "Vernon",
+                "slug": "vernon"
+            },
+            "source_identifier": "180311",
+            "production_places": [
+                {
+                    "id": 2,
+                    "name": "United States",
+                    "slug": "united-states"
+                }
+            ],
+            "production_dates": [
+                {
+                    "date": "c. 1938-1957",
+                    "notes": "",
+                    "to_year": "c. 1938-1957"
+                }
+            ],
+            "labels": [
+                39308
+            ]
+        },
+        {
+            "id": 99812,
+            "acmi_id": "180310",
+            "title": "Sequential photographs\nMotion Studies: A man standing on his hands from a lying down position",
+            "title_annotation": "Facsimile",
+            "slug": "graphic-a-man-standing-on-his-hands-from-a-lying-down-position",
+            "creator_credit": "Eadweard Muybridge",
+            "credit_line": "<p>Courtesy Heritage Image Partnership Ltd / World History Archive / Welcome Collection / Alamy</p>",
+            "headline_credit": "United Kingdom, 1887",
+            "thumbnail": null,
+            "record_type": "work",
+            "type": "Object",
+            "is_on_display": true,
+            "last_on_display_place": "ACMI: Gallery 1",
+            "last_on_display_date": "2031-02-16",
+            "is_context_indigenous": false,
+            "material_description": "Digital print",
+            "unpublished": false,
+            "first_production_date": "1887-01-01T09:40:00+09:40",
+            "brief_description": "<p>British American photographer Eadweard Muybridge laid the foundation of the moving image. Using multiple cameras triggered by trip wires, he captured a galloping horse in sequential images, reproduced them in a zoetrope and created the world’s first moving photographs.</p>",
+            "constellations_primary": [],
+            "constellations_other": [],
+            "recommendations": [],
+            "title_for_label": "<p>Sequential photographs</p>",
+            "creator_credit_for_label": "<p>Eadweard Muybridge</p>",
+            "headline_credit_for_label": "<p>United Kingdom, 1887</p>",
+            "description": "",
+            "description_for_label": [],
+            "credit_line_for_label": "<p>Courtesy Heritage Image Partnership Ltd / World History Archive / Welcome Collection / Alamy</p>",
+            "details": [
+                {
+                    "label": "Curatorial sections",
+                    "display_values": [
+                        "The Story of the Moving Image&nbsp;→ Moving Pictures&nbsp;→ 03. Time and Movement",
+                        "The Story of the Moving Image&nbsp;→ Moving Pictures&nbsp;→ 03. Time and Movement&nbsp;→ MI-03-Splitting Time"
+                    ]
+                },
+                {
+                    "label": "Measurements",
+                    "display_values": [
+                        "470 x 750mm"
+                    ]
+                },
+                {
+                    "label": "Materials",
+                    "display_values": [
+                        "Digital print"
+                    ]
+                }
+            ],
+            "stats": {
+                "tap_count": 0
+            },
+            "links": [],
+            "creators_primary": [
+                {
+                    "id": 1134502,
+                    "name": "Eadweard Muybridge",
+                    "creator_id": 72028,
+                    "role": "creator",
+                    "role_id": 968,
+                    "is_primary": true
+                }
+            ],
+            "creators_other": [],
+            "video_links": [],
+            "media_note": "Sorry, we aren't able to make images or video for this item available to the public online.",
+            "images": [],
+            "videos": [],
+            "holdings": [],
+            "part_of": null,
+            "parts": [],
+            "part_siblings": [],
+            "group": {
+                "id": 112094,
+                "acmi_id": "183537",
+                "title": "Sequential photographs",
+                "title_annotation": "",
+                "slug": "sequential-photographs",
+                "creator_credit": "Eadweard Muybridge",
+                "credit_line": "<p>Courtesy Heritage Image Partnership Ltd / World History Archive / Welcome Collection / Alamy</p>",
+                "headline_credit": "1887",
+                "thumbnail": {
+                    "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/P180308_G016_resaved_2.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=QlXUvLOGps4xIXGUOo8qxYKaLEQ%3D&Expires=1627009110",
+                    "has_video": false
+                },
+                "record_type": "group",
+                "type": "Film",
+                "is_on_display": true,
+                "last_on_display_place": "ACMI: Gallery 1",
+                "last_on_display_date": "2031-02-16",
+                "is_context_indigenous": false,
+                "material_description": "",
+                "unpublished": false,
+                "first_production_date": "1887-01-01T09:40:00+09:40"
+            },
+            "group_works": [],
+            "group_siblings": [
+                {
+                    "id": 99810,
+                    "acmi_id": "180308",
+                    "title": "Sequential photographs\nMotion Studies: Horse",
+                    "title_annotation": "Facsimile",
+                    "slug": "graphic-motion-studies-horse-image-1887",
+                    "creator_credit": "Eadweard Muybridge",
+                    "credit_line": "<p>Courtesy Heritage Image Partnership Ltd / World History Archive / Welcome Collection / Alamy</p>",
+                    "headline_credit": "United Kingdom, 1887",
+                    "thumbnail": {
+                        "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/P180308_G016_resaved_2.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=QlXUvLOGps4xIXGUOo8qxYKaLEQ%3D&Expires=1627009110",
+                        "has_video": false
+                    },
+                    "record_type": "work",
+                    "type": "Object",
+                    "is_on_display": true,
+                    "last_on_display_place": "ACMI: Gallery 1",
+                    "last_on_display_date": "2031-02-16",
+                    "is_context_indigenous": false,
+                    "material_description": "Digital print",
+                    "unpublished": false,
+                    "first_production_date": "1887-01-01T09:40:00+09:40"
+                },
+                {
+                    "id": 99814,
+                    "acmi_id": "180312",
+                    "title": "Sequential photographs\nMotion Studies: Man with Hat",
+                    "title_annotation": "Facsimile",
+                    "slug": "graphic-motion-studies-man-with-hat-1987",
+                    "creator_credit": "Eadweard Muybridge",
+                    "credit_line": "<p>Courtesy Heritage Image Partnership Ltd / World History Archive / Welcome Collection / Alamy</p>",
+                    "headline_credit": "United Kingdom, 1887",
+                    "thumbnail": {
+                        "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/P180312_G020.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=eso9VYv1qT4PQsHBF7gCkAmWacI%3D&Expires=1627009110",
+                        "has_video": false
+                    },
+                    "record_type": "work",
+                    "type": "Object",
+                    "is_on_display": true,
+                    "last_on_display_place": "ACMI: Gallery 1",
+                    "last_on_display_date": "2031-02-16",
+                    "is_context_indigenous": false,
+                    "material_description": "Digital print",
+                    "unpublished": false,
+                    "first_production_date": "1887-01-01T09:40:00+09:40"
+                },
+                {
+                    "id": 99815,
+                    "acmi_id": "180313",
+                    "title": "Sequential photographs\nMotion Studies: Straight High Jump",
+                    "title_annotation": "Facsimile",
+                    "slug": "graphic-woman-jumping-running-straight-high-jump",
+                    "creator_credit": "Eadweard Muybridge",
+                    "credit_line": "<p>Courtesy Heritage Image Partnership Ltd / World History Archive / Welcome Collection / Alamy</p>",
+                    "headline_credit": "United Kingdom, 1887",
+                    "thumbnail": {
+                        "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/P180313_G021.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=uMU4w9wheSzpP6rl4jpkrTyfj9Y%3D&Expires=1627009110",
+                        "has_video": false
+                    },
+                    "record_type": "work",
+                    "type": "Object",
+                    "is_on_display": true,
+                    "last_on_display_place": "ACMI: Gallery 1",
+                    "last_on_display_date": "2031-02-16",
+                    "is_context_indigenous": false,
+                    "material_description": "Digital print",
+                    "unpublished": false,
+                    "first_production_date": "1887-01-01T09:40:00+09:40"
+                }
+            ],
+            "source": {
+                "name": "Vernon",
+                "slug": "vernon"
+            },
+            "source_identifier": "180310",
+            "production_places": [
+                {
+                    "id": 10,
+                    "name": "United Kingdom",
+                    "slug": "united-kingdom"
+                }
+            ],
+            "production_dates": [
+                {
+                    "date": "1887",
+                    "notes": "",
+                    "to_year": "1887"
+                }
+            ],
+            "labels": [
+                39307
+            ]
+        },
+        {
+            "id": 99811,
+            "acmi_id": "180309",
+            "title": "Gelatin silver print\nBob running",
+            "title_annotation": "Facsimile",
+            "slug": "graphic-bob-running-1939",
+            "creator_credit": "Harold Edgerton",
+            "credit_line": "<p>Courtesy ©2010 MIT Museum</p>",
+            "headline_credit": "United States, c. 1938-1957",
+            "thumbnail": {
+                "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/P180309_G017.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=ymCpw4X%2FzqdKCmM3YKuE8rx0cBU%3D&Expires=1627009110",
+                "has_video": false
+            },
+            "record_type": "work",
+            "type": "Object",
+            "is_on_display": true,
+            "last_on_display_place": "ACMI: Gallery 1",
+            "last_on_display_date": "2031-02-16",
+            "is_context_indigenous": false,
+            "material_description": "Digital print",
+            "unpublished": false,
+            "first_production_date": null,
+            "brief_description": "<p>American professor Harold ‘Doc’ Edgerton’s pioneering development of the electric stroboscopic flash suspended movement, stopping skipping ropes mid-swing – and even speeding bullets.</p>",
+            "constellations_primary": [],
+            "constellations_other": [],
+            "recommendations": [],
+            "title_for_label": "<p>Gelatin silver prints</p>",
+            "creator_credit_for_label": "<p>Harold Edgerton</p>",
+            "headline_credit_for_label": "<p>United States, c. 1938-1957</p>",
+            "description": "",
+            "description_for_label": [],
+            "credit_line_for_label": "<p>Courtesy ©2010 MIT Museum</p>",
+            "details": [
+                {
+                    "label": "Curatorial section",
+                    "display_values": [
+                        "The Story of the Moving Image&nbsp;→ Moving Pictures&nbsp;→ 03. Time and Movement&nbsp;→ MI-03-Splitting Time"
+                    ]
+                },
+                {
+                    "label": "Measurements",
+                    "display_values": [
+                        "450 x 800mm"
+                    ]
+                },
+                {
+                    "label": "Materials",
+                    "display_values": [
+                        "Digital print"
+                    ]
+                }
+            ],
+            "stats": {
+                "tap_count": 0
+            },
+            "links": [],
+            "creators_primary": [
+                {
+                    "id": 1134501,
+                    "name": "Harold Edgerton",
+                    "creator_id": 71431,
+                    "role": "creator",
+                    "role_id": 968,
+                    "is_primary": true
+                }
+            ],
+            "creators_other": [],
+            "video_links": [],
+            "media_note": null,
+            "images": [
+                {
+                    "id": 12378,
+                    "image_file": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/P180309_G017.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=ZGXE9uO8ib%2F493zFmI%2Fhi6Pk6G4%3D&Expires=1627009110",
+                    "image_file_thumbnail": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/P180309_G017.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=ymCpw4X%2FzqdKCmM3YKuE8rx0cBU%3D&Expires=1627009110",
+                    "image_file_xs": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/P180309_G017.jpg.480x480_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=U2lO%2BhIhWmjAqemWL7hTmTTK2HE%3D&Expires=1627009110",
+                    "image_file_s": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/P180309_G017.jpg.960x960_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=j6utAnZMWMKJIL90vux5b2FsBqU%3D&Expires=1627009110",
+                    "image_file_m": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/P180309_G017.jpg.1920x1920_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=jlCcJHVaSI69Dx8rkC%2FfGnvZef8%3D&Expires=1627009110",
+                    "image_file_l": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/P180309_G017.jpg.3840x3840_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=osmWTuVmyu237ShIicp5Xt%2FBi%2Bc%3D&Expires=1627009110",
+                    "caption": "",
+                    "credit_line": "",
+                    "alt_text": "",
+                    "width": 6000,
+                    "height": 3911,
+                    "access_level": "View anywhere"
+                }
+            ],
+            "videos": [],
+            "holdings": [],
+            "part_of": null,
+            "parts": [],
+            "part_siblings": [],
+            "group": {
+                "id": 112093,
+                "acmi_id": "183536",
+                "title": "Gelatin silver prints",
+                "title_annotation": "",
+                "slug": "gelatin-silver-prints",
+                "creator_credit": "Harold Edgerton",
+                "credit_line": "<p>Courtesy ©2010 MIT Museum</p>",
+                "headline_credit": "1938-1957",
+                "thumbnail": {
+                    "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/P180309_G017.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=ymCpw4X%2FzqdKCmM3YKuE8rx0cBU%3D&Expires=1627009110",
+                    "has_video": false
+                },
+                "record_type": "group",
+                "type": "Film",
+                "is_on_display": true,
+                "last_on_display_place": "ACMI: Gallery 1",
+                "last_on_display_date": "2031-02-16",
+                "is_context_indigenous": false,
+                "material_description": "",
+                "unpublished": false,
+                "first_production_date": null
+            },
+            "group_works": [],
+            "group_siblings": [
+                {
+                    "id": 99813,
+                    "acmi_id": "180311",
+                    "title": "Gelatin silver print\nGolfer",
+                    "title_annotation": "Facsimile",
+                    "slug": "graphic-golfer",
+                    "creator_credit": "Harold Edgerton",
+                    "credit_line": "<p>Courtesy ©2010 MIT Museum</p>",
+                    "headline_credit": "United States, c. 1938-1957",
+                    "thumbnail": {
+                        "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/P180311_G019.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=cC6FQsruI8NvozkwhmG%2BoKZemQM%3D&Expires=1627009110",
+                        "has_video": false
+                    },
+                    "record_type": "work",
+                    "type": "Object",
+                    "is_on_display": true,
+                    "last_on_display_place": "ACMI: Gallery 1",
+                    "last_on_display_date": "2031-02-16",
+                    "is_context_indigenous": false,
+                    "material_description": "Digital print",
+                    "unpublished": false,
+                    "first_production_date": null
+                },
+                {
+                    "id": 99809,
+                    "acmi_id": "180307",
+                    "title": "Gelatin silver print\nMoving Skip Rope",
+                    "title_annotation": "Facsimile",
+                    "slug": "graphic-moving-skip-rope-1952",
+                    "creator_credit": "Harold Edgerton",
+                    "credit_line": "<p>Courtesy ©2010 MIT Museum</p>",
+                    "headline_credit": "United States, c. 1938-1957",
+                    "thumbnail": {
+                        "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/P180307_G015.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=BexL4sQZNOgQb7NmcB6wGDIZt6A%3D&Expires=1627009110",
+                        "has_video": false
+                    },
+                    "record_type": "work",
+                    "type": "Object",
+                    "is_on_display": true,
+                    "last_on_display_place": "ACMI: Gallery 1",
+                    "last_on_display_date": "2031-02-16",
+                    "is_context_indigenous": false,
+                    "material_description": "Digital print",
+                    "unpublished": false,
+                    "first_production_date": null
+                }
+            ],
+            "source": {
+                "name": "Vernon",
+                "slug": "vernon"
+            },
+            "source_identifier": "180309",
+            "production_places": [
+                {
+                    "id": 2,
+                    "name": "United States",
+                    "slug": "united-states"
+                }
+            ],
+            "production_dates": [
+                {
+                    "date": "c. 1938-1957",
+                    "notes": "",
+                    "to_year": "c. 1938-1957"
+                }
+            ],
+            "labels": [
+                39306
+            ]
+        }
+    ]
+}

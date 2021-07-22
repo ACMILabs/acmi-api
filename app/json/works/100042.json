@@ -1,0 +1,87 @@
+{
+    "id": 100042,
+    "acmi_id": "13267",
+    "title": "RCA TPR 10 early portable 2 inch videotape recorder",
+    "title_annotation": "",
+    "slug": "rca-tpr-10-early-portable-2-inch-videotape-recorder",
+    "creator_credit": "",
+    "credit_line": "",
+    "headline_credit": "",
+    "thumbnail": {
+        "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/B2000401_TVWorldCollection_E000065_001.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=2VHHAuVS3SdWWjC7f68e%2BTcj4Qs%3D&Expires=1627009316",
+        "has_video": false
+    },
+    "record_type": "work",
+    "type": "Object",
+    "is_on_display": false,
+    "last_on_display_place": null,
+    "last_on_display_date": null,
+    "is_context_indigenous": false,
+    "material_description": "",
+    "unpublished": false,
+    "first_production_date": null,
+    "brief_description": "<p>RCA TPR 10 early portable 2 inch videotape recorder. Highlighted as important item in broadcasting history.</p>",
+    "constellations_primary": [],
+    "constellations_other": [],
+    "recommendations": [],
+    "title_for_label": "<p>RCA TPR 10 early portable 2 inch videotape recorder</p>",
+    "creator_credit_for_label": "",
+    "headline_credit_for_label": "",
+    "description": "<p>RCA TPR 10 early portable 2 inch videotape recorder. Highlighted as important item in broadcasting history.</p>",
+    "description_for_label": [
+        "<p>RCA TPR 10 early portable 2 inch videotape recorder. Highlighted as important item in broadcasting history.</p>"
+    ],
+    "credit_line_for_label": "",
+    "details": [
+        {
+            "label": "Measurements",
+            "display_values": [
+                "33 x 63 x 34cm",
+                "42kg"
+            ]
+        }
+    ],
+    "stats": {
+        "tap_count": 0
+    },
+    "links": [],
+    "creators_primary": [],
+    "creators_other": [],
+    "video_links": [],
+    "media_note": null,
+    "images": [
+        {
+            "id": 14793,
+            "image_file": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/B2000401_TVWorldCollection_E000065_001.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=qpGP6LJjY%2B1f%2BhjSpZIYbYB8s9M%3D&Expires=1627009316",
+            "image_file_thumbnail": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/B2000401_TVWorldCollection_E000065_001.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=2VHHAuVS3SdWWjC7f68e%2BTcj4Qs%3D&Expires=1627009316",
+            "image_file_xs": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/B2000401_TVWorldCollection_E000065_001.jpg.480x480_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=LMlTNPlhqlZTGPe7LIh5wyfKc%2F0%3D&Expires=1627009316",
+            "image_file_s": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/B2000401_TVWorldCollection_E000065_001.jpg.960x960_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=CO2dJJxhoI7HGv24EfyVrsN%2FNng%3D&Expires=1627009316",
+            "image_file_m": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/B2000401_TVWorldCollection_E000065_001.jpg.1920x1920_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=3l6SP6WLk89ZEfjvATedsr47yWg%3D&Expires=1627009316",
+            "image_file_l": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/B2000401_TVWorldCollection_E000065_001.jpg.3840x3840_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=ETSzxkBBjlvWrmqoEiDQB35Ua4M%3D&Expires=1627009316",
+            "caption": "E000065 - Image01",
+            "credit_line": "",
+            "alt_text": "",
+            "width": 1761,
+            "height": 1195,
+            "access_level": "View anywhere"
+        }
+    ],
+    "videos": [],
+    "holdings": [],
+    "part_of": null,
+    "parts": [],
+    "part_siblings": [],
+    "group": null,
+    "group_works": [],
+    "group_siblings": [],
+    "source": {
+        "name": "Vernon",
+        "slug": "vernon"
+    },
+    "source_identifier": "13267",
+    "production_places": [],
+    "production_dates": [],
+    "labels": [
+        39538
+    ]
+}

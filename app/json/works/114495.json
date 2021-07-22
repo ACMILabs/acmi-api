@@ -1,0 +1,95 @@
+{
+    "id": 114495,
+    "acmi_id": "175975",
+    "title": "View-Master (Talking 3-D Viewer 'The Wubbulous World of Dr Seuss' Model with Doctor Seuss Reel)",
+    "title_annotation": "",
+    "slug": "view-master-talking-3-d-viewer-the-wubbulous-world-of-dr-seuss-model-with-doctor-seuss-reel",
+    "creator_credit": "",
+    "credit_line": "",
+    "headline_credit": "China, 1997",
+    "thumbnail": null,
+    "record_type": "work",
+    "type": "Object",
+    "is_on_display": false,
+    "last_on_display_place": null,
+    "last_on_display_date": null,
+    "is_context_indigenous": false,
+    "material_description": "Plastic",
+    "unpublished": false,
+    "first_production_date": "1997-01-01T11:00:00+11:00",
+    "brief_description": "<p>1997 Tyco Toys (talking model - with Doctor Seuss cartridge reel)</p>",
+    "constellations_primary": [],
+    "constellations_other": [],
+    "recommendations": [],
+    "title_for_label": "<p>View-Master (Talking 3-D Viewer &#8216;The Wubbulous World of Dr Seuss&#8217; Model with Doctor Seuss Reel)</p>",
+    "creator_credit_for_label": "",
+    "headline_credit_for_label": "<p>China, 1997</p>",
+    "description": "<p>1997 Tyco Toys (talking model - with Doctor Seuss cartridge reel)</p>",
+    "description_for_label": [
+        "<p>1997 Tyco Toys (talking model - with Doctor Seuss cartridge reel)</p>"
+    ],
+    "credit_line_for_label": "",
+    "details": [
+        {
+            "label": "Measurements",
+            "display_values": [
+                "30 x 122 x 57mm",
+                "50 x 157 x 130mm"
+            ]
+        },
+        {
+            "label": "Materials",
+            "display_values": [
+                "Plastic"
+            ]
+        }
+    ],
+    "stats": {
+        "tap_count": 0
+    },
+    "links": [],
+    "creators_primary": [],
+    "creators_other": [
+        {
+            "id": 1134357,
+            "name": "Tyco Toys",
+            "creator_id": 71986,
+            "role": "",
+            "role_id": 604,
+            "is_primary": false
+        }
+    ],
+    "video_links": [],
+    "media_note": "Sorry, we don't have images or video for this item.",
+    "images": [],
+    "videos": [],
+    "holdings": [],
+    "part_of": null,
+    "parts": [],
+    "part_siblings": [],
+    "group": null,
+    "group_works": [],
+    "group_siblings": [],
+    "source": {
+        "name": "Vernon",
+        "slug": "vernon"
+    },
+    "source_identifier": "175975",
+    "production_places": [
+        {
+            "id": 4,
+            "name": "China",
+            "slug": "china"
+        }
+    ],
+    "production_dates": [
+        {
+            "date": "1997",
+            "notes": "",
+            "to_year": "1997"
+        }
+    ],
+    "labels": [
+        53987
+    ]
+}

@@ -1,0 +1,207 @@
+{
+    "id": 99897,
+    "acmi_id": "181255",
+    "title": "Commodore C2N Datasette",
+    "title_annotation": "",
+    "slug": "commodore-c2n-datasette",
+    "creator_credit": "Commodore Business Machines",
+    "credit_line": "<p>ACMI Collection</p>",
+    "headline_credit": "Taiwan, Province Of China",
+    "thumbnail": {
+        "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/E000283_CommodoreC2NDatasette_34.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=6Ih1Rzw5RSyvVeZvNkK9mjKD0eg%3D&Expires=1627009065",
+        "has_video": false
+    },
+    "record_type": "work",
+    "type": "Videogame",
+    "is_on_display": true,
+    "last_on_display_place": "ACMI: Gallery 1",
+    "last_on_display_date": "2031-02-16",
+    "is_context_indigenous": false,
+    "material_description": "",
+    "unpublished": false,
+    "first_production_date": null,
+    "brief_description": "<p>The Commodore 1530 (C2N) Datasette, later also Datassette (a portmanteau of data and cassette), is Commodore&#8217;s dedicated magnetic tape data storage device. Using compact cassettes as the storage medium, it provides inexpensive storage to Commodore&#8217;s 8-bit home/personal computers, notably the PET, VIC-20, and C64.</p>",
+    "constellations_primary": [],
+    "constellations_other": [],
+    "recommendations": [],
+    "title_for_label": "<p>Commodore C2N Datasette</p>",
+    "creator_credit_for_label": "<p>Commodore Business Machines</p>",
+    "headline_credit_for_label": "<p>Taiwan, Province Of China</p>",
+    "description": "<p>The Commodore 1530 (C2N) Datasette, later also Datassette (a portmanteau of data and cassette), is Commodore&#8217;s dedicated magnetic tape data storage device. Using compact cassettes as the storage medium, it provides inexpensive storage to Commodore&#8217;s 8-bit home/personal computers, notably the PET, VIC-20, and C64.</p>",
+    "description_for_label": [
+        "<p>The Commodore 1530 (C2N) Datasette, later also Datassette (a portmanteau of data and cassette), is Commodore&#8217;s dedicated magnetic tape data storage device. Using compact cassettes as the storage medium, it provides inexpensive storage to Commodore&#8217;s 8-bit home/personal computers, notably the PET, VIC-20, and C64.</p>"
+    ],
+    "credit_line_for_label": "<p>ACMI Collection</p>",
+    "details": [
+        {
+            "label": "Curatorial section",
+            "display_values": [
+                "The Story of the Moving Image&nbsp;→  Foyer&nbsp;→ Entry &nbsp;→ 03. MPL exterior"
+            ]
+        },
+        {
+            "label": "Measurements",
+            "display_values": [
+                "0.75kg",
+                "53 x 195 x 155mm"
+            ]
+        }
+    ],
+    "stats": {
+        "tap_count": 0
+    },
+    "links": [],
+    "creators_primary": [
+        {
+            "id": 1134594,
+            "name": "Commodore Business Machines",
+            "creator_id": 73000,
+            "role": "manufacturer",
+            "role_id": 627,
+            "is_primary": true
+        }
+    ],
+    "creators_other": [],
+    "video_links": [],
+    "media_note": null,
+    "images": [
+        {
+            "id": 13330,
+            "image_file": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/E000283_CommodoreC2NDatasette_34.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=TCjQn0SRKEO9lF8sQb2pvxY3o4c%3D&Expires=1627009065",
+            "image_file_thumbnail": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/E000283_CommodoreC2NDatasette_34.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=6Ih1Rzw5RSyvVeZvNkK9mjKD0eg%3D&Expires=1627009065",
+            "image_file_xs": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/E000283_CommodoreC2NDatasette_34.jpg.480x480_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=9OJs%2BsvygleyEks%2BBxNwGoXIk0k%3D&Expires=1627009065",
+            "image_file_s": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/E000283_CommodoreC2NDatasette_34.jpg.960x960_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=iYxPlPOL%2FEtOXZl7fByUkd%2Bu9Kk%3D&Expires=1627009065",
+            "image_file_m": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/E000283_CommodoreC2NDatasette_34.jpg.1920x1920_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=fvesbgrXPUN7PL12%2FRz0OirGPmk%3D&Expires=1627009065",
+            "image_file_l": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/E000283_CommodoreC2NDatasette_34.jpg.3840x3840_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=RQQDFaUbRa2x1TVa4jjjfC2OojA%3D&Expires=1627009065",
+            "caption": "E000283_CommodoreC2NDatasette_34",
+            "credit_line": "Photograph by Egmont Contreras, ACMI.",
+            "alt_text": "",
+            "width": 4800,
+            "height": 3200,
+            "access_level": "View anywhere"
+        },
+        {
+            "id": 13331,
+            "image_file": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/E000283_CommodoreC2NDatasette_Front.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=51BSHSD7aT7dKxt963YVRvSiKNs%3D&Expires=1627009065",
+            "image_file_thumbnail": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/E000283_CommodoreC2NDatasette_Front.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=oee7XteAXJW9eZ1dhD5h5X1w1AM%3D&Expires=1627009065",
+            "image_file_xs": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/E000283_CommodoreC2NDatasette_Front.jpg.480x480_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=CbNHqqPkHI5ZEEjfcsU9j4s%2FYr0%3D&Expires=1627009065",
+            "image_file_s": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/E000283_CommodoreC2NDatasette_Front.jpg.960x960_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=P2uy7VDu4lhmpbaocZbAkOpbE6I%3D&Expires=1627009065",
+            "image_file_m": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/E000283_CommodoreC2NDatasette_Front.jpg.1920x1920_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=2utcNOs8F3HrDbsp0au%2BRKV77qs%3D&Expires=1627009065",
+            "image_file_l": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/E000283_CommodoreC2NDatasette_Front.jpg.3840x3840_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=uPZOtRf2o221J9ZFQrOZlPEiutQ%3D&Expires=1627009065",
+            "caption": "E000283_CommodoreC2NDatasette_Front",
+            "credit_line": "Photograph by Egmont Contreras, ACMI.",
+            "alt_text": "",
+            "width": 4717,
+            "height": 3145,
+            "access_level": "View anywhere"
+        },
+        {
+            "id": 14115,
+            "image_file": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/E000283_CommodoreC2NDatasette_FrontTop.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=QbeEwpJKdacciMw1b%2BVYrt7kCEc%3D&Expires=1627009065",
+            "image_file_thumbnail": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/E000283_CommodoreC2NDatasette_FrontTop.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=%2Fx1TmzETMk5TycNQGwaNjS2zf%2B0%3D&Expires=1627009065",
+            "image_file_xs": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/E000283_CommodoreC2NDatasette_FrontTop.jpg.480x480_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=InWyZBivBF6r2B9v0maivNAsBjk%3D&Expires=1627009065",
+            "image_file_s": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/E000283_CommodoreC2NDatasette_FrontTop.jpg.960x960_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=V0CVcXRskgwiTEL%2FGvLDPK5teZE%3D&Expires=1627009065",
+            "image_file_m": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/E000283_CommodoreC2NDatasette_FrontTop.jpg.1920x1920_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=L0hz6KMUlrZYsO3hdNQwjDUof%2Bo%3D&Expires=1627009065",
+            "image_file_l": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/E000283_CommodoreC2NDatasette_FrontTop.jpg.3840x3840_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=cVeFzv0DDOP1Gt8aIo2%2F9M0QNWc%3D&Expires=1627009065",
+            "caption": "E000283_CommodoreC2NDatasette_FrontTop",
+            "credit_line": "Photograph by Egmont Contreras, ACMI.",
+            "alt_text": "",
+            "width": 4693,
+            "height": 3122,
+            "access_level": "View anywhere"
+        }
+    ],
+    "videos": [],
+    "holdings": [],
+    "part_of": null,
+    "parts": [],
+    "part_siblings": [],
+    "group": {
+        "id": 113855,
+        "acmi_id": "183614",
+        "title": "Commodore 64 Console and Cassettes",
+        "title_annotation": "",
+        "slug": "mpl-display-group-commodore-64-console-and-cassettes",
+        "creator_credit": "Commodore Business Machines",
+        "credit_line": "",
+        "headline_credit": "1985",
+        "thumbnail": {
+            "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/GROUP_E000320_E000283_E000284_Commodore64Display.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=TIixHcPE21jM4W%2BSXimcVQz1gFo%3D&Expires=1627009065",
+            "has_video": false
+        },
+        "record_type": "group",
+        "type": "Film",
+        "is_on_display": true,
+        "last_on_display_place": "ACMI: Gallery 1",
+        "last_on_display_date": "2031-02-16",
+        "is_context_indigenous": false,
+        "material_description": "",
+        "unpublished": false,
+        "first_production_date": "1985-01-01T11:00:00+11:00"
+    },
+    "group_works": [],
+    "group_siblings": [
+        {
+            "id": 100281,
+            "acmi_id": "180911",
+            "title": "Commodore 64 Console",
+            "title_annotation": "",
+            "slug": "commodore-64-console",
+            "creator_credit": "Commodore Business Machines",
+            "credit_line": "<p>ACMI Collection</p>",
+            "headline_credit": "United Kingdom, c. 1982",
+            "thumbnail": {
+                "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/E000320_Commodore64_34.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=M27Jg16D%2FTQ085azmuFbvzA9tF0%3D&Expires=1627009065",
+                "has_video": false
+            },
+            "record_type": "work",
+            "type": "Videogame",
+            "is_on_display": true,
+            "last_on_display_place": "ACMI: Gallery 1",
+            "last_on_display_date": "2031-02-16",
+            "is_context_indigenous": false,
+            "material_description": "",
+            "unpublished": false,
+            "first_production_date": null
+        },
+        {
+            "id": 99898,
+            "acmi_id": "181257",
+            "title": "Pair of Commodore C-1342 Joysticks",
+            "title_annotation": "",
+            "slug": "pair-of-commodore-c-1342-joysticks",
+            "creator_credit": "Commodore Business Machines",
+            "credit_line": "<p>ACMI Collection</p>",
+            "headline_credit": "Hong Kong, c. 1982",
+            "thumbnail": {
+                "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/E000284_CommodoreJoysticks_34.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=dDRM%2BItJr4Yi1BEwLoCqNEULWRk%3D&Expires=1627009065",
+                "has_video": false
+            },
+            "record_type": "work",
+            "type": "Videogame",
+            "is_on_display": true,
+            "last_on_display_place": "ACMI: Gallery 1",
+            "last_on_display_date": "2031-02-16",
+            "is_context_indigenous": false,
+            "material_description": "",
+            "unpublished": false,
+            "first_production_date": null
+        }
+    ],
+    "source": {
+        "name": "Vernon",
+        "slug": "vernon"
+    },
+    "source_identifier": "181255",
+    "production_places": [
+        {
+            "id": 197,
+            "name": "Taiwan, Province Of China",
+            "slug": "taiwan-province-of-china"
+        }
+    ],
+    "production_dates": [],
+    "labels": [
+        39392
+    ]
+}

@@ -1,0 +1,1898 @@
+{
+    "count": 922,
+    "next": "https://api.acmi.net.au/works/?page=27",
+    "previous": "https://api.acmi.net.au/works/?page=25",
+    "results": [
+        {
+            "id": 99580,
+            "acmi_id": "179797",
+            "title": "Jane Conquest magic lantern slides",
+            "title_annotation": "",
+            "slug": "jane-conquest-217",
+            "creator_credit": "York & Son",
+            "credit_line": "<p>Courtesy Martyn Jolly</p>",
+            "headline_credit": "United Kingdom, c. 1891",
+            "thumbnail": {
+                "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN179797_MLS_JanesConquest_2_Front.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=Sh3dXutrXX3XTJBLg3AKzSh%2FtJQ%3D&Expires=1627009153",
+                "has_video": false
+            },
+            "record_type": "work",
+            "type": "Object",
+            "is_on_display": true,
+            "last_on_display_place": "ACMI: Gallery 1",
+            "last_on_display_date": "2021-08-12",
+            "is_context_indigenous": false,
+            "material_description": "glass, ink, gum arabic tape",
+            "unpublished": false,
+            "first_production_date": null,
+            "brief_description": "<p>Creator, York &amp; Son, England. Woman sitting, holding baby.<br />\nNarrative for slide: &#8220;At these words the curtain went up to disclose Jane Conquest, a strong featured, sturdy young woman in a red shawl, seated with her sick child on her lap by a cheerless grate in a cottage interior with a Gothic stone hearth and a latticed window. The tearing, whistling crescendo and diminuendo of a great storm almost drowned the voice of the narrator and a distant, bloodcurdling cry.&#8221;</p>",
+            "constellations_primary": [],
+            "constellations_other": [],
+            "recommendations": [],
+            "title_for_label": "<p>Jane Conquest narrative slides</p>",
+            "creator_credit_for_label": "<p>York &amp; Son</p>",
+            "headline_credit_for_label": "<p>United Kingdom, c. 1891</p>",
+            "description": "<p>Creator, York &amp; Son, England. Woman sitting, holding baby.<br />\nNarrative for slide: &#8220;At these words the curtain went up to disclose Jane Conquest, a strong featured, sturdy young woman in a red shawl, seated with her sick child on her lap by a cheerless grate in a cottage interior with a Gothic stone hearth and a latticed window. The tearing, whistling crescendo and diminuendo of a great storm almost drowned the voice of the narrator and a distant, bloodcurdling cry.&#8221;</p>",
+            "description_for_label": [
+                "<p>Creator, York &amp; Son, England. Woman sitting, holding baby.<br />\nNarrative for slide: &#8220;At these words the curtain went up to disclose Jane Conquest, a strong featured, sturdy young woman in a red shawl, seated with her sick child on her lap by a cheerless grate in a cottage interior with a Gothic stone hearth and a latticed window. The tearing, whistling crescendo and diminuendo of a great storm almost drowned the voice of the narrator and a distant, bloodcurdling cry.&#8221;</p>"
+            ],
+            "credit_line_for_label": "<p>Courtesy Martyn Jolly</p>",
+            "details": [
+                {
+                    "label": "Curatorial section",
+                    "display_values": [
+                        "The Story of the Moving Image&nbsp;→ Moving Pictures&nbsp;→ 02. Play and Illusion&nbsp;→ MI-02-C01"
+                    ]
+                },
+                {
+                    "label": "Measurements",
+                    "display_values": [
+                        "82 x 82 x 4mm"
+                    ]
+                },
+                {
+                    "label": "Materials",
+                    "display_values": [
+                        "glass, ink, gum arabic tape"
+                    ]
+                }
+            ],
+            "stats": {
+                "tap_count": 0
+            },
+            "links": [],
+            "creators_primary": [
+                {
+                    "id": 1134445,
+                    "name": "York & Son",
+                    "creator_id": 70602,
+                    "role": "creator",
+                    "role_id": 968,
+                    "is_primary": true
+                }
+            ],
+            "creators_other": [],
+            "video_links": [],
+            "media_note": null,
+            "images": [
+                {
+                    "id": 12523,
+                    "image_file": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN179797_MLS_JanesConquest_2_Front.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=a7pezg21HATfOKLn9YeeNHSoCXo%3D&Expires=1627009153",
+                    "image_file_thumbnail": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN179797_MLS_JanesConquest_2_Front.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=Sh3dXutrXX3XTJBLg3AKzSh%2FtJQ%3D&Expires=1627009153",
+                    "image_file_xs": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN179797_MLS_JanesConquest_2_Front.jpg.480x480_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=01xRasbsXT1mJAVFZlwikkuqlTY%3D&Expires=1627009153",
+                    "image_file_s": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN179797_MLS_JanesConquest_2_Front.jpg.960x960_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=bw8m%2FqTp%2F6fDbPa%2BFw%2F0uhu2WJE%3D&Expires=1627009153",
+                    "image_file_m": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN179797_MLS_JanesConquest_2_Front.jpg.1920x1920_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=clEWcip8mnOMhPLASu%2FN7vYe8cc%3D&Expires=1627009153",
+                    "image_file_l": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN179797_MLS_JanesConquest_2_Front.jpg.3840x3840_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=nuAVD3GoK3IHE1QTKx3GXGXdnXM%3D&Expires=1627009153",
+                    "caption": "LN179797_MLS_JanesConquest_2_Front",
+                    "credit_line": "Photograph by Egmont Contreras, ACMI",
+                    "alt_text": "",
+                    "width": 3078,
+                    "height": 2953,
+                    "access_level": "View anywhere"
+                },
+                {
+                    "id": 12524,
+                    "image_file": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN179797_MLS_JanesConquest_2_Back.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=LRQPRGbE5ZWfKezTPRNxwiqNFgs%3D&Expires=1627009153",
+                    "image_file_thumbnail": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN179797_MLS_JanesConquest_2_Back.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=Dqik4TCAxOofxYTfiQCPXa3x07U%3D&Expires=1627009153",
+                    "image_file_xs": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN179797_MLS_JanesConquest_2_Back.jpg.480x480_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=tIn93HBZhXQlgmBWDTFOv2OGQlA%3D&Expires=1627009153",
+                    "image_file_s": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN179797_MLS_JanesConquest_2_Back.jpg.960x960_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=o8%2F7WeL6Qv11gO8DSgcpF%2Fux%2Fzw%3D&Expires=1627009153",
+                    "image_file_m": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN179797_MLS_JanesConquest_2_Back.jpg.1920x1920_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=DcBefzRVdPZm%2BLXpPVw469FK%2FY8%3D&Expires=1627009153",
+                    "image_file_l": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN179797_MLS_JanesConquest_2_Back.jpg.3840x3840_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=0dEIm%2Fz50B9OeaunxWRrCz9gBTk%3D&Expires=1627009153",
+                    "caption": "LN179797_MLS_JanesConquest_2_Back",
+                    "credit_line": "Photograph by Egmont Contreras, ACMI",
+                    "alt_text": "",
+                    "width": 3113,
+                    "height": 2987,
+                    "access_level": "View anywhere"
+                }
+            ],
+            "videos": [],
+            "holdings": [],
+            "part_of": null,
+            "parts": [],
+            "part_siblings": [],
+            "group": {
+                "id": 100563,
+                "acmi_id": "181484",
+                "title": "Jane Conquest magic lantern slides",
+                "title_annotation": "",
+                "slug": "jane-conquest-magic-lantern-slides",
+                "creator_credit": "York & Son",
+                "credit_line": "",
+                "headline_credit": "United Kingdom, c. 1891",
+                "thumbnail": {
+                    "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN179809_MLS_JanesConquest_14_Front.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=i8TYdYFNoFCDjhEID2LqSZek1kA%3D&Expires=1627009153",
+                    "has_video": false
+                },
+                "record_type": "group",
+                "type": "Film",
+                "is_on_display": true,
+                "last_on_display_place": "ACMI: Gallery 1",
+                "last_on_display_date": "2031-02-16",
+                "is_context_indigenous": false,
+                "material_description": "",
+                "unpublished": false,
+                "first_production_date": null
+            },
+            "group_works": [],
+            "group_siblings": [
+                {
+                    "id": 99592,
+                    "acmi_id": "179809",
+                    "title": "Jane Conquest magic lantern slides",
+                    "title_annotation": "",
+                    "slug": "jane-conquest-1417",
+                    "creator_credit": "York & Son",
+                    "credit_line": "<p>Courtesy Martyn Jolly</p>",
+                    "headline_credit": "United Kingdom, c. 1891",
+                    "thumbnail": {
+                        "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN179809_MLS_JanesConquest_14_Front.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=i8TYdYFNoFCDjhEID2LqSZek1kA%3D&Expires=1627009153",
+                        "has_video": false
+                    },
+                    "record_type": "work",
+                    "type": "Object",
+                    "is_on_display": true,
+                    "last_on_display_place": "ACMI",
+                    "last_on_display_date": "2022-02-10",
+                    "is_context_indigenous": false,
+                    "material_description": "glass, ink, gum arabic tape",
+                    "unpublished": true,
+                    "first_production_date": null
+                },
+                {
+                    "id": 99590,
+                    "acmi_id": "179807",
+                    "title": "Jane Conquest magic lantern slides",
+                    "title_annotation": "",
+                    "slug": "jane-conquest-1217",
+                    "creator_credit": "York & Son",
+                    "credit_line": "<p>Courtesy Martyn Jolly</p>",
+                    "headline_credit": "United Kingdom, c. 1891",
+                    "thumbnail": {
+                        "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN179807_MLS_JanesConquest_12_Front.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=zHty9jVMyiUxSOxJ%2FPzsAPHxpgY%3D&Expires=1627009153",
+                        "has_video": false
+                    },
+                    "record_type": "work",
+                    "type": "Object",
+                    "is_on_display": true,
+                    "last_on_display_place": "ACMI",
+                    "last_on_display_date": "2022-02-10",
+                    "is_context_indigenous": false,
+                    "material_description": "glass, ink, gum arabic tape",
+                    "unpublished": true,
+                    "first_production_date": null
+                },
+                {
+                    "id": 99587,
+                    "acmi_id": "179804",
+                    "title": "Jane Conquest magic lantern slides",
+                    "title_annotation": "",
+                    "slug": "jane-conquest-917",
+                    "creator_credit": "York & Son",
+                    "credit_line": "<p>Courtesy Martyn Jolly</p>",
+                    "headline_credit": "United Kingdom, c. 1891",
+                    "thumbnail": {
+                        "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN179804_MLS_JanesConquest_9_Front.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=wsKChGNCHU6r%2B0Fi6GMUdKyu1Eo%3D&Expires=1627009153",
+                        "has_video": false
+                    },
+                    "record_type": "work",
+                    "type": "Object",
+                    "is_on_display": true,
+                    "last_on_display_place": "ACMI: Gallery 1",
+                    "last_on_display_date": "2021-08-12",
+                    "is_context_indigenous": false,
+                    "material_description": "glass, ink, gum arabic tape",
+                    "unpublished": false,
+                    "first_production_date": null
+                },
+                {
+                    "id": 99586,
+                    "acmi_id": "179803",
+                    "title": "Jane Conquest magic lantern slides",
+                    "title_annotation": "",
+                    "slug": "jane-conquest-817",
+                    "creator_credit": "York & Son",
+                    "credit_line": "<p>Courtesy Martyn Jolly</p>",
+                    "headline_credit": "United Kingdom, c. 1891",
+                    "thumbnail": {
+                        "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN179803_MLS_JanesConquest_8_Front.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=kgP1bVBZ7CqqwADYNtjNz%2Fj0bR0%3D&Expires=1627009153",
+                        "has_video": false
+                    },
+                    "record_type": "work",
+                    "type": "Object",
+                    "is_on_display": true,
+                    "last_on_display_place": "ACMI: Gallery 1",
+                    "last_on_display_date": "2021-08-12",
+                    "is_context_indigenous": false,
+                    "material_description": "glass, ink, gum arabic tape",
+                    "unpublished": false,
+                    "first_production_date": null
+                },
+                {
+                    "id": 99583,
+                    "acmi_id": "179800",
+                    "title": "Jane Conquest magic lantern slides",
+                    "title_annotation": "",
+                    "slug": "jane-conquest-517",
+                    "creator_credit": "York & Son",
+                    "credit_line": "<p>Courtesy Martyn Jolly</p>",
+                    "headline_credit": "United Kingdom, c. 1891",
+                    "thumbnail": {
+                        "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN179800_MLS_JanesConquest_5_Front.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=8%2FSFHc1id7GlVm%2FR3WlR2cXQq40%3D&Expires=1627009153",
+                        "has_video": false
+                    },
+                    "record_type": "work",
+                    "type": "Object",
+                    "is_on_display": true,
+                    "last_on_display_place": "ACMI: Gallery 1",
+                    "last_on_display_date": "2021-08-12",
+                    "is_context_indigenous": false,
+                    "material_description": "glass, ink, gum arabic tape",
+                    "unpublished": false,
+                    "first_production_date": null
+                },
+                {
+                    "id": 99582,
+                    "acmi_id": "179799",
+                    "title": "Jane Conquest magic lantern slides",
+                    "title_annotation": "",
+                    "slug": "jane-conquest-417",
+                    "creator_credit": "York & Son",
+                    "credit_line": "<p>Courtesy Martyn Jolly</p>",
+                    "headline_credit": "United Kingdom, c. 1891",
+                    "thumbnail": {
+                        "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN179799_MLS_JanesConquest_4_Front.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=HFt%2B6ydolFfjAAEt52YTLewm31U%3D&Expires=1627009153",
+                        "has_video": false
+                    },
+                    "record_type": "work",
+                    "type": "Object",
+                    "is_on_display": true,
+                    "last_on_display_place": "ACMI: Gallery 1",
+                    "last_on_display_date": "2021-08-12",
+                    "is_context_indigenous": false,
+                    "material_description": "glass, ink, gum arabic tape",
+                    "unpublished": false,
+                    "first_production_date": null
+                },
+                {
+                    "id": 99581,
+                    "acmi_id": "179798",
+                    "title": "Jane Conquest magic lantern slides",
+                    "title_annotation": "",
+                    "slug": "jane-conquest-317",
+                    "creator_credit": "York & Son",
+                    "credit_line": "<p>Courtesy Martyn Jolly</p>",
+                    "headline_credit": "United Kingdom, c. 1891",
+                    "thumbnail": {
+                        "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN179798_MLS_JanesConquest_3_Front.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=Jolg5kBkeq3PLzEAR%2Ff4vQxYjQc%3D&Expires=1627009153",
+                        "has_video": false
+                    },
+                    "record_type": "work",
+                    "type": "Object",
+                    "is_on_display": true,
+                    "last_on_display_place": "ACMI: Gallery 1",
+                    "last_on_display_date": "2021-08-12",
+                    "is_context_indigenous": false,
+                    "material_description": "glass, ink, gum arabic tape",
+                    "unpublished": false,
+                    "first_production_date": null
+                },
+                {
+                    "id": 99594,
+                    "acmi_id": "179811",
+                    "title": "Jane Conquest magic lantern slides",
+                    "title_annotation": "",
+                    "slug": "jane-conquest-1617",
+                    "creator_credit": "York & Son",
+                    "credit_line": "<p>Courtesy Martyn Jolly</p>",
+                    "headline_credit": "United Kingdom, c. 1891",
+                    "thumbnail": {
+                        "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN179811_MLS_JanesConquest_16_Front.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=z9%2BYi8Azo%2Fb52nHeEG8BgS%2FPK5o%3D&Expires=1627009153",
+                        "has_video": false
+                    },
+                    "record_type": "work",
+                    "type": "Object",
+                    "is_on_display": true,
+                    "last_on_display_place": "ACMI",
+                    "last_on_display_date": "2022-02-10",
+                    "is_context_indigenous": false,
+                    "material_description": "glass, ink, gum arabic tape",
+                    "unpublished": true,
+                    "first_production_date": null
+                },
+                {
+                    "id": 99584,
+                    "acmi_id": "179801",
+                    "title": "Jane Conquest magic lantern slides",
+                    "title_annotation": "",
+                    "slug": "jane-conquest-617",
+                    "creator_credit": "York & Son",
+                    "credit_line": "<p>Courtesy Martyn Jolly</p>",
+                    "headline_credit": "United Kingdom, c. 1891",
+                    "thumbnail": {
+                        "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN179801_MLS_JanesConquest_6_Front.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=It34LXs%2BJlNKD9G5DBpOjB16gyY%3D&Expires=1627009153",
+                        "has_video": false
+                    },
+                    "record_type": "work",
+                    "type": "Object",
+                    "is_on_display": true,
+                    "last_on_display_place": "ACMI: Gallery 1",
+                    "last_on_display_date": "2021-08-12",
+                    "is_context_indigenous": false,
+                    "material_description": "glass, ink, gum arabic tape",
+                    "unpublished": false,
+                    "first_production_date": null
+                },
+                {
+                    "id": 99585,
+                    "acmi_id": "179802",
+                    "title": "Jane Conquest magic lantern slides",
+                    "title_annotation": "",
+                    "slug": "jane-conquest-717",
+                    "creator_credit": "York & Son",
+                    "credit_line": "<p>Courtesy Martyn Jolly</p>",
+                    "headline_credit": "United Kingdom, c. 1891",
+                    "thumbnail": {
+                        "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN179802_MLS_JanesConquest_7_Front.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=G7Ql9s%2BUr2OPh5A6d0xCjfQgypk%3D&Expires=1627009153",
+                        "has_video": false
+                    },
+                    "record_type": "work",
+                    "type": "Object",
+                    "is_on_display": true,
+                    "last_on_display_place": "ACMI: Gallery 1",
+                    "last_on_display_date": "2021-08-12",
+                    "is_context_indigenous": false,
+                    "material_description": "glass, ink, gum arabic tape",
+                    "unpublished": false,
+                    "first_production_date": null
+                }
+            ],
+            "source": {
+                "name": "Vernon",
+                "slug": "vernon"
+            },
+            "source_identifier": "179797",
+            "production_places": [
+                {
+                    "id": 10,
+                    "name": "United Kingdom",
+                    "slug": "united-kingdom"
+                }
+            ],
+            "production_dates": [
+                {
+                    "date": "c. 1891",
+                    "notes": "",
+                    "to_year": "c. 1891"
+                }
+            ],
+            "labels": [
+                39075
+            ]
+        },
+        {
+            "id": 99579,
+            "acmi_id": "179796",
+            "title": "Jane Conquest magic lantern slides",
+            "title_annotation": "",
+            "slug": "jane-conquest-117",
+            "creator_credit": "York & Son",
+            "credit_line": "<p>Courtesy Martyn Jolly</p>",
+            "headline_credit": "United Kingdom, c. 1891",
+            "thumbnail": {
+                "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN179796_MLS_JanesConquest_1Title_Front.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=hI99gSIZPJvMIhaGRWLyoh%2FRJec%3D&Expires=1627009153",
+                "has_video": false
+            },
+            "record_type": "work",
+            "type": "Object",
+            "is_on_display": true,
+            "last_on_display_place": "ACMI",
+            "last_on_display_date": "2022-02-10",
+            "is_context_indigenous": false,
+            "material_description": "glass, ink, gum arabic tape",
+            "unpublished": true,
+            "first_production_date": null,
+            "brief_description": "<p>Creator, York &amp; Son, England. Title slide.<br />\nNarrative for slide  &#8220;&#8216;Twas about the time of Christmas and many years ago,<br />\nWhen the sky was black with wrath and rack, and the earth was white with snow,<br />\nWhen loudly rang the tumult of winds and waves at strife,<br />\nIn her house by the sea with her child on her knee, sat Harry Conquest&#8217;s wife.&#8221;</p>",
+            "constellations_primary": [],
+            "constellations_other": [],
+            "recommendations": [],
+            "title_for_label": "<p>Jane Conquest narrative slides</p>",
+            "creator_credit_for_label": "<p>York &amp; Son</p>",
+            "headline_credit_for_label": "<p>United Kingdom, c. 1891</p>",
+            "description": "<p>Creator, York &amp; Son, England. Title slide.<br />\nNarrative for slide  &#8220;&#8216;Twas about the time of Christmas and many years ago,<br />\nWhen the sky was black with wrath and rack, and the earth was white with snow,<br />\nWhen loudly rang the tumult of winds and waves at strife,<br />\nIn her house by the sea with her child on her knee, sat Harry Conquest&#8217;s wife.&#8221;</p>",
+            "description_for_label": [
+                "<p>Creator, York &amp; Son, England. Title slide.<br />\nNarrative for slide  &#8220;&#8216;Twas about the time of Christmas and many years ago,<br />\nWhen the sky was black with wrath and rack, and the earth was white with snow,<br />\nWhen loudly rang the tumult of winds and waves at strife,<br />\nIn her house by the sea with her child on her knee, sat Harry Conquest&#8217;s wife.&#8221;</p>"
+            ],
+            "credit_line_for_label": "<p>Courtesy Martyn Jolly</p>",
+            "details": [
+                {
+                    "label": "Curatorial section",
+                    "display_values": [
+                        "The Story of the Moving Image&nbsp;→ Moving Pictures&nbsp;→ 02. Play and Illusion&nbsp;→ MI-02-C01"
+                    ]
+                },
+                {
+                    "label": "Measurements",
+                    "display_values": [
+                        "82 x 82 x 4mm"
+                    ]
+                },
+                {
+                    "label": "Materials",
+                    "display_values": [
+                        "glass, ink, gum arabic tape"
+                    ]
+                }
+            ],
+            "stats": {
+                "tap_count": 0
+            },
+            "links": [],
+            "creators_primary": [
+                {
+                    "id": 1134444,
+                    "name": "York & Son",
+                    "creator_id": 70602,
+                    "role": "creator",
+                    "role_id": 968,
+                    "is_primary": true
+                }
+            ],
+            "creators_other": [],
+            "video_links": [],
+            "media_note": null,
+            "images": [
+                {
+                    "id": 12521,
+                    "image_file": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN179796_MLS_JanesConquest_1Title_Front.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=OuF8GIJKrj52CzvXojVgcPpRmTQ%3D&Expires=1627009153",
+                    "image_file_thumbnail": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN179796_MLS_JanesConquest_1Title_Front.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=hI99gSIZPJvMIhaGRWLyoh%2FRJec%3D&Expires=1627009153",
+                    "image_file_xs": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN179796_MLS_JanesConquest_1Title_Front.jpg.480x480_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=MrCs3R9Wa%2FXYJyJOA026e6uRleM%3D&Expires=1627009153",
+                    "image_file_s": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN179796_MLS_JanesConquest_1Title_Front.jpg.960x960_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=u8%2BDTsDcrlFolwPYhcNLHkdypPc%3D&Expires=1627009153",
+                    "image_file_m": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN179796_MLS_JanesConquest_1Title_Front.jpg.1920x1920_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=bAcmP%2Bh1DC7m6OyOMoDnflLvKuw%3D&Expires=1627009153",
+                    "image_file_l": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN179796_MLS_JanesConquest_1Title_Front.jpg.3840x3840_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=1HedRVcnKFJ1LDVCnzQN2DiaDcI%3D&Expires=1627009153",
+                    "caption": "LN179796_MLS_JanesConquest_1Title_Front",
+                    "credit_line": "Photograph by Egmont Contreras, ACMI",
+                    "alt_text": "",
+                    "width": 3181,
+                    "height": 3128,
+                    "access_level": "View anywhere"
+                },
+                {
+                    "id": 12522,
+                    "image_file": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN179796_MLS_JanesConquest_1Title_Back.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=6WNdmjZ9k1HsfiRrwARlIKfs5zM%3D&Expires=1627009153",
+                    "image_file_thumbnail": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN179796_MLS_JanesConquest_1Title_Back.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=eNoZSx2%2BsU6gvVtti9CzSdUqUHc%3D&Expires=1627009153",
+                    "image_file_xs": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN179796_MLS_JanesConquest_1Title_Back.jpg.480x480_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=zrGYMEciv10HvVozPnwfz%2F05ZJg%3D&Expires=1627009153",
+                    "image_file_s": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN179796_MLS_JanesConquest_1Title_Back.jpg.960x960_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=TuNVioSKiXYJWIKNHpZKgLMmLyw%3D&Expires=1627009153",
+                    "image_file_m": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN179796_MLS_JanesConquest_1Title_Back.jpg.1920x1920_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=%2B%2FEG92VJld6a0XCQBGkYahbcjGA%3D&Expires=1627009153",
+                    "image_file_l": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN179796_MLS_JanesConquest_1Title_Back.jpg.3840x3840_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=tYs9E1epmc06vX8y6KaUedWvN94%3D&Expires=1627009153",
+                    "caption": "LN179796_MLS_JanesConquest_1Title_Back",
+                    "credit_line": "Photograph by Egmont Contreras, ACMI",
+                    "alt_text": "",
+                    "width": 3205,
+                    "height": 3212,
+                    "access_level": "View anywhere"
+                }
+            ],
+            "videos": [],
+            "holdings": [],
+            "part_of": null,
+            "parts": [],
+            "part_siblings": [],
+            "group": null,
+            "group_works": [],
+            "group_siblings": [],
+            "source": {
+                "name": "Vernon",
+                "slug": "vernon"
+            },
+            "source_identifier": "179796",
+            "production_places": [
+                {
+                    "id": 10,
+                    "name": "United Kingdom",
+                    "slug": "united-kingdom"
+                }
+            ],
+            "production_dates": [
+                {
+                    "date": "c. 1891",
+                    "notes": "",
+                    "to_year": "c. 1891"
+                }
+            ],
+            "labels": [
+                39074
+            ]
+        },
+        {
+            "id": 100261,
+            "acmi_id": "179727",
+            "title": "Magic Lantern Set Effects Slide [Scottish Regiment Army]",
+            "title_annotation": "",
+            "slug": "magic-lantern-set-effects-slide-scottish-regiment-army",
+            "creator_credit": "",
+            "credit_line": "",
+            "headline_credit": "c. 1880",
+            "thumbnail": {
+                "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AEO179727_MLS_ScottishRegimentArmy_1.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=R5%2BvqienXYJyXOYmLJjkdtn4oOc%3D&Expires=1627009153",
+                "has_video": false
+            },
+            "record_type": "work",
+            "type": "Object",
+            "is_on_display": false,
+            "last_on_display_place": "ACMI",
+            "last_on_display_date": "2022-02-10",
+            "is_context_indigenous": false,
+            "material_description": "wood, glass, metal",
+            "unpublished": true,
+            "first_production_date": null,
+            "brief_description": "<p>Handpainted magic Lantern wooden slipping slide with [Scottish Regiment Army] imagery. When the slide is moved, the armies battle.</p>",
+            "constellations_primary": [],
+            "constellations_other": [],
+            "recommendations": [],
+            "title_for_label": "<p>Magic Lantern Set Effects Slide [Scottish Regiment Army]</p>",
+            "creator_credit_for_label": "",
+            "headline_credit_for_label": "<p>c. 1880</p>",
+            "description": "<p>Handpainted magic Lantern wooden slipping slide with [Scottish Regiment Army] imagery. When the slide is moved, the armies battle.</p>",
+            "description_for_label": [
+                "<p>Handpainted magic Lantern wooden slipping slide with [Scottish Regiment Army] imagery. When the slide is moved, the armies battle.</p>"
+            ],
+            "credit_line_for_label": "",
+            "details": [
+                {
+                    "label": "Curatorial section",
+                    "display_values": [
+                        "The Story of the Moving Image&nbsp;→ Moving Pictures&nbsp;→ 02. Play and Illusion&nbsp;→ MI-02-C01"
+                    ]
+                },
+                {
+                    "label": "Measurements",
+                    "display_values": [
+                        "101 x 180 x 10mm"
+                    ]
+                },
+                {
+                    "label": "Materials",
+                    "display_values": [
+                        "wood, glass, metal"
+                    ]
+                }
+            ],
+            "stats": {
+                "tap_count": 0
+            },
+            "links": [],
+            "creators_primary": [],
+            "creators_other": [
+                {
+                    "id": 1134443,
+                    "name": "Maker not documented",
+                    "creator_id": 71446,
+                    "role": "maker",
+                    "role_id": 657,
+                    "is_primary": false
+                }
+            ],
+            "video_links": [],
+            "media_note": null,
+            "images": [
+                {
+                    "id": 28195,
+                    "image_file": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AEO179727_MLS_ScottishRegimentArmy_1.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=rS9GDYnukWDQhkHrNCI5xtteY4g%3D&Expires=1627009153",
+                    "image_file_thumbnail": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AEO179727_MLS_ScottishRegimentArmy_1.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=R5%2BvqienXYJyXOYmLJjkdtn4oOc%3D&Expires=1627009153",
+                    "image_file_xs": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AEO179727_MLS_ScottishRegimentArmy_1.jpg.480x480_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=zit0oYTtrESI8Exp1wA7ZUwLIQQ%3D&Expires=1627009153",
+                    "image_file_s": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AEO179727_MLS_ScottishRegimentArmy_1.jpg.960x960_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=K6qri%2FShWG2h5vDB5ydCVK%2FCP3g%3D&Expires=1627009153",
+                    "image_file_m": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AEO179727_MLS_ScottishRegimentArmy_1.jpg.1920x1920_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=DcG3g5FPExKZJp1%2FiPGNkfX249k%3D&Expires=1627009153",
+                    "image_file_l": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AEO179727_MLS_ScottishRegimentArmy_1.jpg.3840x3840_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=w2RQ3JLc6qE0nJld2X1Y6zJtSYA%3D&Expires=1627009153",
+                    "caption": "AEO179727_MLS_ScottishRegimentArmy_1",
+                    "credit_line": "Photograph by Egmont Contreras, ACMI",
+                    "alt_text": "",
+                    "width": 7360,
+                    "height": 4912,
+                    "access_level": "View anywhere"
+                },
+                {
+                    "id": 28196,
+                    "image_file": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AEO179727_MLS_ScottishRegimentArmy_2.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=5pwJDKbFusndOxkghgL%2BNAA1Y84%3D&Expires=1627009153",
+                    "image_file_thumbnail": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AEO179727_MLS_ScottishRegimentArmy_2.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=kwQIoIAsZdWDmNT1getz6PLcbOg%3D&Expires=1627009153",
+                    "image_file_xs": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AEO179727_MLS_ScottishRegimentArmy_2.jpg.480x480_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=vUTL14l4sTFyMBS6JZEAP3VqFVk%3D&Expires=1627009153",
+                    "image_file_s": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AEO179727_MLS_ScottishRegimentArmy_2.jpg.960x960_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=bZC%2BzcXK0%2FvapUwOImON69AX%2Bog%3D&Expires=1627009153",
+                    "image_file_m": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AEO179727_MLS_ScottishRegimentArmy_2.jpg.1920x1920_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=ZAV%2FTZe2uA9PeP4d5E9wuuH8xHE%3D&Expires=1627009153",
+                    "image_file_l": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AEO179727_MLS_ScottishRegimentArmy_2.jpg.3840x3840_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=1fVzHJkFkOsbWotezmIsjQucJfI%3D&Expires=1627009153",
+                    "caption": "AEO179727_MLS_ScottishRegimentArmy_2",
+                    "credit_line": "Photograph by Egmont Contreras, ACMI",
+                    "alt_text": "",
+                    "width": 7360,
+                    "height": 4912,
+                    "access_level": "View anywhere"
+                }
+            ],
+            "videos": [],
+            "holdings": [],
+            "part_of": null,
+            "parts": [],
+            "part_siblings": [],
+            "group": null,
+            "group_works": [],
+            "group_siblings": [],
+            "source": {
+                "name": "Vernon",
+                "slug": "vernon"
+            },
+            "source_identifier": "179727",
+            "production_places": [],
+            "production_dates": [
+                {
+                    "date": "c. 1880",
+                    "notes": "",
+                    "to_year": "c. 1880"
+                }
+            ],
+            "labels": [
+                39757
+            ]
+        },
+        {
+            "id": 100194,
+            "acmi_id": "179720",
+            "title": "SX 70 Polaroid Camera",
+            "title_annotation": "",
+            "slug": "sx-70-polaroid-camera",
+            "creator_credit": "",
+            "credit_line": "",
+            "headline_credit": "",
+            "thumbnail": null,
+            "record_type": "work",
+            "type": "Object",
+            "is_on_display": true,
+            "last_on_display_place": "Australian Centre for the Moving Image",
+            "last_on_display_date": "2031-02-16",
+            "is_context_indigenous": false,
+            "material_description": "Various",
+            "unpublished": false,
+            "first_production_date": null,
+            "brief_description": "<p>Object not displayed in Fed Square Foyer cabinets</p>",
+            "constellations_primary": [],
+            "constellations_other": [],
+            "recommendations": [],
+            "title_for_label": "<p>SX 70 Polaroid Camera</p>",
+            "creator_credit_for_label": "",
+            "headline_credit_for_label": "",
+            "description": "<p>Object not displayed in Fed Square Foyer cabinets</p>",
+            "description_for_label": [
+                "<p>Object not displayed in Fed Square Foyer cabinets</p>"
+            ],
+            "credit_line_for_label": "",
+            "details": [
+                {
+                    "label": "Measurements",
+                    "display_values": [
+                        "45 x 175 x 105mm"
+                    ]
+                },
+                {
+                    "label": "Materials",
+                    "display_values": [
+                        "Various"
+                    ]
+                }
+            ],
+            "stats": {
+                "tap_count": 0
+            },
+            "links": [],
+            "creators_primary": [],
+            "creators_other": [],
+            "video_links": [],
+            "media_note": "Sorry, we don't have images or video for this item.",
+            "images": [],
+            "videos": [],
+            "holdings": [],
+            "part_of": null,
+            "parts": [],
+            "part_siblings": [],
+            "group": null,
+            "group_works": [],
+            "group_siblings": [],
+            "source": {
+                "name": "Vernon",
+                "slug": "vernon"
+            },
+            "source_identifier": "179720",
+            "production_places": [],
+            "production_dates": [],
+            "labels": [
+                39690
+            ]
+        },
+        {
+            "id": 100243,
+            "acmi_id": "179714",
+            "title": "Bill Onus boomerangs",
+            "title_annotation": "",
+            "slug": "boomerang",
+            "creator_credit": "Bill Onus",
+            "credit_line": "",
+            "headline_credit": "Australia, c. 1950s",
+            "thumbnail": {
+                "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AEO179714_Boomerang2_Front.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=YuEORSdfZ%2B9YPrIAt8c64vRx904%3D&Expires=1627009153",
+                "has_video": false
+            },
+            "record_type": "work",
+            "type": "Object",
+            "is_on_display": true,
+            "last_on_display_place": "ACMI: Gallery 1",
+            "last_on_display_date": "2031-02-16",
+            "is_context_indigenous": false,
+            "material_description": "Wood, acrylic paint",
+            "unpublished": false,
+            "first_production_date": null,
+            "brief_description": "<p>Yorta Yorta activist, artist and entrepreneur Bill Onus shared his culture as an act of resistance and reclamation of power. Through his factory and shop, Aboriginal Enterprises, he shared his art and culture, selling boomerangs and other pieces. </p>",
+            "constellations_primary": [],
+            "constellations_other": [],
+            "recommendations": [],
+            "title_for_label": "<p>Bill Onus boomerangs</p>",
+            "creator_credit_for_label": "<p>Bill Onus</p>",
+            "headline_credit_for_label": "<p>Australia, c. 1950s</p>",
+            "description": "<p>Boomerang 2: handmade and painted with stylised image of an animal, and abstract decoration at each end. Reverse bears artist&#8217;s stamp.<br />\n*TO BE DISPLAYED ON REVERSE SHOWING ARTIST&#8217;S STAMP</p>",
+            "description_for_label": [
+                "<p>Boomerang 2: handmade and painted with stylised image of an animal, and abstract decoration at each end. Reverse bears artist&#8217;s stamp.<br />\n*TO BE DISPLAYED ON REVERSE SHOWING ARTIST&#8217;S STAMP</p>"
+            ],
+            "credit_line_for_label": "",
+            "details": [
+                {
+                    "label": "Curatorial section",
+                    "display_values": [
+                        "The Story of the Moving Image&nbsp;→ Moving Australia&nbsp;→ 07. First Nations First&nbsp;→ 01 Bill Onus"
+                    ]
+                },
+                {
+                    "label": "Measurements",
+                    "display_values": [
+                        "135 x 345 x 5mm"
+                    ]
+                },
+                {
+                    "label": "Materials",
+                    "display_values": [
+                        "Wood, acrylic paint"
+                    ]
+                }
+            ],
+            "stats": {
+                "tap_count": 0
+            },
+            "links": [],
+            "creators_primary": [
+                {
+                    "id": 1134442,
+                    "name": "Bill Onus",
+                    "creator_id": 71432,
+                    "role": "creator",
+                    "role_id": 968,
+                    "is_primary": true
+                }
+            ],
+            "creators_other": [],
+            "video_links": [],
+            "media_note": null,
+            "images": [
+                {
+                    "id": 12938,
+                    "image_file": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AEO179714_Boomerang2_Front.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=GxQ%2BDR68fdbd8WihYZns1IJTeQ0%3D&Expires=1627009153",
+                    "image_file_thumbnail": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AEO179714_Boomerang2_Front.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=kb%2B8cceyRoTVtCxBke9qFVSFOsA%3D&Expires=1627009154",
+                    "image_file_xs": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AEO179714_Boomerang2_Front.jpg.480x480_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=%2F0AL0SuoxO%2BwLfedTNTCiiHQWJE%3D&Expires=1627009154",
+                    "image_file_s": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AEO179714_Boomerang2_Front.jpg.960x960_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=wlalkZQ%2BiR7itHBxP03LuZ6iv58%3D&Expires=1627009154",
+                    "image_file_m": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AEO179714_Boomerang2_Front.jpg.1920x1920_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=qy%2FoKf0s8eYIDAfNQwgc%2FPT7c2M%3D&Expires=1627009154",
+                    "image_file_l": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AEO179714_Boomerang2_Front.jpg.3840x3840_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=wFF7pYNC%2BVNyCNqorOXFZMi1PUw%3D&Expires=1627009154",
+                    "caption": "AEO179714_Boomerang2_Front",
+                    "credit_line": "Photographed by Egmont Contreras, ACMI",
+                    "alt_text": "",
+                    "width": 4511,
+                    "height": 2640,
+                    "access_level": "View anywhere"
+                },
+                {
+                    "id": 12937,
+                    "image_file": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AEO179714_Boomerang2_Back.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=SRcAOi5Jc4XfGxQKgsEH1h8a430%3D&Expires=1627009154",
+                    "image_file_thumbnail": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AEO179714_Boomerang2_Back.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=1kfp3Y0wWZi98vn6f47sVktP%2BFQ%3D&Expires=1627009154",
+                    "image_file_xs": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AEO179714_Boomerang2_Back.jpg.480x480_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=Juj6DMA031ro5Xrj4tTbHsKJs7A%3D&Expires=1627009154",
+                    "image_file_s": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AEO179714_Boomerang2_Back.jpg.960x960_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=SOWfVxuHDmBRE1PCZs%2FKWZo7cm4%3D&Expires=1627009154",
+                    "image_file_m": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AEO179714_Boomerang2_Back.jpg.1920x1920_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=hUpsYwM25ECUQAgringCfqDy2LQ%3D&Expires=1627009154",
+                    "image_file_l": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AEO179714_Boomerang2_Back.jpg.3840x3840_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=k7bhyEd8i1e8B7rRgqKe3%2F4Vsy4%3D&Expires=1627009154",
+                    "caption": "AEO179714_Boomerang2_Back",
+                    "credit_line": "Photographed by Egmont Contreras, ACMI",
+                    "alt_text": "",
+                    "width": 4467,
+                    "height": 2802,
+                    "access_level": "View anywhere"
+                },
+                {
+                    "id": 12939,
+                    "image_file": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AEO179714_Boomerang2_TwoBoomerangs.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=dnjMCgAfIWlyat6CfFlzw9OhcYQ%3D&Expires=1627009154",
+                    "image_file_thumbnail": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AEO179714_Boomerang2_TwoBoomerangs.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=dwdNYbnvV4GlWsRaiXE5uO5E%2FgA%3D&Expires=1627009154",
+                    "image_file_xs": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AEO179714_Boomerang2_TwoBoomerangs.jpg.480x480_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=lxI4FldXx8GuzYjqrhsBm%2BJhMco%3D&Expires=1627009154",
+                    "image_file_s": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AEO179714_Boomerang2_TwoBoomerangs.jpg.960x960_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=C24Izh8XABCRFnE6PMKYZAbhw7A%3D&Expires=1627009154",
+                    "image_file_m": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AEO179714_Boomerang2_TwoBoomerangs.jpg.1920x1920_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=R3f6cZ8TpS7%2BkIsQlgKo9Im%2F6Bo%3D&Expires=1627009154",
+                    "image_file_l": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AEO179714_Boomerang2_TwoBoomerangs.jpg.3840x3840_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=V8QW2P6tOl5gRV60RBFXdA0LJhs%3D&Expires=1627009154",
+                    "caption": "AEO179714_Boomerang2_TwoBoomerangs",
+                    "credit_line": "Photographed by Egmont Contreras, ACMI",
+                    "alt_text": "",
+                    "width": 4928,
+                    "height": 3264,
+                    "access_level": "View anywhere"
+                }
+            ],
+            "videos": [],
+            "holdings": [],
+            "part_of": null,
+            "parts": [],
+            "part_siblings": [],
+            "group": {
+                "id": 107707,
+                "acmi_id": "183225",
+                "title": "Bill Onus",
+                "title_annotation": "",
+                "slug": "bill-onus",
+                "creator_credit": "",
+                "credit_line": "",
+                "headline_credit": "",
+                "thumbnail": {
+                    "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/P180416_G121_Hero_Image_-_Bill_Onus_Film_Set_1946.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=RVsg00gP2rD0FfToL0q9X0laAmQ%3D&Expires=1627009154",
+                    "has_video": false
+                },
+                "record_type": "group",
+                "type": "Film",
+                "is_on_display": true,
+                "last_on_display_place": "ACMI: Gallery 1",
+                "last_on_display_date": "2031-02-16",
+                "is_context_indigenous": false,
+                "material_description": "",
+                "unpublished": false,
+                "first_production_date": null
+            },
+            "group_works": [],
+            "group_siblings": [
+                {
+                    "id": 107505,
+                    "acmi_id": "180416",
+                    "title": "Boys on set of Bill Onus’ silent film",
+                    "title_annotation": "Facsimile",
+                    "slug": "graphic-photograph-of-boys-in-costume-holding-spears-looking-at-camera-in-heidelberg",
+                    "creator_credit": "",
+                    "credit_line": "<p>Courtesy the Onus Family</p>",
+                    "headline_credit": "Australia, 1946",
+                    "thumbnail": {
+                        "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/P180416_G121_Hero_Image_-_Bill_Onus_Film_Set_1946.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=RVsg00gP2rD0FfToL0q9X0laAmQ%3D&Expires=1627009154",
+                        "has_video": false
+                    },
+                    "record_type": "work",
+                    "type": "Object",
+                    "is_on_display": true,
+                    "last_on_display_place": "ACMI: Gallery 1",
+                    "last_on_display_date": "2031-02-16",
+                    "is_context_indigenous": false,
+                    "material_description": "Digital print on paper",
+                    "unpublished": false,
+                    "first_production_date": "1946-01-01T10:00:00+10:00"
+                },
+                {
+                    "id": 99734,
+                    "acmi_id": "180211",
+                    "title": "Bill Onus hosting Alcheringa",
+                    "title_annotation": "Facsimile",
+                    "slug": "facsimile-photograph-family-watching-bill-onus-present-alcheringa-on-television",
+                    "creator_credit": "",
+                    "credit_line": "<p>Courtesy ABC Library Sales</p>",
+                    "headline_credit": "Australia, 1962",
+                    "thumbnail": {
+                        "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/FC180211_FC105_Alcheringa_Film_Still_-_Bill_Onus.png.1200x1200_q85.png?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=vXSyJSTNLm6TCHRcRp%2BFzMLe%2BUc%3D&Expires=1627009154",
+                        "has_video": false
+                    },
+                    "record_type": "work",
+                    "type": "Object",
+                    "is_on_display": true,
+                    "last_on_display_place": "ACMI: Gallery 1",
+                    "last_on_display_date": "2031-02-16",
+                    "is_context_indigenous": false,
+                    "material_description": "Digital print on paper",
+                    "unpublished": false,
+                    "first_production_date": "1962-01-01T10:00:00+10:00"
+                },
+                {
+                    "id": 100242,
+                    "acmi_id": "179713",
+                    "title": "Bill Onus boomerangs",
+                    "title_annotation": "",
+                    "slug": "boomerang",
+                    "creator_credit": "Bill Onus",
+                    "credit_line": "",
+                    "headline_credit": "Australia, c. 1950s",
+                    "thumbnail": {
+                        "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AEO179713_Boomerang1_Front.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=GMA158PX28EQrn2xfKf2o679PvU%3D&Expires=1627009154",
+                        "has_video": false
+                    },
+                    "record_type": "work",
+                    "type": "Object",
+                    "is_on_display": true,
+                    "last_on_display_place": "ACMI: Gallery 1",
+                    "last_on_display_date": "2031-02-16",
+                    "is_context_indigenous": false,
+                    "material_description": "wood, acrylic paint",
+                    "unpublished": false,
+                    "first_production_date": null
+                },
+                {
+                    "id": 99719,
+                    "acmi_id": "180196",
+                    "title": "‘How to throw a boomerang’ leaflet",
+                    "title_annotation": "Facsimile",
+                    "slug": "facsimile-leaflet-how-to-throw-a-boomerang",
+                    "creator_credit": "Bill Onus",
+                    "credit_line": "<p>Courtesy the Onus Family</p>",
+                    "headline_credit": "Australia, c. 1950s",
+                    "thumbnail": {
+                        "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/FC180196_FC090.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=TJbtJvUex37%2BVDbYLS%2Bgrxg4i18%3D&Expires=1627009154",
+                        "has_video": false
+                    },
+                    "record_type": "work",
+                    "type": "Object",
+                    "is_on_display": true,
+                    "last_on_display_place": "ACMI: Gallery 1",
+                    "last_on_display_date": "2031-02-16",
+                    "is_context_indigenous": false,
+                    "material_description": "Digital print on paper",
+                    "unpublished": false,
+                    "first_production_date": null
+                },
+                {
+                    "id": 99722,
+                    "acmi_id": "180199",
+                    "title": "Bill Onus campaigns ‘Vote Yes for Aboriginal Rights’",
+                    "title_annotation": "Facsimile",
+                    "slug": "facsimile-photograph-bill-onus-and-child-vote-yes-for-aboriginal-rights",
+                    "creator_credit": "",
+                    "credit_line": "<p>Courtesy AAP Image / National Library of Australia</p>",
+                    "headline_credit": "Australia, 1967",
+                    "thumbnail": {
+                        "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/FC180199_FC093_Bill_Onus_Vote_Yes_1967.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=%2B%2BslkLYd%2BEEHWLZZ1cRtc0iQQGw%3D&Expires=1627009154",
+                        "has_video": false
+                    },
+                    "record_type": "work",
+                    "type": "Object",
+                    "is_on_display": true,
+                    "last_on_display_place": "ACMI: Gallery 1",
+                    "last_on_display_date": "2031-02-16",
+                    "is_context_indigenous": false,
+                    "material_description": "Digital print on paper",
+                    "unpublished": false,
+                    "first_production_date": "1967-01-01T10:00:00+10:00"
+                },
+                {
+                    "id": 99721,
+                    "acmi_id": "180198",
+                    "title": "Bill Onus portrait",
+                    "title_annotation": "Facsimile",
+                    "slug": "facsimile-photograph-bill-onus-portrait",
+                    "creator_credit": "",
+                    "credit_line": "<p>Courtesy the Onus Family</p>",
+                    "headline_credit": "Australia, c. 1940s",
+                    "thumbnail": {
+                        "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/FC180198_FC092_Bill_Onus_Portrait.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=aOZS5wmPGvy0ez1RUuB1lKm8Uys%3D&Expires=1627009154",
+                        "has_video": false
+                    },
+                    "record_type": "work",
+                    "type": "Object",
+                    "is_on_display": true,
+                    "last_on_display_place": "ACMI: Gallery 1",
+                    "last_on_display_date": "2031-02-16",
+                    "is_context_indigenous": false,
+                    "material_description": "Digital print on paper",
+                    "unpublished": false,
+                    "first_production_date": null
+                },
+                {
+                    "id": 99720,
+                    "acmi_id": "180197",
+                    "title": "Alcheringa cast and crew",
+                    "title_annotation": "Facsimile",
+                    "slug": "facsimile-photograph-alcheringa-cast",
+                    "creator_credit": "",
+                    "credit_line": "<p>Courtesy ABC Library Sales / National Archives of Australia</p>",
+                    "headline_credit": "Australia, 1962",
+                    "thumbnail": null,
+                    "record_type": "work",
+                    "type": "Object",
+                    "is_on_display": true,
+                    "last_on_display_place": "ACMI: Gallery 1",
+                    "last_on_display_date": "2031-02-16",
+                    "is_context_indigenous": false,
+                    "material_description": "Digital print on paper",
+                    "unpublished": false,
+                    "first_production_date": "1962-01-01T10:00:00+10:00"
+                }
+            ],
+            "source": {
+                "name": "Vernon",
+                "slug": "vernon"
+            },
+            "source_identifier": "179714",
+            "production_places": [
+                {
+                    "id": 3,
+                    "name": "Australia",
+                    "slug": "australia"
+                }
+            ],
+            "production_dates": [
+                {
+                    "date": "c. 1950s",
+                    "notes": "",
+                    "to_year": "c. 1950s"
+                }
+            ],
+            "labels": [
+                39739
+            ]
+        },
+        {
+            "id": 100242,
+            "acmi_id": "179713",
+            "title": "Bill Onus boomerangs",
+            "title_annotation": "",
+            "slug": "boomerang",
+            "creator_credit": "Bill Onus",
+            "credit_line": "",
+            "headline_credit": "Australia, c. 1950s",
+            "thumbnail": {
+                "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AEO179713_Boomerang1_Front.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=GMA158PX28EQrn2xfKf2o679PvU%3D&Expires=1627009154",
+                "has_video": false
+            },
+            "record_type": "work",
+            "type": "Object",
+            "is_on_display": true,
+            "last_on_display_place": "ACMI: Gallery 1",
+            "last_on_display_date": "2031-02-16",
+            "is_context_indigenous": false,
+            "material_description": "wood, acrylic paint",
+            "unpublished": false,
+            "first_production_date": null,
+            "brief_description": "<p>To Bill Onus, sharing his culture was an act of resistance and reclamation of power. The Yorta Yorta activist, artist and entrepreneur had roles in several Australian films, documented Aboriginal life through home movies and is likely one of the first Aboriginal filmmakers.</p>",
+            "constellations_primary": [],
+            "constellations_other": [],
+            "recommendations": [],
+            "title_for_label": "<p>Bill Onus boomerangs</p>",
+            "creator_credit_for_label": "<p>Bill Onus</p>",
+            "headline_credit_for_label": "<p>Australia, c. 1950s</p>",
+            "description": "<p>Boomerang 1: handmade and painted with image of kangaroo, shields, figure holding weapons, and abstract decoration at each end. Reverse bears artist&#8217;s stamp.</p>",
+            "description_for_label": [
+                "<p>Boomerang 1: handmade and painted with image of kangaroo, shields, figure holding weapons, and abstract decoration at each end. Reverse bears artist&#8217;s stamp.</p>"
+            ],
+            "credit_line_for_label": "",
+            "details": [
+                {
+                    "label": "Curatorial section",
+                    "display_values": [
+                        "The Story of the Moving Image&nbsp;→ Moving Australia&nbsp;→ 07. First Nations First&nbsp;→ 01 Bill Onus"
+                    ]
+                },
+                {
+                    "label": "Measurements",
+                    "display_values": [
+                        "115 x 355 x 10mm"
+                    ]
+                },
+                {
+                    "label": "Materials",
+                    "display_values": [
+                        "wood, acrylic paint"
+                    ]
+                }
+            ],
+            "stats": {
+                "tap_count": 0
+            },
+            "links": [],
+            "creators_primary": [
+                {
+                    "id": 1134441,
+                    "name": "Bill Onus",
+                    "creator_id": 71432,
+                    "role": "creator",
+                    "role_id": 968,
+                    "is_primary": true
+                }
+            ],
+            "creators_other": [],
+            "video_links": [],
+            "media_note": null,
+            "images": [
+                {
+                    "id": 12935,
+                    "image_file": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AEO179713_Boomerang1_Front.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=K40mDCnHVMsSA45VigjzDmsXgAI%3D&Expires=1627009154",
+                    "image_file_thumbnail": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AEO179713_Boomerang1_Front.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=GMA158PX28EQrn2xfKf2o679PvU%3D&Expires=1627009154",
+                    "image_file_xs": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AEO179713_Boomerang1_Front.jpg.480x480_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=Aq9zFh76YsSOf7WTmf%2BJ2HyO6Tc%3D&Expires=1627009154",
+                    "image_file_s": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AEO179713_Boomerang1_Front.jpg.960x960_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=GfUVQtQ0dmFxD9E%2FOG7wHGUnB4s%3D&Expires=1627009154",
+                    "image_file_m": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AEO179713_Boomerang1_Front.jpg.1920x1920_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=veZhkbaTBhGcu25s2lpbS93vo7g%3D&Expires=1627009154",
+                    "image_file_l": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AEO179713_Boomerang1_Front.jpg.3840x3840_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=Feu2QKdhmVut3sfkW8Gf3eUVT7U%3D&Expires=1627009154",
+                    "caption": "AEO179713_Boomerang1_Front",
+                    "credit_line": "Photographed by Egmont Contreras, ACMI",
+                    "alt_text": "",
+                    "width": 4563,
+                    "height": 2575,
+                    "access_level": "View anywhere"
+                },
+                {
+                    "id": 12934,
+                    "image_file": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AEO179713_Boomerang1_Back.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=C0v2pP1HvDZP3E%2B2jHy2HLt0Ggs%3D&Expires=1627009154",
+                    "image_file_thumbnail": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AEO179713_Boomerang1_Back.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=nZIFXu%2BxXAGkpZHgcl8%2FQuWw5cw%3D&Expires=1627009154",
+                    "image_file_xs": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AEO179713_Boomerang1_Back.jpg.480x480_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=av2U7GM2zprJLAzmJ32CqzVvOaQ%3D&Expires=1627009154",
+                    "image_file_s": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AEO179713_Boomerang1_Back.jpg.960x960_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=%2BoLDuRmr4qWHQqtjRpm%2BewZmeJ0%3D&Expires=1627009154",
+                    "image_file_m": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AEO179713_Boomerang1_Back.jpg.1920x1920_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=N%2FKPX5kkH8y1EpHDeJC6VRG75Rg%3D&Expires=1627009154",
+                    "image_file_l": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AEO179713_Boomerang1_Back.jpg.3840x3840_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=q3Rjp3p4u3A2waP%2Bp1EbgUpPR2A%3D&Expires=1627009154",
+                    "caption": "AEO179713_Boomerang1_Back",
+                    "credit_line": "Photographed by Egmont Contreras, ACMI",
+                    "alt_text": "",
+                    "width": 4588,
+                    "height": 2424,
+                    "access_level": "View anywhere"
+                },
+                {
+                    "id": 12936,
+                    "image_file": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AEO179713_Boomerang1_TwoBoomerangs.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=H2M5CY6LG7UV6e3Ay%2FkhfrmkbUw%3D&Expires=1627009154",
+                    "image_file_thumbnail": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AEO179713_Boomerang1_TwoBoomerangs.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=G1ItiPEVwjMq9pNsWKBE%2FeA6mo4%3D&Expires=1627009154",
+                    "image_file_xs": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AEO179713_Boomerang1_TwoBoomerangs.jpg.480x480_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=1kSFbATjRVaROsZWlGW3f0Gkn%2Bk%3D&Expires=1627009154",
+                    "image_file_s": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AEO179713_Boomerang1_TwoBoomerangs.jpg.960x960_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=OStr9%2BW891RpD4qpOVIgdFeAkbs%3D&Expires=1627009154",
+                    "image_file_m": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AEO179713_Boomerang1_TwoBoomerangs.jpg.1920x1920_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=n7yBB93IESy2%2FDU3xuwlbLfeB%2F8%3D&Expires=1627009154",
+                    "image_file_l": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AEO179713_Boomerang1_TwoBoomerangs.jpg.3840x3840_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=O2mV2OdkBMCjpdzu8QL%2FD0PLJz0%3D&Expires=1627009154",
+                    "caption": "AEO179713_Boomerang1_TwoBoomerangs",
+                    "credit_line": "Photographed by Egmont Contreras, ACMI",
+                    "alt_text": "",
+                    "width": 4928,
+                    "height": 3264,
+                    "access_level": "View anywhere"
+                }
+            ],
+            "videos": [],
+            "holdings": [],
+            "part_of": null,
+            "parts": [],
+            "part_siblings": [],
+            "group": {
+                "id": 107707,
+                "acmi_id": "183225",
+                "title": "Bill Onus",
+                "title_annotation": "",
+                "slug": "bill-onus",
+                "creator_credit": "",
+                "credit_line": "",
+                "headline_credit": "",
+                "thumbnail": {
+                    "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/P180416_G121_Hero_Image_-_Bill_Onus_Film_Set_1946.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=RVsg00gP2rD0FfToL0q9X0laAmQ%3D&Expires=1627009154",
+                    "has_video": false
+                },
+                "record_type": "group",
+                "type": "Film",
+                "is_on_display": true,
+                "last_on_display_place": "ACMI: Gallery 1",
+                "last_on_display_date": "2031-02-16",
+                "is_context_indigenous": false,
+                "material_description": "",
+                "unpublished": false,
+                "first_production_date": null
+            },
+            "group_works": [],
+            "group_siblings": [
+                {
+                    "id": 107505,
+                    "acmi_id": "180416",
+                    "title": "Boys on set of Bill Onus’ silent film",
+                    "title_annotation": "Facsimile",
+                    "slug": "graphic-photograph-of-boys-in-costume-holding-spears-looking-at-camera-in-heidelberg",
+                    "creator_credit": "",
+                    "credit_line": "<p>Courtesy the Onus Family</p>",
+                    "headline_credit": "Australia, 1946",
+                    "thumbnail": {
+                        "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/P180416_G121_Hero_Image_-_Bill_Onus_Film_Set_1946.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=RVsg00gP2rD0FfToL0q9X0laAmQ%3D&Expires=1627009154",
+                        "has_video": false
+                    },
+                    "record_type": "work",
+                    "type": "Object",
+                    "is_on_display": true,
+                    "last_on_display_place": "ACMI: Gallery 1",
+                    "last_on_display_date": "2031-02-16",
+                    "is_context_indigenous": false,
+                    "material_description": "Digital print on paper",
+                    "unpublished": false,
+                    "first_production_date": "1946-01-01T10:00:00+10:00"
+                },
+                {
+                    "id": 99734,
+                    "acmi_id": "180211",
+                    "title": "Bill Onus hosting Alcheringa",
+                    "title_annotation": "Facsimile",
+                    "slug": "facsimile-photograph-family-watching-bill-onus-present-alcheringa-on-television",
+                    "creator_credit": "",
+                    "credit_line": "<p>Courtesy ABC Library Sales</p>",
+                    "headline_credit": "Australia, 1962",
+                    "thumbnail": {
+                        "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/FC180211_FC105_Alcheringa_Film_Still_-_Bill_Onus.png.1200x1200_q85.png?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=vXSyJSTNLm6TCHRcRp%2BFzMLe%2BUc%3D&Expires=1627009154",
+                        "has_video": false
+                    },
+                    "record_type": "work",
+                    "type": "Object",
+                    "is_on_display": true,
+                    "last_on_display_place": "ACMI: Gallery 1",
+                    "last_on_display_date": "2031-02-16",
+                    "is_context_indigenous": false,
+                    "material_description": "Digital print on paper",
+                    "unpublished": false,
+                    "first_production_date": "1962-01-01T10:00:00+10:00"
+                },
+                {
+                    "id": 100243,
+                    "acmi_id": "179714",
+                    "title": "Bill Onus boomerangs",
+                    "title_annotation": "",
+                    "slug": "boomerang",
+                    "creator_credit": "Bill Onus",
+                    "credit_line": "",
+                    "headline_credit": "Australia, c. 1950s",
+                    "thumbnail": {
+                        "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AEO179714_Boomerang2_Front.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=kb%2B8cceyRoTVtCxBke9qFVSFOsA%3D&Expires=1627009154",
+                        "has_video": false
+                    },
+                    "record_type": "work",
+                    "type": "Object",
+                    "is_on_display": true,
+                    "last_on_display_place": "ACMI: Gallery 1",
+                    "last_on_display_date": "2031-02-16",
+                    "is_context_indigenous": false,
+                    "material_description": "Wood, acrylic paint",
+                    "unpublished": false,
+                    "first_production_date": null
+                },
+                {
+                    "id": 99719,
+                    "acmi_id": "180196",
+                    "title": "‘How to throw a boomerang’ leaflet",
+                    "title_annotation": "Facsimile",
+                    "slug": "facsimile-leaflet-how-to-throw-a-boomerang",
+                    "creator_credit": "Bill Onus",
+                    "credit_line": "<p>Courtesy the Onus Family</p>",
+                    "headline_credit": "Australia, c. 1950s",
+                    "thumbnail": {
+                        "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/FC180196_FC090.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=TJbtJvUex37%2BVDbYLS%2Bgrxg4i18%3D&Expires=1627009154",
+                        "has_video": false
+                    },
+                    "record_type": "work",
+                    "type": "Object",
+                    "is_on_display": true,
+                    "last_on_display_place": "ACMI: Gallery 1",
+                    "last_on_display_date": "2031-02-16",
+                    "is_context_indigenous": false,
+                    "material_description": "Digital print on paper",
+                    "unpublished": false,
+                    "first_production_date": null
+                },
+                {
+                    "id": 99722,
+                    "acmi_id": "180199",
+                    "title": "Bill Onus campaigns ‘Vote Yes for Aboriginal Rights’",
+                    "title_annotation": "Facsimile",
+                    "slug": "facsimile-photograph-bill-onus-and-child-vote-yes-for-aboriginal-rights",
+                    "creator_credit": "",
+                    "credit_line": "<p>Courtesy AAP Image / National Library of Australia</p>",
+                    "headline_credit": "Australia, 1967",
+                    "thumbnail": {
+                        "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/FC180199_FC093_Bill_Onus_Vote_Yes_1967.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=%2B%2BslkLYd%2BEEHWLZZ1cRtc0iQQGw%3D&Expires=1627009154",
+                        "has_video": false
+                    },
+                    "record_type": "work",
+                    "type": "Object",
+                    "is_on_display": true,
+                    "last_on_display_place": "ACMI: Gallery 1",
+                    "last_on_display_date": "2031-02-16",
+                    "is_context_indigenous": false,
+                    "material_description": "Digital print on paper",
+                    "unpublished": false,
+                    "first_production_date": "1967-01-01T10:00:00+10:00"
+                },
+                {
+                    "id": 99721,
+                    "acmi_id": "180198",
+                    "title": "Bill Onus portrait",
+                    "title_annotation": "Facsimile",
+                    "slug": "facsimile-photograph-bill-onus-portrait",
+                    "creator_credit": "",
+                    "credit_line": "<p>Courtesy the Onus Family</p>",
+                    "headline_credit": "Australia, c. 1940s",
+                    "thumbnail": {
+                        "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/FC180198_FC092_Bill_Onus_Portrait.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=aOZS5wmPGvy0ez1RUuB1lKm8Uys%3D&Expires=1627009154",
+                        "has_video": false
+                    },
+                    "record_type": "work",
+                    "type": "Object",
+                    "is_on_display": true,
+                    "last_on_display_place": "ACMI: Gallery 1",
+                    "last_on_display_date": "2031-02-16",
+                    "is_context_indigenous": false,
+                    "material_description": "Digital print on paper",
+                    "unpublished": false,
+                    "first_production_date": null
+                },
+                {
+                    "id": 99720,
+                    "acmi_id": "180197",
+                    "title": "Alcheringa cast and crew",
+                    "title_annotation": "Facsimile",
+                    "slug": "facsimile-photograph-alcheringa-cast",
+                    "creator_credit": "",
+                    "credit_line": "<p>Courtesy ABC Library Sales / National Archives of Australia</p>",
+                    "headline_credit": "Australia, 1962",
+                    "thumbnail": null,
+                    "record_type": "work",
+                    "type": "Object",
+                    "is_on_display": true,
+                    "last_on_display_place": "ACMI: Gallery 1",
+                    "last_on_display_date": "2031-02-16",
+                    "is_context_indigenous": false,
+                    "material_description": "Digital print on paper",
+                    "unpublished": false,
+                    "first_production_date": "1962-01-01T10:00:00+10:00"
+                }
+            ],
+            "source": {
+                "name": "Vernon",
+                "slug": "vernon"
+            },
+            "source_identifier": "179713",
+            "production_places": [
+                {
+                    "id": 3,
+                    "name": "Australia",
+                    "slug": "australia"
+                }
+            ],
+            "production_dates": [
+                {
+                    "date": "c. 1950s",
+                    "notes": "",
+                    "to_year": "c. 1950s"
+                }
+            ],
+            "labels": [
+                39738
+            ]
+        },
+        {
+            "id": 100260,
+            "acmi_id": "179679",
+            "title": "Magic Lantern Set Effects Slide [Tying Shoelaces]",
+            "title_annotation": "",
+            "slug": "magic-lantern-set-effects-slide-tying-shoelaces",
+            "creator_credit": "",
+            "credit_line": "",
+            "headline_credit": "United Kingdom, c. 1880",
+            "thumbnail": {
+                "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AEO179679_MLS_TyingShoes_1.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=TMAPXzLDPfUmgcOmkwRTFnSrSQI%3D&Expires=1627009154",
+                "has_video": false
+            },
+            "record_type": "work",
+            "type": "Object",
+            "is_on_display": false,
+            "last_on_display_place": "ACMI",
+            "last_on_display_date": "2022-02-10",
+            "is_context_indigenous": false,
+            "material_description": "glass, wood, ink",
+            "unpublished": true,
+            "first_production_date": null,
+            "brief_description": "<p>Hand painted magic lantern slipping slide in a wooden frame. Newton &amp; Co&#8217;s maker&#8217;s mark is stamped in to the wooden frame.</p>",
+            "constellations_primary": [],
+            "constellations_other": [],
+            "recommendations": [],
+            "title_for_label": "<p>Magic Lantern Set Effects Slide [Tying Shoelaces]</p>",
+            "creator_credit_for_label": "",
+            "headline_credit_for_label": "<p>United Kingdom, c. 1880</p>",
+            "description": "<p>Hand painted magic lantern slipping slide in a wooden frame. Newton &amp; Co&#8217;s maker&#8217;s mark is stamped in to the wooden frame.</p>",
+            "description_for_label": [
+                "<p>Hand painted magic lantern slipping slide in a wooden frame. Newton &amp; Co&#8217;s maker&#8217;s mark is stamped in to the wooden frame.</p>"
+            ],
+            "credit_line_for_label": "",
+            "details": [
+                {
+                    "label": "Curatorial section",
+                    "display_values": [
+                        "The Story of the Moving Image&nbsp;→ Moving Pictures&nbsp;→ 02. Play and Illusion&nbsp;→ MI-02-C01"
+                    ]
+                },
+                {
+                    "label": "Materials",
+                    "display_values": [
+                        "glass, wood, ink"
+                    ]
+                }
+            ],
+            "stats": {
+                "tap_count": 0
+            },
+            "links": [],
+            "creators_primary": [],
+            "creators_other": [
+                {
+                    "id": 1134440,
+                    "name": "Newton & Co",
+                    "creator_id": 72947,
+                    "role": "maker",
+                    "role_id": 657,
+                    "is_primary": false
+                }
+            ],
+            "video_links": [],
+            "media_note": null,
+            "images": [
+                {
+                    "id": 28192,
+                    "image_file": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AEO179679_MLS_TyingShoes_1.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=kOxLaNrYwSNatfXHVTPbQFKAKMA%3D&Expires=1627009154",
+                    "image_file_thumbnail": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AEO179679_MLS_TyingShoes_1.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=TMAPXzLDPfUmgcOmkwRTFnSrSQI%3D&Expires=1627009154",
+                    "image_file_xs": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AEO179679_MLS_TyingShoes_1.jpg.480x480_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=gx2stuA5PaH%2Bu38QO6f3agMmt3s%3D&Expires=1627009154",
+                    "image_file_s": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AEO179679_MLS_TyingShoes_1.jpg.960x960_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=Ss1FlNDemgU5Boo6yhqOjfI%2F87A%3D&Expires=1627009154",
+                    "image_file_m": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AEO179679_MLS_TyingShoes_1.jpg.1920x1920_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=z0B3Vvqx4q5jUppb3XCP0%2FmufGA%3D&Expires=1627009154",
+                    "image_file_l": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AEO179679_MLS_TyingShoes_1.jpg.3840x3840_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=P0%2BREygqTECFeil%2FjJhY9CboGow%3D&Expires=1627009154",
+                    "caption": "AEO179679_MLS_TyingShoes_1",
+                    "credit_line": "Photograph by Egmont Contreras, ACMI",
+                    "alt_text": "",
+                    "width": 7360,
+                    "height": 4912,
+                    "access_level": "View anywhere"
+                },
+                {
+                    "id": 28193,
+                    "image_file": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AEO179679_MLS_TyingShoes_2.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=eJ3ALE7%2FlzXEGo6nDveD9ehZUes%3D&Expires=1627009154",
+                    "image_file_thumbnail": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AEO179679_MLS_TyingShoes_2.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=ydEJubjpYKhXLPovpBjSKmTwH1s%3D&Expires=1627009154",
+                    "image_file_xs": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AEO179679_MLS_TyingShoes_2.jpg.480x480_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=wMScNmjE4N2fSFUJxWw6cIhOMkg%3D&Expires=1627009154",
+                    "image_file_s": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AEO179679_MLS_TyingShoes_2.jpg.960x960_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=G%2Bfs2jOJr7EEFMnQRB%2BRZxsavkM%3D&Expires=1627009154",
+                    "image_file_m": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AEO179679_MLS_TyingShoes_2.jpg.1920x1920_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=y63T0cUFJSE5Jz68JdDB6BoxF9c%3D&Expires=1627009154",
+                    "image_file_l": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AEO179679_MLS_TyingShoes_2.jpg.3840x3840_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=d7grxnei6J6PInmTP999vWFNang%3D&Expires=1627009154",
+                    "caption": "AEO179679_MLS_TyingShoes_2",
+                    "credit_line": "Photograph by Egmont Contreras, ACMI",
+                    "alt_text": "",
+                    "width": 7360,
+                    "height": 4912,
+                    "access_level": "View anywhere"
+                },
+                {
+                    "id": 28194,
+                    "image_file": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AEO179679_MLS_TyingShoes_Back.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=lYSYEmX0HHv2xUnfDTQ4Wj0YBzQ%3D&Expires=1627009154",
+                    "image_file_thumbnail": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AEO179679_MLS_TyingShoes_Back.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=wSRx7US2EmS1%2BmX%2FtsobF1fbo6o%3D&Expires=1627009154",
+                    "image_file_xs": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AEO179679_MLS_TyingShoes_Back.jpg.480x480_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=UOdzM6myyBsdttKRt%2BaKqzlTSDI%3D&Expires=1627009154",
+                    "image_file_s": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AEO179679_MLS_TyingShoes_Back.jpg.960x960_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=848IAweFM16WP2NW2se7eJPmumo%3D&Expires=1627009154",
+                    "image_file_m": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AEO179679_MLS_TyingShoes_Back.jpg.1920x1920_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=%2FjyMUjJsQvFrrNcxCHlwMQA5JqI%3D&Expires=1627009154",
+                    "image_file_l": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AEO179679_MLS_TyingShoes_Back.jpg.3840x3840_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=BswlAcA6cAWpRImpZy6zdF%2FAi9I%3D&Expires=1627009154",
+                    "caption": "AEO179679_MLS_TyingShoes_Back",
+                    "credit_line": "Photograph by Egmont Contreras, ACMI",
+                    "alt_text": "",
+                    "width": 7360,
+                    "height": 4912,
+                    "access_level": "View anywhere"
+                }
+            ],
+            "videos": [],
+            "holdings": [],
+            "part_of": null,
+            "parts": [],
+            "part_siblings": [],
+            "group": null,
+            "group_works": [],
+            "group_siblings": [],
+            "source": {
+                "name": "Vernon",
+                "slug": "vernon"
+            },
+            "source_identifier": "179679",
+            "production_places": [
+                {
+                    "id": 10,
+                    "name": "United Kingdom",
+                    "slug": "united-kingdom"
+                }
+            ],
+            "production_dates": [
+                {
+                    "date": "c. 1880",
+                    "notes": "",
+                    "to_year": "c. 1880"
+                }
+            ],
+            "labels": [
+                39756
+            ]
+        },
+        {
+            "id": 100259,
+            "acmi_id": "179678",
+            "title": "Magic Lantern Set Effects Slide [Farmer and Pig]",
+            "title_annotation": "",
+            "slug": "magic-lantern-set-effects-slide-farmer-and-pig",
+            "creator_credit": "",
+            "credit_line": "",
+            "headline_credit": "c. 1880",
+            "thumbnail": {
+                "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AEO179678_MLS_FarmerAndPig_1.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=%2F9iP4msZDUjepDaU1p814nLchHc%3D&Expires=1627009154",
+                "has_video": false
+            },
+            "record_type": "work",
+            "type": "Object",
+            "is_on_display": false,
+            "last_on_display_place": "ACMI",
+            "last_on_display_date": "2022-02-10",
+            "is_context_indigenous": false,
+            "material_description": "wood, glass, ink",
+            "unpublished": false,
+            "first_production_date": null,
+            "brief_description": "<p>Hand painted magic lantern slipping slide in wooden frame. [Farmer and Pig] shows a farmer with a cane and a pig, when the slipping slide is moved, the farmer hits the pig with the cane and it jumps upwards.</p>",
+            "constellations_primary": [],
+            "constellations_other": [],
+            "recommendations": [],
+            "title_for_label": "<p>Magic Lantern Set Effects Slide [Farmer and Pig]</p>",
+            "creator_credit_for_label": "",
+            "headline_credit_for_label": "<p>c. 1880</p>",
+            "description": "<p>Hand painted magic lantern slipping slide in wooden frame. [Farmer and Pig] shows a farmer with a cane and a pig, when the slipping slide is moved, the farmer hits the pig with the cane and it jumps upwards.</p>",
+            "description_for_label": [
+                "<p>Hand painted magic lantern slipping slide in wooden frame. [Farmer and Pig] shows a farmer with a cane and a pig, when the slipping slide is moved, the farmer hits the pig with the cane and it jumps upwards.</p>"
+            ],
+            "credit_line_for_label": "",
+            "details": [
+                {
+                    "label": "Materials",
+                    "display_values": [
+                        "wood, glass, ink"
+                    ]
+                }
+            ],
+            "stats": {
+                "tap_count": 0
+            },
+            "links": [],
+            "creators_primary": [],
+            "creators_other": [],
+            "video_links": [],
+            "media_note": null,
+            "images": [
+                {
+                    "id": 28190,
+                    "image_file": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AEO179678_MLS_FarmerAndPig_1.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=mbI4gNHLttvs1t7NK%2BYMzr1HfNs%3D&Expires=1627009154",
+                    "image_file_thumbnail": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AEO179678_MLS_FarmerAndPig_1.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=%2F9iP4msZDUjepDaU1p814nLchHc%3D&Expires=1627009154",
+                    "image_file_xs": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AEO179678_MLS_FarmerAndPig_1.jpg.480x480_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=b7Too9KEQLUzAbaJYgdXM1JCqts%3D&Expires=1627009154",
+                    "image_file_s": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AEO179678_MLS_FarmerAndPig_1.jpg.960x960_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=uy589AjvJuIQBpqH174co2EAtoU%3D&Expires=1627009154",
+                    "image_file_m": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AEO179678_MLS_FarmerAndPig_1.jpg.1920x1920_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=uBhYkxRGk0peyduQwUrvim0C6jg%3D&Expires=1627009154",
+                    "image_file_l": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AEO179678_MLS_FarmerAndPig_1.jpg.3840x3840_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=CC1DT5CZ7yPHT1oM%2B8MjUcEKQsM%3D&Expires=1627009154",
+                    "caption": "AEO179678_MLS_FarmerAndPig_1",
+                    "credit_line": "Photograph by Egmont Contreras, ACMI",
+                    "alt_text": "",
+                    "width": 7302,
+                    "height": 4873,
+                    "access_level": "View anywhere"
+                },
+                {
+                    "id": 28191,
+                    "image_file": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AEO179678_MLS_FarmerAndPig_2.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=v8qKzRjwang433O0vs%2BuDvQyyXM%3D&Expires=1627009154",
+                    "image_file_thumbnail": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AEO179678_MLS_FarmerAndPig_2.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=oaBXsZtP40DMCH%2Fv8G%2FDgxyV%2BGo%3D&Expires=1627009154",
+                    "image_file_xs": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AEO179678_MLS_FarmerAndPig_2.jpg.480x480_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=XNv2fn5meTQhMLyqV1TxyORSBPU%3D&Expires=1627009154",
+                    "image_file_s": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AEO179678_MLS_FarmerAndPig_2.jpg.960x960_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=vrLC5UjF%2F7QLcK3vx1k6eXlI%2BJA%3D&Expires=1627009154",
+                    "image_file_m": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AEO179678_MLS_FarmerAndPig_2.jpg.1920x1920_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=K5y1bqocX%2FSg5QWlr%2F0eOS69ecw%3D&Expires=1627009154",
+                    "image_file_l": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AEO179678_MLS_FarmerAndPig_2.jpg.3840x3840_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=E0zPiLeS4bZDqy4w%2B4p5%2BYTAdHM%3D&Expires=1627009154",
+                    "caption": "AEO179678_MLS_FarmerAndPig_2",
+                    "credit_line": "Photograph by Egmont Contreras, ACMI",
+                    "alt_text": "",
+                    "width": 7354,
+                    "height": 4908,
+                    "access_level": "View anywhere"
+                }
+            ],
+            "videos": [],
+            "holdings": [],
+            "part_of": null,
+            "parts": [],
+            "part_siblings": [],
+            "group": null,
+            "group_works": [],
+            "group_siblings": [],
+            "source": {
+                "name": "Vernon",
+                "slug": "vernon"
+            },
+            "source_identifier": "179678",
+            "production_places": [],
+            "production_dates": [
+                {
+                    "date": "c. 1880",
+                    "notes": "",
+                    "to_year": "c. 1880"
+                }
+            ],
+            "labels": [
+                39755
+            ]
+        },
+        {
+            "id": 100258,
+            "acmi_id": "179677",
+            "title": "Magic Lantern Set Effects Slide [Prank]",
+            "title_annotation": "",
+            "slug": "magic-lantern-set-effects-slide-prank",
+            "creator_credit": "",
+            "credit_line": "",
+            "headline_credit": "Manchester/United Kingdom, 1864",
+            "thumbnail": {
+                "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AEO179677_MLS_Prank_Front.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=P%2BiaBqpOyWevlnaVm23GjC2a4Xo%3D&Expires=1627009154",
+                "has_video": false
+            },
+            "record_type": "work",
+            "type": "Object",
+            "is_on_display": false,
+            "last_on_display_place": "ACMI",
+            "last_on_display_date": "2022-02-10",
+            "is_context_indigenous": false,
+            "material_description": "wood, glass, ink, metal",
+            "unpublished": true,
+            "first_production_date": "1864-01-01T09:40:00+09:40",
+            "brief_description": "<p>Wooden magic lantern set effects slide with lever. When lever is moved upwards and downwards, a boy brushes glue on to a man&#8217;s back. Another boy is ready to attach a poster to the back.</p>",
+            "constellations_primary": [],
+            "constellations_other": [],
+            "recommendations": [],
+            "title_for_label": "<p>Magic Lantern Set Effects Slide [Prank]</p>",
+            "creator_credit_for_label": "",
+            "headline_credit_for_label": "<p>Manchester/United Kingdom, 1864</p>",
+            "description": "<p>Wooden magic lantern set effects slide with lever. When lever is moved upwards and downwards, a boy brushes glue on to a man&#8217;s back. Another boy is ready to attach a poster to the back.</p>",
+            "description_for_label": [
+                "<p>Wooden magic lantern set effects slide with lever. When lever is moved upwards and downwards, a boy brushes glue on to a man&#8217;s back. Another boy is ready to attach a poster to the back.</p>"
+            ],
+            "credit_line_for_label": "",
+            "details": [
+                {
+                    "label": "Curatorial section",
+                    "display_values": [
+                        "The Story of the Moving Image&nbsp;→ Moving Pictures&nbsp;→ 02. Play and Illusion&nbsp;→ MI-02-C01"
+                    ]
+                },
+                {
+                    "label": "Materials",
+                    "display_values": [
+                        "wood, glass, ink, metal"
+                    ]
+                }
+            ],
+            "stats": {
+                "tap_count": 0
+            },
+            "links": [],
+            "creators_primary": [],
+            "creators_other": [
+                {
+                    "id": 1134439,
+                    "name": "Edward Bryan",
+                    "creator_id": 72946,
+                    "role": "maker",
+                    "role_id": 657,
+                    "is_primary": false
+                }
+            ],
+            "video_links": [],
+            "media_note": null,
+            "images": [
+                {
+                    "id": 28188,
+                    "image_file": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AEO179677_MLS_Prank_Front.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=ohEtinIuHy0ZXNT2hkcKZsO6k7A%3D&Expires=1627009154",
+                    "image_file_thumbnail": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AEO179677_MLS_Prank_Front.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=P%2BiaBqpOyWevlnaVm23GjC2a4Xo%3D&Expires=1627009154",
+                    "image_file_xs": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AEO179677_MLS_Prank_Front.jpg.480x480_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=thRaOcBHNm3tocokrFUBiH4STWk%3D&Expires=1627009154",
+                    "image_file_s": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AEO179677_MLS_Prank_Front.jpg.960x960_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=p4UFh6DUYFNa2l6cEWNq4O6IsVc%3D&Expires=1627009154",
+                    "image_file_m": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AEO179677_MLS_Prank_Front.jpg.1920x1920_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=X02XeDWw6C1hIWUFJagvxyLnRbw%3D&Expires=1627009154",
+                    "image_file_l": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AEO179677_MLS_Prank_Front.jpg.3840x3840_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=PazzrQkukWJaE64TEeJ4xLRbeVQ%3D&Expires=1627009154",
+                    "caption": "AEO179677_MLS_Prank_Front",
+                    "credit_line": "Photograph by Egmont Contreras, ACMI",
+                    "alt_text": "",
+                    "width": 7639,
+                    "height": 4828,
+                    "access_level": "View anywhere"
+                },
+                {
+                    "id": 28189,
+                    "image_file": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AEO179677_MLS_Prank_Back.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=WB%2Fe%2Bdu2S7Slss9NqaaF6w97Aqg%3D&Expires=1627009154",
+                    "image_file_thumbnail": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AEO179677_MLS_Prank_Back.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=oGH5Mip6Kx9A04ixDGlTUVA0Kjg%3D&Expires=1627009154",
+                    "image_file_xs": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AEO179677_MLS_Prank_Back.jpg.480x480_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=NFW5%2FwEWFX9tag10QxVcU3engu4%3D&Expires=1627009154",
+                    "image_file_s": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AEO179677_MLS_Prank_Back.jpg.960x960_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=S7boDct45q%2BdHc%2B2vdFPpULuans%3D&Expires=1627009154",
+                    "image_file_m": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AEO179677_MLS_Prank_Back.jpg.1920x1920_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=MXCRSJFfviMJHrBEXSX1RYyHqOk%3D&Expires=1627009154",
+                    "image_file_l": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AEO179677_MLS_Prank_Back.jpg.3840x3840_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=EZBD%2Flvj%2Fon%2F9bNa4Z5EqsonqC4%3D&Expires=1627009154",
+                    "caption": "AEO179677_MLS_Prank_Back",
+                    "credit_line": "Photograph by Egmont Contreras, ACMI",
+                    "alt_text": "",
+                    "width": 7723,
+                    "height": 4912,
+                    "access_level": "View anywhere"
+                }
+            ],
+            "videos": [],
+            "holdings": [],
+            "part_of": null,
+            "parts": [],
+            "part_siblings": [],
+            "group": null,
+            "group_works": [],
+            "group_siblings": [],
+            "source": {
+                "name": "Vernon",
+                "slug": "vernon"
+            },
+            "source_identifier": "179677",
+            "production_places": [
+                {
+                    "id": 63,
+                    "name": "Manchester/United Kingdom",
+                    "slug": "manchesterunited-kingdom"
+                }
+            ],
+            "production_dates": [
+                {
+                    "date": "1864",
+                    "notes": "",
+                    "to_year": "1864"
+                }
+            ],
+            "labels": [
+                39754
+            ]
+        },
+        {
+            "id": 100257,
+            "acmi_id": "179676",
+            "title": "Magic Lantern Set Effects Slide [Blind Man's Bluff]",
+            "title_annotation": "",
+            "slug": "magic-lantern-set-effects-slide-blind-mans-bluff",
+            "creator_credit": "E. Mazo",
+            "credit_line": "",
+            "headline_credit": "19th Century",
+            "thumbnail": {
+                "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AEO179676_MLS_BlindMansBluff_1.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=9rEeS%2BM%2FLTmJJ8%2BFQtgb7lcPLnk%3D&Expires=1627009154",
+                "has_video": false
+            },
+            "record_type": "work",
+            "type": "Object",
+            "is_on_display": false,
+            "last_on_display_place": "ACMI",
+            "last_on_display_date": "2022-02-10",
+            "is_context_indigenous": false,
+            "material_description": "",
+            "unpublished": true,
+            "first_production_date": null,
+            "brief_description": "<p>Wooden, handpainted magic lantern set effects slide with two slipping slides. The slide depicts a boy wearing a blindfold, when the slide is pulled left and right, girls move around him.</p>",
+            "constellations_primary": [],
+            "constellations_other": [],
+            "recommendations": [],
+            "title_for_label": "<p>Magic Lantern Set Effects Slide [Blind Man&#8217;s Bluff]</p>",
+            "creator_credit_for_label": "<p>E. Mazo</p>",
+            "headline_credit_for_label": "<p>19th Century</p>",
+            "description": "<p>Wooden, handpainted magic lantern set effects slide with two slipping slides. The slide depicts a boy wearing a blindfold, when the slide is pulled left and right, girls move around him.</p>",
+            "description_for_label": [
+                "<p>Wooden, handpainted magic lantern set effects slide with two slipping slides. The slide depicts a boy wearing a blindfold, when the slide is pulled left and right, girls move around him.</p>"
+            ],
+            "credit_line_for_label": "",
+            "details": [
+                {
+                    "label": "Curatorial section",
+                    "display_values": [
+                        "The Story of the Moving Image&nbsp;→ Moving Pictures&nbsp;→ 02. Play and Illusion&nbsp;→ MI-02-C01"
+                    ]
+                }
+            ],
+            "stats": {
+                "tap_count": 0
+            },
+            "links": [],
+            "creators_primary": [
+                {
+                    "id": 1134438,
+                    "name": "E. Mazo",
+                    "creator_id": 85072,
+                    "role": "manufacturer",
+                    "role_id": 627,
+                    "is_primary": true
+                }
+            ],
+            "creators_other": [],
+            "video_links": [],
+            "media_note": null,
+            "images": [
+                {
+                    "id": 28185,
+                    "image_file": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AEO179676_MLS_BlindMansBluff_1.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=kfke3kzbJ3r5O6xkOMsJUcvZ4uU%3D&Expires=1627009154",
+                    "image_file_thumbnail": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AEO179676_MLS_BlindMansBluff_1.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=9rEeS%2BM%2FLTmJJ8%2BFQtgb7lcPLnk%3D&Expires=1627009154",
+                    "image_file_xs": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AEO179676_MLS_BlindMansBluff_1.jpg.480x480_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=2bYFiuIiXW9egTIIZ2Cgue%2FMvGE%3D&Expires=1627009154",
+                    "image_file_s": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AEO179676_MLS_BlindMansBluff_1.jpg.960x960_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=pq%2F8wdRImcujXKowJcAgfD2ZiEg%3D&Expires=1627009154",
+                    "image_file_m": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AEO179676_MLS_BlindMansBluff_1.jpg.1920x1920_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=xXe3VVjVQIlLTorakWtojEqn5Q0%3D&Expires=1627009154",
+                    "image_file_l": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AEO179676_MLS_BlindMansBluff_1.jpg.3840x3840_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=v6W%2F1%2FNeKhrc5ywQHTo5ZpQB2T4%3D&Expires=1627009154",
+                    "caption": "AEO179676_MLS_BlindMansBluff_1",
+                    "credit_line": "Photograph by Egmont Contreras, ACMI",
+                    "alt_text": "",
+                    "width": 7360,
+                    "height": 4912,
+                    "access_level": "View anywhere"
+                },
+                {
+                    "id": 28186,
+                    "image_file": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AEO179676_MLS_BlindMansBluff_2.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=OKjP2YCjJfJ0SxsckMFbjJEK%2FU0%3D&Expires=1627009154",
+                    "image_file_thumbnail": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AEO179676_MLS_BlindMansBluff_2.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=j8%2BHFDZV4Du30325k2qnvVSYT44%3D&Expires=1627009154",
+                    "image_file_xs": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AEO179676_MLS_BlindMansBluff_2.jpg.480x480_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=50Ilv3COV4CyLOeR1ETLKwtVjNw%3D&Expires=1627009154",
+                    "image_file_s": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AEO179676_MLS_BlindMansBluff_2.jpg.960x960_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=6iS%2BHAJsZcayu69bokWnxvLUGaM%3D&Expires=1627009154",
+                    "image_file_m": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AEO179676_MLS_BlindMansBluff_2.jpg.1920x1920_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=T81mKMaJbad3A1Q9QHW90ehGOHI%3D&Expires=1627009154",
+                    "image_file_l": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AEO179676_MLS_BlindMansBluff_2.jpg.3840x3840_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=2vbkKWSsf4XkEwnNxzTZuRBevNo%3D&Expires=1627009154",
+                    "caption": "AEO179676_MLS_BlindMansBluff_2",
+                    "credit_line": "Photograph by Egmont Contreras, ACMI",
+                    "alt_text": "",
+                    "width": 7360,
+                    "height": 4912,
+                    "access_level": "View anywhere"
+                },
+                {
+                    "id": 28187,
+                    "image_file": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AEO179676_MLS_BlindMansBluff_3.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=kGh5zAyJux6kVRrEf9qB5KO%2BuBo%3D&Expires=1627009154",
+                    "image_file_thumbnail": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AEO179676_MLS_BlindMansBluff_3.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=Lm252DACEapnCxi%2BF7mgQ2ZSNek%3D&Expires=1627009154",
+                    "image_file_xs": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AEO179676_MLS_BlindMansBluff_3.jpg.480x480_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=RNg4BXnOycYzNAZmqwJsNOrY2B0%3D&Expires=1627009154",
+                    "image_file_s": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AEO179676_MLS_BlindMansBluff_3.jpg.960x960_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=uw3%2BCeRx%2FELqyDLnDeOjDzKawQw%3D&Expires=1627009154",
+                    "image_file_m": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AEO179676_MLS_BlindMansBluff_3.jpg.1920x1920_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=4%2FWcJ%2FrNsjZqAt3Fq6PhWxa3Nco%3D&Expires=1627009154",
+                    "image_file_l": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AEO179676_MLS_BlindMansBluff_3.jpg.3840x3840_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=8fmrOLd3AG7TcYGIa7hFEaKC4Xs%3D&Expires=1627009154",
+                    "caption": "AEO179676_MLS_BlindMansBluff_3",
+                    "credit_line": "Photograph by Egmont Contreras, ACMI",
+                    "alt_text": "",
+                    "width": 7360,
+                    "height": 4912,
+                    "access_level": "View anywhere"
+                }
+            ],
+            "videos": [],
+            "holdings": [],
+            "part_of": null,
+            "parts": [],
+            "part_siblings": [],
+            "group": null,
+            "group_works": [],
+            "group_siblings": [],
+            "source": {
+                "name": "Vernon",
+                "slug": "vernon"
+            },
+            "source_identifier": "179676",
+            "production_places": [],
+            "production_dates": [
+                {
+                    "date": "19th Century",
+                    "notes": "",
+                    "to_year": "19th Century"
+                }
+            ],
+            "labels": [
+                39753
+            ]
+        }
+    ]
+}

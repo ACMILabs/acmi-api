@@ -1,0 +1,187 @@
+{
+    "id": 99813,
+    "acmi_id": "180311",
+    "title": "Gelatin silver print\nGolfer",
+    "title_annotation": "Facsimile",
+    "slug": "graphic-golfer",
+    "creator_credit": "Harold Edgerton",
+    "credit_line": "<p>Courtesy ©2010 MIT Museum</p>",
+    "headline_credit": "United States, c. 1938-1957",
+    "thumbnail": {
+        "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/P180311_G019.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=pxArVlqaaIXPf9mTHRIRfyN%2ByUQ%3D&Expires=1627009114",
+        "has_video": false
+    },
+    "record_type": "work",
+    "type": "Object",
+    "is_on_display": true,
+    "last_on_display_place": "ACMI: Gallery 1",
+    "last_on_display_date": "2031-02-16",
+    "is_context_indigenous": false,
+    "material_description": "Digital print",
+    "unpublished": false,
+    "first_production_date": null,
+    "brief_description": "<p>American professor Harold ‘Doc’ Edgerton’s pioneering development of the electric stroboscopic flash suspended movement, stopping skipping ropes mid-swing – and even speeding bullets.</p>",
+    "constellations_primary": [],
+    "constellations_other": [],
+    "recommendations": [],
+    "title_for_label": "<p>Gelatin silver prints</p>",
+    "creator_credit_for_label": "<p>Harold Edgerton</p>",
+    "headline_credit_for_label": "<p>United States, c. 1938-1957</p>",
+    "description": "",
+    "description_for_label": [],
+    "credit_line_for_label": "<p>Courtesy ©2010 MIT Museum</p>",
+    "details": [
+        {
+            "label": "Curatorial sections",
+            "display_values": [
+                "The Story of the Moving Image&nbsp;→ Moving Pictures&nbsp;→ 03. Time and Movement",
+                "The Story of the Moving Image&nbsp;→ Moving Pictures&nbsp;→ 03. Time and Movement&nbsp;→ MI-03-Splitting Time"
+            ]
+        },
+        {
+            "label": "Measurements",
+            "display_values": [
+                "420 x 450mm"
+            ]
+        },
+        {
+            "label": "Materials",
+            "display_values": [
+                "Digital print"
+            ]
+        }
+    ],
+    "stats": {
+        "tap_count": 0
+    },
+    "links": [],
+    "creators_primary": [
+        {
+            "id": 1134503,
+            "name": "Harold Edgerton",
+            "creator_id": 71431,
+            "role": "creator",
+            "role_id": 968,
+            "is_primary": true
+        }
+    ],
+    "creators_other": [],
+    "video_links": [],
+    "media_note": null,
+    "images": [
+        {
+            "id": 12380,
+            "image_file": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/P180311_G019.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=Fv%2FPFdUAw1ZKDBJdINwc881%2Fat4%3D&Expires=1627009114",
+            "image_file_thumbnail": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/P180311_G019.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=pxArVlqaaIXPf9mTHRIRfyN%2ByUQ%3D&Expires=1627009114",
+            "image_file_xs": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/P180311_G019.jpg.480x480_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=No82yRc8bwPub5QVSNlhS7U%2FIl8%3D&Expires=1627009114",
+            "image_file_s": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/P180311_G019.jpg.960x960_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=7bhFbzwkrfUIVzSPz7t3zXuzJ%2BM%3D&Expires=1627009114",
+            "image_file_m": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/P180311_G019.jpg.1920x1920_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=%2BL8db1HrjogQmQiuahT0NDtwyd4%3D&Expires=1627009114",
+            "image_file_l": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/P180311_G019.jpg.3840x3840_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=bznsBdsZhmCO8Y5KYNkgW2cXvkY%3D&Expires=1627009114",
+            "caption": "",
+            "credit_line": "",
+            "alt_text": "",
+            "width": 6000,
+            "height": 5569,
+            "access_level": "View anywhere"
+        }
+    ],
+    "videos": [],
+    "holdings": [],
+    "part_of": null,
+    "parts": [],
+    "part_siblings": [],
+    "group": {
+        "id": 112093,
+        "acmi_id": "183536",
+        "title": "Gelatin silver prints",
+        "title_annotation": "",
+        "slug": "gelatin-silver-prints",
+        "creator_credit": "Harold Edgerton",
+        "credit_line": "<p>Courtesy ©2010 MIT Museum</p>",
+        "headline_credit": "1938-1957",
+        "thumbnail": {
+            "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/P180309_G017.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=jCKbfSUa5zvRDOvGX0fhk5CB%2FSk%3D&Expires=1627009114",
+            "has_video": false
+        },
+        "record_type": "group",
+        "type": "Film",
+        "is_on_display": true,
+        "last_on_display_place": "ACMI: Gallery 1",
+        "last_on_display_date": "2031-02-16",
+        "is_context_indigenous": false,
+        "material_description": "",
+        "unpublished": false,
+        "first_production_date": null
+    },
+    "group_works": [],
+    "group_siblings": [
+        {
+            "id": 99811,
+            "acmi_id": "180309",
+            "title": "Gelatin silver print\nBob running",
+            "title_annotation": "Facsimile",
+            "slug": "graphic-bob-running-1939",
+            "creator_credit": "Harold Edgerton",
+            "credit_line": "<p>Courtesy ©2010 MIT Museum</p>",
+            "headline_credit": "United States, c. 1938-1957",
+            "thumbnail": {
+                "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/P180309_G017.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=jCKbfSUa5zvRDOvGX0fhk5CB%2FSk%3D&Expires=1627009114",
+                "has_video": false
+            },
+            "record_type": "work",
+            "type": "Object",
+            "is_on_display": true,
+            "last_on_display_place": "ACMI: Gallery 1",
+            "last_on_display_date": "2031-02-16",
+            "is_context_indigenous": false,
+            "material_description": "Digital print",
+            "unpublished": false,
+            "first_production_date": null
+        },
+        {
+            "id": 99809,
+            "acmi_id": "180307",
+            "title": "Gelatin silver print\nMoving Skip Rope",
+            "title_annotation": "Facsimile",
+            "slug": "graphic-moving-skip-rope-1952",
+            "creator_credit": "Harold Edgerton",
+            "credit_line": "<p>Courtesy ©2010 MIT Museum</p>",
+            "headline_credit": "United States, c. 1938-1957",
+            "thumbnail": {
+                "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/P180307_G015.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=GFvbzbT0MftqZoJGhFCtuYnAXow%3D&Expires=1627009114",
+                "has_video": false
+            },
+            "record_type": "work",
+            "type": "Object",
+            "is_on_display": true,
+            "last_on_display_place": "ACMI: Gallery 1",
+            "last_on_display_date": "2031-02-16",
+            "is_context_indigenous": false,
+            "material_description": "Digital print",
+            "unpublished": false,
+            "first_production_date": null
+        }
+    ],
+    "source": {
+        "name": "Vernon",
+        "slug": "vernon"
+    },
+    "source_identifier": "180311",
+    "production_places": [
+        {
+            "id": 2,
+            "name": "United States",
+            "slug": "united-states"
+        }
+    ],
+    "production_dates": [
+        {
+            "date": "c. 1938-1957",
+            "notes": "",
+            "to_year": "c. 1938-1957"
+        }
+    ],
+    "labels": [
+        39308
+    ]
+}

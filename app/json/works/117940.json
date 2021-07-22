@@ -1,0 +1,174 @@
+{
+    "id": 117940,
+    "acmi_id": "183898",
+    "title": "You will see me",
+    "title_annotation": "",
+    "slug": "you-will-see-me",
+    "creator_credit": "Conor Bateman, Field Carr and Sari Braithwaite",
+    "credit_line": "<p>Sari Braithwaite, Conor Bateman, Field Carr</p>",
+    "headline_credit": "Australia, 2020",
+    "thumbnail": {
+        "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/YouWillSeeMe_JAndersonReel17_2.tif.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=37i%2Bw6Uy9j01vNR%2Fk8ezMAtKEGY%3D&Expires=1627009034",
+        "has_video": false
+    },
+    "record_type": "work",
+    "type": "Film",
+    "is_on_display": true,
+    "last_on_display_place": "ACMI: Gallery 1",
+    "last_on_display_date": "2031-02-16",
+    "is_context_indigenous": false,
+    "material_description": "Multi-screen installation",
+    "unpublished": false,
+    "first_production_date": "2020-01-01T11:00:00+11:00",
+    "brief_description": "<p>You will see me explores the way artists and amateurs alike have turned the camera on themselves since they became more accessible in the mid-20th century, and how this tradition is continued, amplified and tranformed through reality TV, the internet and social media.</p>",
+    "constellations_primary": [
+        {
+            "id": 246,
+            "name": "Copy, transform and combine",
+            "description": "You will see me (2020) repurposes material sourced from the history of the moving image – archival footage, news, interviews, documentaries, reality TV, video diaries and social media – to reflect on the way we perform in front of and reveal ourselves to the camera."
+        }
+    ],
+    "constellations_other": [],
+    "recommendations": [],
+    "title_for_label": "<p>You will see me</p>",
+    "creator_credit_for_label": "<p>Sari Braithwaite, Conor Bateman, Field Carr</p>",
+    "headline_credit_for_label": "<p>Australia, 2020</p>",
+    "description": "<p>The camera doesn’t just capture us, it frames who we are and how we’re seen. Since the camera became more accessible in the mid-20th century, artists and amateurs alike have turned the lens on themselves to create a stage both private and public. This tradition is continued, amplified and transformed through reality TV, the internet and social media, the latest forms to use straight-to-camera techniques to share our common humanity, project authenticity and illuminate how a sense of self can be constructed through the moving image.</p>",
+    "description_for_label": [
+        "<p>The camera doesn’t just capture us, it frames who we are and how we’re seen. Since the camera became more accessible in the mid-20th century, artists and amateurs alike have turned the lens on themselves to create a stage both private and public. This tradition is continued, amplified and transformed through reality TV, the internet and social media, the latest forms to use straight-to-camera techniques to share our common humanity, project authenticity and illuminate how a sense of self can be constructed through the moving image.</p>"
+    ],
+    "credit_line_for_label": "<p>Sari Braithwaite, Conor Bateman, Field Carr</p>",
+    "details": [
+        {
+            "label": "Curatorial section",
+            "display_values": [
+                "The Story of the Moving Image&nbsp;→ Moving Minds&nbsp;→ 10. Visual Essay (Core)"
+            ]
+        },
+        {
+            "label": "Materials",
+            "display_values": [
+                "Multi-screen installation"
+            ]
+        }
+    ],
+    "stats": {
+        "tap_count": 14799
+    },
+    "links": [],
+    "creators_primary": [
+        {
+            "id": 1134619,
+            "name": "Conor Bateman",
+            "creator_id": 84346,
+            "role": "creator",
+            "role_id": 968,
+            "is_primary": true
+        },
+        {
+            "id": 1134618,
+            "name": "Field Carr",
+            "creator_id": 10805,
+            "role": "creator",
+            "role_id": 968,
+            "is_primary": true
+        },
+        {
+            "id": 1134617,
+            "name": "Sari Braithwaite",
+            "creator_id": 72517,
+            "role": "creator",
+            "role_id": 968,
+            "is_primary": true
+        }
+    ],
+    "creators_other": [
+        {
+            "id": 1134616,
+            "name": "ACMI",
+            "creator_id": 6272,
+            "role": "co-ordinator",
+            "role_id": 592,
+            "is_primary": false
+        }
+    ],
+    "video_links": [],
+    "media_note": null,
+    "images": [
+        {
+            "id": 16409,
+            "image_file": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/YouWillSeeMe_JAndersonReel17_2.tif?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=pgn%2FTkyde2RbPwn1qyCAM%2BbHYFI%3D&Expires=1627009034",
+            "image_file_thumbnail": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/YouWillSeeMe_JAndersonReel17_2.tif.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=37i%2Bw6Uy9j01vNR%2Fk8ezMAtKEGY%3D&Expires=1627009034",
+            "image_file_xs": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/YouWillSeeMe_JAndersonReel17_2.tif.480x480_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=xoKoQT3Mv5XJnGH%2B6brz71tJd%2BA%3D&Expires=1627009034",
+            "image_file_s": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/YouWillSeeMe_JAndersonReel17_2.tif.960x960_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=9NZAnqoH8RGSEDMX7oGuveexCRQ%3D&Expires=1627009034",
+            "image_file_m": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/YouWillSeeMe_JAndersonReel17_2.tif.1920x1920_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=xsOioBWQwlJG278iJMEsUn1xvU4%3D&Expires=1627009034",
+            "image_file_l": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/YouWillSeeMe_JAndersonReel17_2.tif.3840x3840_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=MbwsCSUNc33DEO%2BWsDjp6f4NtpQ%3D&Expires=1627009034",
+            "caption": "You Will See Me (still), original source John Anderson Home Movies: Reel 17  /  ACMI Collection. Donated by Sharon O’Shea.",
+            "credit_line": "",
+            "alt_text": "",
+            "width": 2048,
+            "height": 1536,
+            "access_level": "View anywhere"
+        },
+        {
+            "id": 16410,
+            "image_file": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/YouWillSeeMe_JAndersonReel17_1.tif?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=bnVBIlx5pha4cLKhGqlwQThpaRM%3D&Expires=1627009034",
+            "image_file_thumbnail": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/YouWillSeeMe_JAndersonReel17_1.tif.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=6ahlTI%2FChzfcTTNSY7%2FSn%2FJe%2FMc%3D&Expires=1627009034",
+            "image_file_xs": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/YouWillSeeMe_JAndersonReel17_1.tif.480x480_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=O7v7yiezkRYZEaG8VOTnbqWd2gY%3D&Expires=1627009034",
+            "image_file_s": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/YouWillSeeMe_JAndersonReel17_1.tif.960x960_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=F%2BQQlSoZUV1yO%2Fm8cfNKI9H09Dc%3D&Expires=1627009034",
+            "image_file_m": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/YouWillSeeMe_JAndersonReel17_1.tif.1920x1920_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=r2GEK68KlMhTj%2BL7zu%2FBUezCx8Y%3D&Expires=1627009034",
+            "image_file_l": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/YouWillSeeMe_JAndersonReel17_1.tif.3840x3840_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=laAY33UB3%2FWFNFcP2JQ2iZmgzvA%3D&Expires=1627009034",
+            "caption": "You Will See Me (still), original source John Anderson Home Movies: Reel 17  /  ACMI Collection. Donated by Sharon O’Shea.",
+            "credit_line": "",
+            "alt_text": "",
+            "width": 2048,
+            "height": 1536,
+            "access_level": "View anywhere"
+        },
+        {
+            "id": 16411,
+            "image_file": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/YouWillSeeMe_GadsdenReel166_1.tif?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=xuVzY2G%2BpcBQJds0W43094sVLjI%3D&Expires=1627009034",
+            "image_file_thumbnail": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/YouWillSeeMe_GadsdenReel166_1.tif.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=P%2Bsmumb47VZmMzWiMeSsvzSuseQ%3D&Expires=1627009034",
+            "image_file_xs": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/YouWillSeeMe_GadsdenReel166_1.tif.480x480_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=wpX82T3kgYvN%2BXTL2XGIesJF8r8%3D&Expires=1627009034",
+            "image_file_s": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/YouWillSeeMe_GadsdenReel166_1.tif.960x960_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=Qrw2vWLnVRPyVGRkx%2FTYPWNXYwM%3D&Expires=1627009034",
+            "image_file_m": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/YouWillSeeMe_GadsdenReel166_1.tif.1920x1920_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=ZbYxFCGeVpQINvKyEMRBTKkw%2BRk%3D&Expires=1627009034",
+            "image_file_l": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/YouWillSeeMe_GadsdenReel166_1.tif.3840x3840_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=4IN5lDcMjBATa0bkhzQVkkviomA%3D&Expires=1627009034",
+            "caption": "You Will See Me (still), original source Gadsden Family Home Movies: Reel 166  /  ACMI Collection. Donated by Chris Gadsden.",
+            "credit_line": "",
+            "alt_text": "",
+            "width": 1480,
+            "height": 1110,
+            "access_level": "View anywhere"
+        }
+    ],
+    "videos": [],
+    "holdings": [],
+    "part_of": null,
+    "parts": [],
+    "part_siblings": [],
+    "group": null,
+    "group_works": [],
+    "group_siblings": [],
+    "source": {
+        "name": "Vernon",
+        "slug": "vernon"
+    },
+    "source_identifier": "183898",
+    "production_places": [
+        {
+            "id": 3,
+            "name": "Australia",
+            "slug": "australia"
+        }
+    ],
+    "production_dates": [
+        {
+            "date": "2020",
+            "notes": "",
+            "to_year": "2020"
+        }
+    ],
+    "labels": [
+        57435
+    ]
+}

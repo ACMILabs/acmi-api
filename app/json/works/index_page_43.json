@@ -1,0 +1,2242 @@
+{
+    "count": 922,
+    "next": "https://api.acmi.net.au/works/?page=44",
+    "previous": "https://api.acmi.net.au/works/?page=42",
+    "results": [
+        {
+            "id": 114179,
+            "acmi_id": "2597",
+            "title": "Slow Service",
+            "title_annotation": "",
+            "slug": "slow-service",
+            "creator_credit": "Marcus Lyall",
+            "credit_line": "",
+            "headline_credit": "Australia, 2003",
+            "thumbnail": {
+                "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/B1005943_SlowService.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=x0pl84bR1HoFlJNOJO6DVLu7zCw%3D&Expires=1627009260",
+                "has_video": false
+            },
+            "record_type": "work",
+            "type": "Digital art",
+            "is_on_display": false,
+            "last_on_display_place": "ACMI Screen Gallery",
+            "last_on_display_date": "2004-09-12",
+            "is_context_indigenous": false,
+            "material_description": "Single channel moving image, colour, silent",
+            "unpublished": false,
+            "first_production_date": "2003-01-01T11:00:00+11:00",
+            "brief_description": "<p>&#8216;Slow Service&#8217; is a series of portraits shot using a high speed video camera. This camera, which is normally used for filming mine detonations, science experiments and military tests, captures 1000 frames a second. The footage, when played back at 25 frames per second, has been slowed down so that a second of real time takes forty seconds on the screen. &#8216;I asked the subjects to pose as if for a passport photograph. We see the transition between this artificial pose and their natural instinctive reaction to the bucket of food that is being thrown at them, and then the impact of the food itself.</p>\n<p>I liked the idea of capturing a wasteful, slapstick, human gesture using a medium that is normally reserved for &#8216;serious&#8217; scientists and bomb designers&#8217;.  (Marcus Lyall, 2004)</p>",
+            "constellations_primary": [],
+            "constellations_other": [],
+            "recommendations": [],
+            "title_for_label": "<p>Slow Service</p>",
+            "creator_credit_for_label": "<p>Marcus Lyall</p>",
+            "headline_credit_for_label": "<p>Australia, 2003</p>",
+            "description": "<p>&#8216;Slow Service&#8217; is a series of portraits shot using a high speed video camera. This camera, which is normally used for filming mine detonations, science experiments and military tests, captures 1000 frames a second. The footage, when played back at 25 frames per second, has been slowed down so that a second of real time takes forty seconds on the screen. &#8216;I asked the subjects to pose as if for a passport photograph. We see the transition between this artificial pose and their natural instinctive reaction to the bucket of food that is being thrown at them, and then the impact of the food itself.</p>\n<p>I liked the idea of capturing a wasteful, slapstick, human gesture using a medium that is normally reserved for &#8216;serious&#8217; scientists and bomb designers&#8217;.  (Marcus Lyall, 2004)</p>",
+            "description_for_label": [
+                "<p>&#8216;Slow Service&#8217; is a series of portraits shot using a high speed video camera. This camera, which is normally used for filming mine detonations, science experiments and military tests, captures 1000 frames a second. The footage, when played back at 25 frames per second, has been slowed down so that a second of real time takes forty seconds on the screen. &#8216;I asked the subjects to pose as if for a passport photograph. We see the transition between this artificial pose and their natural instinctive reaction to the bucket of food that is being thrown at them, and then the impact of the food itself.</p>\n<p>I liked the idea of capturing a wasteful, slapstick, human gesture using a medium that is normally reserved for &#8216;serious&#8217; scientists and bomb designers&#8217;.  (Marcus Lyall, 2004)</p>"
+            ],
+            "credit_line_for_label": "",
+            "details": [
+                {
+                    "label": "Duration",
+                    "display_values": [
+                        "00:06:29:00"
+                    ]
+                },
+                {
+                    "label": "Audience classifications",
+                    "display_values": [
+                        "G",
+                        "Mediatheque - all ages (ACMI classified)"
+                    ]
+                },
+                {
+                    "label": "Subject categories",
+                    "display_values": [
+                        "Crafts & Visual Arts&nbsp;→ Video art",
+                        "Digital Art",
+                        "Experimental",
+                        "Experimental&nbsp;→ Experimental films - Australia",
+                        "Short films",
+                        "Short films&nbsp;→ Short films - Australia",
+                        "Silent films"
+                    ]
+                },
+                {
+                    "label": "Sound/audio",
+                    "display_values": [
+                        "Silent"
+                    ]
+                },
+                {
+                    "label": "Colour",
+                    "display_values": [
+                        "Colour"
+                    ]
+                },
+                {
+                    "label": "Materials",
+                    "display_values": [
+                        "Single channel moving image, colour, silent"
+                    ]
+                }
+            ],
+            "stats": {
+                "tap_count": 0
+            },
+            "links": [],
+            "creators_primary": [
+                {
+                    "id": 1134145,
+                    "name": "Marcus Lyall",
+                    "creator_id": 9220,
+                    "role": "creator",
+                    "role_id": 968,
+                    "is_primary": true
+                }
+            ],
+            "creators_other": [],
+            "video_links": [],
+            "media_note": null,
+            "images": [
+                {
+                    "id": 13836,
+                    "image_file": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/B1005943_SlowService.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=RBt%2F%2FY67KynP%2BzCOq5ux3p8CU30%3D&Expires=1627009260",
+                    "image_file_thumbnail": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/B1005943_SlowService.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=x0pl84bR1HoFlJNOJO6DVLu7zCw%3D&Expires=1627009260",
+                    "image_file_xs": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/B1005943_SlowService.jpg.480x480_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=q0dy8yaSbngpi73MPED4C9aoGbA%3D&Expires=1627009260",
+                    "image_file_s": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/B1005943_SlowService.jpg.960x960_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=CPdYq0lmea0b5u9ptHtwW%2Fi%2Fqig%3D&Expires=1627009260",
+                    "image_file_m": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/B1005943_SlowService.jpg.1920x1920_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=RD9A62f%2BQXYNMtJ%2FO7cx4xcyvnE%3D&Expires=1627009260",
+                    "image_file_l": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/B1005943_SlowService.jpg.3840x3840_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=5CZC57giKDmJ0AxqQbdYKoG3OJc%3D&Expires=1627009260",
+                    "caption": "Slow Service (Marcus Lyall) still",
+                    "credit_line": "",
+                    "alt_text": "",
+                    "width": 438,
+                    "height": 327,
+                    "access_level": "View anywhere"
+                }
+            ],
+            "videos": [],
+            "holdings": [
+                {
+                    "name": "Digital Betacam; Master",
+                    "identifier": "",
+                    "description": ""
+                },
+                {
+                    "name": "Digital Betacam; Sub-master",
+                    "identifier": "",
+                    "description": ""
+                },
+                {
+                    "name": "VHS [PAL]; Reference - timecoded",
+                    "identifier": "",
+                    "description": ""
+                },
+                {
+                    "name": "DVD [PAL]; Copy",
+                    "identifier": "",
+                    "description": ""
+                },
+                {
+                    "name": "DVD [PAL]; Exhibition Copy",
+                    "identifier": "",
+                    "description": ""
+                },
+                {
+                    "name": "MOV file H264; ACMI Digital Access Copy - presentation",
+                    "identifier": "",
+                    "description": ""
+                }
+            ],
+            "part_of": null,
+            "parts": [],
+            "part_siblings": [],
+            "group": {
+                "id": 114180,
+                "acmi_id": "148425",
+                "title": "2004: New Visual Culture",
+                "title_annotation": "",
+                "slug": "2004-new-visual-culture",
+                "creator_credit": "",
+                "credit_line": "",
+                "headline_credit": "2003-2004",
+                "thumbnail": {
+                    "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/Boxes2.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=13aVWDKgXuR3MHCrwYBtSQ8U3Ok%3D&Expires=1627009260",
+                    "has_video": false
+                },
+                "record_type": "group",
+                "type": "Film",
+                "is_on_display": false,
+                "last_on_display_place": null,
+                "last_on_display_date": null,
+                "is_context_indigenous": false,
+                "material_description": "",
+                "unpublished": true,
+                "first_production_date": null
+            },
+            "group_works": [],
+            "group_siblings": [
+                {
+                    "id": 114181,
+                    "acmi_id": "2721",
+                    "title": "Behind the mountain",
+                    "title_annotation": "",
+                    "slug": "behind-the-mountain",
+                    "creator_credit": "Jonathan Jones",
+                    "credit_line": "",
+                    "headline_credit": "Australia, 2004",
+                    "thumbnail": {
+                        "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/Boxes2.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=13aVWDKgXuR3MHCrwYBtSQ8U3Ok%3D&Expires=1627009260",
+                        "has_video": false
+                    },
+                    "record_type": "work",
+                    "type": "Digital art",
+                    "is_on_display": false,
+                    "last_on_display_place": "ACMI Screen Gallery",
+                    "last_on_display_date": "2004-09-12",
+                    "is_context_indigenous": false,
+                    "material_description": "video, projections and cardboard",
+                    "unpublished": false,
+                    "first_production_date": "2004-01-01T11:00:00+11:00"
+                },
+                {
+                    "id": 114182,
+                    "acmi_id": "2727",
+                    "title": "Godspeed verticals",
+                    "title_annotation": "",
+                    "slug": "godspeed-verticals",
+                    "creator_credit": "Mark Larenzetto and Shaun Gladwell",
+                    "credit_line": "",
+                    "headline_credit": "Australia, 2004",
+                    "thumbnail": null,
+                    "record_type": "work",
+                    "type": "Digital art",
+                    "is_on_display": false,
+                    "last_on_display_place": "ACMI Screen Gallery",
+                    "last_on_display_date": "2004-09-12",
+                    "is_context_indigenous": false,
+                    "material_description": "Multi channel moving image",
+                    "unpublished": false,
+                    "first_production_date": "2004-01-01T11:00:00+11:00"
+                },
+                {
+                    "id": 114183,
+                    "acmi_id": "2719",
+                    "title": "Maniac de Luxe",
+                    "title_annotation": "",
+                    "slug": "maniac-de-luxe",
+                    "creator_credit": "David Rosetzky",
+                    "credit_line": "",
+                    "headline_credit": "Australia, 2004",
+                    "thumbnail": {
+                        "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/Viewers__Install_shot.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=OCbnRljEP3mejOR9mVniffx72pc%3D&Expires=1627009260",
+                        "has_video": false
+                    },
+                    "record_type": "work",
+                    "type": "Digital art",
+                    "is_on_display": false,
+                    "last_on_display_place": "ACMI Screen Gallery",
+                    "last_on_display_date": "2004-09-12",
+                    "is_context_indigenous": false,
+                    "material_description": "two-channel video, projection, colour and audio",
+                    "unpublished": false,
+                    "first_production_date": "2004-01-01T11:00:00+11:00"
+                },
+                {
+                    "id": 114184,
+                    "acmi_id": "2728",
+                    "title": "The Shadowers",
+                    "title_annotation": "",
+                    "slug": "the-shadowers",
+                    "creator_credit": "Monika Tichacek",
+                    "credit_line": "",
+                    "headline_credit": "Australia, 2004",
+                    "thumbnail": {
+                        "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/B1006117_TheShadowers_Still1.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=anyVOsbFbSat8JNnQg4wPE54CxQ%3D&Expires=1627009260",
+                        "has_video": false
+                    },
+                    "record_type": "work",
+                    "type": "Digital art",
+                    "is_on_display": false,
+                    "last_on_display_place": "ACMI Screen Gallery",
+                    "last_on_display_date": "2004-09-12",
+                    "is_context_indigenous": false,
+                    "material_description": "Multi channel moving image",
+                    "unpublished": false,
+                    "first_production_date": "2004-01-01T11:00:00+11:00"
+                }
+            ],
+            "source": {
+                "name": "Vernon",
+                "slug": "vernon"
+            },
+            "source_identifier": "2597",
+            "production_places": [
+                {
+                    "id": 3,
+                    "name": "Australia",
+                    "slug": "australia"
+                }
+            ],
+            "production_dates": [
+                {
+                    "date": "2003",
+                    "notes": "",
+                    "to_year": "2003"
+                }
+            ],
+            "labels": [
+                53671
+            ]
+        },
+        {
+            "id": 114184,
+            "acmi_id": "2728",
+            "title": "The Shadowers",
+            "title_annotation": "",
+            "slug": "the-shadowers",
+            "creator_credit": "Monika Tichacek",
+            "credit_line": "",
+            "headline_credit": "Australia, 2004",
+            "thumbnail": {
+                "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/B1006117_TheShadowers_Still1.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=anyVOsbFbSat8JNnQg4wPE54CxQ%3D&Expires=1627009260",
+                "has_video": false
+            },
+            "record_type": "work",
+            "type": "Digital art",
+            "is_on_display": false,
+            "last_on_display_place": "ACMI Screen Gallery",
+            "last_on_display_date": "2004-09-12",
+            "is_context_indigenous": false,
+            "material_description": "Multi channel moving image",
+            "unpublished": false,
+            "first_production_date": "2004-01-01T11:00:00+11:00",
+            "brief_description": "<p>This three screen video installation creates a series of disquieting tableaus that present visions of three characters engaged in a game like narrative and whose roles and identities shift and blur between attacker and victim and all that could be the same in between. In an articulation of a &#8216;schizophrenic understanding of the self&#8217; Tichacek presents an image of oscillating inner world&#8217;s where physical and mental experience fluctuate and escape simple definition in the parameters of physical and emotional manipulations and violence (Exhibition proposal). In a thematic echo of and engagement with technological advancements in bodily modification, the victim, played by the artist, is submitted to a range of intrusive and physical molding actions at the hands of the other characters, set in lush outdoor settings as well as in a dark and clinical interior. Suspended in a triangular fashion and surrounding a sculptural object, the viewer can move between and behind the synchronised screens, the physical and psychological shifts of identity featured in the video mirrored in the viewer&#8217;s own fluctuating experience of the work as they become variously immersed in or distanced from the disturbingly beautiful and new but fragile &#8216;prosthetic&#8217; space the game narrative articulates. Static and inarticulate frequencies, or white noise, layer the visuals in place of the characters&#8217; speech and screams and create an aural sense of distortion and displacement for the viewer in the use of surround sound.</p>",
+            "constellations_primary": [],
+            "constellations_other": [],
+            "recommendations": [],
+            "title_for_label": "<p>The Shadowers</p>",
+            "creator_credit_for_label": "<p>Monika Tichacek</p>",
+            "headline_credit_for_label": "<p>Australia, 2004</p>",
+            "description": "<p>This three screen video installation creates a series of disquieting tableaus that present visions of three characters engaged in a game like narrative and whose roles and identities shift and blur between attacker and victim and all that could be the same in between. In an articulation of a &#8216;schizophrenic understanding of the self&#8217; Tichacek presents an image of oscillating inner world&#8217;s where physical and mental experience fluctuate and escape simple definition in the parameters of physical and emotional manipulations and violence (Exhibition proposal). In a thematic echo of and engagement with technological advancements in bodily modification, the victim, played by the artist, is submitted to a range of intrusive and physical molding actions at the hands of the other characters, set in lush outdoor settings as well as in a dark and clinical interior. Suspended in a triangular fashion and surrounding a sculptural object, the viewer can move between and behind the synchronised screens, the physical and psychological shifts of identity featured in the video mirrored in the viewer&#8217;s own fluctuating experience of the work as they become variously immersed in or distanced from the disturbingly beautiful and new but fragile &#8216;prosthetic&#8217; space the game narrative articulates. Static and inarticulate frequencies, or white noise, layer the visuals in place of the characters&#8217; speech and screams and create an aural sense of distortion and displacement for the viewer in the use of surround sound.</p>",
+            "description_for_label": [
+                "<p>This three screen video installation creates a series of disquieting tableaus that present visions of three characters engaged in a game like narrative and whose roles and identities shift and blur between attacker and victim and all that could be the same in between. In an articulation of a &#8216;schizophrenic understanding of the self&#8217; Tichacek presents an image of oscillating inner world&#8217;s where physical and mental experience fluctuate and escape simple definition in the parameters of physical and emotional manipulations and violence (Exhibition proposal). In a thematic echo of and engagement with technological advancements in bodily modification, the victim, played by the artist, is submitted to a range of intrusive and physical molding actions at the hands of the other characters, set in lush outdoor settings as well as in a dark and clinical interior. Suspended in a triangular fashion and surrounding a sculptural object, the viewer can move between and behind the synchronised screens, the physical and psychological shifts of identity featured in the video mirrored in the viewer&#8217;s own fluctuating experience of the work as they become variously immersed in or distanced from the disturbingly beautiful and new but fragile &#8216;prosthetic&#8217; space the game narrative articulates. Static and inarticulate frequencies, or white noise, layer the visuals in place of the characters&#8217; speech and screams and create an aural sense of distortion and displacement for the viewer in the use of surround sound.</p>"
+            ],
+            "credit_line_for_label": "",
+            "details": [
+                {
+                    "label": "Language",
+                    "display_values": [
+                        "No spoken word"
+                    ]
+                },
+                {
+                    "label": "Audience classification",
+                    "display_values": [
+                        "G"
+                    ]
+                },
+                {
+                    "label": "Subject categories",
+                    "display_values": [
+                        "Advertising, Film, Journalism, Mass Media & TV&nbsp;→ Popular culture",
+                        "Digital Art",
+                        "Family, Gender Identity, Relationships & Sexuality&nbsp;→ Desire",
+                        "Family, Gender Identity, Relationships & Sexuality&nbsp;→ Gender identity",
+                        "Family, Gender Identity, Relationships & Sexuality&nbsp;→ Interpersonal conflict",
+                        "Family, Gender Identity, Relationships & Sexuality&nbsp;→ Love",
+                        "Family, Gender Identity, Relationships & Sexuality&nbsp;→ Sex",
+                        "Family, Gender Identity, Relationships & Sexuality&nbsp;→ Voyeurism",
+                        "Food, Health, Lifestyle, Medicine, Psychology & Safety&nbsp;→ Voyeurism",
+                        "Mixed media",
+                        "Music & Performing Arts&nbsp;→ Popular culture",
+                        "Performance"
+                    ]
+                },
+                {
+                    "label": "Materials",
+                    "display_values": [
+                        "Multi channel moving image"
+                    ]
+                }
+            ],
+            "stats": {
+                "tap_count": 0
+            },
+            "links": [],
+            "creators_primary": [
+                {
+                    "id": 1134144,
+                    "name": "Monika Tichacek",
+                    "creator_id": 9278,
+                    "role": "creator",
+                    "role_id": 968,
+                    "is_primary": true
+                }
+            ],
+            "creators_other": [],
+            "video_links": [],
+            "media_note": null,
+            "images": [
+                {
+                    "id": 16072,
+                    "image_file": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/B1006117_TheShadowers_Still1.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=XeupexChlglngRgl%2BLMu7MD4%2BKo%3D&Expires=1627009260",
+                    "image_file_thumbnail": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/B1006117_TheShadowers_Still1.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=anyVOsbFbSat8JNnQg4wPE54CxQ%3D&Expires=1627009260",
+                    "image_file_xs": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/B1006117_TheShadowers_Still1.jpg.480x480_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=UDXM9UNggUWTFHrmS9tfxHfpqqA%3D&Expires=1627009260",
+                    "image_file_s": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/B1006117_TheShadowers_Still1.jpg.960x960_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=%2BNMZ%2FIqpY3mDsuzDftJPGFztiTU%3D&Expires=1627009260",
+                    "image_file_m": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/B1006117_TheShadowers_Still1.jpg.1920x1920_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=z1BolURIUKha5cauIOZAo2mLxlw%3D&Expires=1627009260",
+                    "image_file_l": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/B1006117_TheShadowers_Still1.jpg.3840x3840_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=cdUdmAnDEm%2Bqk2zIvy1yI7ITDWs%3D&Expires=1627009260",
+                    "caption": "B1006117_TheShadowers_Still1",
+                    "credit_line": "",
+                    "alt_text": "",
+                    "width": 730,
+                    "height": 219,
+                    "access_level": "View anywhere"
+                }
+            ],
+            "videos": [],
+            "holdings": [
+                {
+                    "name": "Mini DV; Master",
+                    "identifier": "",
+                    "description": ""
+                },
+                {
+                    "name": "DVD [PAL]; Exhibition Copy",
+                    "identifier": "",
+                    "description": ""
+                }
+            ],
+            "part_of": null,
+            "parts": [],
+            "part_siblings": [],
+            "group": {
+                "id": 114180,
+                "acmi_id": "148425",
+                "title": "2004: New Visual Culture",
+                "title_annotation": "",
+                "slug": "2004-new-visual-culture",
+                "creator_credit": "",
+                "credit_line": "",
+                "headline_credit": "2003-2004",
+                "thumbnail": {
+                    "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/Boxes2.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=13aVWDKgXuR3MHCrwYBtSQ8U3Ok%3D&Expires=1627009260",
+                    "has_video": false
+                },
+                "record_type": "group",
+                "type": "Film",
+                "is_on_display": false,
+                "last_on_display_place": null,
+                "last_on_display_date": null,
+                "is_context_indigenous": false,
+                "material_description": "",
+                "unpublished": true,
+                "first_production_date": null
+            },
+            "group_works": [],
+            "group_siblings": [
+                {
+                    "id": 114181,
+                    "acmi_id": "2721",
+                    "title": "Behind the mountain",
+                    "title_annotation": "",
+                    "slug": "behind-the-mountain",
+                    "creator_credit": "Jonathan Jones",
+                    "credit_line": "",
+                    "headline_credit": "Australia, 2004",
+                    "thumbnail": {
+                        "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/Boxes2.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=13aVWDKgXuR3MHCrwYBtSQ8U3Ok%3D&Expires=1627009260",
+                        "has_video": false
+                    },
+                    "record_type": "work",
+                    "type": "Digital art",
+                    "is_on_display": false,
+                    "last_on_display_place": "ACMI Screen Gallery",
+                    "last_on_display_date": "2004-09-12",
+                    "is_context_indigenous": false,
+                    "material_description": "video, projections and cardboard",
+                    "unpublished": false,
+                    "first_production_date": "2004-01-01T11:00:00+11:00"
+                },
+                {
+                    "id": 114182,
+                    "acmi_id": "2727",
+                    "title": "Godspeed verticals",
+                    "title_annotation": "",
+                    "slug": "godspeed-verticals",
+                    "creator_credit": "Mark Larenzetto and Shaun Gladwell",
+                    "credit_line": "",
+                    "headline_credit": "Australia, 2004",
+                    "thumbnail": null,
+                    "record_type": "work",
+                    "type": "Digital art",
+                    "is_on_display": false,
+                    "last_on_display_place": "ACMI Screen Gallery",
+                    "last_on_display_date": "2004-09-12",
+                    "is_context_indigenous": false,
+                    "material_description": "Multi channel moving image",
+                    "unpublished": false,
+                    "first_production_date": "2004-01-01T11:00:00+11:00"
+                },
+                {
+                    "id": 114183,
+                    "acmi_id": "2719",
+                    "title": "Maniac de Luxe",
+                    "title_annotation": "",
+                    "slug": "maniac-de-luxe",
+                    "creator_credit": "David Rosetzky",
+                    "credit_line": "",
+                    "headline_credit": "Australia, 2004",
+                    "thumbnail": {
+                        "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/Viewers__Install_shot.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=OCbnRljEP3mejOR9mVniffx72pc%3D&Expires=1627009260",
+                        "has_video": false
+                    },
+                    "record_type": "work",
+                    "type": "Digital art",
+                    "is_on_display": false,
+                    "last_on_display_place": "ACMI Screen Gallery",
+                    "last_on_display_date": "2004-09-12",
+                    "is_context_indigenous": false,
+                    "material_description": "two-channel video, projection, colour and audio",
+                    "unpublished": false,
+                    "first_production_date": "2004-01-01T11:00:00+11:00"
+                },
+                {
+                    "id": 114179,
+                    "acmi_id": "2597",
+                    "title": "Slow Service",
+                    "title_annotation": "",
+                    "slug": "slow-service",
+                    "creator_credit": "Marcus Lyall",
+                    "credit_line": "",
+                    "headline_credit": "Australia, 2003",
+                    "thumbnail": {
+                        "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/B1005943_SlowService.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=x0pl84bR1HoFlJNOJO6DVLu7zCw%3D&Expires=1627009260",
+                        "has_video": false
+                    },
+                    "record_type": "work",
+                    "type": "Digital art",
+                    "is_on_display": false,
+                    "last_on_display_place": "ACMI Screen Gallery",
+                    "last_on_display_date": "2004-09-12",
+                    "is_context_indigenous": false,
+                    "material_description": "Single channel moving image, colour, silent",
+                    "unpublished": false,
+                    "first_production_date": "2003-01-01T11:00:00+11:00"
+                }
+            ],
+            "source": {
+                "name": "Vernon",
+                "slug": "vernon"
+            },
+            "source_identifier": "2728",
+            "production_places": [
+                {
+                    "id": 3,
+                    "name": "Australia",
+                    "slug": "australia"
+                }
+            ],
+            "production_dates": [
+                {
+                    "date": "2004",
+                    "notes": "",
+                    "to_year": "2004"
+                }
+            ],
+            "labels": [
+                53676
+            ]
+        },
+        {
+            "id": 114183,
+            "acmi_id": "2719",
+            "title": "Maniac de Luxe",
+            "title_annotation": "",
+            "slug": "maniac-de-luxe",
+            "creator_credit": "David Rosetzky",
+            "credit_line": "",
+            "headline_credit": "Australia, 2004",
+            "thumbnail": {
+                "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/Viewers__Install_shot.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=OCbnRljEP3mejOR9mVniffx72pc%3D&Expires=1627009260",
+                "has_video": false
+            },
+            "record_type": "work",
+            "type": "Digital art",
+            "is_on_display": false,
+            "last_on_display_place": "ACMI Screen Gallery",
+            "last_on_display_date": "2004-09-12",
+            "is_context_indigenous": false,
+            "material_description": "two-channel video, projection, colour and audio",
+            "unpublished": false,
+            "first_production_date": "2004-01-01T11:00:00+11:00",
+            "brief_description": "<p>A dual screen video installation with thematic furnishing elements including low light household lamps, Maniac de Luxe interrogates the implications of private activities relocated into public space. Through a conceptual focus in the screen images on the interiors of large designer furnishing outlets and the cross cutting of footage on one screen between these public interiors and private dwellings which feature similar furnishings, the realm of private and public is increasing blurred and their boundaries rendered increasingly ambiguous. On a large rear projection screen, a group of characters sit and discuss private thoughts and issues in a designer furniture showroom, a further problematic to the division between private and public space. An ambient soundtrack along with two discrete soundscapes including dialogue from a group of characters and original music, will also inform the atmosphere of the installation, itself furnished as a room in a generic designer home.</p>",
+            "constellations_primary": [],
+            "constellations_other": [],
+            "recommendations": [],
+            "title_for_label": "<p>Maniac de Luxe</p>",
+            "creator_credit_for_label": "<p>David Rosetzky</p>",
+            "headline_credit_for_label": "<p>Australia, 2004</p>",
+            "description": "<p>A dual screen video installation with thematic furnishing elements including low light household lamps, Maniac de Luxe interrogates the implications of private activities relocated into public space. Through a conceptual focus in the screen images on the interiors of large designer furnishing outlets and the cross cutting of footage on one screen between these public interiors and private dwellings which feature similar furnishings, the realm of private and public is increasing blurred and their boundaries rendered increasingly ambiguous. On a large rear projection screen, a group of characters sit and discuss private thoughts and issues in a designer furniture showroom, a further problematic to the division between private and public space. An ambient soundtrack along with two discrete soundscapes including dialogue from a group of characters and original music, will also inform the atmosphere of the installation, itself furnished as a room in a generic designer home.</p>",
+            "description_for_label": [
+                "<p>A dual screen video installation with thematic furnishing elements including low light household lamps, Maniac de Luxe interrogates the implications of private activities relocated into public space. Through a conceptual focus in the screen images on the interiors of large designer furnishing outlets and the cross cutting of footage on one screen between these public interiors and private dwellings which feature similar furnishings, the realm of private and public is increasing blurred and their boundaries rendered increasingly ambiguous. On a large rear projection screen, a group of characters sit and discuss private thoughts and issues in a designer furniture showroom, a further problematic to the division between private and public space. An ambient soundtrack along with two discrete soundscapes including dialogue from a group of characters and original music, will also inform the atmosphere of the installation, itself furnished as a room in a generic designer home.</p>"
+            ],
+            "credit_line_for_label": "",
+            "details": [
+                {
+                    "label": "Language",
+                    "display_values": [
+                        "English"
+                    ]
+                },
+                {
+                    "label": "Audience classification",
+                    "display_values": [
+                        "G"
+                    ]
+                },
+                {
+                    "label": "Subject categories",
+                    "display_values": [
+                        "Anthropology, Ethnology, Exploration & Travel&nbsp;→ Australia - Social life and customs",
+                        "Crafts & Visual Arts&nbsp;→ Design",
+                        "Digital Art",
+                        "Economics, Philosophy, Politics, Religion & Sociology&nbsp;→ Reality",
+                        "Family, Gender Identity, Relationships & Sexuality&nbsp;→ Desire"
+                    ]
+                },
+                {
+                    "label": "Materials",
+                    "display_values": [
+                        "two-channel video, projection, colour and audio"
+                    ]
+                }
+            ],
+            "stats": {
+                "tap_count": 0
+            },
+            "links": [],
+            "creators_primary": [
+                {
+                    "id": 1134142,
+                    "name": "David Rosetzky",
+                    "creator_id": 9248,
+                    "role": "creator",
+                    "role_id": 968,
+                    "is_primary": true
+                }
+            ],
+            "creators_other": [
+                {
+                    "id": 1134143,
+                    "name": "David Rosetzky",
+                    "creator_id": 9248,
+                    "role": "visual artist",
+                    "role_id": 493,
+                    "is_primary": false
+                }
+            ],
+            "video_links": [],
+            "media_note": null,
+            "images": [
+                {
+                    "id": 16027,
+                    "image_file": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/Viewers__Install_shot.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=aV2Dabjd4TGPy%2B7oaFH3bKPFyeg%3D&Expires=1627009260",
+                    "image_file_thumbnail": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/Viewers__Install_shot.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=OCbnRljEP3mejOR9mVniffx72pc%3D&Expires=1627009260",
+                    "image_file_xs": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/Viewers__Install_shot.jpg.480x480_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=GEAoBYWc5E%2FttKUtC1BjIPXR4yk%3D&Expires=1627009260",
+                    "image_file_s": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/Viewers__Install_shot.jpg.960x960_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=kxjwR%2BM6xRcUxY9Jc2pdySUTb4g%3D&Expires=1627009260",
+                    "image_file_m": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/Viewers__Install_shot.jpg.1920x1920_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=YJMpH8KLf8foM2YMgUqgWh4dbzc%3D&Expires=1627009260",
+                    "image_file_l": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/Viewers__Install_shot.jpg.3840x3840_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=4Cj4V0ODWor6rmvl9IS%2BixwxvZk%3D&Expires=1627009260",
+                    "caption": "B1006105_ManiacDeLuxe_InstallationImage",
+                    "credit_line": "",
+                    "alt_text": "",
+                    "width": 1200,
+                    "height": 798,
+                    "access_level": "View anywhere"
+                }
+            ],
+            "videos": [],
+            "holdings": [],
+            "part_of": null,
+            "parts": [],
+            "part_siblings": [],
+            "group": {
+                "id": 114180,
+                "acmi_id": "148425",
+                "title": "2004: New Visual Culture",
+                "title_annotation": "",
+                "slug": "2004-new-visual-culture",
+                "creator_credit": "",
+                "credit_line": "",
+                "headline_credit": "2003-2004",
+                "thumbnail": {
+                    "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/Boxes2.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=13aVWDKgXuR3MHCrwYBtSQ8U3Ok%3D&Expires=1627009260",
+                    "has_video": false
+                },
+                "record_type": "group",
+                "type": "Film",
+                "is_on_display": false,
+                "last_on_display_place": null,
+                "last_on_display_date": null,
+                "is_context_indigenous": false,
+                "material_description": "",
+                "unpublished": true,
+                "first_production_date": null
+            },
+            "group_works": [],
+            "group_siblings": [
+                {
+                    "id": 114181,
+                    "acmi_id": "2721",
+                    "title": "Behind the mountain",
+                    "title_annotation": "",
+                    "slug": "behind-the-mountain",
+                    "creator_credit": "Jonathan Jones",
+                    "credit_line": "",
+                    "headline_credit": "Australia, 2004",
+                    "thumbnail": {
+                        "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/Boxes2.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=13aVWDKgXuR3MHCrwYBtSQ8U3Ok%3D&Expires=1627009260",
+                        "has_video": false
+                    },
+                    "record_type": "work",
+                    "type": "Digital art",
+                    "is_on_display": false,
+                    "last_on_display_place": "ACMI Screen Gallery",
+                    "last_on_display_date": "2004-09-12",
+                    "is_context_indigenous": false,
+                    "material_description": "video, projections and cardboard",
+                    "unpublished": false,
+                    "first_production_date": "2004-01-01T11:00:00+11:00"
+                },
+                {
+                    "id": 114182,
+                    "acmi_id": "2727",
+                    "title": "Godspeed verticals",
+                    "title_annotation": "",
+                    "slug": "godspeed-verticals",
+                    "creator_credit": "Mark Larenzetto and Shaun Gladwell",
+                    "credit_line": "",
+                    "headline_credit": "Australia, 2004",
+                    "thumbnail": null,
+                    "record_type": "work",
+                    "type": "Digital art",
+                    "is_on_display": false,
+                    "last_on_display_place": "ACMI Screen Gallery",
+                    "last_on_display_date": "2004-09-12",
+                    "is_context_indigenous": false,
+                    "material_description": "Multi channel moving image",
+                    "unpublished": false,
+                    "first_production_date": "2004-01-01T11:00:00+11:00"
+                },
+                {
+                    "id": 114179,
+                    "acmi_id": "2597",
+                    "title": "Slow Service",
+                    "title_annotation": "",
+                    "slug": "slow-service",
+                    "creator_credit": "Marcus Lyall",
+                    "credit_line": "",
+                    "headline_credit": "Australia, 2003",
+                    "thumbnail": {
+                        "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/B1005943_SlowService.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=x0pl84bR1HoFlJNOJO6DVLu7zCw%3D&Expires=1627009260",
+                        "has_video": false
+                    },
+                    "record_type": "work",
+                    "type": "Digital art",
+                    "is_on_display": false,
+                    "last_on_display_place": "ACMI Screen Gallery",
+                    "last_on_display_date": "2004-09-12",
+                    "is_context_indigenous": false,
+                    "material_description": "Single channel moving image, colour, silent",
+                    "unpublished": false,
+                    "first_production_date": "2003-01-01T11:00:00+11:00"
+                },
+                {
+                    "id": 114184,
+                    "acmi_id": "2728",
+                    "title": "The Shadowers",
+                    "title_annotation": "",
+                    "slug": "the-shadowers",
+                    "creator_credit": "Monika Tichacek",
+                    "credit_line": "",
+                    "headline_credit": "Australia, 2004",
+                    "thumbnail": {
+                        "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/B1006117_TheShadowers_Still1.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=anyVOsbFbSat8JNnQg4wPE54CxQ%3D&Expires=1627009260",
+                        "has_video": false
+                    },
+                    "record_type": "work",
+                    "type": "Digital art",
+                    "is_on_display": false,
+                    "last_on_display_place": "ACMI Screen Gallery",
+                    "last_on_display_date": "2004-09-12",
+                    "is_context_indigenous": false,
+                    "material_description": "Multi channel moving image",
+                    "unpublished": false,
+                    "first_production_date": "2004-01-01T11:00:00+11:00"
+                }
+            ],
+            "source": {
+                "name": "Vernon",
+                "slug": "vernon"
+            },
+            "source_identifier": "2719",
+            "production_places": [
+                {
+                    "id": 3,
+                    "name": "Australia",
+                    "slug": "australia"
+                }
+            ],
+            "production_dates": [
+                {
+                    "date": "2004",
+                    "notes": "This work is a commission for the Exemplary Works Collection and is be exhibited in the ACMI + NGV 2004 Exhibition.",
+                    "to_year": "2004"
+                }
+            ],
+            "labels": [
+                53675
+            ]
+        },
+        {
+            "id": 114182,
+            "acmi_id": "2727",
+            "title": "Godspeed verticals",
+            "title_annotation": "",
+            "slug": "godspeed-verticals",
+            "creator_credit": "Mark Larenzetto and Shaun Gladwell",
+            "credit_line": "",
+            "headline_credit": "Australia, 2004",
+            "thumbnail": null,
+            "record_type": "work",
+            "type": "Digital art",
+            "is_on_display": false,
+            "last_on_display_place": "ACMI Screen Gallery",
+            "last_on_display_date": "2004-09-12",
+            "is_context_indigenous": false,
+            "material_description": "Multi channel moving image",
+            "unpublished": false,
+            "first_production_date": "2004-01-01T11:00:00+11:00",
+            "brief_description": "<p>A dual screen digital video installation, godspeed verticals explores BMX bicycle riding and skateboarding and its relations to and functions within the urban environment through the large scale projection of two sequences of actions skewed at 90 degree angles. Recorded in a deliberately anonymous and generic underground carpark and walkway and presented in slow motion, these sequences subtly reference visual cultural practices and spectatorship in an art historical context while engaged in a meditative study of contemporary activities of urban expression. In the first sequence, the camera follows a single BMX bicycle rider as they maneuver towards the darkened exit/entrance of a vast walkway, the bike and rider alike appearing to be pulled up and beyond the frame through the skewed presentation of the image. A loose translation of Caspar David Friedrich&#8217;s &#8216;Wanderer above the Sea of Fog&#8217; (1818), the image stages the sublime position of the loan character in Friedrich&#8217;s painting in its representation of the BMX bicycle rider&#8217;s spatial orientation in and interaction with the contemporary urban landscape. Sequence two presents an aerial view of skateboarders falling into a tiled wall, some alone and others grouped together, with subtle reflections in composition on the geometry of Abstract art and the distant framing of imagery and figures in Western religious artworks. A layered soundscape of the sounds derived from the focal environment accompanies the projections to produce a low volume ambience for the on screen movements.</p>",
+            "constellations_primary": [],
+            "constellations_other": [],
+            "recommendations": [],
+            "title_for_label": "<p>Godspeed verticals</p>",
+            "creator_credit_for_label": "<p>Mark Larenzetto and Shaun Gladwell</p>",
+            "headline_credit_for_label": "<p>Australia, 2004</p>",
+            "description": "<p>A dual screen digital video installation, godspeed verticals explores BMX bicycle riding and skateboarding and its relations to and functions within the urban environment through the large scale projection of two sequences of actions skewed at 90 degree angles. Recorded in a deliberately anonymous and generic underground carpark and walkway and presented in slow motion, these sequences subtly reference visual cultural practices and spectatorship in an art historical context while engaged in a meditative study of contemporary activities of urban expression. In the first sequence, the camera follows a single BMX bicycle rider as they maneuver towards the darkened exit/entrance of a vast walkway, the bike and rider alike appearing to be pulled up and beyond the frame through the skewed presentation of the image. A loose translation of Caspar David Friedrich&#8217;s &#8216;Wanderer above the Sea of Fog&#8217; (1818), the image stages the sublime position of the loan character in Friedrich&#8217;s painting in its representation of the BMX bicycle rider&#8217;s spatial orientation in and interaction with the contemporary urban landscape. Sequence two presents an aerial view of skateboarders falling into a tiled wall, some alone and others grouped together, with subtle reflections in composition on the geometry of Abstract art and the distant framing of imagery and figures in Western religious artworks. A layered soundscape of the sounds derived from the focal environment accompanies the projections to produce a low volume ambience for the on screen movements.</p>",
+            "description_for_label": [
+                "<p>A dual screen digital video installation, godspeed verticals explores BMX bicycle riding and skateboarding and its relations to and functions within the urban environment through the large scale projection of two sequences of actions skewed at 90 degree angles. Recorded in a deliberately anonymous and generic underground carpark and walkway and presented in slow motion, these sequences subtly reference visual cultural practices and spectatorship in an art historical context while engaged in a meditative study of contemporary activities of urban expression. In the first sequence, the camera follows a single BMX bicycle rider as they maneuver towards the darkened exit/entrance of a vast walkway, the bike and rider alike appearing to be pulled up and beyond the frame through the skewed presentation of the image. A loose translation of Caspar David Friedrich&#8217;s &#8216;Wanderer above the Sea of Fog&#8217; (1818), the image stages the sublime position of the loan character in Friedrich&#8217;s painting in its representation of the BMX bicycle rider&#8217;s spatial orientation in and interaction with the contemporary urban landscape. Sequence two presents an aerial view of skateboarders falling into a tiled wall, some alone and others grouped together, with subtle reflections in composition on the geometry of Abstract art and the distant framing of imagery and figures in Western religious artworks. A layered soundscape of the sounds derived from the focal environment accompanies the projections to produce a low volume ambience for the on screen movements.</p>"
+            ],
+            "credit_line_for_label": "",
+            "details": [
+                {
+                    "label": "Language",
+                    "display_values": [
+                        "No spoken word"
+                    ]
+                },
+                {
+                    "label": "Audience classification",
+                    "display_values": [
+                        "G"
+                    ]
+                },
+                {
+                    "label": "Subject categories",
+                    "display_values": [
+                        "Crafts & Visual Arts&nbsp;→ Architecture",
+                        "Crafts & Visual Arts&nbsp;→ Art",
+                        "Digital Art",
+                        "Economics, Philosophy, Politics, Religion & Sociology&nbsp;→ Reality",
+                        "Performance"
+                    ]
+                },
+                {
+                    "label": "Materials",
+                    "display_values": [
+                        "Multi channel moving image"
+                    ]
+                }
+            ],
+            "stats": {
+                "tap_count": 0
+            },
+            "links": [],
+            "creators_primary": [
+                {
+                    "id": 1134141,
+                    "name": "Mark Larenzetto",
+                    "creator_id": 9277,
+                    "role": "producer",
+                    "role_id": 960,
+                    "is_primary": true
+                },
+                {
+                    "id": 1134136,
+                    "name": "Shaun Gladwell",
+                    "creator_id": 9260,
+                    "role": "creator",
+                    "role_id": 968,
+                    "is_primary": true
+                }
+            ],
+            "creators_other": [
+                {
+                    "id": 1134140,
+                    "name": "Tobias Grime",
+                    "creator_id": 81912,
+                    "role": "composer",
+                    "role_id": 538,
+                    "is_primary": false
+                },
+                {
+                    "id": 1134139,
+                    "name": "Gotaro Uematsu",
+                    "creator_id": 73575,
+                    "role": "director of photography",
+                    "role_id": 925,
+                    "is_primary": false
+                },
+                {
+                    "id": 1134138,
+                    "name": "Nigel Begg",
+                    "creator_id": 81911,
+                    "role": "stunt professional",
+                    "role_id": 614,
+                    "is_primary": false
+                },
+                {
+                    "id": 1134137,
+                    "name": "Wade Marynowsky",
+                    "creator_id": 81910,
+                    "role": "sound",
+                    "role_id": 952,
+                    "is_primary": false
+                }
+            ],
+            "video_links": [],
+            "media_note": "Sorry, we don't have images or video for this item.",
+            "images": [],
+            "videos": [],
+            "holdings": [
+                {
+                    "name": "DVCAM; Master",
+                    "identifier": "",
+                    "description": ""
+                },
+                {
+                    "name": "Mini DV; Master",
+                    "identifier": "",
+                    "description": ""
+                },
+                {
+                    "name": "DVD [PAL]; Exhibition Copy",
+                    "identifier": "",
+                    "description": ""
+                },
+                {
+                    "name": "CD ROM; Exhibition Copy",
+                    "identifier": "",
+                    "description": ""
+                }
+            ],
+            "part_of": null,
+            "parts": [],
+            "part_siblings": [],
+            "group": {
+                "id": 114180,
+                "acmi_id": "148425",
+                "title": "2004: New Visual Culture",
+                "title_annotation": "",
+                "slug": "2004-new-visual-culture",
+                "creator_credit": "",
+                "credit_line": "",
+                "headline_credit": "2003-2004",
+                "thumbnail": {
+                    "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/Boxes2.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=13aVWDKgXuR3MHCrwYBtSQ8U3Ok%3D&Expires=1627009260",
+                    "has_video": false
+                },
+                "record_type": "group",
+                "type": "Film",
+                "is_on_display": false,
+                "last_on_display_place": null,
+                "last_on_display_date": null,
+                "is_context_indigenous": false,
+                "material_description": "",
+                "unpublished": true,
+                "first_production_date": null
+            },
+            "group_works": [],
+            "group_siblings": [
+                {
+                    "id": 114181,
+                    "acmi_id": "2721",
+                    "title": "Behind the mountain",
+                    "title_annotation": "",
+                    "slug": "behind-the-mountain",
+                    "creator_credit": "Jonathan Jones",
+                    "credit_line": "",
+                    "headline_credit": "Australia, 2004",
+                    "thumbnail": {
+                        "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/Boxes2.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=13aVWDKgXuR3MHCrwYBtSQ8U3Ok%3D&Expires=1627009260",
+                        "has_video": false
+                    },
+                    "record_type": "work",
+                    "type": "Digital art",
+                    "is_on_display": false,
+                    "last_on_display_place": "ACMI Screen Gallery",
+                    "last_on_display_date": "2004-09-12",
+                    "is_context_indigenous": false,
+                    "material_description": "video, projections and cardboard",
+                    "unpublished": false,
+                    "first_production_date": "2004-01-01T11:00:00+11:00"
+                },
+                {
+                    "id": 114183,
+                    "acmi_id": "2719",
+                    "title": "Maniac de Luxe",
+                    "title_annotation": "",
+                    "slug": "maniac-de-luxe",
+                    "creator_credit": "David Rosetzky",
+                    "credit_line": "",
+                    "headline_credit": "Australia, 2004",
+                    "thumbnail": {
+                        "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/Viewers__Install_shot.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=OCbnRljEP3mejOR9mVniffx72pc%3D&Expires=1627009260",
+                        "has_video": false
+                    },
+                    "record_type": "work",
+                    "type": "Digital art",
+                    "is_on_display": false,
+                    "last_on_display_place": "ACMI Screen Gallery",
+                    "last_on_display_date": "2004-09-12",
+                    "is_context_indigenous": false,
+                    "material_description": "two-channel video, projection, colour and audio",
+                    "unpublished": false,
+                    "first_production_date": "2004-01-01T11:00:00+11:00"
+                },
+                {
+                    "id": 114179,
+                    "acmi_id": "2597",
+                    "title": "Slow Service",
+                    "title_annotation": "",
+                    "slug": "slow-service",
+                    "creator_credit": "Marcus Lyall",
+                    "credit_line": "",
+                    "headline_credit": "Australia, 2003",
+                    "thumbnail": {
+                        "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/B1005943_SlowService.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=x0pl84bR1HoFlJNOJO6DVLu7zCw%3D&Expires=1627009260",
+                        "has_video": false
+                    },
+                    "record_type": "work",
+                    "type": "Digital art",
+                    "is_on_display": false,
+                    "last_on_display_place": "ACMI Screen Gallery",
+                    "last_on_display_date": "2004-09-12",
+                    "is_context_indigenous": false,
+                    "material_description": "Single channel moving image, colour, silent",
+                    "unpublished": false,
+                    "first_production_date": "2003-01-01T11:00:00+11:00"
+                },
+                {
+                    "id": 114184,
+                    "acmi_id": "2728",
+                    "title": "The Shadowers",
+                    "title_annotation": "",
+                    "slug": "the-shadowers",
+                    "creator_credit": "Monika Tichacek",
+                    "credit_line": "",
+                    "headline_credit": "Australia, 2004",
+                    "thumbnail": {
+                        "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/B1006117_TheShadowers_Still1.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=anyVOsbFbSat8JNnQg4wPE54CxQ%3D&Expires=1627009260",
+                        "has_video": false
+                    },
+                    "record_type": "work",
+                    "type": "Digital art",
+                    "is_on_display": false,
+                    "last_on_display_place": "ACMI Screen Gallery",
+                    "last_on_display_date": "2004-09-12",
+                    "is_context_indigenous": false,
+                    "material_description": "Multi channel moving image",
+                    "unpublished": false,
+                    "first_production_date": "2004-01-01T11:00:00+11:00"
+                }
+            ],
+            "source": {
+                "name": "Vernon",
+                "slug": "vernon"
+            },
+            "source_identifier": "2727",
+            "production_places": [
+                {
+                    "id": 3,
+                    "name": "Australia",
+                    "slug": "australia"
+                }
+            ],
+            "production_dates": [
+                {
+                    "date": "2004",
+                    "notes": "NewBalance Sequences is a commission for the ACMI and NGV collaborative exhibition 2004.",
+                    "to_year": "2004"
+                }
+            ],
+            "labels": [
+                53674
+            ]
+        },
+        {
+            "id": 114181,
+            "acmi_id": "2721",
+            "title": "Behind the mountain",
+            "title_annotation": "",
+            "slug": "behind-the-mountain",
+            "creator_credit": "Jonathan Jones",
+            "credit_line": "",
+            "headline_credit": "Australia, 2004",
+            "thumbnail": {
+                "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/Boxes2.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=13aVWDKgXuR3MHCrwYBtSQ8U3Ok%3D&Expires=1627009260",
+                "has_video": false
+            },
+            "record_type": "work",
+            "type": "Digital art",
+            "is_on_display": false,
+            "last_on_display_place": "ACMI Screen Gallery",
+            "last_on_display_date": "2004-09-12",
+            "is_context_indigenous": false,
+            "material_description": "video, projections and cardboard",
+            "unpublished": false,
+            "first_production_date": "2004-01-01T11:00:00+11:00",
+            "brief_description": "<p>This collaborative video installation presents floor projections in randomly scattered blank cardboard boxes, encased within the borders of each the image of a moving figure of a mixed Aboriginal demographic, confined and enclosed in the space through the image size. The viewer moves in amongst and interacts with these images, their shadow visible over the image as they lean to look into each box. The figures within, dancers filmed from the Bangarra Dance Company, contort and rotate in the limits of the space, pulling inwards and pushing outwards, visually and spatially engaging in the historical and contemporary forces which construct and confine the Aboriginal body. In interaction with these images the use of a surround sound composite creates an aural journey that evokes pulsing electrical currents in a storage space, interrupted sporadically by the sound of tearing packing tape and a strong bass sound from below each box which creates a sensorial engagement with the movement in the images within.</p>",
+            "constellations_primary": [],
+            "constellations_other": [],
+            "recommendations": [],
+            "title_for_label": "<p>Behind the mountain</p>",
+            "creator_credit_for_label": "<p>Jonathan Jones</p>",
+            "headline_credit_for_label": "<p>Australia, 2004</p>",
+            "description": "<p>This collaborative video installation presents floor projections in randomly scattered blank cardboard boxes, encased within the borders of each the image of a moving figure of a mixed Aboriginal demographic, confined and enclosed in the space through the image size. The viewer moves in amongst and interacts with these images, their shadow visible over the image as they lean to look into each box. The figures within, dancers filmed from the Bangarra Dance Company, contort and rotate in the limits of the space, pulling inwards and pushing outwards, visually and spatially engaging in the historical and contemporary forces which construct and confine the Aboriginal body. In interaction with these images the use of a surround sound composite creates an aural journey that evokes pulsing electrical currents in a storage space, interrupted sporadically by the sound of tearing packing tape and a strong bass sound from below each box which creates a sensorial engagement with the movement in the images within.</p>",
+            "description_for_label": [
+                "<p>This collaborative video installation presents floor projections in randomly scattered blank cardboard boxes, encased within the borders of each the image of a moving figure of a mixed Aboriginal demographic, confined and enclosed in the space through the image size. The viewer moves in amongst and interacts with these images, their shadow visible over the image as they lean to look into each box. The figures within, dancers filmed from the Bangarra Dance Company, contort and rotate in the limits of the space, pulling inwards and pushing outwards, visually and spatially engaging in the historical and contemporary forces which construct and confine the Aboriginal body. In interaction with these images the use of a surround sound composite creates an aural journey that evokes pulsing electrical currents in a storage space, interrupted sporadically by the sound of tearing packing tape and a strong bass sound from below each box which creates a sensorial engagement with the movement in the images within.</p>"
+            ],
+            "credit_line_for_label": "",
+            "details": [
+                {
+                    "label": "Language",
+                    "display_values": [
+                        "No spoken word"
+                    ]
+                },
+                {
+                    "label": "Audience classification",
+                    "display_values": [
+                        "G"
+                    ]
+                },
+                {
+                    "label": "Subject categories",
+                    "display_values": [
+                        "Aboriginal Australia&nbsp;→ Aboriginal Australians",
+                        "Digital Art",
+                        "History&nbsp;→ Australia - History",
+                        "Mixed media",
+                        "Performance"
+                    ]
+                },
+                {
+                    "label": "Materials",
+                    "display_values": [
+                        "video, projections and cardboard"
+                    ]
+                }
+            ],
+            "stats": {
+                "tap_count": 0
+            },
+            "links": [],
+            "creators_primary": [
+                {
+                    "id": 1134133,
+                    "name": "Jonathan Jones",
+                    "creator_id": 81908,
+                    "role": "creator",
+                    "role_id": 968,
+                    "is_primary": true
+                }
+            ],
+            "creators_other": [
+                {
+                    "id": 1134135,
+                    "name": "Warwick Thornton",
+                    "creator_id": 72838,
+                    "role": "camera operator",
+                    "role_id": 931,
+                    "is_primary": false
+                },
+                {
+                    "id": 1134134,
+                    "name": "David Page",
+                    "creator_id": 81909,
+                    "role": "composer",
+                    "role_id": 538,
+                    "is_primary": false
+                },
+                {
+                    "id": 1134132,
+                    "name": "Jonathan Jones",
+                    "creator_id": 81908,
+                    "role": "visual artist",
+                    "role_id": 493,
+                    "is_primary": false
+                },
+                {
+                    "id": 1134131,
+                    "name": "Darren Dale",
+                    "creator_id": 71501,
+                    "role": "film maker",
+                    "role_id": 459,
+                    "is_primary": false
+                }
+            ],
+            "video_links": [],
+            "media_note": null,
+            "images": [
+                {
+                    "id": 16429,
+                    "image_file": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/Boxes2.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=bfs%2FCpUT%2FtzcRiEg7G7%2F7fggffo%3D&Expires=1627009260",
+                    "image_file_thumbnail": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/Boxes2.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=13aVWDKgXuR3MHCrwYBtSQ8U3Ok%3D&Expires=1627009260",
+                    "image_file_xs": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/Boxes2.jpg.480x480_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=xwIGys%2BlY3VWn6FczjtATZC2uPE%3D&Expires=1627009260",
+                    "image_file_s": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/Boxes2.jpg.960x960_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=9TltIFfTLu7ToAfygV5piMvvk5o%3D&Expires=1627009260",
+                    "image_file_m": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/Boxes2.jpg.1920x1920_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=SLjCtKLgiPg8yNyKvsHHYEs8ZbE%3D&Expires=1627009260",
+                    "image_file_l": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/Boxes2.jpg.3840x3840_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=xwCyvdXYs58h9c8Loa7vfz8DIDA%3D&Expires=1627009260",
+                    "caption": "B1006109_BehindTheMountian_InstallationImage",
+                    "credit_line": "",
+                    "alt_text": "",
+                    "width": 798,
+                    "height": 1200,
+                    "access_level": "View anywhere"
+                }
+            ],
+            "videos": [],
+            "holdings": [],
+            "part_of": null,
+            "parts": [],
+            "part_siblings": [],
+            "group": {
+                "id": 114180,
+                "acmi_id": "148425",
+                "title": "2004: New Visual Culture",
+                "title_annotation": "",
+                "slug": "2004-new-visual-culture",
+                "creator_credit": "",
+                "credit_line": "",
+                "headline_credit": "2003-2004",
+                "thumbnail": {
+                    "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/Boxes2.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=13aVWDKgXuR3MHCrwYBtSQ8U3Ok%3D&Expires=1627009260",
+                    "has_video": false
+                },
+                "record_type": "group",
+                "type": "Film",
+                "is_on_display": false,
+                "last_on_display_place": null,
+                "last_on_display_date": null,
+                "is_context_indigenous": false,
+                "material_description": "",
+                "unpublished": true,
+                "first_production_date": null
+            },
+            "group_works": [],
+            "group_siblings": [
+                {
+                    "id": 114182,
+                    "acmi_id": "2727",
+                    "title": "Godspeed verticals",
+                    "title_annotation": "",
+                    "slug": "godspeed-verticals",
+                    "creator_credit": "Mark Larenzetto and Shaun Gladwell",
+                    "credit_line": "",
+                    "headline_credit": "Australia, 2004",
+                    "thumbnail": null,
+                    "record_type": "work",
+                    "type": "Digital art",
+                    "is_on_display": false,
+                    "last_on_display_place": "ACMI Screen Gallery",
+                    "last_on_display_date": "2004-09-12",
+                    "is_context_indigenous": false,
+                    "material_description": "Multi channel moving image",
+                    "unpublished": false,
+                    "first_production_date": "2004-01-01T11:00:00+11:00"
+                },
+                {
+                    "id": 114183,
+                    "acmi_id": "2719",
+                    "title": "Maniac de Luxe",
+                    "title_annotation": "",
+                    "slug": "maniac-de-luxe",
+                    "creator_credit": "David Rosetzky",
+                    "credit_line": "",
+                    "headline_credit": "Australia, 2004",
+                    "thumbnail": {
+                        "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/Viewers__Install_shot.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=OCbnRljEP3mejOR9mVniffx72pc%3D&Expires=1627009260",
+                        "has_video": false
+                    },
+                    "record_type": "work",
+                    "type": "Digital art",
+                    "is_on_display": false,
+                    "last_on_display_place": "ACMI Screen Gallery",
+                    "last_on_display_date": "2004-09-12",
+                    "is_context_indigenous": false,
+                    "material_description": "two-channel video, projection, colour and audio",
+                    "unpublished": false,
+                    "first_production_date": "2004-01-01T11:00:00+11:00"
+                },
+                {
+                    "id": 114179,
+                    "acmi_id": "2597",
+                    "title": "Slow Service",
+                    "title_annotation": "",
+                    "slug": "slow-service",
+                    "creator_credit": "Marcus Lyall",
+                    "credit_line": "",
+                    "headline_credit": "Australia, 2003",
+                    "thumbnail": {
+                        "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/B1005943_SlowService.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=x0pl84bR1HoFlJNOJO6DVLu7zCw%3D&Expires=1627009260",
+                        "has_video": false
+                    },
+                    "record_type": "work",
+                    "type": "Digital art",
+                    "is_on_display": false,
+                    "last_on_display_place": "ACMI Screen Gallery",
+                    "last_on_display_date": "2004-09-12",
+                    "is_context_indigenous": false,
+                    "material_description": "Single channel moving image, colour, silent",
+                    "unpublished": false,
+                    "first_production_date": "2003-01-01T11:00:00+11:00"
+                },
+                {
+                    "id": 114184,
+                    "acmi_id": "2728",
+                    "title": "The Shadowers",
+                    "title_annotation": "",
+                    "slug": "the-shadowers",
+                    "creator_credit": "Monika Tichacek",
+                    "credit_line": "",
+                    "headline_credit": "Australia, 2004",
+                    "thumbnail": {
+                        "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/B1006117_TheShadowers_Still1.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=anyVOsbFbSat8JNnQg4wPE54CxQ%3D&Expires=1627009260",
+                        "has_video": false
+                    },
+                    "record_type": "work",
+                    "type": "Digital art",
+                    "is_on_display": false,
+                    "last_on_display_place": "ACMI Screen Gallery",
+                    "last_on_display_date": "2004-09-12",
+                    "is_context_indigenous": false,
+                    "material_description": "Multi channel moving image",
+                    "unpublished": false,
+                    "first_production_date": "2004-01-01T11:00:00+11:00"
+                }
+            ],
+            "source": {
+                "name": "Vernon",
+                "slug": "vernon"
+            },
+            "source_identifier": "2721",
+            "production_places": [
+                {
+                    "id": 3,
+                    "name": "Australia",
+                    "slug": "australia"
+                }
+            ],
+            "production_dates": [
+                {
+                    "date": "2004",
+                    "notes": "'behind the mountains' is a commission for the ACMI and NGV exhibition 2004",
+                    "to_year": "2004"
+                }
+            ],
+            "labels": [
+                53673
+            ]
+        },
+        {
+            "id": 118211,
+            "acmi_id": "148351",
+            "title": "Videosphere 'Space Helmet' CRT Television Set",
+            "title_annotation": "",
+            "slug": "videosphere-space-helmet-crt-television-set",
+            "creator_credit": "JVC",
+            "credit_line": "<p>ACMI Collection</p>",
+            "headline_credit": "c. 1970",
+            "thumbnail": {
+                "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/GF000011_SpaceHelmetTV_34.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=1b7ccBJfw%2F9OQDLQCiMsDBUG5uQ%3D&Expires=1627009260",
+                "has_video": false
+            },
+            "record_type": "work",
+            "type": "Object",
+            "is_on_display": true,
+            "last_on_display_place": "ACMI Ground Floor",
+            "last_on_display_date": "2019-04-22",
+            "is_context_indigenous": false,
+            "material_description": "",
+            "unpublished": false,
+            "first_production_date": null,
+            "brief_description": "<p>Videosphere was a JVC CRT television that was shaped in the form of a space helmet. It was first introduced in 1970 and was sold up until the early-1980s. It was popular for its modern design; the alarm clock base was an option however most units have a plain base.</p>\n<p>Videospheres were produced in large quantities in white, red, black and orange in the seventies with a grey colored model also released in the 1980s. The design of the videosphere is said to have been inspired by the film 2001: A Space Odyssey,[1] though the videosphere&#8217;s shape in itself remains as one of the most iconic examples of the early 1970s design ethos.</p>\n<p>The sci-fi look of the TV saw a red model appear as a background prop in the 1999 film The Matrix, though they have appeared in sci-fi films since the early 70s. Soylent Green had a red model on screen as a prop.The 1972 film Conquest of the Planet of the Apes, a black videosphere was shown with a color capable tube and a slot that allowed a cassette tape capable of playing video. Humorously, the color image on the videosphere goes from being rectangular in one scene to round in another scene.</p>\n<p>JVC Videosphere / Made in Japan / (Yokohama) / Serial # 10600147<br />\n240 V / 50Hz / 12V / 11W (Australian AC power plug). Has plastic casing, control dials positioned at the back of object with an aerial and chain to hang unit.</p>",
+            "constellations_primary": [],
+            "constellations_other": [],
+            "recommendations": [],
+            "title_for_label": "<p>Videosphere &#8216;Space Helmet&#8217; CRT Television Set</p>",
+            "creator_credit_for_label": "<p>JVC</p>",
+            "headline_credit_for_label": "<p>c. 1970</p>",
+            "description": "<p>Videosphere was a JVC CRT television that was shaped in the form of a space helmet. It was first introduced in 1970 and was sold up until the early-1980s. It was popular for its modern design; the alarm clock base was an option however most units have a plain base.</p>\n<p>Videospheres were produced in large quantities in white, red, black and orange in the seventies with a grey colored model also released in the 1980s. The design of the videosphere is said to have been inspired by the film 2001: A Space Odyssey,[1] though the videosphere&#8217;s shape in itself remains as one of the most iconic examples of the early 1970s design ethos.</p>\n<p>The sci-fi look of the TV saw a red model appear as a background prop in the 1999 film The Matrix, though they have appeared in sci-fi films since the early 70s. Soylent Green had a red model on screen as a prop.The 1972 film Conquest of the Planet of the Apes, a black videosphere was shown with a color capable tube and a slot that allowed a cassette tape capable of playing video. Humorously, the color image on the videosphere goes from being rectangular in one scene to round in another scene.</p>\n<p>JVC Videosphere / Made in Japan / (Yokohama) / Serial # 10600147<br />\n240 V / 50Hz / 12V / 11W (Australian AC power plug). Has plastic casing, control dials positioned at the back of object with an aerial and chain to hang unit.</p>",
+            "description_for_label": [
+                "<p>Videosphere was a JVC CRT television that was shaped in the form of a space helmet. It was first introduced in 1970 and was sold up until the early-1980s. It was popular for its modern design; the alarm clock base was an option however most units have a plain base.</p>\n<p>Videospheres were produced in large quantities in white, red, black and orange in the seventies with a grey colored model also released in the 1980s. The design of the videosphere is said to have been inspired by the film 2001: A Space Odyssey,[1] though the videosphere&#8217;s shape in itself remains as one of the most iconic examples of the early 1970s design ethos.</p>\n<p>The sci-fi look of the TV saw a red model appear as a background prop in the 1999 film The Matrix, though they have appeared in sci-fi films since the early 70s. Soylent Green had a red model on screen as a prop.The 1972 film Conquest of the Planet of the Apes, a black videosphere was shown with a color capable tube and a slot that allowed a cassette tape capable of playing video. Humorously, the color image on the videosphere goes from being rectangular in one scene to round in another scene.</p>\n<p>JVC Videosphere / Made in Japan / (Yokohama) / Serial # 10600147<br />\n240 V / 50Hz / 12V / 11W (Australian AC power plug). Has plastic casing, control dials positioned at the back of object with an aerial and chain to hang unit.</p>"
+            ],
+            "credit_line_for_label": "<p>ACMI Collection</p>",
+            "details": [
+                {
+                    "label": "Subject category",
+                    "display_values": [
+                        "object&nbsp;→ 3D artefact"
+                    ]
+                },
+                {
+                    "label": "Curatorial section",
+                    "display_values": [
+                        "The Story of the Moving Image&nbsp;→  Foyer&nbsp;→ Entry &nbsp;→ 03. MPL exterior"
+                    ]
+                },
+                {
+                    "label": "Measurements",
+                    "display_values": [
+                        "35 x 30 x 30cm",
+                        "350 x 300 x 300mm"
+                    ]
+                }
+            ],
+            "stats": {
+                "tap_count": 0
+            },
+            "links": [],
+            "creators_primary": [
+                {
+                    "id": 1134130,
+                    "name": "JVC",
+                    "creator_id": 27545,
+                    "role": "creator",
+                    "role_id": 968,
+                    "is_primary": true
+                }
+            ],
+            "creators_other": [],
+            "video_links": [],
+            "media_note": null,
+            "images": [
+                {
+                    "id": 21002,
+                    "image_file": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/GF000011_SpaceHelmetTV_34.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=FsSlRRSGoi1f9mYz%2BC3NZcpEmHI%3D&Expires=1627009260",
+                    "image_file_thumbnail": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/GF000011_SpaceHelmetTV_34.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=1b7ccBJfw%2F9OQDLQCiMsDBUG5uQ%3D&Expires=1627009260",
+                    "image_file_xs": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/GF000011_SpaceHelmetTV_34.jpg.480x480_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=XvuTCCzc%2BwN3uBj5NmhJtLe0Uk4%3D&Expires=1627009260",
+                    "image_file_s": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/GF000011_SpaceHelmetTV_34.jpg.960x960_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=6%2FdPrfI5w0rc6DGihdnCjgKM48o%3D&Expires=1627009260",
+                    "image_file_m": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/GF000011_SpaceHelmetTV_34.jpg.1920x1920_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=cYELgVNmmpYK5VI7Os5QiS12zLY%3D&Expires=1627009260",
+                    "image_file_l": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/GF000011_SpaceHelmetTV_34.jpg.3840x3840_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=9dWDZBJu%2FEEcjKuZiumNRZOqxL0%3D&Expires=1627009260",
+                    "caption": "GF000011_SpaceHelmetTV_34",
+                    "credit_line": "Photograph by Egmont Contreras",
+                    "alt_text": "",
+                    "width": 4800,
+                    "height": 3200,
+                    "access_level": "View anywhere"
+                }
+            ],
+            "videos": [],
+            "holdings": [],
+            "part_of": null,
+            "parts": [],
+            "part_siblings": [],
+            "group": {
+                "id": 114466,
+                "acmi_id": "183622",
+                "title": "Portable TVs (Retro Vision)",
+                "title_annotation": "",
+                "slug": "mpl-display-group-tv-cabinet",
+                "creator_credit": "",
+                "credit_line": "",
+                "headline_credit": "",
+                "thumbnail": {
+                    "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/E000329_NationalRangerTV_34.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=bfczJ5toruBKEstHPLPbs8oACYo%3D&Expires=1627009260",
+                    "has_video": false
+                },
+                "record_type": "group",
+                "type": "Film",
+                "is_on_display": true,
+                "last_on_display_place": "ACMI: Gallery 1",
+                "last_on_display_date": "2031-02-16",
+                "is_context_indigenous": false,
+                "material_description": "",
+                "unpublished": false,
+                "first_production_date": null
+            },
+            "group_works": [],
+            "group_siblings": [
+                {
+                    "id": 100278,
+                    "acmi_id": "181197",
+                    "title": "National Ranger 505 Transistor TV",
+                    "title_annotation": "",
+                    "slug": "national-ranger-505-transistor-tv",
+                    "creator_credit": "National Panasonic and Matsushita Electrical Co. Ltd.",
+                    "credit_line": "<p>ACMI Collection. Courtesy Andrew Evans.</p>",
+                    "headline_credit": "Japan, c. 1974",
+                    "thumbnail": {
+                        "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/E000329_NationalRangerTV_34.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=bfczJ5toruBKEstHPLPbs8oACYo%3D&Expires=1627009260",
+                        "has_video": false
+                    },
+                    "record_type": "work",
+                    "type": "Object",
+                    "is_on_display": true,
+                    "last_on_display_place": "ACMI: Gallery 1",
+                    "last_on_display_date": "2031-02-16",
+                    "is_context_indigenous": false,
+                    "material_description": "",
+                    "unpublished": false,
+                    "first_production_date": null
+                },
+                {
+                    "id": 100280,
+                    "acmi_id": "176518",
+                    "title": "Pop-Up Television Radio Model TR-475U",
+                    "title_annotation": "",
+                    "slug": "pop-up-television-radio-model-tr-475u",
+                    "creator_credit": "National Panasonic",
+                    "credit_line": "<p>ACMI Collection. Courtesy Vincent McMurray.</p>",
+                    "headline_credit": "",
+                    "thumbnail": {
+                        "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/E000323_NationalPanasonicPopUpTV_34.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=3TEpVMtRCwRO2xSn%2B5c1Z2Mu3fQ%3D&Expires=1627009260",
+                        "has_video": false
+                    },
+                    "record_type": "work",
+                    "type": "Object",
+                    "is_on_display": true,
+                    "last_on_display_place": "ACMI: Gallery 1",
+                    "last_on_display_date": "2031-02-16",
+                    "is_context_indigenous": false,
+                    "material_description": "plastic body with silver metal handle, trim and antenna.",
+                    "unpublished": false,
+                    "first_production_date": null
+                }
+            ],
+            "source": {
+                "name": "Vernon",
+                "slug": "vernon"
+            },
+            "source_identifier": "148351",
+            "production_places": [],
+            "production_dates": [
+                {
+                    "date": "c. 1970",
+                    "notes": "",
+                    "to_year": "c. 1970"
+                }
+            ],
+            "labels": [
+                57715
+            ]
+        },
+        {
+            "id": 114351,
+            "acmi_id": "148331",
+            "title": "Skippy Bessemer plate",
+            "title_annotation": "",
+            "slug": "skippy-bessemer-plate",
+            "creator_credit": "Bessemer Cookware",
+            "credit_line": "",
+            "headline_credit": "Australia",
+            "thumbnail": null,
+            "record_type": "work",
+            "type": "Object",
+            "is_on_display": true,
+            "last_on_display_place": "ACMI Ground Floor",
+            "last_on_display_date": "2019-04-22",
+            "is_context_indigenous": false,
+            "material_description": "Colour printed bessemer plate",
+            "unpublished": false,
+            "first_production_date": null,
+            "brief_description": "<p>Bessemer plate featuring illustration of Sonny hugging Skippy from the TV series Skippy the Bush Kangaroo. Orange Skippy logo appears above the image</p>",
+            "constellations_primary": [],
+            "constellations_other": [],
+            "recommendations": [],
+            "title_for_label": "<p>Skippy Bessemer plate</p>",
+            "creator_credit_for_label": "<p>Bessemer Cookware</p>",
+            "headline_credit_for_label": "<p>Australia</p>",
+            "description": "<p>Bessemer plate featuring illustration of Sonny hugging Skippy from the TV series Skippy the Bush Kangaroo. Orange Skippy logo appears above the image</p>",
+            "description_for_label": [
+                "<p>Bessemer plate featuring illustration of Sonny hugging Skippy from the TV series Skippy the Bush Kangaroo. Orange Skippy logo appears above the image</p>"
+            ],
+            "credit_line_for_label": "",
+            "details": [
+                {
+                    "label": "Subject category",
+                    "display_values": [
+                        "object&nbsp;→ 3D artefact"
+                    ]
+                },
+                {
+                    "label": "Measurements",
+                    "display_values": [
+                        "19.8 x 19.8 x 1.7cm"
+                    ]
+                },
+                {
+                    "label": "Materials",
+                    "display_values": [
+                        "Colour printed bessemer plate"
+                    ]
+                }
+            ],
+            "stats": {
+                "tap_count": 0
+            },
+            "links": [],
+            "creators_primary": [
+                {
+                    "id": 1134129,
+                    "name": "Bessemer Cookware",
+                    "creator_id": 81946,
+                    "role": "manufacturer",
+                    "role_id": 627,
+                    "is_primary": true
+                }
+            ],
+            "creators_other": [],
+            "video_links": [],
+            "media_note": "Sorry, we don't have images or video for this item.",
+            "images": [],
+            "videos": [],
+            "holdings": [],
+            "part_of": null,
+            "parts": [],
+            "part_siblings": [],
+            "group": null,
+            "group_works": [],
+            "group_siblings": [],
+            "source": {
+                "name": "Vernon",
+                "slug": "vernon"
+            },
+            "source_identifier": "148331",
+            "production_places": [
+                {
+                    "id": 3,
+                    "name": "Australia",
+                    "slug": "australia"
+                }
+            ],
+            "production_dates": [],
+            "labels": [
+                53843
+            ]
+        },
+        {
+            "id": 114596,
+            "acmi_id": "57731",
+            "title": "History of Australian Cinema Series",
+            "title_annotation": "",
+            "slug": "history-of-australian-cinema-series",
+            "creator_credit": "",
+            "credit_line": "",
+            "headline_credit": "Australia",
+            "thumbnail": null,
+            "record_type": "group",
+            "type": "Film",
+            "is_on_display": false,
+            "last_on_display_place": null,
+            "last_on_display_date": null,
+            "is_context_indigenous": false,
+            "material_description": "",
+            "unpublished": false,
+            "first_production_date": null,
+            "brief_description": "",
+            "constellations_primary": [],
+            "constellations_other": [],
+            "recommendations": [],
+            "title_for_label": "<p>History of Australian Cinema Series</p>",
+            "creator_credit_for_label": "",
+            "headline_credit_for_label": "<p>Australia</p>",
+            "description": "",
+            "description_for_label": [],
+            "credit_line_for_label": "",
+            "details": [
+                {
+                    "label": "Language",
+                    "display_values": [
+                        "English"
+                    ]
+                },
+                {
+                    "label": "Subject categories",
+                    "display_values": [
+                        "Advertising, Film, Journalism, Mass Media & TV&nbsp;→ Motion pictures - Australia - History",
+                        "Documentary",
+                        "Documentary&nbsp;→ Documentary films - Australia"
+                    ]
+                },
+                {
+                    "label": "Sound/audio",
+                    "display_values": [
+                        "Sound"
+                    ]
+                },
+                {
+                    "label": "Colour",
+                    "display_values": [
+                        "Colour"
+                    ]
+                }
+            ],
+            "stats": {
+                "tap_count": 0
+            },
+            "links": [],
+            "creators_primary": [],
+            "creators_other": [
+                {
+                    "id": 1134128,
+                    "name": "Film Australia",
+                    "creator_id": 68514,
+                    "role": "distributor",
+                    "role_id": 437,
+                    "is_primary": false
+                }
+            ],
+            "video_links": [],
+            "media_note": "Sorry, we don't have images or video for this item.",
+            "images": [],
+            "videos": [],
+            "holdings": [],
+            "part_of": null,
+            "parts": [],
+            "part_siblings": [],
+            "group": null,
+            "group_works": [
+                {
+                    "id": 75133,
+                    "acmi_id": "30871",
+                    "title": "Now you're talking",
+                    "title_annotation": "",
+                    "slug": "now-youre-talking",
+                    "creator_credit": "Keith Gow, Anthony Buckley and Film Australia",
+                    "credit_line": "",
+                    "headline_credit": "Australia, 1979",
+                    "thumbnail": null,
+                    "record_type": "work",
+                    "type": "Film",
+                    "is_on_display": false,
+                    "last_on_display_place": null,
+                    "last_on_display_date": null,
+                    "is_context_indigenous": false,
+                    "material_description": "",
+                    "unpublished": false,
+                    "first_production_date": "1979-01-01T11:00:00+11:00"
+                },
+                {
+                    "id": 75260,
+                    "acmi_id": "30999",
+                    "title": "The Passionate industry: 1920-1930",
+                    "title_annotation": "",
+                    "slug": "the-passionate-industry-1920-1930",
+                    "creator_credit": "Joan Long, Frank Bagnall and Film Australia",
+                    "credit_line": "",
+                    "headline_credit": "Australia, 1973",
+                    "thumbnail": null,
+                    "record_type": "work",
+                    "type": "Film",
+                    "is_on_display": false,
+                    "last_on_display_place": null,
+                    "last_on_display_date": null,
+                    "is_context_indigenous": false,
+                    "material_description": "",
+                    "unpublished": false,
+                    "first_production_date": "1973-01-01T11:00:00+11:00"
+                },
+                {
+                    "id": 71562,
+                    "acmi_id": "27246",
+                    "title": "The Pictures that moved: Australian cinema 1896-1920",
+                    "title_annotation": "",
+                    "slug": "the-pictures-that-moved-australian-cinema-1896-1920",
+                    "creator_credit": "Alan Anderson, Frank Bagnall and Australian Commonwealth Film Unit",
+                    "credit_line": "",
+                    "headline_credit": "Australia, 1968",
+                    "thumbnail": null,
+                    "record_type": "work",
+                    "type": "Film",
+                    "is_on_display": false,
+                    "last_on_display_place": null,
+                    "last_on_display_date": null,
+                    "is_context_indigenous": false,
+                    "material_description": "",
+                    "unpublished": false,
+                    "first_production_date": "1968-01-01T10:00:00+10:00"
+                }
+            ],
+            "group_siblings": [],
+            "source": {
+                "name": "Vernon",
+                "slug": "vernon"
+            },
+            "source_identifier": "57731",
+            "production_places": [
+                {
+                    "id": 3,
+                    "name": "Australia",
+                    "slug": "australia"
+                }
+            ],
+            "production_dates": [],
+            "labels": [
+                54090
+            ]
+        },
+        {
+            "id": 75260,
+            "acmi_id": "30999",
+            "title": "The Passionate industry: 1920-1930",
+            "title_annotation": "",
+            "slug": "the-passionate-industry-1920-1930",
+            "creator_credit": "Joan Long, Frank Bagnall and Film Australia",
+            "credit_line": "",
+            "headline_credit": "Australia, 1973",
+            "thumbnail": null,
+            "record_type": "work",
+            "type": "Film",
+            "is_on_display": false,
+            "last_on_display_place": null,
+            "last_on_display_date": null,
+            "is_context_indigenous": false,
+            "material_description": "",
+            "unpublished": false,
+            "first_production_date": "1973-01-01T11:00:00+11:00",
+            "brief_description": "<p>Episode number 2 of Series &#8220;History of Australian Cinema Series&#8221;.<br />\nTraces the history of the Australian film industry in the decade 1920-1930. Includes material from fifty newsreels, sixteen feature films and still photographs drawn from our seventy collections. The program looks at the 1927 Royal Commission of Enquiry and Film Bill of 1927, as well as footage of the Regent, capitol and Old State Theatre of Melbourne.</p>",
+            "constellations_primary": [],
+            "constellations_other": [],
+            "recommendations": [],
+            "title_for_label": "<p>The Passionate industry: 1920-1930</p>",
+            "creator_credit_for_label": "<p>Joan Long, Frank Bagnall and Film Australia</p>",
+            "headline_credit_for_label": "<p>Australia, 1973</p>",
+            "description": "<p>Episode number 2 of Series &#8220;History of Australian Cinema Series&#8221;.<br />\nTraces the history of the Australian film industry in the decade 1920-1930. Includes material from fifty newsreels, sixteen feature films and still photographs drawn from our seventy collections. The program looks at the 1927 Royal Commission of Enquiry and Film Bill of 1927, as well as footage of the Regent, capitol and Old State Theatre of Melbourne.</p>",
+            "description_for_label": [
+                "<p>Episode number 2 of Series &#8220;History of Australian Cinema Series&#8221;.<br />\nTraces the history of the Australian film industry in the decade 1920-1930. Includes material from fifty newsreels, sixteen feature films and still photographs drawn from our seventy collections. The program looks at the 1927 Royal Commission of Enquiry and Film Bill of 1927, as well as footage of the Regent, capitol and Old State Theatre of Melbourne.</p>"
+            ],
+            "credit_line_for_label": "",
+            "details": [
+                {
+                    "label": "Duration",
+                    "display_values": [
+                        "01:00:00:00"
+                    ]
+                },
+                {
+                    "label": "Language",
+                    "display_values": [
+                        "English"
+                    ]
+                },
+                {
+                    "label": "Subject categories",
+                    "display_values": [
+                        "Advertising, Film, Journalism, Mass Media & TV&nbsp;→ Motion picture industry - Australia",
+                        "Advertising, Film, Journalism, Mass Media & TV&nbsp;→ Motion pictures - Australia - History",
+                        "Documentary",
+                        "Documentary&nbsp;→ Documentary films - Australia",
+                        "Feature films",
+                        "Feature films&nbsp;→ Feature films - Australia",
+                        "History&nbsp;→ History"
+                    ]
+                },
+                {
+                    "label": "Sound/audio",
+                    "display_values": [
+                        "Sound"
+                    ]
+                },
+                {
+                    "label": "Colour",
+                    "display_values": [
+                        "Black and White"
+                    ]
+                }
+            ],
+            "stats": {
+                "tap_count": 0
+            },
+            "links": [],
+            "creators_primary": [
+                {
+                    "id": 1134127,
+                    "name": "Joan Long",
+                    "creator_id": 10025,
+                    "role": "director",
+                    "role_id": 938,
+                    "is_primary": true
+                },
+                {
+                    "id": 1134126,
+                    "name": "Frank Bagnall",
+                    "creator_id": 11968,
+                    "role": "producer",
+                    "role_id": 960,
+                    "is_primary": true
+                },
+                {
+                    "id": 1134125,
+                    "name": "Film Australia",
+                    "creator_id": 68514,
+                    "role": "production company",
+                    "role_id": 941,
+                    "is_primary": true
+                }
+            ],
+            "creators_other": [
+                {
+                    "id": 1134124,
+                    "name": "Film Australia",
+                    "creator_id": 68514,
+                    "role": "distributor",
+                    "role_id": 437,
+                    "is_primary": false
+                }
+            ],
+            "video_links": [],
+            "media_note": "Sorry, we don't have images or video for this item.",
+            "images": [],
+            "videos": [],
+            "holdings": [
+                {
+                    "name": "16mm film; Preservation Print (Section 5)",
+                    "identifier": "",
+                    "description": ""
+                },
+                {
+                    "name": "16mm film; Limited Access Print (Section 2)",
+                    "identifier": "",
+                    "description": ""
+                },
+                {
+                    "name": "16mm film; Access Print (Section 1)",
+                    "identifier": "",
+                    "description": ""
+                }
+            ],
+            "part_of": null,
+            "parts": [],
+            "part_siblings": [],
+            "group": {
+                "id": 114596,
+                "acmi_id": "57731",
+                "title": "History of Australian Cinema Series",
+                "title_annotation": "",
+                "slug": "history-of-australian-cinema-series",
+                "creator_credit": "",
+                "credit_line": "",
+                "headline_credit": "Australia",
+                "thumbnail": null,
+                "record_type": "group",
+                "type": "Film",
+                "is_on_display": false,
+                "last_on_display_place": null,
+                "last_on_display_date": null,
+                "is_context_indigenous": false,
+                "material_description": "",
+                "unpublished": false,
+                "first_production_date": null
+            },
+            "group_works": [],
+            "group_siblings": [
+                {
+                    "id": 75133,
+                    "acmi_id": "30871",
+                    "title": "Now you're talking",
+                    "title_annotation": "",
+                    "slug": "now-youre-talking",
+                    "creator_credit": "Keith Gow, Anthony Buckley and Film Australia",
+                    "credit_line": "",
+                    "headline_credit": "Australia, 1979",
+                    "thumbnail": null,
+                    "record_type": "work",
+                    "type": "Film",
+                    "is_on_display": false,
+                    "last_on_display_place": null,
+                    "last_on_display_date": null,
+                    "is_context_indigenous": false,
+                    "material_description": "",
+                    "unpublished": false,
+                    "first_production_date": "1979-01-01T11:00:00+11:00"
+                },
+                {
+                    "id": 71562,
+                    "acmi_id": "27246",
+                    "title": "The Pictures that moved: Australian cinema 1896-1920",
+                    "title_annotation": "",
+                    "slug": "the-pictures-that-moved-australian-cinema-1896-1920",
+                    "creator_credit": "Alan Anderson, Frank Bagnall and Australian Commonwealth Film Unit",
+                    "credit_line": "",
+                    "headline_credit": "Australia, 1968",
+                    "thumbnail": null,
+                    "record_type": "work",
+                    "type": "Film",
+                    "is_on_display": false,
+                    "last_on_display_place": null,
+                    "last_on_display_date": null,
+                    "is_context_indigenous": false,
+                    "material_description": "",
+                    "unpublished": false,
+                    "first_production_date": "1968-01-01T10:00:00+10:00"
+                }
+            ],
+            "source": {
+                "name": "Vernon",
+                "slug": "vernon"
+            },
+            "source_identifier": "30999",
+            "production_places": [
+                {
+                    "id": 3,
+                    "name": "Australia",
+                    "slug": "australia"
+                }
+            ],
+            "production_dates": [
+                {
+                    "date": "1973",
+                    "notes": "Produced",
+                    "to_year": "1973"
+                }
+            ],
+            "labels": [
+                14750
+            ]
+        },
+        {
+            "id": 71562,
+            "acmi_id": "27246",
+            "title": "The Pictures that moved: Australian cinema 1896-1920",
+            "title_annotation": "",
+            "slug": "the-pictures-that-moved-australian-cinema-1896-1920",
+            "creator_credit": "Alan Anderson, Frank Bagnall and Australian Commonwealth Film Unit",
+            "credit_line": "",
+            "headline_credit": "Australia, 1968",
+            "thumbnail": null,
+            "record_type": "work",
+            "type": "Film",
+            "is_on_display": false,
+            "last_on_display_place": null,
+            "last_on_display_date": null,
+            "is_context_indigenous": false,
+            "material_description": "",
+            "unpublished": false,
+            "first_production_date": "1968-01-01T10:00:00+10:00",
+            "brief_description": "<p>Episode number 1 of Series &#8220;History of Australian Cinema Series&#8221;.<br />\nShow the intense activity in the Australian film industry from the first screening at the Melbourne Opera House in 1896 to the decline of the industry in the early 1920&#8217;s. Extracts from productions of particular interest are shown, including &#8220;Soldiers of the cross&#8221;, &#8220;Living Hawthorn&#8221;, &#8220;The Story of the Kelly gang&#8221;, &#8220;A Girl of the bush&#8221;, &#8220;On our selection&#8221; and &#8220;The Sentimental bloke&#8221;, with stills, contemporary press reports and interviews. Shows the technical advances gained, and the exhibition of the national character in a wide range of films. Shows the running of the first filmed Melbourne Cup in 1896 and a finals game of VFL at the Melbourne Cricket Ground between South Melbourne and Carlton.</p>",
+            "constellations_primary": [],
+            "constellations_other": [],
+            "recommendations": [],
+            "title_for_label": "<p>The Pictures that moved: Australian cinema 1896-1920</p>",
+            "creator_credit_for_label": "<p>Alan Anderson, Frank Bagnall and Australian Commonwealth Film Unit</p>",
+            "headline_credit_for_label": "<p>Australia, 1968</p>",
+            "description": "<p>Episode number 1 of Series &#8220;History of Australian Cinema Series&#8221;.<br />\nShow the intense activity in the Australian film industry from the first screening at the Melbourne Opera House in 1896 to the decline of the industry in the early 1920&#8217;s. Extracts from productions of particular interest are shown, including &#8220;Soldiers of the cross&#8221;, &#8220;Living Hawthorn&#8221;, &#8220;The Story of the Kelly gang&#8221;, &#8220;A Girl of the bush&#8221;, &#8220;On our selection&#8221; and &#8220;The Sentimental bloke&#8221;, with stills, contemporary press reports and interviews. Shows the technical advances gained, and the exhibition of the national character in a wide range of films. Shows the running of the first filmed Melbourne Cup in 1896 and a finals game of VFL at the Melbourne Cricket Ground between South Melbourne and Carlton.</p>",
+            "description_for_label": [
+                "<p>Episode number 1 of Series &#8220;History of Australian Cinema Series&#8221;.<br />\nShow the intense activity in the Australian film industry from the first screening at the Melbourne Opera House in 1896 to the decline of the industry in the early 1920&#8217;s. Extracts from productions of particular interest are shown, including &#8220;Soldiers of the cross&#8221;, &#8220;Living Hawthorn&#8221;, &#8220;The Story of the Kelly gang&#8221;, &#8220;A Girl of the bush&#8221;, &#8220;On our selection&#8221; and &#8220;The Sentimental bloke&#8221;, with stills, contemporary press reports and interviews. Shows the technical advances gained, and the exhibition of the national character in a wide range of films. Shows the running of the first filmed Melbourne Cup in 1896 and a finals game of VFL at the Melbourne Cricket Ground between South Melbourne and Carlton.</p>"
+            ],
+            "credit_line_for_label": "",
+            "details": [
+                {
+                    "label": "Duration",
+                    "display_values": [
+                        "00:46:00:00"
+                    ]
+                },
+                {
+                    "label": "Language",
+                    "display_values": [
+                        "English"
+                    ]
+                },
+                {
+                    "label": "Subject categories",
+                    "display_values": [
+                        "Advertising, Film, Journalism, Mass Media & TV&nbsp;→ Motion picture industry - Australia",
+                        "Advertising, Film, Journalism, Mass Media & TV&nbsp;→ Motion pictures - Australia - History",
+                        "Advertising, Film, Journalism, Mass Media & TV&nbsp;→ Motion pictures - Excerpts",
+                        "Advertising, Film, Journalism, Mass Media & TV&nbsp;→ Motion pictures - Production and direction - Australia",
+                        "Documentary",
+                        "Documentary&nbsp;→ Documentary films - Australia",
+                        "History&nbsp;→ History",
+                        "Short films",
+                        "Short films&nbsp;→ Short films - Australia"
+                    ]
+                },
+                {
+                    "label": "Sound/audio",
+                    "display_values": [
+                        "Sound"
+                    ]
+                },
+                {
+                    "label": "Colour",
+                    "display_values": [
+                        "Black and White"
+                    ]
+                }
+            ],
+            "stats": {
+                "tap_count": 0
+            },
+            "links": [],
+            "creators_primary": [
+                {
+                    "id": 1134123,
+                    "name": "Alan Anderson",
+                    "creator_id": 13075,
+                    "role": "director",
+                    "role_id": 938,
+                    "is_primary": true
+                },
+                {
+                    "id": 1134122,
+                    "name": "Frank Bagnall",
+                    "creator_id": 11968,
+                    "role": "producer",
+                    "role_id": 960,
+                    "is_primary": true
+                },
+                {
+                    "id": 1134121,
+                    "name": "Australian Commonwealth Film Unit",
+                    "creator_id": 11967,
+                    "role": "production company",
+                    "role_id": 941,
+                    "is_primary": true
+                }
+            ],
+            "creators_other": [
+                {
+                    "id": 1134120,
+                    "name": "Film Australia",
+                    "creator_id": 68514,
+                    "role": "distributor",
+                    "role_id": 437,
+                    "is_primary": false
+                }
+            ],
+            "video_links": [],
+            "media_note": "Sorry, we don't have images or video for this item.",
+            "images": [],
+            "videos": [],
+            "holdings": [
+                {
+                    "name": "16mm film; Preservation Print (Section 5)",
+                    "identifier": "",
+                    "description": ""
+                },
+                {
+                    "name": "16mm film; Access Print (Section 1)",
+                    "identifier": "",
+                    "description": ""
+                },
+                {
+                    "name": "16mm film; Limited Access Print (Section 2)",
+                    "identifier": "",
+                    "description": ""
+                }
+            ],
+            "part_of": null,
+            "parts": [],
+            "part_siblings": [],
+            "group": {
+                "id": 114596,
+                "acmi_id": "57731",
+                "title": "History of Australian Cinema Series",
+                "title_annotation": "",
+                "slug": "history-of-australian-cinema-series",
+                "creator_credit": "",
+                "credit_line": "",
+                "headline_credit": "Australia",
+                "thumbnail": null,
+                "record_type": "group",
+                "type": "Film",
+                "is_on_display": false,
+                "last_on_display_place": null,
+                "last_on_display_date": null,
+                "is_context_indigenous": false,
+                "material_description": "",
+                "unpublished": false,
+                "first_production_date": null
+            },
+            "group_works": [],
+            "group_siblings": [
+                {
+                    "id": 75133,
+                    "acmi_id": "30871",
+                    "title": "Now you're talking",
+                    "title_annotation": "",
+                    "slug": "now-youre-talking",
+                    "creator_credit": "Keith Gow, Anthony Buckley and Film Australia",
+                    "credit_line": "",
+                    "headline_credit": "Australia, 1979",
+                    "thumbnail": null,
+                    "record_type": "work",
+                    "type": "Film",
+                    "is_on_display": false,
+                    "last_on_display_place": null,
+                    "last_on_display_date": null,
+                    "is_context_indigenous": false,
+                    "material_description": "",
+                    "unpublished": false,
+                    "first_production_date": "1979-01-01T11:00:00+11:00"
+                },
+                {
+                    "id": 75260,
+                    "acmi_id": "30999",
+                    "title": "The Passionate industry: 1920-1930",
+                    "title_annotation": "",
+                    "slug": "the-passionate-industry-1920-1930",
+                    "creator_credit": "Joan Long, Frank Bagnall and Film Australia",
+                    "credit_line": "",
+                    "headline_credit": "Australia, 1973",
+                    "thumbnail": null,
+                    "record_type": "work",
+                    "type": "Film",
+                    "is_on_display": false,
+                    "last_on_display_place": null,
+                    "last_on_display_date": null,
+                    "is_context_indigenous": false,
+                    "material_description": "",
+                    "unpublished": false,
+                    "first_production_date": "1973-01-01T11:00:00+11:00"
+                }
+            ],
+            "source": {
+                "name": "Vernon",
+                "slug": "vernon"
+            },
+            "source_identifier": "27246",
+            "production_places": [
+                {
+                    "id": 3,
+                    "name": "Australia",
+                    "slug": "australia"
+                }
+            ],
+            "production_dates": [
+                {
+                    "date": "1968",
+                    "notes": "Produced",
+                    "to_year": "1968"
+                }
+            ],
+            "labels": [
+                11052
+            ]
+        }
+    ]
+}

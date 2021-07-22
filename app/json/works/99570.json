@@ -1,0 +1,231 @@
+{
+    "id": 99570,
+    "acmi_id": "179567",
+    "title": "Electronic 3D glasses for domes",
+    "title_annotation": "",
+    "slug": "imax-fujitsu-electronic-3d-glasses-for-domes-liquid-crystal-shutters",
+    "creator_credit": "IMAX and Fujitsu",
+    "credit_line": "<p>Courtesy IMAX</p>",
+    "headline_credit": "Canada",
+    "thumbnail": {
+        "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/P179567_Imax3DGlasses_34.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=ScosXLE%2FROifUlVfTwPdqIM4EMw%3D&Expires=1627009168",
+        "has_video": false
+    },
+    "record_type": "work",
+    "type": "Object",
+    "is_on_display": true,
+    "last_on_display_place": "ACMI: Gallery 1",
+    "last_on_display_date": "2031-02-16",
+    "is_context_indigenous": false,
+    "material_description": "",
+    "unpublished": false,
+    "first_production_date": null,
+    "brief_description": "<p>IMAX Fujitsu electronic 3D glasses for Domes liquid crystal shutters</p>",
+    "constellations_primary": [],
+    "constellations_other": [],
+    "recommendations": [],
+    "title_for_label": "<p>Electronic 3D glasses for domes</p>",
+    "creator_credit_for_label": "<p>IMAX and Fujitsu</p>",
+    "headline_credit_for_label": "<p>Canada</p>",
+    "description": "<p>IMAX Fujitsu electronic 3D glasses for Domes liquid crystal shutters</p>",
+    "description_for_label": [
+        "<p>IMAX Fujitsu electronic 3D glasses for Domes liquid crystal shutters</p>"
+    ],
+    "credit_line_for_label": "<p>Courtesy IMAX</p>",
+    "details": [
+        {
+            "label": "Curatorial section",
+            "display_values": [
+                "The Story of the Moving Image&nbsp;→ Moving Pictures&nbsp;→ 08. Immersive Innovations&nbsp;→ MI-08-C01"
+            ]
+        },
+        {
+            "label": "Measurements",
+            "display_values": [
+                "120 x 195 x 220mm"
+            ]
+        }
+    ],
+    "stats": {
+        "tap_count": 0
+    },
+    "links": [],
+    "creators_primary": [
+        {
+            "id": 1134426,
+            "name": "IMAX",
+            "creator_id": 72016,
+            "role": "creator",
+            "role_id": 968,
+            "is_primary": true
+        },
+        {
+            "id": 1134425,
+            "name": "Fujitsu",
+            "creator_id": 72015,
+            "role": "manufacturer",
+            "role_id": 627,
+            "is_primary": true
+        }
+    ],
+    "creators_other": [],
+    "video_links": [],
+    "media_note": null,
+    "images": [
+        {
+            "id": 12171,
+            "image_file": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/P179567_Imax3DGlasses_34.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=%2FTGQ3q0TUyxrdU%2B0z%2FKwpBZi00o%3D&Expires=1627009168",
+            "image_file_thumbnail": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/P179567_Imax3DGlasses_34.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=ScosXLE%2FROifUlVfTwPdqIM4EMw%3D&Expires=1627009168",
+            "image_file_xs": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/P179567_Imax3DGlasses_34.jpg.480x480_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=INbUDMjpWnIpF5YD7OjZgTgoHnQ%3D&Expires=1627009168",
+            "image_file_s": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/P179567_Imax3DGlasses_34.jpg.960x960_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=2ZdMP7VBwzYnIxLMqnSax2SRouE%3D&Expires=1627009168",
+            "image_file_m": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/P179567_Imax3DGlasses_34.jpg.1920x1920_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=Na3m1SnMZT44Xatr6VLqwGVon7c%3D&Expires=1627009168",
+            "image_file_l": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/P179567_Imax3DGlasses_34.jpg.3840x3840_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=e44v9kU2r7ejWg7seYgM7rD6F4c%3D&Expires=1627009168",
+            "caption": "P179567_Imax3DGlasses_34",
+            "credit_line": "Photograph by Egmont Contreras, ACMI.",
+            "alt_text": "",
+            "width": 4800,
+            "height": 3200,
+            "access_level": "View anywhere"
+        },
+        {
+            "id": 12172,
+            "image_file": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/P179567_Imax3DGlasses_Front.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=BdJ3feacMDvVnFeQIuQI9jF1LVw%3D&Expires=1627009168",
+            "image_file_thumbnail": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/P179567_Imax3DGlasses_Front.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=vzUQaB1QmLyu1KuKbgvbsZDFS2Q%3D&Expires=1627009168",
+            "image_file_xs": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/P179567_Imax3DGlasses_Front.jpg.480x480_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=k1IBK9yzFEHcHrHB%2FDT4bPsTRpc%3D&Expires=1627009168",
+            "image_file_s": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/P179567_Imax3DGlasses_Front.jpg.960x960_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=HyafawLa69rRy4rBWLAdfu7m9M0%3D&Expires=1627009168",
+            "image_file_m": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/P179567_Imax3DGlasses_Front.jpg.1920x1920_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=eeQ4oh5A0rvVKMwz2RJUfKzDTJk%3D&Expires=1627009168",
+            "image_file_l": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/P179567_Imax3DGlasses_Front.jpg.3840x3840_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=FdyfrmhJfM2XWKTdVU%2BzXtLy%2B5c%3D&Expires=1627009168",
+            "caption": "P179567_Imax3DGlasses_Front",
+            "credit_line": "Photograph by Egmont Contreras, ACMI.",
+            "alt_text": "",
+            "width": 4593,
+            "height": 3062,
+            "access_level": "View anywhere"
+        },
+        {
+            "id": 12173,
+            "image_file": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/P179567_Imax3DGlasses_Side.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=Q4nFS4LUGto2AXmM3rFpu1xT%2FL4%3D&Expires=1627009168",
+            "image_file_thumbnail": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/P179567_Imax3DGlasses_Side.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=I0Nr1ytorul0wIuMyvtoxvHF%2BYY%3D&Expires=1627009168",
+            "image_file_xs": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/P179567_Imax3DGlasses_Side.jpg.480x480_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=ZMO7Ke3lE3cd%2FlxyyyNFK1ewauU%3D&Expires=1627009168",
+            "image_file_s": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/P179567_Imax3DGlasses_Side.jpg.960x960_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=P9jNZZjcrdH%2BNiQnEnDSWgM8DYg%3D&Expires=1627009168",
+            "image_file_m": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/P179567_Imax3DGlasses_Side.jpg.1920x1920_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=SYjAdCpfgpDjbH9qOCXH0Di18Kk%3D&Expires=1627009168",
+            "image_file_l": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/P179567_Imax3DGlasses_Side.jpg.3840x3840_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=qL8XVJTpO9oqZh9oovow7tj3AjU%3D&Expires=1627009168",
+            "caption": "P179567_Imax3DGlasses_Side",
+            "credit_line": "Photograph by Egmont Contreras, ACMI.",
+            "alt_text": "",
+            "width": 4800,
+            "height": 3200,
+            "access_level": "View anywhere"
+        }
+    ],
+    "videos": [],
+    "holdings": [],
+    "part_of": null,
+    "parts": [],
+    "part_siblings": [],
+    "group": {
+        "id": 100550,
+        "acmi_id": "181519",
+        "title": "IMAX",
+        "title_annotation": "",
+        "slug": "imax",
+        "creator_credit": "",
+        "credit_line": "",
+        "headline_credit": "",
+        "thumbnail": {
+            "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/P179567_Imax3DGlasses_34.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=ScosXLE%2FROifUlVfTwPdqIM4EMw%3D&Expires=1627009168",
+            "has_video": false
+        },
+        "record_type": "group",
+        "type": "Film",
+        "is_on_display": true,
+        "last_on_display_place": "ACMI: Gallery 1",
+        "last_on_display_date": "2031-02-16",
+        "is_context_indigenous": false,
+        "material_description": "",
+        "unpublished": false,
+        "first_production_date": null
+    },
+    "group_works": [],
+    "group_siblings": [
+        {
+            "id": 99873,
+            "acmi_id": "180384",
+            "title": "IMAX film comparison",
+            "title_annotation": "Facsimile",
+            "slug": "graphic-imax",
+            "creator_credit": "",
+            "credit_line": "",
+            "headline_credit": "",
+            "thumbnail": null,
+            "record_type": "work",
+            "type": "Object",
+            "is_on_display": true,
+            "last_on_display_place": "ACMI: Gallery 1",
+            "last_on_display_date": "2031-02-16",
+            "is_context_indigenous": false,
+            "material_description": "Graphic",
+            "unpublished": false,
+            "first_production_date": null
+        },
+        {
+            "id": 99875,
+            "acmi_id": "180386",
+            "title": "Loading Film At The Feinstein IMAX Theatre",
+            "title_annotation": "Facsimile",
+            "slug": "graphic-loading-film-at-the-feinstein-imax-theatre",
+            "creator_credit": "Dominic Chavez",
+            "credit_line": "<p>Courtesy Boston Globe / Getty Images</p>",
+            "headline_credit": "United States, 2001",
+            "thumbnail": {
+                "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/P180386_G096.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=OrD3EAGL44mBf17RQCYG4Dp0ZAs%3D&Expires=1627009168",
+                "has_video": false
+            },
+            "record_type": "work",
+            "type": "Object",
+            "is_on_display": true,
+            "last_on_display_place": "ACMI: Gallery 1",
+            "last_on_display_date": "2031-02-16",
+            "is_context_indigenous": false,
+            "material_description": "Graphic",
+            "unpublished": false,
+            "first_production_date": "2001-01-01T11:00:00+11:00"
+        },
+        {
+            "id": 99874,
+            "acmi_id": "180385",
+            "title": "Typical 3D IMAX theatre",
+            "title_annotation": "Facsimile",
+            "slug": "graphic-typical-3d-imax-theatre",
+            "creator_credit": "",
+            "credit_line": "<p>Courtesy IMAX</p>",
+            "headline_credit": "Canada",
+            "thumbnail": null,
+            "record_type": "work",
+            "type": "Object",
+            "is_on_display": true,
+            "last_on_display_place": "ACMI: Gallery 1",
+            "last_on_display_date": "2031-02-16",
+            "is_context_indigenous": false,
+            "material_description": "Graphic",
+            "unpublished": false,
+            "first_production_date": null
+        }
+    ],
+    "source": {
+        "name": "Vernon",
+        "slug": "vernon"
+    },
+    "source_identifier": "179567",
+    "production_places": [
+        {
+            "id": 36,
+            "name": "Canada",
+            "slug": "canada"
+        }
+    ],
+    "production_dates": [],
+    "labels": [
+        39065
+    ]
+}

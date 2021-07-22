@@ -1,0 +1,2467 @@
+{
+    "count": 922,
+    "next": "https://api.acmi.net.au/works/?page=25",
+    "previous": "https://api.acmi.net.au/works/?page=23",
+    "results": [
+        {
+            "id": 99600,
+            "acmi_id": "179866",
+            "title": "European hand painted panoramic magic lantern slides",
+            "title_annotation": "",
+            "slug": "european-panoramic-slide-512",
+            "creator_credit": "Maker not documented",
+            "credit_line": "<p>Courtesy Martyn Jolly</p>",
+            "headline_credit": "",
+            "thumbnail": {
+                "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN179866_EuropeanPanoramicSlide_5_Back.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=qJwRz7nu2zdAm3kGB1AFOxtP7xs%3D&Expires=1627009142",
+                "has_video": false
+            },
+            "record_type": "work",
+            "type": "Object",
+            "is_on_display": true,
+            "last_on_display_place": "ACMI: Gallery 1",
+            "last_on_display_date": "2021-08-12",
+            "is_context_indigenous": false,
+            "material_description": "wood, glass, pigment",
+            "unpublished": false,
+            "first_production_date": null,
+            "brief_description": "",
+            "constellations_primary": [],
+            "constellations_other": [],
+            "recommendations": [],
+            "title_for_label": "<p>European hand painted panoramic slides</p>",
+            "creator_credit_for_label": "<p>Maker not documented</p>",
+            "headline_credit_for_label": "",
+            "description": "",
+            "description_for_label": [],
+            "credit_line_for_label": "<p>Courtesy Martyn Jolly</p>",
+            "details": [
+                {
+                    "label": "Curatorial section",
+                    "display_values": [
+                        "The Story of the Moving Image&nbsp;→ Moving Pictures&nbsp;→ 02. Play and Illusion&nbsp;→ MI-02-C01"
+                    ]
+                },
+                {
+                    "label": "Measurements",
+                    "display_values": [
+                        "88 x 350 x 6mm"
+                    ]
+                },
+                {
+                    "label": "Materials",
+                    "display_values": [
+                        "wood, glass, pigment"
+                    ]
+                }
+            ],
+            "stats": {
+                "tap_count": 0
+            },
+            "links": [],
+            "creators_primary": [
+                {
+                    "id": 1134465,
+                    "name": "Maker not documented",
+                    "creator_id": 71446,
+                    "role": "creator",
+                    "role_id": 968,
+                    "is_primary": true
+                }
+            ],
+            "creators_other": [],
+            "video_links": [],
+            "media_note": null,
+            "images": [
+                {
+                    "id": 12565,
+                    "image_file": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN179866_EuropeanPanoramicSlide_5_Back.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=tNoTNQkGWDfnGmgqcjqW%2FlF%2FBho%3D&Expires=1627009142",
+                    "image_file_thumbnail": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN179866_EuropeanPanoramicSlide_5_Back.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=qJwRz7nu2zdAm3kGB1AFOxtP7xs%3D&Expires=1627009142",
+                    "image_file_xs": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN179866_EuropeanPanoramicSlide_5_Back.jpg.480x480_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=O%2B%2F2MnLAHh4%2Bi5hDEa55VF9Hg7Q%3D&Expires=1627009142",
+                    "image_file_s": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN179866_EuropeanPanoramicSlide_5_Back.jpg.960x960_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=8VMm7hglNHB3QZ8cIyr0j90rQfY%3D&Expires=1627009142",
+                    "image_file_m": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN179866_EuropeanPanoramicSlide_5_Back.jpg.1920x1920_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=Unv9I7ns468XmuLgPJpCrXEdp%2FY%3D&Expires=1627009142",
+                    "image_file_l": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN179866_EuropeanPanoramicSlide_5_Back.jpg.3840x3840_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=xMvDwozMXTfA9yWXZk2gBKt3ItQ%3D&Expires=1627009142",
+                    "caption": "LN179866_EuropeanPanoramicSlide_5_Back",
+                    "credit_line": "Photograph by Egmont Contreras, ACMI",
+                    "alt_text": "",
+                    "width": 4578,
+                    "height": 1461,
+                    "access_level": "View anywhere"
+                },
+                {
+                    "id": 12564,
+                    "image_file": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN179866_EuropeanPanoramicSlide_5_Front.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=ly%2F%2FpslVrEuB6T0SoBeQB2xgvQs%3D&Expires=1627009142",
+                    "image_file_thumbnail": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN179866_EuropeanPanoramicSlide_5_Front.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=rmbCHmmI4G7fSarqVSnUNEXC3oo%3D&Expires=1627009142",
+                    "image_file_xs": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN179866_EuropeanPanoramicSlide_5_Front.jpg.480x480_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=U3LYhgLFLsniztAcdqAm7EN4Ijs%3D&Expires=1627009142",
+                    "image_file_s": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN179866_EuropeanPanoramicSlide_5_Front.jpg.960x960_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=dprZxLfTukxkzdgb%2Ft5nE9DJEgY%3D&Expires=1627009142",
+                    "image_file_m": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN179866_EuropeanPanoramicSlide_5_Front.jpg.1920x1920_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=LNjqUKmSO7oBA6jQ6EkBtTqjAyA%3D&Expires=1627009142",
+                    "image_file_l": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN179866_EuropeanPanoramicSlide_5_Front.jpg.3840x3840_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=OMiJlKFumNNDirX2rJDViIkdEPg%3D&Expires=1627009142",
+                    "caption": "LN179866_EuropeanPanoramicSlide_5_Front",
+                    "credit_line": "Photograph by Egmont Contreras, ACMI",
+                    "alt_text": "",
+                    "width": 4634,
+                    "height": 1539,
+                    "access_level": "View anywhere"
+                }
+            ],
+            "videos": [],
+            "holdings": [],
+            "part_of": null,
+            "parts": [],
+            "part_siblings": [],
+            "group": {
+                "id": 100564,
+                "acmi_id": "181485",
+                "title": "European hand-painted panoramic magic lantern slides",
+                "title_annotation": "",
+                "slug": "european-hand-painted-panoramic-magic-lantern-slides",
+                "creator_credit": "Maker not documented",
+                "credit_line": "<p>Courtesy Martyn Jolly</p>",
+                "headline_credit": "",
+                "thumbnail": {
+                    "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/GROUP_European_Panoramic_Slides_1to6.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=KL%2B5YxiYk3o9ZFGQzq%2Boi80yHEM%3D&Expires=1627009142",
+                    "has_video": false
+                },
+                "record_type": "group",
+                "type": "Object",
+                "is_on_display": true,
+                "last_on_display_place": "ACMI: Gallery 1",
+                "last_on_display_date": "2031-02-16",
+                "is_context_indigenous": false,
+                "material_description": "",
+                "unpublished": false,
+                "first_production_date": null
+            },
+            "group_works": [],
+            "group_siblings": [
+                {
+                    "id": 99598,
+                    "acmi_id": "179864",
+                    "title": "European hand painted panoramic magic lantern slides",
+                    "title_annotation": "",
+                    "slug": "european-panoramic-slide-312",
+                    "creator_credit": "Maker not documented",
+                    "credit_line": "<p>Courtesy Martyn Jolly</p>",
+                    "headline_credit": "",
+                    "thumbnail": {
+                        "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN179864_EuropeanPanoramicSlide_3_Front.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=MHcBLNSkcxuDIgLsUrbbO%2B59imM%3D&Expires=1627009142",
+                        "has_video": false
+                    },
+                    "record_type": "work",
+                    "type": "Object",
+                    "is_on_display": true,
+                    "last_on_display_place": "ACMI: Gallery 1",
+                    "last_on_display_date": "2021-08-12",
+                    "is_context_indigenous": false,
+                    "material_description": "wood, glass, pigment",
+                    "unpublished": false,
+                    "first_production_date": null
+                },
+                {
+                    "id": 99597,
+                    "acmi_id": "179815",
+                    "title": "European hand painted panoramic magic lantern slides",
+                    "title_annotation": "",
+                    "slug": "european-panoramic-slide-212",
+                    "creator_credit": "Maker not documented",
+                    "credit_line": "<p>Courtesy Martyn Jolly</p>",
+                    "headline_credit": "",
+                    "thumbnail": {
+                        "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN179815_EuropeanPanoramicSlide_2_Back.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=klkT5XgMU%2BWmd8uPZbtwWthNT90%3D&Expires=1627009142",
+                        "has_video": false
+                    },
+                    "record_type": "work",
+                    "type": "Object",
+                    "is_on_display": true,
+                    "last_on_display_place": "ACMI: Gallery 1",
+                    "last_on_display_date": "2021-08-12",
+                    "is_context_indigenous": false,
+                    "material_description": "wood, glass, pigment",
+                    "unpublished": false,
+                    "first_production_date": null
+                },
+                {
+                    "id": 99596,
+                    "acmi_id": "179814",
+                    "title": "European hand painted panoramic magic lantern slides",
+                    "title_annotation": "",
+                    "slug": "european-panoramic-slide-112",
+                    "creator_credit": "Maker not documented",
+                    "credit_line": "<p>Courtesy Martyn Jolly</p>",
+                    "headline_credit": "",
+                    "thumbnail": {
+                        "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN179814_EuropeanPanoramicSlide_1_Front.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=SUT7cmlhHIhaNPVxvqBe9zNzGg8%3D&Expires=1627009142",
+                        "has_video": false
+                    },
+                    "record_type": "work",
+                    "type": "Object",
+                    "is_on_display": true,
+                    "last_on_display_place": "ACMI: Gallery 1",
+                    "last_on_display_date": "2021-08-12",
+                    "is_context_indigenous": false,
+                    "material_description": "wood, glass, pigment",
+                    "unpublished": false,
+                    "first_production_date": null
+                },
+                {
+                    "id": 99601,
+                    "acmi_id": "179867",
+                    "title": "European hand painted panoramic magic lantern slides",
+                    "title_annotation": "",
+                    "slug": "european-panoramic-slide-612",
+                    "creator_credit": "Maker not documented",
+                    "credit_line": "<p>Courtesy Martyn Jolly</p>",
+                    "headline_credit": "",
+                    "thumbnail": {
+                        "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN179867_EuropeanPanoramicSlide_6_Back.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=HEPODB8MaZHefpS9mXRK5zqzErs%3D&Expires=1627009142",
+                        "has_video": false
+                    },
+                    "record_type": "work",
+                    "type": "Object",
+                    "is_on_display": true,
+                    "last_on_display_place": "ACMI: Gallery 1",
+                    "last_on_display_date": "2021-08-12",
+                    "is_context_indigenous": false,
+                    "material_description": "wood, glass, pigment",
+                    "unpublished": false,
+                    "first_production_date": null
+                },
+                {
+                    "id": 99599,
+                    "acmi_id": "179865",
+                    "title": "European hand painted panoramic magic lantern slides",
+                    "title_annotation": "",
+                    "slug": "european-panoramic-slide-412",
+                    "creator_credit": "Maker not documented",
+                    "credit_line": "<p>Courtesy Martyn Jolly</p>",
+                    "headline_credit": "",
+                    "thumbnail": {
+                        "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN179865_EuropeanPanoramicSlide_4_Back.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=ZC5NKbG4uab19jAG7aGeTy3dxVw%3D&Expires=1627009142",
+                        "has_video": false
+                    },
+                    "record_type": "work",
+                    "type": "Object",
+                    "is_on_display": true,
+                    "last_on_display_place": "ACMI: Gallery 1",
+                    "last_on_display_date": "2021-08-12",
+                    "is_context_indigenous": false,
+                    "material_description": "wood, glass, pigment",
+                    "unpublished": false,
+                    "first_production_date": null
+                }
+            ],
+            "source": {
+                "name": "Vernon",
+                "slug": "vernon"
+            },
+            "source_identifier": "179866",
+            "production_places": [],
+            "production_dates": [],
+            "labels": [
+                39095
+            ]
+        },
+        {
+            "id": 99599,
+            "acmi_id": "179865",
+            "title": "European hand painted panoramic magic lantern slides",
+            "title_annotation": "",
+            "slug": "european-panoramic-slide-412",
+            "creator_credit": "Maker not documented",
+            "credit_line": "<p>Courtesy Martyn Jolly</p>",
+            "headline_credit": "",
+            "thumbnail": {
+                "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN179865_EuropeanPanoramicSlide_4_Back.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=ZC5NKbG4uab19jAG7aGeTy3dxVw%3D&Expires=1627009142",
+                "has_video": false
+            },
+            "record_type": "work",
+            "type": "Object",
+            "is_on_display": true,
+            "last_on_display_place": "ACMI: Gallery 1",
+            "last_on_display_date": "2021-08-12",
+            "is_context_indigenous": false,
+            "material_description": "wood, glass, pigment",
+            "unpublished": false,
+            "first_production_date": null,
+            "brief_description": "",
+            "constellations_primary": [],
+            "constellations_other": [],
+            "recommendations": [],
+            "title_for_label": "<p>European hand painted panoramic slides</p>",
+            "creator_credit_for_label": "<p>Maker not documented</p>",
+            "headline_credit_for_label": "",
+            "description": "",
+            "description_for_label": [],
+            "credit_line_for_label": "<p>Courtesy Martyn Jolly</p>",
+            "details": [
+                {
+                    "label": "Curatorial section",
+                    "display_values": [
+                        "The Story of the Moving Image&nbsp;→ Moving Pictures&nbsp;→ 02. Play and Illusion&nbsp;→ MI-02-C01"
+                    ]
+                },
+                {
+                    "label": "Measurements",
+                    "display_values": [
+                        "88 x 350 x 6mm"
+                    ]
+                },
+                {
+                    "label": "Materials",
+                    "display_values": [
+                        "wood, glass, pigment"
+                    ]
+                }
+            ],
+            "stats": {
+                "tap_count": 0
+            },
+            "links": [],
+            "creators_primary": [
+                {
+                    "id": 1134464,
+                    "name": "Maker not documented",
+                    "creator_id": 71446,
+                    "role": "creator",
+                    "role_id": 968,
+                    "is_primary": true
+                }
+            ],
+            "creators_other": [],
+            "video_links": [],
+            "media_note": null,
+            "images": [
+                {
+                    "id": 12563,
+                    "image_file": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN179865_EuropeanPanoramicSlide_4_Back.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=X8skditPfZAnZT5N0puClru6Pxo%3D&Expires=1627009142",
+                    "image_file_thumbnail": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN179865_EuropeanPanoramicSlide_4_Back.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=ZC5NKbG4uab19jAG7aGeTy3dxVw%3D&Expires=1627009142",
+                    "image_file_xs": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN179865_EuropeanPanoramicSlide_4_Back.jpg.480x480_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=wZip8qEAz6iiMvh8M9VNLPpjqzU%3D&Expires=1627009142",
+                    "image_file_s": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN179865_EuropeanPanoramicSlide_4_Back.jpg.960x960_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=%2FZWZkMiSyBcrwwvttGZhKAGGuco%3D&Expires=1627009142",
+                    "image_file_m": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN179865_EuropeanPanoramicSlide_4_Back.jpg.1920x1920_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=UzbGs9ftbXV3PNrYhnJaOKswjjo%3D&Expires=1627009142",
+                    "image_file_l": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN179865_EuropeanPanoramicSlide_4_Back.jpg.3840x3840_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=4HwGVOCVWLqvsfN4C9zxj%2Fj8Qh4%3D&Expires=1627009142",
+                    "caption": "LN179865_EuropeanPanoramicSlide_4_Back",
+                    "credit_line": "Photograph by Egmont Contreras, ACMI",
+                    "alt_text": "",
+                    "width": 4661,
+                    "height": 1438,
+                    "access_level": "View anywhere"
+                },
+                {
+                    "id": 12562,
+                    "image_file": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN179865_EuropeanPanoramicSlide_4_Front.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=7REvKY9sHQznddxbyo%2BG7Mp9I%2F8%3D&Expires=1627009142",
+                    "image_file_thumbnail": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN179865_EuropeanPanoramicSlide_4_Front.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=k4Lg69LzV5T1mr67A%2BbOMLE2AuQ%3D&Expires=1627009142",
+                    "image_file_xs": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN179865_EuropeanPanoramicSlide_4_Front.jpg.480x480_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=mtA4lWExEkRCNS%2FFXZA2Mq5WGpo%3D&Expires=1627009142",
+                    "image_file_s": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN179865_EuropeanPanoramicSlide_4_Front.jpg.960x960_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=ro9vUQgvCiG%2Br0Q1jLtP1G8LaOA%3D&Expires=1627009142",
+                    "image_file_m": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN179865_EuropeanPanoramicSlide_4_Front.jpg.1920x1920_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=1BjZMKJwyqA%2FipMfx3c%2FoE66yNE%3D&Expires=1627009142",
+                    "image_file_l": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN179865_EuropeanPanoramicSlide_4_Front.jpg.3840x3840_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=ifM9C5yJkjcTJba4YbJiQISQHEM%3D&Expires=1627009142",
+                    "caption": "LN179865_EuropeanPanoramicSlide_4_Front",
+                    "credit_line": "Photograph by Egmont Contreras, ACMI",
+                    "alt_text": "",
+                    "width": 4695,
+                    "height": 1482,
+                    "access_level": "View anywhere"
+                }
+            ],
+            "videos": [],
+            "holdings": [],
+            "part_of": null,
+            "parts": [],
+            "part_siblings": [],
+            "group": {
+                "id": 100564,
+                "acmi_id": "181485",
+                "title": "European hand-painted panoramic magic lantern slides",
+                "title_annotation": "",
+                "slug": "european-hand-painted-panoramic-magic-lantern-slides",
+                "creator_credit": "Maker not documented",
+                "credit_line": "<p>Courtesy Martyn Jolly</p>",
+                "headline_credit": "",
+                "thumbnail": {
+                    "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/GROUP_European_Panoramic_Slides_1to6.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=KL%2B5YxiYk3o9ZFGQzq%2Boi80yHEM%3D&Expires=1627009142",
+                    "has_video": false
+                },
+                "record_type": "group",
+                "type": "Object",
+                "is_on_display": true,
+                "last_on_display_place": "ACMI: Gallery 1",
+                "last_on_display_date": "2031-02-16",
+                "is_context_indigenous": false,
+                "material_description": "",
+                "unpublished": false,
+                "first_production_date": null
+            },
+            "group_works": [],
+            "group_siblings": [
+                {
+                    "id": 99600,
+                    "acmi_id": "179866",
+                    "title": "European hand painted panoramic magic lantern slides",
+                    "title_annotation": "",
+                    "slug": "european-panoramic-slide-512",
+                    "creator_credit": "Maker not documented",
+                    "credit_line": "<p>Courtesy Martyn Jolly</p>",
+                    "headline_credit": "",
+                    "thumbnail": {
+                        "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN179866_EuropeanPanoramicSlide_5_Back.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=qJwRz7nu2zdAm3kGB1AFOxtP7xs%3D&Expires=1627009142",
+                        "has_video": false
+                    },
+                    "record_type": "work",
+                    "type": "Object",
+                    "is_on_display": true,
+                    "last_on_display_place": "ACMI: Gallery 1",
+                    "last_on_display_date": "2021-08-12",
+                    "is_context_indigenous": false,
+                    "material_description": "wood, glass, pigment",
+                    "unpublished": false,
+                    "first_production_date": null
+                },
+                {
+                    "id": 99598,
+                    "acmi_id": "179864",
+                    "title": "European hand painted panoramic magic lantern slides",
+                    "title_annotation": "",
+                    "slug": "european-panoramic-slide-312",
+                    "creator_credit": "Maker not documented",
+                    "credit_line": "<p>Courtesy Martyn Jolly</p>",
+                    "headline_credit": "",
+                    "thumbnail": {
+                        "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN179864_EuropeanPanoramicSlide_3_Front.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=MHcBLNSkcxuDIgLsUrbbO%2B59imM%3D&Expires=1627009142",
+                        "has_video": false
+                    },
+                    "record_type": "work",
+                    "type": "Object",
+                    "is_on_display": true,
+                    "last_on_display_place": "ACMI: Gallery 1",
+                    "last_on_display_date": "2021-08-12",
+                    "is_context_indigenous": false,
+                    "material_description": "wood, glass, pigment",
+                    "unpublished": false,
+                    "first_production_date": null
+                },
+                {
+                    "id": 99597,
+                    "acmi_id": "179815",
+                    "title": "European hand painted panoramic magic lantern slides",
+                    "title_annotation": "",
+                    "slug": "european-panoramic-slide-212",
+                    "creator_credit": "Maker not documented",
+                    "credit_line": "<p>Courtesy Martyn Jolly</p>",
+                    "headline_credit": "",
+                    "thumbnail": {
+                        "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN179815_EuropeanPanoramicSlide_2_Back.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=klkT5XgMU%2BWmd8uPZbtwWthNT90%3D&Expires=1627009142",
+                        "has_video": false
+                    },
+                    "record_type": "work",
+                    "type": "Object",
+                    "is_on_display": true,
+                    "last_on_display_place": "ACMI: Gallery 1",
+                    "last_on_display_date": "2021-08-12",
+                    "is_context_indigenous": false,
+                    "material_description": "wood, glass, pigment",
+                    "unpublished": false,
+                    "first_production_date": null
+                },
+                {
+                    "id": 99596,
+                    "acmi_id": "179814",
+                    "title": "European hand painted panoramic magic lantern slides",
+                    "title_annotation": "",
+                    "slug": "european-panoramic-slide-112",
+                    "creator_credit": "Maker not documented",
+                    "credit_line": "<p>Courtesy Martyn Jolly</p>",
+                    "headline_credit": "",
+                    "thumbnail": {
+                        "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN179814_EuropeanPanoramicSlide_1_Front.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=SUT7cmlhHIhaNPVxvqBe9zNzGg8%3D&Expires=1627009142",
+                        "has_video": false
+                    },
+                    "record_type": "work",
+                    "type": "Object",
+                    "is_on_display": true,
+                    "last_on_display_place": "ACMI: Gallery 1",
+                    "last_on_display_date": "2021-08-12",
+                    "is_context_indigenous": false,
+                    "material_description": "wood, glass, pigment",
+                    "unpublished": false,
+                    "first_production_date": null
+                },
+                {
+                    "id": 99601,
+                    "acmi_id": "179867",
+                    "title": "European hand painted panoramic magic lantern slides",
+                    "title_annotation": "",
+                    "slug": "european-panoramic-slide-612",
+                    "creator_credit": "Maker not documented",
+                    "credit_line": "<p>Courtesy Martyn Jolly</p>",
+                    "headline_credit": "",
+                    "thumbnail": {
+                        "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN179867_EuropeanPanoramicSlide_6_Back.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=HEPODB8MaZHefpS9mXRK5zqzErs%3D&Expires=1627009142",
+                        "has_video": false
+                    },
+                    "record_type": "work",
+                    "type": "Object",
+                    "is_on_display": true,
+                    "last_on_display_place": "ACMI: Gallery 1",
+                    "last_on_display_date": "2021-08-12",
+                    "is_context_indigenous": false,
+                    "material_description": "wood, glass, pigment",
+                    "unpublished": false,
+                    "first_production_date": null
+                }
+            ],
+            "source": {
+                "name": "Vernon",
+                "slug": "vernon"
+            },
+            "source_identifier": "179865",
+            "production_places": [],
+            "production_dates": [],
+            "labels": [
+                39094
+            ]
+        },
+        {
+            "id": 99598,
+            "acmi_id": "179864",
+            "title": "European hand painted panoramic magic lantern slides",
+            "title_annotation": "",
+            "slug": "european-panoramic-slide-312",
+            "creator_credit": "Maker not documented",
+            "credit_line": "<p>Courtesy Martyn Jolly</p>",
+            "headline_credit": "",
+            "thumbnail": {
+                "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN179864_EuropeanPanoramicSlide_3_Front.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=MHcBLNSkcxuDIgLsUrbbO%2B59imM%3D&Expires=1627009142",
+                "has_video": false
+            },
+            "record_type": "work",
+            "type": "Object",
+            "is_on_display": true,
+            "last_on_display_place": "ACMI: Gallery 1",
+            "last_on_display_date": "2021-08-12",
+            "is_context_indigenous": false,
+            "material_description": "wood, glass, pigment",
+            "unpublished": false,
+            "first_production_date": null,
+            "brief_description": "",
+            "constellations_primary": [],
+            "constellations_other": [],
+            "recommendations": [],
+            "title_for_label": "<p>European hand painted panoramic slides</p>",
+            "creator_credit_for_label": "<p>Maker not documented</p>",
+            "headline_credit_for_label": "",
+            "description": "",
+            "description_for_label": [],
+            "credit_line_for_label": "<p>Courtesy Martyn Jolly</p>",
+            "details": [
+                {
+                    "label": "Curatorial section",
+                    "display_values": [
+                        "The Story of the Moving Image&nbsp;→ Moving Pictures&nbsp;→ 02. Play and Illusion&nbsp;→ MI-02-C01"
+                    ]
+                },
+                {
+                    "label": "Measurements",
+                    "display_values": [
+                        "88 x 350 x 6mm"
+                    ]
+                },
+                {
+                    "label": "Materials",
+                    "display_values": [
+                        "wood, glass, pigment"
+                    ]
+                }
+            ],
+            "stats": {
+                "tap_count": 0
+            },
+            "links": [],
+            "creators_primary": [
+                {
+                    "id": 1134463,
+                    "name": "Maker not documented",
+                    "creator_id": 71446,
+                    "role": "creator",
+                    "role_id": 968,
+                    "is_primary": true
+                }
+            ],
+            "creators_other": [],
+            "video_links": [],
+            "media_note": null,
+            "images": [
+                {
+                    "id": 12560,
+                    "image_file": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN179864_EuropeanPanoramicSlide_3_Front.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=ee6ne5BJJ6SRRfTb36vD%2FgFwAJc%3D&Expires=1627009142",
+                    "image_file_thumbnail": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN179864_EuropeanPanoramicSlide_3_Front.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=MHcBLNSkcxuDIgLsUrbbO%2B59imM%3D&Expires=1627009142",
+                    "image_file_xs": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN179864_EuropeanPanoramicSlide_3_Front.jpg.480x480_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=d%2FF7GCGSkbWWjjUm5%2B%2Fzxxgu1vU%3D&Expires=1627009142",
+                    "image_file_s": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN179864_EuropeanPanoramicSlide_3_Front.jpg.960x960_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=1rpRRqfgwtwRU9HZ%2FF5Wmcc%2FxX0%3D&Expires=1627009142",
+                    "image_file_m": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN179864_EuropeanPanoramicSlide_3_Front.jpg.1920x1920_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=afdhmcptdKShYqHbsqBHZ5h6d24%3D&Expires=1627009142",
+                    "image_file_l": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN179864_EuropeanPanoramicSlide_3_Front.jpg.3840x3840_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=C7iXdarzAtUJ2pff4zjAFWqxgc0%3D&Expires=1627009142",
+                    "caption": "LN179864_EuropeanPanoramicSlide_3_Front",
+                    "credit_line": "Photograph by Egmont Contreras, ACMI",
+                    "alt_text": "",
+                    "width": 4642,
+                    "height": 1424,
+                    "access_level": "View anywhere"
+                },
+                {
+                    "id": 12561,
+                    "image_file": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN179864_EuropeanPanoramicSlide_3_Back.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=iQVojnEZhFD6Wo4bBUmrtmN1aHI%3D&Expires=1627009142",
+                    "image_file_thumbnail": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN179864_EuropeanPanoramicSlide_3_Back.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=AsSYFbzgg2j4mGoxLWLPaig%2FVBg%3D&Expires=1627009142",
+                    "image_file_xs": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN179864_EuropeanPanoramicSlide_3_Back.jpg.480x480_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=5UxJsxn15gPUHtfxEROC%2BARz3LQ%3D&Expires=1627009142",
+                    "image_file_s": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN179864_EuropeanPanoramicSlide_3_Back.jpg.960x960_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=%2BAn0Sh6ixMBylrhu3n1guZCEXYg%3D&Expires=1627009142",
+                    "image_file_m": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN179864_EuropeanPanoramicSlide_3_Back.jpg.1920x1920_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=wumyrW%2FYEdnvcPXrpTIOh52XYLc%3D&Expires=1627009142",
+                    "image_file_l": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN179864_EuropeanPanoramicSlide_3_Back.jpg.3840x3840_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=ptCVtdrF61XmXH8lTRIBckaB9p4%3D&Expires=1627009142",
+                    "caption": "LN179864_EuropeanPanoramicSlide_3_Back",
+                    "credit_line": "Photograph by Egmont Contreras, ACMI",
+                    "alt_text": "",
+                    "width": 4612,
+                    "height": 1460,
+                    "access_level": "View anywhere"
+                }
+            ],
+            "videos": [],
+            "holdings": [],
+            "part_of": null,
+            "parts": [],
+            "part_siblings": [],
+            "group": {
+                "id": 100564,
+                "acmi_id": "181485",
+                "title": "European hand-painted panoramic magic lantern slides",
+                "title_annotation": "",
+                "slug": "european-hand-painted-panoramic-magic-lantern-slides",
+                "creator_credit": "Maker not documented",
+                "credit_line": "<p>Courtesy Martyn Jolly</p>",
+                "headline_credit": "",
+                "thumbnail": {
+                    "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/GROUP_European_Panoramic_Slides_1to6.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=KL%2B5YxiYk3o9ZFGQzq%2Boi80yHEM%3D&Expires=1627009142",
+                    "has_video": false
+                },
+                "record_type": "group",
+                "type": "Object",
+                "is_on_display": true,
+                "last_on_display_place": "ACMI: Gallery 1",
+                "last_on_display_date": "2031-02-16",
+                "is_context_indigenous": false,
+                "material_description": "",
+                "unpublished": false,
+                "first_production_date": null
+            },
+            "group_works": [],
+            "group_siblings": [
+                {
+                    "id": 99600,
+                    "acmi_id": "179866",
+                    "title": "European hand painted panoramic magic lantern slides",
+                    "title_annotation": "",
+                    "slug": "european-panoramic-slide-512",
+                    "creator_credit": "Maker not documented",
+                    "credit_line": "<p>Courtesy Martyn Jolly</p>",
+                    "headline_credit": "",
+                    "thumbnail": {
+                        "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN179866_EuropeanPanoramicSlide_5_Back.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=qJwRz7nu2zdAm3kGB1AFOxtP7xs%3D&Expires=1627009142",
+                        "has_video": false
+                    },
+                    "record_type": "work",
+                    "type": "Object",
+                    "is_on_display": true,
+                    "last_on_display_place": "ACMI: Gallery 1",
+                    "last_on_display_date": "2021-08-12",
+                    "is_context_indigenous": false,
+                    "material_description": "wood, glass, pigment",
+                    "unpublished": false,
+                    "first_production_date": null
+                },
+                {
+                    "id": 99597,
+                    "acmi_id": "179815",
+                    "title": "European hand painted panoramic magic lantern slides",
+                    "title_annotation": "",
+                    "slug": "european-panoramic-slide-212",
+                    "creator_credit": "Maker not documented",
+                    "credit_line": "<p>Courtesy Martyn Jolly</p>",
+                    "headline_credit": "",
+                    "thumbnail": {
+                        "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN179815_EuropeanPanoramicSlide_2_Back.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=klkT5XgMU%2BWmd8uPZbtwWthNT90%3D&Expires=1627009142",
+                        "has_video": false
+                    },
+                    "record_type": "work",
+                    "type": "Object",
+                    "is_on_display": true,
+                    "last_on_display_place": "ACMI: Gallery 1",
+                    "last_on_display_date": "2021-08-12",
+                    "is_context_indigenous": false,
+                    "material_description": "wood, glass, pigment",
+                    "unpublished": false,
+                    "first_production_date": null
+                },
+                {
+                    "id": 99596,
+                    "acmi_id": "179814",
+                    "title": "European hand painted panoramic magic lantern slides",
+                    "title_annotation": "",
+                    "slug": "european-panoramic-slide-112",
+                    "creator_credit": "Maker not documented",
+                    "credit_line": "<p>Courtesy Martyn Jolly</p>",
+                    "headline_credit": "",
+                    "thumbnail": {
+                        "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN179814_EuropeanPanoramicSlide_1_Front.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=SUT7cmlhHIhaNPVxvqBe9zNzGg8%3D&Expires=1627009142",
+                        "has_video": false
+                    },
+                    "record_type": "work",
+                    "type": "Object",
+                    "is_on_display": true,
+                    "last_on_display_place": "ACMI: Gallery 1",
+                    "last_on_display_date": "2021-08-12",
+                    "is_context_indigenous": false,
+                    "material_description": "wood, glass, pigment",
+                    "unpublished": false,
+                    "first_production_date": null
+                },
+                {
+                    "id": 99601,
+                    "acmi_id": "179867",
+                    "title": "European hand painted panoramic magic lantern slides",
+                    "title_annotation": "",
+                    "slug": "european-panoramic-slide-612",
+                    "creator_credit": "Maker not documented",
+                    "credit_line": "<p>Courtesy Martyn Jolly</p>",
+                    "headline_credit": "",
+                    "thumbnail": {
+                        "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN179867_EuropeanPanoramicSlide_6_Back.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=HEPODB8MaZHefpS9mXRK5zqzErs%3D&Expires=1627009142",
+                        "has_video": false
+                    },
+                    "record_type": "work",
+                    "type": "Object",
+                    "is_on_display": true,
+                    "last_on_display_place": "ACMI: Gallery 1",
+                    "last_on_display_date": "2021-08-12",
+                    "is_context_indigenous": false,
+                    "material_description": "wood, glass, pigment",
+                    "unpublished": false,
+                    "first_production_date": null
+                },
+                {
+                    "id": 99599,
+                    "acmi_id": "179865",
+                    "title": "European hand painted panoramic magic lantern slides",
+                    "title_annotation": "",
+                    "slug": "european-panoramic-slide-412",
+                    "creator_credit": "Maker not documented",
+                    "credit_line": "<p>Courtesy Martyn Jolly</p>",
+                    "headline_credit": "",
+                    "thumbnail": {
+                        "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN179865_EuropeanPanoramicSlide_4_Back.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=ZC5NKbG4uab19jAG7aGeTy3dxVw%3D&Expires=1627009142",
+                        "has_video": false
+                    },
+                    "record_type": "work",
+                    "type": "Object",
+                    "is_on_display": true,
+                    "last_on_display_place": "ACMI: Gallery 1",
+                    "last_on_display_date": "2021-08-12",
+                    "is_context_indigenous": false,
+                    "material_description": "wood, glass, pigment",
+                    "unpublished": false,
+                    "first_production_date": null
+                }
+            ],
+            "source": {
+                "name": "Vernon",
+                "slug": "vernon"
+            },
+            "source_identifier": "179864",
+            "production_places": [],
+            "production_dates": [],
+            "labels": [
+                39093
+            ]
+        },
+        {
+            "id": 99597,
+            "acmi_id": "179815",
+            "title": "European hand painted panoramic magic lantern slides",
+            "title_annotation": "",
+            "slug": "european-panoramic-slide-212",
+            "creator_credit": "Maker not documented",
+            "credit_line": "<p>Courtesy Martyn Jolly</p>",
+            "headline_credit": "",
+            "thumbnail": {
+                "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN179815_EuropeanPanoramicSlide_2_Back.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=klkT5XgMU%2BWmd8uPZbtwWthNT90%3D&Expires=1627009142",
+                "has_video": false
+            },
+            "record_type": "work",
+            "type": "Object",
+            "is_on_display": true,
+            "last_on_display_place": "ACMI: Gallery 1",
+            "last_on_display_date": "2021-08-12",
+            "is_context_indigenous": false,
+            "material_description": "wood, glass, pigment",
+            "unpublished": false,
+            "first_production_date": null,
+            "brief_description": "",
+            "constellations_primary": [],
+            "constellations_other": [],
+            "recommendations": [],
+            "title_for_label": "<p>European hand painted panoramic slides</p>",
+            "creator_credit_for_label": "<p>Maker not documented</p>",
+            "headline_credit_for_label": "",
+            "description": "",
+            "description_for_label": [],
+            "credit_line_for_label": "<p>Courtesy Martyn Jolly</p>",
+            "details": [
+                {
+                    "label": "Curatorial section",
+                    "display_values": [
+                        "The Story of the Moving Image&nbsp;→ Moving Pictures&nbsp;→ 02. Play and Illusion&nbsp;→ MI-02-C01"
+                    ]
+                },
+                {
+                    "label": "Measurements",
+                    "display_values": [
+                        "88 x 350 x 6mm"
+                    ]
+                },
+                {
+                    "label": "Materials",
+                    "display_values": [
+                        "wood, glass, pigment"
+                    ]
+                }
+            ],
+            "stats": {
+                "tap_count": 0
+            },
+            "links": [],
+            "creators_primary": [
+                {
+                    "id": 1134462,
+                    "name": "Maker not documented",
+                    "creator_id": 71446,
+                    "role": "creator",
+                    "role_id": 968,
+                    "is_primary": true
+                }
+            ],
+            "creators_other": [],
+            "video_links": [],
+            "media_note": null,
+            "images": [
+                {
+                    "id": 12559,
+                    "image_file": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN179815_EuropeanPanoramicSlide_2_Back.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=xOpzPU%2B14%2BZB6Bkd8vNQ6B2FKeo%3D&Expires=1627009142",
+                    "image_file_thumbnail": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN179815_EuropeanPanoramicSlide_2_Back.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=klkT5XgMU%2BWmd8uPZbtwWthNT90%3D&Expires=1627009142",
+                    "image_file_xs": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN179815_EuropeanPanoramicSlide_2_Back.jpg.480x480_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=N%2FTRZzJ9u3x1swRvzzArzxO9BRg%3D&Expires=1627009142",
+                    "image_file_s": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN179815_EuropeanPanoramicSlide_2_Back.jpg.960x960_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=B8XrSPCeiQoXbFlwOzVkVXIne30%3D&Expires=1627009142",
+                    "image_file_m": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN179815_EuropeanPanoramicSlide_2_Back.jpg.1920x1920_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=gh0BYoUrz6IDEh7abtwaNVg4sP0%3D&Expires=1627009142",
+                    "image_file_l": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN179815_EuropeanPanoramicSlide_2_Back.jpg.3840x3840_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=ZPqpZaWjw%2Fa%2B974tKkJGQu0CAxA%3D&Expires=1627009142",
+                    "caption": "LN179815_EuropeanPanoramicSlide_2_Back",
+                    "credit_line": "Photograph by Egmont Contreras, ACMI",
+                    "alt_text": "",
+                    "width": 4612,
+                    "height": 1448,
+                    "access_level": "View anywhere"
+                },
+                {
+                    "id": 12558,
+                    "image_file": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN179815_EuropeanPanoramicSlide_2_Front.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=9UVPgyW6ZEB3vtvybYQvAygG4H0%3D&Expires=1627009142",
+                    "image_file_thumbnail": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN179815_EuropeanPanoramicSlide_2_Front.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=tJZ7hfkeEgRhY4HYi%2BbcxknojoQ%3D&Expires=1627009142",
+                    "image_file_xs": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN179815_EuropeanPanoramicSlide_2_Front.jpg.480x480_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=TG1zzGfoA1jh4S6bnvDpTAER0QU%3D&Expires=1627009142",
+                    "image_file_s": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN179815_EuropeanPanoramicSlide_2_Front.jpg.960x960_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=Jq2q8ODFUhKEFIooFgXK5%2FRMKk0%3D&Expires=1627009142",
+                    "image_file_m": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN179815_EuropeanPanoramicSlide_2_Front.jpg.1920x1920_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=HrmfJOFBC9AJEuXJHs1el93dkVU%3D&Expires=1627009142",
+                    "image_file_l": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN179815_EuropeanPanoramicSlide_2_Front.jpg.3840x3840_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=BZEUEijA6%2FCfVCFshNyvwIjFmW4%3D&Expires=1627009142",
+                    "caption": "LN179815_EuropeanPanoramicSlide_2_Front",
+                    "credit_line": "Photograph by Egmont Contreras, ACMI",
+                    "alt_text": "",
+                    "width": 4689,
+                    "height": 1425,
+                    "access_level": "View anywhere"
+                }
+            ],
+            "videos": [],
+            "holdings": [],
+            "part_of": null,
+            "parts": [],
+            "part_siblings": [],
+            "group": {
+                "id": 100564,
+                "acmi_id": "181485",
+                "title": "European hand-painted panoramic magic lantern slides",
+                "title_annotation": "",
+                "slug": "european-hand-painted-panoramic-magic-lantern-slides",
+                "creator_credit": "Maker not documented",
+                "credit_line": "<p>Courtesy Martyn Jolly</p>",
+                "headline_credit": "",
+                "thumbnail": {
+                    "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/GROUP_European_Panoramic_Slides_1to6.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=KL%2B5YxiYk3o9ZFGQzq%2Boi80yHEM%3D&Expires=1627009142",
+                    "has_video": false
+                },
+                "record_type": "group",
+                "type": "Object",
+                "is_on_display": true,
+                "last_on_display_place": "ACMI: Gallery 1",
+                "last_on_display_date": "2031-02-16",
+                "is_context_indigenous": false,
+                "material_description": "",
+                "unpublished": false,
+                "first_production_date": null
+            },
+            "group_works": [],
+            "group_siblings": [
+                {
+                    "id": 99600,
+                    "acmi_id": "179866",
+                    "title": "European hand painted panoramic magic lantern slides",
+                    "title_annotation": "",
+                    "slug": "european-panoramic-slide-512",
+                    "creator_credit": "Maker not documented",
+                    "credit_line": "<p>Courtesy Martyn Jolly</p>",
+                    "headline_credit": "",
+                    "thumbnail": {
+                        "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN179866_EuropeanPanoramicSlide_5_Back.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=qJwRz7nu2zdAm3kGB1AFOxtP7xs%3D&Expires=1627009142",
+                        "has_video": false
+                    },
+                    "record_type": "work",
+                    "type": "Object",
+                    "is_on_display": true,
+                    "last_on_display_place": "ACMI: Gallery 1",
+                    "last_on_display_date": "2021-08-12",
+                    "is_context_indigenous": false,
+                    "material_description": "wood, glass, pigment",
+                    "unpublished": false,
+                    "first_production_date": null
+                },
+                {
+                    "id": 99598,
+                    "acmi_id": "179864",
+                    "title": "European hand painted panoramic magic lantern slides",
+                    "title_annotation": "",
+                    "slug": "european-panoramic-slide-312",
+                    "creator_credit": "Maker not documented",
+                    "credit_line": "<p>Courtesy Martyn Jolly</p>",
+                    "headline_credit": "",
+                    "thumbnail": {
+                        "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN179864_EuropeanPanoramicSlide_3_Front.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=MHcBLNSkcxuDIgLsUrbbO%2B59imM%3D&Expires=1627009142",
+                        "has_video": false
+                    },
+                    "record_type": "work",
+                    "type": "Object",
+                    "is_on_display": true,
+                    "last_on_display_place": "ACMI: Gallery 1",
+                    "last_on_display_date": "2021-08-12",
+                    "is_context_indigenous": false,
+                    "material_description": "wood, glass, pigment",
+                    "unpublished": false,
+                    "first_production_date": null
+                },
+                {
+                    "id": 99596,
+                    "acmi_id": "179814",
+                    "title": "European hand painted panoramic magic lantern slides",
+                    "title_annotation": "",
+                    "slug": "european-panoramic-slide-112",
+                    "creator_credit": "Maker not documented",
+                    "credit_line": "<p>Courtesy Martyn Jolly</p>",
+                    "headline_credit": "",
+                    "thumbnail": {
+                        "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN179814_EuropeanPanoramicSlide_1_Front.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=SUT7cmlhHIhaNPVxvqBe9zNzGg8%3D&Expires=1627009142",
+                        "has_video": false
+                    },
+                    "record_type": "work",
+                    "type": "Object",
+                    "is_on_display": true,
+                    "last_on_display_place": "ACMI: Gallery 1",
+                    "last_on_display_date": "2021-08-12",
+                    "is_context_indigenous": false,
+                    "material_description": "wood, glass, pigment",
+                    "unpublished": false,
+                    "first_production_date": null
+                },
+                {
+                    "id": 99601,
+                    "acmi_id": "179867",
+                    "title": "European hand painted panoramic magic lantern slides",
+                    "title_annotation": "",
+                    "slug": "european-panoramic-slide-612",
+                    "creator_credit": "Maker not documented",
+                    "credit_line": "<p>Courtesy Martyn Jolly</p>",
+                    "headline_credit": "",
+                    "thumbnail": {
+                        "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN179867_EuropeanPanoramicSlide_6_Back.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=HEPODB8MaZHefpS9mXRK5zqzErs%3D&Expires=1627009142",
+                        "has_video": false
+                    },
+                    "record_type": "work",
+                    "type": "Object",
+                    "is_on_display": true,
+                    "last_on_display_place": "ACMI: Gallery 1",
+                    "last_on_display_date": "2021-08-12",
+                    "is_context_indigenous": false,
+                    "material_description": "wood, glass, pigment",
+                    "unpublished": false,
+                    "first_production_date": null
+                },
+                {
+                    "id": 99599,
+                    "acmi_id": "179865",
+                    "title": "European hand painted panoramic magic lantern slides",
+                    "title_annotation": "",
+                    "slug": "european-panoramic-slide-412",
+                    "creator_credit": "Maker not documented",
+                    "credit_line": "<p>Courtesy Martyn Jolly</p>",
+                    "headline_credit": "",
+                    "thumbnail": {
+                        "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN179865_EuropeanPanoramicSlide_4_Back.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=ZC5NKbG4uab19jAG7aGeTy3dxVw%3D&Expires=1627009142",
+                        "has_video": false
+                    },
+                    "record_type": "work",
+                    "type": "Object",
+                    "is_on_display": true,
+                    "last_on_display_place": "ACMI: Gallery 1",
+                    "last_on_display_date": "2021-08-12",
+                    "is_context_indigenous": false,
+                    "material_description": "wood, glass, pigment",
+                    "unpublished": false,
+                    "first_production_date": null
+                }
+            ],
+            "source": {
+                "name": "Vernon",
+                "slug": "vernon"
+            },
+            "source_identifier": "179815",
+            "production_places": [],
+            "production_dates": [],
+            "labels": [
+                39092
+            ]
+        },
+        {
+            "id": 99596,
+            "acmi_id": "179814",
+            "title": "European hand painted panoramic magic lantern slides",
+            "title_annotation": "",
+            "slug": "european-panoramic-slide-112",
+            "creator_credit": "Maker not documented",
+            "credit_line": "<p>Courtesy Martyn Jolly</p>",
+            "headline_credit": "",
+            "thumbnail": {
+                "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN179814_EuropeanPanoramicSlide_1_Front.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=SUT7cmlhHIhaNPVxvqBe9zNzGg8%3D&Expires=1627009142",
+                "has_video": false
+            },
+            "record_type": "work",
+            "type": "Object",
+            "is_on_display": true,
+            "last_on_display_place": "ACMI: Gallery 1",
+            "last_on_display_date": "2021-08-12",
+            "is_context_indigenous": false,
+            "material_description": "wood, glass, pigment",
+            "unpublished": false,
+            "first_production_date": null,
+            "brief_description": "",
+            "constellations_primary": [],
+            "constellations_other": [],
+            "recommendations": [],
+            "title_for_label": "<p>European hand painted panoramic slides</p>",
+            "creator_credit_for_label": "<p>Maker not documented</p>",
+            "headline_credit_for_label": "",
+            "description": "",
+            "description_for_label": [],
+            "credit_line_for_label": "<p>Courtesy Martyn Jolly</p>",
+            "details": [
+                {
+                    "label": "Curatorial section",
+                    "display_values": [
+                        "The Story of the Moving Image&nbsp;→ Moving Pictures&nbsp;→ 02. Play and Illusion&nbsp;→ MI-02-C01"
+                    ]
+                },
+                {
+                    "label": "Measurements",
+                    "display_values": [
+                        "88 x 350 x 6mm"
+                    ]
+                },
+                {
+                    "label": "Materials",
+                    "display_values": [
+                        "wood, glass, pigment"
+                    ]
+                }
+            ],
+            "stats": {
+                "tap_count": 0
+            },
+            "links": [],
+            "creators_primary": [
+                {
+                    "id": 1134461,
+                    "name": "Maker not documented",
+                    "creator_id": 71446,
+                    "role": "creator",
+                    "role_id": 968,
+                    "is_primary": true
+                }
+            ],
+            "creators_other": [],
+            "video_links": [],
+            "media_note": null,
+            "images": [
+                {
+                    "id": 12556,
+                    "image_file": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN179814_EuropeanPanoramicSlide_1_Front.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=45pTktqCKnpx73TYnGniFzXRAJ8%3D&Expires=1627009142",
+                    "image_file_thumbnail": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN179814_EuropeanPanoramicSlide_1_Front.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=SUT7cmlhHIhaNPVxvqBe9zNzGg8%3D&Expires=1627009142",
+                    "image_file_xs": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN179814_EuropeanPanoramicSlide_1_Front.jpg.480x480_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=5OKeyww5CM6au0o%2BCA6byAVk%2FxE%3D&Expires=1627009142",
+                    "image_file_s": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN179814_EuropeanPanoramicSlide_1_Front.jpg.960x960_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=Pvjf%2BALdt%2BCfrTN41v5nuujt%2BzU%3D&Expires=1627009142",
+                    "image_file_m": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN179814_EuropeanPanoramicSlide_1_Front.jpg.1920x1920_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=3aaqFjRUW4bWv%2BFR1%2FCsP60B9mk%3D&Expires=1627009142",
+                    "image_file_l": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN179814_EuropeanPanoramicSlide_1_Front.jpg.3840x3840_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=6NzPs0zC0wWJ2DnPrwm9iEXjnwo%3D&Expires=1627009142",
+                    "caption": "LN179814_EuropeanPanoramicSlide_01_Front",
+                    "credit_line": "Photograph by Egmont Contreras, ACMI",
+                    "alt_text": "",
+                    "width": 4652,
+                    "height": 1480,
+                    "access_level": "View anywhere"
+                },
+                {
+                    "id": 12557,
+                    "image_file": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN179814_EuropeanPanoramicSlide_1_Back.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=2ZPQDxVpnpXrk0PcQ8jYWmCafVo%3D&Expires=1627009142",
+                    "image_file_thumbnail": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN179814_EuropeanPanoramicSlide_1_Back.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=aaH6s97nAH1pEDeV8RaJkNhMQA0%3D&Expires=1627009142",
+                    "image_file_xs": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN179814_EuropeanPanoramicSlide_1_Back.jpg.480x480_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=mlu4lhr11eimsQ46W%2FjuHrhCYuM%3D&Expires=1627009142",
+                    "image_file_s": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN179814_EuropeanPanoramicSlide_1_Back.jpg.960x960_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=PjCQNjKlERqIjARZhhVfhIlKQMA%3D&Expires=1627009142",
+                    "image_file_m": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN179814_EuropeanPanoramicSlide_1_Back.jpg.1920x1920_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=L1lvAQ4KqYolTRXJPaBTDCp6Fxg%3D&Expires=1627009142",
+                    "image_file_l": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN179814_EuropeanPanoramicSlide_1_Back.jpg.3840x3840_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=IZNDZMmGncLBsVCTXKNMN0eYSJA%3D&Expires=1627009142",
+                    "caption": "LN179814_EuropeanPanoramicSlide_01_Back",
+                    "credit_line": "Photograph by Egmont Contreras, ACMI",
+                    "alt_text": "",
+                    "width": 4599,
+                    "height": 1470,
+                    "access_level": "View anywhere"
+                }
+            ],
+            "videos": [],
+            "holdings": [],
+            "part_of": null,
+            "parts": [],
+            "part_siblings": [],
+            "group": {
+                "id": 100564,
+                "acmi_id": "181485",
+                "title": "European hand-painted panoramic magic lantern slides",
+                "title_annotation": "",
+                "slug": "european-hand-painted-panoramic-magic-lantern-slides",
+                "creator_credit": "Maker not documented",
+                "credit_line": "<p>Courtesy Martyn Jolly</p>",
+                "headline_credit": "",
+                "thumbnail": {
+                    "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/GROUP_European_Panoramic_Slides_1to6.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=KL%2B5YxiYk3o9ZFGQzq%2Boi80yHEM%3D&Expires=1627009142",
+                    "has_video": false
+                },
+                "record_type": "group",
+                "type": "Object",
+                "is_on_display": true,
+                "last_on_display_place": "ACMI: Gallery 1",
+                "last_on_display_date": "2031-02-16",
+                "is_context_indigenous": false,
+                "material_description": "",
+                "unpublished": false,
+                "first_production_date": null
+            },
+            "group_works": [],
+            "group_siblings": [
+                {
+                    "id": 99600,
+                    "acmi_id": "179866",
+                    "title": "European hand painted panoramic magic lantern slides",
+                    "title_annotation": "",
+                    "slug": "european-panoramic-slide-512",
+                    "creator_credit": "Maker not documented",
+                    "credit_line": "<p>Courtesy Martyn Jolly</p>",
+                    "headline_credit": "",
+                    "thumbnail": {
+                        "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN179866_EuropeanPanoramicSlide_5_Back.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=qJwRz7nu2zdAm3kGB1AFOxtP7xs%3D&Expires=1627009142",
+                        "has_video": false
+                    },
+                    "record_type": "work",
+                    "type": "Object",
+                    "is_on_display": true,
+                    "last_on_display_place": "ACMI: Gallery 1",
+                    "last_on_display_date": "2021-08-12",
+                    "is_context_indigenous": false,
+                    "material_description": "wood, glass, pigment",
+                    "unpublished": false,
+                    "first_production_date": null
+                },
+                {
+                    "id": 99598,
+                    "acmi_id": "179864",
+                    "title": "European hand painted panoramic magic lantern slides",
+                    "title_annotation": "",
+                    "slug": "european-panoramic-slide-312",
+                    "creator_credit": "Maker not documented",
+                    "credit_line": "<p>Courtesy Martyn Jolly</p>",
+                    "headline_credit": "",
+                    "thumbnail": {
+                        "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN179864_EuropeanPanoramicSlide_3_Front.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=MHcBLNSkcxuDIgLsUrbbO%2B59imM%3D&Expires=1627009142",
+                        "has_video": false
+                    },
+                    "record_type": "work",
+                    "type": "Object",
+                    "is_on_display": true,
+                    "last_on_display_place": "ACMI: Gallery 1",
+                    "last_on_display_date": "2021-08-12",
+                    "is_context_indigenous": false,
+                    "material_description": "wood, glass, pigment",
+                    "unpublished": false,
+                    "first_production_date": null
+                },
+                {
+                    "id": 99597,
+                    "acmi_id": "179815",
+                    "title": "European hand painted panoramic magic lantern slides",
+                    "title_annotation": "",
+                    "slug": "european-panoramic-slide-212",
+                    "creator_credit": "Maker not documented",
+                    "credit_line": "<p>Courtesy Martyn Jolly</p>",
+                    "headline_credit": "",
+                    "thumbnail": {
+                        "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN179815_EuropeanPanoramicSlide_2_Back.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=klkT5XgMU%2BWmd8uPZbtwWthNT90%3D&Expires=1627009142",
+                        "has_video": false
+                    },
+                    "record_type": "work",
+                    "type": "Object",
+                    "is_on_display": true,
+                    "last_on_display_place": "ACMI: Gallery 1",
+                    "last_on_display_date": "2021-08-12",
+                    "is_context_indigenous": false,
+                    "material_description": "wood, glass, pigment",
+                    "unpublished": false,
+                    "first_production_date": null
+                },
+                {
+                    "id": 99601,
+                    "acmi_id": "179867",
+                    "title": "European hand painted panoramic magic lantern slides",
+                    "title_annotation": "",
+                    "slug": "european-panoramic-slide-612",
+                    "creator_credit": "Maker not documented",
+                    "credit_line": "<p>Courtesy Martyn Jolly</p>",
+                    "headline_credit": "",
+                    "thumbnail": {
+                        "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN179867_EuropeanPanoramicSlide_6_Back.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=HEPODB8MaZHefpS9mXRK5zqzErs%3D&Expires=1627009142",
+                        "has_video": false
+                    },
+                    "record_type": "work",
+                    "type": "Object",
+                    "is_on_display": true,
+                    "last_on_display_place": "ACMI: Gallery 1",
+                    "last_on_display_date": "2021-08-12",
+                    "is_context_indigenous": false,
+                    "material_description": "wood, glass, pigment",
+                    "unpublished": false,
+                    "first_production_date": null
+                },
+                {
+                    "id": 99599,
+                    "acmi_id": "179865",
+                    "title": "European hand painted panoramic magic lantern slides",
+                    "title_annotation": "",
+                    "slug": "european-panoramic-slide-412",
+                    "creator_credit": "Maker not documented",
+                    "credit_line": "<p>Courtesy Martyn Jolly</p>",
+                    "headline_credit": "",
+                    "thumbnail": {
+                        "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN179865_EuropeanPanoramicSlide_4_Back.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=ZC5NKbG4uab19jAG7aGeTy3dxVw%3D&Expires=1627009142",
+                        "has_video": false
+                    },
+                    "record_type": "work",
+                    "type": "Object",
+                    "is_on_display": true,
+                    "last_on_display_place": "ACMI: Gallery 1",
+                    "last_on_display_date": "2021-08-12",
+                    "is_context_indigenous": false,
+                    "material_description": "wood, glass, pigment",
+                    "unpublished": false,
+                    "first_production_date": null
+                }
+            ],
+            "source": {
+                "name": "Vernon",
+                "slug": "vernon"
+            },
+            "source_identifier": "179814",
+            "production_places": [],
+            "production_dates": [],
+            "labels": [
+                39091
+            ]
+        },
+        {
+            "id": 99595,
+            "acmi_id": "179812",
+            "title": "Jane Conquest magic lantern slides",
+            "title_annotation": "",
+            "slug": "jane-conquest-1717",
+            "creator_credit": "York & Son",
+            "credit_line": "<p>Courtesy Martyn Jolly</p>",
+            "headline_credit": "United Kingdom, c. 1891",
+            "thumbnail": {
+                "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN179812_MLS_JanesConquest_17_Front.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=%2BD4EiZ9NeNRIvqnPWKSjqPSvOy4%3D&Expires=1627009142",
+                "has_video": false
+            },
+            "record_type": "work",
+            "type": "Object",
+            "is_on_display": true,
+            "last_on_display_place": "ACMI",
+            "last_on_display_date": "2022-02-10",
+            "is_context_indigenous": false,
+            "material_description": "glass, ink, gum arabic tape",
+            "unpublished": true,
+            "first_production_date": null,
+            "brief_description": "<p>Creator, York &amp; Son, England. Man with lantern standing, woman and man kneeling by baby&#8217;s bassinet.Note* When used with a biunial lantern, slide 6/17 was used as an effects slide to hint the presence of angels.<br />\nNarrative for slide &#8220;As husband and wife embrace each other the child whom Jane had left at death&#8217;s door was seen to be quietly sleeping, smiling and rosy.A vision of the angel was shown once more behind the cot. The curtain fell as the narrator spoke the concluding words of the poem: &#8216;And this is the Christmas story that still the children tell Of the fearful sight that winter night and the ringing of the bell.&#8217;&#8221;</p>",
+            "constellations_primary": [],
+            "constellations_other": [],
+            "recommendations": [],
+            "title_for_label": "<p>Jane Conquest narrative slides</p>",
+            "creator_credit_for_label": "<p>York &amp; Son</p>",
+            "headline_credit_for_label": "<p>United Kingdom, c. 1891</p>",
+            "description": "<p>Creator, York &amp; Son, England. Man with lantern standing, woman and man kneeling by baby&#8217;s bassinet.Note* When used with a biunial lantern, slide 6/17 was used as an effects slide to hint the presence of angels.<br />\nNarrative for slide &#8220;As husband and wife embrace each other the child whom Jane had left at death&#8217;s door was seen to be quietly sleeping, smiling and rosy.A vision of the angel was shown once more behind the cot. The curtain fell as the narrator spoke the concluding words of the poem: &#8216;And this is the Christmas story that still the children tell Of the fearful sight that winter night and the ringing of the bell.&#8217;&#8221;</p>",
+            "description_for_label": [
+                "<p>Creator, York &amp; Son, England. Man with lantern standing, woman and man kneeling by baby&#8217;s bassinet.Note* When used with a biunial lantern, slide 6/17 was used as an effects slide to hint the presence of angels.<br />\nNarrative for slide &#8220;As husband and wife embrace each other the child whom Jane had left at death&#8217;s door was seen to be quietly sleeping, smiling and rosy.A vision of the angel was shown once more behind the cot. The curtain fell as the narrator spoke the concluding words of the poem: &#8216;And this is the Christmas story that still the children tell Of the fearful sight that winter night and the ringing of the bell.&#8217;&#8221;</p>"
+            ],
+            "credit_line_for_label": "<p>Courtesy Martyn Jolly</p>",
+            "details": [
+                {
+                    "label": "Curatorial section",
+                    "display_values": [
+                        "The Story of the Moving Image&nbsp;→ Moving Pictures&nbsp;→ 02. Play and Illusion&nbsp;→ MI-02-C01"
+                    ]
+                },
+                {
+                    "label": "Measurements",
+                    "display_values": [
+                        "82 x 82 x 4mm"
+                    ]
+                },
+                {
+                    "label": "Materials",
+                    "display_values": [
+                        "glass, ink, gum arabic tape"
+                    ]
+                }
+            ],
+            "stats": {
+                "tap_count": 0
+            },
+            "links": [],
+            "creators_primary": [
+                {
+                    "id": 1134460,
+                    "name": "York & Son",
+                    "creator_id": 70602,
+                    "role": "creator",
+                    "role_id": 968,
+                    "is_primary": true
+                }
+            ],
+            "creators_other": [],
+            "video_links": [],
+            "media_note": null,
+            "images": [
+                {
+                    "id": 12554,
+                    "image_file": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN179812_MLS_JanesConquest_17_Front.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=CpbwDd%2BQUlalXBrWv3tpoxzT0Zg%3D&Expires=1627009142",
+                    "image_file_thumbnail": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN179812_MLS_JanesConquest_17_Front.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=%2BD4EiZ9NeNRIvqnPWKSjqPSvOy4%3D&Expires=1627009142",
+                    "image_file_xs": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN179812_MLS_JanesConquest_17_Front.jpg.480x480_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=r2ut8UIHD8AXDHx4GLhfp0bnfzw%3D&Expires=1627009142",
+                    "image_file_s": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN179812_MLS_JanesConquest_17_Front.jpg.960x960_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=bZkO9olDtErfgBayt8Nz8HrS0nA%3D&Expires=1627009142",
+                    "image_file_m": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN179812_MLS_JanesConquest_17_Front.jpg.1920x1920_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=zlZNSqzvURlyBJQZg3u2WR5hx9k%3D&Expires=1627009142",
+                    "image_file_l": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN179812_MLS_JanesConquest_17_Front.jpg.3840x3840_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=zaOdl%2FDKABiJg9PB24YADubtLaY%3D&Expires=1627009142",
+                    "caption": "LN179812_MLS_JanesConquest_17_Front",
+                    "credit_line": "Photograph by Egmont Contreras, ACMI",
+                    "alt_text": "",
+                    "width": 3302,
+                    "height": 3298,
+                    "access_level": "View anywhere"
+                },
+                {
+                    "id": 12555,
+                    "image_file": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN179812_MLS_JanesConquest_17_Back.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=4s%2F4oAnEncptGG4DT1aiL4cuAn4%3D&Expires=1627009142",
+                    "image_file_thumbnail": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN179812_MLS_JanesConquest_17_Back.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=WK8LQTlNkg2M7EI4OHWL9TCDjZI%3D&Expires=1627009142",
+                    "image_file_xs": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN179812_MLS_JanesConquest_17_Back.jpg.480x480_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=mmsPcdfIO2CoScFs%2FbGLFBN8qLk%3D&Expires=1627009142",
+                    "image_file_s": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN179812_MLS_JanesConquest_17_Back.jpg.960x960_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=1HItt%2Bner5C3P7far6Ud%2FpOWo2E%3D&Expires=1627009142",
+                    "image_file_m": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN179812_MLS_JanesConquest_17_Back.jpg.1920x1920_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=RX7PT%2FpIbopeWQC6OWNlGacS16k%3D&Expires=1627009142",
+                    "image_file_l": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN179812_MLS_JanesConquest_17_Back.jpg.3840x3840_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=US6lIYQ5Us3GeU0GoxYQKeVdEWk%3D&Expires=1627009142",
+                    "caption": "LN179812_MLS_JanesConquest_17_Back",
+                    "credit_line": "Photograph by Egmont Contreras, ACMI",
+                    "alt_text": "",
+                    "width": 3225,
+                    "height": 3248,
+                    "access_level": "View anywhere"
+                }
+            ],
+            "videos": [],
+            "holdings": [],
+            "part_of": null,
+            "parts": [],
+            "part_siblings": [],
+            "group": null,
+            "group_works": [],
+            "group_siblings": [],
+            "source": {
+                "name": "Vernon",
+                "slug": "vernon"
+            },
+            "source_identifier": "179812",
+            "production_places": [
+                {
+                    "id": 10,
+                    "name": "United Kingdom",
+                    "slug": "united-kingdom"
+                }
+            ],
+            "production_dates": [
+                {
+                    "date": "c. 1891",
+                    "notes": "",
+                    "to_year": "c. 1891"
+                }
+            ],
+            "labels": [
+                39090
+            ]
+        },
+        {
+            "id": 99594,
+            "acmi_id": "179811",
+            "title": "Jane Conquest magic lantern slides",
+            "title_annotation": "",
+            "slug": "jane-conquest-1617",
+            "creator_credit": "York & Son",
+            "credit_line": "<p>Courtesy Martyn Jolly</p>",
+            "headline_credit": "United Kingdom, c. 1891",
+            "thumbnail": {
+                "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN179811_MLS_JanesConquest_16_Front.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=Pcyvss6%2FwA0eaThIDcHmDaKF0VE%3D&Expires=1627009142",
+                "has_video": false
+            },
+            "record_type": "work",
+            "type": "Object",
+            "is_on_display": true,
+            "last_on_display_place": "ACMI",
+            "last_on_display_date": "2022-02-10",
+            "is_context_indigenous": false,
+            "material_description": "glass, ink, gum arabic tape",
+            "unpublished": true,
+            "first_production_date": null,
+            "brief_description": "<p>Creator, York &amp; Son, England. Man with lantern, woman standing by baby&#8217;s bassinet and seated man.<br />\nNarrative for slide &#8220;He revived her and led her home, where she was astonished and overjoyed to find her husband<br />\n&#8216;sav´d in that fearful hour By his wife&#8217;s brave deed and trust in need in Heaven&#8217;s all gracious power&#8221;</p>",
+            "constellations_primary": [],
+            "constellations_other": [],
+            "recommendations": [],
+            "title_for_label": "<p>Jane Conquest narrative slides</p>",
+            "creator_credit_for_label": "<p>York &amp; Son</p>",
+            "headline_credit_for_label": "<p>United Kingdom, c. 1891</p>",
+            "description": "<p>Creator, York &amp; Son, England. Man with lantern, woman standing by baby&#8217;s bassinet and seated man.<br />\nNarrative for slide &#8220;He revived her and led her home, where she was astonished and overjoyed to find her husband<br />\n&#8216;sav´d in that fearful hour By his wife&#8217;s brave deed and trust in need in Heaven&#8217;s all gracious power&#8221;</p>",
+            "description_for_label": [
+                "<p>Creator, York &amp; Son, England. Man with lantern, woman standing by baby&#8217;s bassinet and seated man.<br />\nNarrative for slide &#8220;He revived her and led her home, where she was astonished and overjoyed to find her husband<br />\n&#8216;sav´d in that fearful hour By his wife&#8217;s brave deed and trust in need in Heaven&#8217;s all gracious power&#8221;</p>"
+            ],
+            "credit_line_for_label": "<p>Courtesy Martyn Jolly</p>",
+            "details": [
+                {
+                    "label": "Curatorial section",
+                    "display_values": [
+                        "The Story of the Moving Image&nbsp;→ Moving Pictures&nbsp;→ 02. Play and Illusion&nbsp;→ MI-02-C01"
+                    ]
+                },
+                {
+                    "label": "Measurements",
+                    "display_values": [
+                        "82 x 82 x 4mm"
+                    ]
+                },
+                {
+                    "label": "Materials",
+                    "display_values": [
+                        "glass, ink, gum arabic tape"
+                    ]
+                }
+            ],
+            "stats": {
+                "tap_count": 0
+            },
+            "links": [],
+            "creators_primary": [
+                {
+                    "id": 1134459,
+                    "name": "York & Son",
+                    "creator_id": 70602,
+                    "role": "creator",
+                    "role_id": 968,
+                    "is_primary": true
+                }
+            ],
+            "creators_other": [],
+            "video_links": [],
+            "media_note": null,
+            "images": [
+                {
+                    "id": 12552,
+                    "image_file": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN179811_MLS_JanesConquest_16_Front.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=jw6K5od3UGI1l%2Fhxs5K87Ifi3%2Fc%3D&Expires=1627009142",
+                    "image_file_thumbnail": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN179811_MLS_JanesConquest_16_Front.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=Pcyvss6%2FwA0eaThIDcHmDaKF0VE%3D&Expires=1627009142",
+                    "image_file_xs": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN179811_MLS_JanesConquest_16_Front.jpg.480x480_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=dzCcLEP1KgtUrcIoq1E8t%2F9e9L0%3D&Expires=1627009142",
+                    "image_file_s": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN179811_MLS_JanesConquest_16_Front.jpg.960x960_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=wtFq90u7GWqEiTGrEh4EVdnbUeE%3D&Expires=1627009142",
+                    "image_file_m": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN179811_MLS_JanesConquest_16_Front.jpg.1920x1920_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=5oI7NdOAYr7GMwluuUoPhU4Us5Y%3D&Expires=1627009142",
+                    "image_file_l": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN179811_MLS_JanesConquest_16_Front.jpg.3840x3840_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=KaTpczd6MDrjjkzj%2F6IXTfyP4gU%3D&Expires=1627009142",
+                    "caption": "LN179811_MLS_JanesConquest_16_Front",
+                    "credit_line": "Photograph by Egmont Contreras, ACMI",
+                    "alt_text": "",
+                    "width": 3284,
+                    "height": 3233,
+                    "access_level": "View anywhere"
+                },
+                {
+                    "id": 12553,
+                    "image_file": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN179811_MLS_JanesConquest_16_Back.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=uk%2F6EulBTgTR42XGbjPmcT2Slvg%3D&Expires=1627009142",
+                    "image_file_thumbnail": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN179811_MLS_JanesConquest_16_Back.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=Tyr3iy41MuManAvCiq1uoAWvNx0%3D&Expires=1627009142",
+                    "image_file_xs": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN179811_MLS_JanesConquest_16_Back.jpg.480x480_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=zM%2BEPdApFZmq2F21kYmGW3Ij0ew%3D&Expires=1627009142",
+                    "image_file_s": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN179811_MLS_JanesConquest_16_Back.jpg.960x960_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=VITbPT2ec8F0T9ACYKe6OMMN%2F3w%3D&Expires=1627009142",
+                    "image_file_m": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN179811_MLS_JanesConquest_16_Back.jpg.1920x1920_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=KM0Btq8nNYUYqtlAbWdz8JSrVkY%3D&Expires=1627009142",
+                    "image_file_l": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN179811_MLS_JanesConquest_16_Back.jpg.3840x3840_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=y1XL5H9WlBTmKMxU0ot1GsdHo7o%3D&Expires=1627009142",
+                    "caption": "LN179811_MLS_JanesConquest_16_Back",
+                    "credit_line": "Photograph by Egmont Contreras, ACMI",
+                    "alt_text": "",
+                    "width": 3404,
+                    "height": 3277,
+                    "access_level": "View anywhere"
+                }
+            ],
+            "videos": [],
+            "holdings": [],
+            "part_of": null,
+            "parts": [],
+            "part_siblings": [],
+            "group": {
+                "id": 100563,
+                "acmi_id": "181484",
+                "title": "Jane Conquest magic lantern slides",
+                "title_annotation": "",
+                "slug": "jane-conquest-magic-lantern-slides",
+                "creator_credit": "York & Son",
+                "credit_line": "",
+                "headline_credit": "United Kingdom, c. 1891",
+                "thumbnail": {
+                    "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN179798_MLS_JanesConquest_3_Front.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=1AZed5iLhmxR1A2IKr2mI7iCjKY%3D&Expires=1627009142",
+                    "has_video": false
+                },
+                "record_type": "group",
+                "type": "Film",
+                "is_on_display": true,
+                "last_on_display_place": "ACMI: Gallery 1",
+                "last_on_display_date": "2031-02-16",
+                "is_context_indigenous": false,
+                "material_description": "",
+                "unpublished": false,
+                "first_production_date": null
+            },
+            "group_works": [],
+            "group_siblings": [
+                {
+                    "id": 99581,
+                    "acmi_id": "179798",
+                    "title": "Jane Conquest magic lantern slides",
+                    "title_annotation": "",
+                    "slug": "jane-conquest-317",
+                    "creator_credit": "York & Son",
+                    "credit_line": "<p>Courtesy Martyn Jolly</p>",
+                    "headline_credit": "United Kingdom, c. 1891",
+                    "thumbnail": {
+                        "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN179798_MLS_JanesConquest_3_Front.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=1AZed5iLhmxR1A2IKr2mI7iCjKY%3D&Expires=1627009142",
+                        "has_video": false
+                    },
+                    "record_type": "work",
+                    "type": "Object",
+                    "is_on_display": true,
+                    "last_on_display_place": "ACMI: Gallery 1",
+                    "last_on_display_date": "2021-08-12",
+                    "is_context_indigenous": false,
+                    "material_description": "glass, ink, gum arabic tape",
+                    "unpublished": false,
+                    "first_production_date": null
+                },
+                {
+                    "id": 99580,
+                    "acmi_id": "179797",
+                    "title": "Jane Conquest magic lantern slides",
+                    "title_annotation": "",
+                    "slug": "jane-conquest-217",
+                    "creator_credit": "York & Son",
+                    "credit_line": "<p>Courtesy Martyn Jolly</p>",
+                    "headline_credit": "United Kingdom, c. 1891",
+                    "thumbnail": {
+                        "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN179797_MLS_JanesConquest_2_Front.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=%2FTBeUiyhxzZ63Kca6hS3rFrB2C0%3D&Expires=1627009142",
+                        "has_video": false
+                    },
+                    "record_type": "work",
+                    "type": "Object",
+                    "is_on_display": true,
+                    "last_on_display_place": "ACMI: Gallery 1",
+                    "last_on_display_date": "2021-08-12",
+                    "is_context_indigenous": false,
+                    "material_description": "glass, ink, gum arabic tape",
+                    "unpublished": false,
+                    "first_production_date": null
+                },
+                {
+                    "id": 99592,
+                    "acmi_id": "179809",
+                    "title": "Jane Conquest magic lantern slides",
+                    "title_annotation": "",
+                    "slug": "jane-conquest-1417",
+                    "creator_credit": "York & Son",
+                    "credit_line": "<p>Courtesy Martyn Jolly</p>",
+                    "headline_credit": "United Kingdom, c. 1891",
+                    "thumbnail": {
+                        "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN179809_MLS_JanesConquest_14_Front.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=EPxZL9x4HXwdh4j4ogf3etUcDro%3D&Expires=1627009142",
+                        "has_video": false
+                    },
+                    "record_type": "work",
+                    "type": "Object",
+                    "is_on_display": true,
+                    "last_on_display_place": "ACMI",
+                    "last_on_display_date": "2022-02-10",
+                    "is_context_indigenous": false,
+                    "material_description": "glass, ink, gum arabic tape",
+                    "unpublished": true,
+                    "first_production_date": null
+                },
+                {
+                    "id": 99584,
+                    "acmi_id": "179801",
+                    "title": "Jane Conquest magic lantern slides",
+                    "title_annotation": "",
+                    "slug": "jane-conquest-617",
+                    "creator_credit": "York & Son",
+                    "credit_line": "<p>Courtesy Martyn Jolly</p>",
+                    "headline_credit": "United Kingdom, c. 1891",
+                    "thumbnail": {
+                        "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN179801_MLS_JanesConquest_6_Front.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=A5eYwEaH7ZjarPJoFT7sE5DVXNQ%3D&Expires=1627009142",
+                        "has_video": false
+                    },
+                    "record_type": "work",
+                    "type": "Object",
+                    "is_on_display": true,
+                    "last_on_display_place": "ACMI: Gallery 1",
+                    "last_on_display_date": "2021-08-12",
+                    "is_context_indigenous": false,
+                    "material_description": "glass, ink, gum arabic tape",
+                    "unpublished": false,
+                    "first_production_date": null
+                },
+                {
+                    "id": 99585,
+                    "acmi_id": "179802",
+                    "title": "Jane Conquest magic lantern slides",
+                    "title_annotation": "",
+                    "slug": "jane-conquest-717",
+                    "creator_credit": "York & Son",
+                    "credit_line": "<p>Courtesy Martyn Jolly</p>",
+                    "headline_credit": "United Kingdom, c. 1891",
+                    "thumbnail": {
+                        "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN179802_MLS_JanesConquest_7_Front.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=8czvEMXJDNacAVq1mBOcdwe6oWI%3D&Expires=1627009142",
+                        "has_video": false
+                    },
+                    "record_type": "work",
+                    "type": "Object",
+                    "is_on_display": true,
+                    "last_on_display_place": "ACMI: Gallery 1",
+                    "last_on_display_date": "2021-08-12",
+                    "is_context_indigenous": false,
+                    "material_description": "glass, ink, gum arabic tape",
+                    "unpublished": false,
+                    "first_production_date": null
+                },
+                {
+                    "id": 99590,
+                    "acmi_id": "179807",
+                    "title": "Jane Conquest magic lantern slides",
+                    "title_annotation": "",
+                    "slug": "jane-conquest-1217",
+                    "creator_credit": "York & Son",
+                    "credit_line": "<p>Courtesy Martyn Jolly</p>",
+                    "headline_credit": "United Kingdom, c. 1891",
+                    "thumbnail": {
+                        "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN179807_MLS_JanesConquest_12_Front.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=X3lG1YztPAGkkogKpgkSeheQ7FQ%3D&Expires=1627009142",
+                        "has_video": false
+                    },
+                    "record_type": "work",
+                    "type": "Object",
+                    "is_on_display": true,
+                    "last_on_display_place": "ACMI",
+                    "last_on_display_date": "2022-02-10",
+                    "is_context_indigenous": false,
+                    "material_description": "glass, ink, gum arabic tape",
+                    "unpublished": true,
+                    "first_production_date": null
+                },
+                {
+                    "id": 99587,
+                    "acmi_id": "179804",
+                    "title": "Jane Conquest magic lantern slides",
+                    "title_annotation": "",
+                    "slug": "jane-conquest-917",
+                    "creator_credit": "York & Son",
+                    "credit_line": "<p>Courtesy Martyn Jolly</p>",
+                    "headline_credit": "United Kingdom, c. 1891",
+                    "thumbnail": {
+                        "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN179804_MLS_JanesConquest_9_Front.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=C%2FdgKWuMnGfFG9L4%2FJQvYTEJSHg%3D&Expires=1627009142",
+                        "has_video": false
+                    },
+                    "record_type": "work",
+                    "type": "Object",
+                    "is_on_display": true,
+                    "last_on_display_place": "ACMI: Gallery 1",
+                    "last_on_display_date": "2021-08-12",
+                    "is_context_indigenous": false,
+                    "material_description": "glass, ink, gum arabic tape",
+                    "unpublished": false,
+                    "first_production_date": null
+                },
+                {
+                    "id": 99586,
+                    "acmi_id": "179803",
+                    "title": "Jane Conquest magic lantern slides",
+                    "title_annotation": "",
+                    "slug": "jane-conquest-817",
+                    "creator_credit": "York & Son",
+                    "credit_line": "<p>Courtesy Martyn Jolly</p>",
+                    "headline_credit": "United Kingdom, c. 1891",
+                    "thumbnail": {
+                        "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN179803_MLS_JanesConquest_8_Front.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=n%2B4ls2hlPtDsYUtZFAqBY6k4sqk%3D&Expires=1627009142",
+                        "has_video": false
+                    },
+                    "record_type": "work",
+                    "type": "Object",
+                    "is_on_display": true,
+                    "last_on_display_place": "ACMI: Gallery 1",
+                    "last_on_display_date": "2021-08-12",
+                    "is_context_indigenous": false,
+                    "material_description": "glass, ink, gum arabic tape",
+                    "unpublished": false,
+                    "first_production_date": null
+                },
+                {
+                    "id": 99583,
+                    "acmi_id": "179800",
+                    "title": "Jane Conquest magic lantern slides",
+                    "title_annotation": "",
+                    "slug": "jane-conquest-517",
+                    "creator_credit": "York & Son",
+                    "credit_line": "<p>Courtesy Martyn Jolly</p>",
+                    "headline_credit": "United Kingdom, c. 1891",
+                    "thumbnail": {
+                        "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN179800_MLS_JanesConquest_5_Front.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=y9Ex1YF9ZJKS2fimLs3nDtphzTY%3D&Expires=1627009142",
+                        "has_video": false
+                    },
+                    "record_type": "work",
+                    "type": "Object",
+                    "is_on_display": true,
+                    "last_on_display_place": "ACMI: Gallery 1",
+                    "last_on_display_date": "2021-08-12",
+                    "is_context_indigenous": false,
+                    "material_description": "glass, ink, gum arabic tape",
+                    "unpublished": false,
+                    "first_production_date": null
+                },
+                {
+                    "id": 99582,
+                    "acmi_id": "179799",
+                    "title": "Jane Conquest magic lantern slides",
+                    "title_annotation": "",
+                    "slug": "jane-conquest-417",
+                    "creator_credit": "York & Son",
+                    "credit_line": "<p>Courtesy Martyn Jolly</p>",
+                    "headline_credit": "United Kingdom, c. 1891",
+                    "thumbnail": {
+                        "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN179799_MLS_JanesConquest_4_Front.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=Jd1DaCv5oErqBZ0WVQ8%2Bi5CeFTg%3D&Expires=1627009142",
+                        "has_video": false
+                    },
+                    "record_type": "work",
+                    "type": "Object",
+                    "is_on_display": true,
+                    "last_on_display_place": "ACMI: Gallery 1",
+                    "last_on_display_date": "2021-08-12",
+                    "is_context_indigenous": false,
+                    "material_description": "glass, ink, gum arabic tape",
+                    "unpublished": false,
+                    "first_production_date": null
+                }
+            ],
+            "source": {
+                "name": "Vernon",
+                "slug": "vernon"
+            },
+            "source_identifier": "179811",
+            "production_places": [
+                {
+                    "id": 10,
+                    "name": "United Kingdom",
+                    "slug": "united-kingdom"
+                }
+            ],
+            "production_dates": [
+                {
+                    "date": "c. 1891",
+                    "notes": "",
+                    "to_year": "c. 1891"
+                }
+            ],
+            "labels": [
+                39089
+            ]
+        },
+        {
+            "id": 99593,
+            "acmi_id": "179810",
+            "title": "Jane Conquest magic lantern slides",
+            "title_annotation": "",
+            "slug": "jane-conquest-1517",
+            "creator_credit": "York & Son",
+            "credit_line": "<p>Courtesy Martyn Jolly</p>",
+            "headline_credit": "United Kingdom, c. 1891",
+            "thumbnail": {
+                "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN179810_MLS_JanesConquest_15_Front.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=%2BXlu3xrHKaAjQShpfxeoxTzuxvE%3D&Expires=1627009142",
+                "has_video": false
+            },
+            "record_type": "work",
+            "type": "Object",
+            "is_on_display": true,
+            "last_on_display_place": "ACMI",
+            "last_on_display_date": "2022-02-10",
+            "is_context_indigenous": false,
+            "material_description": "glass, ink, gum arabic tape",
+            "unpublished": true,
+            "first_production_date": null,
+            "brief_description": "<p>Creator, York &amp; Son, England. Man with lantern standing by collapsed woman.<br />\nNarrative for slide &#8220;The scene faded and its place was taken by the belfry interior dominated by the large figure of the sexton, his face buried in false whiskers, bending over Jane&#8217;s unconscious form.&#8221;</p>",
+            "constellations_primary": [],
+            "constellations_other": [],
+            "recommendations": [],
+            "title_for_label": "<p>Jane Conquest narrative slides</p>",
+            "creator_credit_for_label": "<p>York &amp; Son</p>",
+            "headline_credit_for_label": "<p>United Kingdom, c. 1891</p>",
+            "description": "<p>Creator, York &amp; Son, England. Man with lantern standing by collapsed woman.<br />\nNarrative for slide &#8220;The scene faded and its place was taken by the belfry interior dominated by the large figure of the sexton, his face buried in false whiskers, bending over Jane&#8217;s unconscious form.&#8221;</p>",
+            "description_for_label": [
+                "<p>Creator, York &amp; Son, England. Man with lantern standing by collapsed woman.<br />\nNarrative for slide &#8220;The scene faded and its place was taken by the belfry interior dominated by the large figure of the sexton, his face buried in false whiskers, bending over Jane&#8217;s unconscious form.&#8221;</p>"
+            ],
+            "credit_line_for_label": "<p>Courtesy Martyn Jolly</p>",
+            "details": [
+                {
+                    "label": "Curatorial section",
+                    "display_values": [
+                        "The Story of the Moving Image&nbsp;→ Moving Pictures&nbsp;→ 02. Play and Illusion&nbsp;→ MI-02-C01"
+                    ]
+                },
+                {
+                    "label": "Measurements",
+                    "display_values": [
+                        "82 x 82 x 4mm"
+                    ]
+                },
+                {
+                    "label": "Materials",
+                    "display_values": [
+                        "glass, ink, gum arabic tape"
+                    ]
+                }
+            ],
+            "stats": {
+                "tap_count": 0
+            },
+            "links": [],
+            "creators_primary": [
+                {
+                    "id": 1134458,
+                    "name": "York & Son",
+                    "creator_id": 70602,
+                    "role": "creator",
+                    "role_id": 968,
+                    "is_primary": true
+                }
+            ],
+            "creators_other": [],
+            "video_links": [],
+            "media_note": null,
+            "images": [
+                {
+                    "id": 12549,
+                    "image_file": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN179810_MLS_JanesConquest_15_Front.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=5WuTiFbVMzvMpj2uEIPrFxH5ayg%3D&Expires=1627009142",
+                    "image_file_thumbnail": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN179810_MLS_JanesConquest_15_Front.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=%2BXlu3xrHKaAjQShpfxeoxTzuxvE%3D&Expires=1627009142",
+                    "image_file_xs": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN179810_MLS_JanesConquest_15_Front.jpg.480x480_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=OU3FOtW7aIZTCcAWoeAzgiA6VBE%3D&Expires=1627009142",
+                    "image_file_s": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN179810_MLS_JanesConquest_15_Front.jpg.960x960_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=IrnaDAOxbWwhpYYzVUqY99zWo%2FM%3D&Expires=1627009142",
+                    "image_file_m": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN179810_MLS_JanesConquest_15_Front.jpg.1920x1920_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=juP2rNbo1iOKG2xFG1fC6dljnnM%3D&Expires=1627009142",
+                    "image_file_l": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN179810_MLS_JanesConquest_15_Front.jpg.3840x3840_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=Neuv%2B1YBuWYL%2B4Fn%2BsQ1H3Ka8QY%3D&Expires=1627009142",
+                    "caption": "LN179810_MLS_JanesConquest_15_Front",
+                    "credit_line": "Photograph by Egmont Contreras, ACMI",
+                    "alt_text": "",
+                    "width": 3319,
+                    "height": 3294,
+                    "access_level": "View anywhere"
+                },
+                {
+                    "id": 12551,
+                    "image_file": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN179810_MLS_JanesConquest_15_Back.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=X2S8UygzhEVozuYopQUsW81kLG0%3D&Expires=1627009142",
+                    "image_file_thumbnail": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN179810_MLS_JanesConquest_15_Back.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=H88%2BXZrVXXaa7oOTNg6EEXKlHAw%3D&Expires=1627009142",
+                    "image_file_xs": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN179810_MLS_JanesConquest_15_Back.jpg.480x480_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=XUCqoi7WKemtWIFjxC7%2FxLwCfek%3D&Expires=1627009142",
+                    "image_file_s": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN179810_MLS_JanesConquest_15_Back.jpg.960x960_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=vIyjgROi3U2bB%2BXaVdBiWipO5SY%3D&Expires=1627009142",
+                    "image_file_m": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN179810_MLS_JanesConquest_15_Back.jpg.1920x1920_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=5joqO5Y4EuJ6sA%2FRGIL44CHH3WI%3D&Expires=1627009142",
+                    "image_file_l": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN179810_MLS_JanesConquest_15_Back.jpg.3840x3840_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=UAh1EeBr7Z7wlLc1zHP1De4ahuI%3D&Expires=1627009142",
+                    "caption": "LN179810_MLS_JanesConquest_15_Back",
+                    "credit_line": "Photograph by Egmont Contreras, ACMI",
+                    "alt_text": "",
+                    "width": 3317,
+                    "height": 3288,
+                    "access_level": "View anywhere"
+                }
+            ],
+            "videos": [],
+            "holdings": [],
+            "part_of": null,
+            "parts": [],
+            "part_siblings": [],
+            "group": null,
+            "group_works": [],
+            "group_siblings": [],
+            "source": {
+                "name": "Vernon",
+                "slug": "vernon"
+            },
+            "source_identifier": "179810",
+            "production_places": [
+                {
+                    "id": 10,
+                    "name": "United Kingdom",
+                    "slug": "united-kingdom"
+                }
+            ],
+            "production_dates": [
+                {
+                    "date": "c. 1891",
+                    "notes": "",
+                    "to_year": "c. 1891"
+                }
+            ],
+            "labels": [
+                39088
+            ]
+        },
+        {
+            "id": 99592,
+            "acmi_id": "179809",
+            "title": "Jane Conquest magic lantern slides",
+            "title_annotation": "",
+            "slug": "jane-conquest-1417",
+            "creator_credit": "York & Son",
+            "credit_line": "<p>Courtesy Martyn Jolly</p>",
+            "headline_credit": "United Kingdom, c. 1891",
+            "thumbnail": {
+                "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN179809_MLS_JanesConquest_14_Front.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=EPxZL9x4HXwdh4j4ogf3etUcDro%3D&Expires=1627009142",
+                "has_video": false
+            },
+            "record_type": "work",
+            "type": "Object",
+            "is_on_display": true,
+            "last_on_display_place": "ACMI",
+            "last_on_display_date": "2022-02-10",
+            "is_context_indigenous": false,
+            "material_description": "glass, ink, gum arabic tape",
+            "unpublished": true,
+            "first_production_date": null,
+            "brief_description": "<p>Creator, York &amp; Son, England. Harry Conquest with his head in his hands by baby&#8217;s bassinet.<br />\nNarrative for slide &#8220;&#8230;&#8230;.and poor Harry sank fainting beside the cold hearth and his dying son.&#8221;</p>",
+            "constellations_primary": [],
+            "constellations_other": [],
+            "recommendations": [],
+            "title_for_label": "<p>Jane Conquest narrative slides</p>",
+            "creator_credit_for_label": "<p>York &amp; Son</p>",
+            "headline_credit_for_label": "<p>United Kingdom, c. 1891</p>",
+            "description": "<p>Creator, York &amp; Son, England. Harry Conquest with his head in his hands by baby&#8217;s bassinet.<br />\nNarrative for slide &#8220;&#8230;&#8230;.and poor Harry sank fainting beside the cold hearth and his dying son.&#8221;</p>",
+            "description_for_label": [
+                "<p>Creator, York &amp; Son, England. Harry Conquest with his head in his hands by baby&#8217;s bassinet.<br />\nNarrative for slide &#8220;&#8230;&#8230;.and poor Harry sank fainting beside the cold hearth and his dying son.&#8221;</p>"
+            ],
+            "credit_line_for_label": "<p>Courtesy Martyn Jolly</p>",
+            "details": [
+                {
+                    "label": "Curatorial section",
+                    "display_values": [
+                        "The Story of the Moving Image&nbsp;→ Moving Pictures&nbsp;→ 02. Play and Illusion&nbsp;→ MI-02-C01"
+                    ]
+                },
+                {
+                    "label": "Measurements",
+                    "display_values": [
+                        "82 x 82 x 4mm"
+                    ]
+                },
+                {
+                    "label": "Materials",
+                    "display_values": [
+                        "glass, ink, gum arabic tape"
+                    ]
+                }
+            ],
+            "stats": {
+                "tap_count": 0
+            },
+            "links": [],
+            "creators_primary": [
+                {
+                    "id": 1134457,
+                    "name": "York & Son",
+                    "creator_id": 70602,
+                    "role": "creator",
+                    "role_id": 968,
+                    "is_primary": true
+                }
+            ],
+            "creators_other": [],
+            "video_links": [],
+            "media_note": null,
+            "images": [
+                {
+                    "id": 12548,
+                    "image_file": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN179809_MLS_JanesConquest_14_Front.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=Ak064288xLGScuedCBpLPrwmvzI%3D&Expires=1627009142",
+                    "image_file_thumbnail": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN179809_MLS_JanesConquest_14_Front.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=EPxZL9x4HXwdh4j4ogf3etUcDro%3D&Expires=1627009142",
+                    "image_file_xs": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN179809_MLS_JanesConquest_14_Front.jpg.480x480_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=NnnzAIlqjoUXT1dvc0MHZ4%2FRvJ8%3D&Expires=1627009142",
+                    "image_file_s": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN179809_MLS_JanesConquest_14_Front.jpg.960x960_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=ZP6PsElBPQQuXlueFvyyxBeJVVQ%3D&Expires=1627009142",
+                    "image_file_m": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN179809_MLS_JanesConquest_14_Front.jpg.1920x1920_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=gGcX2dNkrLNrL6KwppG58PD79bQ%3D&Expires=1627009142",
+                    "image_file_l": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN179809_MLS_JanesConquest_14_Front.jpg.3840x3840_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=rm%2FYPsEofWelNxvb7zUMVGdEKyQ%3D&Expires=1627009142",
+                    "caption": "LN179809_MLS_JanesConquest_14_Front",
+                    "credit_line": "Photograph by Egmont Contreras, ACMI",
+                    "alt_text": "",
+                    "width": 3195,
+                    "height": 3206,
+                    "access_level": "View anywhere"
+                },
+                {
+                    "id": 12550,
+                    "image_file": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN179809_MLS_JanesConquest_14_Back.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=oAk287VtsjMt6XDWpDp9sgFKfE4%3D&Expires=1627009142",
+                    "image_file_thumbnail": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN179809_MLS_JanesConquest_14_Back.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=4x8HKGDNIndrlmG7w6UlDJsX%2Br0%3D&Expires=1627009142",
+                    "image_file_xs": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN179809_MLS_JanesConquest_14_Back.jpg.480x480_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=eZ%2F0bdI2QnuspzhvwMCyL1EoK38%3D&Expires=1627009142",
+                    "image_file_s": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN179809_MLS_JanesConquest_14_Back.jpg.960x960_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=mEz4OtsT%2F5%2Bj0d5O8fzKLP2L1EQ%3D&Expires=1627009142",
+                    "image_file_m": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN179809_MLS_JanesConquest_14_Back.jpg.1920x1920_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=MGUhycLJesNKvyB2Ug0AgwqC2aU%3D&Expires=1627009142",
+                    "image_file_l": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN179809_MLS_JanesConquest_14_Back.jpg.3840x3840_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=8fohkQRFrlZILAYo59yk5QBJFmI%3D&Expires=1627009142",
+                    "caption": "LN179809_MLS_JanesConquest_14_Back",
+                    "credit_line": "Photograph by Egmont Contreras, ACMI",
+                    "alt_text": "",
+                    "width": 3242,
+                    "height": 3185,
+                    "access_level": "View anywhere"
+                }
+            ],
+            "videos": [],
+            "holdings": [],
+            "part_of": null,
+            "parts": [],
+            "part_siblings": [],
+            "group": {
+                "id": 100563,
+                "acmi_id": "181484",
+                "title": "Jane Conquest magic lantern slides",
+                "title_annotation": "",
+                "slug": "jane-conquest-magic-lantern-slides",
+                "creator_credit": "York & Son",
+                "credit_line": "",
+                "headline_credit": "United Kingdom, c. 1891",
+                "thumbnail": {
+                    "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN179798_MLS_JanesConquest_3_Front.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=1AZed5iLhmxR1A2IKr2mI7iCjKY%3D&Expires=1627009142",
+                    "has_video": false
+                },
+                "record_type": "group",
+                "type": "Film",
+                "is_on_display": true,
+                "last_on_display_place": "ACMI: Gallery 1",
+                "last_on_display_date": "2031-02-16",
+                "is_context_indigenous": false,
+                "material_description": "",
+                "unpublished": false,
+                "first_production_date": null
+            },
+            "group_works": [],
+            "group_siblings": [
+                {
+                    "id": 99581,
+                    "acmi_id": "179798",
+                    "title": "Jane Conquest magic lantern slides",
+                    "title_annotation": "",
+                    "slug": "jane-conquest-317",
+                    "creator_credit": "York & Son",
+                    "credit_line": "<p>Courtesy Martyn Jolly</p>",
+                    "headline_credit": "United Kingdom, c. 1891",
+                    "thumbnail": {
+                        "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN179798_MLS_JanesConquest_3_Front.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=1AZed5iLhmxR1A2IKr2mI7iCjKY%3D&Expires=1627009142",
+                        "has_video": false
+                    },
+                    "record_type": "work",
+                    "type": "Object",
+                    "is_on_display": true,
+                    "last_on_display_place": "ACMI: Gallery 1",
+                    "last_on_display_date": "2021-08-12",
+                    "is_context_indigenous": false,
+                    "material_description": "glass, ink, gum arabic tape",
+                    "unpublished": false,
+                    "first_production_date": null
+                },
+                {
+                    "id": 99580,
+                    "acmi_id": "179797",
+                    "title": "Jane Conquest magic lantern slides",
+                    "title_annotation": "",
+                    "slug": "jane-conquest-217",
+                    "creator_credit": "York & Son",
+                    "credit_line": "<p>Courtesy Martyn Jolly</p>",
+                    "headline_credit": "United Kingdom, c. 1891",
+                    "thumbnail": {
+                        "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN179797_MLS_JanesConquest_2_Front.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=%2FTBeUiyhxzZ63Kca6hS3rFrB2C0%3D&Expires=1627009142",
+                        "has_video": false
+                    },
+                    "record_type": "work",
+                    "type": "Object",
+                    "is_on_display": true,
+                    "last_on_display_place": "ACMI: Gallery 1",
+                    "last_on_display_date": "2021-08-12",
+                    "is_context_indigenous": false,
+                    "material_description": "glass, ink, gum arabic tape",
+                    "unpublished": false,
+                    "first_production_date": null
+                },
+                {
+                    "id": 99584,
+                    "acmi_id": "179801",
+                    "title": "Jane Conquest magic lantern slides",
+                    "title_annotation": "",
+                    "slug": "jane-conquest-617",
+                    "creator_credit": "York & Son",
+                    "credit_line": "<p>Courtesy Martyn Jolly</p>",
+                    "headline_credit": "United Kingdom, c. 1891",
+                    "thumbnail": {
+                        "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN179801_MLS_JanesConquest_6_Front.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=A5eYwEaH7ZjarPJoFT7sE5DVXNQ%3D&Expires=1627009142",
+                        "has_video": false
+                    },
+                    "record_type": "work",
+                    "type": "Object",
+                    "is_on_display": true,
+                    "last_on_display_place": "ACMI: Gallery 1",
+                    "last_on_display_date": "2021-08-12",
+                    "is_context_indigenous": false,
+                    "material_description": "glass, ink, gum arabic tape",
+                    "unpublished": false,
+                    "first_production_date": null
+                },
+                {
+                    "id": 99585,
+                    "acmi_id": "179802",
+                    "title": "Jane Conquest magic lantern slides",
+                    "title_annotation": "",
+                    "slug": "jane-conquest-717",
+                    "creator_credit": "York & Son",
+                    "credit_line": "<p>Courtesy Martyn Jolly</p>",
+                    "headline_credit": "United Kingdom, c. 1891",
+                    "thumbnail": {
+                        "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN179802_MLS_JanesConquest_7_Front.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=8czvEMXJDNacAVq1mBOcdwe6oWI%3D&Expires=1627009142",
+                        "has_video": false
+                    },
+                    "record_type": "work",
+                    "type": "Object",
+                    "is_on_display": true,
+                    "last_on_display_place": "ACMI: Gallery 1",
+                    "last_on_display_date": "2021-08-12",
+                    "is_context_indigenous": false,
+                    "material_description": "glass, ink, gum arabic tape",
+                    "unpublished": false,
+                    "first_production_date": null
+                },
+                {
+                    "id": 99594,
+                    "acmi_id": "179811",
+                    "title": "Jane Conquest magic lantern slides",
+                    "title_annotation": "",
+                    "slug": "jane-conquest-1617",
+                    "creator_credit": "York & Son",
+                    "credit_line": "<p>Courtesy Martyn Jolly</p>",
+                    "headline_credit": "United Kingdom, c. 1891",
+                    "thumbnail": {
+                        "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN179811_MLS_JanesConquest_16_Front.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=Pcyvss6%2FwA0eaThIDcHmDaKF0VE%3D&Expires=1627009142",
+                        "has_video": false
+                    },
+                    "record_type": "work",
+                    "type": "Object",
+                    "is_on_display": true,
+                    "last_on_display_place": "ACMI",
+                    "last_on_display_date": "2022-02-10",
+                    "is_context_indigenous": false,
+                    "material_description": "glass, ink, gum arabic tape",
+                    "unpublished": true,
+                    "first_production_date": null
+                },
+                {
+                    "id": 99590,
+                    "acmi_id": "179807",
+                    "title": "Jane Conquest magic lantern slides",
+                    "title_annotation": "",
+                    "slug": "jane-conquest-1217",
+                    "creator_credit": "York & Son",
+                    "credit_line": "<p>Courtesy Martyn Jolly</p>",
+                    "headline_credit": "United Kingdom, c. 1891",
+                    "thumbnail": {
+                        "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN179807_MLS_JanesConquest_12_Front.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=X3lG1YztPAGkkogKpgkSeheQ7FQ%3D&Expires=1627009142",
+                        "has_video": false
+                    },
+                    "record_type": "work",
+                    "type": "Object",
+                    "is_on_display": true,
+                    "last_on_display_place": "ACMI",
+                    "last_on_display_date": "2022-02-10",
+                    "is_context_indigenous": false,
+                    "material_description": "glass, ink, gum arabic tape",
+                    "unpublished": true,
+                    "first_production_date": null
+                },
+                {
+                    "id": 99587,
+                    "acmi_id": "179804",
+                    "title": "Jane Conquest magic lantern slides",
+                    "title_annotation": "",
+                    "slug": "jane-conquest-917",
+                    "creator_credit": "York & Son",
+                    "credit_line": "<p>Courtesy Martyn Jolly</p>",
+                    "headline_credit": "United Kingdom, c. 1891",
+                    "thumbnail": {
+                        "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN179804_MLS_JanesConquest_9_Front.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=C%2FdgKWuMnGfFG9L4%2FJQvYTEJSHg%3D&Expires=1627009142",
+                        "has_video": false
+                    },
+                    "record_type": "work",
+                    "type": "Object",
+                    "is_on_display": true,
+                    "last_on_display_place": "ACMI: Gallery 1",
+                    "last_on_display_date": "2021-08-12",
+                    "is_context_indigenous": false,
+                    "material_description": "glass, ink, gum arabic tape",
+                    "unpublished": false,
+                    "first_production_date": null
+                },
+                {
+                    "id": 99586,
+                    "acmi_id": "179803",
+                    "title": "Jane Conquest magic lantern slides",
+                    "title_annotation": "",
+                    "slug": "jane-conquest-817",
+                    "creator_credit": "York & Son",
+                    "credit_line": "<p>Courtesy Martyn Jolly</p>",
+                    "headline_credit": "United Kingdom, c. 1891",
+                    "thumbnail": {
+                        "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN179803_MLS_JanesConquest_8_Front.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=n%2B4ls2hlPtDsYUtZFAqBY6k4sqk%3D&Expires=1627009142",
+                        "has_video": false
+                    },
+                    "record_type": "work",
+                    "type": "Object",
+                    "is_on_display": true,
+                    "last_on_display_place": "ACMI: Gallery 1",
+                    "last_on_display_date": "2021-08-12",
+                    "is_context_indigenous": false,
+                    "material_description": "glass, ink, gum arabic tape",
+                    "unpublished": false,
+                    "first_production_date": null
+                },
+                {
+                    "id": 99583,
+                    "acmi_id": "179800",
+                    "title": "Jane Conquest magic lantern slides",
+                    "title_annotation": "",
+                    "slug": "jane-conquest-517",
+                    "creator_credit": "York & Son",
+                    "credit_line": "<p>Courtesy Martyn Jolly</p>",
+                    "headline_credit": "United Kingdom, c. 1891",
+                    "thumbnail": {
+                        "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN179800_MLS_JanesConquest_5_Front.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=y9Ex1YF9ZJKS2fimLs3nDtphzTY%3D&Expires=1627009142",
+                        "has_video": false
+                    },
+                    "record_type": "work",
+                    "type": "Object",
+                    "is_on_display": true,
+                    "last_on_display_place": "ACMI: Gallery 1",
+                    "last_on_display_date": "2021-08-12",
+                    "is_context_indigenous": false,
+                    "material_description": "glass, ink, gum arabic tape",
+                    "unpublished": false,
+                    "first_production_date": null
+                },
+                {
+                    "id": 99582,
+                    "acmi_id": "179799",
+                    "title": "Jane Conquest magic lantern slides",
+                    "title_annotation": "",
+                    "slug": "jane-conquest-417",
+                    "creator_credit": "York & Son",
+                    "credit_line": "<p>Courtesy Martyn Jolly</p>",
+                    "headline_credit": "United Kingdom, c. 1891",
+                    "thumbnail": {
+                        "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN179799_MLS_JanesConquest_4_Front.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=Jd1DaCv5oErqBZ0WVQ8%2Bi5CeFTg%3D&Expires=1627009142",
+                        "has_video": false
+                    },
+                    "record_type": "work",
+                    "type": "Object",
+                    "is_on_display": true,
+                    "last_on_display_place": "ACMI: Gallery 1",
+                    "last_on_display_date": "2021-08-12",
+                    "is_context_indigenous": false,
+                    "material_description": "glass, ink, gum arabic tape",
+                    "unpublished": false,
+                    "first_production_date": null
+                }
+            ],
+            "source": {
+                "name": "Vernon",
+                "slug": "vernon"
+            },
+            "source_identifier": "179809",
+            "production_places": [
+                {
+                    "id": 10,
+                    "name": "United Kingdom",
+                    "slug": "united-kingdom"
+                }
+            ],
+            "production_dates": [
+                {
+                    "date": "c. 1891",
+                    "notes": "",
+                    "to_year": "c. 1891"
+                }
+            ],
+            "labels": [
+                39087
+            ]
+        },
+        {
+            "id": 99591,
+            "acmi_id": "179808",
+            "title": "Jane Conquest magic lantern slides",
+            "title_annotation": "",
+            "slug": "jane-conquest-1317",
+            "creator_credit": "York & Son",
+            "credit_line": "<p>Courtesy Martyn Jolly</p>",
+            "headline_credit": "United Kingdom, c. 1891",
+            "thumbnail": {
+                "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN179808_MLS_JanesConquest_13_Front.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=ClEV0xWXDYb5D1SrHlp1Xb%2BYGCw%3D&Expires=1627009142",
+                "has_video": false
+            },
+            "record_type": "work",
+            "type": "Object",
+            "is_on_display": true,
+            "last_on_display_place": "ACMI",
+            "last_on_display_date": "2022-02-10",
+            "is_context_indigenous": false,
+            "material_description": "glass, ink, gum arabic tape",
+            "unpublished": true,
+            "first_production_date": null,
+            "brief_description": "<p>Creator, York &amp; Son, England. Harry Conquest standing by baby&#8217;s bassinet.<br />\nNarrative for slide &#8220;No light, no fire, no wife were there to welcome him&#8230;..&#8221;</p>",
+            "constellations_primary": [],
+            "constellations_other": [],
+            "recommendations": [],
+            "title_for_label": "<p>Jane Conquest narrative slides</p>",
+            "creator_credit_for_label": "<p>York &amp; Son</p>",
+            "headline_credit_for_label": "<p>United Kingdom, c. 1891</p>",
+            "description": "<p>Creator, York &amp; Son, England. Harry Conquest standing by baby&#8217;s bassinet.<br />\nNarrative for slide &#8220;No light, no fire, no wife were there to welcome him&#8230;..&#8221;</p>",
+            "description_for_label": [
+                "<p>Creator, York &amp; Son, England. Harry Conquest standing by baby&#8217;s bassinet.<br />\nNarrative for slide &#8220;No light, no fire, no wife were there to welcome him&#8230;..&#8221;</p>"
+            ],
+            "credit_line_for_label": "<p>Courtesy Martyn Jolly</p>",
+            "details": [
+                {
+                    "label": "Measurements",
+                    "display_values": [
+                        "82 x 82 x 4mm"
+                    ]
+                },
+                {
+                    "label": "Materials",
+                    "display_values": [
+                        "glass, ink, gum arabic tape"
+                    ]
+                }
+            ],
+            "stats": {
+                "tap_count": 0
+            },
+            "links": [],
+            "creators_primary": [
+                {
+                    "id": 1134456,
+                    "name": "York & Son",
+                    "creator_id": 70602,
+                    "role": "creator",
+                    "role_id": 968,
+                    "is_primary": true
+                }
+            ],
+            "creators_other": [],
+            "video_links": [],
+            "media_note": null,
+            "images": [
+                {
+                    "id": 12546,
+                    "image_file": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN179808_MLS_JanesConquest_13_Front.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=jeTbEBTO2%2BGIOdOmdvedhsL%2F4h8%3D&Expires=1627009142",
+                    "image_file_thumbnail": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN179808_MLS_JanesConquest_13_Front.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=ClEV0xWXDYb5D1SrHlp1Xb%2BYGCw%3D&Expires=1627009142",
+                    "image_file_xs": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN179808_MLS_JanesConquest_13_Front.jpg.480x480_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=O2QvfttMZ%2BvHn4qFWP256y6XXdU%3D&Expires=1627009142",
+                    "image_file_s": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN179808_MLS_JanesConquest_13_Front.jpg.960x960_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=opobiRLTfRYkKFWvD7SMHgbuj4U%3D&Expires=1627009142",
+                    "image_file_m": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN179808_MLS_JanesConquest_13_Front.jpg.1920x1920_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=A00E%2FHIeWf7ZJjKYc2jAaJvqWG4%3D&Expires=1627009142",
+                    "image_file_l": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN179808_MLS_JanesConquest_13_Front.jpg.3840x3840_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=5ebfPHSFby341XSoTlJyEbYTTzQ%3D&Expires=1627009142",
+                    "caption": "LN179808_MLS_JanesConquest_13_Front",
+                    "credit_line": "Photograph by Egmont Contreras, ACMI",
+                    "alt_text": "",
+                    "width": 3201,
+                    "height": 3211,
+                    "access_level": "View anywhere"
+                },
+                {
+                    "id": 12547,
+                    "image_file": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN179808_MLS_JanesConquest_13_Back.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=aYCtkJn%2FRuwKfoNr7OCCc%2BYGaXI%3D&Expires=1627009142",
+                    "image_file_thumbnail": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN179808_MLS_JanesConquest_13_Back.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=pHpyTIHkKbiMbduhV1%2BeIf6aFOA%3D&Expires=1627009142",
+                    "image_file_xs": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN179808_MLS_JanesConquest_13_Back.jpg.480x480_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=fBl%2FGVfgsWtNRsH9%2FDYZNDTLVNY%3D&Expires=1627009142",
+                    "image_file_s": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN179808_MLS_JanesConquest_13_Back.jpg.960x960_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=ig5t07sL%2B2JPBkDE1iSJPa1qkVc%3D&Expires=1627009142",
+                    "image_file_m": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN179808_MLS_JanesConquest_13_Back.jpg.1920x1920_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=Uoww%2FMoZjmz0xCrZUr2Ara3u1ps%3D&Expires=1627009142",
+                    "image_file_l": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN179808_MLS_JanesConquest_13_Back.jpg.3840x3840_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=5KVhvU2iMlxMbGjwb8NlbN39Ah0%3D&Expires=1627009142",
+                    "caption": "LN179808_MLS_JanesConquest_13_Back",
+                    "credit_line": "Photograph by Egmont Contreras, ACMI",
+                    "alt_text": "",
+                    "width": 3133,
+                    "height": 3187,
+                    "access_level": "View anywhere"
+                }
+            ],
+            "videos": [],
+            "holdings": [],
+            "part_of": null,
+            "parts": [],
+            "part_siblings": [],
+            "group": null,
+            "group_works": [],
+            "group_siblings": [],
+            "source": {
+                "name": "Vernon",
+                "slug": "vernon"
+            },
+            "source_identifier": "179808",
+            "production_places": [
+                {
+                    "id": 10,
+                    "name": "United Kingdom",
+                    "slug": "united-kingdom"
+                }
+            ],
+            "production_dates": [
+                {
+                    "date": "c. 1891",
+                    "notes": "",
+                    "to_year": "c. 1891"
+                }
+            ],
+            "labels": [
+                39086
+            ]
+        }
+    ]
+}

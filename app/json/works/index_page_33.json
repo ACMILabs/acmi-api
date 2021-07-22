@@ -1,0 +1,2127 @@
+{
+    "count": 922,
+    "next": "https://api.acmi.net.au/works/?page=34",
+    "previous": "https://api.acmi.net.au/works/?page=32",
+    "results": [
+        {
+            "id": 60460,
+            "acmi_id": "177795",
+            "title": "Bell and Howell Zoomatic Director Series Model 414 PD",
+            "title_annotation": "",
+            "slug": "bell-and-howell-zoomatic-director-series-8mm-camera",
+            "creator_credit": "Bell and Howell",
+            "credit_line": "",
+            "headline_credit": "United States, c. 1962",
+            "thumbnail": {
+                "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AEO177795_BellAndHowellZoomatic8mmCamera_34.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=IO4EEQJb0FYLHUifvQABvoG8PCs%3D&Expires=1627009191",
+                "has_video": false
+            },
+            "record_type": "work",
+            "type": "Object",
+            "is_on_display": true,
+            "last_on_display_place": "ACMI: Gallery 1",
+            "last_on_display_date": "2031-02-16",
+            "is_context_indigenous": false,
+            "material_description": "Metal, plastic",
+            "unpublished": false,
+            "first_production_date": null,
+            "brief_description": "<p>The Bell and Howell Model is the same type of camera used by Abraham Zapruder, who was dubbed the first &#8220;citizen journalist&#8221; after he inadvertently captured the assassination of US President John F. Kennedy on camera in 1963.</p>",
+            "constellations_primary": [
+                {
+                    "id": 164,
+                    "name": "Papa-paparazzi",
+                    "description": "Media attention and paparazzi from the assassination of JFK to Lady Gaga's music video."
+                }
+            ],
+            "constellations_other": [],
+            "recommendations": [],
+            "title_for_label": "<p>Bell and Howell Zoomatic Director Series Model 414 PD</p>",
+            "creator_credit_for_label": "<p>Bell and Howell</p>",
+            "headline_credit_for_label": "<p>United States, c. 1962</p>",
+            "description": "<p>Cameras can be used to record history, but they can also become part of it as well. The Bell and Howell Model is the same type of camera used by Abraham Zapruder, who was dubbed the first &#8220;citizen journalist&#8221; after he inadvertently captured the assassination of US President John F Kennedy on camera in 1963. The footage was sold to LIFE magazine, who printed it frame-by-frame, and became a key part of the FBI investigation. The increasing popularity of home movies led to the development of more affordable technology that was common in households just like the Bell and Howell Model.</p>",
+            "description_for_label": [
+                "<p>Cameras can be used to record history, but they can also become part of it as well. The Bell and Howell Model is the same type of camera used by Abraham Zapruder, who was dubbed the first &#8220;citizen journalist&#8221; after he inadvertently captured the assassination of US President John F Kennedy on camera in 1963. The footage was sold to LIFE magazine, who printed it frame-by-frame, and became a key part of the FBI investigation. The increasing popularity of home movies led to the development of more affordable technology that was common in households just like the Bell and Howell Model.</p>"
+            ],
+            "credit_line_for_label": "",
+            "details": [
+                {
+                    "label": "Subject category",
+                    "display_values": [
+                        "object&nbsp;→ 3D artefact"
+                    ]
+                },
+                {
+                    "label": "Curatorial section",
+                    "display_values": [
+                        "The Story of the Moving Image&nbsp;→ Moving Minds&nbsp;→ 05. Camera Tech&nbsp;→ MM-05-C01"
+                    ]
+                },
+                {
+                    "label": "Measurements",
+                    "display_values": [
+                        "14.5 x 7 x 17cm"
+                    ]
+                },
+                {
+                    "label": "Materials",
+                    "display_values": [
+                        "Metal, plastic"
+                    ]
+                }
+            ],
+            "stats": {
+                "tap_count": 1269
+            },
+            "links": [],
+            "creators_primary": [
+                {
+                    "id": 1134384,
+                    "name": "Bell and Howell",
+                    "creator_id": 17906,
+                    "role": "manufacturer",
+                    "role_id": 627,
+                    "is_primary": true
+                }
+            ],
+            "creators_other": [],
+            "video_links": [],
+            "media_note": null,
+            "images": [
+                {
+                    "id": 12847,
+                    "image_file": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AEO177795_BellAndHowellZoomatic8mmCamera_34.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=%2B4Wv3UZfb1gH86C2vBf1fpGhOSo%3D&Expires=1627009191",
+                    "image_file_thumbnail": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AEO177795_BellAndHowellZoomatic8mmCamera_34.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=IO4EEQJb0FYLHUifvQABvoG8PCs%3D&Expires=1627009191",
+                    "image_file_xs": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AEO177795_BellAndHowellZoomatic8mmCamera_34.jpg.480x480_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=EY2kyxprvIe2dnUsEBvpFCsTE0Q%3D&Expires=1627009191",
+                    "image_file_s": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AEO177795_BellAndHowellZoomatic8mmCamera_34.jpg.960x960_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=pZ4X5fIZ9A14KCXIimZoJSdx7as%3D&Expires=1627009191",
+                    "image_file_m": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AEO177795_BellAndHowellZoomatic8mmCamera_34.jpg.1920x1920_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=eLbS4oexu7rhGt090Sc7qpOex%2F4%3D&Expires=1627009191",
+                    "image_file_l": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AEO177795_BellAndHowellZoomatic8mmCamera_34.jpg.3840x3840_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=%2F5dIaRj1SB3P74sTZxjNoT0YMn4%3D&Expires=1627009191",
+                    "caption": "AEO177795_BellAndHowellZoomatic8mmCamera_34",
+                    "credit_line": "Photograph by Egmont Contreras, ACMI",
+                    "alt_text": "",
+                    "width": 4667,
+                    "height": 3262,
+                    "access_level": "View anywhere"
+                },
+                {
+                    "id": 12849,
+                    "image_file": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AEO177795_BellAndHowellZoomatic8mmCamera_Front.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=7djBsvfeHAZTJcrMpfm%2FcMZObEs%3D&Expires=1627009191",
+                    "image_file_thumbnail": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AEO177795_BellAndHowellZoomatic8mmCamera_Front.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=uZzKkAyiGwuBXCmfPUgtmzETeqQ%3D&Expires=1627009191",
+                    "image_file_xs": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AEO177795_BellAndHowellZoomatic8mmCamera_Front.jpg.480x480_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=Z4rrFANxw9FyE7RhiZLCZ%2BoQj6s%3D&Expires=1627009191",
+                    "image_file_s": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AEO177795_BellAndHowellZoomatic8mmCamera_Front.jpg.960x960_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=8gDufbGpVgPrqf4zL2woI8sJlRE%3D&Expires=1627009191",
+                    "image_file_m": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AEO177795_BellAndHowellZoomatic8mmCamera_Front.jpg.1920x1920_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=IqrqpSqxxmnSzrZfL4gWISUZMJk%3D&Expires=1627009191",
+                    "image_file_l": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AEO177795_BellAndHowellZoomatic8mmCamera_Front.jpg.3840x3840_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=vmJLyGGOPpAjSg4sZqUC%2BCoxD4E%3D&Expires=1627009191",
+                    "caption": "AEO177795_BellAndHowellZoomatic8mmCamera_Front",
+                    "credit_line": "Photograph by Egmont Contreras, ACMI",
+                    "alt_text": "",
+                    "width": 2444,
+                    "height": 3344,
+                    "access_level": "View anywhere"
+                },
+                {
+                    "id": 12850,
+                    "image_file": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AEO177795_BellAndHowellZoomatic8mmCamera_Left.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=4VcdBbml0z2V3ztzMQdevvw3QZw%3D&Expires=1627009191",
+                    "image_file_thumbnail": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AEO177795_BellAndHowellZoomatic8mmCamera_Left.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=R5vVy3GvGvzcr7m%2BaVXWn6zPWgc%3D&Expires=1627009191",
+                    "image_file_xs": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AEO177795_BellAndHowellZoomatic8mmCamera_Left.jpg.480x480_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=gotP6zuWlhBKZrx7944mzkN9uM0%3D&Expires=1627009191",
+                    "image_file_s": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AEO177795_BellAndHowellZoomatic8mmCamera_Left.jpg.960x960_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=NRN%2FrdoVbGcIRM2XKWGIA7iP4%2Fg%3D&Expires=1627009191",
+                    "image_file_m": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AEO177795_BellAndHowellZoomatic8mmCamera_Left.jpg.1920x1920_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=eimc4k2gNBAvJ%2FXBSqHgRX2z%2F%2Bs%3D&Expires=1627009191",
+                    "image_file_l": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AEO177795_BellAndHowellZoomatic8mmCamera_Left.jpg.3840x3840_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=4n7fXJfu8ji5pgy4b%2B4OXTkaJ6A%3D&Expires=1627009191",
+                    "caption": "AEO177795_BellAndHowellZoomatic8mmCamera_Left",
+                    "credit_line": "Photograph by Egmont Contreras, ACMI",
+                    "alt_text": "",
+                    "width": 4542,
+                    "height": 3131,
+                    "access_level": "View anywhere"
+                },
+                {
+                    "id": 12851,
+                    "image_file": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AEO177795_BellAndHowellZoomatic8mmCamera_Right.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=ciel9G1TQ5c74aSCla85TABv6Sc%3D&Expires=1627009191",
+                    "image_file_thumbnail": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AEO177795_BellAndHowellZoomatic8mmCamera_Right.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=2E%2F1lYrn6d62phHlC%2FKef05FBZg%3D&Expires=1627009191",
+                    "image_file_xs": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AEO177795_BellAndHowellZoomatic8mmCamera_Right.jpg.480x480_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=8XXQH0EksocdZ5%2FpNf42LRIOPIc%3D&Expires=1627009191",
+                    "image_file_s": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AEO177795_BellAndHowellZoomatic8mmCamera_Right.jpg.960x960_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=UWWgv%2FxZSbp7y6DqWFBc1Y7eOaI%3D&Expires=1627009191",
+                    "image_file_m": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AEO177795_BellAndHowellZoomatic8mmCamera_Right.jpg.1920x1920_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=eYJnAv4qdnvv6wiQ%2FL2tAI7L9gI%3D&Expires=1627009191",
+                    "image_file_l": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AEO177795_BellAndHowellZoomatic8mmCamera_Right.jpg.3840x3840_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=Vm5nMpTlH8ryRAeKjJZLhWFxa%2FY%3D&Expires=1627009191",
+                    "caption": "AEO177795_BellAndHowellZoomatic8mmCamera_Right",
+                    "credit_line": "Photograph by Egmont Contreras, ACMI",
+                    "alt_text": "",
+                    "width": 4794,
+                    "height": 3225,
+                    "access_level": "View anywhere"
+                },
+                {
+                    "id": 12848,
+                    "image_file": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AEO177795_BellAndHowellZoomatic8mmCamera_Back.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=5rZnnRB94vHBtNpxMOOGVekpPEo%3D&Expires=1627009191",
+                    "image_file_thumbnail": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AEO177795_BellAndHowellZoomatic8mmCamera_Back.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=Hd4j%2B6bwCLUwEygI3W68X31PsHk%3D&Expires=1627009191",
+                    "image_file_xs": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AEO177795_BellAndHowellZoomatic8mmCamera_Back.jpg.480x480_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=RjS1jF8cXP7Rb8JzckKYhZG36Xk%3D&Expires=1627009191",
+                    "image_file_s": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AEO177795_BellAndHowellZoomatic8mmCamera_Back.jpg.960x960_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=%2BYyyrww4z%2F133Mpg2ILbyB57xzQ%3D&Expires=1627009191",
+                    "image_file_m": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AEO177795_BellAndHowellZoomatic8mmCamera_Back.jpg.1920x1920_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=mysL013AzK1TzFYid5CH3mP7HCI%3D&Expires=1627009191",
+                    "image_file_l": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AEO177795_BellAndHowellZoomatic8mmCamera_Back.jpg.3840x3840_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=VX%2B0bSILHaryIPUMKUjtaGm2iSQ%3D&Expires=1627009191",
+                    "caption": "AEO177795_BellAndHowellZoomatic8mmCamera_Back",
+                    "credit_line": "Photograph by Egmont Contreras, ACMI",
+                    "alt_text": "",
+                    "width": 2400,
+                    "height": 3299,
+                    "access_level": "View anywhere"
+                }
+            ],
+            "videos": [],
+            "holdings": [],
+            "part_of": null,
+            "parts": [],
+            "part_siblings": [],
+            "group": null,
+            "group_works": [],
+            "group_siblings": [],
+            "source": {
+                "name": "Vernon",
+                "slug": "vernon"
+            },
+            "source_identifier": "177795",
+            "production_places": [
+                {
+                    "id": 2,
+                    "name": "United States",
+                    "slug": "united-states"
+                }
+            ],
+            "production_dates": [
+                {
+                    "date": "c. 1962",
+                    "notes": "",
+                    "to_year": "c. 1962"
+                }
+            ],
+            "labels": [
+                181
+            ]
+        },
+        {
+            "id": 100249,
+            "acmi_id": "177727",
+            "title": "Sony Digital Handycam DCR-VX1000",
+            "title_annotation": "",
+            "slug": "sony-dcr-vx1000-digital-camcorder",
+            "creator_credit": "Sony",
+            "credit_line": "",
+            "headline_credit": "Japan, c. 1995",
+            "thumbnail": {
+                "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AEO177727_SonyDCR-VX1000DigitalCamcorder_34.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=u3DXlev3lRTpNseTdNkxmxZKu54%3D&Expires=1627009191",
+                "has_video": false
+            },
+            "record_type": "work",
+            "type": "Object",
+            "is_on_display": true,
+            "last_on_display_place": "ACMI: Gallery 1",
+            "last_on_display_date": "2031-02-16",
+            "is_context_indigenous": false,
+            "material_description": "Metal, plastic, rubber",
+            "unpublished": false,
+            "first_production_date": null,
+            "brief_description": "<p>Sony released the Handycam DCR-VX1000 in 1995, the same year digital video launched. It wasn’t just popular for amateurs and at-home users, but it was also deployed by professional news outlets looking to replace the large, expensive, shoulder mounted Betacam cameras.</p>",
+            "constellations_primary": [
+                {
+                    "id": 152,
+                    "name": "Fish-eyes and fun times",
+                    "description": "This Constellation starts with <i>The Favourite</i> and ends up at <I>Rambo</i>, and was made by Swinburne Cinema and Screen Studies student Daniel Bryan."
+                }
+            ],
+            "constellations_other": [],
+            "recommendations": [],
+            "title_for_label": "<p>Sony Digital Handycam DCR-VX1000</p>",
+            "creator_credit_for_label": "<p>Sony</p>",
+            "headline_credit_for_label": "<p>Japan, c. 1995</p>",
+            "description": "<p>Digital video was launched in 1995 and Sony released the Handycam DCR-VX1000 that same year. It was not only hugely popular for the amateur and at-home user, but it was also deployed by professional news outlets looking for something to replace the large, expensive, shoulder-mounted Betacam cameras. The camcorder was the answer, with high image quality matched by its affordability and portability. These same traits are what saw it became a seminal tool for the creation of skate cinema, with the Handycam DCR-VX1000 often paired with a fish-eye lens and used to record groundbreaking videos in the genre.</p>",
+            "description_for_label": [
+                "<p>Digital video was launched in 1995 and Sony released the Handycam DCR-VX1000 that same year. It was not only hugely popular for the amateur and at-home user, but it was also deployed by professional news outlets looking for something to replace the large, expensive, shoulder-mounted Betacam cameras. The camcorder was the answer, with high image quality matched by its affordability and portability. These same traits are what saw it became a seminal tool for the creation of skate cinema, with the Handycam DCR-VX1000 often paired with a fish-eye lens and used to record groundbreaking videos in the genre.</p>"
+            ],
+            "credit_line_for_label": "",
+            "details": [
+                {
+                    "label": "Subject category",
+                    "display_values": [
+                        "object&nbsp;→ 3D artefact"
+                    ]
+                },
+                {
+                    "label": "Curatorial section",
+                    "display_values": [
+                        "The Story of the Moving Image&nbsp;→ Moving Minds&nbsp;→ 05. Camera Tech&nbsp;→ MM-05-C01"
+                    ]
+                },
+                {
+                    "label": "Measurements",
+                    "display_values": [
+                        "15 x 14 x 33cm"
+                    ]
+                },
+                {
+                    "label": "Materials",
+                    "display_values": [
+                        "Metal, plastic, rubber"
+                    ]
+                }
+            ],
+            "stats": {
+                "tap_count": 1575
+            },
+            "links": [],
+            "creators_primary": [
+                {
+                    "id": 1134383,
+                    "name": "Sony",
+                    "creator_id": 71968,
+                    "role": "manufacturer",
+                    "role_id": 627,
+                    "is_primary": true
+                }
+            ],
+            "creators_other": [],
+            "video_links": [],
+            "media_note": null,
+            "images": [
+                {
+                    "id": 12843,
+                    "image_file": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AEO177727_SonyDCR-VX1000DigitalCamcorder_34.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=RA6UiOPdhDA7a%2FlziGBvygJ%2FGnI%3D&Expires=1627009191",
+                    "image_file_thumbnail": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AEO177727_SonyDCR-VX1000DigitalCamcorder_34.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=u3DXlev3lRTpNseTdNkxmxZKu54%3D&Expires=1627009191",
+                    "image_file_xs": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AEO177727_SonyDCR-VX1000DigitalCamcorder_34.jpg.480x480_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=KKWxxFlbEkvAucMn2odP4g8Vi28%3D&Expires=1627009191",
+                    "image_file_s": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AEO177727_SonyDCR-VX1000DigitalCamcorder_34.jpg.960x960_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=cUAH9dA5ELwzRyu%2BTO3lFG3OM7I%3D&Expires=1627009191",
+                    "image_file_m": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AEO177727_SonyDCR-VX1000DigitalCamcorder_34.jpg.1920x1920_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=iDt8ww36OlNW%2F0YaZLa9XDIg%2Bio%3D&Expires=1627009191",
+                    "image_file_l": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AEO177727_SonyDCR-VX1000DigitalCamcorder_34.jpg.3840x3840_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=rLGrNv8n2SixxpRzw8yVfBAIcVs%3D&Expires=1627009191",
+                    "caption": "AEO177727_SonyDCR-VX1000DigitalCamcorder_34",
+                    "credit_line": "Photograph by Egmont Contreras, ACMI",
+                    "alt_text": "",
+                    "width": 4645,
+                    "height": 3200,
+                    "access_level": "View anywhere"
+                },
+                {
+                    "id": 12844,
+                    "image_file": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AEO177727_SonyDCR-VX1000DigitalCamcorder_Back.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=emlYR7ffhCROhqvvp%2B0IIQH6%2FOo%3D&Expires=1627009191",
+                    "image_file_thumbnail": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AEO177727_SonyDCR-VX1000DigitalCamcorder_Back.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=ffyD5jZuC1ZVieU3Z90sK2n24Go%3D&Expires=1627009191",
+                    "image_file_xs": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AEO177727_SonyDCR-VX1000DigitalCamcorder_Back.jpg.480x480_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=dvbSuq69Xr1ETRrysOFGK2sudh4%3D&Expires=1627009191",
+                    "image_file_s": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AEO177727_SonyDCR-VX1000DigitalCamcorder_Back.jpg.960x960_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=2j6KQDfucBG0MDZdGH4Siee6NM4%3D&Expires=1627009191",
+                    "image_file_m": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AEO177727_SonyDCR-VX1000DigitalCamcorder_Back.jpg.1920x1920_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=6Djuhorw8ZQPp%2FZgje0oDRSA2hU%3D&Expires=1627009191",
+                    "image_file_l": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AEO177727_SonyDCR-VX1000DigitalCamcorder_Back.jpg.3840x3840_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=gzohMuIpwLrF9qyuWvjzPSViCYU%3D&Expires=1627009191",
+                    "caption": "AEO177727_SonyDCR-VX1000DigitalCamcorder_Back",
+                    "credit_line": "Photograph by Egmont Contreras, ACMI",
+                    "alt_text": "",
+                    "width": 2844,
+                    "height": 3509,
+                    "access_level": "View anywhere"
+                },
+                {
+                    "id": 12845,
+                    "image_file": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AEO177727_SonyDCR-VX1000DigitalCamcorder_Left.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=z%2FEWQxGrMdPk37E%2B%2F3Q9ku8BtVo%3D&Expires=1627009191",
+                    "image_file_thumbnail": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AEO177727_SonyDCR-VX1000DigitalCamcorder_Left.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=dW9FL2zsOKDYKGQD6KVz9fenYyg%3D&Expires=1627009191",
+                    "image_file_xs": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AEO177727_SonyDCR-VX1000DigitalCamcorder_Left.jpg.480x480_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=vL%2Bh036CEXY8rZzEuIhlXRnK44c%3D&Expires=1627009191",
+                    "image_file_s": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AEO177727_SonyDCR-VX1000DigitalCamcorder_Left.jpg.960x960_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=Cw0TUxJlcdi0fTpSiBMYDPyos90%3D&Expires=1627009191",
+                    "image_file_m": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AEO177727_SonyDCR-VX1000DigitalCamcorder_Left.jpg.1920x1920_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=I3EHCkdA9lC%2FKmnuTD6NLwPTQZE%3D&Expires=1627009191",
+                    "image_file_l": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AEO177727_SonyDCR-VX1000DigitalCamcorder_Left.jpg.3840x3840_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=E9%2BwT6OX5BvnL5K9JzS2VH90XH0%3D&Expires=1627009191",
+                    "caption": "AEO177727_SonyDCR-VX1000DigitalCamcorder_Left",
+                    "credit_line": "Photograph by Egmont Contreras, ACMI",
+                    "alt_text": "",
+                    "width": 4783,
+                    "height": 3016,
+                    "access_level": "View anywhere"
+                },
+                {
+                    "id": 12846,
+                    "image_file": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AEO177727_SonyDCR-VX1000DigitalCamcorder_Right.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=c8xY4uAp3sRos36%2BSVBt9to1sFE%3D&Expires=1627009191",
+                    "image_file_thumbnail": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AEO177727_SonyDCR-VX1000DigitalCamcorder_Right.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=68hDTnA3izddeTfsd480TyRcYzo%3D&Expires=1627009191",
+                    "image_file_xs": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AEO177727_SonyDCR-VX1000DigitalCamcorder_Right.jpg.480x480_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=R3sb0Vqq5ht2HqMwm7YWOGbasRs%3D&Expires=1627009191",
+                    "image_file_s": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AEO177727_SonyDCR-VX1000DigitalCamcorder_Right.jpg.960x960_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=rrNzo%2B6QPZMOAxUNG5ktUp6gQE8%3D&Expires=1627009191",
+                    "image_file_m": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AEO177727_SonyDCR-VX1000DigitalCamcorder_Right.jpg.1920x1920_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=%2FII7APquk1jCEiox%2FcwJN0d%2BA24%3D&Expires=1627009191",
+                    "image_file_l": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AEO177727_SonyDCR-VX1000DigitalCamcorder_Right.jpg.3840x3840_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=gzNnNKh2SWPMkqPP89Sz2YDiF7E%3D&Expires=1627009191",
+                    "caption": "AEO177727_SonyDCR-VX1000DigitalCamcorder_Right",
+                    "credit_line": "Photograph by Egmont Contreras, ACMI",
+                    "alt_text": "",
+                    "width": 4800,
+                    "height": 3200,
+                    "access_level": "View anywhere"
+                }
+            ],
+            "videos": [],
+            "holdings": [],
+            "part_of": null,
+            "parts": [],
+            "part_siblings": [],
+            "group": null,
+            "group_works": [],
+            "group_siblings": [],
+            "source": {
+                "name": "Vernon",
+                "slug": "vernon"
+            },
+            "source_identifier": "177727",
+            "production_places": [
+                {
+                    "id": 8,
+                    "name": "Japan",
+                    "slug": "japan"
+                }
+            ],
+            "production_dates": [
+                {
+                    "date": "c. 1995",
+                    "notes": "",
+                    "to_year": "c. 1995"
+                }
+            ],
+            "labels": [
+                39745
+            ]
+        },
+        {
+            "id": 117867,
+            "acmi_id": "177725",
+            "title": "Clapperboard (studio of Mirka Mora)",
+            "title_annotation": "",
+            "slug": "clapperboard",
+            "creator_credit": "",
+            "credit_line": "",
+            "headline_credit": "",
+            "thumbnail": null,
+            "record_type": "work",
+            "type": "Object",
+            "is_on_display": false,
+            "last_on_display_place": null,
+            "last_on_display_date": null,
+            "is_context_indigenous": false,
+            "material_description": "Painted wood and cloth tape",
+            "unpublished": false,
+            "first_production_date": null,
+            "brief_description": "<p>Clapperboard made from wood and painted black and white, board has cloth tape around middle and bottom sections. Back of board has a piece of paper attached with rows of numbers.</p>",
+            "constellations_primary": [],
+            "constellations_other": [],
+            "recommendations": [],
+            "title_for_label": "<p>Clapperboard (studio of Mirka Mora)</p>",
+            "creator_credit_for_label": "",
+            "headline_credit_for_label": "",
+            "description": "<p>Clapperboard made from wood and painted black and white, board has cloth tape around middle and bottom sections. Back of board has a piece of paper attached with rows of numbers.</p>",
+            "description_for_label": [
+                "<p>Clapperboard made from wood and painted black and white, board has cloth tape around middle and bottom sections. Back of board has a piece of paper attached with rows of numbers.</p>"
+            ],
+            "credit_line_for_label": "",
+            "details": [
+                {
+                    "label": "Measurements",
+                    "display_values": [
+                        "25 x 30.5 x 1cm"
+                    ]
+                },
+                {
+                    "label": "Materials",
+                    "display_values": [
+                        "Painted wood and cloth tape"
+                    ]
+                }
+            ],
+            "stats": {
+                "tap_count": 0
+            },
+            "links": [],
+            "creators_primary": [],
+            "creators_other": [],
+            "video_links": [],
+            "media_note": "Sorry, we don't have images or video for this item.",
+            "images": [],
+            "videos": [],
+            "holdings": [],
+            "part_of": null,
+            "parts": [],
+            "part_siblings": [],
+            "group": null,
+            "group_works": [],
+            "group_siblings": [],
+            "source": {
+                "name": "Vernon",
+                "slug": "vernon"
+            },
+            "source_identifier": "177725",
+            "production_places": [],
+            "production_dates": [],
+            "labels": [
+                57361
+            ]
+        },
+        {
+            "id": 117983,
+            "acmi_id": "177307",
+            "title": "Did you ask the river?",
+            "title_annotation": "",
+            "slug": "did-you-ask-the-river",
+            "creator_credit": "Joan Ross",
+            "credit_line": "<p>Joan Ross<br />\nMordant Family VR Commission, ACMI Collection<br />\nDeveloped in collaboration with Dr Josh Harle at Tactical Space Lab, Sydney</p>",
+            "headline_credit": "Australia, 2019",
+            "thumbnail": {
+                "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/Z000125_DidYouAskTheRiver_still1.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=c6fRyswN7pKmeFjOFjroRC6GUHM%3D&Expires=1627009191",
+                "has_video": false
+            },
+            "record_type": "work",
+            "type": "Digital art",
+            "is_on_display": false,
+            "last_on_display_place": "ACMI Future Lab",
+            "last_on_display_date": "2019-03-31",
+            "is_context_indigenous": false,
+            "material_description": "software, video, props, colour and sound",
+            "unpublished": false,
+            "first_production_date": "2019-01-01T11:00:00+11:00",
+            "brief_description": "<p>&#8216;Did you ask the river?&#8217; is the debut VR work from one of Australia’s leading visual artists, Joan Ross.</p>\n<p>In the style of a first-person videogame, participants are given free rein to explore an interactive 3D extension of Ross’s vibrant, yet unsettling, colonial landscapes.</p>\n<p>Unlike many VR experiences, participants are placed in a body – that of an 18th century colonial woman – and become uncomfortably complicit in her unwitting destruction of the landscape.</p>",
+            "constellations_primary": [],
+            "constellations_other": [],
+            "recommendations": [],
+            "title_for_label": "<p>Did you ask the river?</p>",
+            "creator_credit_for_label": "<p>Joan Ross</p>",
+            "headline_credit_for_label": "<p>Australia, 2019</p>",
+            "description": "<p><i>Did you ask the river?</i> is the debut VR work from one of Australia’s leading visual artists, Joan Ross.</p>\n<p>In the style of a first-person videogame, participants are given free rein to explore an interactive 3D extension of Ross’s vibrant, yet unsettling, colonial landscapes.</p>\n<p>Unlike many VR experiences, participants are placed in a body – that of an 18th century colonial woman – and become uncomfortably complicit in her unwitting destruction of the landscape.</p>",
+            "description_for_label": [
+                "<p><i>Did you ask the river?</i> is the debut VR work from one of Australia’s leading visual artists, Joan Ross.</p>\n<p>In the style of a first-person videogame, participants are given free rein to explore an interactive 3D extension of Ross’s vibrant, yet unsettling, colonial landscapes.</p>\n<p>Unlike many VR experiences, participants are placed in a body – that of an 18th century colonial woman – and become uncomfortably complicit in her unwitting destruction of the landscape.</p>"
+            ],
+            "credit_line_for_label": "<p>Joan Ross<br />\nMordant Family VR Commission, ACMI Collection<br />\nDeveloped in collaboration with Dr Josh Harle at Tactical Space Lab, Sydney</p>",
+            "details": [
+                {
+                    "label": "Duration",
+                    "display_values": [
+                        "00:07:00:00"
+                    ]
+                },
+                {
+                    "label": "Subject category",
+                    "display_values": [
+                        "Digital Art"
+                    ]
+                },
+                {
+                    "label": "Sound/audio",
+                    "display_values": [
+                        "Sound"
+                    ]
+                },
+                {
+                    "label": "Colour",
+                    "display_values": [
+                        "Colour"
+                    ]
+                },
+                {
+                    "label": "Materials",
+                    "display_values": [
+                        "software, video, props, colour and sound"
+                    ]
+                }
+            ],
+            "stats": {
+                "tap_count": 0
+            },
+            "links": [],
+            "creators_primary": [
+                {
+                    "id": 1134381,
+                    "name": "Joan Ross",
+                    "creator_id": 84380,
+                    "role": "creator",
+                    "role_id": 968,
+                    "is_primary": true
+                }
+            ],
+            "creators_other": [
+                {
+                    "id": 1134382,
+                    "name": "Josh Harle",
+                    "creator_id": 84381,
+                    "role": "collaborator",
+                    "role_id": 536,
+                    "is_primary": false
+                }
+            ],
+            "video_links": [],
+            "media_note": null,
+            "images": [
+                {
+                    "id": 16310,
+                    "image_file": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/Z000125_DidYouAskTheRiver_still1.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=111nLjmIDxBqhf%2BNIbl%2B99bGKz4%3D&Expires=1627009191",
+                    "image_file_thumbnail": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/Z000125_DidYouAskTheRiver_still1.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=c6fRyswN7pKmeFjOFjroRC6GUHM%3D&Expires=1627009191",
+                    "image_file_xs": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/Z000125_DidYouAskTheRiver_still1.jpg.480x480_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=SYrGUnXQ6ZiYs5FAHSMR5I9%2FzvQ%3D&Expires=1627009191",
+                    "image_file_s": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/Z000125_DidYouAskTheRiver_still1.jpg.960x960_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=qZxjL2fsBRKODL99ZRT1peKXPh8%3D&Expires=1627009191",
+                    "image_file_m": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/Z000125_DidYouAskTheRiver_still1.jpg.1920x1920_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=sXGtraYfd%2BNwswj0IFzFuoMukKk%3D&Expires=1627009191",
+                    "image_file_l": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/Z000125_DidYouAskTheRiver_still1.jpg.3840x3840_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=JLtJRotdhvQcOcMQacJ3SZFneIo%3D&Expires=1627009191",
+                    "caption": "Z000125_DidYouAskTheRiver_still1",
+                    "credit_line": "",
+                    "alt_text": "",
+                    "width": 2138,
+                    "height": 1719,
+                    "access_level": "View anywhere"
+                },
+                {
+                    "id": 21284,
+                    "image_file": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/Z000125_DidYouAskTheRiver_still2.png?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=gnyYdVS%2BrkkxlcARJgFXgoatXjg%3D&Expires=1627009191",
+                    "image_file_thumbnail": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/Z000125_DidYouAskTheRiver_still2.png.1200x1200_q85.png?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=HUyt2frWy8%2ByY%2Fe%2FY5Jo2AYFKBQ%3D&Expires=1627009191",
+                    "image_file_xs": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/Z000125_DidYouAskTheRiver_still2.png.480x480_q85.png?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=bqvyCEU6q6%2FJSTS1Z4hZ%2F%2BOqvHM%3D&Expires=1627009191",
+                    "image_file_s": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/Z000125_DidYouAskTheRiver_still2.png.960x960_q85.png?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=fojMJSiffSd26T8qptADC4APRhs%3D&Expires=1627009191",
+                    "image_file_m": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/Z000125_DidYouAskTheRiver_still2.png.1920x1920_q85.png?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=b0QVliil%2BlcgyQ6IS6igXr84Kjc%3D&Expires=1627009191",
+                    "image_file_l": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/Z000125_DidYouAskTheRiver_still2.png.3840x3840_q85.png?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=x6p4nIZ3FCmiTGBetmrJbQI4aHc%3D&Expires=1627009191",
+                    "caption": "Z000125_DidYouAskTheRiver_still2",
+                    "credit_line": "",
+                    "alt_text": "",
+                    "width": 1800,
+                    "height": 1200,
+                    "access_level": "View anywhere"
+                },
+                {
+                    "id": 21285,
+                    "image_file": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/Z000125_DidYouAskTheRiver_still3.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=UREkuEgq8%2FHuPIiVP9ipwhV5zGg%3D&Expires=1627009191",
+                    "image_file_thumbnail": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/Z000125_DidYouAskTheRiver_still3.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=o3IParEXD3ln8xcvJnxIvUDyNac%3D&Expires=1627009191",
+                    "image_file_xs": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/Z000125_DidYouAskTheRiver_still3.jpg.480x480_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=4cwr6x6lt01J1JrkOskxvu0PWyE%3D&Expires=1627009191",
+                    "image_file_s": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/Z000125_DidYouAskTheRiver_still3.jpg.960x960_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=%2BPnectIHko2dRt%2BkUtUmkNaRa1k%3D&Expires=1627009191",
+                    "image_file_m": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/Z000125_DidYouAskTheRiver_still3.jpg.1920x1920_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=OlM%2Be4BCqeypCHEetHFM36P41Mg%3D&Expires=1627009191",
+                    "image_file_l": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/Z000125_DidYouAskTheRiver_still3.jpg.3840x3840_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=5tPaGd71WJQEFggQdI3pFbt8tio%3D&Expires=1627009191",
+                    "caption": "Z000125_DidYouAskTheRiver_still3",
+                    "credit_line": "",
+                    "alt_text": "",
+                    "width": 1800,
+                    "height": 1200,
+                    "access_level": "View anywhere"
+                }
+            ],
+            "videos": [],
+            "holdings": [],
+            "part_of": null,
+            "parts": [],
+            "part_siblings": [],
+            "group": null,
+            "group_works": [],
+            "group_siblings": [],
+            "source": {
+                "name": "Vernon",
+                "slug": "vernon"
+            },
+            "source_identifier": "177307",
+            "production_places": [
+                {
+                    "id": 3,
+                    "name": "Australia",
+                    "slug": "australia"
+                }
+            ],
+            "production_dates": [
+                {
+                    "date": "2019",
+                    "notes": "Commissioned",
+                    "to_year": "2019"
+                }
+            ],
+            "labels": [
+                57485
+            ]
+        },
+        {
+            "id": 119231,
+            "acmi_id": "177085",
+            "title": "[Tony Agapitos: Miss Greek Charity Quest]",
+            "title_annotation": "",
+            "slug": "tony-agapitos-miss-greek-charity-quest",
+            "creator_credit": "Tony Agapitos",
+            "credit_line": "",
+            "headline_credit": "Australia, c. 1960",
+            "thumbnail": {
+                "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/B2005012_mi01_TAgapitosMissGreekCharity.tif.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=xrOf3PyxxS35DgULu%2BZ2eQcvE6c%3D&Expires=1627009191",
+                "has_video": false
+            },
+            "record_type": "work",
+            "type": "Film",
+            "is_on_display": false,
+            "last_on_display_place": null,
+            "last_on_display_date": null,
+            "is_context_indigenous": false,
+            "material_description": "",
+            "unpublished": false,
+            "first_production_date": null,
+            "brief_description": "<p>This silent film shows people at the Athenaeum Club in Melbourne celebrating the New Year and finalists of the Miss Greek Charity Quest.</p>\n<p>This film is part of a collection of 16mm films made by Tony Agapitos. The collection offers a glimpse at Greek migrant life in Victoria from the 1950s to the 1970s.</p>",
+            "constellations_primary": [],
+            "constellations_other": [],
+            "recommendations": [],
+            "title_for_label": "<p>[Tony Agapitos: Miss Greek Charity Quest]</p>",
+            "creator_credit_for_label": "<p>Tony Agapitos</p>",
+            "headline_credit_for_label": "<p>Australia, c. 1960</p>",
+            "description": "<p>This silent film shows people at the Athenaeum Club in Melbourne celebrating the New Year and finalists of the Miss Greek Charity Quest.</p>\n<p>This film is part of a collection of 16mm films made by Tony Agapitos. The collection offers a glimpse at Greek migrant life in Victoria from the 1950s to the 1970s.</p>",
+            "description_for_label": [
+                "<p>This silent film shows people at the Athenaeum Club in Melbourne celebrating the New Year and finalists of the Miss Greek Charity Quest.</p>\n<p>This film is part of a collection of 16mm films made by Tony Agapitos. The collection offers a glimpse at Greek migrant life in Victoria from the 1950s to the 1970s.</p>"
+            ],
+            "credit_line_for_label": "",
+            "details": [
+                {
+                    "label": "Subject categories",
+                    "display_values": [
+                        "Amateur & Student Films&nbsp;→ Amateur films",
+                        "Short films",
+                        "Short films&nbsp;→ Short films - Australia"
+                    ]
+                }
+            ],
+            "stats": {
+                "tap_count": 0
+            },
+            "links": [],
+            "creators_primary": [
+                {
+                    "id": 1134380,
+                    "name": "Tony Agapitos",
+                    "creator_id": 82126,
+                    "role": "creator",
+                    "role_id": 968,
+                    "is_primary": true
+                }
+            ],
+            "creators_other": [],
+            "video_links": [
+                {
+                    "id": 1387,
+                    "name": "ACMI External Digital Access Copy",
+                    "uri": "https://www.youtube.com/watch?v=ihTFHnn8uyQ"
+                }
+            ],
+            "media_note": null,
+            "images": [
+                {
+                    "id": 28138,
+                    "image_file": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/B2005012_mi01_TAgapitosMissGreekCharity.tif?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=lNqENtfGe0MhMhPVXd2yr2Y2DFg%3D&Expires=1627009191",
+                    "image_file_thumbnail": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/B2005012_mi01_TAgapitosMissGreekCharity.tif.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=xrOf3PyxxS35DgULu%2BZ2eQcvE6c%3D&Expires=1627009191",
+                    "image_file_xs": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/B2005012_mi01_TAgapitosMissGreekCharity.tif.480x480_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=%2FSv8K436GPOM6PwDxuFaUW1%2Fplg%3D&Expires=1627009191",
+                    "image_file_s": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/B2005012_mi01_TAgapitosMissGreekCharity.tif.960x960_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=GdAAItVK84U67RFc6RvkKQppt6E%3D&Expires=1627009191",
+                    "image_file_m": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/B2005012_mi01_TAgapitosMissGreekCharity.tif.1920x1920_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=WtMv%2BY%2Fks5%2F9%2BANm8A1IxzDHsTY%3D&Expires=1627009191",
+                    "image_file_l": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/B2005012_mi01_TAgapitosMissGreekCharity.tif.3840x3840_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=3JGISbWalOU2Tg4qIMGmqal1nhE%3D&Expires=1627009191",
+                    "caption": "[Tony Agapitos: Miss Greek Charity Quest] (Tony Agapitos) Digital Access Still",
+                    "credit_line": "",
+                    "alt_text": "",
+                    "width": 1480,
+                    "height": 1110,
+                    "access_level": "View anywhere"
+                }
+            ],
+            "videos": [],
+            "holdings": [
+                {
+                    "name": "16mm film; Master",
+                    "identifier": "",
+                    "description": ""
+                },
+                {
+                    "name": "MOV file ProRes4444; Digital Preservation Master - overscan",
+                    "identifier": "",
+                    "description": ""
+                },
+                {
+                    "name": "MOV file ProRes4444; Digital Preservation Master - presentation",
+                    "identifier": "",
+                    "description": ""
+                },
+                {
+                    "name": "MPEG-4 Digital File; ACMI Digital Access Copy - overscan",
+                    "identifier": "",
+                    "description": ""
+                },
+                {
+                    "name": "MPEG-4 Digital File; ACMI Digital Access Copy - presentation",
+                    "identifier": "",
+                    "description": ""
+                },
+                {
+                    "name": "MOV file H264; ACMI External Digital Access Copy",
+                    "identifier": "",
+                    "description": ""
+                }
+            ],
+            "part_of": null,
+            "parts": [],
+            "part_siblings": [],
+            "group": {
+                "id": 114540,
+                "acmi_id": "2272",
+                "title": "Tony Agapitos Home Movie Collection",
+                "title_annotation": "",
+                "slug": "tony-agapitos-home-movie-collection",
+                "creator_credit": "Tony Agapitos",
+                "credit_line": "",
+                "headline_credit": "Australia, 1959-1975",
+                "thumbnail": {
+                    "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/B2005006_mi01_CelebratingNationalDay.tif.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=1Pj%2FCeFf8MF8Hi0D05A5S35Os%2F8%3D&Expires=1627009191",
+                    "has_video": false
+                },
+                "record_type": "group",
+                "type": "Film",
+                "is_on_display": false,
+                "last_on_display_place": null,
+                "last_on_display_date": null,
+                "is_context_indigenous": false,
+                "material_description": "",
+                "unpublished": false,
+                "first_production_date": null
+            },
+            "group_works": [],
+            "group_siblings": [
+                {
+                    "id": 119229,
+                    "acmi_id": "177079",
+                    "title": "[Tony Agapitos: Celebration of National Day of the Greek Community]",
+                    "title_annotation": "",
+                    "slug": "tony-agapitos-celebration-of-national-day-of-the-greek-community",
+                    "creator_credit": "Tony Agapitos",
+                    "credit_line": "",
+                    "headline_credit": "Australia, 1966",
+                    "thumbnail": {
+                        "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/B2005006_mi01_CelebratingNationalDay.tif.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=1Pj%2FCeFf8MF8Hi0D05A5S35Os%2F8%3D&Expires=1627009191",
+                        "has_video": false
+                    },
+                    "record_type": "work",
+                    "type": "Film",
+                    "is_on_display": false,
+                    "last_on_display_place": null,
+                    "last_on_display_date": null,
+                    "is_context_indigenous": false,
+                    "material_description": "",
+                    "unpublished": false,
+                    "first_production_date": "1966-01-01T10:00:00+10:00"
+                },
+                {
+                    "id": 119253,
+                    "acmi_id": "177080",
+                    "title": "[Tony Agapitos: Greek Boy Scouts and Girl Guides supporting Bishop at Festival Hall]",
+                    "title_annotation": "",
+                    "slug": "tony-agapitos-greek-boy-scouts-and-girl-guides-supporting-bishop-at-festival-hall",
+                    "creator_credit": "Tony Agapitos",
+                    "credit_line": "",
+                    "headline_credit": "Australia, 1966",
+                    "thumbnail": {
+                        "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/B2005007_mi01_TAgapitosBoyScoutsGirlGuides.tif.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=%2BMxlvPjcgLZ9zSkVBuY9l%2BU1ApM%3D&Expires=1627009191",
+                        "has_video": false
+                    },
+                    "record_type": "work",
+                    "type": "Film",
+                    "is_on_display": false,
+                    "last_on_display_place": null,
+                    "last_on_display_date": null,
+                    "is_context_indigenous": false,
+                    "material_description": "",
+                    "unpublished": false,
+                    "first_production_date": "1966-01-01T10:00:00+10:00"
+                },
+                {
+                    "id": 119230,
+                    "acmi_id": "177083",
+                    "title": "[Tony Agapitos: Ninolakis The Poet]",
+                    "title_annotation": "",
+                    "slug": "tony-agapitos-ninolakis-the-poet",
+                    "creator_credit": "Tony Agapitos",
+                    "credit_line": "",
+                    "headline_credit": "Australia, c. 1960",
+                    "thumbnail": {
+                        "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/B2005010_mi01_TAgapitosNinolakisThePoet.tif.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=fjW3K2uZLPSpHcHSb3854IffxBU%3D&Expires=1627009191",
+                        "has_video": false
+                    },
+                    "record_type": "work",
+                    "type": "Film",
+                    "is_on_display": false,
+                    "last_on_display_place": null,
+                    "last_on_display_date": null,
+                    "is_context_indigenous": false,
+                    "material_description": "",
+                    "unpublished": false,
+                    "first_production_date": null
+                },
+                {
+                    "id": 119228,
+                    "acmi_id": "177084",
+                    "title": "[Tony Agapitos: Preparations for Miss Greek Charity Quest]",
+                    "title_annotation": "",
+                    "slug": "tony-agapitos-preparations-for-miss-greek-charity-quest",
+                    "creator_credit": "Tony Agapitos",
+                    "credit_line": "",
+                    "headline_credit": "Australia, c. 1960",
+                    "thumbnail": {
+                        "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/B2005011_mi01_TAgapitosPreparingMissGreek.tif.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=qbncMlKmYpupVpxw8h56iSQCQqY%3D&Expires=1627009191",
+                        "has_video": false
+                    },
+                    "record_type": "work",
+                    "type": "Film",
+                    "is_on_display": false,
+                    "last_on_display_place": null,
+                    "last_on_display_date": null,
+                    "is_context_indigenous": false,
+                    "material_description": "",
+                    "unpublished": false,
+                    "first_production_date": null
+                }
+            ],
+            "source": {
+                "name": "Vernon",
+                "slug": "vernon"
+            },
+            "source_identifier": "177085",
+            "production_places": [
+                {
+                    "id": 3,
+                    "name": "Australia",
+                    "slug": "australia"
+                }
+            ],
+            "production_dates": [
+                {
+                    "date": "c. 1960",
+                    "notes": "",
+                    "to_year": "c. 1960"
+                }
+            ],
+            "labels": [
+                58700
+            ]
+        },
+        {
+            "id": 119228,
+            "acmi_id": "177084",
+            "title": "[Tony Agapitos: Preparations for Miss Greek Charity Quest]",
+            "title_annotation": "",
+            "slug": "tony-agapitos-preparations-for-miss-greek-charity-quest",
+            "creator_credit": "Tony Agapitos",
+            "credit_line": "",
+            "headline_credit": "Australia, c. 1960",
+            "thumbnail": {
+                "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/B2005011_mi01_TAgapitosPreparingMissGreek.tif.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=qbncMlKmYpupVpxw8h56iSQCQqY%3D&Expires=1627009191",
+                "has_video": false
+            },
+            "record_type": "work",
+            "type": "Film",
+            "is_on_display": false,
+            "last_on_display_place": null,
+            "last_on_display_date": null,
+            "is_context_indigenous": false,
+            "material_description": "",
+            "unpublished": false,
+            "first_production_date": null,
+            "brief_description": "<p>This film shows a small fundraiser and social occasion with Greek youth holding a raffle, barbecue and dance. Money raised supported the Miss Greek Charity Quest, for which the preparations can be seen.</p>\n<p>This film is part of a collection of 16mm films made by Tony Agapitos. The collection offers a glimpse at Greek migrant life in Victoria from the 1950s to the 1970s.</p>",
+            "constellations_primary": [],
+            "constellations_other": [],
+            "recommendations": [],
+            "title_for_label": "<p>[Tony Agapitos: Preparations for Miss Greek Charity Quest]</p>",
+            "creator_credit_for_label": "<p>Tony Agapitos</p>",
+            "headline_credit_for_label": "<p>Australia, c. 1960</p>",
+            "description": "<p>This film shows a small fundraiser and social occasion with Greek youth holding a raffle, barbecue and dance. Money raised supported the Miss Greek Charity Quest, for which the preparations can be seen.</p>\n<p>This film is part of a collection of 16mm films made by Tony Agapitos. The collection offers a glimpse at Greek migrant life in Victoria from the 1950s to the 1970s.</p>",
+            "description_for_label": [
+                "<p>This film shows a small fundraiser and social occasion with Greek youth holding a raffle, barbecue and dance. Money raised supported the Miss Greek Charity Quest, for which the preparations can be seen.</p>\n<p>This film is part of a collection of 16mm films made by Tony Agapitos. The collection offers a glimpse at Greek migrant life in Victoria from the 1950s to the 1970s.</p>"
+            ],
+            "credit_line_for_label": "",
+            "details": [
+                {
+                    "label": "Subject categories",
+                    "display_values": [
+                        "Amateur & Student Films&nbsp;→ Amateur films",
+                        "Short films",
+                        "Short films&nbsp;→ Short films - Australia"
+                    ]
+                }
+            ],
+            "stats": {
+                "tap_count": 0
+            },
+            "links": [],
+            "creators_primary": [
+                {
+                    "id": 1134379,
+                    "name": "Tony Agapitos",
+                    "creator_id": 82126,
+                    "role": "creator",
+                    "role_id": 968,
+                    "is_primary": true
+                }
+            ],
+            "creators_other": [],
+            "video_links": [
+                {
+                    "id": 1384,
+                    "name": "ACMI External Digital Access Copy",
+                    "uri": "https://www.youtube.com/watch?v=NQ2rKTif9N0"
+                }
+            ],
+            "media_note": null,
+            "images": [
+                {
+                    "id": 28135,
+                    "image_file": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/B2005011_mi01_TAgapitosPreparingMissGreek.tif?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=SbRnpfb%2FLB0MwY1HfUjGBGwCbrQ%3D&Expires=1627009191",
+                    "image_file_thumbnail": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/B2005011_mi01_TAgapitosPreparingMissGreek.tif.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=qbncMlKmYpupVpxw8h56iSQCQqY%3D&Expires=1627009191",
+                    "image_file_xs": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/B2005011_mi01_TAgapitosPreparingMissGreek.tif.480x480_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=uHUY9lj1tl9p8n%2FKh7TkQM7exo4%3D&Expires=1627009191",
+                    "image_file_s": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/B2005011_mi01_TAgapitosPreparingMissGreek.tif.960x960_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=Y2Ox44uA%2BXkgtJU71RRj%2BcX24v0%3D&Expires=1627009191",
+                    "image_file_m": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/B2005011_mi01_TAgapitosPreparingMissGreek.tif.1920x1920_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=d%2FXBy8FW1MgLFpYDhzk3d5WBZEw%3D&Expires=1627009191",
+                    "image_file_l": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/B2005011_mi01_TAgapitosPreparingMissGreek.tif.3840x3840_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=uC07gW%2Bmch4SPJdUvOs1V2WPr40%3D&Expires=1627009191",
+                    "caption": "[Tony Agapitos: Preparations for Miss Greek Charity Quest] (Tony Agapitos) Digital Access Still",
+                    "credit_line": "",
+                    "alt_text": "",
+                    "width": 1520,
+                    "height": 1140,
+                    "access_level": "View anywhere"
+                }
+            ],
+            "videos": [],
+            "holdings": [
+                {
+                    "name": "16mm film; Master",
+                    "identifier": "",
+                    "description": ""
+                },
+                {
+                    "name": "MOV file ProRes4444; Digital Preservation Master - overscan",
+                    "identifier": "",
+                    "description": ""
+                },
+                {
+                    "name": "MOV file ProRes4444; Digital Preservation Master - presentation",
+                    "identifier": "",
+                    "description": ""
+                },
+                {
+                    "name": "MPEG-4 Digital File; ACMI Digital Access Copy - overscan",
+                    "identifier": "",
+                    "description": ""
+                },
+                {
+                    "name": "MPEG-4 Digital File; ACMI Digital Access Copy - presentation",
+                    "identifier": "",
+                    "description": ""
+                },
+                {
+                    "name": "MOV file H264; ACMI External Digital Access Copy",
+                    "identifier": "",
+                    "description": ""
+                }
+            ],
+            "part_of": null,
+            "parts": [],
+            "part_siblings": [],
+            "group": {
+                "id": 114540,
+                "acmi_id": "2272",
+                "title": "Tony Agapitos Home Movie Collection",
+                "title_annotation": "",
+                "slug": "tony-agapitos-home-movie-collection",
+                "creator_credit": "Tony Agapitos",
+                "credit_line": "",
+                "headline_credit": "Australia, 1959-1975",
+                "thumbnail": {
+                    "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/B2005006_mi01_CelebratingNationalDay.tif.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=1Pj%2FCeFf8MF8Hi0D05A5S35Os%2F8%3D&Expires=1627009191",
+                    "has_video": false
+                },
+                "record_type": "group",
+                "type": "Film",
+                "is_on_display": false,
+                "last_on_display_place": null,
+                "last_on_display_date": null,
+                "is_context_indigenous": false,
+                "material_description": "",
+                "unpublished": false,
+                "first_production_date": null
+            },
+            "group_works": [],
+            "group_siblings": [
+                {
+                    "id": 119229,
+                    "acmi_id": "177079",
+                    "title": "[Tony Agapitos: Celebration of National Day of the Greek Community]",
+                    "title_annotation": "",
+                    "slug": "tony-agapitos-celebration-of-national-day-of-the-greek-community",
+                    "creator_credit": "Tony Agapitos",
+                    "credit_line": "",
+                    "headline_credit": "Australia, 1966",
+                    "thumbnail": {
+                        "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/B2005006_mi01_CelebratingNationalDay.tif.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=1Pj%2FCeFf8MF8Hi0D05A5S35Os%2F8%3D&Expires=1627009191",
+                        "has_video": false
+                    },
+                    "record_type": "work",
+                    "type": "Film",
+                    "is_on_display": false,
+                    "last_on_display_place": null,
+                    "last_on_display_date": null,
+                    "is_context_indigenous": false,
+                    "material_description": "",
+                    "unpublished": false,
+                    "first_production_date": "1966-01-01T10:00:00+10:00"
+                },
+                {
+                    "id": 119253,
+                    "acmi_id": "177080",
+                    "title": "[Tony Agapitos: Greek Boy Scouts and Girl Guides supporting Bishop at Festival Hall]",
+                    "title_annotation": "",
+                    "slug": "tony-agapitos-greek-boy-scouts-and-girl-guides-supporting-bishop-at-festival-hall",
+                    "creator_credit": "Tony Agapitos",
+                    "credit_line": "",
+                    "headline_credit": "Australia, 1966",
+                    "thumbnail": {
+                        "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/B2005007_mi01_TAgapitosBoyScoutsGirlGuides.tif.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=%2BMxlvPjcgLZ9zSkVBuY9l%2BU1ApM%3D&Expires=1627009191",
+                        "has_video": false
+                    },
+                    "record_type": "work",
+                    "type": "Film",
+                    "is_on_display": false,
+                    "last_on_display_place": null,
+                    "last_on_display_date": null,
+                    "is_context_indigenous": false,
+                    "material_description": "",
+                    "unpublished": false,
+                    "first_production_date": "1966-01-01T10:00:00+10:00"
+                },
+                {
+                    "id": 119231,
+                    "acmi_id": "177085",
+                    "title": "[Tony Agapitos: Miss Greek Charity Quest]",
+                    "title_annotation": "",
+                    "slug": "tony-agapitos-miss-greek-charity-quest",
+                    "creator_credit": "Tony Agapitos",
+                    "credit_line": "",
+                    "headline_credit": "Australia, c. 1960",
+                    "thumbnail": {
+                        "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/B2005012_mi01_TAgapitosMissGreekCharity.tif.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=xrOf3PyxxS35DgULu%2BZ2eQcvE6c%3D&Expires=1627009191",
+                        "has_video": false
+                    },
+                    "record_type": "work",
+                    "type": "Film",
+                    "is_on_display": false,
+                    "last_on_display_place": null,
+                    "last_on_display_date": null,
+                    "is_context_indigenous": false,
+                    "material_description": "",
+                    "unpublished": false,
+                    "first_production_date": null
+                },
+                {
+                    "id": 119230,
+                    "acmi_id": "177083",
+                    "title": "[Tony Agapitos: Ninolakis The Poet]",
+                    "title_annotation": "",
+                    "slug": "tony-agapitos-ninolakis-the-poet",
+                    "creator_credit": "Tony Agapitos",
+                    "credit_line": "",
+                    "headline_credit": "Australia, c. 1960",
+                    "thumbnail": {
+                        "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/B2005010_mi01_TAgapitosNinolakisThePoet.tif.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=fjW3K2uZLPSpHcHSb3854IffxBU%3D&Expires=1627009191",
+                        "has_video": false
+                    },
+                    "record_type": "work",
+                    "type": "Film",
+                    "is_on_display": false,
+                    "last_on_display_place": null,
+                    "last_on_display_date": null,
+                    "is_context_indigenous": false,
+                    "material_description": "",
+                    "unpublished": false,
+                    "first_production_date": null
+                }
+            ],
+            "source": {
+                "name": "Vernon",
+                "slug": "vernon"
+            },
+            "source_identifier": "177084",
+            "production_places": [
+                {
+                    "id": 3,
+                    "name": "Australia",
+                    "slug": "australia"
+                }
+            ],
+            "production_dates": [
+                {
+                    "date": "c. 1960",
+                    "notes": "",
+                    "to_year": "c. 1960"
+                }
+            ],
+            "labels": [
+                58697
+            ]
+        },
+        {
+            "id": 119230,
+            "acmi_id": "177083",
+            "title": "[Tony Agapitos: Ninolakis The Poet]",
+            "title_annotation": "",
+            "slug": "tony-agapitos-ninolakis-the-poet",
+            "creator_credit": "Tony Agapitos",
+            "credit_line": "",
+            "headline_credit": "Australia, c. 1960",
+            "thumbnail": {
+                "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/B2005010_mi01_TAgapitosNinolakisThePoet.tif.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=fjW3K2uZLPSpHcHSb3854IffxBU%3D&Expires=1627009191",
+                "has_video": false
+            },
+            "record_type": "work",
+            "type": "Film",
+            "is_on_display": false,
+            "last_on_display_place": null,
+            "last_on_display_date": null,
+            "is_context_indigenous": false,
+            "material_description": "",
+            "unpublished": false,
+            "first_production_date": null,
+            "brief_description": "<p>This silent film shows an intimate lounge room party and poetry reading by a poet known as Ninolakis.</p>\n<p>This film is part of a collection of 16mm films made by Tony Agapitos. The collection offers a glimpse at Greek migrant life in Victoria from the 1950s to the 1970s.</p>",
+            "constellations_primary": [],
+            "constellations_other": [],
+            "recommendations": [],
+            "title_for_label": "<p>[Tony Agapitos: Ninolakis The Poet]</p>",
+            "creator_credit_for_label": "<p>Tony Agapitos</p>",
+            "headline_credit_for_label": "<p>Australia, c. 1960</p>",
+            "description": "<p>This silent film shows an intimate lounge room party and poetry reading by a poet known as Ninolakis.</p>\n<p>This film is part of a collection of 16mm films made by Tony Agapitos. The collection offers a glimpse at Greek migrant life in Victoria from the 1950s to the 1970s.</p>",
+            "description_for_label": [
+                "<p>This silent film shows an intimate lounge room party and poetry reading by a poet known as Ninolakis.</p>\n<p>This film is part of a collection of 16mm films made by Tony Agapitos. The collection offers a glimpse at Greek migrant life in Victoria from the 1950s to the 1970s.</p>"
+            ],
+            "credit_line_for_label": "",
+            "details": [
+                {
+                    "label": "Language",
+                    "display_values": [
+                        "No spoken word"
+                    ]
+                },
+                {
+                    "label": "Subject categories",
+                    "display_values": [
+                        "Amateur & Student Films&nbsp;→ Amateur films",
+                        "Short films",
+                        "Short films&nbsp;→ Short films - Australia"
+                    ]
+                },
+                {
+                    "label": "Sound/audio",
+                    "display_values": [
+                        "Silent"
+                    ]
+                },
+                {
+                    "label": "Colour",
+                    "display_values": [
+                        "Black and White"
+                    ]
+                }
+            ],
+            "stats": {
+                "tap_count": 0
+            },
+            "links": [],
+            "creators_primary": [
+                {
+                    "id": 1134378,
+                    "name": "Tony Agapitos",
+                    "creator_id": 82126,
+                    "role": "creator",
+                    "role_id": 968,
+                    "is_primary": true
+                }
+            ],
+            "creators_other": [],
+            "video_links": [
+                {
+                    "id": 1386,
+                    "name": "ACMI External Digital Access Copy",
+                    "uri": "https://www.youtube.com/watch?v=F3CWqig906w"
+                }
+            ],
+            "media_note": null,
+            "images": [
+                {
+                    "id": 28137,
+                    "image_file": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/B2005010_mi01_TAgapitosNinolakisThePoet.tif?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=UfH8Vz0RRewf7oDaJzpLTxiQX5g%3D&Expires=1627009191",
+                    "image_file_thumbnail": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/B2005010_mi01_TAgapitosNinolakisThePoet.tif.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=fjW3K2uZLPSpHcHSb3854IffxBU%3D&Expires=1627009191",
+                    "image_file_xs": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/B2005010_mi01_TAgapitosNinolakisThePoet.tif.480x480_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=WBryvUXKS7yy86IbGz%2Fvjx48TAc%3D&Expires=1627009191",
+                    "image_file_s": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/B2005010_mi01_TAgapitosNinolakisThePoet.tif.960x960_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=LAXz3tRxqufRZOUNOPiMCT9TAug%3D&Expires=1627009191",
+                    "image_file_m": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/B2005010_mi01_TAgapitosNinolakisThePoet.tif.1920x1920_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=WfrorYtw%2BH9lPDwodwid3iQWHrM%3D&Expires=1627009191",
+                    "image_file_l": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/B2005010_mi01_TAgapitosNinolakisThePoet.tif.3840x3840_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=6461ke1HDVd%2FTB0ENySigGjjOs8%3D&Expires=1627009191",
+                    "caption": "[Tony Agapitos: Ninolakis The Poet] (Tony Agapitos) Digital Access Still",
+                    "credit_line": "",
+                    "alt_text": "",
+                    "width": 1480,
+                    "height": 1110,
+                    "access_level": "View anywhere"
+                }
+            ],
+            "videos": [],
+            "holdings": [
+                {
+                    "name": "16mm film; Master",
+                    "identifier": "",
+                    "description": ""
+                },
+                {
+                    "name": "MOV file ProRes4444; Digital Preservation Master - overscan",
+                    "identifier": "",
+                    "description": ""
+                },
+                {
+                    "name": "MOV file ProRes4444; Digital Preservation Master - presentation",
+                    "identifier": "",
+                    "description": ""
+                },
+                {
+                    "name": "MPEG-4 Digital File; ACMI Digital Access Copy - overscan",
+                    "identifier": "",
+                    "description": ""
+                },
+                {
+                    "name": "MPEG-4 Digital File; ACMI Digital Access Copy - presentation",
+                    "identifier": "",
+                    "description": ""
+                },
+                {
+                    "name": "MOV file H264; ACMI External Digital Access Copy",
+                    "identifier": "",
+                    "description": ""
+                }
+            ],
+            "part_of": null,
+            "parts": [],
+            "part_siblings": [],
+            "group": {
+                "id": 114540,
+                "acmi_id": "2272",
+                "title": "Tony Agapitos Home Movie Collection",
+                "title_annotation": "",
+                "slug": "tony-agapitos-home-movie-collection",
+                "creator_credit": "Tony Agapitos",
+                "credit_line": "",
+                "headline_credit": "Australia, 1959-1975",
+                "thumbnail": {
+                    "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/B2005006_mi01_CelebratingNationalDay.tif.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=1Pj%2FCeFf8MF8Hi0D05A5S35Os%2F8%3D&Expires=1627009191",
+                    "has_video": false
+                },
+                "record_type": "group",
+                "type": "Film",
+                "is_on_display": false,
+                "last_on_display_place": null,
+                "last_on_display_date": null,
+                "is_context_indigenous": false,
+                "material_description": "",
+                "unpublished": false,
+                "first_production_date": null
+            },
+            "group_works": [],
+            "group_siblings": [
+                {
+                    "id": 119229,
+                    "acmi_id": "177079",
+                    "title": "[Tony Agapitos: Celebration of National Day of the Greek Community]",
+                    "title_annotation": "",
+                    "slug": "tony-agapitos-celebration-of-national-day-of-the-greek-community",
+                    "creator_credit": "Tony Agapitos",
+                    "credit_line": "",
+                    "headline_credit": "Australia, 1966",
+                    "thumbnail": {
+                        "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/B2005006_mi01_CelebratingNationalDay.tif.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=1Pj%2FCeFf8MF8Hi0D05A5S35Os%2F8%3D&Expires=1627009191",
+                        "has_video": false
+                    },
+                    "record_type": "work",
+                    "type": "Film",
+                    "is_on_display": false,
+                    "last_on_display_place": null,
+                    "last_on_display_date": null,
+                    "is_context_indigenous": false,
+                    "material_description": "",
+                    "unpublished": false,
+                    "first_production_date": "1966-01-01T10:00:00+10:00"
+                },
+                {
+                    "id": 119253,
+                    "acmi_id": "177080",
+                    "title": "[Tony Agapitos: Greek Boy Scouts and Girl Guides supporting Bishop at Festival Hall]",
+                    "title_annotation": "",
+                    "slug": "tony-agapitos-greek-boy-scouts-and-girl-guides-supporting-bishop-at-festival-hall",
+                    "creator_credit": "Tony Agapitos",
+                    "credit_line": "",
+                    "headline_credit": "Australia, 1966",
+                    "thumbnail": {
+                        "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/B2005007_mi01_TAgapitosBoyScoutsGirlGuides.tif.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=%2BMxlvPjcgLZ9zSkVBuY9l%2BU1ApM%3D&Expires=1627009191",
+                        "has_video": false
+                    },
+                    "record_type": "work",
+                    "type": "Film",
+                    "is_on_display": false,
+                    "last_on_display_place": null,
+                    "last_on_display_date": null,
+                    "is_context_indigenous": false,
+                    "material_description": "",
+                    "unpublished": false,
+                    "first_production_date": "1966-01-01T10:00:00+10:00"
+                },
+                {
+                    "id": 119231,
+                    "acmi_id": "177085",
+                    "title": "[Tony Agapitos: Miss Greek Charity Quest]",
+                    "title_annotation": "",
+                    "slug": "tony-agapitos-miss-greek-charity-quest",
+                    "creator_credit": "Tony Agapitos",
+                    "credit_line": "",
+                    "headline_credit": "Australia, c. 1960",
+                    "thumbnail": {
+                        "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/B2005012_mi01_TAgapitosMissGreekCharity.tif.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=xrOf3PyxxS35DgULu%2BZ2eQcvE6c%3D&Expires=1627009191",
+                        "has_video": false
+                    },
+                    "record_type": "work",
+                    "type": "Film",
+                    "is_on_display": false,
+                    "last_on_display_place": null,
+                    "last_on_display_date": null,
+                    "is_context_indigenous": false,
+                    "material_description": "",
+                    "unpublished": false,
+                    "first_production_date": null
+                },
+                {
+                    "id": 119228,
+                    "acmi_id": "177084",
+                    "title": "[Tony Agapitos: Preparations for Miss Greek Charity Quest]",
+                    "title_annotation": "",
+                    "slug": "tony-agapitos-preparations-for-miss-greek-charity-quest",
+                    "creator_credit": "Tony Agapitos",
+                    "credit_line": "",
+                    "headline_credit": "Australia, c. 1960",
+                    "thumbnail": {
+                        "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/B2005011_mi01_TAgapitosPreparingMissGreek.tif.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=qbncMlKmYpupVpxw8h56iSQCQqY%3D&Expires=1627009191",
+                        "has_video": false
+                    },
+                    "record_type": "work",
+                    "type": "Film",
+                    "is_on_display": false,
+                    "last_on_display_place": null,
+                    "last_on_display_date": null,
+                    "is_context_indigenous": false,
+                    "material_description": "",
+                    "unpublished": false,
+                    "first_production_date": null
+                }
+            ],
+            "source": {
+                "name": "Vernon",
+                "slug": "vernon"
+            },
+            "source_identifier": "177083",
+            "production_places": [
+                {
+                    "id": 3,
+                    "name": "Australia",
+                    "slug": "australia"
+                }
+            ],
+            "production_dates": [
+                {
+                    "date": "c. 1960",
+                    "notes": "",
+                    "to_year": "c. 1960"
+                }
+            ],
+            "labels": [
+                58699
+            ]
+        },
+        {
+            "id": 119253,
+            "acmi_id": "177080",
+            "title": "[Tony Agapitos: Greek Boy Scouts and Girl Guides supporting Bishop at Festival Hall]",
+            "title_annotation": "",
+            "slug": "tony-agapitos-greek-boy-scouts-and-girl-guides-supporting-bishop-at-festival-hall",
+            "creator_credit": "Tony Agapitos",
+            "credit_line": "",
+            "headline_credit": "Australia, 1966",
+            "thumbnail": {
+                "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/B2005007_mi01_TAgapitosBoyScoutsGirlGuides.tif.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=%2BMxlvPjcgLZ9zSkVBuY9l%2BU1ApM%3D&Expires=1627009191",
+                "has_video": false
+            },
+            "record_type": "work",
+            "type": "Film",
+            "is_on_display": false,
+            "last_on_display_place": null,
+            "last_on_display_date": null,
+            "is_context_indigenous": false,
+            "material_description": "",
+            "unpublished": false,
+            "first_production_date": "1966-01-01T10:00:00+10:00",
+            "brief_description": "<p>This silent film shows the Greek Boy Scouts and other children assembling to celebrate National Day of the Greek Community, 25th March 1966 at Festival Hall, Melbourne.</p>\n<p>This film is part of a collection of 16mm films made by Tony Agapitos. The collection offers a glimpse at Greek migrant life in Victoria from the 1950s to the 1970s.</p>",
+            "constellations_primary": [],
+            "constellations_other": [],
+            "recommendations": [],
+            "title_for_label": "<p>[Tony Agapitos: Greek Boy Scouts and Girl Guides supporting Bishop at Festival Hall]</p>",
+            "creator_credit_for_label": "<p>Tony Agapitos</p>",
+            "headline_credit_for_label": "<p>Australia, 1966</p>",
+            "description": "<p>This silent film shows the Greek Boy Scouts and other children assembling to celebrate National Day of the Greek Community, 25th March 1966 at Festival Hall, Melbourne.</p>\n<p>This film is part of a collection of 16mm films made by Tony Agapitos. The collection offers a glimpse at Greek migrant life in Victoria from the 1950s to the 1970s.</p>",
+            "description_for_label": [
+                "<p>This silent film shows the Greek Boy Scouts and other children assembling to celebrate National Day of the Greek Community, 25th March 1966 at Festival Hall, Melbourne.</p>\n<p>This film is part of a collection of 16mm films made by Tony Agapitos. The collection offers a glimpse at Greek migrant life in Victoria from the 1950s to the 1970s.</p>"
+            ],
+            "credit_line_for_label": "",
+            "details": [
+                {
+                    "label": "Language",
+                    "display_values": [
+                        "No spoken word"
+                    ]
+                },
+                {
+                    "label": "Subject categories",
+                    "display_values": [
+                        "Amateur & Student Films&nbsp;→ Amateur films",
+                        "Short films",
+                        "Short films&nbsp;→ Short films - Australia"
+                    ]
+                },
+                {
+                    "label": "Sound/audio",
+                    "display_values": [
+                        "Silent"
+                    ]
+                },
+                {
+                    "label": "Colour",
+                    "display_values": [
+                        "Black and White"
+                    ]
+                }
+            ],
+            "stats": {
+                "tap_count": 0
+            },
+            "links": [],
+            "creators_primary": [
+                {
+                    "id": 1134377,
+                    "name": "Tony Agapitos",
+                    "creator_id": 82126,
+                    "role": "creator",
+                    "role_id": 968,
+                    "is_primary": true
+                }
+            ],
+            "creators_other": [],
+            "video_links": [
+                {
+                    "id": 1409,
+                    "name": "ACMI External Digital Access Copy",
+                    "uri": "https://www.youtube.com/watch?v=Ulj0TNdcBlQ"
+                }
+            ],
+            "media_note": null,
+            "images": [
+                {
+                    "id": 28174,
+                    "image_file": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/B2005007_mi01_TAgapitosBoyScoutsGirlGuides.tif?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=DEqkIjteOPhpAaBI40mmrM96IwY%3D&Expires=1627009191",
+                    "image_file_thumbnail": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/B2005007_mi01_TAgapitosBoyScoutsGirlGuides.tif.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=%2BMxlvPjcgLZ9zSkVBuY9l%2BU1ApM%3D&Expires=1627009191",
+                    "image_file_xs": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/B2005007_mi01_TAgapitosBoyScoutsGirlGuides.tif.480x480_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=NqLn%2By2%2B5c19gM1CbcpFyXjeWB0%3D&Expires=1627009191",
+                    "image_file_s": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/B2005007_mi01_TAgapitosBoyScoutsGirlGuides.tif.960x960_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=APTp7JmMVixuYIbGq5jojd6TJ%2FY%3D&Expires=1627009191",
+                    "image_file_m": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/B2005007_mi01_TAgapitosBoyScoutsGirlGuides.tif.1920x1920_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=E%2FJ4%2BBw4SpMrPRYxXYVkkFoW7ik%3D&Expires=1627009191",
+                    "image_file_l": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/B2005007_mi01_TAgapitosBoyScoutsGirlGuides.tif.3840x3840_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=cd3wa0pSnOJotf9pCiY3bFNR0ec%3D&Expires=1627009191",
+                    "caption": "[Tony Agapitos: Greek Boy Scouts and Girl Guides supporting Bishop at Festival Hall 1966] (Tony Agapitos) Digital Access Still",
+                    "credit_line": "",
+                    "alt_text": "",
+                    "width": 1480,
+                    "height": 1110,
+                    "access_level": "View anywhere"
+                }
+            ],
+            "videos": [],
+            "holdings": [
+                {
+                    "name": "16mm film; Master",
+                    "identifier": "",
+                    "description": ""
+                },
+                {
+                    "name": "MOV file ProRes4444; Digital Preservation Master - overscan",
+                    "identifier": "",
+                    "description": ""
+                },
+                {
+                    "name": "MOV file ProRes4444; Digital Preservation Master - presentation",
+                    "identifier": "",
+                    "description": ""
+                },
+                {
+                    "name": "MPEG-4 Digital File; ACMI Digital Access Copy - overscan",
+                    "identifier": "",
+                    "description": ""
+                },
+                {
+                    "name": "MPEG-4 Digital File; ACMI Digital Access Copy - presentation",
+                    "identifier": "",
+                    "description": ""
+                },
+                {
+                    "name": "MOV file H264; ACMI External Digital Access Copy",
+                    "identifier": "",
+                    "description": ""
+                }
+            ],
+            "part_of": null,
+            "parts": [],
+            "part_siblings": [],
+            "group": {
+                "id": 114540,
+                "acmi_id": "2272",
+                "title": "Tony Agapitos Home Movie Collection",
+                "title_annotation": "",
+                "slug": "tony-agapitos-home-movie-collection",
+                "creator_credit": "Tony Agapitos",
+                "credit_line": "",
+                "headline_credit": "Australia, 1959-1975",
+                "thumbnail": {
+                    "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/B2005006_mi01_CelebratingNationalDay.tif.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=1Pj%2FCeFf8MF8Hi0D05A5S35Os%2F8%3D&Expires=1627009191",
+                    "has_video": false
+                },
+                "record_type": "group",
+                "type": "Film",
+                "is_on_display": false,
+                "last_on_display_place": null,
+                "last_on_display_date": null,
+                "is_context_indigenous": false,
+                "material_description": "",
+                "unpublished": false,
+                "first_production_date": null
+            },
+            "group_works": [],
+            "group_siblings": [
+                {
+                    "id": 119229,
+                    "acmi_id": "177079",
+                    "title": "[Tony Agapitos: Celebration of National Day of the Greek Community]",
+                    "title_annotation": "",
+                    "slug": "tony-agapitos-celebration-of-national-day-of-the-greek-community",
+                    "creator_credit": "Tony Agapitos",
+                    "credit_line": "",
+                    "headline_credit": "Australia, 1966",
+                    "thumbnail": {
+                        "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/B2005006_mi01_CelebratingNationalDay.tif.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=1Pj%2FCeFf8MF8Hi0D05A5S35Os%2F8%3D&Expires=1627009191",
+                        "has_video": false
+                    },
+                    "record_type": "work",
+                    "type": "Film",
+                    "is_on_display": false,
+                    "last_on_display_place": null,
+                    "last_on_display_date": null,
+                    "is_context_indigenous": false,
+                    "material_description": "",
+                    "unpublished": false,
+                    "first_production_date": "1966-01-01T10:00:00+10:00"
+                },
+                {
+                    "id": 119231,
+                    "acmi_id": "177085",
+                    "title": "[Tony Agapitos: Miss Greek Charity Quest]",
+                    "title_annotation": "",
+                    "slug": "tony-agapitos-miss-greek-charity-quest",
+                    "creator_credit": "Tony Agapitos",
+                    "credit_line": "",
+                    "headline_credit": "Australia, c. 1960",
+                    "thumbnail": {
+                        "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/B2005012_mi01_TAgapitosMissGreekCharity.tif.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=xrOf3PyxxS35DgULu%2BZ2eQcvE6c%3D&Expires=1627009191",
+                        "has_video": false
+                    },
+                    "record_type": "work",
+                    "type": "Film",
+                    "is_on_display": false,
+                    "last_on_display_place": null,
+                    "last_on_display_date": null,
+                    "is_context_indigenous": false,
+                    "material_description": "",
+                    "unpublished": false,
+                    "first_production_date": null
+                },
+                {
+                    "id": 119230,
+                    "acmi_id": "177083",
+                    "title": "[Tony Agapitos: Ninolakis The Poet]",
+                    "title_annotation": "",
+                    "slug": "tony-agapitos-ninolakis-the-poet",
+                    "creator_credit": "Tony Agapitos",
+                    "credit_line": "",
+                    "headline_credit": "Australia, c. 1960",
+                    "thumbnail": {
+                        "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/B2005010_mi01_TAgapitosNinolakisThePoet.tif.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=fjW3K2uZLPSpHcHSb3854IffxBU%3D&Expires=1627009191",
+                        "has_video": false
+                    },
+                    "record_type": "work",
+                    "type": "Film",
+                    "is_on_display": false,
+                    "last_on_display_place": null,
+                    "last_on_display_date": null,
+                    "is_context_indigenous": false,
+                    "material_description": "",
+                    "unpublished": false,
+                    "first_production_date": null
+                },
+                {
+                    "id": 119228,
+                    "acmi_id": "177084",
+                    "title": "[Tony Agapitos: Preparations for Miss Greek Charity Quest]",
+                    "title_annotation": "",
+                    "slug": "tony-agapitos-preparations-for-miss-greek-charity-quest",
+                    "creator_credit": "Tony Agapitos",
+                    "credit_line": "",
+                    "headline_credit": "Australia, c. 1960",
+                    "thumbnail": {
+                        "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/B2005011_mi01_TAgapitosPreparingMissGreek.tif.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=qbncMlKmYpupVpxw8h56iSQCQqY%3D&Expires=1627009191",
+                        "has_video": false
+                    },
+                    "record_type": "work",
+                    "type": "Film",
+                    "is_on_display": false,
+                    "last_on_display_place": null,
+                    "last_on_display_date": null,
+                    "is_context_indigenous": false,
+                    "material_description": "",
+                    "unpublished": false,
+                    "first_production_date": null
+                }
+            ],
+            "source": {
+                "name": "Vernon",
+                "slug": "vernon"
+            },
+            "source_identifier": "177080",
+            "production_places": [
+                {
+                    "id": 3,
+                    "name": "Australia",
+                    "slug": "australia"
+                }
+            ],
+            "production_dates": [
+                {
+                    "date": "1966",
+                    "notes": "",
+                    "to_year": "1966"
+                }
+            ],
+            "labels": [
+                58722
+            ]
+        },
+        {
+            "id": 119229,
+            "acmi_id": "177079",
+            "title": "[Tony Agapitos: Celebration of National Day of the Greek Community]",
+            "title_annotation": "",
+            "slug": "tony-agapitos-celebration-of-national-day-of-the-greek-community",
+            "creator_credit": "Tony Agapitos",
+            "credit_line": "",
+            "headline_credit": "Australia, 1966",
+            "thumbnail": {
+                "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/B2005006_mi01_CelebratingNationalDay.tif.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=1Pj%2FCeFf8MF8Hi0D05A5S35Os%2F8%3D&Expires=1627009191",
+                "has_video": false
+            },
+            "record_type": "work",
+            "type": "Film",
+            "is_on_display": false,
+            "last_on_display_place": null,
+            "last_on_display_date": null,
+            "is_context_indigenous": false,
+            "material_description": "",
+            "unpublished": false,
+            "first_production_date": "1966-01-01T10:00:00+10:00",
+            "brief_description": "<p>This film shows a celebration of National Day of the Greek Community 25th March 1966 at the Olympic Swimming Pool, Melbourne.</p>\n<p>This film is part of a collection of 16mm films made by Tony Agapitos. The collection offers a glimpse at Greek migrant life in Victoria from the 1950s to the 1970s.</p>",
+            "constellations_primary": [],
+            "constellations_other": [],
+            "recommendations": [],
+            "title_for_label": "<p>[Tony Agapitos: Celebration of National Day of the Greek Community]</p>",
+            "creator_credit_for_label": "<p>Tony Agapitos</p>",
+            "headline_credit_for_label": "<p>Australia, 1966</p>",
+            "description": "<p>This film shows a celebration of National Day of the Greek Community 25th March 1966 at the Olympic Swimming Pool, Melbourne.</p>\n<p>This film is part of a collection of 16mm films made by Tony Agapitos. The collection offers a glimpse at Greek migrant life in Victoria from the 1950s to the 1970s.</p>",
+            "description_for_label": [
+                "<p>This film shows a celebration of National Day of the Greek Community 25th March 1966 at the Olympic Swimming Pool, Melbourne.</p>\n<p>This film is part of a collection of 16mm films made by Tony Agapitos. The collection offers a glimpse at Greek migrant life in Victoria from the 1950s to the 1970s.</p>"
+            ],
+            "credit_line_for_label": "",
+            "details": [
+                {
+                    "label": "Subject categories",
+                    "display_values": [
+                        "Amateur & Student Films&nbsp;→ Amateur films",
+                        "Short films",
+                        "Short films&nbsp;→ Short films - Australia"
+                    ]
+                }
+            ],
+            "stats": {
+                "tap_count": 0
+            },
+            "links": [],
+            "creators_primary": [
+                {
+                    "id": 1134376,
+                    "name": "Tony Agapitos",
+                    "creator_id": 82126,
+                    "role": "creator",
+                    "role_id": 968,
+                    "is_primary": true
+                }
+            ],
+            "creators_other": [],
+            "video_links": [
+                {
+                    "id": 1385,
+                    "name": "ACMI External Digital Access Copy",
+                    "uri": "https://www.youtube.com/watch?v=qAK69hc0JxU"
+                }
+            ],
+            "media_note": null,
+            "images": [
+                {
+                    "id": 28136,
+                    "image_file": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/B2005006_mi01_CelebratingNationalDay.tif?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=GFid%2F1bAT9LnEkKJtO6t62PhlnU%3D&Expires=1627009191",
+                    "image_file_thumbnail": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/B2005006_mi01_CelebratingNationalDay.tif.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=1Pj%2FCeFf8MF8Hi0D05A5S35Os%2F8%3D&Expires=1627009191",
+                    "image_file_xs": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/B2005006_mi01_CelebratingNationalDay.tif.480x480_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=UPb8GWj%2FKM74ucW1DQbaGajvQfg%3D&Expires=1627009191",
+                    "image_file_s": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/B2005006_mi01_CelebratingNationalDay.tif.960x960_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=YZDPHEbQrL9CHEOnlxuK%2FowPd34%3D&Expires=1627009191",
+                    "image_file_m": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/B2005006_mi01_CelebratingNationalDay.tif.1920x1920_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=VFNlioVhPHad3f9zWQvF0%2FEygY8%3D&Expires=1627009191",
+                    "image_file_l": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/B2005006_mi01_CelebratingNationalDay.tif.3840x3840_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=idIrUg3oBzRu6ED8VKovcu0%2FUv8%3D&Expires=1627009191",
+                    "caption": "[Tony Agapitos: Celebration of National Day of the Greek Community 1966] (Tony Agapitos) Digital Access Still",
+                    "credit_line": "",
+                    "alt_text": "",
+                    "width": 1520,
+                    "height": 1140,
+                    "access_level": "View anywhere"
+                }
+            ],
+            "videos": [],
+            "holdings": [
+                {
+                    "name": "16mm film; Master",
+                    "identifier": "",
+                    "description": ""
+                },
+                {
+                    "name": "MOV file ProRes4444; Digital Preservation Master - overscan",
+                    "identifier": "",
+                    "description": ""
+                },
+                {
+                    "name": "MOV file ProRes4444; Digital Preservation Master - presentation",
+                    "identifier": "",
+                    "description": ""
+                },
+                {
+                    "name": "MPEG-4 Digital File; ACMI Digital Access Copy - overscan",
+                    "identifier": "",
+                    "description": ""
+                },
+                {
+                    "name": "MPEG-4 Digital File; ACMI Digital Access Copy - presentation",
+                    "identifier": "",
+                    "description": ""
+                },
+                {
+                    "name": "MOV file H264; ACMI External Digital Access Copy",
+                    "identifier": "",
+                    "description": ""
+                }
+            ],
+            "part_of": null,
+            "parts": [],
+            "part_siblings": [],
+            "group": {
+                "id": 114540,
+                "acmi_id": "2272",
+                "title": "Tony Agapitos Home Movie Collection",
+                "title_annotation": "",
+                "slug": "tony-agapitos-home-movie-collection",
+                "creator_credit": "Tony Agapitos",
+                "credit_line": "",
+                "headline_credit": "Australia, 1959-1975",
+                "thumbnail": {
+                    "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/B2005006_mi01_CelebratingNationalDay.tif.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=1Pj%2FCeFf8MF8Hi0D05A5S35Os%2F8%3D&Expires=1627009191",
+                    "has_video": false
+                },
+                "record_type": "group",
+                "type": "Film",
+                "is_on_display": false,
+                "last_on_display_place": null,
+                "last_on_display_date": null,
+                "is_context_indigenous": false,
+                "material_description": "",
+                "unpublished": false,
+                "first_production_date": null
+            },
+            "group_works": [],
+            "group_siblings": [
+                {
+                    "id": 119253,
+                    "acmi_id": "177080",
+                    "title": "[Tony Agapitos: Greek Boy Scouts and Girl Guides supporting Bishop at Festival Hall]",
+                    "title_annotation": "",
+                    "slug": "tony-agapitos-greek-boy-scouts-and-girl-guides-supporting-bishop-at-festival-hall",
+                    "creator_credit": "Tony Agapitos",
+                    "credit_line": "",
+                    "headline_credit": "Australia, 1966",
+                    "thumbnail": {
+                        "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/B2005007_mi01_TAgapitosBoyScoutsGirlGuides.tif.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=%2BMxlvPjcgLZ9zSkVBuY9l%2BU1ApM%3D&Expires=1627009191",
+                        "has_video": false
+                    },
+                    "record_type": "work",
+                    "type": "Film",
+                    "is_on_display": false,
+                    "last_on_display_place": null,
+                    "last_on_display_date": null,
+                    "is_context_indigenous": false,
+                    "material_description": "",
+                    "unpublished": false,
+                    "first_production_date": "1966-01-01T10:00:00+10:00"
+                },
+                {
+                    "id": 119231,
+                    "acmi_id": "177085",
+                    "title": "[Tony Agapitos: Miss Greek Charity Quest]",
+                    "title_annotation": "",
+                    "slug": "tony-agapitos-miss-greek-charity-quest",
+                    "creator_credit": "Tony Agapitos",
+                    "credit_line": "",
+                    "headline_credit": "Australia, c. 1960",
+                    "thumbnail": {
+                        "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/B2005012_mi01_TAgapitosMissGreekCharity.tif.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=xrOf3PyxxS35DgULu%2BZ2eQcvE6c%3D&Expires=1627009191",
+                        "has_video": false
+                    },
+                    "record_type": "work",
+                    "type": "Film",
+                    "is_on_display": false,
+                    "last_on_display_place": null,
+                    "last_on_display_date": null,
+                    "is_context_indigenous": false,
+                    "material_description": "",
+                    "unpublished": false,
+                    "first_production_date": null
+                },
+                {
+                    "id": 119230,
+                    "acmi_id": "177083",
+                    "title": "[Tony Agapitos: Ninolakis The Poet]",
+                    "title_annotation": "",
+                    "slug": "tony-agapitos-ninolakis-the-poet",
+                    "creator_credit": "Tony Agapitos",
+                    "credit_line": "",
+                    "headline_credit": "Australia, c. 1960",
+                    "thumbnail": {
+                        "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/B2005010_mi01_TAgapitosNinolakisThePoet.tif.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=fjW3K2uZLPSpHcHSb3854IffxBU%3D&Expires=1627009191",
+                        "has_video": false
+                    },
+                    "record_type": "work",
+                    "type": "Film",
+                    "is_on_display": false,
+                    "last_on_display_place": null,
+                    "last_on_display_date": null,
+                    "is_context_indigenous": false,
+                    "material_description": "",
+                    "unpublished": false,
+                    "first_production_date": null
+                },
+                {
+                    "id": 119228,
+                    "acmi_id": "177084",
+                    "title": "[Tony Agapitos: Preparations for Miss Greek Charity Quest]",
+                    "title_annotation": "",
+                    "slug": "tony-agapitos-preparations-for-miss-greek-charity-quest",
+                    "creator_credit": "Tony Agapitos",
+                    "credit_line": "",
+                    "headline_credit": "Australia, c. 1960",
+                    "thumbnail": {
+                        "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/B2005011_mi01_TAgapitosPreparingMissGreek.tif.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=qbncMlKmYpupVpxw8h56iSQCQqY%3D&Expires=1627009191",
+                        "has_video": false
+                    },
+                    "record_type": "work",
+                    "type": "Film",
+                    "is_on_display": false,
+                    "last_on_display_place": null,
+                    "last_on_display_date": null,
+                    "is_context_indigenous": false,
+                    "material_description": "",
+                    "unpublished": false,
+                    "first_production_date": null
+                }
+            ],
+            "source": {
+                "name": "Vernon",
+                "slug": "vernon"
+            },
+            "source_identifier": "177079",
+            "production_places": [
+                {
+                    "id": 3,
+                    "name": "Australia",
+                    "slug": "australia"
+                }
+            ],
+            "production_dates": [
+                {
+                    "date": "1966",
+                    "notes": "",
+                    "to_year": "1966"
+                }
+            ],
+            "labels": [
+                58698
+            ]
+        },
+        {
+            "id": 117894,
+            "acmi_id": "177071",
+            "title": "TERROR NULLIUS",
+            "title_annotation": "",
+            "slug": "terror-nullius",
+            "creator_credit": "Soda_Jerk",
+            "credit_line": "<p>Soda_Jerk</p>\n<p>Commissioned by ACMI</p>",
+            "headline_credit": "Australia and United States, 2018",
+            "thumbnail": {
+                "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/ACMI-210318-039.2.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=LciNjA1x%2BVw9DPOnDKlMuvjoiaA%3D&Expires=1627009191",
+                "has_video": false
+            },
+            "record_type": "work",
+            "type": "Digital art",
+            "is_on_display": false,
+            "last_on_display_place": null,
+            "last_on_display_date": null,
+            "is_context_indigenous": false,
+            "material_description": "video, projection, colour and audio",
+            "unpublished": false,
+            "first_production_date": "2018-01-01T11:00:00+11:00",
+            "brief_description": "<p>Equal parts political satire, eco-horror and road movie, TERROR NULLIUS is a rogue remapping of national mythology, where a misogynistic remark is met with the sharp beak of a bird, feminist bike gangs rampage and bicentenary celebrations are ravaged by flesh-eating sheep.</p>",
+            "constellations_primary": [],
+            "constellations_other": [
+                {
+                    "id": 177,
+                    "name": "Bill Onus",
+                    "description": ""
+                },
+                {
+                    "id": 2,
+                    "name": "Joy of drag",
+                    "description": "<i>The Adventures of Priscilla, Queen of the Desert</i> is a groundbreaking Australian film with a small budget and big impact that's taken queer Australian stories to the world."
+                },
+                {
+                    "id": 246,
+                    "name": "Copy, transform and combine",
+                    "description": "You will see me (2020) repurposes material sourced from the history of the moving image – archival footage, news, interviews, documentaries, reality TV, video diaries and social media – to reflect on the way we perform in front of and reveal ourselves to the camera."
+                },
+                {
+                    "id": 263,
+                    "name": "Remix and resistance (Since I left you)",
+                    "description": "The Avalanches' music videos are part of a long artistic tradition of reappropriation as a means of reframing perception."
+                },
+                {
+                    "id": 283,
+                    "name": "Great southern land?",
+                    "description": "Australia is often mythologised in film and TV, but national myths must not only be embraced, but resisted."
+                }
+            ],
+            "recommendations": [],
+            "title_for_label": "<p>TERROR NULLIUS</p>",
+            "creator_credit_for_label": "<p>Soda_Jerk</p>",
+            "headline_credit_for_label": "<p>Australia and United States, 2018</p>",
+            "description": "<p>Hitch a ride into the dark heart of Australia with Soda_Jerk&#8217;s TERROR NULLIUS, a blistering, badly behaved sample-based film that confronts the horror of our contemporary moment.</p>\n<p>Equal parts political satire, eco-horror and road movie, TERROR NULLIUS is a rogue remapping of national mythology, where a misogynistic remark is met with the sharp beak of a bird, feminist bike gangs rampage and bicentenary celebrations are ravaged by flesh-eating sheep.</p>\n<p>By intricately remixing fragments of Australia&#8217;s pop culture and film legacy, TERROR NULLIUS interrogates the unstable entanglement of fiction that underpins this country&#8217;s vexed sense of self.</p>\n<p>Following the success of <i>The Was</i>, their 2016 collaboration with The Avalanches, Soda_Jerk return with a work that’s dark, hopeful, irreverent and urgent.</p>",
+            "description_for_label": [
+                "<p>Hitch a ride into the dark heart of Australia with Soda_Jerk&#8217;s TERROR NULLIUS, a blistering, badly behaved sample-based film that confronts the horror of our contemporary moment.</p>\n<p>Equal parts political satire, eco-horror and road movie, TERROR NULLIUS is a rogue remapping of national mythology, where a misogynistic remark is met with the sharp beak of a bird, feminist bike gangs rampage and bicentenary celebrations are ravaged by flesh-eating sheep.</p>\n<p>By intricately remixing fragments of Australia&#8217;s pop culture and film legacy, TERROR NULLIUS interrogates the unstable entanglement of fiction that underpins this country&#8217;s vexed sense of self.</p>\n<p>Following the success of <i>The Was</i>, their 2016 collaboration with The Avalanches, Soda_Jerk return with a work that’s dark, hopeful, irreverent and urgent.</p>"
+            ],
+            "credit_line_for_label": "<p>Soda_Jerk</p>\n<p>Commissioned by ACMI</p>",
+            "details": [
+                {
+                    "label": "Subject category",
+                    "display_values": [
+                        "Digital Art"
+                    ]
+                },
+                {
+                    "label": "Materials",
+                    "display_values": [
+                        "video, projection, colour and audio"
+                    ]
+                }
+            ],
+            "stats": {
+                "tap_count": 94
+            },
+            "links": [],
+            "creators_primary": [
+                {
+                    "id": 1134372,
+                    "name": "Soda_Jerk",
+                    "creator_id": 60315,
+                    "role": "creator",
+                    "role_id": 968,
+                    "is_primary": true
+                }
+            ],
+            "creators_other": [
+                {
+                    "id": 1134375,
+                    "name": "Sam Smith",
+                    "creator_id": 84316,
+                    "role": "colouring",
+                    "role_id": 504,
+                    "is_primary": false
+                },
+                {
+                    "id": 1134374,
+                    "name": "Sam Smith",
+                    "creator_id": 84316,
+                    "role": "sound design/post-production",
+                    "role_id": 533,
+                    "is_primary": false
+                },
+                {
+                    "id": 1134373,
+                    "name": "Soda_Jerk",
+                    "creator_id": 60315,
+                    "role": "sound design/post-production",
+                    "role_id": 533,
+                    "is_primary": false
+                }
+            ],
+            "video_links": [],
+            "media_note": null,
+            "images": [
+                {
+                    "id": 16049,
+                    "image_file": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/ACMI-210318-039.2.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=QxF8ppsDfz8z0q4eaQd5GDgoBHg%3D&Expires=1627009191",
+                    "image_file_thumbnail": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/ACMI-210318-039.2.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=LciNjA1x%2BVw9DPOnDKlMuvjoiaA%3D&Expires=1627009191",
+                    "image_file_xs": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/ACMI-210318-039.2.jpg.480x480_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=LgtKK0XC8G4ZM3DjgFYm9rrsiuM%3D&Expires=1627009191",
+                    "image_file_s": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/ACMI-210318-039.2.jpg.960x960_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=iJGiWZ6zNGou%2BKDZ%2FcqdRljMk%2Fo%3D&Expires=1627009191",
+                    "image_file_m": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/ACMI-210318-039.2.jpg.1920x1920_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=3c4nwcpSJCjRCmyk4ZBkeaZROSg%3D&Expires=1627009191",
+                    "image_file_l": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/ACMI-210318-039.2.jpg.3840x3840_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=jXo8D%2FUA2uOUXUaFiYPymvGH06U%3D&Expires=1627009191",
+                    "caption": "Z000123_Terror Nullius installation image",
+                    "credit_line": "",
+                    "alt_text": "",
+                    "width": 3500,
+                    "height": 2333,
+                    "access_level": "View anywhere"
+                }
+            ],
+            "videos": [],
+            "holdings": [],
+            "part_of": null,
+            "parts": [],
+            "part_siblings": [],
+            "group": null,
+            "group_works": [],
+            "group_siblings": [],
+            "source": {
+                "name": "Vernon",
+                "slug": "vernon"
+            },
+            "source_identifier": "177071",
+            "production_places": [
+                {
+                    "id": 3,
+                    "name": "Australia",
+                    "slug": "australia"
+                },
+                {
+                    "id": 2,
+                    "name": "United States",
+                    "slug": "united-states"
+                }
+            ],
+            "production_dates": [
+                {
+                    "date": "2018",
+                    "notes": "Commissioned and exhibited at ACMI for the first time March 20 2018",
+                    "to_year": "2018"
+                }
+            ],
+            "labels": [
+                57388
+            ]
+        }
+    ]
+}

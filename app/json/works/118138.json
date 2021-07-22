@@ -1,0 +1,119 @@
+{
+    "id": 118138,
+    "acmi_id": "184730",
+    "title": "Fleetwood Mac (this is the one)",
+    "title_annotation": "",
+    "slug": "fleetwood-mac-this-is-the-one",
+    "creator_credit": "Nathan Apodaca",
+    "credit_line": "",
+    "headline_credit": "United States, 2020",
+    "thumbnail": {
+        "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/184730_FleetwoodMacThisIsTheOne.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=htNST3FRG7Zghe%2F2KWBeIeAg0pU%3D&Expires=1627009596",
+        "has_video": false
+    },
+    "record_type": "work",
+    "type": "Film",
+    "is_on_display": true,
+    "last_on_display_place": "ACMI: Gallery 1",
+    "last_on_display_date": "2031-02-16",
+    "is_context_indigenous": false,
+    "material_description": "Digital screen recording from @420doggface208's TikTok",
+    "unpublished": false,
+    "first_production_date": "2020-01-01T11:00:00+11:00",
+    "brief_description": "<p>In a year many spent locked inside, Nathan Apodaca gliding down a highway on a skateboard, drinking Ocean Spray and lip-synching Fleetwood Mac’s ‘Dreams’ was the tonic we all needed.</p>",
+    "constellations_primary": [
+        {
+            "id": 295,
+            "name": "Film and TV dreams",
+            "description": "Fleetwood Mac's 'Dreams' coasted its way back up the charts 40 years after it was first released, thanks to Nathan Apodaca's joyous viral TikTok, but Fleetwood Mac (and Stevie Knicks) have been main staples of screen culture for decades."
+        }
+    ],
+    "constellations_other": [],
+    "recommendations": [],
+    "title_for_label": "<p>Fleetwood Mac (this is the one)</p>",
+    "creator_credit_for_label": "<p>Nathan Apodaca</p>",
+    "headline_credit_for_label": "<p>United States, 2020</p>",
+    "description": "<p><b>This video features in a responsive display in the museum that presents the moments, stories and memes capturing the zeitgeist by going viral on the internet.</b></p>\n<p>In a year many spent locked inside, Nathan Apodaca gliding down a highway on a skateboard, drinking Ocean Spray and lip-synching Fleetwood Mac’s ‘Dreams’ was the tonic we all needed. The 22-second viral video sparked countless imitations, with Apodaca’s wholesome performance giving the world some long overdue joy.</p>",
+    "description_for_label": [
+        "<p><b>This video features in a responsive display in the museum that presents the moments, stories and memes capturing the zeitgeist by going viral on the internet.</b></p>\n<p>In a year many spent locked inside, Nathan Apodaca gliding down a highway on a skateboard, drinking Ocean Spray and lip-synching Fleetwood Mac’s ‘Dreams’ was the tonic we all needed. The 22-second viral video sparked countless imitations, with Apodaca’s wholesome performance giving the world some long overdue joy.</p>"
+    ],
+    "credit_line_for_label": "",
+    "details": [
+        {
+            "label": "Curatorial section",
+            "display_values": [
+                "The Story of the Moving Image&nbsp;→ Moving Minds&nbsp;→ 09. Catch of the Day"
+            ]
+        },
+        {
+            "label": "Materials",
+            "display_values": [
+                "Digital screen recording from @420doggface208's TikTok"
+            ]
+        }
+    ],
+    "stats": {
+        "tap_count": 5637
+    },
+    "links": [],
+    "creators_primary": [
+        {
+            "id": 1134635,
+            "name": "Nathan Apodaca",
+            "creator_id": 84709,
+            "role": "creator",
+            "role_id": 968,
+            "is_primary": true
+        }
+    ],
+    "creators_other": [],
+    "video_links": [],
+    "media_note": null,
+    "images": [
+        {
+            "id": 17155,
+            "image_file": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/184730_FleetwoodMacThisIsTheOne.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=AtZz7xTwUV%2FsAcV1C0DToH5fu0A%3D&Expires=1627009596",
+            "image_file_thumbnail": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/184730_FleetwoodMacThisIsTheOne.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=htNST3FRG7Zghe%2F2KWBeIeAg0pU%3D&Expires=1627009596",
+            "image_file_xs": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/184730_FleetwoodMacThisIsTheOne.jpg.480x480_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=InPa2ASGSO4rXMwNpQ%2BJFK1Ghzc%3D&Expires=1627009596",
+            "image_file_s": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/184730_FleetwoodMacThisIsTheOne.jpg.960x960_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=GNXAz4vzugRGFJHLdWoHWhJcaRY%3D&Expires=1627009596",
+            "image_file_m": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/184730_FleetwoodMacThisIsTheOne.jpg.1920x1920_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=ba73YZVJ8CX%2FpPK27RY%2Bqbxzi8U%3D&Expires=1627009596",
+            "image_file_l": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/184730_FleetwoodMacThisIsTheOne.jpg.3840x3840_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=j1KZCKoeBJvJO0KqIFDHbqjnAZE%3D&Expires=1627009596",
+            "caption": "Fleetwood Mac (this is the one) (Nathan Apodaca) (still)",
+            "credit_line": "",
+            "alt_text": "",
+            "width": 864,
+            "height": 1080,
+            "access_level": "View anywhere"
+        }
+    ],
+    "videos": [],
+    "holdings": [],
+    "part_of": null,
+    "parts": [],
+    "part_siblings": [],
+    "group": null,
+    "group_works": [],
+    "group_siblings": [],
+    "source": {
+        "name": "Vernon",
+        "slug": "vernon"
+    },
+    "source_identifier": "184730",
+    "production_places": [
+        {
+            "id": 2,
+            "name": "United States",
+            "slug": "united-states"
+        }
+    ],
+    "production_dates": [
+        {
+            "date": "2020",
+            "notes": "",
+            "to_year": "2020"
+        }
+    ],
+    "labels": [
+        57640
+    ]
+}

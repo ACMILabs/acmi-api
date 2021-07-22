@@ -1,0 +1,330 @@
+{
+    "id": 100242,
+    "acmi_id": "179713",
+    "title": "Bill Onus boomerangs",
+    "title_annotation": "",
+    "slug": "boomerang",
+    "creator_credit": "Bill Onus",
+    "credit_line": "",
+    "headline_credit": "Australia, c. 1950s",
+    "thumbnail": {
+        "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AEO179713_Boomerang1_Front.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=Ae9KrUXcIygsqxqG7IMHCa%2B8jx8%3D&Expires=1627009156",
+        "has_video": false
+    },
+    "record_type": "work",
+    "type": "Object",
+    "is_on_display": true,
+    "last_on_display_place": "ACMI: Gallery 1",
+    "last_on_display_date": "2031-02-16",
+    "is_context_indigenous": false,
+    "material_description": "wood, acrylic paint",
+    "unpublished": false,
+    "first_production_date": null,
+    "brief_description": "<p>To Bill Onus, sharing his culture was an act of resistance and reclamation of power. The Yorta Yorta activist, artist and entrepreneur had roles in several Australian films, documented Aboriginal life through home movies and is likely one of the first Aboriginal filmmakers.</p>",
+    "constellations_primary": [],
+    "constellations_other": [],
+    "recommendations": [],
+    "title_for_label": "<p>Bill Onus boomerangs</p>",
+    "creator_credit_for_label": "<p>Bill Onus</p>",
+    "headline_credit_for_label": "<p>Australia, c. 1950s</p>",
+    "description": "<p>Boomerang 1: handmade and painted with image of kangaroo, shields, figure holding weapons, and abstract decoration at each end. Reverse bears artist&#8217;s stamp.</p>",
+    "description_for_label": [
+        "<p>Boomerang 1: handmade and painted with image of kangaroo, shields, figure holding weapons, and abstract decoration at each end. Reverse bears artist&#8217;s stamp.</p>"
+    ],
+    "credit_line_for_label": "",
+    "details": [
+        {
+            "label": "Curatorial section",
+            "display_values": [
+                "The Story of the Moving Image&nbsp;→ Moving Australia&nbsp;→ 07. First Nations First&nbsp;→ 01 Bill Onus"
+            ]
+        },
+        {
+            "label": "Measurements",
+            "display_values": [
+                "115 x 355 x 10mm"
+            ]
+        },
+        {
+            "label": "Materials",
+            "display_values": [
+                "wood, acrylic paint"
+            ]
+        }
+    ],
+    "stats": {
+        "tap_count": 0
+    },
+    "links": [],
+    "creators_primary": [
+        {
+            "id": 1134441,
+            "name": "Bill Onus",
+            "creator_id": 71432,
+            "role": "creator",
+            "role_id": 968,
+            "is_primary": true
+        }
+    ],
+    "creators_other": [],
+    "video_links": [],
+    "media_note": null,
+    "images": [
+        {
+            "id": 12935,
+            "image_file": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AEO179713_Boomerang1_Front.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=Ba8w6psM69PnNie%2FunwQZHcyG5s%3D&Expires=1627009156",
+            "image_file_thumbnail": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AEO179713_Boomerang1_Front.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=Ae9KrUXcIygsqxqG7IMHCa%2B8jx8%3D&Expires=1627009156",
+            "image_file_xs": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AEO179713_Boomerang1_Front.jpg.480x480_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=Fle9KWaKBhh1MZiXMvXmpgtS8cg%3D&Expires=1627009156",
+            "image_file_s": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AEO179713_Boomerang1_Front.jpg.960x960_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=JKCPy0NR0qjGJ5DJxdr0uEc4MHA%3D&Expires=1627009156",
+            "image_file_m": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AEO179713_Boomerang1_Front.jpg.1920x1920_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=LtOoct9leyc1O0usiU%2BZtu389jE%3D&Expires=1627009156",
+            "image_file_l": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AEO179713_Boomerang1_Front.jpg.3840x3840_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=x7x2%2BM0aQZ2iydsRp7cvFeBKkhA%3D&Expires=1627009156",
+            "caption": "AEO179713_Boomerang1_Front",
+            "credit_line": "Photographed by Egmont Contreras, ACMI",
+            "alt_text": "",
+            "width": 4563,
+            "height": 2575,
+            "access_level": "View anywhere"
+        },
+        {
+            "id": 12934,
+            "image_file": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AEO179713_Boomerang1_Back.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=Dm43C49oToPEIWMAZtQMrvbSuvo%3D&Expires=1627009156",
+            "image_file_thumbnail": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AEO179713_Boomerang1_Back.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=608OGxdvO9%2BvmdRLNxo20OPFwkI%3D&Expires=1627009156",
+            "image_file_xs": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AEO179713_Boomerang1_Back.jpg.480x480_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=%2FnvgQ2ofs2OmRO8ojoPnM944HPc%3D&Expires=1627009156",
+            "image_file_s": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AEO179713_Boomerang1_Back.jpg.960x960_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=u0PK53f1fP1KhQs49lA%2FiCds8po%3D&Expires=1627009156",
+            "image_file_m": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AEO179713_Boomerang1_Back.jpg.1920x1920_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=%2Fj9b7z5KwQWX03Lrr0xrL34jys8%3D&Expires=1627009156",
+            "image_file_l": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AEO179713_Boomerang1_Back.jpg.3840x3840_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=m3WEB5aro6S%2FbT2KBSTP3Zgualg%3D&Expires=1627009156",
+            "caption": "AEO179713_Boomerang1_Back",
+            "credit_line": "Photographed by Egmont Contreras, ACMI",
+            "alt_text": "",
+            "width": 4588,
+            "height": 2424,
+            "access_level": "View anywhere"
+        },
+        {
+            "id": 12936,
+            "image_file": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AEO179713_Boomerang1_TwoBoomerangs.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=cV3%2B%2BNCHJ0jH%2BMdvnCEQcxh%2BaCk%3D&Expires=1627009156",
+            "image_file_thumbnail": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AEO179713_Boomerang1_TwoBoomerangs.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=SO3W%2BX5CN94guRyELEZrA5NBIvw%3D&Expires=1627009156",
+            "image_file_xs": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AEO179713_Boomerang1_TwoBoomerangs.jpg.480x480_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=wh176YdfQmPfB0k7PuuD8%2B7qzj4%3D&Expires=1627009156",
+            "image_file_s": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AEO179713_Boomerang1_TwoBoomerangs.jpg.960x960_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=atLHV1X6fJ9hQx%2BRDeJlp334NSk%3D&Expires=1627009156",
+            "image_file_m": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AEO179713_Boomerang1_TwoBoomerangs.jpg.1920x1920_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=xThscrDygcqtu3RrSdG04OT9R1I%3D&Expires=1627009156",
+            "image_file_l": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AEO179713_Boomerang1_TwoBoomerangs.jpg.3840x3840_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=%2BdeFpeLf1GM9%2FDoMYSbrAg3KBY0%3D&Expires=1627009156",
+            "caption": "AEO179713_Boomerang1_TwoBoomerangs",
+            "credit_line": "Photographed by Egmont Contreras, ACMI",
+            "alt_text": "",
+            "width": 4928,
+            "height": 3264,
+            "access_level": "View anywhere"
+        }
+    ],
+    "videos": [],
+    "holdings": [],
+    "part_of": null,
+    "parts": [],
+    "part_siblings": [],
+    "group": {
+        "id": 107707,
+        "acmi_id": "183225",
+        "title": "Bill Onus",
+        "title_annotation": "",
+        "slug": "bill-onus",
+        "creator_credit": "",
+        "credit_line": "",
+        "headline_credit": "",
+        "thumbnail": {
+            "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/P180416_G121_Hero_Image_-_Bill_Onus_Film_Set_1946.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=fjfYeSbmUjGvoSMAEqyQ5Q5fj9o%3D&Expires=1627009156",
+            "has_video": false
+        },
+        "record_type": "group",
+        "type": "Film",
+        "is_on_display": true,
+        "last_on_display_place": "ACMI: Gallery 1",
+        "last_on_display_date": "2031-02-16",
+        "is_context_indigenous": false,
+        "material_description": "",
+        "unpublished": false,
+        "first_production_date": null
+    },
+    "group_works": [],
+    "group_siblings": [
+        {
+            "id": 107505,
+            "acmi_id": "180416",
+            "title": "Boys on set of Bill Onus’ silent film",
+            "title_annotation": "Facsimile",
+            "slug": "graphic-photograph-of-boys-in-costume-holding-spears-looking-at-camera-in-heidelberg",
+            "creator_credit": "",
+            "credit_line": "<p>Courtesy the Onus Family</p>",
+            "headline_credit": "Australia, 1946",
+            "thumbnail": {
+                "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/P180416_G121_Hero_Image_-_Bill_Onus_Film_Set_1946.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=fjfYeSbmUjGvoSMAEqyQ5Q5fj9o%3D&Expires=1627009156",
+                "has_video": false
+            },
+            "record_type": "work",
+            "type": "Object",
+            "is_on_display": true,
+            "last_on_display_place": "ACMI: Gallery 1",
+            "last_on_display_date": "2031-02-16",
+            "is_context_indigenous": false,
+            "material_description": "Digital print on paper",
+            "unpublished": false,
+            "first_production_date": "1946-01-01T10:00:00+10:00"
+        },
+        {
+            "id": 99734,
+            "acmi_id": "180211",
+            "title": "Bill Onus hosting Alcheringa",
+            "title_annotation": "Facsimile",
+            "slug": "facsimile-photograph-family-watching-bill-onus-present-alcheringa-on-television",
+            "creator_credit": "",
+            "credit_line": "<p>Courtesy ABC Library Sales</p>",
+            "headline_credit": "Australia, 1962",
+            "thumbnail": {
+                "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/FC180211_FC105_Alcheringa_Film_Still_-_Bill_Onus.png.1200x1200_q85.png?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=5tJahZgauqOXVi6AurGXDhAIs7c%3D&Expires=1627009156",
+                "has_video": false
+            },
+            "record_type": "work",
+            "type": "Object",
+            "is_on_display": true,
+            "last_on_display_place": "ACMI: Gallery 1",
+            "last_on_display_date": "2031-02-16",
+            "is_context_indigenous": false,
+            "material_description": "Digital print on paper",
+            "unpublished": false,
+            "first_production_date": "1962-01-01T10:00:00+10:00"
+        },
+        {
+            "id": 100243,
+            "acmi_id": "179714",
+            "title": "Bill Onus boomerangs",
+            "title_annotation": "",
+            "slug": "boomerang",
+            "creator_credit": "Bill Onus",
+            "credit_line": "",
+            "headline_credit": "Australia, c. 1950s",
+            "thumbnail": {
+                "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AEO179714_Boomerang2_Front.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=%2FHpGeDaeHecs2w9AXdPoCFAf908%3D&Expires=1627009156",
+                "has_video": false
+            },
+            "record_type": "work",
+            "type": "Object",
+            "is_on_display": true,
+            "last_on_display_place": "ACMI: Gallery 1",
+            "last_on_display_date": "2031-02-16",
+            "is_context_indigenous": false,
+            "material_description": "Wood, acrylic paint",
+            "unpublished": false,
+            "first_production_date": null
+        },
+        {
+            "id": 99719,
+            "acmi_id": "180196",
+            "title": "‘How to throw a boomerang’ leaflet",
+            "title_annotation": "Facsimile",
+            "slug": "facsimile-leaflet-how-to-throw-a-boomerang",
+            "creator_credit": "Bill Onus",
+            "credit_line": "<p>Courtesy the Onus Family</p>",
+            "headline_credit": "Australia, c. 1950s",
+            "thumbnail": {
+                "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/FC180196_FC090.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=eAKl0qQLI0m3nBcOOgVD0nPYhN8%3D&Expires=1627009156",
+                "has_video": false
+            },
+            "record_type": "work",
+            "type": "Object",
+            "is_on_display": true,
+            "last_on_display_place": "ACMI: Gallery 1",
+            "last_on_display_date": "2031-02-16",
+            "is_context_indigenous": false,
+            "material_description": "Digital print on paper",
+            "unpublished": false,
+            "first_production_date": null
+        },
+        {
+            "id": 99722,
+            "acmi_id": "180199",
+            "title": "Bill Onus campaigns ‘Vote Yes for Aboriginal Rights’",
+            "title_annotation": "Facsimile",
+            "slug": "facsimile-photograph-bill-onus-and-child-vote-yes-for-aboriginal-rights",
+            "creator_credit": "",
+            "credit_line": "<p>Courtesy AAP Image / National Library of Australia</p>",
+            "headline_credit": "Australia, 1967",
+            "thumbnail": {
+                "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/FC180199_FC093_Bill_Onus_Vote_Yes_1967.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=gEAw4D5Ql80S0LwVapOINQzZEG8%3D&Expires=1627009156",
+                "has_video": false
+            },
+            "record_type": "work",
+            "type": "Object",
+            "is_on_display": true,
+            "last_on_display_place": "ACMI: Gallery 1",
+            "last_on_display_date": "2031-02-16",
+            "is_context_indigenous": false,
+            "material_description": "Digital print on paper",
+            "unpublished": false,
+            "first_production_date": "1967-01-01T10:00:00+10:00"
+        },
+        {
+            "id": 99721,
+            "acmi_id": "180198",
+            "title": "Bill Onus portrait",
+            "title_annotation": "Facsimile",
+            "slug": "facsimile-photograph-bill-onus-portrait",
+            "creator_credit": "",
+            "credit_line": "<p>Courtesy the Onus Family</p>",
+            "headline_credit": "Australia, c. 1940s",
+            "thumbnail": {
+                "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/FC180198_FC092_Bill_Onus_Portrait.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=HDPzQVJLz3Ua9aW2eiO48oXBggk%3D&Expires=1627009156",
+                "has_video": false
+            },
+            "record_type": "work",
+            "type": "Object",
+            "is_on_display": true,
+            "last_on_display_place": "ACMI: Gallery 1",
+            "last_on_display_date": "2031-02-16",
+            "is_context_indigenous": false,
+            "material_description": "Digital print on paper",
+            "unpublished": false,
+            "first_production_date": null
+        },
+        {
+            "id": 99720,
+            "acmi_id": "180197",
+            "title": "Alcheringa cast and crew",
+            "title_annotation": "Facsimile",
+            "slug": "facsimile-photograph-alcheringa-cast",
+            "creator_credit": "",
+            "credit_line": "<p>Courtesy ABC Library Sales / National Archives of Australia</p>",
+            "headline_credit": "Australia, 1962",
+            "thumbnail": null,
+            "record_type": "work",
+            "type": "Object",
+            "is_on_display": true,
+            "last_on_display_place": "ACMI: Gallery 1",
+            "last_on_display_date": "2031-02-16",
+            "is_context_indigenous": false,
+            "material_description": "Digital print on paper",
+            "unpublished": false,
+            "first_production_date": "1962-01-01T10:00:00+10:00"
+        }
+    ],
+    "source": {
+        "name": "Vernon",
+        "slug": "vernon"
+    },
+    "source_identifier": "179713",
+    "production_places": [
+        {
+            "id": 3,
+            "name": "Australia",
+            "slug": "australia"
+        }
+    ],
+    "production_dates": [
+        {
+            "date": "c. 1950s",
+            "notes": "",
+            "to_year": "c. 1950s"
+        }
+    ],
+    "labels": [
+        39738
+    ]
+}

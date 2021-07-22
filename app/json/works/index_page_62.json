@@ -1,0 +1,1355 @@
+{
+    "count": 922,
+    "next": "https://api.acmi.net.au/works/?page=63",
+    "previous": "https://api.acmi.net.au/works/?page=61",
+    "results": [
+        {
+            "id": 109222,
+            "acmi_id": "2689",
+            "title": "Moments in silent cinema",
+            "title_annotation": "",
+            "slug": "moments-in-silent-cinema",
+            "creator_credit": "",
+            "credit_line": "",
+            "headline_credit": "",
+            "thumbnail": null,
+            "record_type": "work",
+            "type": "Film",
+            "is_on_display": false,
+            "last_on_display_place": null,
+            "last_on_display_date": null,
+            "is_context_indigenous": false,
+            "material_description": "",
+            "unpublished": true,
+            "first_production_date": null,
+            "brief_description": "",
+            "constellations_primary": [],
+            "constellations_other": [],
+            "recommendations": [],
+            "title_for_label": "<p>Moments in silent cinema</p>",
+            "creator_credit_for_label": "",
+            "headline_credit_for_label": "",
+            "description": "",
+            "description_for_label": [],
+            "credit_line_for_label": "",
+            "details": [],
+            "stats": {
+                "tap_count": 0
+            },
+            "links": [],
+            "creators_primary": [],
+            "creators_other": [],
+            "video_links": [],
+            "media_note": "Sorry, we don't have images or video for this item.",
+            "images": [],
+            "videos": [],
+            "holdings": [
+                {
+                    "name": "DVD [PAL]; Copy",
+                    "identifier": "",
+                    "description": ""
+                },
+                {
+                    "name": "DVD ROM; Copy",
+                    "identifier": "",
+                    "description": ""
+                }
+            ],
+            "part_of": null,
+            "parts": [],
+            "part_siblings": [],
+            "group": {
+                "id": 108846,
+                "acmi_id": "10492",
+                "title": "Melbourne epiphanies (16:9 & 4:3). Moments in silent cinema. (16:9 & 4:3)",
+                "title_annotation": "",
+                "slug": "melbourne-epiphanies-169-43-moments-in-silent-cinema-169-43",
+                "creator_credit": "",
+                "credit_line": "",
+                "headline_credit": "",
+                "thumbnail": null,
+                "record_type": "group",
+                "type": "Film",
+                "is_on_display": false,
+                "last_on_display_place": null,
+                "last_on_display_date": null,
+                "is_context_indigenous": false,
+                "material_description": "",
+                "unpublished": true,
+                "first_production_date": null
+            },
+            "group_works": [],
+            "group_siblings": [
+                {
+                    "id": 108845,
+                    "acmi_id": "2084",
+                    "title": "Melbourne epiphanies",
+                    "title_annotation": "",
+                    "slug": "melbourne-epiphanies",
+                    "creator_credit": "",
+                    "credit_line": "",
+                    "headline_credit": "",
+                    "thumbnail": null,
+                    "record_type": "work",
+                    "type": "Film",
+                    "is_on_display": false,
+                    "last_on_display_place": null,
+                    "last_on_display_date": null,
+                    "is_context_indigenous": false,
+                    "material_description": "",
+                    "unpublished": true,
+                    "first_production_date": null
+                },
+                {
+                    "id": 108847,
+                    "acmi_id": "2085",
+                    "title": "Silent cinema",
+                    "title_annotation": "",
+                    "slug": "silent-cinema",
+                    "creator_credit": "",
+                    "credit_line": "",
+                    "headline_credit": "",
+                    "thumbnail": null,
+                    "record_type": "work",
+                    "type": "Film",
+                    "is_on_display": false,
+                    "last_on_display_place": null,
+                    "last_on_display_date": null,
+                    "is_context_indigenous": false,
+                    "material_description": "",
+                    "unpublished": true,
+                    "first_production_date": null
+                }
+            ],
+            "source": {
+                "name": "Vernon",
+                "slug": "vernon"
+            },
+            "source_identifier": "2689",
+            "production_places": [],
+            "production_dates": [],
+            "labels": [
+                48715
+            ]
+        },
+        {
+            "id": 108847,
+            "acmi_id": "2085",
+            "title": "Silent cinema",
+            "title_annotation": "",
+            "slug": "silent-cinema",
+            "creator_credit": "",
+            "credit_line": "",
+            "headline_credit": "",
+            "thumbnail": null,
+            "record_type": "work",
+            "type": "Film",
+            "is_on_display": false,
+            "last_on_display_place": null,
+            "last_on_display_date": null,
+            "is_context_indigenous": false,
+            "material_description": "",
+            "unpublished": true,
+            "first_production_date": null,
+            "brief_description": "",
+            "constellations_primary": [],
+            "constellations_other": [],
+            "recommendations": [],
+            "title_for_label": "<p>Silent cinema</p>",
+            "creator_credit_for_label": "",
+            "headline_credit_for_label": "",
+            "description": "",
+            "description_for_label": [],
+            "credit_line_for_label": "",
+            "details": [],
+            "stats": {
+                "tap_count": 0
+            },
+            "links": [],
+            "creators_primary": [],
+            "creators_other": [],
+            "video_links": [],
+            "media_note": "Sorry, we don't have images or video for this item.",
+            "images": [],
+            "videos": [],
+            "holdings": [
+                {
+                    "name": "DVD ROM; Copy",
+                    "identifier": "",
+                    "description": ""
+                }
+            ],
+            "part_of": null,
+            "parts": [],
+            "part_siblings": [],
+            "group": {
+                "id": 108846,
+                "acmi_id": "10492",
+                "title": "Melbourne epiphanies (16:9 & 4:3). Moments in silent cinema. (16:9 & 4:3)",
+                "title_annotation": "",
+                "slug": "melbourne-epiphanies-169-43-moments-in-silent-cinema-169-43",
+                "creator_credit": "",
+                "credit_line": "",
+                "headline_credit": "",
+                "thumbnail": null,
+                "record_type": "group",
+                "type": "Film",
+                "is_on_display": false,
+                "last_on_display_place": null,
+                "last_on_display_date": null,
+                "is_context_indigenous": false,
+                "material_description": "",
+                "unpublished": true,
+                "first_production_date": null
+            },
+            "group_works": [],
+            "group_siblings": [
+                {
+                    "id": 108845,
+                    "acmi_id": "2084",
+                    "title": "Melbourne epiphanies",
+                    "title_annotation": "",
+                    "slug": "melbourne-epiphanies",
+                    "creator_credit": "",
+                    "credit_line": "",
+                    "headline_credit": "",
+                    "thumbnail": null,
+                    "record_type": "work",
+                    "type": "Film",
+                    "is_on_display": false,
+                    "last_on_display_place": null,
+                    "last_on_display_date": null,
+                    "is_context_indigenous": false,
+                    "material_description": "",
+                    "unpublished": true,
+                    "first_production_date": null
+                },
+                {
+                    "id": 109222,
+                    "acmi_id": "2689",
+                    "title": "Moments in silent cinema",
+                    "title_annotation": "",
+                    "slug": "moments-in-silent-cinema",
+                    "creator_credit": "",
+                    "credit_line": "",
+                    "headline_credit": "",
+                    "thumbnail": null,
+                    "record_type": "work",
+                    "type": "Film",
+                    "is_on_display": false,
+                    "last_on_display_place": null,
+                    "last_on_display_date": null,
+                    "is_context_indigenous": false,
+                    "material_description": "",
+                    "unpublished": true,
+                    "first_production_date": null
+                }
+            ],
+            "source": {
+                "name": "Vernon",
+                "slug": "vernon"
+            },
+            "source_identifier": "2085",
+            "production_places": [],
+            "production_dates": [],
+            "labels": [
+                48340
+            ]
+        },
+        {
+            "id": 108845,
+            "acmi_id": "2084",
+            "title": "Melbourne epiphanies",
+            "title_annotation": "",
+            "slug": "melbourne-epiphanies",
+            "creator_credit": "",
+            "credit_line": "",
+            "headline_credit": "",
+            "thumbnail": null,
+            "record_type": "work",
+            "type": "Film",
+            "is_on_display": false,
+            "last_on_display_place": null,
+            "last_on_display_date": null,
+            "is_context_indigenous": false,
+            "material_description": "",
+            "unpublished": true,
+            "first_production_date": null,
+            "brief_description": "",
+            "constellations_primary": [],
+            "constellations_other": [],
+            "recommendations": [],
+            "title_for_label": "<p>Melbourne epiphanies</p>",
+            "creator_credit_for_label": "",
+            "headline_credit_for_label": "",
+            "description": "",
+            "description_for_label": [],
+            "credit_line_for_label": "",
+            "details": [],
+            "stats": {
+                "tap_count": 0
+            },
+            "links": [],
+            "creators_primary": [],
+            "creators_other": [],
+            "video_links": [],
+            "media_note": "Sorry, we don't have images or video for this item.",
+            "images": [],
+            "videos": [],
+            "holdings": [
+                {
+                    "name": "DVD [PAL]; Copy",
+                    "identifier": "",
+                    "description": ""
+                },
+                {
+                    "name": "DVD ROM; Copy",
+                    "identifier": "",
+                    "description": ""
+                }
+            ],
+            "part_of": null,
+            "parts": [],
+            "part_siblings": [],
+            "group": {
+                "id": 108846,
+                "acmi_id": "10492",
+                "title": "Melbourne epiphanies (16:9 & 4:3). Moments in silent cinema. (16:9 & 4:3)",
+                "title_annotation": "",
+                "slug": "melbourne-epiphanies-169-43-moments-in-silent-cinema-169-43",
+                "creator_credit": "",
+                "credit_line": "",
+                "headline_credit": "",
+                "thumbnail": null,
+                "record_type": "group",
+                "type": "Film",
+                "is_on_display": false,
+                "last_on_display_place": null,
+                "last_on_display_date": null,
+                "is_context_indigenous": false,
+                "material_description": "",
+                "unpublished": true,
+                "first_production_date": null
+            },
+            "group_works": [],
+            "group_siblings": [
+                {
+                    "id": 109222,
+                    "acmi_id": "2689",
+                    "title": "Moments in silent cinema",
+                    "title_annotation": "",
+                    "slug": "moments-in-silent-cinema",
+                    "creator_credit": "",
+                    "credit_line": "",
+                    "headline_credit": "",
+                    "thumbnail": null,
+                    "record_type": "work",
+                    "type": "Film",
+                    "is_on_display": false,
+                    "last_on_display_place": null,
+                    "last_on_display_date": null,
+                    "is_context_indigenous": false,
+                    "material_description": "",
+                    "unpublished": true,
+                    "first_production_date": null
+                },
+                {
+                    "id": 108847,
+                    "acmi_id": "2085",
+                    "title": "Silent cinema",
+                    "title_annotation": "",
+                    "slug": "silent-cinema",
+                    "creator_credit": "",
+                    "credit_line": "",
+                    "headline_credit": "",
+                    "thumbnail": null,
+                    "record_type": "work",
+                    "type": "Film",
+                    "is_on_display": false,
+                    "last_on_display_place": null,
+                    "last_on_display_date": null,
+                    "is_context_indigenous": false,
+                    "material_description": "",
+                    "unpublished": true,
+                    "first_production_date": null
+                }
+            ],
+            "source": {
+                "name": "Vernon",
+                "slug": "vernon"
+            },
+            "source_identifier": "2084",
+            "production_places": [],
+            "production_dates": [],
+            "labels": [
+                48338
+            ]
+        },
+        {
+            "id": 108844,
+            "acmi_id": "10488",
+            "title": "Public Imaging compilation. No. 4",
+            "title_annotation": "",
+            "slug": "public-imaging-compilation-no-4",
+            "creator_credit": "",
+            "credit_line": "",
+            "headline_credit": "",
+            "thumbnail": null,
+            "record_type": "group",
+            "type": "Film",
+            "is_on_display": false,
+            "last_on_display_place": null,
+            "last_on_display_date": null,
+            "is_context_indigenous": false,
+            "material_description": "",
+            "unpublished": true,
+            "first_production_date": null,
+            "brief_description": "",
+            "constellations_primary": [],
+            "constellations_other": [],
+            "recommendations": [],
+            "title_for_label": "<p>Public Imaging compilation. No. 4</p>",
+            "creator_credit_for_label": "",
+            "headline_credit_for_label": "",
+            "description": "",
+            "description_for_label": [],
+            "credit_line_for_label": "",
+            "details": [],
+            "stats": {
+                "tap_count": 0
+            },
+            "links": [],
+            "creators_primary": [],
+            "creators_other": [],
+            "video_links": [],
+            "media_note": "Sorry, we don't have images or video for this item.",
+            "images": [],
+            "videos": [],
+            "holdings": [
+                {
+                    "name": "DVD [PAL]; Copy",
+                    "identifier": "",
+                    "description": ""
+                }
+            ],
+            "part_of": null,
+            "parts": [],
+            "part_siblings": [],
+            "group": null,
+            "group_works": [
+                {
+                    "id": 108843,
+                    "acmi_id": "2083",
+                    "title": "Federation faces",
+                    "title_annotation": "",
+                    "slug": "federation-faces",
+                    "creator_credit": "",
+                    "credit_line": "",
+                    "headline_credit": "",
+                    "thumbnail": null,
+                    "record_type": "work",
+                    "type": "Film",
+                    "is_on_display": false,
+                    "last_on_display_place": null,
+                    "last_on_display_date": null,
+                    "is_context_indigenous": false,
+                    "material_description": "",
+                    "unpublished": true,
+                    "first_production_date": null
+                },
+                {
+                    "id": 109224,
+                    "acmi_id": "2691",
+                    "title": "Federation gestures",
+                    "title_annotation": "",
+                    "slug": "federation-gestures",
+                    "creator_credit": "",
+                    "credit_line": "",
+                    "headline_credit": "",
+                    "thumbnail": null,
+                    "record_type": "work",
+                    "type": "Film",
+                    "is_on_display": false,
+                    "last_on_display_place": null,
+                    "last_on_display_date": null,
+                    "is_context_indigenous": false,
+                    "material_description": "",
+                    "unpublished": true,
+                    "first_production_date": null
+                }
+            ],
+            "group_siblings": [],
+            "source": {
+                "name": "Vernon",
+                "slug": "vernon"
+            },
+            "source_identifier": "10488",
+            "production_places": [],
+            "production_dates": [],
+            "labels": [
+                48337
+            ]
+        },
+        {
+            "id": 109224,
+            "acmi_id": "2691",
+            "title": "Federation gestures",
+            "title_annotation": "",
+            "slug": "federation-gestures",
+            "creator_credit": "",
+            "credit_line": "",
+            "headline_credit": "",
+            "thumbnail": null,
+            "record_type": "work",
+            "type": "Film",
+            "is_on_display": false,
+            "last_on_display_place": null,
+            "last_on_display_date": null,
+            "is_context_indigenous": false,
+            "material_description": "",
+            "unpublished": true,
+            "first_production_date": null,
+            "brief_description": "",
+            "constellations_primary": [],
+            "constellations_other": [],
+            "recommendations": [],
+            "title_for_label": "<p>Federation gestures</p>",
+            "creator_credit_for_label": "",
+            "headline_credit_for_label": "",
+            "description": "",
+            "description_for_label": [],
+            "credit_line_for_label": "",
+            "details": [],
+            "stats": {
+                "tap_count": 0
+            },
+            "links": [],
+            "creators_primary": [],
+            "creators_other": [],
+            "video_links": [],
+            "media_note": "Sorry, we don't have images or video for this item.",
+            "images": [],
+            "videos": [],
+            "holdings": [
+                {
+                    "name": "DVD [PAL]; Copy",
+                    "identifier": "",
+                    "description": ""
+                }
+            ],
+            "part_of": null,
+            "parts": [],
+            "part_siblings": [],
+            "group": {
+                "id": 108844,
+                "acmi_id": "10488",
+                "title": "Public Imaging compilation. No. 4",
+                "title_annotation": "",
+                "slug": "public-imaging-compilation-no-4",
+                "creator_credit": "",
+                "credit_line": "",
+                "headline_credit": "",
+                "thumbnail": null,
+                "record_type": "group",
+                "type": "Film",
+                "is_on_display": false,
+                "last_on_display_place": null,
+                "last_on_display_date": null,
+                "is_context_indigenous": false,
+                "material_description": "",
+                "unpublished": true,
+                "first_production_date": null
+            },
+            "group_works": [],
+            "group_siblings": [
+                {
+                    "id": 108843,
+                    "acmi_id": "2083",
+                    "title": "Federation faces",
+                    "title_annotation": "",
+                    "slug": "federation-faces",
+                    "creator_credit": "",
+                    "credit_line": "",
+                    "headline_credit": "",
+                    "thumbnail": null,
+                    "record_type": "work",
+                    "type": "Film",
+                    "is_on_display": false,
+                    "last_on_display_place": null,
+                    "last_on_display_date": null,
+                    "is_context_indigenous": false,
+                    "material_description": "",
+                    "unpublished": true,
+                    "first_production_date": null
+                }
+            ],
+            "source": {
+                "name": "Vernon",
+                "slug": "vernon"
+            },
+            "source_identifier": "2691",
+            "production_places": [],
+            "production_dates": [],
+            "labels": [
+                48717
+            ]
+        },
+        {
+            "id": 108843,
+            "acmi_id": "2083",
+            "title": "Federation faces",
+            "title_annotation": "",
+            "slug": "federation-faces",
+            "creator_credit": "",
+            "credit_line": "",
+            "headline_credit": "",
+            "thumbnail": null,
+            "record_type": "work",
+            "type": "Film",
+            "is_on_display": false,
+            "last_on_display_place": null,
+            "last_on_display_date": null,
+            "is_context_indigenous": false,
+            "material_description": "",
+            "unpublished": true,
+            "first_production_date": null,
+            "brief_description": "",
+            "constellations_primary": [],
+            "constellations_other": [],
+            "recommendations": [],
+            "title_for_label": "<p>Federation faces</p>",
+            "creator_credit_for_label": "",
+            "headline_credit_for_label": "",
+            "description": "",
+            "description_for_label": [],
+            "credit_line_for_label": "",
+            "details": [],
+            "stats": {
+                "tap_count": 0
+            },
+            "links": [],
+            "creators_primary": [],
+            "creators_other": [],
+            "video_links": [],
+            "media_note": "Sorry, we don't have images or video for this item.",
+            "images": [],
+            "videos": [],
+            "holdings": [
+                {
+                    "name": "DVD ROM; Copy",
+                    "identifier": "",
+                    "description": ""
+                },
+                {
+                    "name": "DVCAM; Master",
+                    "identifier": "",
+                    "description": ""
+                },
+                {
+                    "name": "DVD [PAL]; Copy",
+                    "identifier": "",
+                    "description": ""
+                }
+            ],
+            "part_of": null,
+            "parts": [],
+            "part_siblings": [],
+            "group": {
+                "id": 108844,
+                "acmi_id": "10488",
+                "title": "Public Imaging compilation. No. 4",
+                "title_annotation": "",
+                "slug": "public-imaging-compilation-no-4",
+                "creator_credit": "",
+                "credit_line": "",
+                "headline_credit": "",
+                "thumbnail": null,
+                "record_type": "group",
+                "type": "Film",
+                "is_on_display": false,
+                "last_on_display_place": null,
+                "last_on_display_date": null,
+                "is_context_indigenous": false,
+                "material_description": "",
+                "unpublished": true,
+                "first_production_date": null
+            },
+            "group_works": [],
+            "group_siblings": [
+                {
+                    "id": 109224,
+                    "acmi_id": "2691",
+                    "title": "Federation gestures",
+                    "title_annotation": "",
+                    "slug": "federation-gestures",
+                    "creator_credit": "",
+                    "credit_line": "",
+                    "headline_credit": "",
+                    "thumbnail": null,
+                    "record_type": "work",
+                    "type": "Film",
+                    "is_on_display": false,
+                    "last_on_display_place": null,
+                    "last_on_display_date": null,
+                    "is_context_indigenous": false,
+                    "material_description": "",
+                    "unpublished": true,
+                    "first_production_date": null
+                }
+            ],
+            "source": {
+                "name": "Vernon",
+                "slug": "vernon"
+            },
+            "source_identifier": "2083",
+            "production_places": [],
+            "production_dates": [],
+            "labels": [
+                48336
+            ]
+        },
+        {
+            "id": 108805,
+            "acmi_id": "10482",
+            "title": "Culture is...",
+            "title_annotation": "",
+            "slug": "culture-is",
+            "creator_credit": "",
+            "credit_line": "",
+            "headline_credit": "Australia, 2002",
+            "thumbnail": null,
+            "record_type": "group",
+            "type": "Film",
+            "is_on_display": false,
+            "last_on_display_place": null,
+            "last_on_display_date": null,
+            "is_context_indigenous": false,
+            "material_description": "",
+            "unpublished": true,
+            "first_production_date": "2002-01-01T11:00:00+11:00",
+            "brief_description": "",
+            "constellations_primary": [],
+            "constellations_other": [],
+            "recommendations": [],
+            "title_for_label": "<p>Culture is&#8230;</p>",
+            "creator_credit_for_label": "",
+            "headline_credit_for_label": "<p>Australia, 2002</p>",
+            "description": "",
+            "description_for_label": [],
+            "credit_line_for_label": "",
+            "details": [],
+            "stats": {
+                "tap_count": 0
+            },
+            "links": [],
+            "creators_primary": [],
+            "creators_other": [],
+            "video_links": [],
+            "media_note": "Sorry, we don't have images or video for this item.",
+            "images": [],
+            "videos": [],
+            "holdings": [
+                {
+                    "name": "Mini DV; Master",
+                    "identifier": "",
+                    "description": ""
+                }
+            ],
+            "part_of": null,
+            "parts": [],
+            "part_siblings": [],
+            "group": null,
+            "group_works": [
+                {
+                    "id": 108807,
+                    "acmi_id": "2027",
+                    "title": "Cultural dislocation",
+                    "title_annotation": "",
+                    "slug": "cultural-dislocation",
+                    "creator_credit": "Lydia Hohl",
+                    "credit_line": "",
+                    "headline_credit": "Australia, 2002",
+                    "thumbnail": null,
+                    "record_type": "work",
+                    "type": "Digital art",
+                    "is_on_display": false,
+                    "last_on_display_place": null,
+                    "last_on_display_date": null,
+                    "is_context_indigenous": false,
+                    "material_description": "Single channel moving image",
+                    "unpublished": false,
+                    "first_production_date": "2002-01-01T11:00:00+11:00"
+                },
+                {
+                    "id": 108804,
+                    "acmi_id": "2026",
+                    "title": "Spaghetti",
+                    "title_annotation": "",
+                    "slug": "spaghetti",
+                    "creator_credit": "Francesca Zuccara",
+                    "credit_line": "",
+                    "headline_credit": "Australia, 2002",
+                    "thumbnail": null,
+                    "record_type": "work",
+                    "type": "Film",
+                    "is_on_display": false,
+                    "last_on_display_place": null,
+                    "last_on_display_date": null,
+                    "is_context_indigenous": false,
+                    "material_description": "",
+                    "unpublished": false,
+                    "first_production_date": "2002-01-01T11:00:00+11:00"
+                }
+            ],
+            "group_siblings": [],
+            "source": {
+                "name": "Vernon",
+                "slug": "vernon"
+            },
+            "source_identifier": "10482",
+            "production_places": [
+                {
+                    "id": 3,
+                    "name": "Australia",
+                    "slug": "australia"
+                }
+            ],
+            "production_dates": [
+                {
+                    "date": "2002",
+                    "notes": "",
+                    "to_year": "2002"
+                }
+            ],
+            "labels": [
+                48298
+            ]
+        },
+        {
+            "id": 108804,
+            "acmi_id": "2026",
+            "title": "Spaghetti",
+            "title_annotation": "",
+            "slug": "spaghetti",
+            "creator_credit": "Francesca Zuccara",
+            "credit_line": "",
+            "headline_credit": "Australia, 2002",
+            "thumbnail": null,
+            "record_type": "work",
+            "type": "Film",
+            "is_on_display": false,
+            "last_on_display_place": null,
+            "last_on_display_date": null,
+            "is_context_indigenous": false,
+            "material_description": "",
+            "unpublished": false,
+            "first_production_date": "2002-01-01T11:00:00+11:00",
+            "brief_description": "<p>Created as part of Victoria University Multimedia&#8217;s After Effects course, this short piece shows, through simple animation, live action and video - the process of making pasta with tomato sauce.</p>",
+            "constellations_primary": [],
+            "constellations_other": [],
+            "recommendations": [],
+            "title_for_label": "<p>Spaghetti</p>",
+            "creator_credit_for_label": "<p>Francesca Zuccara</p>",
+            "headline_credit_for_label": "<p>Australia, 2002</p>",
+            "description": "<p>Created as part of Victoria University Multimedia&#8217;s After Effects course, this short piece shows, through simple animation, live action and video - the process of making pasta with tomato sauce.</p>",
+            "description_for_label": [
+                "<p>Created as part of Victoria University Multimedia&#8217;s After Effects course, this short piece shows, through simple animation, live action and video - the process of making pasta with tomato sauce.</p>"
+            ],
+            "credit_line_for_label": "",
+            "details": [
+                {
+                    "label": "Duration",
+                    "display_values": [
+                        "00:01:37:00"
+                    ]
+                },
+                {
+                    "label": "Language",
+                    "display_values": [
+                        "No spoken word"
+                    ]
+                },
+                {
+                    "label": "Audience classification",
+                    "display_values": [
+                        "Exempt"
+                    ]
+                },
+                {
+                    "label": "Subject categories",
+                    "display_values": [
+                        "Advertising, Film, Journalism, Mass Media & TV&nbsp;→ Interactive media",
+                        "Amateur & Student Films",
+                        "Amateur & Student Films&nbsp;→ Student films - Australia",
+                        "Animation",
+                        "Animation&nbsp;→ Animated films - Australia",
+                        "Short films",
+                        "Short films&nbsp;→ Short films - Australia"
+                    ]
+                },
+                {
+                    "label": "Sound/audio",
+                    "display_values": [
+                        "Sound"
+                    ]
+                },
+                {
+                    "label": "Colour",
+                    "display_values": [
+                        "Colour"
+                    ]
+                }
+            ],
+            "stats": {
+                "tap_count": 0
+            },
+            "links": [],
+            "creators_primary": [
+                {
+                    "id": 1133778,
+                    "name": "Francesca Zuccara",
+                    "creator_id": 8902,
+                    "role": "creator",
+                    "role_id": 968,
+                    "is_primary": true
+                }
+            ],
+            "creators_other": [],
+            "video_links": [],
+            "media_note": "Sorry, we don't have images or video for this item.",
+            "images": [],
+            "videos": [],
+            "holdings": [
+                {
+                    "name": "Mini DV; Master",
+                    "identifier": "",
+                    "description": ""
+                },
+                {
+                    "name": "Digital Betacam [PAL]; Sub-master",
+                    "identifier": "",
+                    "description": ""
+                },
+                {
+                    "name": "VHS [PAL]; Reference - timecoded",
+                    "identifier": "",
+                    "description": ""
+                }
+            ],
+            "part_of": null,
+            "parts": [],
+            "part_siblings": [],
+            "group": {
+                "id": 108805,
+                "acmi_id": "10482",
+                "title": "Culture is...",
+                "title_annotation": "",
+                "slug": "culture-is",
+                "creator_credit": "",
+                "credit_line": "",
+                "headline_credit": "Australia, 2002",
+                "thumbnail": null,
+                "record_type": "group",
+                "type": "Film",
+                "is_on_display": false,
+                "last_on_display_place": null,
+                "last_on_display_date": null,
+                "is_context_indigenous": false,
+                "material_description": "",
+                "unpublished": true,
+                "first_production_date": "2002-01-01T11:00:00+11:00"
+            },
+            "group_works": [],
+            "group_siblings": [
+                {
+                    "id": 108807,
+                    "acmi_id": "2027",
+                    "title": "Cultural dislocation",
+                    "title_annotation": "",
+                    "slug": "cultural-dislocation",
+                    "creator_credit": "Lydia Hohl",
+                    "credit_line": "",
+                    "headline_credit": "Australia, 2002",
+                    "thumbnail": null,
+                    "record_type": "work",
+                    "type": "Digital art",
+                    "is_on_display": false,
+                    "last_on_display_place": null,
+                    "last_on_display_date": null,
+                    "is_context_indigenous": false,
+                    "material_description": "Single channel moving image",
+                    "unpublished": false,
+                    "first_production_date": "2002-01-01T11:00:00+11:00"
+                }
+            ],
+            "source": {
+                "name": "Vernon",
+                "slug": "vernon"
+            },
+            "source_identifier": "2026",
+            "production_places": [
+                {
+                    "id": 3,
+                    "name": "Australia",
+                    "slug": "australia"
+                }
+            ],
+            "production_dates": [
+                {
+                    "date": "2002",
+                    "notes": "",
+                    "to_year": "2002"
+                }
+            ],
+            "labels": [
+                48297
+            ]
+        },
+        {
+            "id": 108807,
+            "acmi_id": "2027",
+            "title": "Cultural dislocation",
+            "title_annotation": "",
+            "slug": "cultural-dislocation",
+            "creator_credit": "Lydia Hohl",
+            "credit_line": "",
+            "headline_credit": "Australia, 2002",
+            "thumbnail": null,
+            "record_type": "work",
+            "type": "Digital art",
+            "is_on_display": false,
+            "last_on_display_place": null,
+            "last_on_display_date": null,
+            "is_context_indigenous": false,
+            "material_description": "Single channel moving image",
+            "unpublished": false,
+            "first_production_date": "2002-01-01T11:00:00+11:00",
+            "brief_description": "<p>Created as a Victoria University Multimedia After Effects assignment, this short work examines the question &#8216;What is Culture?&#8217;</p>",
+            "constellations_primary": [],
+            "constellations_other": [],
+            "recommendations": [],
+            "title_for_label": "<p>Cultural dislocation</p>",
+            "creator_credit_for_label": "<p>Lydia Hohl</p>",
+            "headline_credit_for_label": "<p>Australia, 2002</p>",
+            "description": "<p>Created as a Victoria University Multimedia After Effects assignment, this short work examines the question &#8216;What is Culture?&#8217;</p>",
+            "description_for_label": [
+                "<p>Created as a Victoria University Multimedia After Effects assignment, this short work examines the question &#8216;What is Culture?&#8217;</p>"
+            ],
+            "credit_line_for_label": "",
+            "details": [
+                {
+                    "label": "Audience classification",
+                    "display_values": [
+                        "unclassified"
+                    ]
+                },
+                {
+                    "label": "Subject categories",
+                    "display_values": [
+                        "Amateur & Student Films",
+                        "Amateur & Student Films&nbsp;→ Student films - Australia",
+                        "Animation",
+                        "Animation&nbsp;→ Computer animation",
+                        "Digital Art"
+                    ]
+                },
+                {
+                    "label": "Materials",
+                    "display_values": [
+                        "Single channel moving image"
+                    ]
+                }
+            ],
+            "stats": {
+                "tap_count": 0
+            },
+            "links": [],
+            "creators_primary": [
+                {
+                    "id": 1133777,
+                    "name": "Lydia Hohl",
+                    "creator_id": 8903,
+                    "role": "creator",
+                    "role_id": 968,
+                    "is_primary": true
+                }
+            ],
+            "creators_other": [],
+            "video_links": [],
+            "media_note": "Sorry, we don't have images or video for this item.",
+            "images": [],
+            "videos": [],
+            "holdings": [
+                {
+                    "name": "Mini DV; Master",
+                    "identifier": "",
+                    "description": ""
+                },
+                {
+                    "name": "Digital Betacam [PAL]; Sub-master",
+                    "identifier": "",
+                    "description": ""
+                },
+                {
+                    "name": "VHS [PAL]; Reference - timecoded",
+                    "identifier": "",
+                    "description": ""
+                }
+            ],
+            "part_of": null,
+            "parts": [],
+            "part_siblings": [],
+            "group": {
+                "id": 108805,
+                "acmi_id": "10482",
+                "title": "Culture is...",
+                "title_annotation": "",
+                "slug": "culture-is",
+                "creator_credit": "",
+                "credit_line": "",
+                "headline_credit": "Australia, 2002",
+                "thumbnail": null,
+                "record_type": "group",
+                "type": "Film",
+                "is_on_display": false,
+                "last_on_display_place": null,
+                "last_on_display_date": null,
+                "is_context_indigenous": false,
+                "material_description": "",
+                "unpublished": true,
+                "first_production_date": "2002-01-01T11:00:00+11:00"
+            },
+            "group_works": [],
+            "group_siblings": [
+                {
+                    "id": 108804,
+                    "acmi_id": "2026",
+                    "title": "Spaghetti",
+                    "title_annotation": "",
+                    "slug": "spaghetti",
+                    "creator_credit": "Francesca Zuccara",
+                    "credit_line": "",
+                    "headline_credit": "Australia, 2002",
+                    "thumbnail": null,
+                    "record_type": "work",
+                    "type": "Film",
+                    "is_on_display": false,
+                    "last_on_display_place": null,
+                    "last_on_display_date": null,
+                    "is_context_indigenous": false,
+                    "material_description": "",
+                    "unpublished": false,
+                    "first_production_date": "2002-01-01T11:00:00+11:00"
+                }
+            ],
+            "source": {
+                "name": "Vernon",
+                "slug": "vernon"
+            },
+            "source_identifier": "2027",
+            "production_places": [
+                {
+                    "id": 3,
+                    "name": "Australia",
+                    "slug": "australia"
+                }
+            ],
+            "production_dates": [
+                {
+                    "date": "2002",
+                    "notes": "",
+                    "to_year": "2002"
+                }
+            ],
+            "labels": [
+                48300
+            ]
+        },
+        {
+            "id": 108727,
+            "acmi_id": "10460",
+            "title": "Selection of early silent experimental films (Walter Ruttmann, Viking Eggeling and Hans Richter)",
+            "title_annotation": "",
+            "slug": "selection-of-early-silent-experimental-films-walter-ruttmann-viking-eggeling-and-hans-richter",
+            "creator_credit": "Viking Eggeling, Hans Richter and Walter Ruttmann",
+            "credit_line": "",
+            "headline_credit": "1921-1925",
+            "thumbnail": null,
+            "record_type": "group",
+            "type": "Film",
+            "is_on_display": false,
+            "last_on_display_place": null,
+            "last_on_display_date": null,
+            "is_context_indigenous": false,
+            "material_description": "",
+            "unpublished": false,
+            "first_production_date": null,
+            "brief_description": "",
+            "constellations_primary": [],
+            "constellations_other": [],
+            "recommendations": [],
+            "title_for_label": "<p>Selection of early silent experimental films (Walter Ruttmann, Viking Eggeling and Hans Richter)</p>",
+            "creator_credit_for_label": "<p>Viking Eggeling, Hans Richter and Walter Ruttmann</p>",
+            "headline_credit_for_label": "<p>1921-1925</p>",
+            "description": "",
+            "description_for_label": [],
+            "credit_line_for_label": "",
+            "details": [],
+            "stats": {
+                "tap_count": 0
+            },
+            "links": [],
+            "creators_primary": [
+                {
+                    "id": 1133776,
+                    "name": "Viking Eggeling",
+                    "creator_id": 8841,
+                    "role": "creator",
+                    "role_id": 968,
+                    "is_primary": true
+                },
+                {
+                    "id": 1133775,
+                    "name": "Hans Richter",
+                    "creator_id": 8921,
+                    "role": "creator",
+                    "role_id": 968,
+                    "is_primary": true
+                },
+                {
+                    "id": 1133774,
+                    "name": "Walter Ruttmann",
+                    "creator_id": 71820,
+                    "role": "creator",
+                    "role_id": 968,
+                    "is_primary": true
+                }
+            ],
+            "creators_other": [],
+            "video_links": [],
+            "media_note": "Sorry, we don't have images or video for this item.",
+            "images": [],
+            "videos": [],
+            "holdings": [
+                {
+                    "name": "Digital Betacam [PAL]; Master",
+                    "identifier": "",
+                    "description": ""
+                },
+                {
+                    "name": "VHS [PAL]; Reference - timecoded",
+                    "identifier": "",
+                    "description": ""
+                },
+                {
+                    "name": "Digital Betacam [PAL]; Sub-master",
+                    "identifier": "",
+                    "description": ""
+                }
+            ],
+            "part_of": null,
+            "parts": [],
+            "part_siblings": [],
+            "group": null,
+            "group_works": [
+                {
+                    "id": 109973,
+                    "acmi_id": "12335",
+                    "title": "Opus 1",
+                    "title_annotation": "",
+                    "slug": "opus-1",
+                    "creator_credit": "Walter Ruttmann",
+                    "credit_line": "",
+                    "headline_credit": "1921",
+                    "thumbnail": null,
+                    "record_type": "work",
+                    "type": "Film",
+                    "is_on_display": false,
+                    "last_on_display_place": null,
+                    "last_on_display_date": null,
+                    "is_context_indigenous": false,
+                    "material_description": "",
+                    "unpublished": false,
+                    "first_production_date": "1921-01-01T10:00:00+10:00"
+                },
+                {
+                    "id": 108726,
+                    "acmi_id": "1881",
+                    "title": "Opus 2, 3, 4",
+                    "title_annotation": "",
+                    "slug": "opus-2-3-4",
+                    "creator_credit": "Walter Ruttmann",
+                    "credit_line": "",
+                    "headline_credit": "",
+                    "thumbnail": null,
+                    "record_type": "work",
+                    "type": "Film",
+                    "is_on_display": false,
+                    "last_on_display_place": null,
+                    "last_on_display_date": null,
+                    "is_context_indigenous": false,
+                    "material_description": "",
+                    "unpublished": false,
+                    "first_production_date": null
+                },
+                {
+                    "id": 114007,
+                    "acmi_id": "2082",
+                    "title": "Rhythm 21",
+                    "title_annotation": "",
+                    "slug": "rhythm-21",
+                    "creator_credit": "Hans Richter",
+                    "credit_line": "",
+                    "headline_credit": "",
+                    "thumbnail": null,
+                    "record_type": "work",
+                    "type": "Film",
+                    "is_on_display": false,
+                    "last_on_display_place": null,
+                    "last_on_display_date": null,
+                    "is_context_indigenous": false,
+                    "material_description": "",
+                    "unpublished": false,
+                    "first_production_date": null
+                },
+                {
+                    "id": 108728,
+                    "acmi_id": "1882",
+                    "title": "Symphonie Diagonale",
+                    "title_annotation": "",
+                    "slug": "symphonie-diagonale",
+                    "creator_credit": "Viking Eggeling",
+                    "credit_line": "",
+                    "headline_credit": "",
+                    "thumbnail": null,
+                    "record_type": "work",
+                    "type": "Film",
+                    "is_on_display": false,
+                    "last_on_display_place": null,
+                    "last_on_display_date": null,
+                    "is_context_indigenous": false,
+                    "material_description": "",
+                    "unpublished": false,
+                    "first_production_date": null
+                }
+            ],
+            "group_siblings": [],
+            "source": {
+                "name": "Vernon",
+                "slug": "vernon"
+            },
+            "source_identifier": "10460",
+            "production_places": [],
+            "production_dates": [
+                {
+                    "date": "1921-1925",
+                    "notes": "",
+                    "to_year": "1921-1925"
+                }
+            ],
+            "labels": [
+                48220
+            ]
+        }
+    ]
+}

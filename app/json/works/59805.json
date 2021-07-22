@@ -1,0 +1,270 @@
+{
+    "id": 59805,
+    "acmi_id": "175590",
+    "title": "The Beehive",
+    "title_annotation": "",
+    "slug": "the-beehive",
+    "creator_credit": "Philippa Bateman and Zanny Begg",
+    "credit_line": "<p>Zanny Begg</p>\n<p>Artbank + ACMI Commission, ACMI Collection</p>\n<p>Digital video, stereo sound, variable duration</p>",
+    "headline_credit": "Australia, 2018",
+    "thumbnail": {
+        "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/Beehive_KokoCarey_PBateman-2.tif.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=tqSsc6HTRhIKm0SNVHzU%2BqTW6yY%3D&Expires=1627009223",
+        "has_video": false
+    },
+    "record_type": "work",
+    "type": "Digital art",
+    "is_on_display": false,
+    "last_on_display_place": "ACMI: Gallery 3",
+    "last_on_display_date": "2018-11-06",
+    "is_context_indigenous": false,
+    "material_description": "Single channel digital video and software, colour and audio",
+    "unpublished": false,
+    "first_production_date": "2018-01-01T11:00:00+11:00",
+    "brief_description": "<p>The Beehive explores the unsolved murder of Sydney anti-development campaigner Juanita Nielsen. The inaugural Artbank + ACMI Commission, the video installation examines themes of gentrification, corruption, sex-work, feminism and non-conformist lifestyles.</p>",
+    "constellations_primary": [],
+    "constellations_other": [
+        {
+            "id": 117,
+            "name": "Neo-Noir",
+            "description": "<i>Blade Runner</i>'s retro-futurist setting lends it a timeless quality, while also connecting it to the past and the future."
+        },
+        {
+            "id": 206,
+            "name": "Women and crime",
+            "description": "The allure and fascination of dangerous women and women in danger."
+        }
+    ],
+    "recommendations": [],
+    "title_for_label": "<p>The Beehive</p>",
+    "creator_credit_for_label": "<p>Philippa Bateman and Zanny Begg</p>",
+    "headline_credit_for_label": "<p>Australia, 2018</p>",
+    "description": "<p>Zanny Begg’s <i>The Beehive</i> is the inaugural Artbank + ACMI Commission supporting ambitious and experimental screen-based work at the nexus of film and art.</p>\n<p><i>The Beehive</i> is a non-linear experimental documentary exploring the unsolved murder of Sydney anti-development campaigner and glamourous style icon Juanita Nielsen in Kings Cross in 1975. Juanita’s body has never been found and her murderers have never been charged.</p>\n<p><i>The Beehive</i> consists of scripted fictions, documentary interviews and choreographed scenes with multiple actors playing the role of Juanita. The film is ever-changing, as a different combination of footage is randomly selected for each screening with 1,344 possible variations. <i>The Beehive</i> therefore continually morphs and evolves to reveal different interpretations of this violent historical act and its social context.  Operating like a forensic investigation, the film presents a variety of puzzle pieces, asking new questions and potentially pointing to an answer.</p>\n<p>The title is a reference to Juanita Nielsen’s famous hairdo but is also a metaphor for human cities. In classical times the beehive was seen as a hierarchical and densely industrious hub; in pre-Christian symbolism the beehive was a dark cooperative womb guided by a powerful queen. This clash between utilitarian and feminist interpretations of our cities provides a poetic tension that flows through the film.</p>\n<p>Who killed Juanita Nielsen?</p>",
+    "description_for_label": [
+        "<p>The Beehive explores the unsolved murder of Sydney anti-development campaigner Juanita Nielsen. The inaugural Artbank + ACMI Commission, the video installation examines themes of gentrification, corruption, sex-work, feminism and non-conformist lifestyles.</p>"
+    ],
+    "credit_line_for_label": "<p>Zanny Begg</p>\n<p>Artbank + ACMI Commission, ACMI Collection</p>\n<p>Digital video, stereo sound, variable duration</p>",
+    "details": [
+        {
+            "label": "Language",
+            "display_values": [
+                "English"
+            ]
+        },
+        {
+            "label": "Subject category",
+            "display_values": [
+                "Digital Art"
+            ]
+        },
+        {
+            "label": "Sound/audio",
+            "display_values": [
+                "Sound"
+            ]
+        },
+        {
+            "label": "Colour",
+            "display_values": [
+                "Colour"
+            ]
+        },
+        {
+            "label": "Materials",
+            "display_values": [
+                "Single channel digital video and software, colour and audio"
+            ]
+        }
+    ],
+    "stats": {
+        "tap_count": 68
+    },
+    "links": [],
+    "creators_primary": [
+        {
+            "id": 1134338,
+            "name": "Philippa Bateman",
+            "creator_id": 84379,
+            "role": "producer",
+            "role_id": 960,
+            "is_primary": true
+        },
+        {
+            "id": 1134337,
+            "name": "Zanny Begg",
+            "creator_id": 43479,
+            "role": "creator",
+            "role_id": 968,
+            "is_primary": true
+        }
+    ],
+    "creators_other": [],
+    "video_links": [],
+    "media_note": null,
+    "images": [
+        {
+            "id": 16295,
+            "image_file": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/Beehive_KokoCarey_PBateman-2.tif?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=jqU0oBdjhhC2tSFSzgRnnw8XBsI%3D&Expires=1627009223",
+            "image_file_thumbnail": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/Beehive_KokoCarey_PBateman-2.tif.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=tqSsc6HTRhIKm0SNVHzU%2BqTW6yY%3D&Expires=1627009223",
+            "image_file_xs": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/Beehive_KokoCarey_PBateman-2.tif.480x480_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=ad2LC%2ByyDD3R3hw9bfMnVvhQBU8%3D&Expires=1627009223",
+            "image_file_s": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/Beehive_KokoCarey_PBateman-2.tif.960x960_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=ydva3TcDmKLggXZMH%2FUQBfzbKmc%3D&Expires=1627009223",
+            "image_file_m": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/Beehive_KokoCarey_PBateman-2.tif.1920x1920_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=LwngVUmjY%2F4%2Fy2xkLKOhNIf6VcQ%3D&Expires=1627009223",
+            "image_file_l": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/Beehive_KokoCarey_PBateman-2.tif.3840x3840_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=8k4ZDAScqkaPSlYjMHi%2FXrNwcqw%3D&Expires=1627009223",
+            "caption": "Z000121_TheBeehive still 1",
+            "credit_line": "",
+            "alt_text": "",
+            "width": 5419,
+            "height": 3613,
+            "access_level": "View anywhere"
+        },
+        {
+            "id": 16296,
+            "image_file": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/ACMI-22082018-36.4.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=cIq5UsDiYcWnTlrn71cSul%2BE82E%3D&Expires=1627009223",
+            "image_file_thumbnail": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/ACMI-22082018-36.4.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=VMuStbwyQtJG83tP7pyjU5zztvw%3D&Expires=1627009223",
+            "image_file_xs": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/ACMI-22082018-36.4.jpg.480x480_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=eKNeBHuSAwk7W2McIpREtfVDezc%3D&Expires=1627009223",
+            "image_file_s": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/ACMI-22082018-36.4.jpg.960x960_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=0YCdOXn8oZ7ieTmEv6nMEV8Bftc%3D&Expires=1627009223",
+            "image_file_m": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/ACMI-22082018-36.4.jpg.1920x1920_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=Q7HS6Mkf2tDneMp%2FdnDbUPKdS2Q%3D&Expires=1627009223",
+            "image_file_l": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/ACMI-22082018-36.4.jpg.3840x3840_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=M55B7Y78w0f9Iuyft5ilYR6MDfM%3D&Expires=1627009223",
+            "caption": "Z000121_TheBeehive installation photograph",
+            "credit_line": "",
+            "alt_text": "",
+            "width": 1200,
+            "height": 800,
+            "access_level": "View anywhere"
+        },
+        {
+            "id": 21286,
+            "image_file": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/Z000121_TheBeehive_still01.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=fx3yTDVK0AP1djugJDrHp2ks5XQ%3D&Expires=1627009223",
+            "image_file_thumbnail": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/Z000121_TheBeehive_still01.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=kvFo7mLgIdO0mfYyKkHJJm3jXOA%3D&Expires=1627009223",
+            "image_file_xs": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/Z000121_TheBeehive_still01.jpg.480x480_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=SneRq0cFQd5yVqEQLIbzFoPAcTQ%3D&Expires=1627009223",
+            "image_file_s": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/Z000121_TheBeehive_still01.jpg.960x960_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=9EIVZCRz0BNr6mccu19jOislDFk%3D&Expires=1627009223",
+            "image_file_m": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/Z000121_TheBeehive_still01.jpg.1920x1920_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=%2FdVcN1ixY1QCEV%2BWO7C2J5gHW1U%3D&Expires=1627009223",
+            "image_file_l": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/Z000121_TheBeehive_still01.jpg.3840x3840_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=fCN73VnyHARQM5kA%2FoTmI9fvcso%3D&Expires=1627009223",
+            "caption": "Z000121 The Beehive still 01",
+            "credit_line": "Zanny Begg, The Beehive (production still), 2018. Courtesy Enigma Machine. Photograph: Philippa Bateman.",
+            "alt_text": "",
+            "width": 5760,
+            "height": 3840,
+            "access_level": "View anywhere"
+        },
+        {
+            "id": 21287,
+            "image_file": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/Z000121_TheBeehive_still02.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=aqTb4oGzO9mpdmQQLjGy1ihOf2I%3D&Expires=1627009223",
+            "image_file_thumbnail": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/Z000121_TheBeehive_still02.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=qg4NzrRZL%2FhDbwbFlEF%2BK7t%2BMT8%3D&Expires=1627009223",
+            "image_file_xs": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/Z000121_TheBeehive_still02.jpg.480x480_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=d%2B%2B4ceWdFaoz5%2BDL6pVCYq5HFYE%3D&Expires=1627009223",
+            "image_file_s": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/Z000121_TheBeehive_still02.jpg.960x960_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=Sht7VZWtaT%2FoISbeo92qSVVVP18%3D&Expires=1627009223",
+            "image_file_m": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/Z000121_TheBeehive_still02.jpg.1920x1920_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=Kw3rAIayGEPgXCbK53kpbYoIoJU%3D&Expires=1627009223",
+            "image_file_l": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/Z000121_TheBeehive_still02.jpg.3840x3840_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=ChGUY9KB3DMZIpdgoAeGnT6Fxc0%3D&Expires=1627009223",
+            "caption": "Z000121 The Beehive still 02",
+            "credit_line": "Zanny Begg, The Beehive (production still), 2018. Courtesy Engima Machine. Photograph: Philippa Bateman.",
+            "alt_text": "",
+            "width": 5760,
+            "height": 3840,
+            "access_level": "View anywhere"
+        },
+        {
+            "id": 21288,
+            "image_file": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/Z000121_TheBeehive_still03.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=lkO06UB4C3DVLhQ3MrjIoVVce6A%3D&Expires=1627009223",
+            "image_file_thumbnail": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/Z000121_TheBeehive_still03.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=ZixpJNCgYJrr5reAvA7gOBJTrn8%3D&Expires=1627009223",
+            "image_file_xs": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/Z000121_TheBeehive_still03.jpg.480x480_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=YPIZNUfyGa2pqKkeK2R%2BTK8opa8%3D&Expires=1627009223",
+            "image_file_s": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/Z000121_TheBeehive_still03.jpg.960x960_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=eAla6t0KZUFM65T7eesMc6rHbUA%3D&Expires=1627009223",
+            "image_file_m": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/Z000121_TheBeehive_still03.jpg.1920x1920_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=xnjUWxaI4C5h7LAx2Gd3%2FFFuJ4Q%3D&Expires=1627009223",
+            "image_file_l": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/Z000121_TheBeehive_still03.jpg.3840x3840_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=vUP%2BKC6NC1ZTPG8w5eEWVp8X89w%3D&Expires=1627009223",
+            "caption": "Z000121 The Beehive still 03",
+            "credit_line": "Zanny Begg, The Beehive (production still), 2018. Courtesy Engima Machine. Photograph: Philippa Bateman.",
+            "alt_text": "",
+            "width": 4790,
+            "height": 3193,
+            "access_level": "View anywhere"
+        },
+        {
+            "id": 21289,
+            "image_file": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/Z000121_TheBeehive_still04.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=uXOlCyXgy0WuDGW8uQbiUaJo6wg%3D&Expires=1627009223",
+            "image_file_thumbnail": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/Z000121_TheBeehive_still04.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=qXw2r8RG9ZX%2Bf25igDeAStibHzE%3D&Expires=1627009223",
+            "image_file_xs": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/Z000121_TheBeehive_still04.jpg.480x480_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=x5k9Z%2B6551mG4vgKCYNPLUePaaI%3D&Expires=1627009223",
+            "image_file_s": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/Z000121_TheBeehive_still04.jpg.960x960_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=Vrf%2BLJt2umR%2F9C4wwqwQQkBdGrg%3D&Expires=1627009223",
+            "image_file_m": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/Z000121_TheBeehive_still04.jpg.1920x1920_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=Dydr7reTwO2IqgdPnD1PDNCqDec%3D&Expires=1627009223",
+            "image_file_l": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/Z000121_TheBeehive_still04.jpg.3840x3840_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=4B6kRSBIYAD%2FrApYwWgFHFRgf1U%3D&Expires=1627009223",
+            "caption": "Z000121 The Beehive still 04",
+            "credit_line": "Zanny Begg, The Beehive (production still), 2018. Photograph: Hugh Hamilton.",
+            "alt_text": "",
+            "width": 3456,
+            "height": 4608,
+            "access_level": "View anywhere"
+        },
+        {
+            "id": 21290,
+            "image_file": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/Z000121_TheBeehive_still05.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=dYxS2LBYuTEV46l4Ri%2FJWG44ddA%3D&Expires=1627009223",
+            "image_file_thumbnail": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/Z000121_TheBeehive_still05.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=l3Z2OtTsiMbqiB%2F9UIql24C6fko%3D&Expires=1627009223",
+            "image_file_xs": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/Z000121_TheBeehive_still05.jpg.480x480_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=js5YP9znX4phfVRLX2TaxH235Yw%3D&Expires=1627009223",
+            "image_file_s": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/Z000121_TheBeehive_still05.jpg.960x960_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=bvcwc1BKnXQ%2FKW1cw51sXc6tFJw%3D&Expires=1627009223",
+            "image_file_m": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/Z000121_TheBeehive_still05.jpg.1920x1920_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=rCJlp7k6UejUUnWsLXFQlgRcHAM%3D&Expires=1627009223",
+            "image_file_l": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/Z000121_TheBeehive_still05.jpg.3840x3840_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=q9QVcPdu2zNs%2Fnofq%2BSRfg9KHNY%3D&Expires=1627009223",
+            "caption": "Z000121 The Beehive still 05",
+            "credit_line": "Zanny Begg, The Beehive (production still), 2018. Courtesy Enigma Machine. Photograph: Sam Droege.",
+            "alt_text": "",
+            "width": 4586,
+            "height": 3972,
+            "access_level": "View anywhere"
+        },
+        {
+            "id": 21291,
+            "image_file": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/Z000121_TheBeehive_still06.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=skcFmRPHbDjaw0mRbpQJ2d5bTr0%3D&Expires=1627009223",
+            "image_file_thumbnail": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/Z000121_TheBeehive_still06.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=NdIzd3yihOc%2FHmg0s00zK6%2FOlOg%3D&Expires=1627009223",
+            "image_file_xs": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/Z000121_TheBeehive_still06.jpg.480x480_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=6iX8VZHL%2F5lwtK2eqbEzSDLU504%3D&Expires=1627009223",
+            "image_file_s": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/Z000121_TheBeehive_still06.jpg.960x960_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=ByI6mGbOYIl2HT82e%2Fs%2FcZBxXC4%3D&Expires=1627009223",
+            "image_file_m": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/Z000121_TheBeehive_still06.jpg.1920x1920_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=knMGG3vMuVVItSws245yYAufG8o%3D&Expires=1627009223",
+            "image_file_l": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/Z000121_TheBeehive_still06.jpg.3840x3840_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=OYiOQRJB6AErdLV84yVKgHaNFe4%3D&Expires=1627009223",
+            "caption": "Z000121 The Beehive still 06",
+            "credit_line": "Zanny Begg, The Beehive (production still), 2018. Courtesy Enigma Machine. Photograph: Hugh Hamilton.",
+            "alt_text": "",
+            "width": 3276,
+            "height": 2457,
+            "access_level": "View anywhere"
+        },
+        {
+            "id": 21292,
+            "image_file": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/Z000121_TheBeehive_still07.jpeg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=L7MNe54LPoMe6Muoje5a8WHRHEE%3D&Expires=1627009223",
+            "image_file_thumbnail": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/Z000121_TheBeehive_still07.jpeg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=dF5P2WOIrzxg127ez6sgeyVlel8%3D&Expires=1627009223",
+            "image_file_xs": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/Z000121_TheBeehive_still07.jpeg.480x480_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=RcE0Vf6W508dC2qiFcTmBhbyMWE%3D&Expires=1627009223",
+            "image_file_s": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/Z000121_TheBeehive_still07.jpeg.960x960_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=zgY%2BZLV8aOaIg2abCNz7PLxEuCE%3D&Expires=1627009223",
+            "image_file_m": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/Z000121_TheBeehive_still07.jpeg.1920x1920_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=ZR40DkjV11luqS8JP4I4WoCnqWc%3D&Expires=1627009223",
+            "image_file_l": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/Z000121_TheBeehive_still07.jpeg.3840x3840_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=YhTr15DXlnEsvFMLyDMnrNObQHs%3D&Expires=1627009223",
+            "caption": "Z000121 The Beehive still 07",
+            "credit_line": "Zanny Begg, The Beehive (production still), 2018. Courtesy Enigma Machine. Photograph: Philippa Bateman.",
+            "alt_text": "",
+            "width": 640,
+            "height": 427,
+            "access_level": "View anywhere"
+        }
+    ],
+    "videos": [],
+    "holdings": [],
+    "part_of": null,
+    "parts": [],
+    "part_siblings": [],
+    "group": null,
+    "group_works": [],
+    "group_siblings": [],
+    "source": {
+        "name": "Vernon",
+        "slug": "vernon"
+    },
+    "source_identifier": "175590",
+    "production_places": [
+        {
+            "id": 3,
+            "name": "Australia",
+            "slug": "australia"
+        }
+    ],
+    "production_dates": [
+        {
+            "date": "2018",
+            "notes": "",
+            "to_year": "2018"
+        }
+    ],
+    "labels": [
+        1063
+    ]
+}

@@ -1,0 +1,1917 @@
+{
+    "count": 922,
+    "next": "https://api.acmi.net.au/works/?page=35",
+    "previous": "https://api.acmi.net.au/works/?page=33",
+    "results": [
+        {
+            "id": 107472,
+            "acmi_id": "177008",
+            "title": "Movie booklet in Japanese: 'My Brilliant Career'",
+            "title_annotation": "",
+            "slug": "movie-booklet-in-japanese-my-brilliant-career",
+            "creator_credit": "",
+            "credit_line": "",
+            "headline_credit": "",
+            "thumbnail": null,
+            "record_type": "work",
+            "type": "Object",
+            "is_on_display": false,
+            "last_on_display_place": null,
+            "last_on_display_date": null,
+            "is_context_indigenous": false,
+            "material_description": "",
+            "unpublished": false,
+            "first_production_date": null,
+            "brief_description": "<p>Movie booklet for the film &#8216;My Brilliant Career&#8217;, in Japanese. Colour and black and white printed booklet with images from the movie and text in Japanese.</p>",
+            "constellations_primary": [],
+            "constellations_other": [],
+            "recommendations": [],
+            "title_for_label": "<p>Movie booklet in Japanese: &#8216;My Brilliant Career&#8217;</p>",
+            "creator_credit_for_label": "",
+            "headline_credit_for_label": "",
+            "description": "<p>Movie booklet for the film &#8216;My Brilliant Career&#8217;, in Japanese. Colour and black and white printed booklet with images from the movie and text in Japanese.</p>",
+            "description_for_label": [
+                "<p>Movie booklet for the film &#8216;My Brilliant Career&#8217;, in Japanese. Colour and black and white printed booklet with images from the movie and text in Japanese.</p>"
+            ],
+            "credit_line_for_label": "",
+            "details": [
+                {
+                    "label": "Measurements",
+                    "display_values": [
+                        "29.5 x 21 x 0.3cm"
+                    ]
+                }
+            ],
+            "stats": {
+                "tap_count": 0
+            },
+            "links": [],
+            "creators_primary": [],
+            "creators_other": [],
+            "video_links": [],
+            "media_note": "Sorry, we don't have images or video for this item.",
+            "images": [],
+            "videos": [],
+            "holdings": [],
+            "part_of": null,
+            "parts": [],
+            "part_siblings": [],
+            "group": null,
+            "group_works": [],
+            "group_siblings": [],
+            "source": {
+                "name": "Vernon",
+                "slug": "vernon"
+            },
+            "source_identifier": "177008",
+            "production_places": [],
+            "production_dates": [],
+            "labels": [
+                46965
+            ]
+        },
+        {
+            "id": 117865,
+            "acmi_id": "176991",
+            "title": "Eastman Kodak Cine-Kodak Special II 16mm camera",
+            "title_annotation": "",
+            "slug": "eastman-kodak-cine-kodak-special-ii-16mm-camera",
+            "creator_credit": "Eastman Kodak",
+            "credit_line": "",
+            "headline_credit": "",
+            "thumbnail": null,
+            "record_type": "work",
+            "type": "Object",
+            "is_on_display": false,
+            "last_on_display_place": null,
+            "last_on_display_date": null,
+            "is_context_indigenous": false,
+            "material_description": "",
+            "unpublished": false,
+            "first_production_date": null,
+            "brief_description": "<p>Cine-Kodak Special II 16mm silent movie camera with two interchangeable lenses. Camera is made up of a rectangular camera box and rectangular film magazine attached. Contains spare film magazine.</p>",
+            "constellations_primary": [],
+            "constellations_other": [],
+            "recommendations": [],
+            "title_for_label": "<p>Eastman Kodak Cine-Kodak Special II 16mm camera</p>",
+            "creator_credit_for_label": "<p>Eastman Kodak</p>",
+            "headline_credit_for_label": "",
+            "description": "<p>Cine-Kodak Special II 16mm silent movie camera with two interchangeable lenses. Camera is made up of a rectangular camera box and rectangular film magazine attached. Contains spare film magazine.</p>",
+            "description_for_label": [
+                "<p>Cine-Kodak Special II 16mm silent movie camera with two interchangeable lenses. Camera is made up of a rectangular camera box and rectangular film magazine attached. Contains spare film magazine.</p>"
+            ],
+            "credit_line_for_label": "",
+            "details": [
+                {
+                    "label": "Subject categories",
+                    "display_values": [
+                        "Advertising, Film, Journalism, Mass Media & TV&nbsp;→ Cameras",
+                        "Crafts & Visual Arts&nbsp;→ Cameras",
+                        "Mathematics, Science & Technology&nbsp;→ Cameras",
+                        "object&nbsp;→ 3D artefact"
+                    ]
+                },
+                {
+                    "label": "Measurements",
+                    "display_values": [
+                        "20mm",
+                        "25 x 9 x 14cm"
+                    ]
+                }
+            ],
+            "stats": {
+                "tap_count": 0
+            },
+            "links": [],
+            "creators_primary": [
+                {
+                    "id": 1134371,
+                    "name": "Eastman Kodak",
+                    "creator_id": 10305,
+                    "role": "manufacturer",
+                    "role_id": 627,
+                    "is_primary": true
+                }
+            ],
+            "creators_other": [],
+            "video_links": [],
+            "media_note": "Sorry, we don't have images or video for this item.",
+            "images": [],
+            "videos": [],
+            "holdings": [],
+            "part_of": null,
+            "parts": [],
+            "part_siblings": [],
+            "group": null,
+            "group_works": [],
+            "group_siblings": [],
+            "source": {
+                "name": "Vernon",
+                "slug": "vernon"
+            },
+            "source_identifier": "176991",
+            "production_places": [],
+            "production_dates": [],
+            "labels": [
+                57359
+            ]
+        },
+        {
+            "id": 100248,
+            "acmi_id": "176989",
+            "title": "Sony Betamovie BMC-100P",
+            "title_annotation": "",
+            "slug": "sony-betamovie-bmc-1009-camera",
+            "creator_credit": "Sony",
+            "credit_line": "",
+            "headline_credit": "Japan, 1983",
+            "thumbnail": {
+                "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AEO176989_SonyBetamovieCamera_34.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=Yy1LHDtXtuPdUxUIU8SH2x2jx48%3D&Expires=1627009198",
+                "has_video": false
+            },
+            "record_type": "work",
+            "type": "Object",
+            "is_on_display": true,
+            "last_on_display_place": "ACMI: Gallery 1",
+            "last_on_display_date": "2031-02-16",
+            "is_context_indigenous": false,
+            "material_description": "",
+            "unpublished": false,
+            "first_production_date": "1983-01-01T11:00:00+11:00",
+            "brief_description": "<p>This Sony Betamovie BMC-100P model of camera carried Betamax cassette tapes, which were introduced by Sony in 1975. It was the first consumer camcorder, including both camera and recorder in a single unit that would become standard in the years to follow.</p>",
+            "constellations_primary": [
+                {
+                    "id": 237,
+                    "name": "Found footage and the first camcorder",
+                    "description": "Amateur filmmakers turned the camera on their own lives when camcorders like the Sony Betamovie BMC-100P came on the market. The style of footage filmed on camcorders has inspired many fictional films, particularly in the horror genre."
+                }
+            ],
+            "constellations_other": [],
+            "recommendations": [],
+            "title_for_label": "<p>Sony Betamovie BMC-100P</p>",
+            "creator_credit_for_label": "<p>Sony</p>",
+            "headline_credit_for_label": "<p>Japan, 1983</p>",
+            "description": "<p>The late 1970s to 1980s were a time of voracious competition and innovation for companies attempting to gain a monopoly on the growing home video market. This Sony Betamovie BMC-100P model of camera carried Betamax cassette tapes, which were introduced by Sony in 1975. It was the first consumer camcorder, including both camera and recorder in a single unit that would become standard in the years to follow. The rival Betamax and VHS (Video Home System) formats were incompatible with each other, meaning buyers had to choose. The advantages of Betamax were its slightly superior picture quality and smaller size, but the length of recording time was considerably shorter than VHS.</p>",
+            "description_for_label": [
+                "<p>The late 1970s to 1980s were a time of voracious competition and innovation for companies attempting to gain a monopoly on the growing home video market. This Sony Betamovie BMC-100P model of camera carried Betamax cassette tapes, which were introduced by Sony in 1975. It was the first consumer camcorder, including both camera and recorder in a single unit that would become standard in the years to follow. The rival Betamax and VHS (Video Home System) formats were incompatible with each other, meaning buyers had to choose. The advantages of Betamax were its slightly superior picture quality and smaller size, but the length of recording time was considerably shorter than VHS.</p>"
+            ],
+            "credit_line_for_label": "",
+            "details": [
+                {
+                    "label": "Subject category",
+                    "display_values": [
+                        "object&nbsp;→ 3D artefact"
+                    ]
+                },
+                {
+                    "label": "Curatorial section",
+                    "display_values": [
+                        "The Story of the Moving Image&nbsp;→ Moving Minds&nbsp;→ 05. Camera Tech&nbsp;→ MM-05-C01"
+                    ]
+                },
+                {
+                    "label": "Measurements",
+                    "display_values": [
+                        "93 x 7 x 1.5cm",
+                        "35.5 x 15 x 22cm"
+                    ]
+                }
+            ],
+            "stats": {
+                "tap_count": 1703
+            },
+            "links": [],
+            "creators_primary": [
+                {
+                    "id": 1134370,
+                    "name": "Sony",
+                    "creator_id": 71968,
+                    "role": "manufacturer",
+                    "role_id": 627,
+                    "is_primary": true
+                }
+            ],
+            "creators_other": [],
+            "video_links": [],
+            "media_note": null,
+            "images": [
+                {
+                    "id": 12453,
+                    "image_file": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AEO176989_SonyBetamovieCamera_34.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=mnBJxciW4aGqaIx0hHAogxTWXKE%3D&Expires=1627009198",
+                    "image_file_thumbnail": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AEO176989_SonyBetamovieCamera_34.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=Yy1LHDtXtuPdUxUIU8SH2x2jx48%3D&Expires=1627009198",
+                    "image_file_xs": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AEO176989_SonyBetamovieCamera_34.jpg.480x480_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=EOOFKWXQBytjC7T0uyKgj7ux9JM%3D&Expires=1627009198",
+                    "image_file_s": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AEO176989_SonyBetamovieCamera_34.jpg.960x960_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=QtylZvrz12FIEA120bT6rN7PHDY%3D&Expires=1627009198",
+                    "image_file_m": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AEO176989_SonyBetamovieCamera_34.jpg.1920x1920_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=xrdvYFucLPFdIsGg%2BgINoTmKsrU%3D&Expires=1627009198",
+                    "image_file_l": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AEO176989_SonyBetamovieCamera_34.jpg.3840x3840_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=0zjs4P71c177BvYLFiGP9p5AwW0%3D&Expires=1627009198",
+                    "caption": "AEO176989_SonyBetamovieCamera_34",
+                    "credit_line": "Photograph by Egmont Contreras, ACMI",
+                    "alt_text": "",
+                    "width": 4800,
+                    "height": 3200,
+                    "access_level": "View anywhere"
+                },
+                {
+                    "id": 12454,
+                    "image_file": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AEO176989_SonyBetamovieCamera_Front.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=59zFTtt7DB0prGuc5KdJZc6J7Og%3D&Expires=1627009198",
+                    "image_file_thumbnail": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AEO176989_SonyBetamovieCamera_Front.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=k3NKmDFjcYBNjyZlgfkhcE9xQB0%3D&Expires=1627009198",
+                    "image_file_xs": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AEO176989_SonyBetamovieCamera_Front.jpg.480x480_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=jjhXaTkmlTtCyTGCGn8BwuBgTk4%3D&Expires=1627009198",
+                    "image_file_s": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AEO176989_SonyBetamovieCamera_Front.jpg.960x960_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=udTTI1kW8UQIjHwQ9vAPbGS3xnM%3D&Expires=1627009198",
+                    "image_file_m": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AEO176989_SonyBetamovieCamera_Front.jpg.1920x1920_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=3T6yn8UtccQjNPUNg1yBaTm4vvA%3D&Expires=1627009198",
+                    "image_file_l": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AEO176989_SonyBetamovieCamera_Front.jpg.3840x3840_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=ylYRfazj9vBw8Dwh%2BKVHj3gZil0%3D&Expires=1627009198",
+                    "caption": "AEO176989_SonyBetamovieCamera_Front",
+                    "credit_line": "Photograph by Egmont Contreras, ACMI",
+                    "alt_text": "",
+                    "width": 4464,
+                    "height": 2976,
+                    "access_level": "View anywhere"
+                },
+                {
+                    "id": 12455,
+                    "image_file": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AEO176989_SonyBetamovieCamera_Left.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=OhS4wlcXYRimDHgf7LCAxFW%2Fz0s%3D&Expires=1627009198",
+                    "image_file_thumbnail": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AEO176989_SonyBetamovieCamera_Left.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=ROHLxp%2BuNx7ytMVN7UmoA%2BsHTkg%3D&Expires=1627009198",
+                    "image_file_xs": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AEO176989_SonyBetamovieCamera_Left.jpg.480x480_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=%2FqIZ9y492RFr8Fi%2FjShSwKgxtFk%3D&Expires=1627009198",
+                    "image_file_s": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AEO176989_SonyBetamovieCamera_Left.jpg.960x960_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=NpzQp%2FnJcXHmuutAMYE%2FnRjdA2c%3D&Expires=1627009198",
+                    "image_file_m": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AEO176989_SonyBetamovieCamera_Left.jpg.1920x1920_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=CHor%2FHMVRxYtyYHZGgwmf60nntc%3D&Expires=1627009198",
+                    "image_file_l": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AEO176989_SonyBetamovieCamera_Left.jpg.3840x3840_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=0e%2FGmdX0naASDjMtLnInBZtEizo%3D&Expires=1627009198",
+                    "caption": "AEO176989_SonyBetamovieCamera_Left",
+                    "credit_line": "Photograph by Egmont Contreras, ACMI",
+                    "alt_text": "",
+                    "width": 4608,
+                    "height": 3072,
+                    "access_level": "View anywhere"
+                },
+                {
+                    "id": 12456,
+                    "image_file": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AEO176989_SonyBetamovieCamera_Right.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=rxO%2FCXk99sSfn4OGcvc49X1AFWo%3D&Expires=1627009198",
+                    "image_file_thumbnail": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AEO176989_SonyBetamovieCamera_Right.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=DarQ2zO9SoDkYN7bhIjq%2FFA3sX4%3D&Expires=1627009198",
+                    "image_file_xs": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AEO176989_SonyBetamovieCamera_Right.jpg.480x480_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=rTTpe7TNU6fm6Yt4E2yHw1e0SC8%3D&Expires=1627009198",
+                    "image_file_s": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AEO176989_SonyBetamovieCamera_Right.jpg.960x960_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=u5lTVt1aAC3y%2FZpZfF30Xlc22Go%3D&Expires=1627009198",
+                    "image_file_m": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AEO176989_SonyBetamovieCamera_Right.jpg.1920x1920_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=of%2Bz%2BmgCUcy5Am3YTUtMbRAsvEk%3D&Expires=1627009198",
+                    "image_file_l": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AEO176989_SonyBetamovieCamera_Right.jpg.3840x3840_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=zOMmAM5vzjjt5HYGAgUMx97Rtbs%3D&Expires=1627009198",
+                    "caption": "AEO176989_SonyBetamovieCamera_Right",
+                    "credit_line": "Photograph by Egmont Contreras, ACMI",
+                    "alt_text": "",
+                    "width": 4359,
+                    "height": 2906,
+                    "access_level": "View anywhere"
+                }
+            ],
+            "videos": [],
+            "holdings": [],
+            "part_of": null,
+            "parts": [],
+            "part_siblings": [],
+            "group": null,
+            "group_works": [],
+            "group_siblings": [],
+            "source": {
+                "name": "Vernon",
+                "slug": "vernon"
+            },
+            "source_identifier": "176989",
+            "production_places": [
+                {
+                    "id": 8,
+                    "name": "Japan",
+                    "slug": "japan"
+                }
+            ],
+            "production_dates": [
+                {
+                    "date": "1983",
+                    "notes": "",
+                    "to_year": "1983"
+                }
+            ],
+            "labels": [
+                39744
+            ]
+        },
+        {
+            "id": 118263,
+            "acmi_id": "176739",
+            "title": "16MM Sound Projector, RST Series",
+            "title_annotation": "",
+            "slug": "16mm-sound-projector-rst-series",
+            "creator_credit": "Eiki Industrial Co., Ltd.",
+            "credit_line": "<p>ACMI Collection</p>",
+            "headline_credit": "Japan, c. 1970s",
+            "thumbnail": {
+                "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/E000213_HanimexEiki16MM_Projector_34.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=%2FgG2jhaVa61P11pxxbJceHINwBg%3D&Expires=1627009198",
+                "has_video": false
+            },
+            "record_type": "work",
+            "type": "Object",
+            "is_on_display": true,
+            "last_on_display_place": "ACMI: Gallery 1",
+            "last_on_display_date": "2031-02-16",
+            "is_context_indigenous": false,
+            "material_description": "",
+            "unpublished": false,
+            "first_production_date": null,
+            "brief_description": "<p>Introduced in the 1920&#8217;s as a more affordable film format to the industry standard 35mm, 16mm film was popularised by home movie enthusiasts and widely used for educational purposes. Projectors like this Hanimex Eiki 16MM increasingly became a common piece of audio visual equipment within schools and libraries across the world. This particular projector features textured metal casing and a handle for portability convenience.</p>\n<p>The popularity of 16mm projectors began to decrease in the 1980&#8217;s as home video technologies were seen as a more cost effective and compact solution to film.</p>",
+            "constellations_primary": [],
+            "constellations_other": [],
+            "recommendations": [],
+            "title_for_label": "<p>16MM Sound Projector, RST Series</p>",
+            "creator_credit_for_label": "<p>Eiki Industrial Co., Ltd.</p>",
+            "headline_credit_for_label": "<p>Japan, c. 1970s</p>",
+            "description": "<p>Introduced in the 1920&#8217;s as a more affordable film format to the industry standard 35mm, 16mm film was popularised by home movie enthusiasts and widely used for educational purposes. Projectors like this Hanimex Eiki 16MM increasingly became a common piece of audio visual equipment within schools and libraries across the world. This particular projector features textured metal casing and a handle for portability convenience.</p>\n<p>The popularity of 16mm projectors began to decrease in the 1980&#8217;s as home video technologies were seen as a more cost effective and compact solution to film.</p>",
+            "description_for_label": [
+                "<p>Introduced in the 1920&#8217;s as a more affordable film format to the industry standard 35mm, 16mm film was popularised by home movie enthusiasts and widely used for educational purposes. Projectors like this Hanimex Eiki 16MM increasingly became a common piece of audio visual equipment within schools and libraries across the world. This particular projector features textured metal casing and a handle for portability convenience.</p>\n<p>The popularity of 16mm projectors began to decrease in the 1980&#8217;s as home video technologies were seen as a more cost effective and compact solution to film.</p>"
+            ],
+            "credit_line_for_label": "<p>ACMI Collection</p>",
+            "details": [
+                {
+                    "label": "Curatorial section",
+                    "display_values": [
+                        "The Story of the Moving Image&nbsp;→  Foyer&nbsp;→ Entry &nbsp;→ 03. MPL exterior"
+                    ]
+                },
+                {
+                    "label": "Measurements",
+                    "display_values": [
+                        "15.1kg"
+                    ]
+                }
+            ],
+            "stats": {
+                "tap_count": 0
+            },
+            "links": [],
+            "creators_primary": [
+                {
+                    "id": 1134368,
+                    "name": "Eiki Industrial Co., Ltd.",
+                    "creator_id": 84860,
+                    "role": "creator",
+                    "role_id": 968,
+                    "is_primary": true
+                }
+            ],
+            "creators_other": [
+                {
+                    "id": 1134369,
+                    "name": "Hanimex",
+                    "creator_id": 71270,
+                    "role": "distributor",
+                    "role_id": 437,
+                    "is_primary": false
+                }
+            ],
+            "video_links": [],
+            "media_note": null,
+            "images": [
+                {
+                    "id": 21155,
+                    "image_file": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/E000213_HanimexEiki16MM_Projector_34.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=xYA%2BBnuROSKBDD77gvRk9aHUP90%3D&Expires=1627009198",
+                    "image_file_thumbnail": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/E000213_HanimexEiki16MM_Projector_34.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=%2FgG2jhaVa61P11pxxbJceHINwBg%3D&Expires=1627009198",
+                    "image_file_xs": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/E000213_HanimexEiki16MM_Projector_34.jpg.480x480_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=UtFOlK%2FUrVJc%2FfH77U%2Be66pYfKc%3D&Expires=1627009198",
+                    "image_file_s": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/E000213_HanimexEiki16MM_Projector_34.jpg.960x960_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=upfwxyaGNJWKa5olEXQNBgf%2FsAI%3D&Expires=1627009198",
+                    "image_file_m": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/E000213_HanimexEiki16MM_Projector_34.jpg.1920x1920_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=RQ%2FqNIYojEX6g2AKHinHi%2FDqFmI%3D&Expires=1627009198",
+                    "image_file_l": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/E000213_HanimexEiki16MM_Projector_34.jpg.3840x3840_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=0F%2FfmANebC%2FTU%2FkDSZsyI3T8xr8%3D&Expires=1627009198",
+                    "caption": "E000213_HanimexEiki16MM_Projector_34.jpg",
+                    "credit_line": "Photograph by Egmont Contreras, ACMI.",
+                    "alt_text": "",
+                    "width": 4800,
+                    "height": 3200,
+                    "access_level": "View anywhere"
+                },
+                {
+                    "id": 21156,
+                    "image_file": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/E000213_HanimexEiki16MM_Projector_Front.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=irdpJSnftVefAnapV9wyDIlU3kw%3D&Expires=1627009198",
+                    "image_file_thumbnail": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/E000213_HanimexEiki16MM_Projector_Front.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=2DnNqUTZchNsppBHwdbE7LRHbTg%3D&Expires=1627009198",
+                    "image_file_xs": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/E000213_HanimexEiki16MM_Projector_Front.jpg.480x480_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=eTnra4krPDIe%2Bm25kFvoGuUnATM%3D&Expires=1627009198",
+                    "image_file_s": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/E000213_HanimexEiki16MM_Projector_Front.jpg.960x960_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=%2FB3PdwK9GbRRmDYGUzO29zI3ofE%3D&Expires=1627009198",
+                    "image_file_m": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/E000213_HanimexEiki16MM_Projector_Front.jpg.1920x1920_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=5shMDfPA6ZEmuR6QCDoRGdPtRAM%3D&Expires=1627009198",
+                    "image_file_l": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/E000213_HanimexEiki16MM_Projector_Front.jpg.3840x3840_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=DqQtHLkdPufgl8H9uYqwnkDN5A0%3D&Expires=1627009198",
+                    "caption": "E000213_HanimexEiki16MM_Projector_Front.jpg",
+                    "credit_line": "Photograph by Egmont Contreras, ACMI.",
+                    "alt_text": "",
+                    "width": 2160,
+                    "height": 3200,
+                    "access_level": "View anywhere"
+                },
+                {
+                    "id": 21157,
+                    "image_file": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/E000213_HanimexEiki16MM_Projector_Side.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=e%2BXGPqixf8D%2FVURGBXivFpicc7o%3D&Expires=1627009198",
+                    "image_file_thumbnail": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/E000213_HanimexEiki16MM_Projector_Side.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=uD9wmOnsV1ITwSelDarVkbGVXaU%3D&Expires=1627009198",
+                    "image_file_xs": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/E000213_HanimexEiki16MM_Projector_Side.jpg.480x480_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=LshlVXPqQGP1orz7dOkYIPsDYHs%3D&Expires=1627009198",
+                    "image_file_s": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/E000213_HanimexEiki16MM_Projector_Side.jpg.960x960_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=3iL7kE4I5LfRqCgXqnjkrq0%2BUJw%3D&Expires=1627009198",
+                    "image_file_m": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/E000213_HanimexEiki16MM_Projector_Side.jpg.1920x1920_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=5uer%2F6h6frtJz%2BLlFN3NMgJkpLY%3D&Expires=1627009198",
+                    "image_file_l": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/E000213_HanimexEiki16MM_Projector_Side.jpg.3840x3840_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=YPqjO%2BpY0LQora3Fops%2BgkFR4%2Bw%3D&Expires=1627009198",
+                    "caption": "E000213_HanimexEiki16MM_Projector_Side",
+                    "credit_line": "Photograph by Egmont Contreras, ACMI.",
+                    "alt_text": "",
+                    "width": 4800,
+                    "height": 3200,
+                    "access_level": "View anywhere"
+                }
+            ],
+            "videos": [],
+            "holdings": [],
+            "part_of": null,
+            "parts": [],
+            "part_siblings": [],
+            "group": null,
+            "group_works": [],
+            "group_siblings": [],
+            "source": {
+                "name": "Vernon",
+                "slug": "vernon"
+            },
+            "source_identifier": "176739",
+            "production_places": [
+                {
+                    "id": 8,
+                    "name": "Japan",
+                    "slug": "japan"
+                }
+            ],
+            "production_dates": [
+                {
+                    "date": "c. 1970s",
+                    "notes": "",
+                    "to_year": "c. 1970s"
+                }
+            ],
+            "labels": [
+                57766
+            ]
+        },
+        {
+            "id": 99467,
+            "acmi_id": "176726",
+            "title": "Ballarat stereoscopic image",
+            "title_annotation": "",
+            "slug": "stereoview-card-power-plant-and-quartz-refuse-at-one-of-ballarats-gold-mines",
+            "creator_credit": "The Keystone View Company",
+            "credit_line": "<p>Courtesy Doug Hall</p>",
+            "headline_credit": "",
+            "thumbnail": {
+                "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN176726_PowerPlantBallarat.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=5tDOSPlRP4CFavKwBRCFyocKeJ8%3D&Expires=1627009198",
+                "has_video": false
+            },
+            "record_type": "work",
+            "type": "Object",
+            "is_on_display": true,
+            "last_on_display_place": "ACMI: Gallery 1",
+            "last_on_display_date": "2021-08-12",
+            "is_context_indigenous": false,
+            "material_description": "",
+            "unpublished": false,
+            "first_production_date": null,
+            "brief_description": "<p>Stereoview card: Power plant and quartz refuse at one of Ballarat&#8217;s gold-mines, The Keystone View Company, © by Underwood &amp; Underwood, U.S.A., #10261, position 33</p>",
+            "constellations_primary": [],
+            "constellations_other": [],
+            "recommendations": [],
+            "title_for_label": "<p>Stereoscopic image cards</p>",
+            "creator_credit_for_label": "<p>The Keystone View Company</p>",
+            "headline_credit_for_label": "",
+            "description": "<p>Stereoview card: Power plant and quartz refuse at one of Ballarat&#8217;s gold-mines, The Keystone View Company, © by Underwood &amp; Underwood, U.S.A., #10261, position 33</p>",
+            "description_for_label": [
+                "<p>Stereoview card: Power plant and quartz refuse at one of Ballarat&#8217;s gold-mines, The Keystone View Company, © by Underwood &amp; Underwood, U.S.A., #10261, position 33</p>"
+            ],
+            "credit_line_for_label": "<p>Courtesy Doug Hall</p>",
+            "details": [
+                {
+                    "label": "Curatorial section",
+                    "display_values": [
+                        "The Story of the Moving Image&nbsp;→ Moving Pictures&nbsp;→ 08. Immersive Innovations&nbsp;→ MI-08-C01"
+                    ]
+                },
+                {
+                    "label": "Measurements",
+                    "display_values": [
+                        "88 x 178 x 10mm"
+                    ]
+                }
+            ],
+            "stats": {
+                "tap_count": 0
+            },
+            "links": [],
+            "creators_primary": [
+                {
+                    "id": 1134367,
+                    "name": "The Keystone View Company",
+                    "creator_id": 43488,
+                    "role": "publisher",
+                    "role_id": 942,
+                    "is_primary": true
+                }
+            ],
+            "creators_other": [],
+            "video_links": [],
+            "media_note": null,
+            "images": [
+                {
+                    "id": 12375,
+                    "image_file": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN176726_PowerPlantBallarat.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=%2FFhNmsXfIHFEWUysFrY7887xFRQ%3D&Expires=1627009198",
+                    "image_file_thumbnail": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN176726_PowerPlantBallarat.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=5tDOSPlRP4CFavKwBRCFyocKeJ8%3D&Expires=1627009198",
+                    "image_file_xs": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN176726_PowerPlantBallarat.jpg.480x480_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=a2JfRFMikI8SCoZESowyIWNKadA%3D&Expires=1627009198",
+                    "image_file_s": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN176726_PowerPlantBallarat.jpg.960x960_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=UgViJsn95Uywa%2F2FD0%2Fe7qpP%2Fdw%3D&Expires=1627009198",
+                    "image_file_m": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN176726_PowerPlantBallarat.jpg.1920x1920_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=K9xS674g8sF6PD1y5RzprTeqgNg%3D&Expires=1627009198",
+                    "image_file_l": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN176726_PowerPlantBallarat.jpg.3840x3840_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=6t77z786gias2j21qn63%2FDJgoQQ%3D&Expires=1627009198",
+                    "caption": "LN176726_PowerPlantBallarat",
+                    "credit_line": "Photograph by Egmont Contreras, ACMI",
+                    "alt_text": "",
+                    "width": 5004,
+                    "height": 3077,
+                    "access_level": "View anywhere"
+                }
+            ],
+            "videos": [],
+            "holdings": [],
+            "part_of": null,
+            "parts": [],
+            "part_siblings": [],
+            "group": {
+                "id": 112092,
+                "acmi_id": "183539",
+                "title": "Stereoscopic image cards",
+                "title_annotation": "",
+                "slug": "stereoscopic-image-cards",
+                "creator_credit": "",
+                "credit_line": "<p>Courtesy Doug Hall</p>",
+                "headline_credit": "",
+                "thumbnail": {
+                    "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN176725_AndersonStBridgeAndAlexandraAve.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=2LEnW8eQbRaaHu79hiB8JIqPytk%3D&Expires=1627009198",
+                    "has_video": false
+                },
+                "record_type": "group",
+                "type": "Film",
+                "is_on_display": true,
+                "last_on_display_place": "ACMI: Gallery 1",
+                "last_on_display_date": "2031-02-16",
+                "is_context_indigenous": false,
+                "material_description": "",
+                "unpublished": false,
+                "first_production_date": null
+            },
+            "group_works": [],
+            "group_siblings": [
+                {
+                    "id": 99466,
+                    "acmi_id": "176725",
+                    "title": "Alexandra Avenue and Anderson Street Bridge stereoscopic image",
+                    "title_annotation": "",
+                    "slug": "stereoview-card-view-of-anderson-street-bridge-and-alexandra-avenue-from-the-botanical-gardens",
+                    "creator_credit": "Underwood & Underwood",
+                    "credit_line": "<p>Courtesy Doug Hall</p>",
+                    "headline_credit": "",
+                    "thumbnail": {
+                        "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN176725_AndersonStBridgeAndAlexandraAve.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=2LEnW8eQbRaaHu79hiB8JIqPytk%3D&Expires=1627009198",
+                        "has_video": false
+                    },
+                    "record_type": "work",
+                    "type": "Object",
+                    "is_on_display": true,
+                    "last_on_display_place": "ACMI: Gallery 1",
+                    "last_on_display_date": "2021-08-12",
+                    "is_context_indigenous": false,
+                    "material_description": "",
+                    "unpublished": false,
+                    "first_production_date": null
+                },
+                {
+                    "id": 99464,
+                    "acmi_id": "176723",
+                    "title": "Bendigo stereoscopic image",
+                    "title_annotation": "",
+                    "slug": "stereoview-card-a-gold-mine-in-the-heart-of-a-beautiful-city-view-w-across-bendigo",
+                    "creator_credit": "The Keystone View Company",
+                    "credit_line": "<p>Courtesy Doug Hall</p>",
+                    "headline_credit": "",
+                    "thumbnail": {
+                        "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN176723_GoldMineBendigo.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=zpG9dj%2B96uwZKfINVZwwA2RySng%3D&Expires=1627009198",
+                        "has_video": false
+                    },
+                    "record_type": "work",
+                    "type": "Object",
+                    "is_on_display": true,
+                    "last_on_display_place": "ACMI: Gallery 1",
+                    "last_on_display_date": "2021-08-12",
+                    "is_context_indigenous": false,
+                    "material_description": "",
+                    "unpublished": false,
+                    "first_production_date": null
+                },
+                {
+                    "id": 99463,
+                    "acmi_id": "176722",
+                    "title": "Collins Street Melbourne stereoscopic image",
+                    "title_annotation": "",
+                    "slug": "stereoview-card-corner-of-collins-street-and-swanston-street-melbourne",
+                    "creator_credit": "Underwood & Underwood",
+                    "credit_line": "<p>Courtesy Doug Hall</p>",
+                    "headline_credit": "",
+                    "thumbnail": {
+                        "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN176722_CornerCollinsStAndSwanstonSt.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=v%2Bc830ZHAxIWbBXPJxNFcaPZFSw%3D&Expires=1627009198",
+                        "has_video": false
+                    },
+                    "record_type": "work",
+                    "type": "Object",
+                    "is_on_display": true,
+                    "last_on_display_place": "ACMI: Gallery 1",
+                    "last_on_display_date": "2021-08-12",
+                    "is_context_indigenous": false,
+                    "material_description": "",
+                    "unpublished": false,
+                    "first_production_date": null
+                },
+                {
+                    "id": 99462,
+                    "acmi_id": "176721",
+                    "title": "Flinders Street Station stereoscopic image",
+                    "title_annotation": "",
+                    "slug": "stereoview-card-flinders-street-station-from-the-spire-of-st-pauls-cathedral",
+                    "creator_credit": "The Keystone View Company",
+                    "credit_line": "<p>Courtesy Doug Hall</p>",
+                    "headline_credit": "",
+                    "thumbnail": {
+                        "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN176721_FlindersStreetStation_resaved.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=wkfFtgCotpgxUKOM2LlnlmU5z84%3D&Expires=1627009198",
+                        "has_video": false
+                    },
+                    "record_type": "work",
+                    "type": "Object",
+                    "is_on_display": true,
+                    "last_on_display_place": "ACMI: Gallery 1",
+                    "last_on_display_date": "2021-08-12",
+                    "is_context_indigenous": false,
+                    "material_description": "",
+                    "unpublished": false,
+                    "first_production_date": null
+                },
+                {
+                    "id": 99465,
+                    "acmi_id": "176724",
+                    "title": "Victorian Parliament, Spring Street stereoscopic image",
+                    "title_annotation": "",
+                    "slug": "stereoview-card-victorian-parliament-building-spring-street",
+                    "creator_credit": "Underwood & Underwood",
+                    "credit_line": "<p>Courtesy Doug Hall</p>",
+                    "headline_credit": "",
+                    "thumbnail": {
+                        "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN176724_VictorianParliamentBuilding.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=JUy6RUpn6kYXa4fY8XYpco2ks14%3D&Expires=1627009198",
+                        "has_video": false
+                    },
+                    "record_type": "work",
+                    "type": "Object",
+                    "is_on_display": true,
+                    "last_on_display_place": "ACMI: Gallery 1",
+                    "last_on_display_date": "2021-08-12",
+                    "is_context_indigenous": false,
+                    "material_description": "",
+                    "unpublished": false,
+                    "first_production_date": null
+                }
+            ],
+            "source": {
+                "name": "Vernon",
+                "slug": "vernon"
+            },
+            "source_identifier": "176726",
+            "production_places": [],
+            "production_dates": [],
+            "labels": [
+                38962
+            ]
+        },
+        {
+            "id": 99466,
+            "acmi_id": "176725",
+            "title": "Alexandra Avenue and Anderson Street Bridge stereoscopic image",
+            "title_annotation": "",
+            "slug": "stereoview-card-view-of-anderson-street-bridge-and-alexandra-avenue-from-the-botanical-gardens",
+            "creator_credit": "Underwood & Underwood",
+            "credit_line": "<p>Courtesy Doug Hall</p>",
+            "headline_credit": "",
+            "thumbnail": {
+                "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN176725_AndersonStBridgeAndAlexandraAve.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=2LEnW8eQbRaaHu79hiB8JIqPytk%3D&Expires=1627009198",
+                "has_video": false
+            },
+            "record_type": "work",
+            "type": "Object",
+            "is_on_display": true,
+            "last_on_display_place": "ACMI: Gallery 1",
+            "last_on_display_date": "2021-08-12",
+            "is_context_indigenous": false,
+            "material_description": "",
+            "unpublished": false,
+            "first_production_date": null,
+            "brief_description": "<p>Stereoview card: Melbourne, Capital of Victoria, and largest city in Australia [view of Anderson Street Bridge and Alexandra Avenue from the Botanical Gardens], © by Underwood &amp; Underwood, U.K. &amp; U.S.A., #11112, U-113417, S982</p>",
+            "constellations_primary": [],
+            "constellations_other": [],
+            "recommendations": [],
+            "title_for_label": "<p>Stereoscopic image cards</p>",
+            "creator_credit_for_label": "<p>Underwood &amp; Underwood</p>",
+            "headline_credit_for_label": "",
+            "description": "<p>Stereoview card: Melbourne, Capital of Victoria, and largest city in Australia [view of Anderson Street Bridge and Alexandra Avenue from the Botanical Gardens], © by Underwood &amp; Underwood, U.K. &amp; U.S.A., #11112, U-113417, S982</p>",
+            "description_for_label": [
+                "<p>Stereoview card: Melbourne, Capital of Victoria, and largest city in Australia [view of Anderson Street Bridge and Alexandra Avenue from the Botanical Gardens], © by Underwood &amp; Underwood, U.K. &amp; U.S.A., #11112, U-113417, S982</p>"
+            ],
+            "credit_line_for_label": "<p>Courtesy Doug Hall</p>",
+            "details": [
+                {
+                    "label": "Curatorial section",
+                    "display_values": [
+                        "The Story of the Moving Image&nbsp;→ Moving Pictures&nbsp;→ 08. Immersive Innovations&nbsp;→ MI-08-C01"
+                    ]
+                },
+                {
+                    "label": "Measurements",
+                    "display_values": [
+                        "88 x 178 x 10mm"
+                    ]
+                }
+            ],
+            "stats": {
+                "tap_count": 0
+            },
+            "links": [],
+            "creators_primary": [
+                {
+                    "id": 1134366,
+                    "name": "Underwood & Underwood",
+                    "creator_id": 43489,
+                    "role": "publisher",
+                    "role_id": 942,
+                    "is_primary": true
+                }
+            ],
+            "creators_other": [],
+            "video_links": [],
+            "media_note": null,
+            "images": [
+                {
+                    "id": 12374,
+                    "image_file": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN176725_AndersonStBridgeAndAlexandraAve.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=TM3nzW0okLdKkh0rIgjq05TE4BU%3D&Expires=1627009198",
+                    "image_file_thumbnail": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN176725_AndersonStBridgeAndAlexandraAve.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=2LEnW8eQbRaaHu79hiB8JIqPytk%3D&Expires=1627009198",
+                    "image_file_xs": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN176725_AndersonStBridgeAndAlexandraAve.jpg.480x480_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=AB6uHF3sluV82wD9TktjyBLJGbs%3D&Expires=1627009198",
+                    "image_file_s": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN176725_AndersonStBridgeAndAlexandraAve.jpg.960x960_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=Rk%2B%2B4ak9rXA%2FRjrXbwMfHRxWc5Y%3D&Expires=1627009198",
+                    "image_file_m": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN176725_AndersonStBridgeAndAlexandraAve.jpg.1920x1920_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=SF1TTSxcpaVxYjrh2WA0LEemiLw%3D&Expires=1627009198",
+                    "image_file_l": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN176725_AndersonStBridgeAndAlexandraAve.jpg.3840x3840_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=Y0BYyUICrLhS5n0MCAM8hCX1hiY%3D&Expires=1627009198",
+                    "caption": "LN176725_AndersonStBridgeAndAlexandraAve",
+                    "credit_line": "Photograph by Egmont Contreras, ACMI",
+                    "alt_text": "",
+                    "width": 5048,
+                    "height": 3017,
+                    "access_level": "View anywhere"
+                }
+            ],
+            "videos": [],
+            "holdings": [],
+            "part_of": null,
+            "parts": [],
+            "part_siblings": [],
+            "group": {
+                "id": 112092,
+                "acmi_id": "183539",
+                "title": "Stereoscopic image cards",
+                "title_annotation": "",
+                "slug": "stereoscopic-image-cards",
+                "creator_credit": "",
+                "credit_line": "<p>Courtesy Doug Hall</p>",
+                "headline_credit": "",
+                "thumbnail": {
+                    "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN176725_AndersonStBridgeAndAlexandraAve.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=2LEnW8eQbRaaHu79hiB8JIqPytk%3D&Expires=1627009198",
+                    "has_video": false
+                },
+                "record_type": "group",
+                "type": "Film",
+                "is_on_display": true,
+                "last_on_display_place": "ACMI: Gallery 1",
+                "last_on_display_date": "2031-02-16",
+                "is_context_indigenous": false,
+                "material_description": "",
+                "unpublished": false,
+                "first_production_date": null
+            },
+            "group_works": [],
+            "group_siblings": [
+                {
+                    "id": 99467,
+                    "acmi_id": "176726",
+                    "title": "Ballarat stereoscopic image",
+                    "title_annotation": "",
+                    "slug": "stereoview-card-power-plant-and-quartz-refuse-at-one-of-ballarats-gold-mines",
+                    "creator_credit": "The Keystone View Company",
+                    "credit_line": "<p>Courtesy Doug Hall</p>",
+                    "headline_credit": "",
+                    "thumbnail": {
+                        "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN176726_PowerPlantBallarat.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=5tDOSPlRP4CFavKwBRCFyocKeJ8%3D&Expires=1627009198",
+                        "has_video": false
+                    },
+                    "record_type": "work",
+                    "type": "Object",
+                    "is_on_display": true,
+                    "last_on_display_place": "ACMI: Gallery 1",
+                    "last_on_display_date": "2021-08-12",
+                    "is_context_indigenous": false,
+                    "material_description": "",
+                    "unpublished": false,
+                    "first_production_date": null
+                },
+                {
+                    "id": 99464,
+                    "acmi_id": "176723",
+                    "title": "Bendigo stereoscopic image",
+                    "title_annotation": "",
+                    "slug": "stereoview-card-a-gold-mine-in-the-heart-of-a-beautiful-city-view-w-across-bendigo",
+                    "creator_credit": "The Keystone View Company",
+                    "credit_line": "<p>Courtesy Doug Hall</p>",
+                    "headline_credit": "",
+                    "thumbnail": {
+                        "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN176723_GoldMineBendigo.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=zpG9dj%2B96uwZKfINVZwwA2RySng%3D&Expires=1627009198",
+                        "has_video": false
+                    },
+                    "record_type": "work",
+                    "type": "Object",
+                    "is_on_display": true,
+                    "last_on_display_place": "ACMI: Gallery 1",
+                    "last_on_display_date": "2021-08-12",
+                    "is_context_indigenous": false,
+                    "material_description": "",
+                    "unpublished": false,
+                    "first_production_date": null
+                },
+                {
+                    "id": 99463,
+                    "acmi_id": "176722",
+                    "title": "Collins Street Melbourne stereoscopic image",
+                    "title_annotation": "",
+                    "slug": "stereoview-card-corner-of-collins-street-and-swanston-street-melbourne",
+                    "creator_credit": "Underwood & Underwood",
+                    "credit_line": "<p>Courtesy Doug Hall</p>",
+                    "headline_credit": "",
+                    "thumbnail": {
+                        "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN176722_CornerCollinsStAndSwanstonSt.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=v%2Bc830ZHAxIWbBXPJxNFcaPZFSw%3D&Expires=1627009198",
+                        "has_video": false
+                    },
+                    "record_type": "work",
+                    "type": "Object",
+                    "is_on_display": true,
+                    "last_on_display_place": "ACMI: Gallery 1",
+                    "last_on_display_date": "2021-08-12",
+                    "is_context_indigenous": false,
+                    "material_description": "",
+                    "unpublished": false,
+                    "first_production_date": null
+                },
+                {
+                    "id": 99462,
+                    "acmi_id": "176721",
+                    "title": "Flinders Street Station stereoscopic image",
+                    "title_annotation": "",
+                    "slug": "stereoview-card-flinders-street-station-from-the-spire-of-st-pauls-cathedral",
+                    "creator_credit": "The Keystone View Company",
+                    "credit_line": "<p>Courtesy Doug Hall</p>",
+                    "headline_credit": "",
+                    "thumbnail": {
+                        "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN176721_FlindersStreetStation_resaved.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=wkfFtgCotpgxUKOM2LlnlmU5z84%3D&Expires=1627009198",
+                        "has_video": false
+                    },
+                    "record_type": "work",
+                    "type": "Object",
+                    "is_on_display": true,
+                    "last_on_display_place": "ACMI: Gallery 1",
+                    "last_on_display_date": "2021-08-12",
+                    "is_context_indigenous": false,
+                    "material_description": "",
+                    "unpublished": false,
+                    "first_production_date": null
+                },
+                {
+                    "id": 99465,
+                    "acmi_id": "176724",
+                    "title": "Victorian Parliament, Spring Street stereoscopic image",
+                    "title_annotation": "",
+                    "slug": "stereoview-card-victorian-parliament-building-spring-street",
+                    "creator_credit": "Underwood & Underwood",
+                    "credit_line": "<p>Courtesy Doug Hall</p>",
+                    "headline_credit": "",
+                    "thumbnail": {
+                        "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN176724_VictorianParliamentBuilding.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=JUy6RUpn6kYXa4fY8XYpco2ks14%3D&Expires=1627009198",
+                        "has_video": false
+                    },
+                    "record_type": "work",
+                    "type": "Object",
+                    "is_on_display": true,
+                    "last_on_display_place": "ACMI: Gallery 1",
+                    "last_on_display_date": "2021-08-12",
+                    "is_context_indigenous": false,
+                    "material_description": "",
+                    "unpublished": false,
+                    "first_production_date": null
+                }
+            ],
+            "source": {
+                "name": "Vernon",
+                "slug": "vernon"
+            },
+            "source_identifier": "176725",
+            "production_places": [],
+            "production_dates": [],
+            "labels": [
+                38961
+            ]
+        },
+        {
+            "id": 99465,
+            "acmi_id": "176724",
+            "title": "Victorian Parliament, Spring Street stereoscopic image",
+            "title_annotation": "",
+            "slug": "stereoview-card-victorian-parliament-building-spring-street",
+            "creator_credit": "Underwood & Underwood",
+            "credit_line": "<p>Courtesy Doug Hall</p>",
+            "headline_credit": "",
+            "thumbnail": {
+                "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN176724_VictorianParliamentBuilding.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=JUy6RUpn6kYXa4fY8XYpco2ks14%3D&Expires=1627009198",
+                "has_video": false
+            },
+            "record_type": "work",
+            "type": "Object",
+            "is_on_display": true,
+            "last_on_display_place": "ACMI: Gallery 1",
+            "last_on_display_date": "2021-08-12",
+            "is_context_indigenous": false,
+            "material_description": "",
+            "unpublished": false,
+            "first_production_date": null,
+            "brief_description": "<p>Stereoview card: Parliament Building, Melbourne, Australia, © by Underwood &amp; Underwood, U.K. &amp; U.S.A., #10211, U-113159, 13</p>",
+            "constellations_primary": [],
+            "constellations_other": [],
+            "recommendations": [],
+            "title_for_label": "<p>Stereoscopic image cards</p>",
+            "creator_credit_for_label": "<p>Underwood &amp; Underwood</p>",
+            "headline_credit_for_label": "",
+            "description": "<p>Stereoview card: Parliament Building, Melbourne, Australia, © by Underwood &amp; Underwood, U.K. &amp; U.S.A., #10211, U-113159, 13</p>",
+            "description_for_label": [
+                "<p>Stereoview card: Parliament Building, Melbourne, Australia, © by Underwood &amp; Underwood, U.K. &amp; U.S.A., #10211, U-113159, 13</p>"
+            ],
+            "credit_line_for_label": "<p>Courtesy Doug Hall</p>",
+            "details": [
+                {
+                    "label": "Curatorial section",
+                    "display_values": [
+                        "The Story of the Moving Image&nbsp;→ Moving Pictures&nbsp;→ 08. Immersive Innovations&nbsp;→ MI-08-C01"
+                    ]
+                },
+                {
+                    "label": "Measurements",
+                    "display_values": [
+                        "88 x 178 x 10mm"
+                    ]
+                }
+            ],
+            "stats": {
+                "tap_count": 0
+            },
+            "links": [],
+            "creators_primary": [
+                {
+                    "id": 1134365,
+                    "name": "Underwood & Underwood",
+                    "creator_id": 43489,
+                    "role": "publisher",
+                    "role_id": 942,
+                    "is_primary": true
+                }
+            ],
+            "creators_other": [],
+            "video_links": [],
+            "media_note": null,
+            "images": [
+                {
+                    "id": 12373,
+                    "image_file": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN176724_VictorianParliamentBuilding.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=2grjrcgyqb3UXVnJ1NqOj8BOHmU%3D&Expires=1627009198",
+                    "image_file_thumbnail": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN176724_VictorianParliamentBuilding.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=JUy6RUpn6kYXa4fY8XYpco2ks14%3D&Expires=1627009198",
+                    "image_file_xs": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN176724_VictorianParliamentBuilding.jpg.480x480_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=B8pPvkie68VStVPvgw438BFzHJc%3D&Expires=1627009198",
+                    "image_file_s": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN176724_VictorianParliamentBuilding.jpg.960x960_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=TKNcrLOi92LXltFPD%2BR6a5B3Hqs%3D&Expires=1627009198",
+                    "image_file_m": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN176724_VictorianParliamentBuilding.jpg.1920x1920_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=ndvRGqgGRw6ecXPA0xSfL8jkyGs%3D&Expires=1627009198",
+                    "image_file_l": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN176724_VictorianParliamentBuilding.jpg.3840x3840_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=qL2HrYseokHnfScmKa6pmHknn74%3D&Expires=1627009198",
+                    "caption": "LN176724_VictorianParliamentBuilding",
+                    "credit_line": "Photograph by Egmont Contreras, ACMI",
+                    "alt_text": "",
+                    "width": 5059,
+                    "height": 3053,
+                    "access_level": "View anywhere"
+                }
+            ],
+            "videos": [],
+            "holdings": [],
+            "part_of": null,
+            "parts": [],
+            "part_siblings": [],
+            "group": {
+                "id": 112092,
+                "acmi_id": "183539",
+                "title": "Stereoscopic image cards",
+                "title_annotation": "",
+                "slug": "stereoscopic-image-cards",
+                "creator_credit": "",
+                "credit_line": "<p>Courtesy Doug Hall</p>",
+                "headline_credit": "",
+                "thumbnail": {
+                    "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN176725_AndersonStBridgeAndAlexandraAve.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=2LEnW8eQbRaaHu79hiB8JIqPytk%3D&Expires=1627009198",
+                    "has_video": false
+                },
+                "record_type": "group",
+                "type": "Film",
+                "is_on_display": true,
+                "last_on_display_place": "ACMI: Gallery 1",
+                "last_on_display_date": "2031-02-16",
+                "is_context_indigenous": false,
+                "material_description": "",
+                "unpublished": false,
+                "first_production_date": null
+            },
+            "group_works": [],
+            "group_siblings": [
+                {
+                    "id": 99466,
+                    "acmi_id": "176725",
+                    "title": "Alexandra Avenue and Anderson Street Bridge stereoscopic image",
+                    "title_annotation": "",
+                    "slug": "stereoview-card-view-of-anderson-street-bridge-and-alexandra-avenue-from-the-botanical-gardens",
+                    "creator_credit": "Underwood & Underwood",
+                    "credit_line": "<p>Courtesy Doug Hall</p>",
+                    "headline_credit": "",
+                    "thumbnail": {
+                        "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN176725_AndersonStBridgeAndAlexandraAve.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=2LEnW8eQbRaaHu79hiB8JIqPytk%3D&Expires=1627009198",
+                        "has_video": false
+                    },
+                    "record_type": "work",
+                    "type": "Object",
+                    "is_on_display": true,
+                    "last_on_display_place": "ACMI: Gallery 1",
+                    "last_on_display_date": "2021-08-12",
+                    "is_context_indigenous": false,
+                    "material_description": "",
+                    "unpublished": false,
+                    "first_production_date": null
+                },
+                {
+                    "id": 99467,
+                    "acmi_id": "176726",
+                    "title": "Ballarat stereoscopic image",
+                    "title_annotation": "",
+                    "slug": "stereoview-card-power-plant-and-quartz-refuse-at-one-of-ballarats-gold-mines",
+                    "creator_credit": "The Keystone View Company",
+                    "credit_line": "<p>Courtesy Doug Hall</p>",
+                    "headline_credit": "",
+                    "thumbnail": {
+                        "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN176726_PowerPlantBallarat.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=5tDOSPlRP4CFavKwBRCFyocKeJ8%3D&Expires=1627009198",
+                        "has_video": false
+                    },
+                    "record_type": "work",
+                    "type": "Object",
+                    "is_on_display": true,
+                    "last_on_display_place": "ACMI: Gallery 1",
+                    "last_on_display_date": "2021-08-12",
+                    "is_context_indigenous": false,
+                    "material_description": "",
+                    "unpublished": false,
+                    "first_production_date": null
+                },
+                {
+                    "id": 99464,
+                    "acmi_id": "176723",
+                    "title": "Bendigo stereoscopic image",
+                    "title_annotation": "",
+                    "slug": "stereoview-card-a-gold-mine-in-the-heart-of-a-beautiful-city-view-w-across-bendigo",
+                    "creator_credit": "The Keystone View Company",
+                    "credit_line": "<p>Courtesy Doug Hall</p>",
+                    "headline_credit": "",
+                    "thumbnail": {
+                        "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN176723_GoldMineBendigo.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=zpG9dj%2B96uwZKfINVZwwA2RySng%3D&Expires=1627009198",
+                        "has_video": false
+                    },
+                    "record_type": "work",
+                    "type": "Object",
+                    "is_on_display": true,
+                    "last_on_display_place": "ACMI: Gallery 1",
+                    "last_on_display_date": "2021-08-12",
+                    "is_context_indigenous": false,
+                    "material_description": "",
+                    "unpublished": false,
+                    "first_production_date": null
+                },
+                {
+                    "id": 99463,
+                    "acmi_id": "176722",
+                    "title": "Collins Street Melbourne stereoscopic image",
+                    "title_annotation": "",
+                    "slug": "stereoview-card-corner-of-collins-street-and-swanston-street-melbourne",
+                    "creator_credit": "Underwood & Underwood",
+                    "credit_line": "<p>Courtesy Doug Hall</p>",
+                    "headline_credit": "",
+                    "thumbnail": {
+                        "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN176722_CornerCollinsStAndSwanstonSt.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=v%2Bc830ZHAxIWbBXPJxNFcaPZFSw%3D&Expires=1627009198",
+                        "has_video": false
+                    },
+                    "record_type": "work",
+                    "type": "Object",
+                    "is_on_display": true,
+                    "last_on_display_place": "ACMI: Gallery 1",
+                    "last_on_display_date": "2021-08-12",
+                    "is_context_indigenous": false,
+                    "material_description": "",
+                    "unpublished": false,
+                    "first_production_date": null
+                },
+                {
+                    "id": 99462,
+                    "acmi_id": "176721",
+                    "title": "Flinders Street Station stereoscopic image",
+                    "title_annotation": "",
+                    "slug": "stereoview-card-flinders-street-station-from-the-spire-of-st-pauls-cathedral",
+                    "creator_credit": "The Keystone View Company",
+                    "credit_line": "<p>Courtesy Doug Hall</p>",
+                    "headline_credit": "",
+                    "thumbnail": {
+                        "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN176721_FlindersStreetStation_resaved.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=wkfFtgCotpgxUKOM2LlnlmU5z84%3D&Expires=1627009198",
+                        "has_video": false
+                    },
+                    "record_type": "work",
+                    "type": "Object",
+                    "is_on_display": true,
+                    "last_on_display_place": "ACMI: Gallery 1",
+                    "last_on_display_date": "2021-08-12",
+                    "is_context_indigenous": false,
+                    "material_description": "",
+                    "unpublished": false,
+                    "first_production_date": null
+                }
+            ],
+            "source": {
+                "name": "Vernon",
+                "slug": "vernon"
+            },
+            "source_identifier": "176724",
+            "production_places": [],
+            "production_dates": [],
+            "labels": [
+                38960
+            ]
+        },
+        {
+            "id": 99464,
+            "acmi_id": "176723",
+            "title": "Bendigo stereoscopic image",
+            "title_annotation": "",
+            "slug": "stereoview-card-a-gold-mine-in-the-heart-of-a-beautiful-city-view-w-across-bendigo",
+            "creator_credit": "The Keystone View Company",
+            "credit_line": "<p>Courtesy Doug Hall</p>",
+            "headline_credit": "",
+            "thumbnail": {
+                "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN176723_GoldMineBendigo.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=zpG9dj%2B96uwZKfINVZwwA2RySng%3D&Expires=1627009198",
+                "has_video": false
+            },
+            "record_type": "work",
+            "type": "Object",
+            "is_on_display": true,
+            "last_on_display_place": "ACMI: Gallery 1",
+            "last_on_display_date": "2021-08-12",
+            "is_context_indigenous": false,
+            "material_description": "",
+            "unpublished": false,
+            "first_production_date": null,
+            "brief_description": "<p>Stereoview card: A gold mine, view looking west across Bendigo, The Keystone View Company, © by Underwood &amp; Underwood, U.S.A., #10263, position 35</p>",
+            "constellations_primary": [],
+            "constellations_other": [],
+            "recommendations": [],
+            "title_for_label": "<p>Stereoscopic image cards</p>",
+            "creator_credit_for_label": "<p>The Keystone View Company</p>",
+            "headline_credit_for_label": "",
+            "description": "<p>Stereoview card: A gold mine, view looking west across Bendigo, The Keystone View Company, © by Underwood &amp; Underwood, U.S.A., #10263, position 35</p>",
+            "description_for_label": [
+                "<p>Stereoview card: A gold mine, view looking west across Bendigo, The Keystone View Company, © by Underwood &amp; Underwood, U.S.A., #10263, position 35</p>"
+            ],
+            "credit_line_for_label": "<p>Courtesy Doug Hall</p>",
+            "details": [
+                {
+                    "label": "Curatorial section",
+                    "display_values": [
+                        "The Story of the Moving Image&nbsp;→ Moving Pictures&nbsp;→ 08. Immersive Innovations&nbsp;→ MI-08-C01"
+                    ]
+                },
+                {
+                    "label": "Measurements",
+                    "display_values": [
+                        "88 x 178 x 10mm"
+                    ]
+                }
+            ],
+            "stats": {
+                "tap_count": 0
+            },
+            "links": [],
+            "creators_primary": [
+                {
+                    "id": 1134364,
+                    "name": "The Keystone View Company",
+                    "creator_id": 43488,
+                    "role": "publisher",
+                    "role_id": 942,
+                    "is_primary": true
+                }
+            ],
+            "creators_other": [],
+            "video_links": [],
+            "media_note": null,
+            "images": [
+                {
+                    "id": 12372,
+                    "image_file": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN176723_GoldMineBendigo.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=BrOYSfVXb%2B0Xq3lv20HHLBnmWBY%3D&Expires=1627009198",
+                    "image_file_thumbnail": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN176723_GoldMineBendigo.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=zpG9dj%2B96uwZKfINVZwwA2RySng%3D&Expires=1627009198",
+                    "image_file_xs": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN176723_GoldMineBendigo.jpg.480x480_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=emBYXW4uvvs7Z3YmjAX57UHCdKU%3D&Expires=1627009198",
+                    "image_file_s": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN176723_GoldMineBendigo.jpg.960x960_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=ZJ%2Fn%2FmoCD9YPtCIW10He%2FkN02nI%3D&Expires=1627009198",
+                    "image_file_m": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN176723_GoldMineBendigo.jpg.1920x1920_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=%2BCZoG0Of9Ne7Wvdy%2FetSD%2FjcafY%3D&Expires=1627009198",
+                    "image_file_l": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN176723_GoldMineBendigo.jpg.3840x3840_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=uzVi0cQx7jhYLpsRCd81mL2JTOg%3D&Expires=1627009198",
+                    "caption": "LN176723_GoldMineBendigo",
+                    "credit_line": "Photograph by Egmont Contreras, ACMI",
+                    "alt_text": "",
+                    "width": 5005,
+                    "height": 2952,
+                    "access_level": "View anywhere"
+                }
+            ],
+            "videos": [],
+            "holdings": [],
+            "part_of": null,
+            "parts": [],
+            "part_siblings": [],
+            "group": {
+                "id": 112092,
+                "acmi_id": "183539",
+                "title": "Stereoscopic image cards",
+                "title_annotation": "",
+                "slug": "stereoscopic-image-cards",
+                "creator_credit": "",
+                "credit_line": "<p>Courtesy Doug Hall</p>",
+                "headline_credit": "",
+                "thumbnail": {
+                    "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN176725_AndersonStBridgeAndAlexandraAve.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=2LEnW8eQbRaaHu79hiB8JIqPytk%3D&Expires=1627009198",
+                    "has_video": false
+                },
+                "record_type": "group",
+                "type": "Film",
+                "is_on_display": true,
+                "last_on_display_place": "ACMI: Gallery 1",
+                "last_on_display_date": "2031-02-16",
+                "is_context_indigenous": false,
+                "material_description": "",
+                "unpublished": false,
+                "first_production_date": null
+            },
+            "group_works": [],
+            "group_siblings": [
+                {
+                    "id": 99466,
+                    "acmi_id": "176725",
+                    "title": "Alexandra Avenue and Anderson Street Bridge stereoscopic image",
+                    "title_annotation": "",
+                    "slug": "stereoview-card-view-of-anderson-street-bridge-and-alexandra-avenue-from-the-botanical-gardens",
+                    "creator_credit": "Underwood & Underwood",
+                    "credit_line": "<p>Courtesy Doug Hall</p>",
+                    "headline_credit": "",
+                    "thumbnail": {
+                        "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN176725_AndersonStBridgeAndAlexandraAve.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=2LEnW8eQbRaaHu79hiB8JIqPytk%3D&Expires=1627009198",
+                        "has_video": false
+                    },
+                    "record_type": "work",
+                    "type": "Object",
+                    "is_on_display": true,
+                    "last_on_display_place": "ACMI: Gallery 1",
+                    "last_on_display_date": "2021-08-12",
+                    "is_context_indigenous": false,
+                    "material_description": "",
+                    "unpublished": false,
+                    "first_production_date": null
+                },
+                {
+                    "id": 99467,
+                    "acmi_id": "176726",
+                    "title": "Ballarat stereoscopic image",
+                    "title_annotation": "",
+                    "slug": "stereoview-card-power-plant-and-quartz-refuse-at-one-of-ballarats-gold-mines",
+                    "creator_credit": "The Keystone View Company",
+                    "credit_line": "<p>Courtesy Doug Hall</p>",
+                    "headline_credit": "",
+                    "thumbnail": {
+                        "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN176726_PowerPlantBallarat.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=5tDOSPlRP4CFavKwBRCFyocKeJ8%3D&Expires=1627009198",
+                        "has_video": false
+                    },
+                    "record_type": "work",
+                    "type": "Object",
+                    "is_on_display": true,
+                    "last_on_display_place": "ACMI: Gallery 1",
+                    "last_on_display_date": "2021-08-12",
+                    "is_context_indigenous": false,
+                    "material_description": "",
+                    "unpublished": false,
+                    "first_production_date": null
+                },
+                {
+                    "id": 99463,
+                    "acmi_id": "176722",
+                    "title": "Collins Street Melbourne stereoscopic image",
+                    "title_annotation": "",
+                    "slug": "stereoview-card-corner-of-collins-street-and-swanston-street-melbourne",
+                    "creator_credit": "Underwood & Underwood",
+                    "credit_line": "<p>Courtesy Doug Hall</p>",
+                    "headline_credit": "",
+                    "thumbnail": {
+                        "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN176722_CornerCollinsStAndSwanstonSt.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=v%2Bc830ZHAxIWbBXPJxNFcaPZFSw%3D&Expires=1627009198",
+                        "has_video": false
+                    },
+                    "record_type": "work",
+                    "type": "Object",
+                    "is_on_display": true,
+                    "last_on_display_place": "ACMI: Gallery 1",
+                    "last_on_display_date": "2021-08-12",
+                    "is_context_indigenous": false,
+                    "material_description": "",
+                    "unpublished": false,
+                    "first_production_date": null
+                },
+                {
+                    "id": 99462,
+                    "acmi_id": "176721",
+                    "title": "Flinders Street Station stereoscopic image",
+                    "title_annotation": "",
+                    "slug": "stereoview-card-flinders-street-station-from-the-spire-of-st-pauls-cathedral",
+                    "creator_credit": "The Keystone View Company",
+                    "credit_line": "<p>Courtesy Doug Hall</p>",
+                    "headline_credit": "",
+                    "thumbnail": {
+                        "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN176721_FlindersStreetStation_resaved.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=wkfFtgCotpgxUKOM2LlnlmU5z84%3D&Expires=1627009198",
+                        "has_video": false
+                    },
+                    "record_type": "work",
+                    "type": "Object",
+                    "is_on_display": true,
+                    "last_on_display_place": "ACMI: Gallery 1",
+                    "last_on_display_date": "2021-08-12",
+                    "is_context_indigenous": false,
+                    "material_description": "",
+                    "unpublished": false,
+                    "first_production_date": null
+                },
+                {
+                    "id": 99465,
+                    "acmi_id": "176724",
+                    "title": "Victorian Parliament, Spring Street stereoscopic image",
+                    "title_annotation": "",
+                    "slug": "stereoview-card-victorian-parliament-building-spring-street",
+                    "creator_credit": "Underwood & Underwood",
+                    "credit_line": "<p>Courtesy Doug Hall</p>",
+                    "headline_credit": "",
+                    "thumbnail": {
+                        "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN176724_VictorianParliamentBuilding.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=JUy6RUpn6kYXa4fY8XYpco2ks14%3D&Expires=1627009198",
+                        "has_video": false
+                    },
+                    "record_type": "work",
+                    "type": "Object",
+                    "is_on_display": true,
+                    "last_on_display_place": "ACMI: Gallery 1",
+                    "last_on_display_date": "2021-08-12",
+                    "is_context_indigenous": false,
+                    "material_description": "",
+                    "unpublished": false,
+                    "first_production_date": null
+                }
+            ],
+            "source": {
+                "name": "Vernon",
+                "slug": "vernon"
+            },
+            "source_identifier": "176723",
+            "production_places": [],
+            "production_dates": [],
+            "labels": [
+                38959
+            ]
+        },
+        {
+            "id": 99463,
+            "acmi_id": "176722",
+            "title": "Collins Street Melbourne stereoscopic image",
+            "title_annotation": "",
+            "slug": "stereoview-card-corner-of-collins-street-and-swanston-street-melbourne",
+            "creator_credit": "Underwood & Underwood",
+            "credit_line": "<p>Courtesy Doug Hall</p>",
+            "headline_credit": "",
+            "thumbnail": {
+                "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN176722_CornerCollinsStAndSwanstonSt.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=v%2Bc830ZHAxIWbBXPJxNFcaPZFSw%3D&Expires=1627009198",
+                "has_video": false
+            },
+            "record_type": "work",
+            "type": "Object",
+            "is_on_display": true,
+            "last_on_display_place": "ACMI: Gallery 1",
+            "last_on_display_date": "2021-08-12",
+            "is_context_indigenous": false,
+            "material_description": "",
+            "unpublished": false,
+            "first_production_date": null,
+            "brief_description": "<p>Stereoview card: The fashionable shopping district, Collins St., at Swanston St., Melbourne Australia, © 1908 by Underwood &amp; Underwood, U.S.A., #10238, U-113127</p>",
+            "constellations_primary": [],
+            "constellations_other": [],
+            "recommendations": [],
+            "title_for_label": "<p>Stereoscopic image cards</p>",
+            "creator_credit_for_label": "<p>Underwood &amp; Underwood</p>",
+            "headline_credit_for_label": "",
+            "description": "<p>Stereoview card: The fashionable shopping district, Collins St., at Swanston St., Melbourne Australia, © 1908 by Underwood &amp; Underwood, U.S.A., #10238, U-113127</p>",
+            "description_for_label": [
+                "<p>Stereoview card: The fashionable shopping district, Collins St., at Swanston St., Melbourne Australia, © 1908 by Underwood &amp; Underwood, U.S.A., #10238, U-113127</p>"
+            ],
+            "credit_line_for_label": "<p>Courtesy Doug Hall</p>",
+            "details": [
+                {
+                    "label": "Curatorial section",
+                    "display_values": [
+                        "The Story of the Moving Image&nbsp;→ Moving Pictures&nbsp;→ 08. Immersive Innovations&nbsp;→ MI-08-C01"
+                    ]
+                },
+                {
+                    "label": "Measurements",
+                    "display_values": [
+                        "88 x 178 x 10mm"
+                    ]
+                }
+            ],
+            "stats": {
+                "tap_count": 0
+            },
+            "links": [],
+            "creators_primary": [
+                {
+                    "id": 1134363,
+                    "name": "Underwood & Underwood",
+                    "creator_id": 43489,
+                    "role": "publisher",
+                    "role_id": 942,
+                    "is_primary": true
+                }
+            ],
+            "creators_other": [],
+            "video_links": [],
+            "media_note": null,
+            "images": [
+                {
+                    "id": 12371,
+                    "image_file": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN176722_CornerCollinsStAndSwanstonSt.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=9QMzYMCAksck0QlTcwALKpa3Pcw%3D&Expires=1627009198",
+                    "image_file_thumbnail": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN176722_CornerCollinsStAndSwanstonSt.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=v%2Bc830ZHAxIWbBXPJxNFcaPZFSw%3D&Expires=1627009198",
+                    "image_file_xs": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN176722_CornerCollinsStAndSwanstonSt.jpg.480x480_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=WzKFPXGUxkt4KZe4PJfEyxzmg6M%3D&Expires=1627009198",
+                    "image_file_s": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN176722_CornerCollinsStAndSwanstonSt.jpg.960x960_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=IMhabfA%2BB4oaS9llP6mV4PnLnxo%3D&Expires=1627009198",
+                    "image_file_m": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN176722_CornerCollinsStAndSwanstonSt.jpg.1920x1920_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=PJxtJOxKTCLmGXJvh%2FezGrsl9Zc%3D&Expires=1627009198",
+                    "image_file_l": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN176722_CornerCollinsStAndSwanstonSt.jpg.3840x3840_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=6hhys41SyFdL%2FkCxe3%2Bc%2FO6WPPY%3D&Expires=1627009198",
+                    "caption": "LN176722_CornerCollinsStAndSwanstonSt",
+                    "credit_line": "Photograph by Egmont Contreras, ACMI",
+                    "alt_text": "",
+                    "width": 4954,
+                    "height": 3046,
+                    "access_level": "View anywhere"
+                }
+            ],
+            "videos": [],
+            "holdings": [],
+            "part_of": null,
+            "parts": [],
+            "part_siblings": [],
+            "group": {
+                "id": 112092,
+                "acmi_id": "183539",
+                "title": "Stereoscopic image cards",
+                "title_annotation": "",
+                "slug": "stereoscopic-image-cards",
+                "creator_credit": "",
+                "credit_line": "<p>Courtesy Doug Hall</p>",
+                "headline_credit": "",
+                "thumbnail": {
+                    "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN176725_AndersonStBridgeAndAlexandraAve.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=2LEnW8eQbRaaHu79hiB8JIqPytk%3D&Expires=1627009198",
+                    "has_video": false
+                },
+                "record_type": "group",
+                "type": "Film",
+                "is_on_display": true,
+                "last_on_display_place": "ACMI: Gallery 1",
+                "last_on_display_date": "2031-02-16",
+                "is_context_indigenous": false,
+                "material_description": "",
+                "unpublished": false,
+                "first_production_date": null
+            },
+            "group_works": [],
+            "group_siblings": [
+                {
+                    "id": 99466,
+                    "acmi_id": "176725",
+                    "title": "Alexandra Avenue and Anderson Street Bridge stereoscopic image",
+                    "title_annotation": "",
+                    "slug": "stereoview-card-view-of-anderson-street-bridge-and-alexandra-avenue-from-the-botanical-gardens",
+                    "creator_credit": "Underwood & Underwood",
+                    "credit_line": "<p>Courtesy Doug Hall</p>",
+                    "headline_credit": "",
+                    "thumbnail": {
+                        "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN176725_AndersonStBridgeAndAlexandraAve.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=2LEnW8eQbRaaHu79hiB8JIqPytk%3D&Expires=1627009198",
+                        "has_video": false
+                    },
+                    "record_type": "work",
+                    "type": "Object",
+                    "is_on_display": true,
+                    "last_on_display_place": "ACMI: Gallery 1",
+                    "last_on_display_date": "2021-08-12",
+                    "is_context_indigenous": false,
+                    "material_description": "",
+                    "unpublished": false,
+                    "first_production_date": null
+                },
+                {
+                    "id": 99467,
+                    "acmi_id": "176726",
+                    "title": "Ballarat stereoscopic image",
+                    "title_annotation": "",
+                    "slug": "stereoview-card-power-plant-and-quartz-refuse-at-one-of-ballarats-gold-mines",
+                    "creator_credit": "The Keystone View Company",
+                    "credit_line": "<p>Courtesy Doug Hall</p>",
+                    "headline_credit": "",
+                    "thumbnail": {
+                        "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN176726_PowerPlantBallarat.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=5tDOSPlRP4CFavKwBRCFyocKeJ8%3D&Expires=1627009198",
+                        "has_video": false
+                    },
+                    "record_type": "work",
+                    "type": "Object",
+                    "is_on_display": true,
+                    "last_on_display_place": "ACMI: Gallery 1",
+                    "last_on_display_date": "2021-08-12",
+                    "is_context_indigenous": false,
+                    "material_description": "",
+                    "unpublished": false,
+                    "first_production_date": null
+                },
+                {
+                    "id": 99464,
+                    "acmi_id": "176723",
+                    "title": "Bendigo stereoscopic image",
+                    "title_annotation": "",
+                    "slug": "stereoview-card-a-gold-mine-in-the-heart-of-a-beautiful-city-view-w-across-bendigo",
+                    "creator_credit": "The Keystone View Company",
+                    "credit_line": "<p>Courtesy Doug Hall</p>",
+                    "headline_credit": "",
+                    "thumbnail": {
+                        "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN176723_GoldMineBendigo.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=zpG9dj%2B96uwZKfINVZwwA2RySng%3D&Expires=1627009198",
+                        "has_video": false
+                    },
+                    "record_type": "work",
+                    "type": "Object",
+                    "is_on_display": true,
+                    "last_on_display_place": "ACMI: Gallery 1",
+                    "last_on_display_date": "2021-08-12",
+                    "is_context_indigenous": false,
+                    "material_description": "",
+                    "unpublished": false,
+                    "first_production_date": null
+                },
+                {
+                    "id": 99462,
+                    "acmi_id": "176721",
+                    "title": "Flinders Street Station stereoscopic image",
+                    "title_annotation": "",
+                    "slug": "stereoview-card-flinders-street-station-from-the-spire-of-st-pauls-cathedral",
+                    "creator_credit": "The Keystone View Company",
+                    "credit_line": "<p>Courtesy Doug Hall</p>",
+                    "headline_credit": "",
+                    "thumbnail": {
+                        "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN176721_FlindersStreetStation_resaved.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=wkfFtgCotpgxUKOM2LlnlmU5z84%3D&Expires=1627009198",
+                        "has_video": false
+                    },
+                    "record_type": "work",
+                    "type": "Object",
+                    "is_on_display": true,
+                    "last_on_display_place": "ACMI: Gallery 1",
+                    "last_on_display_date": "2021-08-12",
+                    "is_context_indigenous": false,
+                    "material_description": "",
+                    "unpublished": false,
+                    "first_production_date": null
+                },
+                {
+                    "id": 99465,
+                    "acmi_id": "176724",
+                    "title": "Victorian Parliament, Spring Street stereoscopic image",
+                    "title_annotation": "",
+                    "slug": "stereoview-card-victorian-parliament-building-spring-street",
+                    "creator_credit": "Underwood & Underwood",
+                    "credit_line": "<p>Courtesy Doug Hall</p>",
+                    "headline_credit": "",
+                    "thumbnail": {
+                        "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN176724_VictorianParliamentBuilding.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=JUy6RUpn6kYXa4fY8XYpco2ks14%3D&Expires=1627009198",
+                        "has_video": false
+                    },
+                    "record_type": "work",
+                    "type": "Object",
+                    "is_on_display": true,
+                    "last_on_display_place": "ACMI: Gallery 1",
+                    "last_on_display_date": "2021-08-12",
+                    "is_context_indigenous": false,
+                    "material_description": "",
+                    "unpublished": false,
+                    "first_production_date": null
+                }
+            ],
+            "source": {
+                "name": "Vernon",
+                "slug": "vernon"
+            },
+            "source_identifier": "176722",
+            "production_places": [],
+            "production_dates": [],
+            "labels": [
+                38958
+            ]
+        },
+        {
+            "id": 99462,
+            "acmi_id": "176721",
+            "title": "Flinders Street Station stereoscopic image",
+            "title_annotation": "",
+            "slug": "stereoview-card-flinders-street-station-from-the-spire-of-st-pauls-cathedral",
+            "creator_credit": "The Keystone View Company",
+            "credit_line": "<p>Courtesy Doug Hall</p>",
+            "headline_credit": "",
+            "thumbnail": {
+                "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN176721_FlindersStreetStation_resaved.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=wkfFtgCotpgxUKOM2LlnlmU5z84%3D&Expires=1627009198",
+                "has_video": false
+            },
+            "record_type": "work",
+            "type": "Object",
+            "is_on_display": true,
+            "last_on_display_place": "ACMI: Gallery 1",
+            "last_on_display_date": "2021-08-12",
+            "is_context_indigenous": false,
+            "material_description": "",
+            "unpublished": false,
+            "first_production_date": null,
+            "brief_description": "<p>Stereoview card: Melbourne, the Temporary Capital of the Australian Commonwealth [view of Flinders Street Station from the spire of St Pauls Cathedral], © 1901 by The Keystone View Company, U.S.A., #24348, Series 400, position 275</p>",
+            "constellations_primary": [],
+            "constellations_other": [],
+            "recommendations": [],
+            "title_for_label": "<p>Stereoscopic image cards</p>",
+            "creator_credit_for_label": "<p>The Keystone View Company</p>",
+            "headline_credit_for_label": "",
+            "description": "<p>Stereoview card: Melbourne, the Temporary Capital of the Australian Commonwealth [view of Flinders Street Station from the spire of St Pauls Cathedral], © 1901 by The Keystone View Company, U.S.A., #24348, Series 400, position 275</p>",
+            "description_for_label": [
+                "<p>Stereoview card: Melbourne, the Temporary Capital of the Australian Commonwealth [view of Flinders Street Station from the spire of St Pauls Cathedral], © 1901 by The Keystone View Company, U.S.A., #24348, Series 400, position 275</p>"
+            ],
+            "credit_line_for_label": "<p>Courtesy Doug Hall</p>",
+            "details": [
+                {
+                    "label": "Curatorial section",
+                    "display_values": [
+                        "The Story of the Moving Image&nbsp;→ Moving Pictures&nbsp;→ 08. Immersive Innovations&nbsp;→ MI-08-C01"
+                    ]
+                },
+                {
+                    "label": "Measurements",
+                    "display_values": [
+                        "88 x 178 x 10mm"
+                    ]
+                }
+            ],
+            "stats": {
+                "tap_count": 0
+            },
+            "links": [],
+            "creators_primary": [
+                {
+                    "id": 1134362,
+                    "name": "The Keystone View Company",
+                    "creator_id": 43488,
+                    "role": "publisher",
+                    "role_id": 942,
+                    "is_primary": true
+                }
+            ],
+            "creators_other": [],
+            "video_links": [],
+            "media_note": null,
+            "images": [
+                {
+                    "id": 12370,
+                    "image_file": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN176721_FlindersStreetStation_resaved.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=Y6XyittXz8KrHGSpewyD2EiXWeg%3D&Expires=1627009198",
+                    "image_file_thumbnail": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN176721_FlindersStreetStation_resaved.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=wkfFtgCotpgxUKOM2LlnlmU5z84%3D&Expires=1627009198",
+                    "image_file_xs": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN176721_FlindersStreetStation_resaved.jpg.480x480_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=qTfnqAQc2MCNoSPVXshoxQS269s%3D&Expires=1627009198",
+                    "image_file_s": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN176721_FlindersStreetStation_resaved.jpg.960x960_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=uf%2B9w%2BcBW%2Bx1IC1XUo4BsGNs634%3D&Expires=1627009198",
+                    "image_file_m": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN176721_FlindersStreetStation_resaved.jpg.1920x1920_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=iL2lN0mOLB%2FhzB%2BVumqNdlEJ6c8%3D&Expires=1627009198",
+                    "image_file_l": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN176721_FlindersStreetStation_resaved.jpg.3840x3840_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=4RCR9U7bMy1jal0CdHCRUP479uk%3D&Expires=1627009198",
+                    "caption": "LN176721_FlindersStreetStation",
+                    "credit_line": "Photograph by Egmont Contreras, ACMI",
+                    "alt_text": "",
+                    "width": 5029,
+                    "height": 3144,
+                    "access_level": "View anywhere"
+                }
+            ],
+            "videos": [],
+            "holdings": [],
+            "part_of": null,
+            "parts": [],
+            "part_siblings": [],
+            "group": {
+                "id": 112092,
+                "acmi_id": "183539",
+                "title": "Stereoscopic image cards",
+                "title_annotation": "",
+                "slug": "stereoscopic-image-cards",
+                "creator_credit": "",
+                "credit_line": "<p>Courtesy Doug Hall</p>",
+                "headline_credit": "",
+                "thumbnail": {
+                    "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN176725_AndersonStBridgeAndAlexandraAve.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=2LEnW8eQbRaaHu79hiB8JIqPytk%3D&Expires=1627009198",
+                    "has_video": false
+                },
+                "record_type": "group",
+                "type": "Film",
+                "is_on_display": true,
+                "last_on_display_place": "ACMI: Gallery 1",
+                "last_on_display_date": "2031-02-16",
+                "is_context_indigenous": false,
+                "material_description": "",
+                "unpublished": false,
+                "first_production_date": null
+            },
+            "group_works": [],
+            "group_siblings": [
+                {
+                    "id": 99466,
+                    "acmi_id": "176725",
+                    "title": "Alexandra Avenue and Anderson Street Bridge stereoscopic image",
+                    "title_annotation": "",
+                    "slug": "stereoview-card-view-of-anderson-street-bridge-and-alexandra-avenue-from-the-botanical-gardens",
+                    "creator_credit": "Underwood & Underwood",
+                    "credit_line": "<p>Courtesy Doug Hall</p>",
+                    "headline_credit": "",
+                    "thumbnail": {
+                        "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN176725_AndersonStBridgeAndAlexandraAve.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=2LEnW8eQbRaaHu79hiB8JIqPytk%3D&Expires=1627009198",
+                        "has_video": false
+                    },
+                    "record_type": "work",
+                    "type": "Object",
+                    "is_on_display": true,
+                    "last_on_display_place": "ACMI: Gallery 1",
+                    "last_on_display_date": "2021-08-12",
+                    "is_context_indigenous": false,
+                    "material_description": "",
+                    "unpublished": false,
+                    "first_production_date": null
+                },
+                {
+                    "id": 99467,
+                    "acmi_id": "176726",
+                    "title": "Ballarat stereoscopic image",
+                    "title_annotation": "",
+                    "slug": "stereoview-card-power-plant-and-quartz-refuse-at-one-of-ballarats-gold-mines",
+                    "creator_credit": "The Keystone View Company",
+                    "credit_line": "<p>Courtesy Doug Hall</p>",
+                    "headline_credit": "",
+                    "thumbnail": {
+                        "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN176726_PowerPlantBallarat.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=5tDOSPlRP4CFavKwBRCFyocKeJ8%3D&Expires=1627009198",
+                        "has_video": false
+                    },
+                    "record_type": "work",
+                    "type": "Object",
+                    "is_on_display": true,
+                    "last_on_display_place": "ACMI: Gallery 1",
+                    "last_on_display_date": "2021-08-12",
+                    "is_context_indigenous": false,
+                    "material_description": "",
+                    "unpublished": false,
+                    "first_production_date": null
+                },
+                {
+                    "id": 99464,
+                    "acmi_id": "176723",
+                    "title": "Bendigo stereoscopic image",
+                    "title_annotation": "",
+                    "slug": "stereoview-card-a-gold-mine-in-the-heart-of-a-beautiful-city-view-w-across-bendigo",
+                    "creator_credit": "The Keystone View Company",
+                    "credit_line": "<p>Courtesy Doug Hall</p>",
+                    "headline_credit": "",
+                    "thumbnail": {
+                        "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN176723_GoldMineBendigo.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=zpG9dj%2B96uwZKfINVZwwA2RySng%3D&Expires=1627009198",
+                        "has_video": false
+                    },
+                    "record_type": "work",
+                    "type": "Object",
+                    "is_on_display": true,
+                    "last_on_display_place": "ACMI: Gallery 1",
+                    "last_on_display_date": "2021-08-12",
+                    "is_context_indigenous": false,
+                    "material_description": "",
+                    "unpublished": false,
+                    "first_production_date": null
+                },
+                {
+                    "id": 99463,
+                    "acmi_id": "176722",
+                    "title": "Collins Street Melbourne stereoscopic image",
+                    "title_annotation": "",
+                    "slug": "stereoview-card-corner-of-collins-street-and-swanston-street-melbourne",
+                    "creator_credit": "Underwood & Underwood",
+                    "credit_line": "<p>Courtesy Doug Hall</p>",
+                    "headline_credit": "",
+                    "thumbnail": {
+                        "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN176722_CornerCollinsStAndSwanstonSt.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=v%2Bc830ZHAxIWbBXPJxNFcaPZFSw%3D&Expires=1627009198",
+                        "has_video": false
+                    },
+                    "record_type": "work",
+                    "type": "Object",
+                    "is_on_display": true,
+                    "last_on_display_place": "ACMI: Gallery 1",
+                    "last_on_display_date": "2021-08-12",
+                    "is_context_indigenous": false,
+                    "material_description": "",
+                    "unpublished": false,
+                    "first_production_date": null
+                },
+                {
+                    "id": 99465,
+                    "acmi_id": "176724",
+                    "title": "Victorian Parliament, Spring Street stereoscopic image",
+                    "title_annotation": "",
+                    "slug": "stereoview-card-victorian-parliament-building-spring-street",
+                    "creator_credit": "Underwood & Underwood",
+                    "credit_line": "<p>Courtesy Doug Hall</p>",
+                    "headline_credit": "",
+                    "thumbnail": {
+                        "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN176724_VictorianParliamentBuilding.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=JUy6RUpn6kYXa4fY8XYpco2ks14%3D&Expires=1627009198",
+                        "has_video": false
+                    },
+                    "record_type": "work",
+                    "type": "Object",
+                    "is_on_display": true,
+                    "last_on_display_place": "ACMI: Gallery 1",
+                    "last_on_display_date": "2021-08-12",
+                    "is_context_indigenous": false,
+                    "material_description": "",
+                    "unpublished": false,
+                    "first_production_date": null
+                }
+            ],
+            "source": {
+                "name": "Vernon",
+                "slug": "vernon"
+            },
+            "source_identifier": "176721",
+            "production_places": [],
+            "production_dates": [],
+            "labels": [
+                38957
+            ]
+        }
+    ]
+}

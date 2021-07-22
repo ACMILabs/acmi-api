@@ -1,0 +1,249 @@
+{
+    "id": 100697,
+    "acmi_id": "180500",
+    "title": "Hollow Knight dressed version of a room",
+    "title_annotation": "Facsimile",
+    "slug": "graphic-dressed-version-of-room",
+    "creator_credit": "",
+    "credit_line": "<p>Courtesy Team Cherry</p>",
+    "headline_credit": "Australia",
+    "thumbnail": {
+        "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/P180500_G210.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=yfCPKER7hKtwVPLcr9G6L38Et28%3D&Expires=1627009098",
+        "has_video": false
+    },
+    "record_type": "work",
+    "type": "Object",
+    "is_on_display": true,
+    "last_on_display_place": "ACMI: Gallery 1",
+    "last_on_display_date": "2023-02-09",
+    "is_context_indigenous": false,
+    "material_description": "Graphic",
+    "unpublished": false,
+    "first_production_date": null,
+    "brief_description": "",
+    "constellations_primary": [],
+    "constellations_other": [],
+    "recommendations": [],
+    "title_for_label": "<p>Early and finished versions of locations in Hallownest</p>",
+    "creator_credit_for_label": "",
+    "headline_credit_for_label": "<p>Australia</p>",
+    "description": "",
+    "description_for_label": [],
+    "credit_line_for_label": "<p>Courtesy Team Cherry</p>",
+    "details": [
+        {
+            "label": "Curatorial section",
+            "display_values": [
+                "The Story of the Moving Image&nbsp;→ Moving Worlds&nbsp;→ 03. Production Design&nbsp;→ MW-03-C02&nbsp;→ MW-03-C02.01"
+            ]
+        },
+        {
+            "label": "Measurements",
+            "display_values": [
+                "120 x 300mm"
+            ]
+        },
+        {
+            "label": "Materials",
+            "display_values": [
+                "Graphic"
+            ]
+        }
+    ],
+    "stats": {
+        "tap_count": 0
+    },
+    "links": [],
+    "creators_primary": [],
+    "creators_other": [
+        {
+            "id": 1134532,
+            "name": "Team Cherry",
+            "creator_id": 72009,
+            "role": "lender",
+            "role_id": 626,
+            "is_primary": false
+        }
+    ],
+    "video_links": [],
+    "media_note": null,
+    "images": [
+        {
+            "id": 13146,
+            "image_file": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/P180500_G210.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=FCgXOlBCmjJdNJ5fHzBhSWYPRhI%3D&Expires=1627009098",
+            "image_file_thumbnail": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/P180500_G210.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=yfCPKER7hKtwVPLcr9G6L38Et28%3D&Expires=1627009098",
+            "image_file_xs": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/P180500_G210.jpg.480x480_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=7kiEd4XFbM3cAlV5BM3DYdMD1Yg%3D&Expires=1627009098",
+            "image_file_s": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/P180500_G210.jpg.960x960_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=gpycntnRSUL%2ByFPko9bNpWYSSBk%3D&Expires=1627009098",
+            "image_file_m": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/P180500_G210.jpg.1920x1920_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=JXLEB0VC3idqngJgyaMwj391blM%3D&Expires=1627009098",
+            "image_file_l": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/P180500_G210.jpg.3840x3840_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=q1K0ABMMtCkAAKXdnbi2n9NYEyo%3D&Expires=1627009098",
+            "caption": "",
+            "credit_line": "",
+            "alt_text": "",
+            "width": 3690,
+            "height": 1469,
+            "access_level": "View anywhere"
+        }
+    ],
+    "videos": [],
+    "holdings": [],
+    "part_of": null,
+    "parts": [],
+    "part_siblings": [],
+    "group": {
+        "id": 112218,
+        "acmi_id": "183571",
+        "title": "Early and finished versions of locations in Hallownest",
+        "title_annotation": "",
+        "slug": "early-and-finished-versions-of-locations-in-hallownest",
+        "creator_credit": "",
+        "credit_line": "<p>Courtesy Team Cherry</p>",
+        "headline_credit": "",
+        "thumbnail": {
+            "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/P180498_G208.png.1200x1200_q85.png?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=QE1KOcvv3xt1ELATzIDD0T1%2BJAg%3D&Expires=1627009098",
+            "has_video": false
+        },
+        "record_type": "group",
+        "type": "Film",
+        "is_on_display": true,
+        "last_on_display_place": "ACMI: Gallery 1",
+        "last_on_display_date": "2023-02-09",
+        "is_context_indigenous": false,
+        "material_description": "",
+        "unpublished": false,
+        "first_production_date": null
+    },
+    "group_works": [],
+    "group_siblings": [
+        {
+            "id": 100695,
+            "acmi_id": "180498",
+            "title": "Hollow Knight block/tile version of a room",
+            "title_annotation": "Facsimile",
+            "slug": "graphic-blocktile-version-of-room",
+            "creator_credit": "",
+            "credit_line": "<p>Courtesy Team Cherry</p>",
+            "headline_credit": "Australia",
+            "thumbnail": {
+                "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/P180498_G208.png.1200x1200_q85.png?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=QE1KOcvv3xt1ELATzIDD0T1%2BJAg%3D&Expires=1627009098",
+                "has_video": false
+            },
+            "record_type": "work",
+            "type": "Object",
+            "is_on_display": true,
+            "last_on_display_place": "ACMI: Gallery 1",
+            "last_on_display_date": "2023-02-09",
+            "is_context_indigenous": false,
+            "material_description": "Graphic",
+            "unpublished": false,
+            "first_production_date": null
+        },
+        {
+            "id": 100796,
+            "acmi_id": "180600",
+            "title": "Hollow Knight Grimm Tent image",
+            "title_annotation": "Facsimile",
+            "slug": "graphic-image-of-finished-game-grimm-tent",
+            "creator_credit": "Team Cherry",
+            "credit_line": "<p>Courtesy Team Cherry</p>",
+            "headline_credit": "Australia",
+            "thumbnail": {
+                "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/P180600_G397.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=NJH5JMEhjy3Xha%2BcdaWh3skpCRY%3D&Expires=1627009098",
+                "has_video": false
+            },
+            "record_type": "work",
+            "type": "Object",
+            "is_on_display": true,
+            "last_on_display_place": "ACMI: Gallery 1",
+            "last_on_display_date": "2023-02-09",
+            "is_context_indigenous": false,
+            "material_description": "Graphic",
+            "unpublished": false,
+            "first_production_date": null
+        },
+        {
+            "id": 100797,
+            "acmi_id": "180601",
+            "title": "Hollow Knight Lake of Unn image",
+            "title_annotation": "Facsimile",
+            "slug": "graphic-image-of-finished-game-lake-of-unn",
+            "creator_credit": "Team Cherry",
+            "credit_line": "<p>Courtesy Team Cherry</p>",
+            "headline_credit": "Australia",
+            "thumbnail": {
+                "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/P180601_G398.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=%2BmrUXEh8ZIAis0Q%2BkVEKJaoi5pw%3D&Expires=1627009098",
+                "has_video": false
+            },
+            "record_type": "work",
+            "type": "Object",
+            "is_on_display": true,
+            "last_on_display_place": "ACMI: Gallery 1",
+            "last_on_display_date": "2023-02-09",
+            "is_context_indigenous": false,
+            "material_description": "Graphic",
+            "unpublished": false,
+            "first_production_date": null
+        },
+        {
+            "id": 100799,
+            "acmi_id": "180603",
+            "title": "Hollow Knight Mines image",
+            "title_annotation": "Facsimile",
+            "slug": "graphic-image-of-finished-game-mines",
+            "creator_credit": "Team Cherry",
+            "credit_line": "<p>Courtesy Team Cherry</p>",
+            "headline_credit": "Australia",
+            "thumbnail": {
+                "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/P180603_G400.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=YqwwNAZl%2BjQsijtMjW8VkQWl2Cg%3D&Expires=1627009098",
+                "has_video": false
+            },
+            "record_type": "work",
+            "type": "Object",
+            "is_on_display": true,
+            "last_on_display_place": "ACMI: Gallery 1",
+            "last_on_display_date": "2023-02-09",
+            "is_context_indigenous": false,
+            "material_description": "Graphic",
+            "unpublished": false,
+            "first_production_date": null
+        },
+        {
+            "id": 100798,
+            "acmi_id": "180602",
+            "title": "Hollow Knight Paintmaster image",
+            "title_annotation": "Facsimile",
+            "slug": "graphic-image-of-finished-game-paintmaster",
+            "creator_credit": "Team Cherry",
+            "credit_line": "<p>Courtesy Team Cherry</p>",
+            "headline_credit": "Australia",
+            "thumbnail": {
+                "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/P180602_G399.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=RCgPncLfEU6J4bcb9W%2BxHUQ7gD8%3D&Expires=1627009098",
+                "has_video": false
+            },
+            "record_type": "work",
+            "type": "Object",
+            "is_on_display": true,
+            "last_on_display_place": "ACMI: Gallery 1",
+            "last_on_display_date": "2023-02-09",
+            "is_context_indigenous": false,
+            "material_description": "Graphic",
+            "unpublished": false,
+            "first_production_date": null
+        }
+    ],
+    "source": {
+        "name": "Vernon",
+        "slug": "vernon"
+    },
+    "source_identifier": "180500",
+    "production_places": [
+        {
+            "id": 3,
+            "name": "Australia",
+            "slug": "australia"
+        }
+    ],
+    "production_dates": [],
+    "labels": [
+        40185
+    ]
+}

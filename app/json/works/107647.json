@@ -1,0 +1,102 @@
+{
+    "id": 107647,
+    "acmi_id": "182674",
+    "title": "Clips from The LEGO Movie",
+    "title_annotation": "",
+    "slug": "clips-from-the-lego-movie",
+    "creator_credit": "Warner Bros Pictures, Phillip Lord and Chris Miller",
+    "credit_line": "<p>Courtesy Warner Bros. Pictures</p>",
+    "headline_credit": "United States, 2014",
+    "thumbnail": null,
+    "record_type": "work",
+    "type": "Film",
+    "is_on_display": true,
+    "last_on_display_place": "ACMI: Gallery 1",
+    "last_on_display_date": "2023-02-09",
+    "is_context_indigenous": false,
+    "material_description": "",
+    "unpublished": true,
+    "first_production_date": "2014-01-01T11:00:00+11:00",
+    "brief_description": "",
+    "constellations_primary": [],
+    "constellations_other": [],
+    "recommendations": [],
+    "title_for_label": "<p>Clips from finished film</p>",
+    "creator_credit_for_label": "<p>Warner Bros Pictures, Phillip Lord and Chris Miller</p>",
+    "headline_credit_for_label": "<p>United States, 2014</p>",
+    "description": "",
+    "description_for_label": [],
+    "credit_line_for_label": "<p>Chris Miller and Philip Lord</p>",
+    "details": [
+        {
+            "label": "Curatorial section",
+            "display_values": [
+                "The Story of the Moving Image&nbsp;→ Moving Worlds&nbsp;→ 05. Character Design&nbsp;→ MW-05-C02&nbsp;→ MW-05-C02.01"
+            ]
+        }
+    ],
+    "stats": {
+        "tap_count": 0
+    },
+    "links": [],
+    "creators_primary": [
+        {
+            "id": 1134603,
+            "name": "Warner Bros Pictures",
+            "creator_id": 71994,
+            "role": "production company",
+            "role_id": 941,
+            "is_primary": true
+        },
+        {
+            "id": 1134602,
+            "name": "Phillip Lord",
+            "creator_id": 72060,
+            "role": "director",
+            "role_id": 938,
+            "is_primary": true
+        },
+        {
+            "id": 1134601,
+            "name": "Chris Miller",
+            "creator_id": 72059,
+            "role": "director",
+            "role_id": 938,
+            "is_primary": true
+        }
+    ],
+    "creators_other": [],
+    "video_links": [],
+    "media_note": "Sorry, we don't have images or video for this item.",
+    "images": [],
+    "videos": [],
+    "holdings": [],
+    "part_of": null,
+    "parts": [],
+    "part_siblings": [],
+    "group": null,
+    "group_works": [],
+    "group_siblings": [],
+    "source": {
+        "name": "Vernon",
+        "slug": "vernon"
+    },
+    "source_identifier": "182674",
+    "production_places": [
+        {
+            "id": 2,
+            "name": "United States",
+            "slug": "united-states"
+        }
+    ],
+    "production_dates": [
+        {
+            "date": "2014",
+            "notes": "",
+            "to_year": "2014"
+        }
+    ],
+    "labels": [
+        47140
+    ]
+}

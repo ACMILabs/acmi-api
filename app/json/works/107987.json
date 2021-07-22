@@ -1,0 +1,239 @@
+{
+    "id": 107987,
+    "acmi_id": "10242",
+    "title": "Peter Tscherkassky films (Outerspace. L'Arrivee. Liebesfilm)",
+    "title_annotation": "",
+    "slug": "peter-tscherkassky-films-outerspace-larrivee-liebesfilm",
+    "creator_credit": "Peter Tscherkassky",
+    "credit_line": "",
+    "headline_credit": "Austria, 1981-1999",
+    "thumbnail": {
+        "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/B1000565_TheArrival.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=fFK3mClB%2F6OjAbI%2FScF8VSHwRmU%3D&Expires=1627009462",
+        "has_video": false
+    },
+    "record_type": "group",
+    "type": "Digital art",
+    "is_on_display": false,
+    "last_on_display_place": null,
+    "last_on_display_date": null,
+    "is_context_indigenous": false,
+    "material_description": "",
+    "unpublished": true,
+    "first_production_date": null,
+    "brief_description": "",
+    "constellations_primary": [],
+    "constellations_other": [],
+    "recommendations": [],
+    "title_for_label": "<p>Peter Tscherkassky films (Outerspace. L&#8217;Arrivee. Liebesfilm)</p>",
+    "creator_credit_for_label": "<p>Peter Tscherkassky</p>",
+    "headline_credit_for_label": "<p>Austria, 1981-1999</p>",
+    "description": "",
+    "description_for_label": [],
+    "credit_line_for_label": "",
+    "details": [
+        {
+            "label": "Duration",
+            "display_values": [
+                "00:20:00:00"
+            ]
+        },
+        {
+            "label": "Subject categories",
+            "display_values": [
+                "Digital Art",
+                "Experimental",
+                "Short films",
+                "Short films&nbsp;→ Short films - Austria"
+            ]
+        }
+    ],
+    "stats": {
+        "tap_count": 0
+    },
+    "links": [],
+    "creators_primary": [
+        {
+            "id": 1133533,
+            "name": "Peter Tscherkassky",
+            "creator_id": 6510,
+            "role": "creator",
+            "role_id": 968,
+            "is_primary": true
+        }
+    ],
+    "creators_other": [],
+    "video_links": [],
+    "media_note": null,
+    "images": [
+        {
+            "id": 13390,
+            "image_file": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/B1000565_TheArrival.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=sX6cAbv7mp0ZP7OLsc7NhxD3atA%3D&Expires=1627009462",
+            "image_file_thumbnail": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/B1000565_TheArrival.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=fFK3mClB%2F6OjAbI%2FScF8VSHwRmU%3D&Expires=1627009462",
+            "image_file_xs": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/B1000565_TheArrival.jpg.480x480_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=0kMNWD4F2bKns7P2yYHC9S4p%2FuE%3D&Expires=1627009462",
+            "image_file_s": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/B1000565_TheArrival.jpg.960x960_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=%2Bkp%2FNc9t3ioRgSXFEojSKwu61Z4%3D&Expires=1627009462",
+            "image_file_m": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/B1000565_TheArrival.jpg.1920x1920_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=8rIWBrVlqEdr8f6apzKtrCBD9KQ%3D&Expires=1627009462",
+            "image_file_l": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/B1000565_TheArrival.jpg.3840x3840_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=o61ddELkK5NAPnYFA5i16GQCZ9A%3D&Expires=1627009462",
+            "caption": "L'Arrivee = The Arrival (Peter Tscherkassky) still",
+            "credit_line": "",
+            "alt_text": "",
+            "width": 438,
+            "height": 327,
+            "access_level": "View anywhere"
+        },
+        {
+            "id": 13391,
+            "image_file": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/pettsclar002.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=8Sme1nCQPQT3G8p5kGiQDnJNJ5I%3D&Expires=1627009462",
+            "image_file_thumbnail": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/pettsclar002.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=%2FXNYp%2BQ%2BH%2Boazw0SkfFznwsNrHs%3D&Expires=1627009462",
+            "image_file_xs": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/pettsclar002.jpg.480x480_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=LL%2BO11WFjpK4c0%2BbCBrnTTOuxxE%3D&Expires=1627009462",
+            "image_file_s": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/pettsclar002.jpg.960x960_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=Yfh3QYUNjjk7tqFw8RPKBwgG0tU%3D&Expires=1627009462",
+            "image_file_m": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/pettsclar002.jpg.1920x1920_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=MTmnN76RDSwUz9EWgYrp2wZQWww%3D&Expires=1627009462",
+            "image_file_l": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/pettsclar002.jpg.3840x3840_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=3RXn2FG1bMSJDQ80TiWKXNATeNY%3D&Expires=1627009462",
+            "caption": "Still #2 from L'Arrivee",
+            "credit_line": "",
+            "alt_text": "",
+            "width": 640,
+            "height": 480,
+            "access_level": "View anywhere"
+        },
+        {
+            "id": 13392,
+            "image_file": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/pettsclar003.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=VyGR%2FLLdco8IdHqU7eRS6q0m%2Bws%3D&Expires=1627009462",
+            "image_file_thumbnail": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/pettsclar003.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=GDJK0dLffMGP8mxmj3D6u5N9Ieo%3D&Expires=1627009462",
+            "image_file_xs": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/pettsclar003.jpg.480x480_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=Huqh%2FEGjVjEj1DGPImF66l%2FiMqg%3D&Expires=1627009462",
+            "image_file_s": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/pettsclar003.jpg.960x960_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=3F3dZiid1UZ51puDodlS1YBzAck%3D&Expires=1627009462",
+            "image_file_m": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/pettsclar003.jpg.1920x1920_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=jj3UyV5iHFMk3EjlQ%2FzCn1fLiYI%3D&Expires=1627009462",
+            "image_file_l": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/pettsclar003.jpg.3840x3840_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=BvK5e7%2F3V7Jjk9an%2BlYmGnUEa7g%3D&Expires=1627009462",
+            "caption": "Still #3 from L'Arrivee",
+            "credit_line": "",
+            "alt_text": "",
+            "width": 640,
+            "height": 480,
+            "access_level": "View anywhere"
+        }
+    ],
+    "videos": [],
+    "holdings": [
+        {
+            "name": "DVD [PAL]; Copy",
+            "identifier": "",
+            "description": ""
+        },
+        {
+            "name": "Digital Betacam [PAL]; Master",
+            "identifier": "",
+            "description": ""
+        }
+    ],
+    "part_of": null,
+    "parts": [],
+    "part_siblings": [],
+    "group": null,
+    "group_works": [
+        {
+            "id": 107988,
+            "acmi_id": "192",
+            "title": "[Musterrolle: a compilation of short films by Peter Tscherkassky]",
+            "title_annotation": "",
+            "slug": "musterrolle-a-compilation-of-short-films-by-peter-tscherkassky",
+            "creator_credit": "Peter Tscherkassky",
+            "credit_line": "",
+            "headline_credit": "Austria, 1981-1999",
+            "thumbnail": null,
+            "record_type": "group",
+            "type": "Film",
+            "is_on_display": false,
+            "last_on_display_place": null,
+            "last_on_display_date": null,
+            "is_context_indigenous": false,
+            "material_description": "",
+            "unpublished": false,
+            "first_production_date": null
+        },
+        {
+            "id": 113998,
+            "acmi_id": "194",
+            "title": "L'Arrivee = The Arrival",
+            "title_annotation": "",
+            "slug": "larrivee-the-arrival",
+            "creator_credit": "Peter Tscherkassky",
+            "credit_line": "",
+            "headline_credit": "Austria, 1997-1998",
+            "thumbnail": {
+                "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/B1000565_TheArrival.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=fFK3mClB%2F6OjAbI%2FScF8VSHwRmU%3D&Expires=1627009462",
+                "has_video": false
+            },
+            "record_type": "work",
+            "type": "Digital art",
+            "is_on_display": false,
+            "last_on_display_place": "ACMI Viewing Booths",
+            "last_on_display_date": "2019-04-22",
+            "is_context_indigenous": false,
+            "material_description": "Single channel moving image, black and white and audio",
+            "unpublished": false,
+            "first_production_date": null
+        },
+        {
+            "id": 107990,
+            "acmi_id": "195",
+            "title": "Liebesfilm = Film of love",
+            "title_annotation": "",
+            "slug": "liebesfilm-film-of-love",
+            "creator_credit": "Peter Tscherkassky",
+            "credit_line": "",
+            "headline_credit": "Austria, 1982",
+            "thumbnail": null,
+            "record_type": "work",
+            "type": "Digital art",
+            "is_on_display": false,
+            "last_on_display_place": null,
+            "last_on_display_date": null,
+            "is_context_indigenous": false,
+            "material_description": "Single channel moving image, tinted, silent",
+            "unpublished": false,
+            "first_production_date": "1982-01-01T11:00:00+11:00"
+        },
+        {
+            "id": 107986,
+            "acmi_id": "193",
+            "title": "Outer space",
+            "title_annotation": "",
+            "slug": "outer-space",
+            "creator_credit": "Peter Tscherkassky",
+            "credit_line": "",
+            "headline_credit": "Austria, 1999",
+            "thumbnail": null,
+            "record_type": "work",
+            "type": "Digital art",
+            "is_on_display": false,
+            "last_on_display_place": "ACMI Screen Lounge",
+            "last_on_display_date": "2004-12-31",
+            "is_context_indigenous": false,
+            "material_description": "Single channel moving image, black and white and audio",
+            "unpublished": false,
+            "first_production_date": "1999-01-01T11:00:00+11:00"
+        }
+    ],
+    "group_siblings": [],
+    "source": {
+        "name": "Vernon",
+        "slug": "vernon"
+    },
+    "source_identifier": "10242",
+    "production_places": [
+        {
+            "id": 39,
+            "name": "Austria",
+            "slug": "austria"
+        }
+    ],
+    "production_dates": [
+        {
+            "date": "1981-1999",
+            "notes": "",
+            "to_year": "1981-1999"
+        }
+    ],
+    "labels": [
+        47480
+    ]
+}

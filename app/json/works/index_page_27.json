@@ -1,0 +1,1434 @@
+{
+    "count": 922,
+    "next": "https://api.acmi.net.au/works/?page=28",
+    "previous": "https://api.acmi.net.au/works/?page=26",
+    "results": [
+        {
+            "id": 117871,
+            "acmi_id": "179675",
+            "title": "Spotlights: Ana Kokkinos",
+            "title_annotation": "",
+            "slug": "interview-with-ana-kokkinos",
+            "creator_credit": "",
+            "credit_line": "",
+            "headline_credit": "",
+            "thumbnail": {
+                "image_url": "https://xos-prod-media.s3.amazonaws.com/media/snapshot_2311_55s.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=CukjYhHpohkQMYuJRq7OH0rT9DU%3D&Expires=1627009158",
+                "animated_image_url": "",
+                "has_video": true
+            },
+            "record_type": "work",
+            "type": "Film",
+            "is_on_display": true,
+            "last_on_display_place": "ACMI: Gallery 1",
+            "last_on_display_date": "2031-02-16",
+            "is_context_indigenous": false,
+            "material_description": "",
+            "unpublished": false,
+            "first_production_date": null,
+            "brief_description": "<p>An Australian film and TV director and screenwriter of Greek descent born in Melbourne. Kokkinos has directed three feature-length films and two short films including Head On (1998), The Book of Revelation (2006) and Blessed (2009).</p>",
+            "constellations_primary": [
+                {
+                    "id": 266,
+                    "name": "Ana Kokkinos",
+                    "description": "The films and TV works of Ana Kokkinos often explore the experiences of second-generation Australians, queer identities and class. Since beginning her career in the early 90s, those stories have started to appear more frequently on Australian screens."
+                }
+            ],
+            "constellations_other": [],
+            "recommendations": [],
+            "title_for_label": "<p>Ana Kokkinos</p>",
+            "creator_credit_for_label": "",
+            "headline_credit_for_label": "<p>Filmmaker</p>",
+            "description": "<p>Ana Kokkinos is an Australian film and television director and screenwriter of Greek descent born in Melbourne. Prior to her career in film, she worked as an industrial lawyer. Kokkinos has since directed three feature-length films and two short films including <i>Head On</i> (1998), <i>The Book of Revelation</i> (2006) and <i>Blessed</i> (2009). Here she discusses diversity, particularly in relation to class and queerness.</p>",
+            "description_for_label": [
+                "<p>Ana Kokkinos is an Australian film and television director and screenwriter of Greek descent born in Melbourne. Prior to her career in film, she worked as an industrial lawyer. Kokkinos has since directed three feature-length films and two short films including <i>Head On</i> (1998), <i>The Book of Revelation</i> (2006) and <i>Blessed</i> (2009). Here she discusses diversity, particularly in relation to class and queerness.</p>"
+            ],
+            "credit_line_for_label": "",
+            "details": [
+                {
+                    "label": "Curatorial section",
+                    "display_values": [
+                        "The Story of the Moving Image&nbsp;→ Moving Australia&nbsp;→ 09. Spotlights"
+                    ]
+                }
+            ],
+            "stats": {
+                "tap_count": 3117
+            },
+            "links": [],
+            "creators_primary": [],
+            "creators_other": [],
+            "video_links": [],
+            "media_note": null,
+            "images": [
+                {
+                    "id": 17139,
+                    "image_file": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/B2004323_AnaKokkinos_portrait.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=1pb%2Fw%2BygJv9Wubp72miL9VwZ7Wo%3D&Expires=1627009158",
+                    "image_file_thumbnail": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/B2004323_AnaKokkinos_portrait.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=edoSI8qb8CUrMMI%2F%2Fk3QjdVrrbA%3D&Expires=1627009158",
+                    "image_file_xs": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/B2004323_AnaKokkinos_portrait.jpg.480x480_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=%2F0CMMA1vUJ%2FS3xMiHfuEVpPjFdU%3D&Expires=1627009158",
+                    "image_file_s": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/B2004323_AnaKokkinos_portrait.jpg.960x960_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=oyRam5TWOC2qmtnDmJvtNHKZPXg%3D&Expires=1627009158",
+                    "image_file_m": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/B2004323_AnaKokkinos_portrait.jpg.1920x1920_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=qP8y0eDUnvOPdeAdm9guXoSGOMI%3D&Expires=1627009158",
+                    "image_file_l": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/B2004323_AnaKokkinos_portrait.jpg.3840x3840_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=ijrTFDVU4C%2Bxq%2BlZykrg9ZjlA64%3D&Expires=1627009158",
+                    "caption": "[Interview with Ana Kokkinos] (Created by Tess Hall, Australia 2020, Commissioned by ACMI) still",
+                    "credit_line": "",
+                    "alt_text": "",
+                    "width": 2222,
+                    "height": 3027,
+                    "access_level": "View anywhere"
+                },
+                {
+                    "id": 16630,
+                    "image_file": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/Ana_Kokkinos_portrait.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=XzGTSKOF3ZoKbT5kbf9IXXJcB5w%3D&Expires=1627009158",
+                    "image_file_thumbnail": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/Ana_Kokkinos_portrait.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=tMbanyf9hTq7wDNkZGdABmJtiuU%3D&Expires=1627009158",
+                    "image_file_xs": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/Ana_Kokkinos_portrait.jpg.480x480_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=qMorObin9OogOkL2%2F2irdHUoRcA%3D&Expires=1627009158",
+                    "image_file_s": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/Ana_Kokkinos_portrait.jpg.960x960_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=Ds%2BUWtGKG9m26Fvml%2BSQNb9if8M%3D&Expires=1627009158",
+                    "image_file_m": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/Ana_Kokkinos_portrait.jpg.1920x1920_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=TNpb6uRp%2Fd8LNLMS%2FzHsjWZonzY%3D&Expires=1627009158",
+                    "image_file_l": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/Ana_Kokkinos_portrait.jpg.3840x3840_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=%2B2jSQ%2BAX0I0ZpSrZZcmZc6KXskM%3D&Expires=1627009158",
+                    "caption": "",
+                    "credit_line": "Photo by Tess Hall, 2020.",
+                    "alt_text": "A black and white portrait of filmmaker Ana Kokkinos.",
+                    "width": 2222,
+                    "height": 3027,
+                    "access_level": "View anywhere"
+                }
+            ],
+            "videos": [
+                {
+                    "id": 2311,
+                    "title": "MA-09-AV01A-Spotlights-Ana-Kokkinos_H264_1520_25fps_20210201",
+                    "resource": "https://xos-prod-media.s3.amazonaws.com/media/MA-09-AV01A-Spotlights-Ana-Kokkinos_H264_1520_25fps.mp4?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=8exO45i%2F2NyNQfcl9dIATbilB%2Fk%3D&Expires=1627009158",
+                    "web_resource": "https://xos-prod-media.s3.amazonaws.com/media/web_MA-09-AV01A-Spotlights-Ana-Kokkinos_H264_1520_25fps.mp4?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=yvXDXqaSDL0bEoBgOkkwcRbb9kQ%3D&Expires=1627009158",
+                    "duration_secs": 167.552,
+                    "subtitles": "https://xos-prod-media.s3.amazonaws.com/media/MA-09-AV01A-Spotlights-Ana-Kokkinos_H264_1520_25fps.srt?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=gLVKqO4lCknswad42GMafme7Ndc%3D&Expires=1627009158",
+                    "master_metadata": null,
+                    "access_metadata": null,
+                    "web_metadata": {
+                        "width": 1080,
+                        "height": 1520,
+                        "checksum": "87eaf16ea4ff7acc3b4f774a372e1644",
+                        "mime_type": "video/mp4",
+                        "audio_codec": "aac",
+                        "video_codec": "h264",
+                        "duration_hms": "02:48",
+                        "duration_secs": 167.552,
+                        "audio_bit_rate": 128485,
+                        "audio_channels": 2,
+                        "video_bit_rate": 630224,
+                        "file_size_bytes": 16016914,
+                        "overall_bit_rate": 764749,
+                        "video_frame_rate": 25.0,
+                        "audio_sample_rate": 48000,
+                        "creation_datetime": "2021-02-01 12:16:33.589121",
+                        "audio_max_bit_rate": 128485,
+                        "video_max_bit_rate": null
+                    },
+                    "access_level": "View anywhere",
+                    "snapshot": "https://xos-prod-media.s3.amazonaws.com/media/snapshot_2311_55s.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=CukjYhHpohkQMYuJRq7OH0rT9DU%3D&Expires=1627009158",
+                    "animated_snapshot": ""
+                }
+            ],
+            "holdings": [],
+            "part_of": null,
+            "parts": [],
+            "part_siblings": [],
+            "group": null,
+            "group_works": [],
+            "group_siblings": [],
+            "source": {
+                "name": "Vernon",
+                "slug": "vernon"
+            },
+            "source_identifier": "179675",
+            "production_places": [],
+            "production_dates": [],
+            "labels": [
+                57365
+            ]
+        },
+        {
+            "id": 117870,
+            "acmi_id": "179669",
+            "title": "Spotlights: David Gulpilil",
+            "title_annotation": "",
+            "slug": "interview-with-david-gulpilil",
+            "creator_credit": "",
+            "credit_line": "",
+            "headline_credit": "",
+            "thumbnail": {
+                "image_url": "https://xos-prod-media.s3.amazonaws.com/media/snapshot_2324_54s.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=bJeDvxC8TU1yFn%2F4xlHz9ZpjhJE%3D&Expires=1627009158",
+                "animated_image_url": "",
+                "has_video": true
+            },
+            "record_type": "work",
+            "type": "Film",
+            "is_on_display": true,
+            "last_on_display_place": "ACMI: Gallery 1",
+            "last_on_display_date": "2031-02-16",
+            "is_context_indigenous": false,
+            "material_description": "",
+            "unpublished": false,
+            "first_production_date": null,
+            "brief_description": "<p>A Yolŋu traditional dancer and actor who changed the way the Australian screen represents First Peoples and their cultural heritage. He reached the pinnacle of success in the 1970s with roles in a string of award-winning films including Walkabout (1971) and Storm Boy (1976).</p>",
+            "constellations_primary": [
+                {
+                    "id": 291,
+                    "name": "David Gulpilil",
+                    "description": "David Gulpilil is a Yolngu man of the Mandhalpuyngu speech of the Djinba language. As a young boy, Gulpilil was an accomplished hunter, tracker and dancer, which he turned into an acclaimed film career that saw him win the  Best Actor award at the Cannes Film Festival (for <I>Charlie's Country</i>) and an AACTA for <I>The Tracker</i>, among his many honours."
+                }
+            ],
+            "constellations_other": [],
+            "recommendations": [],
+            "title_for_label": "<p>David Gulpilil</p>",
+            "creator_credit_for_label": "",
+            "headline_credit_for_label": "",
+            "description": "<p>David Gulpilil is a Yolngu traditional dancer and actor who changed the way the Australian screen represents First Peoples and their cultural heritage. As an actor, he reached the pinnacle of success in the 1970s with principal roles in a string of award-winning films including <i>Walkabout</i> (1971), <i>Storm Boy</i> (1976) and <i>The Last Wave</i> (1977). He also initiated and narrated the film <i>Ten Canoes</i> (2006).</p>",
+            "description_for_label": [
+                "<p>David Gulpilil is a Yolngu traditional dancer and actor who changed the way the Australian screen represents First Peoples and their cultural heritage. As an actor, he reached the pinnacle of success in the 1970s with principal roles in a string of award-winning films including <i>Walkabout</i> (1971), <i>Storm Boy</i> (1976) and <i>The Last Wave</i> (1977). He also initiated and narrated the film <i>Ten Canoes</i> (2006).</p>"
+            ],
+            "credit_line_for_label": "",
+            "details": [
+                {
+                    "label": "Curatorial section",
+                    "display_values": [
+                        "The Story of the Moving Image&nbsp;→ Moving Australia&nbsp;→ 09. Spotlights"
+                    ]
+                }
+            ],
+            "stats": {
+                "tap_count": 3394
+            },
+            "links": [],
+            "creators_primary": [],
+            "creators_other": [],
+            "video_links": [],
+            "media_note": null,
+            "images": [
+                {
+                    "id": 20998,
+                    "image_file": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/Screen_Shot_2021-02-10_at_8.43.52_am.png?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=m1JCUbAS8N%2BfYw4i%2BGE0wiWQIHU%3D&Expires=1627009158",
+                    "image_file_thumbnail": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/Screen_Shot_2021-02-10_at_8.43.52_am.png.1200x1200_q85.png?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=4qEn0HFhxiJmGCMr3KTE7PvhTRs%3D&Expires=1627009158",
+                    "image_file_xs": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/Screen_Shot_2021-02-10_at_8.43.52_am.png.480x480_q85.png?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=JjyZ5FXd6RXVs%2BunzYp8shOL8%2B4%3D&Expires=1627009158",
+                    "image_file_s": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/Screen_Shot_2021-02-10_at_8.43.52_am.png.960x960_q85.png?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=ju4IwZi02NUgZnVo2SQ46Re0FvA%3D&Expires=1627009158",
+                    "image_file_m": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/Screen_Shot_2021-02-10_at_8.43.52_am.png.1920x1920_q85.png?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=4RyqIuVRRNReYtwjFMl1htapqaA%3D&Expires=1627009158",
+                    "image_file_l": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/Screen_Shot_2021-02-10_at_8.43.52_am.png.3840x3840_q85.png?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=lrMHwbmx8fBG75jT4P0Kmy%2F1g4o%3D&Expires=1627009158",
+                    "caption": "",
+                    "credit_line": "",
+                    "alt_text": "An image of legendary Indigenous actor David Gulpilil, with a white beard and hair tied back in a pony tail, wearing a blue shirt and dark brown jacket with the bush obscured in the background",
+                    "width": 637,
+                    "height": 869,
+                    "access_level": "View anywhere"
+                }
+            ],
+            "videos": [
+                {
+                    "id": 2324,
+                    "title": "MA-09-AV01M-Spotlights-David_Gulpilil_H264_1520_25fps_20210201",
+                    "resource": "https://xos-prod-media.s3.amazonaws.com/media/MA-09-AV01M-Spotlights-David_Gulpilil_H264_1520_25fps_20210201.mp4?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=k%2FEPIooVlKUMZ1%2BWI7j%2FY6aYLgo%3D&Expires=1627009158",
+                    "web_resource": "https://xos-prod-media.s3.amazonaws.com/media/web_MA-09-AV01M-Spotlights-David_Gulpilil_H264_1520_25fps_20210201.mp4?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=ZzsL7pHZZixTQYsHJdBqz4BGlfw%3D&Expires=1627009158",
+                    "duration_secs": 163.712,
+                    "subtitles": null,
+                    "master_metadata": null,
+                    "access_metadata": null,
+                    "web_metadata": {
+                        "width": 1080,
+                        "height": 1520,
+                        "checksum": "83b0aa4e04c91656de23130239177d03",
+                        "mime_type": "video/mp4",
+                        "audio_codec": "aac",
+                        "video_codec": "h264",
+                        "duration_hms": "02:44",
+                        "duration_secs": 163.712,
+                        "audio_bit_rate": 127011,
+                        "audio_channels": 2,
+                        "video_bit_rate": 1708197,
+                        "file_size_bytes": 37675045,
+                        "overall_bit_rate": 1841040,
+                        "video_frame_rate": 25.0,
+                        "audio_sample_rate": 48000,
+                        "creation_datetime": "2021-02-01 12:50:20.063250",
+                        "audio_max_bit_rate": 128000,
+                        "video_max_bit_rate": null
+                    },
+                    "access_level": "View anywhere",
+                    "snapshot": "https://xos-prod-media.s3.amazonaws.com/media/snapshot_2324_54s.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=bJeDvxC8TU1yFn%2F4xlHz9ZpjhJE%3D&Expires=1627009158",
+                    "animated_snapshot": ""
+                }
+            ],
+            "holdings": [],
+            "part_of": null,
+            "parts": [],
+            "part_siblings": [],
+            "group": null,
+            "group_works": [],
+            "group_siblings": [],
+            "source": {
+                "name": "Vernon",
+                "slug": "vernon"
+            },
+            "source_identifier": "179669",
+            "production_places": [],
+            "production_dates": [],
+            "labels": [
+                57364
+            ]
+        },
+        {
+            "id": 100193,
+            "acmi_id": "179666",
+            "title": "Kookie Kamera",
+            "title_annotation": "",
+            "slug": "toy-camera",
+            "creator_credit": "Ideal Toys",
+            "credit_line": "<p>Courtesy Hazel Wolfgang Coventry-Burless</p>",
+            "headline_credit": "United States, 1968",
+            "thumbnail": null,
+            "record_type": "work",
+            "type": "Object",
+            "is_on_display": true,
+            "last_on_display_place": "ACMI: Gallery 1",
+            "last_on_display_date": "2031-02-16",
+            "is_context_indigenous": false,
+            "material_description": "Various",
+            "unpublished": false,
+            "first_production_date": "1968-01-01T10:00:00+10:00",
+            "brief_description": "",
+            "constellations_primary": [],
+            "constellations_other": [],
+            "recommendations": [],
+            "title_for_label": "<p>Kookie Kamera</p>",
+            "creator_credit_for_label": "<p>Ideal Toys</p>",
+            "headline_credit_for_label": "<p>United States, 1968</p>",
+            "description": "",
+            "description_for_label": [],
+            "credit_line_for_label": "<p>Courtesy Hazel Wolfgang Coventry-Burless</p>",
+            "details": [
+                {
+                    "label": "Curatorial section",
+                    "display_values": [
+                        "The Story of the Moving Image&nbsp;→  Foyer&nbsp;→ Entry &nbsp;→ 02. Fed Sq Foyer Cabinets&nbsp;→ FSF Cabinet 1"
+                    ]
+                },
+                {
+                    "label": "Measurements",
+                    "display_values": [
+                        "510 x 220 x 230mm"
+                    ]
+                },
+                {
+                    "label": "Materials",
+                    "display_values": [
+                        "Various"
+                    ]
+                }
+            ],
+            "stats": {
+                "tap_count": 0
+            },
+            "links": [],
+            "creators_primary": [
+                {
+                    "id": 1134437,
+                    "name": "Ideal Toys",
+                    "creator_id": 84451,
+                    "role": "manufacturer",
+                    "role_id": 627,
+                    "is_primary": true
+                }
+            ],
+            "creators_other": [],
+            "video_links": [],
+            "media_note": "Sorry, we don't have images or video for this item.",
+            "images": [],
+            "videos": [],
+            "holdings": [],
+            "part_of": null,
+            "parts": [],
+            "part_siblings": [],
+            "group": {
+                "id": 112011,
+                "acmi_id": "183493",
+                "title": "Camera Case",
+                "title_annotation": "",
+                "slug": "camera-case",
+                "creator_credit": "",
+                "credit_line": "<p>Edie Kurzer, Australia, 2020</p>",
+                "headline_credit": "",
+                "thumbnail": {
+                    "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/183493_Cameras_FSF1.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=l9%2BsCWbDYvQ3aMmV0v7D5wMN%2FLs%3D&Expires=1627009159",
+                    "has_video": false
+                },
+                "record_type": "group",
+                "type": "Object",
+                "is_on_display": true,
+                "last_on_display_place": "ACMI: Gallery 1",
+                "last_on_display_date": "2031-02-16",
+                "is_context_indigenous": false,
+                "material_description": "",
+                "unpublished": false,
+                "first_production_date": null
+            },
+            "group_works": [],
+            "group_siblings": [
+                {
+                    "id": 118204,
+                    "acmi_id": "184352",
+                    "title": "Handmade Blackmagic Design cardboard camera",
+                    "title_annotation": "",
+                    "slug": "handmade-blackmagic-design-cardboard-camera",
+                    "creator_credit": "",
+                    "credit_line": "<p>Courtesy Edie Kurzer</p>",
+                    "headline_credit": "Australia, 2019",
+                    "thumbnail": null,
+                    "record_type": "work",
+                    "type": "Object",
+                    "is_on_display": true,
+                    "last_on_display_place": "ACMI: Gallery 1",
+                    "last_on_display_date": "2031-02-16",
+                    "is_context_indigenous": false,
+                    "material_description": "recycled materials including cardboard, foam, milk bottle, toilet paper roll, cork, cricket ball, tapes",
+                    "unpublished": false,
+                    "first_production_date": "2019-01-01T11:00:00+11:00"
+                },
+                {
+                    "id": 118205,
+                    "acmi_id": "184353",
+                    "title": "Kodascope 8 camera",
+                    "title_annotation": "",
+                    "slug": "kodascope-8-camera",
+                    "creator_credit": "Kodak",
+                    "credit_line": "<p>Courtesy Edie Kurzer</p>",
+                    "headline_credit": "United Kingdom, 1948",
+                    "thumbnail": null,
+                    "record_type": "work",
+                    "type": "Object",
+                    "is_on_display": true,
+                    "last_on_display_place": "ACMI: Gallery 1",
+                    "last_on_display_date": "2031-02-16",
+                    "is_context_indigenous": false,
+                    "material_description": "",
+                    "unpublished": false,
+                    "first_production_date": "1948-01-01T10:00:00+10:00"
+                }
+            ],
+            "source": {
+                "name": "Vernon",
+                "slug": "vernon"
+            },
+            "source_identifier": "179666",
+            "production_places": [
+                {
+                    "id": 2,
+                    "name": "United States",
+                    "slug": "united-states"
+                }
+            ],
+            "production_dates": [
+                {
+                    "date": "1968",
+                    "notes": "",
+                    "to_year": "1968"
+                }
+            ],
+            "labels": [
+                39689
+            ]
+        },
+        {
+            "id": 100192,
+            "acmi_id": "179664",
+            "title": "Reel to Reel Tape Recorder",
+            "title_annotation": "",
+            "slug": "nagra-reel-to-reel-tape-recorder",
+            "creator_credit": "NAGRA",
+            "credit_line": "<p>Courtesy Paul Huntingford</p>",
+            "headline_credit": "Switzerland, c. 1960",
+            "thumbnail": null,
+            "record_type": "work",
+            "type": "Object",
+            "is_on_display": true,
+            "last_on_display_place": "ACMI: Gallery 1",
+            "last_on_display_date": "2031-02-16",
+            "is_context_indigenous": false,
+            "material_description": "",
+            "unpublished": false,
+            "first_production_date": null,
+            "brief_description": "<p>Used as the news gathering sound recorder at channel 7 sydney in the 1960s and early 1970s when external news footage was shot on 16mm reversal film. When it was upgraded with a Nagra 4.2 it became the in-house 1/4 inch transfer machine until Betacam became the dominant technology in the 1980s.</p>",
+            "constellations_primary": [],
+            "constellations_other": [],
+            "recommendations": [],
+            "title_for_label": "<p>Reel to Reel Tape Recorder</p>",
+            "creator_credit_for_label": "<p>NAGRA</p>",
+            "headline_credit_for_label": "<p>Switzerland, c. 1960</p>",
+            "description": "<p>Used as the news gathering sound recorder at channel 7 sydney in the 1960s and early 1970s when external news footage was shot on 16mm reversal film. When it was upgraded with a Nagra 4.2 it became the in-house 1/4 inch transfer machine until Betacam became the dominant technology in the 1980s.</p>",
+            "description_for_label": [
+                "<p>Used as the news gathering sound recorder at channel 7 sydney in the 1960s and early 1970s when external news footage was shot on 16mm reversal film. When it was upgraded with a Nagra 4.2 it became the in-house 1/4 inch transfer machine until Betacam became the dominant technology in the 1980s.</p>"
+            ],
+            "credit_line_for_label": "<p>Courtesy Paul Huntingford</p>",
+            "details": [
+                {
+                    "label": "Curatorial section",
+                    "display_values": [
+                        "The Story of the Moving Image&nbsp;→  Foyer&nbsp;→ Entry &nbsp;→ 02. Fed Sq Foyer Cabinets&nbsp;→ FSF Cabinet 16"
+                    ]
+                },
+                {
+                    "label": "Measurements",
+                    "display_values": [
+                        "150 x 34 x 25mm"
+                    ]
+                }
+            ],
+            "stats": {
+                "tap_count": 0
+            },
+            "links": [],
+            "creators_primary": [
+                {
+                    "id": 1134436,
+                    "name": "NAGRA",
+                    "creator_id": 72000,
+                    "role": "manufacturer",
+                    "role_id": 627,
+                    "is_primary": true
+                }
+            ],
+            "creators_other": [],
+            "video_links": [],
+            "media_note": "Sorry, we don't have images or video for this item.",
+            "images": [],
+            "videos": [],
+            "holdings": [],
+            "part_of": null,
+            "parts": [],
+            "part_siblings": [],
+            "group": {
+                "id": 112067,
+                "acmi_id": "183521",
+                "title": "The art of sound",
+                "title_annotation": "",
+                "slug": "the-art-of-sound",
+                "creator_credit": "",
+                "credit_line": "<p>Edie Kurzer, Australia, 2020</p>\n<p><b>Tape reels, headphones and microphones</b></p>\n<p>Courtesy Gary Kurzer</p>\n<p><b>NAGRA Reel to Reel Tape Recorder</b></p>\n<p>Nagra, Switzerland, c. 1970s </p>\n<p>Courtesy Paul Huntingford</p>",
+                "headline_credit": "",
+                "thumbnail": {
+                    "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/183521_TheArtOfSound_FSF16.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=i6q2VOVXmdMtBAUmZSr0GXJihOw%3D&Expires=1627009159",
+                    "has_video": false
+                },
+                "record_type": "group",
+                "type": "Object",
+                "is_on_display": true,
+                "last_on_display_place": "ACMI: Gallery 1",
+                "last_on_display_date": "2031-02-16",
+                "is_context_indigenous": false,
+                "material_description": "",
+                "unpublished": false,
+                "first_production_date": null
+            },
+            "group_works": [],
+            "group_siblings": [
+                {
+                    "id": 112063,
+                    "acmi_id": "183516",
+                    "title": "AM/FM Cassette",
+                    "title_annotation": "",
+                    "slug": "walkman-and-other-mobile-recording-devices",
+                    "creator_credit": "",
+                    "credit_line": "<p>Courtesy Gary Kurzer</p>",
+                    "headline_credit": "",
+                    "thumbnail": null,
+                    "record_type": "work",
+                    "type": "Object",
+                    "is_on_display": true,
+                    "last_on_display_place": "ACMI: Gallery 1",
+                    "last_on_display_date": "2031-02-16",
+                    "is_context_indigenous": false,
+                    "material_description": "Various",
+                    "unpublished": false,
+                    "first_production_date": null
+                },
+                {
+                    "id": 118302,
+                    "acmi_id": "184396",
+                    "title": "Grundig microphone with fabric wire",
+                    "title_annotation": "",
+                    "slug": "grundig-microphone-with-fabric-wire",
+                    "creator_credit": "Grundig",
+                    "credit_line": "<p>Courtesy Gary Kurzer</p>",
+                    "headline_credit": "",
+                    "thumbnail": null,
+                    "record_type": "work",
+                    "type": "Object",
+                    "is_on_display": true,
+                    "last_on_display_place": "ACMI: Gallery 1",
+                    "last_on_display_date": "2031-02-16",
+                    "is_context_indigenous": false,
+                    "material_description": "",
+                    "unpublished": false,
+                    "first_production_date": null
+                },
+                {
+                    "id": 112061,
+                    "acmi_id": "183514",
+                    "title": "Microphone on stand",
+                    "title_annotation": "",
+                    "slug": "microphone-on-stand",
+                    "creator_credit": "",
+                    "credit_line": "<p>Courtesy Gary Kurzer</p>",
+                    "headline_credit": "",
+                    "thumbnail": null,
+                    "record_type": "work",
+                    "type": "Object",
+                    "is_on_display": true,
+                    "last_on_display_place": "ACMI: Gallery 1",
+                    "last_on_display_date": "2031-02-16",
+                    "is_context_indigenous": false,
+                    "material_description": "Various",
+                    "unpublished": false,
+                    "first_production_date": null
+                },
+                {
+                    "id": 112065,
+                    "acmi_id": "183518",
+                    "title": "Pair of cream headphones with wire",
+                    "title_annotation": "",
+                    "slug": "pair-of-headphones",
+                    "creator_credit": "",
+                    "credit_line": "<p>Courtesy Gary Kurzer</p>",
+                    "headline_credit": "",
+                    "thumbnail": null,
+                    "record_type": "work",
+                    "type": "Object",
+                    "is_on_display": true,
+                    "last_on_display_place": "ACMI: Gallery 1",
+                    "last_on_display_date": "2031-02-16",
+                    "is_context_indigenous": false,
+                    "material_description": "Various",
+                    "unpublished": false,
+                    "first_production_date": null
+                },
+                {
+                    "id": 112059,
+                    "acmi_id": "183512",
+                    "title": "Sound tapes on reels",
+                    "title_annotation": "",
+                    "slug": "sound-tapes",
+                    "creator_credit": "",
+                    "credit_line": "<p>Courtesy Gary Kurzer</p>",
+                    "headline_credit": "",
+                    "thumbnail": null,
+                    "record_type": "work",
+                    "type": "Object",
+                    "is_on_display": true,
+                    "last_on_display_place": "ACMI: Gallery 1",
+                    "last_on_display_date": "2031-02-16",
+                    "is_context_indigenous": false,
+                    "material_description": "plastic reel, sound tape",
+                    "unpublished": false,
+                    "first_production_date": null
+                },
+                {
+                    "id": 118303,
+                    "acmi_id": "184402",
+                    "title": "Wireless modern microphone",
+                    "title_annotation": "",
+                    "slug": "wireless-modern-microphone",
+                    "creator_credit": "",
+                    "credit_line": "<p>Courtesy Gary Kurzer</p>",
+                    "headline_credit": "",
+                    "thumbnail": null,
+                    "record_type": "work",
+                    "type": "Object",
+                    "is_on_display": true,
+                    "last_on_display_place": "ACMI: Gallery 1",
+                    "last_on_display_date": "2031-02-16",
+                    "is_context_indigenous": false,
+                    "material_description": "",
+                    "unpublished": false,
+                    "first_production_date": null
+                }
+            ],
+            "source": {
+                "name": "Vernon",
+                "slug": "vernon"
+            },
+            "source_identifier": "179664",
+            "production_places": [
+                {
+                    "id": 26,
+                    "name": "Switzerland",
+                    "slug": "switzerland"
+                }
+            ],
+            "production_dates": [
+                {
+                    "date": "c. 1960",
+                    "notes": "",
+                    "to_year": "c. 1960"
+                }
+            ],
+            "labels": [
+                39688
+            ]
+        },
+        {
+            "id": 100191,
+            "acmi_id": "179663",
+            "title": "Make-up box complete with make up",
+            "title_annotation": "",
+            "slug": "make-up-box-complete-with-make-up",
+            "creator_credit": "",
+            "credit_line": "<p>Courtesy Lee-Anne Donnolley</p>",
+            "headline_credit": "",
+            "thumbnail": null,
+            "record_type": "work",
+            "type": "Object",
+            "is_on_display": true,
+            "last_on_display_place": "ACMI: Gallery 1",
+            "last_on_display_date": "2031-02-16",
+            "is_context_indigenous": false,
+            "material_description": "",
+            "unpublished": false,
+            "first_production_date": null,
+            "brief_description": "<p>Make-up box complete with make up from make up artist Paul Blackwell, owned by his widow Lee-Anne Donnolley<br />\nNote: Edie Kurzer has taken items out of the box and displayed them in the cabinet. I have tried to inventory them and assocatiate items back to the loaned make up case where possible (limited documentation photographs). Parts added are definitely from the case however other items on display may be originally from this object.</p>",
+            "constellations_primary": [],
+            "constellations_other": [],
+            "recommendations": [],
+            "title_for_label": "<p>Make-up box complete with make up</p>",
+            "creator_credit_for_label": "",
+            "headline_credit_for_label": "",
+            "description": "<p>Make-up box complete with make-up from make-up artist Paul Blackwell, owned by his widow Lee-Anne Donnolley.</p>",
+            "description_for_label": [
+                "<p>Make-up box complete with make-up from make-up artist Paul Blackwell, owned by his widow Lee-Anne Donnolley.</p>"
+            ],
+            "credit_line_for_label": "<p>Courtesy Lee-Anne Donnolley</p>",
+            "details": [
+                {
+                    "label": "Curatorial section",
+                    "display_values": [
+                        "The Story of the Moving Image&nbsp;→  Foyer&nbsp;→ Entry &nbsp;→ 02. Fed Sq Foyer Cabinets&nbsp;→ FSF Cabinet 11"
+                    ]
+                },
+                {
+                    "label": "Measurements",
+                    "display_values": [
+                        "260 x 680 x 440mm"
+                    ]
+                }
+            ],
+            "stats": {
+                "tap_count": 0
+            },
+            "links": [],
+            "creators_primary": [],
+            "creators_other": [
+                {
+                    "id": 1134435,
+                    "name": "Lee-Anne Donnolley",
+                    "creator_id": 72945,
+                    "role": "lender",
+                    "role_id": 626,
+                    "is_primary": false
+                }
+            ],
+            "video_links": [],
+            "media_note": "Sorry, we don't have images or video for this item.",
+            "images": [],
+            "videos": [],
+            "holdings": [],
+            "part_of": null,
+            "parts": [],
+            "part_siblings": [],
+            "group": {
+                "id": 112057,
+                "acmi_id": "183510",
+                "title": "Make up/SPFX",
+                "title_annotation": "",
+                "slug": "make-upspfx",
+                "creator_credit": "",
+                "credit_line": "<p>Edie Kurzer, Australia, 2020</p>\n<p><b>Make-up box with make-up</b></p>\n<p>Courtesy Lee-Anne Donnolley</p>",
+                "headline_credit": "",
+                "thumbnail": {
+                    "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/183510_MakeUpSPFX_FSF11.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=kw8rIshUBVKTMUvSNSkOWlDMSQE%3D&Expires=1627009159",
+                    "has_video": false
+                },
+                "record_type": "group",
+                "type": "Object",
+                "is_on_display": true,
+                "last_on_display_place": "ACMI: Gallery 1",
+                "last_on_display_date": "2031-02-16",
+                "is_context_indigenous": false,
+                "material_description": "",
+                "unpublished": false,
+                "first_production_date": null
+            },
+            "group_works": [],
+            "group_siblings": [],
+            "source": {
+                "name": "Vernon",
+                "slug": "vernon"
+            },
+            "source_identifier": "179663",
+            "production_places": [],
+            "production_dates": [],
+            "labels": [
+                39687
+            ]
+        },
+        {
+            "id": 100130,
+            "acmi_id": "179661",
+            "title": "Eumig C3 8MM Movie Camera",
+            "title_annotation": "",
+            "slug": "eumig-c3-8mm-movie-camera",
+            "creator_credit": "",
+            "credit_line": "",
+            "headline_credit": "Austria",
+            "thumbnail": {
+                "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/E000223_EumigC3camera_34.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=lRn75ND6XZWImxR7Xk1TOnda0UM%3D&Expires=1627009159",
+                "has_video": false
+            },
+            "record_type": "work",
+            "type": "Object",
+            "is_on_display": false,
+            "last_on_display_place": null,
+            "last_on_display_date": null,
+            "is_context_indigenous": false,
+            "material_description": "",
+            "unpublished": false,
+            "first_production_date": null,
+            "brief_description": "",
+            "constellations_primary": [],
+            "constellations_other": [],
+            "recommendations": [],
+            "title_for_label": "<p>Eumig C3 8MM Movie Camera</p>",
+            "creator_credit_for_label": "",
+            "headline_credit_for_label": "<p>Austria</p>",
+            "description": "",
+            "description_for_label": [],
+            "credit_line_for_label": "",
+            "details": [
+                {
+                    "label": "Measurements",
+                    "display_values": [
+                        "125 x 55 x 135mm"
+                    ]
+                }
+            ],
+            "stats": {
+                "tap_count": 0
+            },
+            "links": [],
+            "creators_primary": [],
+            "creators_other": [
+                {
+                    "id": 1134434,
+                    "name": "Eumig",
+                    "creator_id": 71998,
+                    "role": "",
+                    "role_id": 604,
+                    "is_primary": false
+                }
+            ],
+            "video_links": [],
+            "media_note": null,
+            "images": [
+                {
+                    "id": 14048,
+                    "image_file": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/E000223_EumigC3camera_34.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=agl1kS4mAOfCTa8%2BM6fI2DampCM%3D&Expires=1627009159",
+                    "image_file_thumbnail": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/E000223_EumigC3camera_34.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=lRn75ND6XZWImxR7Xk1TOnda0UM%3D&Expires=1627009159",
+                    "image_file_xs": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/E000223_EumigC3camera_34.jpg.480x480_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=vwcPKGc6ssl5IU%2FYajuPb6HROYU%3D&Expires=1627009159",
+                    "image_file_s": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/E000223_EumigC3camera_34.jpg.960x960_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=NUmmtxxYOPmbQAEQGEvOjbZRDyk%3D&Expires=1627009159",
+                    "image_file_m": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/E000223_EumigC3camera_34.jpg.1920x1920_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=JSL%2FR96GOJBShHu%2BNeajame8zx8%3D&Expires=1627009159",
+                    "image_file_l": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/E000223_EumigC3camera_34.jpg.3840x3840_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=rvUILnyPVePdvsgPx4IKzk0mEkI%3D&Expires=1627009159",
+                    "caption": "E000223_EumigC3camera_34",
+                    "credit_line": "Photograph by Egmont Contreras, ACMI.",
+                    "alt_text": "",
+                    "width": 2664,
+                    "height": 3026,
+                    "access_level": "View anywhere"
+                },
+                {
+                    "id": 14049,
+                    "image_file": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/E000223_EumigC3camera_Front.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=D5gKexrFIU2cLgEVkm1ab97gJq4%3D&Expires=1627009159",
+                    "image_file_thumbnail": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/E000223_EumigC3camera_Front.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=tnJlmUrC2wYa5Ro8TavyBNsrTl4%3D&Expires=1627009159",
+                    "image_file_xs": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/E000223_EumigC3camera_Front.jpg.480x480_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=WdhM6N5uGCpFzgGckbFuJfQ7W0k%3D&Expires=1627009159",
+                    "image_file_s": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/E000223_EumigC3camera_Front.jpg.960x960_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=2%2B4Fd9%2BGHI7ngZhrjAKCgUuEqpA%3D&Expires=1627009159",
+                    "image_file_m": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/E000223_EumigC3camera_Front.jpg.1920x1920_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=7dwrE6u7SvgGlETBk21Yzq4jXFw%3D&Expires=1627009159",
+                    "image_file_l": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/E000223_EumigC3camera_Front.jpg.3840x3840_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=7hJoXZ%2FYvEGRFqG00N8g4EZtGmc%3D&Expires=1627009159",
+                    "caption": "E000223_EumigC3camera_Front",
+                    "credit_line": "Photograph by Egmont Contreras, ACMI.",
+                    "alt_text": "",
+                    "width": 2177,
+                    "height": 2974,
+                    "access_level": "View anywhere"
+                },
+                {
+                    "id": 14050,
+                    "image_file": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/E000223_EumigC3camera_Left.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=8%2Fos4cMyBGe18FsnVu68qNoI%2F4g%3D&Expires=1627009159",
+                    "image_file_thumbnail": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/E000223_EumigC3camera_Left.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=BkN%2FrcskXwiwwkT%2BUnGTsgVMM40%3D&Expires=1627009159",
+                    "image_file_xs": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/E000223_EumigC3camera_Left.jpg.480x480_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=3lapknsCuIfsqskhk1B6b6m1Y4U%3D&Expires=1627009159",
+                    "image_file_s": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/E000223_EumigC3camera_Left.jpg.960x960_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=kkU%2FFW2hJWmPjD9ZWY%2F1%2FiKT1cs%3D&Expires=1627009159",
+                    "image_file_m": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/E000223_EumigC3camera_Left.jpg.1920x1920_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=15tR65ikfotPCtLgwg5e8jvljRo%3D&Expires=1627009159",
+                    "image_file_l": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/E000223_EumigC3camera_Left.jpg.3840x3840_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=%2FLuV4fFiMHmGuLODVOYuxuxuJIk%3D&Expires=1627009159",
+                    "caption": "E000223_EumigC3camera_Left",
+                    "credit_line": "Photograph by Egmont Contreras, ACMI.",
+                    "alt_text": "",
+                    "width": 2868,
+                    "height": 3264,
+                    "access_level": "View anywhere"
+                },
+                {
+                    "id": 14051,
+                    "image_file": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/E000223_EumigC3camera_wBooklet.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=JQ7s84mAfGEQrvb5ld%2BkeGFB5WA%3D&Expires=1627009159",
+                    "image_file_thumbnail": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/E000223_EumigC3camera_wBooklet.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=K28THSZRnulsUF0g3C9cMAJhwOg%3D&Expires=1627009159",
+                    "image_file_xs": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/E000223_EumigC3camera_wBooklet.jpg.480x480_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=4nYSWKTjF5waNo%2BRYai79DTdcp0%3D&Expires=1627009159",
+                    "image_file_s": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/E000223_EumigC3camera_wBooklet.jpg.960x960_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=HT6uEpJfFhm7Se1WQlGye7kmlZE%3D&Expires=1627009159",
+                    "image_file_m": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/E000223_EumigC3camera_wBooklet.jpg.1920x1920_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=cUjg08Toza5JddYhjYZrlhpqAR4%3D&Expires=1627009159",
+                    "image_file_l": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/E000223_EumigC3camera_wBooklet.jpg.3840x3840_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=SBeU9kLzOHAuRMjDe6CG6%2BGPS20%3D&Expires=1627009159",
+                    "caption": "E000223_EumigC3camera_wBooklet",
+                    "credit_line": "Photograph by Egmont Contreras, ACMI.",
+                    "alt_text": "",
+                    "width": 4519,
+                    "height": 2946,
+                    "access_level": "View anywhere"
+                }
+            ],
+            "videos": [],
+            "holdings": [],
+            "part_of": null,
+            "parts": [],
+            "part_siblings": [],
+            "group": null,
+            "group_works": [],
+            "group_siblings": [],
+            "source": {
+                "name": "Vernon",
+                "slug": "vernon"
+            },
+            "source_identifier": "179661",
+            "production_places": [
+                {
+                    "id": 39,
+                    "name": "Austria",
+                    "slug": "austria"
+                }
+            ],
+            "production_dates": [],
+            "labels": [
+                39626
+            ]
+        },
+        {
+            "id": 100256,
+            "acmi_id": "179657",
+            "title": "Magic Lantern Set Effects Slide [Polichinel Dentiste - Dentist Pulcinella / Punch]",
+            "title_annotation": "",
+            "slug": "magic-lantern-set-effects-slide-polichinel-dentiste-dentist-pulcinella-punch",
+            "creator_credit": "Maker not documented",
+            "credit_line": "",
+            "headline_credit": "France, c. 1860",
+            "thumbnail": {
+                "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AEO179657_MLS_Dentist_1.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=gNdwltgE%2B%2FLU%2FjNhZvr63NcWnms%3D&Expires=1627009159",
+                "has_video": false
+            },
+            "record_type": "work",
+            "type": "Object",
+            "is_on_display": false,
+            "last_on_display_place": "ACMI",
+            "last_on_display_date": "2022-02-10",
+            "is_context_indigenous": false,
+            "material_description": "",
+            "unpublished": true,
+            "first_production_date": null,
+            "brief_description": "<p>Hand painted Magic Lantern Set Effects slide with black wooden frame and metal parts[Polichinel Dentiste - Dentist Pulcinella / Punch]</p>",
+            "constellations_primary": [],
+            "constellations_other": [],
+            "recommendations": [],
+            "title_for_label": "<p>Magic Lantern Set Effects Slide [Polichinel Dentiste - Dentist Pulcinella / Punch]</p>",
+            "creator_credit_for_label": "<p>Maker not documented</p>",
+            "headline_credit_for_label": "<p>France, c. 1860</p>",
+            "description": "<p>Hand painted Magic Lantern Set Effects slide with black wooden frame and metal parts[Polichinel Dentiste - Dentist Pulcinella / Punch]</p>",
+            "description_for_label": [
+                "<p>Hand painted Magic Lantern Set Effects slide with black wooden frame and metal parts[Polichinel Dentiste - Dentist Pulcinella / Punch]</p>"
+            ],
+            "credit_line_for_label": "",
+            "details": [
+                {
+                    "label": "Curatorial section",
+                    "display_values": [
+                        "The Story of the Moving Image&nbsp;→ Moving Pictures&nbsp;→ 02. Play and Illusion&nbsp;→ MI-02-C01"
+                    ]
+                },
+                {
+                    "label": "Measurements",
+                    "display_values": [
+                        "76 x 236 x 10mm"
+                    ]
+                }
+            ],
+            "stats": {
+                "tap_count": 0
+            },
+            "links": [],
+            "creators_primary": [
+                {
+                    "id": 1134433,
+                    "name": "Maker not documented",
+                    "creator_id": 71446,
+                    "role": "creator",
+                    "role_id": 968,
+                    "is_primary": true
+                }
+            ],
+            "creators_other": [],
+            "video_links": [],
+            "media_note": null,
+            "images": [
+                {
+                    "id": 28183,
+                    "image_file": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AEO179657_MLS_Dentist_1.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=r5ssHWdpfuPxijfoxuA7fAgwz9M%3D&Expires=1627009159",
+                    "image_file_thumbnail": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AEO179657_MLS_Dentist_1.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=gNdwltgE%2B%2FLU%2FjNhZvr63NcWnms%3D&Expires=1627009159",
+                    "image_file_xs": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AEO179657_MLS_Dentist_1.jpg.480x480_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=1r%2FLxijmgfqXhLArYYDP5HYwVao%3D&Expires=1627009159",
+                    "image_file_s": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AEO179657_MLS_Dentist_1.jpg.960x960_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=K%2FQ3KcTC4MiNf%2FhLeSUilcBzBeE%3D&Expires=1627009159",
+                    "image_file_m": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AEO179657_MLS_Dentist_1.jpg.1920x1920_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=rJ5rGVVmFGzx%2B8teu%2BbmW9l1QCc%3D&Expires=1627009159",
+                    "image_file_l": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AEO179657_MLS_Dentist_1.jpg.3840x3840_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=yLTiSXe107sBz39eOGHUJlPvrTE%3D&Expires=1627009159",
+                    "caption": "AEO179657_MLS_Dentist_1",
+                    "credit_line": "Photograph by Egmont Contreras, ACMI",
+                    "alt_text": "",
+                    "width": 7360,
+                    "height": 4912,
+                    "access_level": "View anywhere"
+                },
+                {
+                    "id": 28184,
+                    "image_file": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AEO179657_MLS_Dentist_2.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=xSp%2FnmqlLqCPLlw2l%2F3MoZGn%2BEI%3D&Expires=1627009159",
+                    "image_file_thumbnail": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AEO179657_MLS_Dentist_2.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=AaTwv3PQG8JnEp1bDBFJVWV9LWM%3D&Expires=1627009159",
+                    "image_file_xs": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AEO179657_MLS_Dentist_2.jpg.480x480_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=gcqrmAo3Gt3LhtrrlXZQIwpyaX0%3D&Expires=1627009159",
+                    "image_file_s": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AEO179657_MLS_Dentist_2.jpg.960x960_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=DH8%2Fp%2F29AzYHTRWAXLX6yZb%2BwZs%3D&Expires=1627009159",
+                    "image_file_m": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AEO179657_MLS_Dentist_2.jpg.1920x1920_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=GB6TjxpL6YisahSBypjbdc6UOpo%3D&Expires=1627009159",
+                    "image_file_l": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AEO179657_MLS_Dentist_2.jpg.3840x3840_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=DwHmCq7SJM3uT0oxHQHM1zUDgWI%3D&Expires=1627009159",
+                    "caption": "AEO179657_MLS_Dentist_2",
+                    "credit_line": "Photograph by Egmont Contreras, ACMI",
+                    "alt_text": "",
+                    "width": 7360,
+                    "height": 4912,
+                    "access_level": "View anywhere"
+                }
+            ],
+            "videos": [],
+            "holdings": [],
+            "part_of": null,
+            "parts": [],
+            "part_siblings": [],
+            "group": null,
+            "group_works": [],
+            "group_siblings": [],
+            "source": {
+                "name": "Vernon",
+                "slug": "vernon"
+            },
+            "source_identifier": "179657",
+            "production_places": [
+                {
+                    "id": 17,
+                    "name": "France",
+                    "slug": "france"
+                }
+            ],
+            "production_dates": [
+                {
+                    "date": "c. 1860",
+                    "notes": "",
+                    "to_year": "c. 1860"
+                }
+            ],
+            "labels": [
+                39752
+            ]
+        },
+        {
+            "id": 100255,
+            "acmi_id": "179656",
+            "title": "Magic Lantern Set Effects Slide [La Tarte aux Oiseaux - The Bird Pie]",
+            "title_annotation": "",
+            "slug": "magic-lantern-set-effects-slide-la-tarte-aux-oiseaux-the-bird-pie",
+            "creator_credit": "Maker not documented",
+            "credit_line": "",
+            "headline_credit": "France, c. 1870",
+            "thumbnail": {
+                "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AEO179656_MLS__TheBirdPie_1.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=lU2P4nLWvvQ3LoX8IXS3W35vFsE%3D&Expires=1627009159",
+                "has_video": false
+            },
+            "record_type": "work",
+            "type": "Object",
+            "is_on_display": false,
+            "last_on_display_place": "ACMI",
+            "last_on_display_date": "2022-02-10",
+            "is_context_indigenous": false,
+            "material_description": "",
+            "unpublished": true,
+            "first_production_date": null,
+            "brief_description": "<p>Hand painted magic lantern set effects slide with wooden frame. A man smiles holding a large pie - by sliding the effects slide, a three birds fly out of the pie and his smile turns in to a frown. Black tape has been adhered to the edge of the sliding section.</p>",
+            "constellations_primary": [],
+            "constellations_other": [],
+            "recommendations": [],
+            "title_for_label": "<p>Magic Lantern Set Effects Slide [La Tarte aux Oiseaux - The Bird Pie]</p>",
+            "creator_credit_for_label": "<p>Maker not documented</p>",
+            "headline_credit_for_label": "<p>France, c. 1870</p>",
+            "description": "<p>Hand painted magic lantern set effects slide with wooden frame. A man smiles holding a large pie - by sliding the effects slide, a three birds fly out of the pie and his smile turns in to a frown. Black tape has been adhered to the edge of the sliding section.</p>",
+            "description_for_label": [
+                "<p>Hand painted magic lantern set effects slide with wooden frame. A man smiles holding a large pie - by sliding the effects slide, a three birds fly out of the pie and his smile turns in to a frown. Black tape has been adhered to the edge of the sliding section.</p>"
+            ],
+            "credit_line_for_label": "",
+            "details": [
+                {
+                    "label": "Curatorial section",
+                    "display_values": [
+                        "The Story of the Moving Image&nbsp;→ Moving Pictures&nbsp;→ 02. Play and Illusion&nbsp;→ MI-02-C01"
+                    ]
+                },
+                {
+                    "label": "Measurements",
+                    "display_values": [
+                        "101 x 179 x 10mm"
+                    ]
+                }
+            ],
+            "stats": {
+                "tap_count": 0
+            },
+            "links": [],
+            "creators_primary": [
+                {
+                    "id": 1134432,
+                    "name": "Maker not documented",
+                    "creator_id": 71446,
+                    "role": "creator",
+                    "role_id": 968,
+                    "is_primary": true
+                }
+            ],
+            "creators_other": [],
+            "video_links": [],
+            "media_note": null,
+            "images": [
+                {
+                    "id": 28181,
+                    "image_file": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AEO179656_MLS__TheBirdPie_1.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=8mVQYGast48thyu8YEZxeOQMSwU%3D&Expires=1627009159",
+                    "image_file_thumbnail": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AEO179656_MLS__TheBirdPie_1.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=lU2P4nLWvvQ3LoX8IXS3W35vFsE%3D&Expires=1627009159",
+                    "image_file_xs": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AEO179656_MLS__TheBirdPie_1.jpg.480x480_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=UJsMAKNCKcjiWeyWbFYoMNbm5ac%3D&Expires=1627009159",
+                    "image_file_s": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AEO179656_MLS__TheBirdPie_1.jpg.960x960_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=a9T3FPXaM0Kmu9gm3E95eAw%2FrSw%3D&Expires=1627009159",
+                    "image_file_m": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AEO179656_MLS__TheBirdPie_1.jpg.1920x1920_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=X383iZrfwnl0BO32ol9wOg4Pwps%3D&Expires=1627009159",
+                    "image_file_l": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AEO179656_MLS__TheBirdPie_1.jpg.3840x3840_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=37pYeqLU5HjQ22wwx1fUKMeeOj8%3D&Expires=1627009159",
+                    "caption": "AEO179656_MLS_ TheBirdPie_1",
+                    "credit_line": "Photograph by Egmont Contreras, ACMI",
+                    "alt_text": "",
+                    "width": 6945,
+                    "height": 4576,
+                    "access_level": "View anywhere"
+                },
+                {
+                    "id": 28182,
+                    "image_file": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AEO179656_MLS__TheBirdPie_2.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=n3PfwHS4PnrYc7YJuHQqV%2FDprTg%3D&Expires=1627009159",
+                    "image_file_thumbnail": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AEO179656_MLS__TheBirdPie_2.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=H2zHRtnBqOjYVrMlmysWPJU37T8%3D&Expires=1627009159",
+                    "image_file_xs": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AEO179656_MLS__TheBirdPie_2.jpg.480x480_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=jfNu79ZBDb%2BiRU4PeTvA%2BnRjrQc%3D&Expires=1627009159",
+                    "image_file_s": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AEO179656_MLS__TheBirdPie_2.jpg.960x960_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=IyYusiV5AeM2F5rcUPIiiHokOWg%3D&Expires=1627009159",
+                    "image_file_m": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AEO179656_MLS__TheBirdPie_2.jpg.1920x1920_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=JJGO8CgAwaFHRvF0vEsA8M1Qa9o%3D&Expires=1627009159",
+                    "image_file_l": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AEO179656_MLS__TheBirdPie_2.jpg.3840x3840_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=4%2B4F12CZXRqQOkbhL%2BTqvMFdaTY%3D&Expires=1627009159",
+                    "caption": "AEO179656_MLS_ TheBirdPie_2",
+                    "credit_line": "Photograph by Egmont Contreras, ACMI",
+                    "alt_text": "",
+                    "width": 6885,
+                    "height": 4559,
+                    "access_level": "View anywhere"
+                }
+            ],
+            "videos": [],
+            "holdings": [],
+            "part_of": null,
+            "parts": [],
+            "part_siblings": [],
+            "group": null,
+            "group_works": [],
+            "group_siblings": [],
+            "source": {
+                "name": "Vernon",
+                "slug": "vernon"
+            },
+            "source_identifier": "179656",
+            "production_places": [
+                {
+                    "id": 17,
+                    "name": "France",
+                    "slug": "france"
+                }
+            ],
+            "production_dates": [
+                {
+                    "date": "c. 1870",
+                    "notes": "",
+                    "to_year": "c. 1870"
+                }
+            ],
+            "labels": [
+                39751
+            ]
+        },
+        {
+            "id": 100254,
+            "acmi_id": "179655",
+            "title": "Magic Lantern Set Effects Slide [Les Jouers de Cartes - The Card Players]",
+            "title_annotation": "",
+            "slug": "magic-lantern-set-effects-slide-les-jouers-de-cartes-the-card-players",
+            "creator_credit": "Maker not documented",
+            "credit_line": "",
+            "headline_credit": "France, c. 1870",
+            "thumbnail": {
+                "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AEO179655_MLS_TheCardPlayers_1.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=yTDknpdX3xu74Cn1t4p8JBtKDzw%3D&Expires=1627009159",
+                "has_video": false
+            },
+            "record_type": "work",
+            "type": "Object",
+            "is_on_display": false,
+            "last_on_display_place": "ACMI",
+            "last_on_display_date": "2022-02-10",
+            "is_context_indigenous": false,
+            "material_description": "",
+            "unpublished": true,
+            "first_production_date": null,
+            "brief_description": "<p>Hand painted magic lantern set effects slipping slide in wooden frame [Les Jouers de Cartes - the Card Players]. By sliding the effects slide, two card players&#8217; heads turn in to a chicken (left) and a dog (right).</p>",
+            "constellations_primary": [],
+            "constellations_other": [],
+            "recommendations": [],
+            "title_for_label": "<p>Magic Lantern Set Effects Slide [Les Jouers de Cartes - The Card Players]</p>",
+            "creator_credit_for_label": "<p>Maker not documented</p>",
+            "headline_credit_for_label": "<p>France, c. 1870</p>",
+            "description": "<p>Hand painted magic lantern set effects slipping slide in wooden frame [Les Jouers de Cartes - the Card Players]. By sliding the effects slide, two card players&#8217; heads turn in to a chicken (left) and a dog (right).</p>",
+            "description_for_label": [
+                "<p>Hand painted magic lantern set effects slipping slide in wooden frame [Les Jouers de Cartes - the Card Players]. By sliding the effects slide, two card players&#8217; heads turn in to a chicken (left) and a dog (right).</p>"
+            ],
+            "credit_line_for_label": "",
+            "details": [
+                {
+                    "label": "Curatorial section",
+                    "display_values": [
+                        "The Story of the Moving Image&nbsp;→ Moving Pictures&nbsp;→ 02. Play and Illusion&nbsp;→ MI-02-C01"
+                    ]
+                },
+                {
+                    "label": "Measurements",
+                    "display_values": [
+                        "110 x 255 x 10mm"
+                    ]
+                }
+            ],
+            "stats": {
+                "tap_count": 0
+            },
+            "links": [],
+            "creators_primary": [
+                {
+                    "id": 1134431,
+                    "name": "Maker not documented",
+                    "creator_id": 71446,
+                    "role": "creator",
+                    "role_id": 968,
+                    "is_primary": true
+                }
+            ],
+            "creators_other": [],
+            "video_links": [],
+            "media_note": null,
+            "images": [
+                {
+                    "id": 28179,
+                    "image_file": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AEO179655_MLS_TheCardPlayers_1.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=on0Kb9bBAwSaSeSTSdmLQXhy5CE%3D&Expires=1627009159",
+                    "image_file_thumbnail": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AEO179655_MLS_TheCardPlayers_1.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=yTDknpdX3xu74Cn1t4p8JBtKDzw%3D&Expires=1627009159",
+                    "image_file_xs": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AEO179655_MLS_TheCardPlayers_1.jpg.480x480_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=k9MfUh1A%2F1l4Xha7nfurvqexh4Q%3D&Expires=1627009159",
+                    "image_file_s": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AEO179655_MLS_TheCardPlayers_1.jpg.960x960_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=P2yn7aU8k0F0HydVoADkBjlIVyg%3D&Expires=1627009159",
+                    "image_file_m": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AEO179655_MLS_TheCardPlayers_1.jpg.1920x1920_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=ObcmF%2FExavMin3qqb%2BC5lEJdRXc%3D&Expires=1627009159",
+                    "image_file_l": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AEO179655_MLS_TheCardPlayers_1.jpg.3840x3840_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=MsqLLMpMDVDJ02OJ66qv9bN9juQ%3D&Expires=1627009159",
+                    "caption": "AEO179655_MLS_TheCardPlayers_1",
+                    "credit_line": "Photograph by Egmont Contreras, ACMI",
+                    "alt_text": "",
+                    "width": 7360,
+                    "height": 4912,
+                    "access_level": "View anywhere"
+                },
+                {
+                    "id": 28180,
+                    "image_file": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AEO179655_MLS_TheCardPlayers_2.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=XGcI2%2F0iyYbsOK1rmJocBJUhyJc%3D&Expires=1627009159",
+                    "image_file_thumbnail": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AEO179655_MLS_TheCardPlayers_2.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=e4dHaOElTxelQYr05FnodupdekU%3D&Expires=1627009159",
+                    "image_file_xs": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AEO179655_MLS_TheCardPlayers_2.jpg.480x480_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=SxbQrlArstdJgdDoWyNSA%2FFMZmA%3D&Expires=1627009159",
+                    "image_file_s": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AEO179655_MLS_TheCardPlayers_2.jpg.960x960_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=glPGNa4XBs8JfJyxXWHEAN2YwCY%3D&Expires=1627009159",
+                    "image_file_m": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AEO179655_MLS_TheCardPlayers_2.jpg.1920x1920_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=PAaQZdtx9WDiMRs5Ntb21v%2BMI6o%3D&Expires=1627009159",
+                    "image_file_l": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AEO179655_MLS_TheCardPlayers_2.jpg.3840x3840_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=Xv4%2BCYqniJqrGhf8LB6z%2FTUMzZs%3D&Expires=1627009159",
+                    "caption": "AEO179655_MLS_TheCardPlayers_2",
+                    "credit_line": "Photograph by Egmont Contreras, ACMI",
+                    "alt_text": "",
+                    "width": 7360,
+                    "height": 4912,
+                    "access_level": "View anywhere"
+                }
+            ],
+            "videos": [],
+            "holdings": [],
+            "part_of": null,
+            "parts": [],
+            "part_siblings": [],
+            "group": null,
+            "group_works": [],
+            "group_siblings": [],
+            "source": {
+                "name": "Vernon",
+                "slug": "vernon"
+            },
+            "source_identifier": "179655",
+            "production_places": [
+                {
+                    "id": 17,
+                    "name": "France",
+                    "slug": "france"
+                }
+            ],
+            "production_dates": [
+                {
+                    "date": "c. 1870",
+                    "notes": "",
+                    "to_year": "c. 1870"
+                }
+            ],
+            "labels": [
+                39750
+            ]
+        },
+        {
+            "id": 100253,
+            "acmi_id": "179654",
+            "title": "Magic Lantern Slipping Slide [Le Nez d'Arlequin - The Harlequin's Nose]",
+            "title_annotation": "",
+            "slug": "magic-lantern-slipping-slide-le-nez-darlequin-the-harlequins-nose",
+            "creator_credit": "Maker not documented",
+            "credit_line": "",
+            "headline_credit": "Paris/France, c. 1870",
+            "thumbnail": {
+                "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AEO179654_MLS_TheHarlequinsNose_1.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=egKNii1alGN1XIm8RU1LmRV%2BUGA%3D&Expires=1627009159",
+                "has_video": false
+            },
+            "record_type": "work",
+            "type": "Object",
+            "is_on_display": false,
+            "last_on_display_place": "ACMI",
+            "last_on_display_date": "2022-02-10",
+            "is_context_indigenous": false,
+            "material_description": "",
+            "unpublished": true,
+            "first_production_date": null,
+            "brief_description": "<p>Hand painted magic lantern slipping slide &#8216;Le Nez d&#8217;Arlequin&#8217; -&#8216; The Harlequin&#8217;s Nose&#8217; or &#8216;Punch with Long Nose&#8217; with wooden frame. Manufactured by E.Mazo, Paris. By moving the slipping slide, a harlequin&#8217;s nose grows longer and three small children appear on the tip. The words &#8216;Punch&#8217;s Long Nose&#8217; is etched vertically in to the glass plate.</p>",
+            "constellations_primary": [],
+            "constellations_other": [],
+            "recommendations": [],
+            "title_for_label": "<p>Magic Lantern Slipping Slide [Le Nez d&#8217;Arlequin - The Harlequin&#8217;s Nose]</p>",
+            "creator_credit_for_label": "<p>Maker not documented</p>",
+            "headline_credit_for_label": "<p>Paris/France, c. 1870</p>",
+            "description": "<p>Hand painted magic lantern slipping slide &#8216;Le Nez d&#8217;Arlequin&#8217; -&#8216; The Harlequin&#8217;s Nose&#8217; or &#8216;Punch with Long Nose&#8217; with wooden frame. Manufactured by E.Mazo, Paris. By moving the slipping slide, a harlequin&#8217;s nose grows longer and three small children appear on the tip. The words &#8216;Punch&#8217;s Long Nose&#8217; is etched vertically in to the glass plate.</p>",
+            "description_for_label": [
+                "<p>Hand painted magic lantern slipping slide &#8216;Le Nez d&#8217;Arlequin&#8217; -&#8216; The Harlequin&#8217;s Nose&#8217; or &#8216;Punch with Long Nose&#8217; with wooden frame. Manufactured by E.Mazo, Paris. By moving the slipping slide, a harlequin&#8217;s nose grows longer and three small children appear on the tip. The words &#8216;Punch&#8217;s Long Nose&#8217; is etched vertically in to the glass plate.</p>"
+            ],
+            "credit_line_for_label": "",
+            "details": [
+                {
+                    "label": "Curatorial section",
+                    "display_values": [
+                        "The Story of the Moving Image&nbsp;→ Moving Pictures&nbsp;→ 02. Play and Illusion&nbsp;→ MI-02-C01"
+                    ]
+                },
+                {
+                    "label": "Measurements",
+                    "display_values": [
+                        "101 x 179 x 7mm"
+                    ]
+                }
+            ],
+            "stats": {
+                "tap_count": 0
+            },
+            "links": [],
+            "creators_primary": [
+                {
+                    "id": 1134430,
+                    "name": "Maker not documented",
+                    "creator_id": 71446,
+                    "role": "creator",
+                    "role_id": 968,
+                    "is_primary": true
+                }
+            ],
+            "creators_other": [],
+            "video_links": [],
+            "media_note": null,
+            "images": [
+                {
+                    "id": 28177,
+                    "image_file": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AEO179654_MLS_TheHarlequinsNose_1.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=IfdhJI6CvVHkRN20MwCa8cbTgqc%3D&Expires=1627009159",
+                    "image_file_thumbnail": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AEO179654_MLS_TheHarlequinsNose_1.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=egKNii1alGN1XIm8RU1LmRV%2BUGA%3D&Expires=1627009159",
+                    "image_file_xs": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AEO179654_MLS_TheHarlequinsNose_1.jpg.480x480_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=Zcmmcq6lTahIinwkZ1VuLGDsXbI%3D&Expires=1627009159",
+                    "image_file_s": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AEO179654_MLS_TheHarlequinsNose_1.jpg.960x960_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=pwxFwTqs3GLo%2FRuEyq%2BjOn3AurY%3D&Expires=1627009159",
+                    "image_file_m": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AEO179654_MLS_TheHarlequinsNose_1.jpg.1920x1920_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=7rW3NgaGMDJOfhPdl7lo84Ov%2BT0%3D&Expires=1627009159",
+                    "image_file_l": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AEO179654_MLS_TheHarlequinsNose_1.jpg.3840x3840_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=uVyeinw4g7kYLoWPJwzdnJIrRZk%3D&Expires=1627009159",
+                    "caption": "AEO179654_MLS_TheHarlequinsNose_1",
+                    "credit_line": "Photograph by Egmont Contreras, ACMI",
+                    "alt_text": "",
+                    "width": 7360,
+                    "height": 4912,
+                    "access_level": "View anywhere"
+                },
+                {
+                    "id": 28178,
+                    "image_file": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AEO179654_MLS_TheHarlequinsNose_2.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=X48wnvQ5KCUzSGM0Fv5df2k1peo%3D&Expires=1627009159",
+                    "image_file_thumbnail": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AEO179654_MLS_TheHarlequinsNose_2.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=2S2Rt7WWxqC5xOnAXLdqM48NCg8%3D&Expires=1627009159",
+                    "image_file_xs": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AEO179654_MLS_TheHarlequinsNose_2.jpg.480x480_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=KlI4SYJeQ9jBfHuNEddtC%2FJbDsQ%3D&Expires=1627009159",
+                    "image_file_s": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AEO179654_MLS_TheHarlequinsNose_2.jpg.960x960_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=t1aRmMLp7POAieSUTMGkrsaz9vg%3D&Expires=1627009159",
+                    "image_file_m": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AEO179654_MLS_TheHarlequinsNose_2.jpg.1920x1920_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=eoMpfzjhXzFavtsVVpaz3chHGX4%3D&Expires=1627009159",
+                    "image_file_l": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AEO179654_MLS_TheHarlequinsNose_2.jpg.3840x3840_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=hTzuyk9hJCFPYIyM81kFGOiSTuE%3D&Expires=1627009159",
+                    "caption": "AEO179654_MLS_TheHarlequinsNose_2",
+                    "credit_line": "Photograph by Egmont Contreras, ACMI",
+                    "alt_text": "",
+                    "width": 7360,
+                    "height": 4912,
+                    "access_level": "View anywhere"
+                }
+            ],
+            "videos": [],
+            "holdings": [],
+            "part_of": null,
+            "parts": [],
+            "part_siblings": [],
+            "group": null,
+            "group_works": [],
+            "group_siblings": [],
+            "source": {
+                "name": "Vernon",
+                "slug": "vernon"
+            },
+            "source_identifier": "179654",
+            "production_places": [
+                {
+                    "id": 169,
+                    "name": "Paris/France",
+                    "slug": "parisfrance"
+                }
+            ],
+            "production_dates": [
+                {
+                    "date": "c. 1870",
+                    "notes": "",
+                    "to_year": "c. 1870"
+                }
+            ],
+            "labels": [
+                39749
+            ]
+        }
+    ]
+}

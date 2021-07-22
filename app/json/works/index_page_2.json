@@ -1,0 +1,2359 @@
+{
+    "count": 922,
+    "next": "https://api.acmi.net.au/works/?page=3",
+    "previous": "https://api.acmi.net.au/works/?page=1",
+    "results": [
+        {
+            "id": 118138,
+            "acmi_id": "184730",
+            "title": "Fleetwood Mac (this is the one)",
+            "title_annotation": "",
+            "slug": "fleetwood-mac-this-is-the-one",
+            "creator_credit": "Nathan Apodaca",
+            "credit_line": "",
+            "headline_credit": "United States, 2020",
+            "thumbnail": {
+                "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/184730_FleetwoodMacThisIsTheOne.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=qWaLmbgxU%2FdW8fJ66nhloM8E%2FlQ%3D&Expires=1627009595",
+                "has_video": false
+            },
+            "record_type": "work",
+            "type": "Film",
+            "is_on_display": true,
+            "last_on_display_place": "ACMI: Gallery 1",
+            "last_on_display_date": "2031-02-16",
+            "is_context_indigenous": false,
+            "material_description": "Digital screen recording from @420doggface208's TikTok",
+            "unpublished": false,
+            "first_production_date": "2020-01-01T11:00:00+11:00",
+            "brief_description": "<p>In a year many spent locked inside, Nathan Apodaca gliding down a highway on a skateboard, drinking Ocean Spray and lip-synching Fleetwood Mac’s ‘Dreams’ was the tonic we all needed.</p>",
+            "constellations_primary": [
+                {
+                    "id": 295,
+                    "name": "Film and TV dreams",
+                    "description": "Fleetwood Mac's 'Dreams' coasted its way back up the charts 40 years after it was first released, thanks to Nathan Apodaca's joyous viral TikTok, but Fleetwood Mac (and Stevie Knicks) have been main staples of screen culture for decades."
+                }
+            ],
+            "constellations_other": [],
+            "recommendations": [],
+            "title_for_label": "<p>Fleetwood Mac (this is the one)</p>",
+            "creator_credit_for_label": "<p>Nathan Apodaca</p>",
+            "headline_credit_for_label": "<p>United States, 2020</p>",
+            "description": "<p><b>This video features in a responsive display in the museum that presents the moments, stories and memes capturing the zeitgeist by going viral on the internet.</b></p>\n<p>In a year many spent locked inside, Nathan Apodaca gliding down a highway on a skateboard, drinking Ocean Spray and lip-synching Fleetwood Mac’s ‘Dreams’ was the tonic we all needed. The 22-second viral video sparked countless imitations, with Apodaca’s wholesome performance giving the world some long overdue joy.</p>",
+            "description_for_label": [
+                "<p><b>This video features in a responsive display in the museum that presents the moments, stories and memes capturing the zeitgeist by going viral on the internet.</b></p>\n<p>In a year many spent locked inside, Nathan Apodaca gliding down a highway on a skateboard, drinking Ocean Spray and lip-synching Fleetwood Mac’s ‘Dreams’ was the tonic we all needed. The 22-second viral video sparked countless imitations, with Apodaca’s wholesome performance giving the world some long overdue joy.</p>"
+            ],
+            "credit_line_for_label": "",
+            "details": [
+                {
+                    "label": "Curatorial section",
+                    "display_values": [
+                        "The Story of the Moving Image&nbsp;→ Moving Minds&nbsp;→ 09. Catch of the Day"
+                    ]
+                },
+                {
+                    "label": "Materials",
+                    "display_values": [
+                        "Digital screen recording from @420doggface208's TikTok"
+                    ]
+                }
+            ],
+            "stats": {
+                "tap_count": 5637
+            },
+            "links": [],
+            "creators_primary": [
+                {
+                    "id": 1134635,
+                    "name": "Nathan Apodaca",
+                    "creator_id": 84709,
+                    "role": "creator",
+                    "role_id": 968,
+                    "is_primary": true
+                }
+            ],
+            "creators_other": [],
+            "video_links": [],
+            "media_note": null,
+            "images": [
+                {
+                    "id": 17155,
+                    "image_file": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/184730_FleetwoodMacThisIsTheOne.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=GqHDxScwOrKlZSEwbVmyomCEr6o%3D&Expires=1627009595",
+                    "image_file_thumbnail": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/184730_FleetwoodMacThisIsTheOne.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=qWaLmbgxU%2FdW8fJ66nhloM8E%2FlQ%3D&Expires=1627009595",
+                    "image_file_xs": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/184730_FleetwoodMacThisIsTheOne.jpg.480x480_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=wtMhIyFQzKi7Ng2guGnt5Z20jzs%3D&Expires=1627009595",
+                    "image_file_s": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/184730_FleetwoodMacThisIsTheOne.jpg.960x960_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=sicpIds9mz8Q%2F%2FnqkbdTQh2TEt8%3D&Expires=1627009595",
+                    "image_file_m": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/184730_FleetwoodMacThisIsTheOne.jpg.1920x1920_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=wY1X79RqaQ%2FVHR3PwmyRWFmZH9s%3D&Expires=1627009595",
+                    "image_file_l": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/184730_FleetwoodMacThisIsTheOne.jpg.3840x3840_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=Rc0BfecUNmF6ICGHW9NYRgkRQSA%3D&Expires=1627009595",
+                    "caption": "Fleetwood Mac (this is the one) (Nathan Apodaca) (still)",
+                    "credit_line": "",
+                    "alt_text": "",
+                    "width": 864,
+                    "height": 1080,
+                    "access_level": "View anywhere"
+                }
+            ],
+            "videos": [],
+            "holdings": [],
+            "part_of": null,
+            "parts": [],
+            "part_siblings": [],
+            "group": null,
+            "group_works": [],
+            "group_siblings": [],
+            "source": {
+                "name": "Vernon",
+                "slug": "vernon"
+            },
+            "source_identifier": "184730",
+            "production_places": [
+                {
+                    "id": 2,
+                    "name": "United States",
+                    "slug": "united-states"
+                }
+            ],
+            "production_dates": [
+                {
+                    "date": "2020",
+                    "notes": "",
+                    "to_year": "2020"
+                }
+            ],
+            "labels": [
+                57640
+            ]
+        },
+        {
+            "id": 119225,
+            "acmi_id": "186688",
+            "title": "Call to protect English football players from racism",
+            "title_annotation": "",
+            "slug": "call-to-protect-english-football-players-from-racist-abuse",
+            "creator_credit": "Simone Yasmin",
+            "credit_line": "",
+            "headline_credit": "United Kingdom, 12 JUL 2021",
+            "thumbnail": {
+                "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/186688_CallToProtect_WithLogo.png.1200x1200_q85.png?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=HCTX%2FSTanFNx%2BOzOb7XA5HDpuQg%3D&Expires=1627009595",
+                "has_video": false
+            },
+            "record_type": "work",
+            "type": "Film",
+            "is_on_display": false,
+            "last_on_display_place": "ACMI: Gallery 1",
+            "last_on_display_date": null,
+            "is_context_indigenous": false,
+            "material_description": "Digital screen recording from @_etherealtruth's Instagram",
+            "unpublished": false,
+            "first_production_date": null,
+            "brief_description": "<p>Following England’s defeat by Italy during a penalty shoot-out in the European soccer championship, black players from the English team who missed their shots were bombarded with racist abuse on social media – from English fans. Fans and supporters like @_etherealtruth responded with a plea to protect the players and black Britons – who will continue to feel the effects of the racist backlash – asking “Only British when it suits you, right?”</p>",
+            "constellations_primary": [],
+            "constellations_other": [],
+            "recommendations": [],
+            "title_for_label": "<p>Call to protect English football players from racism</p>",
+            "creator_credit_for_label": "<p>Simone Yasmin</p>",
+            "headline_credit_for_label": "<p>United Kingdom, 12 Jul 2021</p>",
+            "description": "<p><b>This video features in a responsive display in the museum that presents the moments, stories and memes capturing the zeitgeist by going viral on the internet.</b></p>\n<p>Following England’s defeat by Italy during a penalty shoot-out in the European soccer championship, black players from the English team who missed their shots were bombarded with racist abuse on social media – from English fans. Supporters like @_etherealtruth responded with a plea to protect the players and black Britons – who will continue to feel the effects of the racist backlash – asking “Only British when it suits you, right?” </p>\n<p>Throughout the tournament, the English football team ‘took the knee’ at the beginning of matches to highlight racial discrimination, injustice and inequality, a gesture that originated with former American footballer and civil rights activist Colin Kaepernick, who in 2016 knelt during the national anthem to protest police brutality and racial inequality in the United States. Considering the anti-racist gesture the team made during the tournament, for players Jadon Sancho, Marcus Rashford and Bukayo Saka to be targeted by trolls left many across the country deeply disappointed, with condemnation coming swiftly from Prime Minister Boris Johnston, Prince William and England’s governing football association, as well as activists, fans and supporters.</p>",
+            "description_for_label": [
+                "<p><b>This responsive display presents the moments capturing the zeitgeist by going viral on the internet.</b></p>\n<p>Following England’s defeat by Italy during a penalty shoot-out in the European soccer championship, black players from the English team who missed their shots were bombarded with racist abuse on social media – from English fans. Supporters like @_etherealtruth responded with a plea to protect the players and black Britons – who will continue to feel the effects of the racist backlash – asking “Only British when it suits you, right?”</p>"
+            ],
+            "credit_line_for_label": "",
+            "details": [
+                {
+                    "label": "Curatorial section",
+                    "display_values": [
+                        "The Story of the Moving Image&nbsp;→ Moving Minds&nbsp;→ 09. Catch of the Day"
+                    ]
+                },
+                {
+                    "label": "Materials",
+                    "display_values": [
+                        "Digital screen recording from @_etherealtruth's Instagram"
+                    ]
+                }
+            ],
+            "stats": {
+                "tap_count": 0
+            },
+            "links": [],
+            "creators_primary": [
+                {
+                    "id": 1134669,
+                    "name": "Simone Yasmin",
+                    "creator_id": 85143,
+                    "role": "creator",
+                    "role_id": 968,
+                    "is_primary": true
+                }
+            ],
+            "creators_other": [],
+            "video_links": [],
+            "media_note": null,
+            "images": [
+                {
+                    "id": 28139,
+                    "image_file": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/186688_CallToProtect_WithLogo.png?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=fuZVkDaR4bYCn161I2nVam9vt4E%3D&Expires=1627009595",
+                    "image_file_thumbnail": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/186688_CallToProtect_WithLogo.png.1200x1200_q85.png?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=HCTX%2FSTanFNx%2BOzOb7XA5HDpuQg%3D&Expires=1627009595",
+                    "image_file_xs": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/186688_CallToProtect_WithLogo.png.480x480_q85.png?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=5jyKbabvtYXa1gngqd433yX9Fy4%3D&Expires=1627009595",
+                    "image_file_s": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/186688_CallToProtect_WithLogo.png.960x960_q85.png?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=g5pVXx%2Fe%2B2HBfeKcLIe0nrirJrI%3D&Expires=1627009595",
+                    "image_file_m": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/186688_CallToProtect_WithLogo.png.1920x1920_q85.png?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=Ngxko67POj%2B4GHNQP3R%2FwiAGvbc%3D&Expires=1627009595",
+                    "image_file_l": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/186688_CallToProtect_WithLogo.png.3840x3840_q85.png?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=PKXJjTc7Vahm9NXghr9SWalg6UA%3D&Expires=1627009595",
+                    "caption": "186688_CallToProtect_WithLogo",
+                    "credit_line": "",
+                    "alt_text": "",
+                    "width": 987,
+                    "height": 839,
+                    "access_level": "View anywhere"
+                }
+            ],
+            "videos": [],
+            "holdings": [],
+            "part_of": null,
+            "parts": [],
+            "part_siblings": [],
+            "group": null,
+            "group_works": [],
+            "group_siblings": [],
+            "source": {
+                "name": "Vernon",
+                "slug": "vernon"
+            },
+            "source_identifier": "186688",
+            "production_places": [
+                {
+                    "id": 10,
+                    "name": "United Kingdom",
+                    "slug": "united-kingdom"
+                }
+            ],
+            "production_dates": [
+                {
+                    "date": "12 JUL 2021",
+                    "notes": "",
+                    "to_year": "12 JUL 2021"
+                }
+            ],
+            "labels": [
+                58694
+            ]
+        },
+        {
+            "id": 119224,
+            "acmi_id": "186619",
+            "title": "Eye of fire",
+            "title_annotation": "",
+            "slug": "screen-recording-of-mlopezsanmartin-twitter-eye-of-fire",
+            "creator_credit": "Manuel Lopez San Martin",
+            "credit_line": "",
+            "headline_credit": "Mexico, 03 JUL 2021",
+            "thumbnail": {
+                "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/186619_RingOfFire.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=UEpNftZZQvrz6hgVCAFJLEUsr8w%3D&Expires=1627009595",
+                "has_video": false
+            },
+            "record_type": "work",
+            "type": "Film",
+            "is_on_display": false,
+            "last_on_display_place": "ACMI: Gallery 1",
+            "last_on_display_date": null,
+            "is_context_indigenous": false,
+            "material_description": "Digital screen recording from @MLopezSanMartin’s Twitter",
+            "unpublished": false,
+            "first_production_date": null,
+            "brief_description": "<p>A gas leak in an underwater pipeline caused an oceanic fireball dubbed &#8216;The Eye of Fire&#8217; in the Gulf of Mexico. The state owned company is investigating the causes.</p>",
+            "constellations_primary": [],
+            "constellations_other": [
+                {
+                    "id": 21,
+                    "name": "Deep blue",
+                    "description": "Go deep on an exploration of real world oceans and those rendered by pixels and creatures made from plastics."
+                }
+            ],
+            "recommendations": [],
+            "title_for_label": "<p>&#8216;Eye of fire&#8217; in the Gulf of Mexico</p>",
+            "creator_credit_for_label": "<p>Manuel Lopez San Martin</p>",
+            "headline_credit_for_label": "<p>Mexico, 03 JUL 2021</p>",
+            "description": "<p><b>This video features in a responsive display in the museum that presents the moments, stories and memes capturing the zeitgeist by going viral on the internet.</b></p>\n<p>In horrific scenes that seemed more like footage from an action movie than the real world, the ocean was literally on fire on 3 July 2021 in the Gulf of Mexico. The huge fireball blazing across the sea surface was caused by a gas leak from an underwater pipeline, which social media users dubbed &#8216;the eye of fire&#8217;. The video was shared across the internet as further evidence of the environmental tolls of capitalism and the irresponsibility of fossil fuel companies plundering natural resources and producing unnatural results.</p>",
+            "description_for_label": [
+                "<p><b>This responsive display presents the moments, stories and memes capturing the zeitgeist by going viral on the internet.</b></p>\n<p>In astonishing scenes, the ocean was literally on fire on 3 July 2021 in the Gulf of Mexico. The fireball blazing across the sea surface, dubbed the &#8216;eye of fire&#8217; by social media users, was caused by an underwater gas leak from a pipeline. The video spread across the internet as further evidence of fossil fuel companies plundering natural resources and producing unnatural results.</p>"
+            ],
+            "credit_line_for_label": "",
+            "details": [
+                {
+                    "label": "Curatorial section",
+                    "display_values": [
+                        "The Story of the Moving Image&nbsp;→ Moving Minds&nbsp;→ 09. Catch of the Day"
+                    ]
+                },
+                {
+                    "label": "Materials",
+                    "display_values": [
+                        "Digital screen recording from @MLopezSanMartin’s Twitter"
+                    ]
+                }
+            ],
+            "stats": {
+                "tap_count": 209
+            },
+            "links": [],
+            "creators_primary": [
+                {
+                    "id": 1134668,
+                    "name": "Manuel Lopez San Martin",
+                    "creator_id": 85142,
+                    "role": "creator",
+                    "role_id": 968,
+                    "is_primary": true
+                }
+            ],
+            "creators_other": [],
+            "video_links": [],
+            "media_note": null,
+            "images": [
+                {
+                    "id": 28106,
+                    "image_file": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/186619_RingOfFire.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=jS4o2m4gD%2BtG2%2BkZvdJCQz2en2E%3D&Expires=1627009595",
+                    "image_file_thumbnail": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/186619_RingOfFire.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=UEpNftZZQvrz6hgVCAFJLEUsr8w%3D&Expires=1627009595",
+                    "image_file_xs": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/186619_RingOfFire.jpg.480x480_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=WmeoZVvqbosyeVQs%2FDX23x2gews%3D&Expires=1627009595",
+                    "image_file_s": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/186619_RingOfFire.jpg.960x960_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=HR1uaOW7V8%2FJ6S3kRezNPE5chJo%3D&Expires=1627009595",
+                    "image_file_m": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/186619_RingOfFire.jpg.1920x1920_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=vowIMwRcu2rVoF6Z9YREWTIUlIU%3D&Expires=1627009595",
+                    "image_file_l": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/186619_RingOfFire.jpg.3840x3840_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=EChgJcAzaTHu%2FXHa1FCCVTR70QI%3D&Expires=1627009595",
+                    "caption": "186619_RingOfFire",
+                    "credit_line": "",
+                    "alt_text": "",
+                    "width": 1877,
+                    "height": 862,
+                    "access_level": "View anywhere"
+                }
+            ],
+            "videos": [],
+            "holdings": [],
+            "part_of": null,
+            "parts": [],
+            "part_siblings": [],
+            "group": null,
+            "group_works": [],
+            "group_siblings": [],
+            "source": {
+                "name": "Vernon",
+                "slug": "vernon"
+            },
+            "source_identifier": "186619",
+            "production_places": [
+                {
+                    "id": 185,
+                    "name": "Mexico",
+                    "slug": "mexico"
+                }
+            ],
+            "production_dates": [
+                {
+                    "date": "03 JUL 2021",
+                    "notes": "",
+                    "to_year": "03 JUL 2021"
+                }
+            ],
+            "labels": [
+                58693
+            ]
+        },
+        {
+            "id": 119216,
+            "acmi_id": "186477",
+            "title": "9 News Covid-19 press conference",
+            "title_annotation": "",
+            "slug": "screen-capture-of-9-news-covid-19-press-conference",
+            "creator_credit": "Justin Stevens",
+            "credit_line": "",
+            "headline_credit": "Australia, 28 JUN 2021",
+            "thumbnail": {
+                "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/186477_9NewsCovid19PressConference.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=20c06xS7pEFAhMGWiHbta%2FnQUtQ%3D&Expires=1627009595",
+                "has_video": false
+            },
+            "record_type": "work",
+            "type": "Film",
+            "is_on_display": true,
+            "last_on_display_place": "ACMI: Gallery 1",
+            "last_on_display_date": null,
+            "is_context_indigenous": false,
+            "material_description": "Digital screen recording from @_JustinStevens_'s Twitter",
+            "unpublished": false,
+            "first_production_date": null,
+            "brief_description": "<p>At a recent NSW Covid-19 press conference, authorities revealed they’d fined two nudists for sunbaking outside in defiance of stay-at-home-orders. While that’s revealed to be contentious (they were inside the border), the fact that the duo needed to be rescued after being startled by a deer and getting lost in a forest brought some light-heartedness to the dour proceedings. The Auslan interpretation of the story also tickled Twitter users.</p>",
+            "constellations_primary": [],
+            "constellations_other": [],
+            "recommendations": [],
+            "title_for_label": "<p>9 News NSW Covid-19 press conference</p>",
+            "creator_credit_for_label": "<p>Justin Stevens</p>",
+            "headline_credit_for_label": "<p>Australia,  2021</p>",
+            "description": "<p><b>This video features in a responsive display in the museum that presents the moments, stories and memes capturing the zeitgeist by going viral on the internet.</b></p>\n<p>At a recent NSW Covid-19 press conference, authorities revealed they’d fined two nudists for sunbaking outside in defiance of stay-at-home orders. While that’s revealed to be contentious (they were inside the designated area), the fact that the duo needed to be rescued after being startled by a deer and getting lost in a forest brought some much-needed light-heartedness to the otherwise dour proceedings. </p>\n<p>As ABC producer Justin Stevens’ simple caption of ‘2021’ highlights, we’re living through an unusual and absurd age when these types of things seem the norm. Not to mention the lively Auslan interpretation of &#8216;sunbathing naked&#8217; and &#8216;deer&#8217;, which was quickly turned into a meme and propelled the virality of the moment across social media. </p>\n<p>Aside from being a humorous moment, it also highlighted the importance and highly skilled work of the unnamed interpreter, with one Twitter user commenting, &#8220;The woman who managed to do the Auslan today deserves credit.&#8221;</p>\n<p>As <a href=\"https://www.pedestrian.tv/news/nsw-auslan-interpreter-startled-by-deer-story/\">Pedestrian TV</a> reported: &#8220;Despite all the anxiety-riddled brouhaha that the global pandemic has beset upon us all, one of the great (and few) shining lights has been the, well, light shining upon the string of Auslan interpreters who have gamely stood next to Premiers and Chief Health Officers and interpreted complex, often rapid-fire information on the fly.&#8221;</p>\n<p>These live-streamed press conferences also offer the public the opportunity to see the production of media and politics, allowing users to interact with breaking news and opine in real-time on social media, rather than just passively receive announcements from the government.</p>",
+            "description_for_label": [
+                "<p><b>This responsive display presents the moments, stories and memes capturing the zeitgeist by going viral on the internet.</b></p>\n<p>At a recent NSW Covid-19 press conference, authorities revealed they’d fined two nudists for sunbaking outside in defiance of stay-at-home orders. While that’s now contentious (they were inside the border), the fact that the duo needed to be rescued after being startled by a deer and getting lost in a forest brought some light-heartedness to the dour proceedings. Keep an eye on the Auslan interpretation, which also tickled Twitter users.</p>"
+            ],
+            "credit_line_for_label": "",
+            "details": [
+                {
+                    "label": "Curatorial section",
+                    "display_values": [
+                        "The Story of the Moving Image&nbsp;→ Moving Minds&nbsp;→ 09. Catch of the Day"
+                    ]
+                },
+                {
+                    "label": "Materials",
+                    "display_values": [
+                        "Digital screen recording from @_JustinStevens_'s Twitter"
+                    ]
+                }
+            ],
+            "stats": {
+                "tap_count": 798
+            },
+            "links": [],
+            "creators_primary": [
+                {
+                    "id": 1134646,
+                    "name": "Justin Stevens",
+                    "creator_id": 85091,
+                    "role": "creator",
+                    "role_id": 968,
+                    "is_primary": true
+                }
+            ],
+            "creators_other": [],
+            "video_links": [],
+            "media_note": null,
+            "images": [
+                {
+                    "id": 28083,
+                    "image_file": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/186477_9NewsCovid19PressConference.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=U9rDyrM5HEsk5d7TucJgtoPi4mg%3D&Expires=1627009595",
+                    "image_file_thumbnail": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/186477_9NewsCovid19PressConference.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=20c06xS7pEFAhMGWiHbta%2FnQUtQ%3D&Expires=1627009595",
+                    "image_file_xs": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/186477_9NewsCovid19PressConference.jpg.480x480_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=9XpgQxeWNNw699F7z7tOHXgvPcA%3D&Expires=1627009595",
+                    "image_file_s": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/186477_9NewsCovid19PressConference.jpg.960x960_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=Es389uIayquEeD%2F6x8EK47WU4mg%3D&Expires=1627009595",
+                    "image_file_m": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/186477_9NewsCovid19PressConference.jpg.1920x1920_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=wNwcCSp6M7e%2F%2BZfn1t4dTOhXmog%3D&Expires=1627009595",
+                    "image_file_l": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/186477_9NewsCovid19PressConference.jpg.3840x3840_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=8aqVj4GMoR0i6V%2FBnRUJyRFztnY%3D&Expires=1627009595",
+                    "caption": "",
+                    "credit_line": "",
+                    "alt_text": "",
+                    "width": 590,
+                    "height": 504,
+                    "access_level": "View anywhere"
+                }
+            ],
+            "videos": [],
+            "holdings": [],
+            "part_of": null,
+            "parts": [],
+            "part_siblings": [],
+            "group": null,
+            "group_works": [],
+            "group_siblings": [],
+            "source": {
+                "name": "Vernon",
+                "slug": "vernon"
+            },
+            "source_identifier": "186477",
+            "production_places": [
+                {
+                    "id": 3,
+                    "name": "Australia",
+                    "slug": "australia"
+                }
+            ],
+            "production_dates": [
+                {
+                    "date": "28 JUN 2021",
+                    "notes": "",
+                    "to_year": "28 JUN 2021"
+                }
+            ],
+            "labels": [
+                58687
+            ]
+        },
+        {
+            "id": 119205,
+            "acmi_id": "186213",
+            "title": "\"We need pockets. Please and THANK you\"",
+            "title_annotation": "",
+            "slug": "we-need-pockets-please-and-thank-you",
+            "creator_credit": "The Female Lead",
+            "credit_line": "",
+            "headline_credit": "United States, 18 JUN 2021",
+            "thumbnail": {
+                "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/186213_WeNeedPockets.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=ElQ6wobwBUvKm2RORd%2FcZx52p70%3D&Expires=1627009595",
+                "has_video": false
+            },
+            "record_type": "work",
+            "type": "Film",
+            "is_on_display": false,
+            "last_on_display_place": "ACMI: Gallery 1",
+            "last_on_display_date": null,
+            "is_context_indigenous": false,
+            "material_description": "Digital screen recording from @the_female_lead’s Instagram.\r\nSong and video by @hebontheweb, inspired by @meri.pocket, produced by @iamfredcox.",
+            "unpublished": false,
+            "first_production_date": null,
+            "brief_description": "<p>Dedicated to amplifying women’s voices and advocating for female equality, The Female Lead teamed up with Heather Chelan and Fred Cox for ‘We need pockets’. Inspired by teenage activist Taarini Saraf’s @meri_pocket, the collaboration exposes the ridiculous practice of incorporating fake pockets into jeans for aesthetics rather than practical wearability.</p>",
+            "constellations_primary": [],
+            "constellations_other": [],
+            "recommendations": [],
+            "title_for_label": "<p>&#8220;We need pockets. Please and THANK you&#8221;</p>",
+            "creator_credit_for_label": "<p>The Female Lead</p>",
+            "headline_credit_for_label": "<p>United States, 18 JUN 2021</p>",
+            "description": "<p><b>This video features in a responsive display in the museum that presents the moments, stories and memes capturing the zeitgeist by going viral on the internet.</b></p>\n<p>Dedicated to amplifying women’s voices and advocating for female equality, The Female Lead teamed up with Heather Chelan and Fred Cox for ‘We need pockets’. Inspired by teenage activist Taarini Saraf’s @meri.pocket, the collaboration exposes the ridiculous practice of incorporating fake pockets into jeans for aesthetics rather than practical wearability.</p>",
+            "description_for_label": [
+                "<p><b>This video features in a responsive display in the museum that presents the moments, stories and memes capturing the zeitgeist by going viral on the internet.</b></p>\n<p>Dedicated to amplifying women’s voices and advocating for female equality, The Female Lead teamed up with Heather Chelan and Fred Cox for ‘We need pockets’. Inspired by teenage activist Taarini Saraf’s @meri.pocket, the collaboration exposes the ridiculous practice of incorporating fake pockets into jeans for aesthetics rather than practical wearability.</p>"
+            ],
+            "credit_line_for_label": "",
+            "details": [
+                {
+                    "label": "Curatorial section",
+                    "display_values": [
+                        "The Story of the Moving Image&nbsp;→ Moving Minds&nbsp;→ 09. Catch of the Day"
+                    ]
+                },
+                {
+                    "label": "Materials",
+                    "display_values": [
+                        "Digital screen recording from @the_female_lead’s Instagram.\r\nSong and video by @hebontheweb, inspired by @meri.pocket, produced by @iamfredcox."
+                    ]
+                }
+            ],
+            "stats": {
+                "tap_count": 1570
+            },
+            "links": [],
+            "creators_primary": [
+                {
+                    "id": 1134645,
+                    "name": "The Female Lead",
+                    "creator_id": 85084,
+                    "role": "creator",
+                    "role_id": 968,
+                    "is_primary": true
+                }
+            ],
+            "creators_other": [],
+            "video_links": [],
+            "media_note": null,
+            "images": [
+                {
+                    "id": 28075,
+                    "image_file": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/186213_WeNeedPockets.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=fKx%2B8rD%2FaytKxopY9og2R2KKEQw%3D&Expires=1627009595",
+                    "image_file_thumbnail": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/186213_WeNeedPockets.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=ElQ6wobwBUvKm2RORd%2FcZx52p70%3D&Expires=1627009595",
+                    "image_file_xs": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/186213_WeNeedPockets.jpg.480x480_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=3uHPvre%2BG%2F6nrRtOlOMOI4%2FNHHc%3D&Expires=1627009595",
+                    "image_file_s": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/186213_WeNeedPockets.jpg.960x960_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=0QOPT3Nbr%2FooWHba4jnMV6qBCUo%3D&Expires=1627009595",
+                    "image_file_m": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/186213_WeNeedPockets.jpg.1920x1920_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=BIe8hbjd%2BS%2BL1%2BAouK0QnQXlwH8%3D&Expires=1627009595",
+                    "image_file_l": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/186213_WeNeedPockets.jpg.3840x3840_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=f4qbbb0ROOulmk0jFu9BwmLd4tU%3D&Expires=1627009595",
+                    "caption": "186213_WeNeedPockets",
+                    "credit_line": "",
+                    "alt_text": "",
+                    "width": 602,
+                    "height": 361,
+                    "access_level": "View anywhere"
+                }
+            ],
+            "videos": [],
+            "holdings": [],
+            "part_of": null,
+            "parts": [],
+            "part_siblings": [],
+            "group": null,
+            "group_works": [],
+            "group_siblings": [],
+            "source": {
+                "name": "Vernon",
+                "slug": "vernon"
+            },
+            "source_identifier": "186213",
+            "production_places": [
+                {
+                    "id": 2,
+                    "name": "United States",
+                    "slug": "united-states"
+                }
+            ],
+            "production_dates": [
+                {
+                    "date": "18 JUN 2021",
+                    "notes": "",
+                    "to_year": "18 JUN 2021"
+                }
+            ],
+            "labels": [
+                58676
+            ]
+        },
+        {
+            "id": 119156,
+            "acmi_id": "186127",
+            "title": "Israeli air raid on building housing international media",
+            "title_annotation": "",
+            "slug": "israeli-air-raid-on-building-housing-international-media",
+            "creator_credit": "Al Jazeera",
+            "credit_line": "",
+            "headline_credit": "Gaza/Palestinian Territory, Occupied, 15 MAY 2021",
+            "thumbnail": {
+                "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/186127_IsraeliAirRaid.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=kmtuO3jHARVDex0z5vcr8IF%2FgSU%3D&Expires=1627009595",
+                "has_video": false
+            },
+            "record_type": "work",
+            "type": "Film",
+            "is_on_display": false,
+            "last_on_display_place": "ACMI: Gallery 1",
+            "last_on_display_date": "2021-07-02",
+            "is_context_indigenous": false,
+            "material_description": "screen recording of @AJEnglish’s Twitter Digital screen recording from @AJEnglish's Twitter",
+            "unpublished": false,
+            "first_production_date": null,
+            "brief_description": "<p>In the sixth consecutive day of hostilities between Israel and Hamas, Israeli airstrikes bombed a 15-storey block in the heart of Gaza that housed private homes and workplaces as well as the offices of media organisations Al Jazeera and the Associated Press. Defending the attack, Israeli officials stated that Hamas was operating an intelligence cell out in the building yet AP executive editor Sally Buzbee has called for an independent inquiry into the strike stating that this attack destroyed the ability for news reporting in the territory vehemently fighting for the world’s right to know. “This is an important story and because of the actions yesterday, the world is going to know less.”</p>",
+            "constellations_primary": [],
+            "constellations_other": [],
+            "recommendations": [],
+            "title_for_label": "<p>Israeli air raid on building housing international media</p>",
+            "creator_credit_for_label": "<p>Al Jazeera</p>",
+            "headline_credit_for_label": "<p>Gaza/Palestinian Territory, Occupied, 2021</p>",
+            "description": "<p><b>This video features in a responsive display in the museum that presents the moments, stories and memes capturing the zeitgeist by going viral on the internet.</b></p>\n<p>In the sixth consecutive day of attacks between Israeli and Palestinian forces, Israel bombed a 15-storey block in Gaza City claiming that Hamas was operating an intelligence cell in the building. Along with the private homes and workplaces in the building, it housed the offices of media organisations Al Jazeera and the Associated Press who were given advance warning of the bombing. Al Jazeera broadcast live, in real time, footage of their own offices being destroyed which went viral changing the international coverage of the ongoing Israel-Palestine conflict. AP executive editor Sally Buzbee has called for an independent inquiry into the strike, stating “This is an important story and because of the actions yesterday, the world is going to know less.”</p>",
+            "description_for_label": [
+                "<p>In the sixth consecutive day of attacks between Israeli and Palestinian forces, Israel bombed an office building in Gaza City, claiming that Hamas was operating an intelligence cell in the building. Along with private homes and workplaces, the building housed the offices of Al Jazeera and the Associated Press, who were given advance warning of the bombing. Al Jazeera and the AP broadcast live footage of their own offices being destroyed, which went viral and changed the international coverage of the conflict.</p>"
+            ],
+            "credit_line_for_label": "",
+            "details": [
+                {
+                    "label": "Curatorial section",
+                    "display_values": [
+                        "The Story of the Moving Image&nbsp;→ Moving Minds&nbsp;→ 09. Catch of the Day"
+                    ]
+                },
+                {
+                    "label": "Materials",
+                    "display_values": [
+                        "screen recording of @AJEnglish’s Twitter Digital screen recording from @AJEnglish's Twitter"
+                    ]
+                }
+            ],
+            "stats": {
+                "tap_count": 873
+            },
+            "links": [],
+            "creators_primary": [
+                {
+                    "id": 1134643,
+                    "name": "Al Jazeera",
+                    "creator_id": 85068,
+                    "role": "creator",
+                    "role_id": 968,
+                    "is_primary": true
+                }
+            ],
+            "creators_other": [],
+            "video_links": [],
+            "media_note": null,
+            "images": [
+                {
+                    "id": 27975,
+                    "image_file": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/186127_IsraeliAirRaid.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=A5CCnPQn1GYKrkdgFB%2BDq8b4x%2FQ%3D&Expires=1627009595",
+                    "image_file_thumbnail": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/186127_IsraeliAirRaid.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=kmtuO3jHARVDex0z5vcr8IF%2FgSU%3D&Expires=1627009595",
+                    "image_file_xs": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/186127_IsraeliAirRaid.jpg.480x480_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=f9c0xkWMpQTVIjRSuvS3KAb%2BvsE%3D&Expires=1627009595",
+                    "image_file_s": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/186127_IsraeliAirRaid.jpg.960x960_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=%2F%2BcYR1O%2BFyI44pLNmgeJxY%2BsUZo%3D&Expires=1627009595",
+                    "image_file_m": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/186127_IsraeliAirRaid.jpg.1920x1920_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=9xml02d2TFuonpBlTJOjojbhT3A%3D&Expires=1627009595",
+                    "image_file_l": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/186127_IsraeliAirRaid.jpg.3840x3840_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=4hqkSpHnFvUUK48VUHA9xAPS8TE%3D&Expires=1627009595",
+                    "caption": "186127_IsraeliAirRaid",
+                    "credit_line": "",
+                    "alt_text": "",
+                    "width": 602,
+                    "height": 340,
+                    "access_level": "View anywhere"
+                }
+            ],
+            "videos": [],
+            "holdings": [],
+            "part_of": null,
+            "parts": [],
+            "part_siblings": [],
+            "group": null,
+            "group_works": [],
+            "group_siblings": [],
+            "source": {
+                "name": "Vernon",
+                "slug": "vernon"
+            },
+            "source_identifier": "186127",
+            "production_places": [
+                {
+                    "id": 289,
+                    "name": "Gaza/Palestinian Territory, Occupied",
+                    "slug": "gazapalestinian-territory-occupied"
+                }
+            ],
+            "production_dates": [
+                {
+                    "date": "15 MAY 2021",
+                    "notes": "",
+                    "to_year": "15 MAY 2021"
+                }
+            ],
+            "labels": [
+                58627
+            ]
+        },
+        {
+            "id": 119146,
+            "acmi_id": "185586",
+            "title": "Convicted on all charges",
+            "title_annotation": "",
+            "slug": "convicted-on-all-charges",
+            "creator_credit": "Omar Jimenez",
+            "credit_line": "",
+            "headline_credit": "United States, 21 APR 2021",
+            "thumbnail": {
+                "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/185586_ConvictedOnAllCharges.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=1UYqg4SbyJiZp8ATBk9yQbMogQ8%3D&Expires=1627009595",
+                "has_video": false
+            },
+            "record_type": "work",
+            "type": "Film",
+            "is_on_display": false,
+            "last_on_display_place": "ACMI: Gallery 1",
+            "last_on_display_date": "2021-05-24",
+            "is_context_indigenous": false,
+            "material_description": "Digital screen recording from @OmarJimenez's Twitter",
+            "unpublished": false,
+            "first_production_date": null,
+            "brief_description": "<p>The murder of George Floyd by a Minneapolis police officer was captured on video and incited waves of protests in the US and around the world. When the jury swiftly and unanimously convicted the officer of all charges, huge crowds gathered to pay their respects to Floyd at the intersection where he took his last breaths. Minnesota’s attorney general, Keith Ellison welcomed the conviction stating, “This verdict reminds us that we must make enduring&#8230; enduring systemic, societal change.” Three other officers face trial for aiding and abetting murder and manslaughter. Key to securing the conviction was a video taken by a bystander.</p>",
+            "constellations_primary": [],
+            "constellations_other": [],
+            "recommendations": [],
+            "title_for_label": "<p>Convicted on all charges</p>",
+            "creator_credit_for_label": "<p>Omar Jimenez</p>",
+            "headline_credit_for_label": "<p>United States, 21 Apr 2021</p>",
+            "description": "<p><b>This video features in a responsive display in the museum that presents the moments, stories and memes capturing the zeitgeist by going viral on the internet.</b></p>\n<p>The murder of George Floyd by a Minneapolis police officer was captured on video and incited waves of protests in the US and around the world. When the jury swiftly and unanimously convicted the officer of all charges, huge crowds gathered to pay their respects to Floyd at the intersection where he took his last breaths. Three other officers face trial for aiding and abetting murder and manslaughter.</p>",
+            "description_for_label": [
+                "<p><b>This video features in a responsive display in the museum that presents the moments, stories and memes capturing the zeitgeist by going viral on the internet.</b></p>\n<p>The murder of George Floyd by a Minneapolis police officer was captured on video and incited waves of protests in the US and around the world. When the jury swiftly and unanimously convicted the officer of all charges, huge crowds gathered to pay their respects to Floyd at the intersection where he took his last breaths. Three other officers face trial for aiding and abetting murder and manslaughter.</p>"
+            ],
+            "credit_line_for_label": "",
+            "details": [
+                {
+                    "label": "Curatorial section",
+                    "display_values": [
+                        "The Story of the Moving Image&nbsp;→ Moving Minds&nbsp;→ 09. Catch of the Day"
+                    ]
+                },
+                {
+                    "label": "Materials",
+                    "display_values": [
+                        "Digital screen recording from @OmarJimenez's Twitter"
+                    ]
+                }
+            ],
+            "stats": {
+                "tap_count": 1298
+            },
+            "links": [],
+            "creators_primary": [
+                {
+                    "id": 1134642,
+                    "name": "Omar Jimenez",
+                    "creator_id": 85067,
+                    "role": "creator",
+                    "role_id": 968,
+                    "is_primary": true
+                }
+            ],
+            "creators_other": [],
+            "video_links": [],
+            "media_note": null,
+            "images": [
+                {
+                    "id": 27584,
+                    "image_file": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/185586_ConvictedOnAllCharges.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=Tgk%2FUZdjDE1RfQphYHvavhMq%2BOc%3D&Expires=1627009595",
+                    "image_file_thumbnail": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/185586_ConvictedOnAllCharges.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=1UYqg4SbyJiZp8ATBk9yQbMogQ8%3D&Expires=1627009595",
+                    "image_file_xs": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/185586_ConvictedOnAllCharges.jpg.480x480_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=Rj39Z06xLSB8ykJ9uD%2BpOc91gzM%3D&Expires=1627009595",
+                    "image_file_s": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/185586_ConvictedOnAllCharges.jpg.960x960_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=aA4TnZDJBLIiCdlT%2Fyr%2FAV6fRdE%3D&Expires=1627009595",
+                    "image_file_m": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/185586_ConvictedOnAllCharges.jpg.1920x1920_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=aPwTNZiPGiCjqLGTJeDu1P2Um88%3D&Expires=1627009595",
+                    "image_file_l": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/185586_ConvictedOnAllCharges.jpg.3840x3840_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=kqTc8cSA02b%2BFRAIjqFLA5edRp8%3D&Expires=1627009595",
+                    "caption": "185586_ConvictedOnAllCharges",
+                    "credit_line": "",
+                    "alt_text": "",
+                    "width": 597,
+                    "height": 419,
+                    "access_level": "View anywhere"
+                }
+            ],
+            "videos": [],
+            "holdings": [],
+            "part_of": null,
+            "parts": [],
+            "part_siblings": [],
+            "group": null,
+            "group_works": [],
+            "group_siblings": [],
+            "source": {
+                "name": "Vernon",
+                "slug": "vernon"
+            },
+            "source_identifier": "185586",
+            "production_places": [
+                {
+                    "id": 2,
+                    "name": "United States",
+                    "slug": "united-states"
+                }
+            ],
+            "production_dates": [
+                {
+                    "date": "21 APR 2021",
+                    "notes": "",
+                    "to_year": "21 APR 2021"
+                }
+            ],
+            "labels": [
+                58617
+            ]
+        },
+        {
+            "id": 119136,
+            "acmi_id": "185515",
+            "title": "What is happing in #SuezCanal today explained",
+            "title_annotation": "",
+            "slug": "zainaerhaim-what-is-happing-in-suezcanal-today-explained",
+            "creator_credit": "Zaina Erhaim",
+            "credit_line": "",
+            "headline_credit": "2021",
+            "thumbnail": {
+                "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/snapshot_2415_3s.jpeg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=nYvuASxHh4D7LocRwOkFXZI%2BuDo%3D&Expires=1627009595",
+                "has_video": false
+            },
+            "record_type": "work",
+            "type": "Film",
+            "is_on_display": true,
+            "last_on_display_place": "ACMI: Gallery 1",
+            "last_on_display_date": "2031-02-16",
+            "is_context_indigenous": false,
+            "material_description": "Digital screen recording from @ZainaErhaim's Twitter",
+            "unpublished": false,
+            "first_production_date": "2021-01-01T11:00:00+11:00",
+            "brief_description": "<p>On March 23, the sight of a container ship lodged inside the Suez Canal like a car abandoned during a bad parallel park enthralled the world. But the traffic the Ever Given blocked wasn’t insignificant, with hundreds of other vessels barred from delivering supplies and the stock market affected. A catastrophe yes, but one that flooded the internet with hilarious memes, like this one from Zaina Erhaim, which married the logistical absurdity with an equally absurd and iconic scene from Austin Powers: International Man of Mystery.</p>",
+            "constellations_primary": [],
+            "constellations_other": [],
+            "recommendations": [],
+            "title_for_label": "<p>What is happing in #SuezCanal today explained</p>",
+            "creator_credit_for_label": "<p>Zaina Erhaim</p>",
+            "headline_credit_for_label": "<p>2021</p>",
+            "description": "<p><b>This video features in a responsive display in the museum that presents the moments, stories and memes capturing the zeitgeist by going viral on the internet.</b></p>\n<p>On March 23, the Ever Given container ship got stuck in the Suez Canal like a car abandoned during a bad park, causing ships delivering supplies around the world to be blocked. Though a catastrophe, the internet responded with hilarious memes, like this one that married the logistical absurdity with an equally absurd scene from <I>Austin Powers</i>.</p>",
+            "description_for_label": [
+                "<p><b>This video features in a responsive display in the museum that presents the moments, stories and memes capturing the zeitgeist by going viral on the internet.</b></p>\n<p>On March 23, the Ever Given container ship got stuck in the Suez Canal like a car abandoned during a bad park, causing ships delivering supplies around the world to be blocked. Though a catastrophe, the internet responded with hilarious memes, like this one that married the logistical absurdity with an equally absurd scene from <I>Austin Powers</i>.</p>"
+            ],
+            "credit_line_for_label": "",
+            "details": [
+                {
+                    "label": "Curatorial section",
+                    "display_values": [
+                        "The Story of the Moving Image&nbsp;→ Moving Minds&nbsp;→ 09. Catch of the Day"
+                    ]
+                },
+                {
+                    "label": "Materials",
+                    "display_values": [
+                        "Digital screen recording from @ZainaErhaim's Twitter"
+                    ]
+                }
+            ],
+            "stats": {
+                "tap_count": 1772
+            },
+            "links": [],
+            "creators_primary": [
+                {
+                    "id": 1134641,
+                    "name": "Zaina Erhaim",
+                    "creator_id": 85045,
+                    "role": "creator",
+                    "role_id": 968,
+                    "is_primary": true
+                }
+            ],
+            "creators_other": [],
+            "video_links": [],
+            "media_note": null,
+            "images": [
+                {
+                    "id": 27547,
+                    "image_file": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/snapshot_2415_3s.jpeg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=VpMgYJCkYgd0tyttdG9UDb7rOOE%3D&Expires=1627009595",
+                    "image_file_thumbnail": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/snapshot_2415_3s.jpeg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=nYvuASxHh4D7LocRwOkFXZI%2BuDo%3D&Expires=1627009595",
+                    "image_file_xs": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/snapshot_2415_3s.jpeg.480x480_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=W%2B4Zg5uZDCN6T9EEfvsJHEwquio%3D&Expires=1627009595",
+                    "image_file_s": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/snapshot_2415_3s.jpeg.960x960_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=baK%2BOVKJ3aGCHbcOfMpGTAAMLQo%3D&Expires=1627009595",
+                    "image_file_m": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/snapshot_2415_3s.jpeg.1920x1920_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=FW57ZZzaC7pbBnEygDbuBzZNmRg%3D&Expires=1627009595",
+                    "image_file_l": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/snapshot_2415_3s.jpeg.3840x3840_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=um2AoW8BpyuKdbqin87rQBfMIqg%3D&Expires=1627009595",
+                    "caption": "",
+                    "credit_line": "",
+                    "alt_text": "A screenshot of a twitter feed that features the container ship Ever Given photoshopped onto a scene from Austin Powers, in a underground tunnel, trying to back a small cart back and forth. Austin has brown hair and thick rimmed black glasses.",
+                    "width": 1920,
+                    "height": 1080,
+                    "access_level": "View anywhere"
+                }
+            ],
+            "videos": [],
+            "holdings": [],
+            "part_of": null,
+            "parts": [],
+            "part_siblings": [],
+            "group": null,
+            "group_works": [],
+            "group_siblings": [],
+            "source": {
+                "name": "Vernon",
+                "slug": "vernon"
+            },
+            "source_identifier": "185515",
+            "production_places": [],
+            "production_dates": [
+                {
+                    "date": "2021",
+                    "notes": "",
+                    "to_year": "2021"
+                }
+            ],
+            "labels": [
+                58607
+            ]
+        },
+        {
+            "id": 119226,
+            "acmi_id": "186692",
+            "title": "Digital Diaries Collection 2001-2004",
+            "title_annotation": "",
+            "slug": "digital-diaries-collection-2001-2004",
+            "creator_credit": "ACMI",
+            "credit_line": "",
+            "headline_credit": "Australia, 2001-2004",
+            "thumbnail": null,
+            "record_type": "group",
+            "type": "Film",
+            "is_on_display": false,
+            "last_on_display_place": null,
+            "last_on_display_date": null,
+            "is_context_indigenous": false,
+            "material_description": "",
+            "unpublished": false,
+            "first_production_date": null,
+            "brief_description": "<p>A collection of anonymous &#8220;Digital Diaries&#8221; by Victorian students, produced at ACMI &#8220;workshops&#8221; between 2001 and 2004.<br />\nParticipants in the workshops look at one &#8216;moment&#8217; in their lives and, concentrating on the simplicity and power of that one moment in time, they create a &#8216;lo-fi&#8217; video work that speaks to the mind and heart.</p>",
+            "constellations_primary": [],
+            "constellations_other": [],
+            "recommendations": [],
+            "title_for_label": "<p>Digital Diaries Collection 2001-2004</p>",
+            "creator_credit_for_label": "<p>ACMI</p>",
+            "headline_credit_for_label": "<p>Australia, 2001-2004</p>",
+            "description": "<p>A collection of anonymous &#8220;Digital Diaries&#8221; by Victorian students, produced at ACMI &#8220;workshops&#8221; between 2001 and 2004.<br />\nParticipants in the workshops look at one &#8216;moment&#8217; in their lives and, concentrating on the simplicity and power of that one moment in time, they create a &#8216;lo-fi&#8217; video work that speaks to the mind and heart.</p>",
+            "description_for_label": [
+                "<p>A collection of anonymous &#8220;Digital Diaries&#8221; by Victorian students, produced at ACMI &#8220;workshops&#8221; between 2001 and 2004.<br />\nParticipants in the workshops look at one &#8216;moment&#8217; in their lives and, concentrating on the simplicity and power of that one moment in time, they create a &#8216;lo-fi&#8217; video work that speaks to the mind and heart.</p>"
+            ],
+            "credit_line_for_label": "",
+            "details": [
+                {
+                    "label": "Subject category",
+                    "display_values": [
+                        "Digital Storytelling"
+                    ]
+                }
+            ],
+            "stats": {
+                "tap_count": 0
+            },
+            "links": [],
+            "creators_primary": [
+                {
+                    "id": 1134712,
+                    "name": "ACMI",
+                    "creator_id": 6272,
+                    "role": "production company",
+                    "role_id": 941,
+                    "is_primary": true
+                }
+            ],
+            "creators_other": [],
+            "video_links": [],
+            "media_note": "Sorry, we don't have images or video for this item.",
+            "images": [],
+            "videos": [],
+            "holdings": [],
+            "part_of": null,
+            "parts": [],
+            "part_siblings": [],
+            "group": null,
+            "group_works": [
+                {
+                    "id": 109511,
+                    "acmi_id": "10831",
+                    "title": "AB: year 10",
+                    "title_annotation": "",
+                    "slug": "ab-year-10",
+                    "creator_credit": "Anonymous",
+                    "credit_line": "",
+                    "headline_credit": "Australia, 2004",
+                    "thumbnail": null,
+                    "record_type": "work",
+                    "type": "Film",
+                    "is_on_display": false,
+                    "last_on_display_place": null,
+                    "last_on_display_date": null,
+                    "is_context_indigenous": false,
+                    "material_description": "",
+                    "unpublished": false,
+                    "first_production_date": "2004-01-01T11:00:00+11:00"
+                },
+                {
+                    "id": 109510,
+                    "acmi_id": "10830",
+                    "title": "AB: Year 11",
+                    "title_annotation": "",
+                    "slug": "ab-year-11",
+                    "creator_credit": "Anonymous",
+                    "credit_line": "",
+                    "headline_credit": "Australia, 2004",
+                    "thumbnail": null,
+                    "record_type": "work",
+                    "type": "Film",
+                    "is_on_display": false,
+                    "last_on_display_place": null,
+                    "last_on_display_date": null,
+                    "is_context_indigenous": false,
+                    "material_description": "",
+                    "unpublished": false,
+                    "first_production_date": "2004-01-01T11:00:00+11:00"
+                },
+                {
+                    "id": 109020,
+                    "acmi_id": "2366",
+                    "title": "Bent on diaries",
+                    "title_annotation": "",
+                    "slug": "bent-on-diaries",
+                    "creator_credit": "Anonymous",
+                    "credit_line": "",
+                    "headline_credit": "VIC/Australia, 2003",
+                    "thumbnail": null,
+                    "record_type": "work",
+                    "type": "Film",
+                    "is_on_display": false,
+                    "last_on_display_place": null,
+                    "last_on_display_date": null,
+                    "is_context_indigenous": false,
+                    "material_description": "",
+                    "unpublished": false,
+                    "first_production_date": "2003-01-01T11:00:00+11:00"
+                },
+                {
+                    "id": 109506,
+                    "acmi_id": "10827",
+                    "title": "DD: Year 8",
+                    "title_annotation": "",
+                    "slug": "dd-year-8",
+                    "creator_credit": "Anonymous",
+                    "credit_line": "",
+                    "headline_credit": "Australia, 2004",
+                    "thumbnail": null,
+                    "record_type": "work",
+                    "type": "Film",
+                    "is_on_display": false,
+                    "last_on_display_place": null,
+                    "last_on_display_date": null,
+                    "is_context_indigenous": false,
+                    "material_description": "",
+                    "unpublished": false,
+                    "first_production_date": "2004-01-01T11:00:00+11:00"
+                },
+                {
+                    "id": 109512,
+                    "acmi_id": "10832",
+                    "title": "EL: Year 9",
+                    "title_annotation": "",
+                    "slug": "el-year-9",
+                    "creator_credit": "Anonymous",
+                    "credit_line": "",
+                    "headline_credit": "Australia, 2004",
+                    "thumbnail": null,
+                    "record_type": "work",
+                    "type": "Film",
+                    "is_on_display": false,
+                    "last_on_display_place": null,
+                    "last_on_display_date": null,
+                    "is_context_indigenous": false,
+                    "material_description": "",
+                    "unpublished": false,
+                    "first_production_date": "2004-01-01T11:00:00+11:00"
+                },
+                {
+                    "id": 109508,
+                    "acmi_id": "10828",
+                    "title": "GH: Year 10",
+                    "title_annotation": "",
+                    "slug": "gh-year-10",
+                    "creator_credit": "Anonymous",
+                    "credit_line": "",
+                    "headline_credit": "Australia, 2004",
+                    "thumbnail": null,
+                    "record_type": "work",
+                    "type": "Film",
+                    "is_on_display": false,
+                    "last_on_display_place": null,
+                    "last_on_display_date": null,
+                    "is_context_indigenous": false,
+                    "material_description": "",
+                    "unpublished": false,
+                    "first_production_date": "2004-01-01T11:00:00+11:00"
+                },
+                {
+                    "id": 109896,
+                    "acmi_id": "12245",
+                    "title": "James M student diary 9",
+                    "title_annotation": "",
+                    "slug": "james-m-student-diary-9",
+                    "creator_credit": "Anonymous",
+                    "credit_line": "",
+                    "headline_credit": "Australia",
+                    "thumbnail": null,
+                    "record_type": "work",
+                    "type": "Film",
+                    "is_on_display": false,
+                    "last_on_display_place": null,
+                    "last_on_display_date": null,
+                    "is_context_indigenous": false,
+                    "material_description": "",
+                    "unpublished": false,
+                    "first_production_date": null
+                },
+                {
+                    "id": 109100,
+                    "acmi_id": "2454",
+                    "title": "Juvenile Justice Centre. Story 1",
+                    "title_annotation": "",
+                    "slug": "juvenile-justice-centre-story-1",
+                    "creator_credit": "Anonymous",
+                    "credit_line": "",
+                    "headline_credit": "Australia, 2002",
+                    "thumbnail": null,
+                    "record_type": "work",
+                    "type": "Film",
+                    "is_on_display": false,
+                    "last_on_display_place": null,
+                    "last_on_display_date": null,
+                    "is_context_indigenous": false,
+                    "material_description": "",
+                    "unpublished": false,
+                    "first_production_date": "2002-01-01T11:00:00+11:00"
+                },
+                {
+                    "id": 109101,
+                    "acmi_id": "2455",
+                    "title": "Juvenile Justice Centre. Story 2",
+                    "title_annotation": "",
+                    "slug": "juvenile-justice-centre-story-2",
+                    "creator_credit": "Anonymous",
+                    "credit_line": "",
+                    "headline_credit": "Australia, 2002",
+                    "thumbnail": null,
+                    "record_type": "work",
+                    "type": "Film",
+                    "is_on_display": false,
+                    "last_on_display_place": null,
+                    "last_on_display_date": null,
+                    "is_context_indigenous": false,
+                    "material_description": "",
+                    "unpublished": false,
+                    "first_production_date": "2002-01-01T11:00:00+11:00"
+                },
+                {
+                    "id": 109058,
+                    "acmi_id": "2405",
+                    "title": "Knot @ home. Story 1",
+                    "title_annotation": "",
+                    "slug": "knot-home-story-1",
+                    "creator_credit": "Anonymous",
+                    "credit_line": "",
+                    "headline_credit": "Australia, 2003",
+                    "thumbnail": null,
+                    "record_type": "work",
+                    "type": "Film",
+                    "is_on_display": false,
+                    "last_on_display_place": null,
+                    "last_on_display_date": null,
+                    "is_context_indigenous": false,
+                    "material_description": "",
+                    "unpublished": false,
+                    "first_production_date": "2003-01-01T11:00:00+11:00"
+                },
+                {
+                    "id": 109097,
+                    "acmi_id": "2450",
+                    "title": "Knot @ home. Story 5",
+                    "title_annotation": "",
+                    "slug": "knot-home-story-5",
+                    "creator_credit": "Anonymous",
+                    "credit_line": "",
+                    "headline_credit": "Australia, 2003",
+                    "thumbnail": null,
+                    "record_type": "work",
+                    "type": "Film",
+                    "is_on_display": false,
+                    "last_on_display_place": null,
+                    "last_on_display_date": null,
+                    "is_context_indigenous": false,
+                    "material_description": "",
+                    "unpublished": false,
+                    "first_production_date": "2003-01-01T11:00:00+11:00"
+                },
+                {
+                    "id": 109098,
+                    "acmi_id": "2451",
+                    "title": "Knot @ home. Story 6",
+                    "title_annotation": "",
+                    "slug": "knot-home-story-6",
+                    "creator_credit": "Anonymous",
+                    "credit_line": "",
+                    "headline_credit": "Australia, 2003",
+                    "thumbnail": null,
+                    "record_type": "work",
+                    "type": "Film",
+                    "is_on_display": false,
+                    "last_on_display_place": null,
+                    "last_on_display_date": null,
+                    "is_context_indigenous": false,
+                    "material_description": "",
+                    "unpublished": false,
+                    "first_production_date": "2003-01-01T11:00:00+11:00"
+                },
+                {
+                    "id": 109664,
+                    "acmi_id": "11078",
+                    "title": "La Trobe Lifeskills. Diary 1",
+                    "title_annotation": "",
+                    "slug": "la-trobe-lifeskills-diary-1",
+                    "creator_credit": "Anonymous",
+                    "credit_line": "",
+                    "headline_credit": "Australia, 2004",
+                    "thumbnail": null,
+                    "record_type": "work",
+                    "type": "Film",
+                    "is_on_display": false,
+                    "last_on_display_place": null,
+                    "last_on_display_date": null,
+                    "is_context_indigenous": false,
+                    "material_description": "",
+                    "unpublished": false,
+                    "first_production_date": "2004-01-01T11:00:00+11:00"
+                },
+                {
+                    "id": 109665,
+                    "acmi_id": "11079",
+                    "title": "La Trobe Lifeskills. Diary 2",
+                    "title_annotation": "",
+                    "slug": "la-trobe-lifeskills-diary-2",
+                    "creator_credit": "Anonymous",
+                    "credit_line": "",
+                    "headline_credit": "Australia, 2004",
+                    "thumbnail": null,
+                    "record_type": "work",
+                    "type": "Film",
+                    "is_on_display": false,
+                    "last_on_display_place": null,
+                    "last_on_display_date": null,
+                    "is_context_indigenous": false,
+                    "material_description": "",
+                    "unpublished": false,
+                    "first_production_date": "2004-01-01T11:00:00+11:00"
+                },
+                {
+                    "id": 109513,
+                    "acmi_id": "10833",
+                    "title": "LT: Year 11",
+                    "title_annotation": "",
+                    "slug": "lt-year-11",
+                    "creator_credit": "Anonymous",
+                    "credit_line": "",
+                    "headline_credit": "Australia, 2004",
+                    "thumbnail": null,
+                    "record_type": "work",
+                    "type": "Film",
+                    "is_on_display": false,
+                    "last_on_display_place": null,
+                    "last_on_display_date": null,
+                    "is_context_indigenous": false,
+                    "material_description": "",
+                    "unpublished": false,
+                    "first_production_date": "2004-01-01T11:00:00+11:00"
+                },
+                {
+                    "id": 109103,
+                    "acmi_id": "2457",
+                    "title": "MPSC student story 2",
+                    "title_annotation": "",
+                    "slug": "mpsc-student-story-2",
+                    "creator_credit": "Anonymous",
+                    "credit_line": "",
+                    "headline_credit": "Australia, 2002",
+                    "thumbnail": null,
+                    "record_type": "work",
+                    "type": "Film",
+                    "is_on_display": false,
+                    "last_on_display_place": null,
+                    "last_on_display_date": null,
+                    "is_context_indigenous": false,
+                    "material_description": "",
+                    "unpublished": false,
+                    "first_production_date": "2002-01-01T11:00:00+11:00"
+                },
+                {
+                    "id": 109104,
+                    "acmi_id": "2458",
+                    "title": "MPSC student story 3",
+                    "title_annotation": "",
+                    "slug": "mpsc-student-story-3",
+                    "creator_credit": "Anonymous",
+                    "credit_line": "",
+                    "headline_credit": "Australia, 2002",
+                    "thumbnail": null,
+                    "record_type": "work",
+                    "type": "Film",
+                    "is_on_display": false,
+                    "last_on_display_place": null,
+                    "last_on_display_date": null,
+                    "is_context_indigenous": false,
+                    "material_description": "",
+                    "unpublished": false,
+                    "first_production_date": "2002-01-01T11:00:00+11:00"
+                },
+                {
+                    "id": 109105,
+                    "acmi_id": "2459",
+                    "title": "MPSC student story 4",
+                    "title_annotation": "",
+                    "slug": "mpsc-student-story-4",
+                    "creator_credit": "Anonymous",
+                    "credit_line": "",
+                    "headline_credit": "Australia, 2002",
+                    "thumbnail": null,
+                    "record_type": "work",
+                    "type": "Film",
+                    "is_on_display": false,
+                    "last_on_display_place": null,
+                    "last_on_display_date": null,
+                    "is_context_indigenous": false,
+                    "material_description": "",
+                    "unpublished": false,
+                    "first_production_date": "2002-01-01T11:00:00+11:00"
+                },
+                {
+                    "id": 109515,
+                    "acmi_id": "10835",
+                    "title": "NC: Year 10",
+                    "title_annotation": "",
+                    "slug": "nc-year-10",
+                    "creator_credit": "Anonymous",
+                    "credit_line": "",
+                    "headline_credit": "Australia, 2004",
+                    "thumbnail": null,
+                    "record_type": "work",
+                    "type": "Film",
+                    "is_on_display": false,
+                    "last_on_display_place": null,
+                    "last_on_display_date": null,
+                    "is_context_indigenous": false,
+                    "material_description": "",
+                    "unpublished": false,
+                    "first_production_date": "2004-01-01T11:00:00+11:00"
+                },
+                {
+                    "id": 109514,
+                    "acmi_id": "10834",
+                    "title": "RC: Year 11",
+                    "title_annotation": "",
+                    "slug": "rc-year-11",
+                    "creator_credit": "Anonymous",
+                    "credit_line": "",
+                    "headline_credit": "Australia, 2004",
+                    "thumbnail": null,
+                    "record_type": "work",
+                    "type": "Film",
+                    "is_on_display": false,
+                    "last_on_display_place": null,
+                    "last_on_display_date": null,
+                    "is_context_indigenous": false,
+                    "material_description": "",
+                    "unpublished": false,
+                    "first_production_date": "2004-01-01T11:00:00+11:00"
+                },
+                {
+                    "id": 109651,
+                    "acmi_id": "11062",
+                    "title": "RSC student diary 1",
+                    "title_annotation": "",
+                    "slug": "rsc-student-diary-1",
+                    "creator_credit": "Anonymous",
+                    "credit_line": "",
+                    "headline_credit": "Australia, 2004",
+                    "thumbnail": null,
+                    "record_type": "work",
+                    "type": "Film",
+                    "is_on_display": false,
+                    "last_on_display_place": null,
+                    "last_on_display_date": null,
+                    "is_context_indigenous": false,
+                    "material_description": "",
+                    "unpublished": false,
+                    "first_production_date": "2004-01-01T11:00:00+11:00"
+                },
+                {
+                    "id": 109653,
+                    "acmi_id": "11063",
+                    "title": "RSC student diary 2",
+                    "title_annotation": "",
+                    "slug": "rsc-student-diary-2",
+                    "creator_credit": "Anonymous",
+                    "credit_line": "",
+                    "headline_credit": "Australia, 2004",
+                    "thumbnail": null,
+                    "record_type": "work",
+                    "type": "Film",
+                    "is_on_display": false,
+                    "last_on_display_place": null,
+                    "last_on_display_date": null,
+                    "is_context_indigenous": false,
+                    "material_description": "",
+                    "unpublished": false,
+                    "first_production_date": "2004-01-01T11:00:00+11:00"
+                },
+                {
+                    "id": 109654,
+                    "acmi_id": "11064",
+                    "title": "RSC student diary 3",
+                    "title_annotation": "",
+                    "slug": "rsc-student-diary-3",
+                    "creator_credit": "Anonymous",
+                    "credit_line": "",
+                    "headline_credit": "Australia, 2004",
+                    "thumbnail": null,
+                    "record_type": "work",
+                    "type": "Film",
+                    "is_on_display": false,
+                    "last_on_display_place": null,
+                    "last_on_display_date": null,
+                    "is_context_indigenous": false,
+                    "material_description": "",
+                    "unpublished": false,
+                    "first_production_date": "2004-01-01T11:00:00+11:00"
+                },
+                {
+                    "id": 109655,
+                    "acmi_id": "11065",
+                    "title": "RSC student diary 4",
+                    "title_annotation": "",
+                    "slug": "rsc-student-diary-4",
+                    "creator_credit": "Anonymous",
+                    "credit_line": "",
+                    "headline_credit": "Australia, 2004",
+                    "thumbnail": null,
+                    "record_type": "work",
+                    "type": "Film",
+                    "is_on_display": false,
+                    "last_on_display_place": null,
+                    "last_on_display_date": null,
+                    "is_context_indigenous": false,
+                    "material_description": "",
+                    "unpublished": false,
+                    "first_production_date": "2004-01-01T11:00:00+11:00"
+                },
+                {
+                    "id": 109656,
+                    "acmi_id": "11066",
+                    "title": "RSC student diary 5",
+                    "title_annotation": "",
+                    "slug": "rsc-student-diary-5",
+                    "creator_credit": "Anonymous",
+                    "credit_line": "",
+                    "headline_credit": "Australia, 2004",
+                    "thumbnail": null,
+                    "record_type": "work",
+                    "type": "Film",
+                    "is_on_display": false,
+                    "last_on_display_place": null,
+                    "last_on_display_date": null,
+                    "is_context_indigenous": false,
+                    "material_description": "",
+                    "unpublished": false,
+                    "first_production_date": "2004-01-01T11:00:00+11:00"
+                },
+                {
+                    "id": 109657,
+                    "acmi_id": "11067",
+                    "title": "RSC student diary 6",
+                    "title_annotation": "",
+                    "slug": "rsc-student-diary-6",
+                    "creator_credit": "Anonymous",
+                    "credit_line": "",
+                    "headline_credit": "Australia, 2004",
+                    "thumbnail": null,
+                    "record_type": "work",
+                    "type": "Film",
+                    "is_on_display": false,
+                    "last_on_display_place": null,
+                    "last_on_display_date": null,
+                    "is_context_indigenous": false,
+                    "material_description": "",
+                    "unpublished": false,
+                    "first_production_date": "2004-01-01T11:00:00+11:00"
+                },
+                {
+                    "id": 109658,
+                    "acmi_id": "11068",
+                    "title": "RSC student diary 7",
+                    "title_annotation": "",
+                    "slug": "rsc-student-diary-7",
+                    "creator_credit": "Anonymous",
+                    "credit_line": "",
+                    "headline_credit": "Australia, 2004",
+                    "thumbnail": null,
+                    "record_type": "work",
+                    "type": "Film",
+                    "is_on_display": false,
+                    "last_on_display_place": null,
+                    "last_on_display_date": null,
+                    "is_context_indigenous": false,
+                    "material_description": "",
+                    "unpublished": false,
+                    "first_production_date": "2004-01-01T11:00:00+11:00"
+                },
+                {
+                    "id": 109659,
+                    "acmi_id": "11069",
+                    "title": "RSC student diary 8",
+                    "title_annotation": "",
+                    "slug": "rsc-student-diary-8",
+                    "creator_credit": "Anonymous",
+                    "credit_line": "",
+                    "headline_credit": "Australia, 2004",
+                    "thumbnail": null,
+                    "record_type": "work",
+                    "type": "Film",
+                    "is_on_display": false,
+                    "last_on_display_place": null,
+                    "last_on_display_date": null,
+                    "is_context_indigenous": false,
+                    "material_description": "",
+                    "unpublished": false,
+                    "first_production_date": "2004-01-01T11:00:00+11:00"
+                },
+                {
+                    "id": 109516,
+                    "acmi_id": "10836",
+                    "title": "S: Year 10",
+                    "title_annotation": "",
+                    "slug": "s-year-10",
+                    "creator_credit": "Anonymous",
+                    "credit_line": "",
+                    "headline_credit": "Australia, 2004",
+                    "thumbnail": null,
+                    "record_type": "work",
+                    "type": "Film",
+                    "is_on_display": false,
+                    "last_on_display_place": null,
+                    "last_on_display_date": null,
+                    "is_context_indigenous": false,
+                    "material_description": "",
+                    "unpublished": false,
+                    "first_production_date": "2004-01-01T11:00:00+11:00"
+                },
+                {
+                    "id": 109509,
+                    "acmi_id": "10829",
+                    "title": "S: Year 11",
+                    "title_annotation": "",
+                    "slug": "s-year-11",
+                    "creator_credit": "Anonymous",
+                    "credit_line": "",
+                    "headline_credit": "Australia, 2004",
+                    "thumbnail": null,
+                    "record_type": "work",
+                    "type": "Film",
+                    "is_on_display": false,
+                    "last_on_display_place": null,
+                    "last_on_display_date": null,
+                    "is_context_indigenous": false,
+                    "material_description": "",
+                    "unpublished": false,
+                    "first_production_date": "2004-01-01T11:00:00+11:00"
+                }
+            ],
+            "group_siblings": [],
+            "source": {
+                "name": "Vernon",
+                "slug": "vernon"
+            },
+            "source_identifier": "186692",
+            "production_places": [
+                {
+                    "id": 3,
+                    "name": "Australia",
+                    "slug": "australia"
+                }
+            ],
+            "production_dates": [
+                {
+                    "date": "2001-2004",
+                    "notes": "",
+                    "to_year": "2001-2004"
+                }
+            ],
+            "labels": [
+                58695
+            ]
+        },
+        {
+            "id": 109509,
+            "acmi_id": "10829",
+            "title": "S: Year 11",
+            "title_annotation": "",
+            "slug": "s-year-11",
+            "creator_credit": "Anonymous",
+            "credit_line": "",
+            "headline_credit": "Australia, 2004",
+            "thumbnail": null,
+            "record_type": "work",
+            "type": "Film",
+            "is_on_display": false,
+            "last_on_display_place": null,
+            "last_on_display_date": null,
+            "is_context_indigenous": false,
+            "material_description": "",
+            "unpublished": false,
+            "first_production_date": "2004-01-01T11:00:00+11:00",
+            "brief_description": "<p>An anonymous digital dairy created by a young person as part of a day long workshop run by ACMI.  Each diary is scripted and a voiceover recorded by the individual young person. Some diaries use photographs brought in by the participant,  but the primary visual content is often black and white, &#8216;stock&#8217; footage of a poetic nature. At no point should the creator or school be positively identified when screening this work.</p>",
+            "constellations_primary": [],
+            "constellations_other": [],
+            "recommendations": [],
+            "title_for_label": "<p>S: Year 11</p>",
+            "creator_credit_for_label": "<p>Anonymous</p>",
+            "headline_credit_for_label": "<p>Australia, 2004</p>",
+            "description": "<p>An anonymous digital dairy created by a young person as part of a day long workshop run by ACMI.  Each diary is scripted and a voiceover recorded by the individual young person. Some diaries use photographs brought in by the participant,  but the primary visual content is often black and white, &#8216;stock&#8217; footage of a poetic nature. At no point should the creator or school be positively identified when screening this work.</p>",
+            "description_for_label": [
+                "<p>An anonymous digital dairy created by a young person as part of a day long workshop run by ACMI.  Each diary is scripted and a voiceover recorded by the individual young person. Some diaries use photographs brought in by the participant,  but the primary visual content is often black and white, &#8216;stock&#8217; footage of a poetic nature. At no point should the creator or school be positively identified when screening this work.</p>"
+            ],
+            "credit_line_for_label": "",
+            "details": [
+                {
+                    "label": "Duration",
+                    "display_values": [
+                        "00:00:51:00"
+                    ]
+                },
+                {
+                    "label": "Language",
+                    "display_values": [
+                        "English"
+                    ]
+                },
+                {
+                    "label": "Audience classification",
+                    "display_values": [
+                        "Exempt"
+                    ]
+                },
+                {
+                    "label": "Subject categories",
+                    "display_values": [
+                        "Anthropology, Ethnology, Exploration & Travel&nbsp;→ Youth - Australia",
+                        "Biographical",
+                        "Biographical&nbsp;→ Video diary",
+                        "Digital Storytelling",
+                        "Short films",
+                        "Short films&nbsp;→ Short films - Australia"
+                    ]
+                },
+                {
+                    "label": "Sound/audio",
+                    "display_values": [
+                        "Sound"
+                    ]
+                },
+                {
+                    "label": "Colour",
+                    "display_values": [
+                        "Black and White"
+                    ]
+                }
+            ],
+            "stats": {
+                "tap_count": 0
+            },
+            "links": [],
+            "creators_primary": [
+                {
+                    "id": 1134710,
+                    "name": "Anonymous",
+                    "creator_id": 4180,
+                    "role": "creator",
+                    "role_id": 968,
+                    "is_primary": true
+                }
+            ],
+            "creators_other": [
+                {
+                    "id": 1134711,
+                    "name": "Ivanhoe Girls Grammar",
+                    "creator_id": 73594,
+                    "role": "school",
+                    "role_id": 619,
+                    "is_primary": false
+                }
+            ],
+            "video_links": [],
+            "media_note": "Sorry, we don't have images or video for this item.",
+            "images": [],
+            "videos": [],
+            "holdings": [
+                {
+                    "name": "MPEG-2 Digital File; Memory Grid Pod Full Encode",
+                    "identifier": "",
+                    "description": ""
+                },
+                {
+                    "name": "DVCAM; Master",
+                    "identifier": "",
+                    "description": ""
+                },
+                {
+                    "name": "Mini DV; Sub-master",
+                    "identifier": "",
+                    "description": ""
+                },
+                {
+                    "name": "VHS [PAL]; Reference - timecoded",
+                    "identifier": "",
+                    "description": ""
+                }
+            ],
+            "part_of": null,
+            "parts": [],
+            "part_siblings": [],
+            "group": {
+                "id": 119226,
+                "acmi_id": "186692",
+                "title": "Digital Diaries Collection 2001-2004",
+                "title_annotation": "",
+                "slug": "digital-diaries-collection-2001-2004",
+                "creator_credit": "ACMI",
+                "credit_line": "",
+                "headline_credit": "Australia, 2001-2004",
+                "thumbnail": null,
+                "record_type": "group",
+                "type": "Film",
+                "is_on_display": false,
+                "last_on_display_place": null,
+                "last_on_display_date": null,
+                "is_context_indigenous": false,
+                "material_description": "",
+                "unpublished": false,
+                "first_production_date": null
+            },
+            "group_works": [],
+            "group_siblings": [
+                {
+                    "id": 109511,
+                    "acmi_id": "10831",
+                    "title": "AB: year 10",
+                    "title_annotation": "",
+                    "slug": "ab-year-10",
+                    "creator_credit": "Anonymous",
+                    "credit_line": "",
+                    "headline_credit": "Australia, 2004",
+                    "thumbnail": null,
+                    "record_type": "work",
+                    "type": "Film",
+                    "is_on_display": false,
+                    "last_on_display_place": null,
+                    "last_on_display_date": null,
+                    "is_context_indigenous": false,
+                    "material_description": "",
+                    "unpublished": false,
+                    "first_production_date": "2004-01-01T11:00:00+11:00"
+                },
+                {
+                    "id": 109510,
+                    "acmi_id": "10830",
+                    "title": "AB: Year 11",
+                    "title_annotation": "",
+                    "slug": "ab-year-11",
+                    "creator_credit": "Anonymous",
+                    "credit_line": "",
+                    "headline_credit": "Australia, 2004",
+                    "thumbnail": null,
+                    "record_type": "work",
+                    "type": "Film",
+                    "is_on_display": false,
+                    "last_on_display_place": null,
+                    "last_on_display_date": null,
+                    "is_context_indigenous": false,
+                    "material_description": "",
+                    "unpublished": false,
+                    "first_production_date": "2004-01-01T11:00:00+11:00"
+                },
+                {
+                    "id": 109020,
+                    "acmi_id": "2366",
+                    "title": "Bent on diaries",
+                    "title_annotation": "",
+                    "slug": "bent-on-diaries",
+                    "creator_credit": "Anonymous",
+                    "credit_line": "",
+                    "headline_credit": "VIC/Australia, 2003",
+                    "thumbnail": null,
+                    "record_type": "work",
+                    "type": "Film",
+                    "is_on_display": false,
+                    "last_on_display_place": null,
+                    "last_on_display_date": null,
+                    "is_context_indigenous": false,
+                    "material_description": "",
+                    "unpublished": false,
+                    "first_production_date": "2003-01-01T11:00:00+11:00"
+                },
+                {
+                    "id": 109506,
+                    "acmi_id": "10827",
+                    "title": "DD: Year 8",
+                    "title_annotation": "",
+                    "slug": "dd-year-8",
+                    "creator_credit": "Anonymous",
+                    "credit_line": "",
+                    "headline_credit": "Australia, 2004",
+                    "thumbnail": null,
+                    "record_type": "work",
+                    "type": "Film",
+                    "is_on_display": false,
+                    "last_on_display_place": null,
+                    "last_on_display_date": null,
+                    "is_context_indigenous": false,
+                    "material_description": "",
+                    "unpublished": false,
+                    "first_production_date": "2004-01-01T11:00:00+11:00"
+                },
+                {
+                    "id": 109512,
+                    "acmi_id": "10832",
+                    "title": "EL: Year 9",
+                    "title_annotation": "",
+                    "slug": "el-year-9",
+                    "creator_credit": "Anonymous",
+                    "credit_line": "",
+                    "headline_credit": "Australia, 2004",
+                    "thumbnail": null,
+                    "record_type": "work",
+                    "type": "Film",
+                    "is_on_display": false,
+                    "last_on_display_place": null,
+                    "last_on_display_date": null,
+                    "is_context_indigenous": false,
+                    "material_description": "",
+                    "unpublished": false,
+                    "first_production_date": "2004-01-01T11:00:00+11:00"
+                },
+                {
+                    "id": 109508,
+                    "acmi_id": "10828",
+                    "title": "GH: Year 10",
+                    "title_annotation": "",
+                    "slug": "gh-year-10",
+                    "creator_credit": "Anonymous",
+                    "credit_line": "",
+                    "headline_credit": "Australia, 2004",
+                    "thumbnail": null,
+                    "record_type": "work",
+                    "type": "Film",
+                    "is_on_display": false,
+                    "last_on_display_place": null,
+                    "last_on_display_date": null,
+                    "is_context_indigenous": false,
+                    "material_description": "",
+                    "unpublished": false,
+                    "first_production_date": "2004-01-01T11:00:00+11:00"
+                },
+                {
+                    "id": 109896,
+                    "acmi_id": "12245",
+                    "title": "James M student diary 9",
+                    "title_annotation": "",
+                    "slug": "james-m-student-diary-9",
+                    "creator_credit": "Anonymous",
+                    "credit_line": "",
+                    "headline_credit": "Australia",
+                    "thumbnail": null,
+                    "record_type": "work",
+                    "type": "Film",
+                    "is_on_display": false,
+                    "last_on_display_place": null,
+                    "last_on_display_date": null,
+                    "is_context_indigenous": false,
+                    "material_description": "",
+                    "unpublished": false,
+                    "first_production_date": null
+                },
+                {
+                    "id": 109100,
+                    "acmi_id": "2454",
+                    "title": "Juvenile Justice Centre. Story 1",
+                    "title_annotation": "",
+                    "slug": "juvenile-justice-centre-story-1",
+                    "creator_credit": "Anonymous",
+                    "credit_line": "",
+                    "headline_credit": "Australia, 2002",
+                    "thumbnail": null,
+                    "record_type": "work",
+                    "type": "Film",
+                    "is_on_display": false,
+                    "last_on_display_place": null,
+                    "last_on_display_date": null,
+                    "is_context_indigenous": false,
+                    "material_description": "",
+                    "unpublished": false,
+                    "first_production_date": "2002-01-01T11:00:00+11:00"
+                },
+                {
+                    "id": 109101,
+                    "acmi_id": "2455",
+                    "title": "Juvenile Justice Centre. Story 2",
+                    "title_annotation": "",
+                    "slug": "juvenile-justice-centre-story-2",
+                    "creator_credit": "Anonymous",
+                    "credit_line": "",
+                    "headline_credit": "Australia, 2002",
+                    "thumbnail": null,
+                    "record_type": "work",
+                    "type": "Film",
+                    "is_on_display": false,
+                    "last_on_display_place": null,
+                    "last_on_display_date": null,
+                    "is_context_indigenous": false,
+                    "material_description": "",
+                    "unpublished": false,
+                    "first_production_date": "2002-01-01T11:00:00+11:00"
+                },
+                {
+                    "id": 109058,
+                    "acmi_id": "2405",
+                    "title": "Knot @ home. Story 1",
+                    "title_annotation": "",
+                    "slug": "knot-home-story-1",
+                    "creator_credit": "Anonymous",
+                    "credit_line": "",
+                    "headline_credit": "Australia, 2003",
+                    "thumbnail": null,
+                    "record_type": "work",
+                    "type": "Film",
+                    "is_on_display": false,
+                    "last_on_display_place": null,
+                    "last_on_display_date": null,
+                    "is_context_indigenous": false,
+                    "material_description": "",
+                    "unpublished": false,
+                    "first_production_date": "2003-01-01T11:00:00+11:00"
+                },
+                {
+                    "id": 109097,
+                    "acmi_id": "2450",
+                    "title": "Knot @ home. Story 5",
+                    "title_annotation": "",
+                    "slug": "knot-home-story-5",
+                    "creator_credit": "Anonymous",
+                    "credit_line": "",
+                    "headline_credit": "Australia, 2003",
+                    "thumbnail": null,
+                    "record_type": "work",
+                    "type": "Film",
+                    "is_on_display": false,
+                    "last_on_display_place": null,
+                    "last_on_display_date": null,
+                    "is_context_indigenous": false,
+                    "material_description": "",
+                    "unpublished": false,
+                    "first_production_date": "2003-01-01T11:00:00+11:00"
+                },
+                {
+                    "id": 109098,
+                    "acmi_id": "2451",
+                    "title": "Knot @ home. Story 6",
+                    "title_annotation": "",
+                    "slug": "knot-home-story-6",
+                    "creator_credit": "Anonymous",
+                    "credit_line": "",
+                    "headline_credit": "Australia, 2003",
+                    "thumbnail": null,
+                    "record_type": "work",
+                    "type": "Film",
+                    "is_on_display": false,
+                    "last_on_display_place": null,
+                    "last_on_display_date": null,
+                    "is_context_indigenous": false,
+                    "material_description": "",
+                    "unpublished": false,
+                    "first_production_date": "2003-01-01T11:00:00+11:00"
+                },
+                {
+                    "id": 109664,
+                    "acmi_id": "11078",
+                    "title": "La Trobe Lifeskills. Diary 1",
+                    "title_annotation": "",
+                    "slug": "la-trobe-lifeskills-diary-1",
+                    "creator_credit": "Anonymous",
+                    "credit_line": "",
+                    "headline_credit": "Australia, 2004",
+                    "thumbnail": null,
+                    "record_type": "work",
+                    "type": "Film",
+                    "is_on_display": false,
+                    "last_on_display_place": null,
+                    "last_on_display_date": null,
+                    "is_context_indigenous": false,
+                    "material_description": "",
+                    "unpublished": false,
+                    "first_production_date": "2004-01-01T11:00:00+11:00"
+                },
+                {
+                    "id": 109665,
+                    "acmi_id": "11079",
+                    "title": "La Trobe Lifeskills. Diary 2",
+                    "title_annotation": "",
+                    "slug": "la-trobe-lifeskills-diary-2",
+                    "creator_credit": "Anonymous",
+                    "credit_line": "",
+                    "headline_credit": "Australia, 2004",
+                    "thumbnail": null,
+                    "record_type": "work",
+                    "type": "Film",
+                    "is_on_display": false,
+                    "last_on_display_place": null,
+                    "last_on_display_date": null,
+                    "is_context_indigenous": false,
+                    "material_description": "",
+                    "unpublished": false,
+                    "first_production_date": "2004-01-01T11:00:00+11:00"
+                },
+                {
+                    "id": 109513,
+                    "acmi_id": "10833",
+                    "title": "LT: Year 11",
+                    "title_annotation": "",
+                    "slug": "lt-year-11",
+                    "creator_credit": "Anonymous",
+                    "credit_line": "",
+                    "headline_credit": "Australia, 2004",
+                    "thumbnail": null,
+                    "record_type": "work",
+                    "type": "Film",
+                    "is_on_display": false,
+                    "last_on_display_place": null,
+                    "last_on_display_date": null,
+                    "is_context_indigenous": false,
+                    "material_description": "",
+                    "unpublished": false,
+                    "first_production_date": "2004-01-01T11:00:00+11:00"
+                },
+                {
+                    "id": 109103,
+                    "acmi_id": "2457",
+                    "title": "MPSC student story 2",
+                    "title_annotation": "",
+                    "slug": "mpsc-student-story-2",
+                    "creator_credit": "Anonymous",
+                    "credit_line": "",
+                    "headline_credit": "Australia, 2002",
+                    "thumbnail": null,
+                    "record_type": "work",
+                    "type": "Film",
+                    "is_on_display": false,
+                    "last_on_display_place": null,
+                    "last_on_display_date": null,
+                    "is_context_indigenous": false,
+                    "material_description": "",
+                    "unpublished": false,
+                    "first_production_date": "2002-01-01T11:00:00+11:00"
+                },
+                {
+                    "id": 109104,
+                    "acmi_id": "2458",
+                    "title": "MPSC student story 3",
+                    "title_annotation": "",
+                    "slug": "mpsc-student-story-3",
+                    "creator_credit": "Anonymous",
+                    "credit_line": "",
+                    "headline_credit": "Australia, 2002",
+                    "thumbnail": null,
+                    "record_type": "work",
+                    "type": "Film",
+                    "is_on_display": false,
+                    "last_on_display_place": null,
+                    "last_on_display_date": null,
+                    "is_context_indigenous": false,
+                    "material_description": "",
+                    "unpublished": false,
+                    "first_production_date": "2002-01-01T11:00:00+11:00"
+                },
+                {
+                    "id": 109105,
+                    "acmi_id": "2459",
+                    "title": "MPSC student story 4",
+                    "title_annotation": "",
+                    "slug": "mpsc-student-story-4",
+                    "creator_credit": "Anonymous",
+                    "credit_line": "",
+                    "headline_credit": "Australia, 2002",
+                    "thumbnail": null,
+                    "record_type": "work",
+                    "type": "Film",
+                    "is_on_display": false,
+                    "last_on_display_place": null,
+                    "last_on_display_date": null,
+                    "is_context_indigenous": false,
+                    "material_description": "",
+                    "unpublished": false,
+                    "first_production_date": "2002-01-01T11:00:00+11:00"
+                },
+                {
+                    "id": 109515,
+                    "acmi_id": "10835",
+                    "title": "NC: Year 10",
+                    "title_annotation": "",
+                    "slug": "nc-year-10",
+                    "creator_credit": "Anonymous",
+                    "credit_line": "",
+                    "headline_credit": "Australia, 2004",
+                    "thumbnail": null,
+                    "record_type": "work",
+                    "type": "Film",
+                    "is_on_display": false,
+                    "last_on_display_place": null,
+                    "last_on_display_date": null,
+                    "is_context_indigenous": false,
+                    "material_description": "",
+                    "unpublished": false,
+                    "first_production_date": "2004-01-01T11:00:00+11:00"
+                },
+                {
+                    "id": 109514,
+                    "acmi_id": "10834",
+                    "title": "RC: Year 11",
+                    "title_annotation": "",
+                    "slug": "rc-year-11",
+                    "creator_credit": "Anonymous",
+                    "credit_line": "",
+                    "headline_credit": "Australia, 2004",
+                    "thumbnail": null,
+                    "record_type": "work",
+                    "type": "Film",
+                    "is_on_display": false,
+                    "last_on_display_place": null,
+                    "last_on_display_date": null,
+                    "is_context_indigenous": false,
+                    "material_description": "",
+                    "unpublished": false,
+                    "first_production_date": "2004-01-01T11:00:00+11:00"
+                },
+                {
+                    "id": 109651,
+                    "acmi_id": "11062",
+                    "title": "RSC student diary 1",
+                    "title_annotation": "",
+                    "slug": "rsc-student-diary-1",
+                    "creator_credit": "Anonymous",
+                    "credit_line": "",
+                    "headline_credit": "Australia, 2004",
+                    "thumbnail": null,
+                    "record_type": "work",
+                    "type": "Film",
+                    "is_on_display": false,
+                    "last_on_display_place": null,
+                    "last_on_display_date": null,
+                    "is_context_indigenous": false,
+                    "material_description": "",
+                    "unpublished": false,
+                    "first_production_date": "2004-01-01T11:00:00+11:00"
+                },
+                {
+                    "id": 109653,
+                    "acmi_id": "11063",
+                    "title": "RSC student diary 2",
+                    "title_annotation": "",
+                    "slug": "rsc-student-diary-2",
+                    "creator_credit": "Anonymous",
+                    "credit_line": "",
+                    "headline_credit": "Australia, 2004",
+                    "thumbnail": null,
+                    "record_type": "work",
+                    "type": "Film",
+                    "is_on_display": false,
+                    "last_on_display_place": null,
+                    "last_on_display_date": null,
+                    "is_context_indigenous": false,
+                    "material_description": "",
+                    "unpublished": false,
+                    "first_production_date": "2004-01-01T11:00:00+11:00"
+                },
+                {
+                    "id": 109654,
+                    "acmi_id": "11064",
+                    "title": "RSC student diary 3",
+                    "title_annotation": "",
+                    "slug": "rsc-student-diary-3",
+                    "creator_credit": "Anonymous",
+                    "credit_line": "",
+                    "headline_credit": "Australia, 2004",
+                    "thumbnail": null,
+                    "record_type": "work",
+                    "type": "Film",
+                    "is_on_display": false,
+                    "last_on_display_place": null,
+                    "last_on_display_date": null,
+                    "is_context_indigenous": false,
+                    "material_description": "",
+                    "unpublished": false,
+                    "first_production_date": "2004-01-01T11:00:00+11:00"
+                },
+                {
+                    "id": 109655,
+                    "acmi_id": "11065",
+                    "title": "RSC student diary 4",
+                    "title_annotation": "",
+                    "slug": "rsc-student-diary-4",
+                    "creator_credit": "Anonymous",
+                    "credit_line": "",
+                    "headline_credit": "Australia, 2004",
+                    "thumbnail": null,
+                    "record_type": "work",
+                    "type": "Film",
+                    "is_on_display": false,
+                    "last_on_display_place": null,
+                    "last_on_display_date": null,
+                    "is_context_indigenous": false,
+                    "material_description": "",
+                    "unpublished": false,
+                    "first_production_date": "2004-01-01T11:00:00+11:00"
+                },
+                {
+                    "id": 109656,
+                    "acmi_id": "11066",
+                    "title": "RSC student diary 5",
+                    "title_annotation": "",
+                    "slug": "rsc-student-diary-5",
+                    "creator_credit": "Anonymous",
+                    "credit_line": "",
+                    "headline_credit": "Australia, 2004",
+                    "thumbnail": null,
+                    "record_type": "work",
+                    "type": "Film",
+                    "is_on_display": false,
+                    "last_on_display_place": null,
+                    "last_on_display_date": null,
+                    "is_context_indigenous": false,
+                    "material_description": "",
+                    "unpublished": false,
+                    "first_production_date": "2004-01-01T11:00:00+11:00"
+                },
+                {
+                    "id": 109657,
+                    "acmi_id": "11067",
+                    "title": "RSC student diary 6",
+                    "title_annotation": "",
+                    "slug": "rsc-student-diary-6",
+                    "creator_credit": "Anonymous",
+                    "credit_line": "",
+                    "headline_credit": "Australia, 2004",
+                    "thumbnail": null,
+                    "record_type": "work",
+                    "type": "Film",
+                    "is_on_display": false,
+                    "last_on_display_place": null,
+                    "last_on_display_date": null,
+                    "is_context_indigenous": false,
+                    "material_description": "",
+                    "unpublished": false,
+                    "first_production_date": "2004-01-01T11:00:00+11:00"
+                },
+                {
+                    "id": 109658,
+                    "acmi_id": "11068",
+                    "title": "RSC student diary 7",
+                    "title_annotation": "",
+                    "slug": "rsc-student-diary-7",
+                    "creator_credit": "Anonymous",
+                    "credit_line": "",
+                    "headline_credit": "Australia, 2004",
+                    "thumbnail": null,
+                    "record_type": "work",
+                    "type": "Film",
+                    "is_on_display": false,
+                    "last_on_display_place": null,
+                    "last_on_display_date": null,
+                    "is_context_indigenous": false,
+                    "material_description": "",
+                    "unpublished": false,
+                    "first_production_date": "2004-01-01T11:00:00+11:00"
+                },
+                {
+                    "id": 109659,
+                    "acmi_id": "11069",
+                    "title": "RSC student diary 8",
+                    "title_annotation": "",
+                    "slug": "rsc-student-diary-8",
+                    "creator_credit": "Anonymous",
+                    "credit_line": "",
+                    "headline_credit": "Australia, 2004",
+                    "thumbnail": null,
+                    "record_type": "work",
+                    "type": "Film",
+                    "is_on_display": false,
+                    "last_on_display_place": null,
+                    "last_on_display_date": null,
+                    "is_context_indigenous": false,
+                    "material_description": "",
+                    "unpublished": false,
+                    "first_production_date": "2004-01-01T11:00:00+11:00"
+                },
+                {
+                    "id": 109516,
+                    "acmi_id": "10836",
+                    "title": "S: Year 10",
+                    "title_annotation": "",
+                    "slug": "s-year-10",
+                    "creator_credit": "Anonymous",
+                    "credit_line": "",
+                    "headline_credit": "Australia, 2004",
+                    "thumbnail": null,
+                    "record_type": "work",
+                    "type": "Film",
+                    "is_on_display": false,
+                    "last_on_display_place": null,
+                    "last_on_display_date": null,
+                    "is_context_indigenous": false,
+                    "material_description": "",
+                    "unpublished": false,
+                    "first_production_date": "2004-01-01T11:00:00+11:00"
+                }
+            ],
+            "source": {
+                "name": "Vernon",
+                "slug": "vernon"
+            },
+            "source_identifier": "10829",
+            "production_places": [
+                {
+                    "id": 3,
+                    "name": "Australia",
+                    "slug": "australia"
+                }
+            ],
+            "production_dates": [
+                {
+                    "date": "2004",
+                    "notes": "",
+                    "to_year": "2004"
+                }
+            ],
+            "labels": [
+                49002
+            ]
+        }
+    ]
+}

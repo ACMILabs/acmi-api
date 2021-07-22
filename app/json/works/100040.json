@@ -1,0 +1,102 @@
+{
+    "id": 100040,
+    "acmi_id": "13261",
+    "title": "Marconi Mark IV Image Orthicon black and white camera",
+    "title_annotation": "",
+    "slug": "marconi-mark-iv-image-orthicon-black-and-white-camera",
+    "creator_credit": "",
+    "credit_line": "",
+    "headline_credit": "",
+    "thumbnail": {
+        "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/B2000401_TVWorldCollection_E000059_001.JPG.1200x1200_q85.JPG?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=wN67AzhkjNpEOAz5p5zXYrkubRw%3D&Expires=1627009318",
+        "has_video": false
+    },
+    "record_type": "work",
+    "type": "Object",
+    "is_on_display": false,
+    "last_on_display_place": null,
+    "last_on_display_date": null,
+    "is_context_indigenous": false,
+    "material_description": "",
+    "unpublished": false,
+    "first_production_date": null,
+    "brief_description": "<p>Marconi Mark IV Image Orthicon black and white camera. With full lens complement, mounted on gas HTS pedestal. Type 3392B. Used between 1956 &amp; 1974.</p>",
+    "constellations_primary": [],
+    "constellations_other": [],
+    "recommendations": [],
+    "title_for_label": "<p>Marconi Mark IV Image Orthicon black and white camera</p>",
+    "creator_credit_for_label": "",
+    "headline_credit_for_label": "",
+    "description": "<p>Marconi Mark IV Image Orthicon black and white camera. With full lens complement, mounted on gas HTS pedestal. Type 3392B. Used between 1956 &amp; 1974.</p>",
+    "description_for_label": [
+        "<p>Marconi Mark IV Image Orthicon black and white camera. With full lens complement, mounted on gas HTS pedestal. Type 3392B. Used between 1956 &amp; 1974.</p>"
+    ],
+    "credit_line_for_label": "",
+    "details": [
+        {
+            "label": "Measurements",
+            "display_values": [
+                "170 x 140 x 90cm",
+                "250kg"
+            ]
+        }
+    ],
+    "stats": {
+        "tap_count": 0
+    },
+    "links": [],
+    "creators_primary": [],
+    "creators_other": [],
+    "video_links": [],
+    "media_note": null,
+    "images": [
+        {
+            "id": 14790,
+            "image_file": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/B2000401_TVWorldCollection_E000059_001.JPG?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=hzPEwoEQV%2B38hJO%2B2fxBpb78gRk%3D&Expires=1627009318",
+            "image_file_thumbnail": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/B2000401_TVWorldCollection_E000059_001.JPG.1200x1200_q85.JPG?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=wN67AzhkjNpEOAz5p5zXYrkubRw%3D&Expires=1627009318",
+            "image_file_xs": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/B2000401_TVWorldCollection_E000059_001.JPG.480x480_q85.JPG?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=3IxaoEi5Ekr3lIPy7hrTgAVVnjw%3D&Expires=1627009318",
+            "image_file_s": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/B2000401_TVWorldCollection_E000059_001.JPG.960x960_q85.JPG?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=xe14Rgox2gBoFNPu5PShXtLAwYs%3D&Expires=1627009318",
+            "image_file_m": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/B2000401_TVWorldCollection_E000059_001.JPG.1920x1920_q85.JPG?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=KL%2B2nP1f6c36%2FJWIMhAxBdWEdRk%3D&Expires=1627009318",
+            "image_file_l": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/B2000401_TVWorldCollection_E000059_001.JPG.3840x3840_q85.JPG?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=pyp4%2BeWBpoT2%2FuPxDhc0A4tFG1A%3D&Expires=1627009318",
+            "caption": "E000059 - Image01",
+            "credit_line": "",
+            "alt_text": "",
+            "width": 1600,
+            "height": 1200,
+            "access_level": "View anywhere"
+        },
+        {
+            "id": 14791,
+            "image_file": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/B2000401_TVWorldCollection_E000059_002.JPG?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=zAMcfkiI1XihXvRIrzCwuQtxsLM%3D&Expires=1627009318",
+            "image_file_thumbnail": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/B2000401_TVWorldCollection_E000059_002.JPG.1200x1200_q85.JPG?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=TWzMuDBd4uZOVA0YRIiP42vD5nw%3D&Expires=1627009318",
+            "image_file_xs": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/B2000401_TVWorldCollection_E000059_002.JPG.480x480_q85.JPG?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=McrrXZa0guuL1hFTpzTw43QeSjM%3D&Expires=1627009318",
+            "image_file_s": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/B2000401_TVWorldCollection_E000059_002.JPG.960x960_q85.JPG?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=Gh5wvTaxDGICc9Wis%2BvllFDSXiA%3D&Expires=1627009318",
+            "image_file_m": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/B2000401_TVWorldCollection_E000059_002.JPG.1920x1920_q85.JPG?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=4TBbnleT6gdIj0tqexw1HiFQWkE%3D&Expires=1627009318",
+            "image_file_l": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/B2000401_TVWorldCollection_E000059_002.JPG.3840x3840_q85.JPG?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=7UG6f%2FpObNroXouvDP9NvEJ3k7Y%3D&Expires=1627009318",
+            "caption": "E000059 - Image02",
+            "credit_line": "",
+            "alt_text": "",
+            "width": 1600,
+            "height": 1200,
+            "access_level": "View anywhere"
+        }
+    ],
+    "videos": [],
+    "holdings": [],
+    "part_of": null,
+    "parts": [],
+    "part_siblings": [],
+    "group": null,
+    "group_works": [],
+    "group_siblings": [],
+    "source": {
+        "name": "Vernon",
+        "slug": "vernon"
+    },
+    "source_identifier": "13261",
+    "production_places": [],
+    "production_dates": [],
+    "labels": [
+        39536
+    ]
+}

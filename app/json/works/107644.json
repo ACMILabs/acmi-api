@@ -1,0 +1,178 @@
+{
+    "id": 107644,
+    "acmi_id": "182673",
+    "title": "Clips from Little J and Big Cuz",
+    "title_annotation": "",
+    "slug": "clips-from-little-j-and-big-cuz",
+    "creator_credit": "Tony Thorne",
+    "credit_line": "<p>Courtesy Australian Children&#8217;s Television Foundation</p>",
+    "headline_credit": "Australia, 2017",
+    "thumbnail": null,
+    "record_type": "work",
+    "type": "Film",
+    "is_on_display": true,
+    "last_on_display_place": "ACMI: Gallery 1",
+    "last_on_display_date": "2023-02-09",
+    "is_context_indigenous": false,
+    "material_description": "",
+    "unpublished": false,
+    "first_production_date": "2017-01-01T11:00:00+11:00",
+    "brief_description": "",
+    "constellations_primary": [],
+    "constellations_other": [],
+    "recommendations": [],
+    "title_for_label": "<p>Clips from finished episodes</p>",
+    "creator_credit_for_label": "<p>Tony Thorne</p>",
+    "headline_credit_for_label": "<p>Australia, 2017</p>",
+    "description": "",
+    "description_for_label": [],
+    "credit_line_for_label": "<p>Courtesy Australian Children&#8217;s Television Foundation</p>",
+    "details": [
+        {
+            "label": "Curatorial section",
+            "display_values": [
+                "The Story of the Moving Image&nbsp;→ Moving Worlds&nbsp;→ 02. Set Design&nbsp;→ MW-02-C01&nbsp;→ MW-02-C01.01"
+            ]
+        }
+    ],
+    "stats": {
+        "tap_count": 0
+    },
+    "links": [],
+    "creators_primary": [
+        {
+            "id": 1134600,
+            "name": "Tony Thorne",
+            "creator_id": 8390,
+            "role": "creator",
+            "role_id": 968,
+            "is_primary": true
+        }
+    ],
+    "creators_other": [],
+    "video_links": [],
+    "media_note": null,
+    "images": [],
+    "videos": [],
+    "holdings": [],
+    "part_of": null,
+    "parts": [],
+    "part_siblings": [],
+    "group": {
+        "id": 100652,
+        "acmi_id": "182482",
+        "title": "Set design in Little J and Big Cuz",
+        "title_annotation": "",
+        "slug": "set-design-in-little-j-and-big-cuz",
+        "creator_credit": "Tony Thorne and Ned Lander Media Pty Ltd",
+        "credit_line": "<p>Courtesy Ned Lander Media Pty Ltd</p>",
+        "headline_credit": "Australia, 2017-2020",
+        "thumbnail": {
+            "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/P180463_G172.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=L96pBYbYwnoIIkMW7RiguVonrRs%3D&Expires=1627009058",
+            "has_video": false
+        },
+        "record_type": "group",
+        "type": "Object",
+        "is_on_display": true,
+        "last_on_display_place": "ACMI: Gallery 1",
+        "last_on_display_date": "2023-02-09",
+        "is_context_indigenous": true,
+        "material_description": "",
+        "unpublished": false,
+        "first_production_date": null
+    },
+    "group_works": [],
+    "group_siblings": [
+        {
+            "id": 114476,
+            "acmi_id": "183572",
+            "title": "Colour notes that reference Arthur Streeton and William Piguenit paintings",
+            "title_annotation": "",
+            "slug": "colour-notes-that-reference-arthur-streeton-and-william-piguenit-paintings",
+            "creator_credit": "Tony Thorne",
+            "credit_line": "<p>Courtesy Australian Children&#8217;s Television Foundation</p>",
+            "headline_credit": "",
+            "thumbnail": {
+                "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/P180463_G172.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=L96pBYbYwnoIIkMW7RiguVonrRs%3D&Expires=1627009058",
+                "has_video": false
+            },
+            "record_type": "group",
+            "type": "Film",
+            "is_on_display": true,
+            "last_on_display_place": "ACMI: Gallery 1",
+            "last_on_display_date": "2023-02-09",
+            "is_context_indigenous": false,
+            "material_description": "",
+            "unpublished": false,
+            "first_production_date": null
+        },
+        {
+            "id": 114475,
+            "acmi_id": "183573",
+            "title": "Concept sketches and art for desert, bush and coast locations",
+            "title_annotation": "",
+            "slug": "concept-sketches-and-art-for-desert-bush-and-coast-locations",
+            "creator_credit": "Tony Thorne",
+            "credit_line": "<p>Courtesy Australian Children&#8217;s Television Foundation</p>",
+            "headline_credit": "",
+            "thumbnail": {
+                "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/P180460_G169.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=AVffSMIXkXZkCxiAP4Idi3UFJBU%3D&Expires=1627009058",
+                "has_video": false
+            },
+            "record_type": "group",
+            "type": "Film",
+            "is_on_display": true,
+            "last_on_display_place": "ACMI: Gallery 1",
+            "last_on_display_date": "2023-02-09",
+            "is_context_indigenous": false,
+            "material_description": "",
+            "unpublished": false,
+            "first_production_date": null
+        },
+        {
+            "id": 114477,
+            "acmi_id": "183574",
+            "title": "Maps of show world and Nan's house",
+            "title_annotation": "",
+            "slug": "maps-of-show-world-and-nans-house",
+            "creator_credit": "Tony Thorne",
+            "credit_line": "<p>Courtesy Australian Children&#8217;s Television Foundation</p>",
+            "headline_credit": "",
+            "thumbnail": {
+                "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/P180465_G174.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=jqJ8D6YT%2Fw5CKuj8aOFhBq%2B2McA%3D&Expires=1627009058",
+                "has_video": false
+            },
+            "record_type": "group",
+            "type": "Film",
+            "is_on_display": true,
+            "last_on_display_place": "ACMI: Gallery 1",
+            "last_on_display_date": "2023-02-09",
+            "is_context_indigenous": false,
+            "material_description": "",
+            "unpublished": false,
+            "first_production_date": null
+        }
+    ],
+    "source": {
+        "name": "Vernon",
+        "slug": "vernon"
+    },
+    "source_identifier": "182673",
+    "production_places": [
+        {
+            "id": 3,
+            "name": "Australia",
+            "slug": "australia"
+        }
+    ],
+    "production_dates": [
+        {
+            "date": "2017",
+            "notes": "",
+            "to_year": "2017"
+        }
+    ],
+    "labels": [
+        47137
+    ]
+}

@@ -1,0 +1,206 @@
+{
+    "id": 99433,
+    "acmi_id": "175771",
+    "title": "US Navy Ciné-Kodak Special",
+    "title_annotation": "",
+    "slug": "eastman-kodak-us-navy-cine-kodak-special-16mm-camera",
+    "creator_credit": "Eastman Kodak",
+    "credit_line": "",
+    "headline_credit": "United States, c. 1940s",
+    "thumbnail": {
+        "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AEO175771_EastmanKodakUSNavy16mmCamera_34.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=t7Io2cFZJOo2zqhaYO7K3ndGjGA%3D&Expires=1627009222",
+        "has_video": false
+    },
+    "record_type": "work",
+    "type": "Object",
+    "is_on_display": true,
+    "last_on_display_place": "ACMI: Gallery 1",
+    "last_on_display_date": "2031-02-16",
+    "is_context_indigenous": false,
+    "material_description": "vintage movie camera",
+    "unpublished": false,
+    "first_production_date": null,
+    "brief_description": "<p>Eastman Kodak introduced the Ciné-Kodak Special in 1933. The silent 16mm camera was durable and lightweight enough to be used by combat photographers working in the field and Kodak manufactured a military version in all-black without the usual chrome edges.</p>",
+    "constellations_primary": [
+        {
+            "id": 173,
+            "name": "Australia and WW2",
+            "description": "A constellation exploring representations of Australians during World War 2."
+        }
+    ],
+    "constellations_other": [],
+    "recommendations": [],
+    "title_for_label": "<p>US Navy Ciné-Kodak Special</p>",
+    "creator_credit_for_label": "<p>Eastman Kodak</p>",
+    "headline_credit_for_label": "<p>United States, c. 1940s</p>",
+    "description": "<p>Footage captured during war has the ability to give audiences a sense of what is happening in combat, documenting the frontlines with an unflinching lens and bearing witness to atrocities. Yet it can also be used as propaganda to enlist forces, making it a powerful tool. Eastman Kodak introduced the Ciné-Kodak Special in 1933 following on from its earlier model the Ciné-Kodak in 1923. The silent 16mm camera was durable and lightweight enough to be used by combat photographers working in the field and Kodak manufactured a military version in all-black without the usual chrome edges.</p>",
+    "description_for_label": [
+        "<p>Footage captured during war has the ability to give audiences a sense of what is happening in combat, documenting the frontlines with an unflinching lens and bearing witness to atrocities. Yet it can also be used as propaganda to enlist forces, making it a powerful tool. Eastman Kodak introduced the Ciné-Kodak Special in 1933 following on from its earlier model the Ciné-Kodak in 1923. The silent 16mm camera was durable and lightweight enough to be used by combat photographers working in the field and Kodak manufactured a military version in all-black without the usual chrome edges.</p>"
+    ],
+    "credit_line_for_label": "",
+    "details": [
+        {
+            "label": "Subject category",
+            "display_values": [
+                "object&nbsp;→ 3D artefact"
+            ]
+        },
+        {
+            "label": "Curatorial section",
+            "display_values": [
+                "The Story of the Moving Image&nbsp;→ Moving Minds&nbsp;→ 05. Camera Tech&nbsp;→ MM-05-C01"
+            ]
+        },
+        {
+            "label": "Measurements",
+            "display_values": [
+                "4.6kg"
+            ]
+        },
+        {
+            "label": "Materials",
+            "display_values": [
+                "vintage movie camera"
+            ]
+        }
+    ],
+    "stats": {
+        "tap_count": 1566
+    },
+    "links": [],
+    "creators_primary": [
+        {
+            "id": 1134340,
+            "name": "Eastman Kodak",
+            "creator_id": 10305,
+            "role": "manufacturer",
+            "role_id": 627,
+            "is_primary": true
+        }
+    ],
+    "creators_other": [],
+    "video_links": [],
+    "media_note": null,
+    "images": [
+        {
+            "id": 12443,
+            "image_file": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AEO175771_EastmanKodakUSNavy16mmCamera_34.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=hbYFN9GuEF0UJjdhUjJT4QAejfs%3D&Expires=1627009222",
+            "image_file_thumbnail": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AEO175771_EastmanKodakUSNavy16mmCamera_34.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=t7Io2cFZJOo2zqhaYO7K3ndGjGA%3D&Expires=1627009222",
+            "image_file_xs": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AEO175771_EastmanKodakUSNavy16mmCamera_34.jpg.480x480_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=nOtKjuwAcub30fBqeqiGX9%2Fnmk4%3D&Expires=1627009222",
+            "image_file_s": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AEO175771_EastmanKodakUSNavy16mmCamera_34.jpg.960x960_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=N0PiYwLzQLawqQbRnQL%2FbemRAuE%3D&Expires=1627009222",
+            "image_file_m": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AEO175771_EastmanKodakUSNavy16mmCamera_34.jpg.1920x1920_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=TdVpfo5u8zPjFCUhnjnzvr9pHNc%3D&Expires=1627009222",
+            "image_file_l": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AEO175771_EastmanKodakUSNavy16mmCamera_34.jpg.3840x3840_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=4Hvo4AzHY81wawMmrCj0Qp%2BeDs8%3D&Expires=1627009222",
+            "caption": "AEO175771_EastmanKodakUSNavy16mmCamera_34",
+            "credit_line": "Photograph by Egmont Contreras, ACMI",
+            "alt_text": "",
+            "width": 4928,
+            "height": 3264,
+            "access_level": "View anywhere"
+        },
+        {
+            "id": 12444,
+            "image_file": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AEO175771_EastmanKodakUSNavy16mmCamera_34open.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=D4Au7c%2FK6Puxh%2FmNoQEDsE3Zg8o%3D&Expires=1627009222",
+            "image_file_thumbnail": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AEO175771_EastmanKodakUSNavy16mmCamera_34open.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=B67XdLMLO6UshBlKlKk2UgNKljc%3D&Expires=1627009222",
+            "image_file_xs": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AEO175771_EastmanKodakUSNavy16mmCamera_34open.jpg.480x480_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=%2BvEZCqWdfvB3tXaxHhqpqO53HAc%3D&Expires=1627009222",
+            "image_file_s": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AEO175771_EastmanKodakUSNavy16mmCamera_34open.jpg.960x960_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=K9bDzbU5Hh1XpLB6q02P6vC2je4%3D&Expires=1627009222",
+            "image_file_m": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AEO175771_EastmanKodakUSNavy16mmCamera_34open.jpg.1920x1920_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=H3egszJrsEf8KEco5Vevb8fc8GY%3D&Expires=1627009222",
+            "image_file_l": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AEO175771_EastmanKodakUSNavy16mmCamera_34open.jpg.3840x3840_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=9i%2B0A%2FmzD6QX81TedGqThibiZJw%3D&Expires=1627009222",
+            "caption": "AEO175771_EastmanKodakUSNavy16mmCamera_34open",
+            "credit_line": "Photograph by Egmont Contreras, ACMI",
+            "alt_text": "",
+            "width": 4469,
+            "height": 2912,
+            "access_level": "View anywhere"
+        },
+        {
+            "id": 13966,
+            "image_file": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AEO175771_EastmanKodakUSNavy16mmCamera_Right.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=0%2FKMhCyhbIMoqpMC9fWFa3ySjZY%3D&Expires=1627009222",
+            "image_file_thumbnail": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AEO175771_EastmanKodakUSNavy16mmCamera_Right.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=zbKawJRnrEBvqHpYfAq9SDbqK%2Bo%3D&Expires=1627009222",
+            "image_file_xs": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AEO175771_EastmanKodakUSNavy16mmCamera_Right.jpg.480x480_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=KGATCaQBK00K6uB6ING%2F3jJl%2BTM%3D&Expires=1627009222",
+            "image_file_s": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AEO175771_EastmanKodakUSNavy16mmCamera_Right.jpg.960x960_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=Wkziqq%2Fljx3jx4ZWB84gl2MusaU%3D&Expires=1627009222",
+            "image_file_m": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AEO175771_EastmanKodakUSNavy16mmCamera_Right.jpg.1920x1920_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=NMaT2yCGeT6hiNRtq77NCa1EaRA%3D&Expires=1627009222",
+            "image_file_l": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AEO175771_EastmanKodakUSNavy16mmCamera_Right.jpg.3840x3840_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=dEn0LDPSIqad1IDtXCyoo2HgEj0%3D&Expires=1627009222",
+            "caption": "AEO175771_EastmanKodakUSNavy16mmCamera_Right",
+            "credit_line": "Photograph by Egmont Contreras, ACMI",
+            "alt_text": "",
+            "width": 4784,
+            "height": 3169,
+            "access_level": "View anywhere"
+        },
+        {
+            "id": 14648,
+            "image_file": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AEO175771_EastmanKodakUSNavy16mmCamera_Left.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=49EDJf%2BwfLJJTcp8SCimIcNIf2Y%3D&Expires=1627009222",
+            "image_file_thumbnail": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AEO175771_EastmanKodakUSNavy16mmCamera_Left.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=44OtG4CgVBZ183rrQ9T%2Fb1nMxa4%3D&Expires=1627009222",
+            "image_file_xs": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AEO175771_EastmanKodakUSNavy16mmCamera_Left.jpg.480x480_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=%2BloK0eTWmK0KgUe0BPzp%2BTl9WAo%3D&Expires=1627009222",
+            "image_file_s": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AEO175771_EastmanKodakUSNavy16mmCamera_Left.jpg.960x960_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=O8%2FGOyGmUmxi8UZbhgq2sCg5Lrk%3D&Expires=1627009222",
+            "image_file_m": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AEO175771_EastmanKodakUSNavy16mmCamera_Left.jpg.1920x1920_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=p6rs%2FXkiE9GHbgZvXvz6oZpGRww%3D&Expires=1627009222",
+            "image_file_l": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AEO175771_EastmanKodakUSNavy16mmCamera_Left.jpg.3840x3840_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=ty9jLXZ0lEHW09AVNnNg6FAyzW8%3D&Expires=1627009222",
+            "caption": "AEO175771_EastmanKodakUSNavy16mmCamera_Left",
+            "credit_line": "Photograph by Egmont Contreras, ACMI",
+            "alt_text": "",
+            "width": 4928,
+            "height": 3264,
+            "access_level": "View anywhere"
+        },
+        {
+            "id": 14652,
+            "image_file": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AEO175771_EastmanKodakUSNavy16mmCamera_Front.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=b2XaMkFt5RYTWgYFwe1DKxO1AQA%3D&Expires=1627009222",
+            "image_file_thumbnail": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AEO175771_EastmanKodakUSNavy16mmCamera_Front.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=Px2KX0lU0RmrcllxrIIbDau%2Fk3w%3D&Expires=1627009222",
+            "image_file_xs": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AEO175771_EastmanKodakUSNavy16mmCamera_Front.jpg.480x480_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=cb01iwzTUw30qBzoChyPubq4%2BRo%3D&Expires=1627009222",
+            "image_file_s": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AEO175771_EastmanKodakUSNavy16mmCamera_Front.jpg.960x960_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=UcteoF0Mo0noCn1TZZrM0vk92Vk%3D&Expires=1627009222",
+            "image_file_m": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AEO175771_EastmanKodakUSNavy16mmCamera_Front.jpg.1920x1920_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=eCcxsCCzvTz7GzfV%2FqedcGdPPsE%3D&Expires=1627009222",
+            "image_file_l": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AEO175771_EastmanKodakUSNavy16mmCamera_Front.jpg.3840x3840_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=rG4bvMx3XdF9Fxwl8321uWMXdgA%3D&Expires=1627009222",
+            "caption": "AEO175771_EastmanKodakUSNavy16mmCamera_Front",
+            "credit_line": "Photograph by Egmont Contreras, ACMI",
+            "alt_text": "",
+            "width": 2545,
+            "height": 3219,
+            "access_level": "View anywhere"
+        },
+        {
+            "id": 14655,
+            "image_file": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AEO175771_EastmanKodakUSNavy16mmCamera_Back.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=Q5WaeSo9SSxVkjGhBVFlWsAAHQs%3D&Expires=1627009222",
+            "image_file_thumbnail": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AEO175771_EastmanKodakUSNavy16mmCamera_Back.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=JMjmw9cVPsCOONoysHpQdIh3QN4%3D&Expires=1627009222",
+            "image_file_xs": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AEO175771_EastmanKodakUSNavy16mmCamera_Back.jpg.480x480_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=TynNfdz1eJ%2BasxO9cQKEe%2BMTwyc%3D&Expires=1627009222",
+            "image_file_s": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AEO175771_EastmanKodakUSNavy16mmCamera_Back.jpg.960x960_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=z%2Bp90ZFOXVzLoRCG2v6FndfL05o%3D&Expires=1627009222",
+            "image_file_m": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AEO175771_EastmanKodakUSNavy16mmCamera_Back.jpg.1920x1920_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=8sgluI%2F91zX3ocFHJv3J1S2%2BNJc%3D&Expires=1627009222",
+            "image_file_l": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AEO175771_EastmanKodakUSNavy16mmCamera_Back.jpg.3840x3840_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=q%2FyuwETSN8xleLXDZO8n0WsYjr0%3D&Expires=1627009222",
+            "caption": "AEO175771_EastmanKodakUSNavy16mmCamera_Back",
+            "credit_line": "Photograph by Egmont Contreras, ACMI",
+            "alt_text": "",
+            "width": 2357,
+            "height": 3218,
+            "access_level": "View anywhere"
+        }
+    ],
+    "videos": [],
+    "holdings": [],
+    "part_of": null,
+    "parts": [],
+    "part_siblings": [],
+    "group": null,
+    "group_works": [],
+    "group_siblings": [],
+    "source": {
+        "name": "Vernon",
+        "slug": "vernon"
+    },
+    "source_identifier": "175771",
+    "production_places": [
+        {
+            "id": 2,
+            "name": "United States",
+            "slug": "united-states"
+        }
+    ],
+    "production_dates": [
+        {
+            "date": "c. 1940s",
+            "notes": "estimated",
+            "to_year": "c. 1940s"
+        }
+    ],
+    "labels": [
+        38928
+    ]
+}

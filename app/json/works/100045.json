@@ -1,0 +1,87 @@
+{
+    "id": 100045,
+    "acmi_id": "13271",
+    "title": "Arri 16mm double system film printer",
+    "title_annotation": "",
+    "slug": "arri-16mm-double-system-film-printer",
+    "creator_credit": "",
+    "credit_line": "",
+    "headline_credit": "",
+    "thumbnail": {
+        "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/B2000401_TVWorldCollection_E000068_001.JPG.1200x1200_q85.JPG?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=5xjci56hQlA23VsKPBSSkQ%2BccI8%3D&Expires=1627009315",
+        "has_video": false
+    },
+    "record_type": "work",
+    "type": "Object",
+    "is_on_display": false,
+    "last_on_display_place": null,
+    "last_on_display_date": null,
+    "is_context_indigenous": false,
+    "material_description": "",
+    "unpublished": false,
+    "first_production_date": null,
+    "brief_description": "<p>Arri 16mm double system film printer. Manufactured by Arnold &amp; Richter Munchen. Model E-III/BT/U.<br />\n1 of 3: Printer<br />\n2 of 3: 1 x 2000&#8217; magnetic coated film on core (in its original box)<br />\n3 of 3: Instruction manual</p>",
+    "constellations_primary": [],
+    "constellations_other": [],
+    "recommendations": [],
+    "title_for_label": "<p>Arri 16mm double system film printer</p>",
+    "creator_credit_for_label": "",
+    "headline_credit_for_label": "",
+    "description": "<p>Arri 16mm double system film printer. Manufactured by Arnold &amp; Richter Munchen. Model E-III/BT/U.<br />\n1 of 3: Printer<br />\n2 of 3: 1 x 2000&#8217; magnetic coated film on core (in its original box)<br />\n3 of 3: Instruction manual</p>",
+    "description_for_label": [
+        "<p>Arri 16mm double system film printer. Manufactured by Arnold &amp; Richter Munchen. Model E-III/BT/U.<br />\n1 of 3: Printer<br />\n2 of 3: 1 x 2000&#8217; magnetic coated film on core (in its original box)<br />\n3 of 3: Instruction manual</p>"
+    ],
+    "credit_line_for_label": "",
+    "details": [
+        {
+            "label": "Measurements",
+            "display_values": [
+                "147kg",
+                "204 x 90 x 60cm"
+            ]
+        }
+    ],
+    "stats": {
+        "tap_count": 0
+    },
+    "links": [],
+    "creators_primary": [],
+    "creators_other": [],
+    "video_links": [],
+    "media_note": null,
+    "images": [
+        {
+            "id": 14797,
+            "image_file": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/B2000401_TVWorldCollection_E000068_001.JPG?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=rb%2BtJ%2FwTKSqDxIjdqqCePG%2F9Bxg%3D&Expires=1627009315",
+            "image_file_thumbnail": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/B2000401_TVWorldCollection_E000068_001.JPG.1200x1200_q85.JPG?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=5xjci56hQlA23VsKPBSSkQ%2BccI8%3D&Expires=1627009315",
+            "image_file_xs": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/B2000401_TVWorldCollection_E000068_001.JPG.480x480_q85.JPG?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=RUA5wBqLT%2B%2Bc8Sz%2FJ9iVIIXZ25w%3D&Expires=1627009315",
+            "image_file_s": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/B2000401_TVWorldCollection_E000068_001.JPG.960x960_q85.JPG?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=Xq2aWWJZKJaFy6EYPYPkpsZq9IU%3D&Expires=1627009315",
+            "image_file_m": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/B2000401_TVWorldCollection_E000068_001.JPG.1920x1920_q85.JPG?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=f9BKHXxtdkJOuB4ou7BewGsI7rs%3D&Expires=1627009315",
+            "image_file_l": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/B2000401_TVWorldCollection_E000068_001.JPG.3840x3840_q85.JPG?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=%2F03lFAYr0TMopEX7LeVdA%2BLYQPE%3D&Expires=1627009315",
+            "caption": "E000068 - Image01",
+            "credit_line": "",
+            "alt_text": "",
+            "width": 1200,
+            "height": 1600,
+            "access_level": "View anywhere"
+        }
+    ],
+    "videos": [],
+    "holdings": [],
+    "part_of": null,
+    "parts": [],
+    "part_siblings": [],
+    "group": null,
+    "group_works": [],
+    "group_siblings": [],
+    "source": {
+        "name": "Vernon",
+        "slug": "vernon"
+    },
+    "source_identifier": "13271",
+    "production_places": [],
+    "production_dates": [],
+    "labels": [
+        39541
+    ]
+}

@@ -1,0 +1,269 @@
+{
+    "id": 118041,
+    "acmi_id": "183969",
+    "title": "Where the Desert Meets the Sea",
+    "title_annotation": "",
+    "slug": "where-the-desert-meets-the-sea",
+    "creator_credit": "Shelley Ware",
+    "credit_line": "<p>Cinematography by Brad Gibb <br />\nEdited by Ben Lane  <br />\nSpecial thanks to Wayne Miller</p>",
+    "headline_credit": "Australia, 2020",
+    "thumbnail": {
+        "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/Z000182_mi01_ShelleyWare.tif.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=%2B9ucNqp%2BdjUAzC%2Bi0SClK41LK0I%3D&Expires=1627009642",
+        "has_video": false
+    },
+    "record_type": "work",
+    "type": "Film",
+    "is_on_display": true,
+    "last_on_display_place": "ACMI: Gallery 1",
+    "last_on_display_date": "2031-02-16",
+    "is_context_indigenous": true,
+    "material_description": "HDMI 4k video projection, 16:9, colour, sound, 4:12 min",
+    "unpublished": false,
+    "first_production_date": "2020-01-01T11:00:00+11:00",
+    "brief_description": "<p>Shelley Ware&#8217;s film Where the Desert Meets the Sea (2020) tells the story of her family’s legacy that has led her to a career in AFL presenting.</p>",
+    "constellations_primary": [],
+    "constellations_other": [],
+    "recommendations": [],
+    "title_for_label": "<p>Where the Desert Meets the Sea</p>",
+    "creator_credit_for_label": "<p>2020</p>",
+    "headline_credit_for_label": "<p>Shelley Ware, Yankunytjatjara, Wirangu and Kokatha</p>",
+    "description": "<p>Shelley Ware is one of Australia’s most respected female sports presenters. She is a Yankunytjatjara, Wirangu and Kokatha woman, well known for her role on the SBS program <I>Marngrook Footy Show</i>. Currently, Ware hosts the AFL.com web show ‘Colour of Your Jumper.’ Ware is also an educator, and her film <I>Where the Desert Meets the Sea</i> tells the story of her family’s legacy that has led her to a career in AFL presenting. </p>\n<p>“This is a story of my Country and why the game of AFL and the Koonibba Football Club are so important to me. I share the stories of my people, as a teacher and sports presenter, so that our children, can be what they see.” – Shelley Ware</p>",
+    "description_for_label": [
+        "<p>Shelley Ware is one of Australia’s most respected female sports presenters. She is a Yankunytjatjara, Wirangu and Kokatha woman, well known for her role on the SBS program <I>Marngrook Footy Show</i>. Currently, Ware hosts the AFL.com web show ‘Colour of Your Jumper.’ Ware is also an educator, and her film <I>Where the Desert Meets the Sea</i> tells the story of her family’s legacy that has led her to a career in AFL presenting. </p>\n<p>“This is a story of my Country and why the game of AFL and the Koonibba Football Club are so important to me. I share the stories of my people, as a teacher and sports presenter, so that our children, can be what they see.” – Shelley Ware</p>"
+    ],
+    "credit_line_for_label": "<p>Cinematography by Brad Gibb. Edited by Ben Lane</p>\n<p>Thanks to Wayne Miller</p>",
+    "details": [
+        {
+            "label": "Duration",
+            "display_values": [
+                "00:04:12:00"
+            ]
+        },
+        {
+            "label": "Subject category",
+            "display_values": [
+                "Short films"
+            ]
+        },
+        {
+            "label": "Curatorial section",
+            "display_values": [
+                "The Story of the Moving Image&nbsp;→ Moving Australia&nbsp;→ 08. How We Tell Our Stories&nbsp;→ MA-08-AV01"
+            ]
+        },
+        {
+            "label": "Sound/audio",
+            "display_values": [
+                "Sound"
+            ]
+        },
+        {
+            "label": "Colour",
+            "display_values": [
+                "Colour"
+            ]
+        },
+        {
+            "label": "Materials",
+            "display_values": [
+                "HDMI 4k video projection, 16:9, colour, sound, 4:12 min"
+            ]
+        }
+    ],
+    "stats": {
+        "tap_count": 4129
+    },
+    "links": [],
+    "creators_primary": [
+        {
+            "id": 1134624,
+            "name": "Shelley Ware",
+            "creator_id": 84438,
+            "role": "creator",
+            "role_id": 968,
+            "is_primary": true
+        }
+    ],
+    "creators_other": [
+        {
+            "id": 1134631,
+            "name": "Charli Cox",
+            "creator_id": 85090,
+            "role": "cast",
+            "role_id": 33,
+            "is_primary": false
+        },
+        {
+            "id": 1134630,
+            "name": "Jo Cox",
+            "creator_id": 85089,
+            "role": "cast",
+            "role_id": 33,
+            "is_primary": false
+        },
+        {
+            "id": 1134629,
+            "name": "Jan Ware",
+            "creator_id": 85088,
+            "role": "script",
+            "role_id": 962,
+            "is_primary": false
+        },
+        {
+            "id": 1134628,
+            "name": "Shelley Ware",
+            "creator_id": 84438,
+            "role": "script",
+            "role_id": 962,
+            "is_primary": false
+        },
+        {
+            "id": 1134627,
+            "name": "Darryll Coleman",
+            "creator_id": 85087,
+            "role": "interviewee",
+            "role_id": 496,
+            "is_primary": false
+        },
+        {
+            "id": 1134626,
+            "name": "Ben Lane",
+            "creator_id": 85086,
+            "role": "editor",
+            "role_id": 918,
+            "is_primary": false
+        },
+        {
+            "id": 1134625,
+            "name": "Bradley Gibb",
+            "creator_id": 85028,
+            "role": "cinematographer",
+            "role_id": 32,
+            "is_primary": false
+        }
+    ],
+    "video_links": [],
+    "media_note": null,
+    "images": [
+        {
+            "id": 28123,
+            "image_file": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/Z000182_mi01_ShelleyWare.tif?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=xu3KSJJI8ieK%2Fhk%2BiBUG0yNlDG4%3D&Expires=1627009642",
+            "image_file_thumbnail": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/Z000182_mi01_ShelleyWare.tif.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=%2B9ucNqp%2BdjUAzC%2Bi0SClK41LK0I%3D&Expires=1627009642",
+            "image_file_xs": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/Z000182_mi01_ShelleyWare.tif.480x480_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=bLztTIGHGSGhVpO1NKpEEbl3byE%3D&Expires=1627009642",
+            "image_file_s": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/Z000182_mi01_ShelleyWare.tif.960x960_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=5bGPs9r7n9M9rESYMsN0PpZjUS0%3D&Expires=1627009642",
+            "image_file_m": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/Z000182_mi01_ShelleyWare.tif.1920x1920_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=hXw%2B5CBecGuLONCwVyy9vJv8Zq0%3D&Expires=1627009642",
+            "image_file_l": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/Z000182_mi01_ShelleyWare.tif.3840x3840_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=YJrZHcC70dnMUA8V6aa8ebt7Q4s%3D&Expires=1627009642",
+            "caption": "Where the Desert Meets the Sea (Shelley Ware) Digital Access Still",
+            "credit_line": "",
+            "alt_text": "",
+            "width": 3840,
+            "height": 2160,
+            "access_level": "View anywhere"
+        },
+        {
+            "id": 28124,
+            "image_file": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/Z000182_mi02_ShelleyWare.tif?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=FQqhfOXgtUWb3uU7bPsJKOLcJ90%3D&Expires=1627009642",
+            "image_file_thumbnail": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/Z000182_mi02_ShelleyWare.tif.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=r5coOkT5uZTxGrC1f67wP8K0BJw%3D&Expires=1627009642",
+            "image_file_xs": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/Z000182_mi02_ShelleyWare.tif.480x480_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=LdIsjtuHVt5InHSHp524NAjwDS0%3D&Expires=1627009642",
+            "image_file_s": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/Z000182_mi02_ShelleyWare.tif.960x960_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=PZrHoCtNFaxKp8zuaTs6N8wbGKA%3D&Expires=1627009642",
+            "image_file_m": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/Z000182_mi02_ShelleyWare.tif.1920x1920_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=xfRZCyuWjByyMGX82Wn88D7zfW8%3D&Expires=1627009642",
+            "image_file_l": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/Z000182_mi02_ShelleyWare.tif.3840x3840_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=b3SIuBnmPFuftzUb2vPt8xGVddw%3D&Expires=1627009642",
+            "caption": "Where the Desert Meets the Sea (Shelley Ware) Digital Access Still",
+            "credit_line": "",
+            "alt_text": "",
+            "width": 3840,
+            "height": 2160,
+            "access_level": "View anywhere"
+        },
+        {
+            "id": 28125,
+            "image_file": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/Z000182_mi03_ShelleyWare.tif?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=%2B9plHww36BtVNaXgjGIdvQZxln8%3D&Expires=1627009642",
+            "image_file_thumbnail": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/Z000182_mi03_ShelleyWare.tif.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=Q0pz8wBimtr5YOumyx1xp6qKo%2FQ%3D&Expires=1627009642",
+            "image_file_xs": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/Z000182_mi03_ShelleyWare.tif.480x480_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=tr2yy38A3wmumEbZez6bNSacptM%3D&Expires=1627009642",
+            "image_file_s": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/Z000182_mi03_ShelleyWare.tif.960x960_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=rzzADHgAeZpCbScBCER33zjY8mY%3D&Expires=1627009642",
+            "image_file_m": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/Z000182_mi03_ShelleyWare.tif.1920x1920_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=25fpQosTUrXlMNnQHQnq73eFQK0%3D&Expires=1627009642",
+            "image_file_l": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/Z000182_mi03_ShelleyWare.tif.3840x3840_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=jlJxr%2FBq4YEP41szGVe0N8RvsAg%3D&Expires=1627009642",
+            "caption": "Where the Desert Meets the Sea (Shelley Ware) Digital Access Still",
+            "credit_line": "",
+            "alt_text": "",
+            "width": 3840,
+            "height": 2160,
+            "access_level": "View anywhere"
+        },
+        {
+            "id": 28126,
+            "image_file": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/Z000182_mi04_ShelleyWare.tif?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=WDR8Xh746Mpyts7vu8cUWaMMs24%3D&Expires=1627009642",
+            "image_file_thumbnail": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/Z000182_mi04_ShelleyWare.tif.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=TIXI9%2FnFngLrJvgK4E%2ByjyNobQg%3D&Expires=1627009642",
+            "image_file_xs": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/Z000182_mi04_ShelleyWare.tif.480x480_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=yLdoO32kr7WPKUJSODCTKxPDhB0%3D&Expires=1627009642",
+            "image_file_s": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/Z000182_mi04_ShelleyWare.tif.960x960_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=4reGepQY7RqpBybzgDNaFWGuk60%3D&Expires=1627009642",
+            "image_file_m": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/Z000182_mi04_ShelleyWare.tif.1920x1920_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=N%2F2BRSkERKF1n16CohqGRrVgIxw%3D&Expires=1627009642",
+            "image_file_l": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/Z000182_mi04_ShelleyWare.tif.3840x3840_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=FEHx2KqVuXhzerSpZ8icRNrMcJg%3D&Expires=1627009642",
+            "caption": "Where the Desert Meets the Sea (Shelley Ware) Digital Access Still",
+            "credit_line": "",
+            "alt_text": "",
+            "width": 3840,
+            "height": 2160,
+            "access_level": "View anywhere"
+        },
+        {
+            "id": 28127,
+            "image_file": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/Z000182_mi05_ShelleyWare.tif?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=VBdmFkRJfF7bHrUJXysMQkCCdGI%3D&Expires=1627009642",
+            "image_file_thumbnail": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/Z000182_mi05_ShelleyWare.tif.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=KEFthDDyR17OqYV%2FxFd2oJ8%2BTNI%3D&Expires=1627009642",
+            "image_file_xs": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/Z000182_mi05_ShelleyWare.tif.480x480_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=Lt0G0DWihWKAnEnV8wRUXdATP08%3D&Expires=1627009642",
+            "image_file_s": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/Z000182_mi05_ShelleyWare.tif.960x960_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=ylhQ%2BaBG8T0dlOJtOxMEe6Os%2FwM%3D&Expires=1627009642",
+            "image_file_m": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/Z000182_mi05_ShelleyWare.tif.1920x1920_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=Zz9KHLkEdp5hEFdRwTWepjZoI4E%3D&Expires=1627009642",
+            "image_file_l": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/Z000182_mi05_ShelleyWare.tif.3840x3840_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=MuIRsSLQwifGahntpDYIGhlrSEo%3D&Expires=1627009642",
+            "caption": "Where the Desert Meets the Sea (Shelley Ware) Digital Access Still",
+            "credit_line": "",
+            "alt_text": "",
+            "width": 3840,
+            "height": 2160,
+            "access_level": "View anywhere"
+        },
+        {
+            "id": 28129,
+            "image_file": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/Z000182_mi06_ShelleyWare.tif?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=WBqBwUqEDlRpYUYAzR%2BDh2F054g%3D&Expires=1627009642",
+            "image_file_thumbnail": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/Z000182_mi06_ShelleyWare.tif.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=9RbHioHvGkyaLLG6z8e1xi10pg0%3D&Expires=1627009642",
+            "image_file_xs": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/Z000182_mi06_ShelleyWare.tif.480x480_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=w67wIPuANfb9uVwI0FBeekplWAs%3D&Expires=1627009642",
+            "image_file_s": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/Z000182_mi06_ShelleyWare.tif.960x960_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=eaqEFp8zrUBF1awFwEUQCET0lxQ%3D&Expires=1627009642",
+            "image_file_m": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/Z000182_mi06_ShelleyWare.tif.1920x1920_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=rqDxoH9rxXR2hvEw5Pxje9fJp0E%3D&Expires=1627009642",
+            "image_file_l": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/Z000182_mi06_ShelleyWare.tif.3840x3840_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=Ob9JLwSKq7qS21TX3wgrkT1P85I%3D&Expires=1627009642",
+            "caption": "Where the Desert Meets the Sea (Shelley Ware) Digital Access Still",
+            "credit_line": "",
+            "alt_text": "",
+            "width": 3840,
+            "height": 2160,
+            "access_level": "View anywhere"
+        }
+    ],
+    "videos": [],
+    "holdings": [],
+    "part_of": null,
+    "parts": [],
+    "part_siblings": [],
+    "group": null,
+    "group_works": [],
+    "group_siblings": [],
+    "source": {
+        "name": "Vernon",
+        "slug": "vernon"
+    },
+    "source_identifier": "183969",
+    "production_places": [
+        {
+            "id": 3,
+            "name": "Australia",
+            "slug": "australia"
+        }
+    ],
+    "production_dates": [
+        {
+            "date": "2020",
+            "notes": "",
+            "to_year": "2020"
+        }
+    ],
+    "labels": [
+        57543
+    ]
+}

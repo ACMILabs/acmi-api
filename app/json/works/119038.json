@@ -1,0 +1,86 @@
+{
+    "id": 119038,
+    "acmi_id": "150173",
+    "title": "[A Breath : publicity kit]",
+    "title_annotation": "",
+    "slug": "a-breath-publicity-kit",
+    "creator_credit": "",
+    "credit_line": "",
+    "headline_credit": "",
+    "thumbnail": {
+        "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/R0002108_wi01_Breath_001.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=RP16vfesv4yTyfhtqbHbAzJRTtU%3D&Expires=1627009589",
+        "has_video": false
+    },
+    "record_type": "work",
+    "type": "Object",
+    "is_on_display": false,
+    "last_on_display_place": null,
+    "last_on_display_date": null,
+    "is_context_indigenous": false,
+    "material_description": "",
+    "unpublished": false,
+    "first_production_date": null,
+    "brief_description": "<p>Publicity kit for the production A Breath (1998), including 1 35mm Colour Transparency</p>",
+    "constellations_primary": [],
+    "constellations_other": [],
+    "recommendations": [],
+    "title_for_label": "<p>[A Breath : publicity kit]</p>",
+    "creator_credit_for_label": "",
+    "headline_credit_for_label": "",
+    "description": "<p>Publicity kit for the production A Breath (1998), including 1 35mm Colour Transparency</p>",
+    "description_for_label": [
+        "<p>Publicity kit for the production A Breath (1998), including 1 35mm Colour Transparency</p>"
+    ],
+    "credit_line_for_label": "",
+    "details": [
+        {
+            "label": "Subject category",
+            "display_values": [
+                "Documentation"
+            ]
+        }
+    ],
+    "stats": {
+        "tap_count": 0
+    },
+    "links": [],
+    "creators_primary": [],
+    "creators_other": [],
+    "video_links": [],
+    "media_note": null,
+    "images": [
+        {
+            "id": 27033,
+            "image_file": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/R0002108_wi01_Breath_001.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=WpKPE0aUKZh9qwrCKGRgXy3BIW8%3D&Expires=1627009589",
+            "image_file_thumbnail": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/R0002108_wi01_Breath_001.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=RP16vfesv4yTyfhtqbHbAzJRTtU%3D&Expires=1627009589",
+            "image_file_xs": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/R0002108_wi01_Breath_001.jpg.480x480_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=LlKUnCuwHbluAB1H3N7xRHuMVBQ%3D&Expires=1627009589",
+            "image_file_s": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/R0002108_wi01_Breath_001.jpg.960x960_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=91p2gZAnE5bAyddBz94p9zvEUMY%3D&Expires=1627009589",
+            "image_file_m": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/R0002108_wi01_Breath_001.jpg.1920x1920_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=ib9iNhYaM%2Ba%2FnqXBzhY%2FyTEOR%2B8%3D&Expires=1627009589",
+            "image_file_l": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/R0002108_wi01_Breath_001.jpg.3840x3840_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=WA0kLF2%2FktLvoiUbjJLsaT4pcFU%3D&Expires=1627009589",
+            "caption": "[A Breath : publicity kit] (Cinema Papers) Web still",
+            "credit_line": "ACMI Collections: Cinema Papers Publicity Kit Collection",
+            "alt_text": "",
+            "width": 1426,
+            "height": 1890,
+            "access_level": "View anywhere"
+        }
+    ],
+    "videos": [],
+    "holdings": [],
+    "part_of": null,
+    "parts": [],
+    "part_siblings": [],
+    "group": null,
+    "group_works": [],
+    "group_siblings": [],
+    "source": {
+        "name": "Vernon",
+        "slug": "vernon"
+    },
+    "source_identifier": "150173",
+    "production_places": [],
+    "production_dates": [],
+    "labels": [
+        58514
+    ]
+}

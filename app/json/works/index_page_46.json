@@ -1,0 +1,3992 @@
+{
+    "count": 922,
+    "next": "https://api.acmi.net.au/works/?page=47",
+    "previous": "https://api.acmi.net.au/works/?page=45",
+    "results": [
+        {
+            "id": 110479,
+            "acmi_id": "14104",
+            "title": "Scribbles",
+            "title_annotation": "",
+            "slug": "scribbles",
+            "creator_credit": "ACMI and Richmond West Primary School",
+            "credit_line": "",
+            "headline_credit": "Melbourne/VIC/Australia, 2005",
+            "thumbnail": null,
+            "record_type": "work",
+            "type": "Film",
+            "is_on_display": false,
+            "last_on_display_place": null,
+            "last_on_display_date": null,
+            "is_context_indigenous": false,
+            "material_description": "",
+            "unpublished": false,
+            "first_production_date": "2005-01-01T11:00:00+11:00",
+            "brief_description": "<p>Using a digital drawing tablet and pencil, students create an individual hand drawn abstract animation influenced by the New Zealand artist Len Lye.</p>",
+            "constellations_primary": [],
+            "constellations_other": [],
+            "recommendations": [],
+            "title_for_label": "<p>Scribbles</p>",
+            "creator_credit_for_label": "<p>ACMI and Richmond West Primary School</p>",
+            "headline_credit_for_label": "<p>Melbourne/VIC/Australia, 2005</p>",
+            "description": "<p>Using a digital drawing tablet and pencil, students create an individual hand drawn abstract animation influenced by the New Zealand artist Len Lye.</p>",
+            "description_for_label": [
+                "<p>Using a digital drawing tablet and pencil, students create an individual hand drawn abstract animation influenced by the New Zealand artist Len Lye.</p>"
+            ],
+            "credit_line_for_label": "",
+            "details": [
+                {
+                    "label": "Duration",
+                    "display_values": [
+                        "00:03:38:00"
+                    ]
+                },
+                {
+                    "label": "Language",
+                    "display_values": [
+                        "No spoken word"
+                    ]
+                },
+                {
+                    "label": "Audience classification",
+                    "display_values": [
+                        "ACMI classified"
+                    ]
+                },
+                {
+                    "label": "Subject categories",
+                    "display_values": [
+                        "Amateur & Student Films",
+                        "Amateur & Student Films&nbsp;→ Student films - Australia",
+                        "Animation",
+                        "Animation&nbsp;→ Abstract animation"
+                    ]
+                },
+                {
+                    "label": "Sound/audio",
+                    "display_values": [
+                        "Sound"
+                    ]
+                },
+                {
+                    "label": "Colour",
+                    "display_values": [
+                        "Colour"
+                    ]
+                }
+            ],
+            "stats": {
+                "tap_count": 0
+            },
+            "links": [],
+            "creators_primary": [
+                {
+                    "id": 1134020,
+                    "name": "ACMI",
+                    "creator_id": 6272,
+                    "role": "production company",
+                    "role_id": 941,
+                    "is_primary": true
+                },
+                {
+                    "id": 1134019,
+                    "name": "Richmond West Primary School",
+                    "creator_id": 11335,
+                    "role": "creator",
+                    "role_id": 968,
+                    "is_primary": true
+                }
+            ],
+            "creators_other": [],
+            "video_links": [],
+            "media_note": "Sorry, we don't have images or video for this item.",
+            "images": [],
+            "videos": [],
+            "holdings": [
+                {
+                    "name": "MPEG-2 Digital File; Memory Grid Pod Full Encode",
+                    "identifier": "",
+                    "description": ""
+                },
+                {
+                    "name": "Mini DV; Master",
+                    "identifier": "",
+                    "description": ""
+                },
+                {
+                    "name": "Mini DV; Sub-master",
+                    "identifier": "",
+                    "description": ""
+                },
+                {
+                    "name": "VHS [PAL]; Reference - timecoded",
+                    "identifier": "",
+                    "description": ""
+                }
+            ],
+            "part_of": null,
+            "parts": [],
+            "part_siblings": [],
+            "group": {
+                "id": 110476,
+                "acmi_id": "15031",
+                "title": "Video and Animation Workshops 2006",
+                "title_annotation": "",
+                "slug": "video-and-animation-workshops-2006",
+                "creator_credit": "",
+                "credit_line": "",
+                "headline_credit": "Melbourne/VIC/Australia, 2006",
+                "thumbnail": null,
+                "record_type": "group",
+                "type": "Film",
+                "is_on_display": false,
+                "last_on_display_place": null,
+                "last_on_display_date": null,
+                "is_context_indigenous": false,
+                "material_description": "",
+                "unpublished": false,
+                "first_production_date": "2006-01-01T11:00:00+11:00"
+            },
+            "group_works": [],
+            "group_siblings": [
+                {
+                    "id": 110482,
+                    "acmi_id": "14110",
+                    "title": "Connecting",
+                    "title_annotation": "",
+                    "slug": "connecting",
+                    "creator_credit": "ACMI and Fintona Girls School",
+                    "credit_line": "",
+                    "headline_credit": "Melbourne/VIC/Australia, 2006",
+                    "thumbnail": null,
+                    "record_type": "work",
+                    "type": "Film",
+                    "is_on_display": false,
+                    "last_on_display_place": null,
+                    "last_on_display_date": null,
+                    "is_context_indigenous": false,
+                    "material_description": "",
+                    "unpublished": false,
+                    "first_production_date": "2006-01-01T11:00:00+11:00"
+                },
+                {
+                    "id": 110484,
+                    "acmi_id": "14114",
+                    "title": "Mozzie bytes",
+                    "title_annotation": "",
+                    "slug": "mozzie-bytes",
+                    "creator_credit": "ACMI and Glen Waverley Secondary College",
+                    "credit_line": "",
+                    "headline_credit": "Melbourne/VIC/Australia, 2006",
+                    "thumbnail": null,
+                    "record_type": "work",
+                    "type": "Film",
+                    "is_on_display": false,
+                    "last_on_display_place": null,
+                    "last_on_display_date": null,
+                    "is_context_indigenous": false,
+                    "material_description": "",
+                    "unpublished": false,
+                    "first_production_date": "2006-01-01T11:00:00+11:00"
+                },
+                {
+                    "id": 110485,
+                    "acmi_id": "14116",
+                    "title": "Of me: digital poetry. No. 1",
+                    "title_annotation": "",
+                    "slug": "of-me-digital-poetry-no-1",
+                    "creator_credit": "ACMI and Anonymous",
+                    "credit_line": "",
+                    "headline_credit": "Melbourne/VIC/Australia, 2006",
+                    "thumbnail": null,
+                    "record_type": "work",
+                    "type": "Film",
+                    "is_on_display": false,
+                    "last_on_display_place": null,
+                    "last_on_display_date": null,
+                    "is_context_indigenous": false,
+                    "material_description": "",
+                    "unpublished": false,
+                    "first_production_date": "2006-01-01T11:00:00+11:00"
+                },
+                {
+                    "id": 110486,
+                    "acmi_id": "14118",
+                    "title": "Of me: digital poetry. No. 2",
+                    "title_annotation": "",
+                    "slug": "of-me-digital-poetry-no-2",
+                    "creator_credit": "ACMI and Anonymous",
+                    "credit_line": "",
+                    "headline_credit": "Melbourne/VIC/Australia, 2006",
+                    "thumbnail": null,
+                    "record_type": "work",
+                    "type": "Film",
+                    "is_on_display": false,
+                    "last_on_display_place": null,
+                    "last_on_display_date": null,
+                    "is_context_indigenous": false,
+                    "material_description": "",
+                    "unpublished": false,
+                    "first_production_date": "2006-01-01T11:00:00+11:00"
+                },
+                {
+                    "id": 110481,
+                    "acmi_id": "14108",
+                    "title": "Punk dogs R kool!",
+                    "title_annotation": "",
+                    "slug": "punk-dogs-r-kool",
+                    "creator_credit": "ACMI",
+                    "credit_line": "",
+                    "headline_credit": "Melbourne/VIC/Australia, 2006",
+                    "thumbnail": null,
+                    "record_type": "work",
+                    "type": "Film",
+                    "is_on_display": false,
+                    "last_on_display_place": null,
+                    "last_on_display_date": null,
+                    "is_context_indigenous": false,
+                    "material_description": "",
+                    "unpublished": false,
+                    "first_production_date": "2006-01-01T11:00:00+11:00"
+                },
+                {
+                    "id": 110480,
+                    "acmi_id": "14106",
+                    "title": "Rainbow connection",
+                    "title_annotation": "",
+                    "slug": "rainbow-connection",
+                    "creator_credit": "ACMI and Scotch College",
+                    "credit_line": "",
+                    "headline_credit": "Melbourne/VIC/Australia, 2006",
+                    "thumbnail": null,
+                    "record_type": "work",
+                    "type": "Film",
+                    "is_on_display": false,
+                    "last_on_display_place": null,
+                    "last_on_display_date": null,
+                    "is_context_indigenous": false,
+                    "material_description": "",
+                    "unpublished": false,
+                    "first_production_date": "2006-01-01T11:00:00+11:00"
+                },
+                {
+                    "id": 110483,
+                    "acmi_id": "14112",
+                    "title": "Scratch that film!",
+                    "title_annotation": "",
+                    "slug": "scratch-that-film",
+                    "creator_credit": "ACMI and Albanvale Primary School",
+                    "credit_line": "",
+                    "headline_credit": "Melbourne/VIC/Australia, 2005",
+                    "thumbnail": null,
+                    "record_type": "work",
+                    "type": "Film",
+                    "is_on_display": false,
+                    "last_on_display_place": null,
+                    "last_on_display_date": null,
+                    "is_context_indigenous": false,
+                    "material_description": "",
+                    "unpublished": false,
+                    "first_production_date": "2005-01-01T11:00:00+11:00"
+                },
+                {
+                    "id": 110478,
+                    "acmi_id": "14102",
+                    "title": "Sqiggle swatches",
+                    "title_annotation": "",
+                    "slug": "sqiggle-swatches",
+                    "creator_credit": "ACMI and Fintona Girls School",
+                    "credit_line": "",
+                    "headline_credit": "Melbourne/VIC/Australia, 2006",
+                    "thumbnail": null,
+                    "record_type": "work",
+                    "type": "Film",
+                    "is_on_display": false,
+                    "last_on_display_place": null,
+                    "last_on_display_date": null,
+                    "is_context_indigenous": false,
+                    "material_description": "",
+                    "unpublished": false,
+                    "first_production_date": "2006-01-01T11:00:00+11:00"
+                },
+                {
+                    "id": 110475,
+                    "acmi_id": "14093",
+                    "title": "Super Penguin",
+                    "title_annotation": "",
+                    "slug": "super-penguin",
+                    "creator_credit": "ACMI",
+                    "credit_line": "",
+                    "headline_credit": "Melbourne/VIC/Australia, 2006",
+                    "thumbnail": null,
+                    "record_type": "work",
+                    "type": "Film",
+                    "is_on_display": false,
+                    "last_on_display_place": null,
+                    "last_on_display_date": null,
+                    "is_context_indigenous": false,
+                    "material_description": "",
+                    "unpublished": false,
+                    "first_production_date": "2006-01-01T11:00:00+11:00"
+                }
+            ],
+            "source": {
+                "name": "Vernon",
+                "slug": "vernon"
+            },
+            "source_identifier": "14104",
+            "production_places": [
+                {
+                    "id": 67,
+                    "name": "Melbourne/VIC/Australia",
+                    "slug": "melbournevicaustralia"
+                }
+            ],
+            "production_dates": [
+                {
+                    "date": "2005",
+                    "notes": "",
+                    "to_year": "2005"
+                }
+            ],
+            "labels": [
+                49972
+            ]
+        },
+        {
+            "id": 110483,
+            "acmi_id": "14112",
+            "title": "Scratch that film!",
+            "title_annotation": "",
+            "slug": "scratch-that-film",
+            "creator_credit": "ACMI and Albanvale Primary School",
+            "credit_line": "",
+            "headline_credit": "Melbourne/VIC/Australia, 2005",
+            "thumbnail": null,
+            "record_type": "work",
+            "type": "Film",
+            "is_on_display": false,
+            "last_on_display_place": null,
+            "last_on_display_date": null,
+            "is_context_indigenous": false,
+            "material_description": "",
+            "unpublished": false,
+            "first_production_date": "2005-01-01T11:00:00+11:00",
+            "brief_description": "<p>Using a digital drawing tablet and pencil, students create an individual hand drawn abstract animation influenced by the New Zealand artist Len Lye.</p>",
+            "constellations_primary": [],
+            "constellations_other": [],
+            "recommendations": [],
+            "title_for_label": "<p>Scratch that film!</p>",
+            "creator_credit_for_label": "<p>ACMI and Albanvale Primary School</p>",
+            "headline_credit_for_label": "<p>Melbourne/VIC/Australia, 2005</p>",
+            "description": "<p>Using a digital drawing tablet and pencil, students create an individual hand drawn abstract animation influenced by the New Zealand artist Len Lye.</p>",
+            "description_for_label": [
+                "<p>Using a digital drawing tablet and pencil, students create an individual hand drawn abstract animation influenced by the New Zealand artist Len Lye.</p>"
+            ],
+            "credit_line_for_label": "",
+            "details": [
+                {
+                    "label": "Duration",
+                    "display_values": [
+                        "00:01:53:00"
+                    ]
+                },
+                {
+                    "label": "Language",
+                    "display_values": [
+                        "No spoken word"
+                    ]
+                },
+                {
+                    "label": "Audience classification",
+                    "display_values": [
+                        "ACMI classified"
+                    ]
+                },
+                {
+                    "label": "Subject categories",
+                    "display_values": [
+                        "Amateur & Student Films",
+                        "Amateur & Student Films&nbsp;→ Student films - Australia",
+                        "Animation",
+                        "Animation&nbsp;→ Abstract animation"
+                    ]
+                },
+                {
+                    "label": "Sound/audio",
+                    "display_values": [
+                        "Sound"
+                    ]
+                },
+                {
+                    "label": "Colour",
+                    "display_values": [
+                        "Colour"
+                    ]
+                }
+            ],
+            "stats": {
+                "tap_count": 0
+            },
+            "links": [],
+            "creators_primary": [
+                {
+                    "id": 1134018,
+                    "name": "ACMI",
+                    "creator_id": 6272,
+                    "role": "production company",
+                    "role_id": 941,
+                    "is_primary": true
+                },
+                {
+                    "id": 1134017,
+                    "name": "Albanvale Primary School",
+                    "creator_id": 11336,
+                    "role": "creator",
+                    "role_id": 968,
+                    "is_primary": true
+                }
+            ],
+            "creators_other": [],
+            "video_links": [],
+            "media_note": "Sorry, we don't have images or video for this item.",
+            "images": [],
+            "videos": [],
+            "holdings": [
+                {
+                    "name": "MPEG-2 Digital File; Memory Grid Pod Full Encode",
+                    "identifier": "",
+                    "description": ""
+                },
+                {
+                    "name": "Mini DV; Master",
+                    "identifier": "",
+                    "description": ""
+                },
+                {
+                    "name": "Mini DV; Sub-master",
+                    "identifier": "",
+                    "description": ""
+                },
+                {
+                    "name": "VHS [PAL]; Reference - timecoded",
+                    "identifier": "",
+                    "description": ""
+                }
+            ],
+            "part_of": null,
+            "parts": [],
+            "part_siblings": [],
+            "group": {
+                "id": 110476,
+                "acmi_id": "15031",
+                "title": "Video and Animation Workshops 2006",
+                "title_annotation": "",
+                "slug": "video-and-animation-workshops-2006",
+                "creator_credit": "",
+                "credit_line": "",
+                "headline_credit": "Melbourne/VIC/Australia, 2006",
+                "thumbnail": null,
+                "record_type": "group",
+                "type": "Film",
+                "is_on_display": false,
+                "last_on_display_place": null,
+                "last_on_display_date": null,
+                "is_context_indigenous": false,
+                "material_description": "",
+                "unpublished": false,
+                "first_production_date": "2006-01-01T11:00:00+11:00"
+            },
+            "group_works": [],
+            "group_siblings": [
+                {
+                    "id": 110482,
+                    "acmi_id": "14110",
+                    "title": "Connecting",
+                    "title_annotation": "",
+                    "slug": "connecting",
+                    "creator_credit": "ACMI and Fintona Girls School",
+                    "credit_line": "",
+                    "headline_credit": "Melbourne/VIC/Australia, 2006",
+                    "thumbnail": null,
+                    "record_type": "work",
+                    "type": "Film",
+                    "is_on_display": false,
+                    "last_on_display_place": null,
+                    "last_on_display_date": null,
+                    "is_context_indigenous": false,
+                    "material_description": "",
+                    "unpublished": false,
+                    "first_production_date": "2006-01-01T11:00:00+11:00"
+                },
+                {
+                    "id": 110484,
+                    "acmi_id": "14114",
+                    "title": "Mozzie bytes",
+                    "title_annotation": "",
+                    "slug": "mozzie-bytes",
+                    "creator_credit": "ACMI and Glen Waverley Secondary College",
+                    "credit_line": "",
+                    "headline_credit": "Melbourne/VIC/Australia, 2006",
+                    "thumbnail": null,
+                    "record_type": "work",
+                    "type": "Film",
+                    "is_on_display": false,
+                    "last_on_display_place": null,
+                    "last_on_display_date": null,
+                    "is_context_indigenous": false,
+                    "material_description": "",
+                    "unpublished": false,
+                    "first_production_date": "2006-01-01T11:00:00+11:00"
+                },
+                {
+                    "id": 110485,
+                    "acmi_id": "14116",
+                    "title": "Of me: digital poetry. No. 1",
+                    "title_annotation": "",
+                    "slug": "of-me-digital-poetry-no-1",
+                    "creator_credit": "ACMI and Anonymous",
+                    "credit_line": "",
+                    "headline_credit": "Melbourne/VIC/Australia, 2006",
+                    "thumbnail": null,
+                    "record_type": "work",
+                    "type": "Film",
+                    "is_on_display": false,
+                    "last_on_display_place": null,
+                    "last_on_display_date": null,
+                    "is_context_indigenous": false,
+                    "material_description": "",
+                    "unpublished": false,
+                    "first_production_date": "2006-01-01T11:00:00+11:00"
+                },
+                {
+                    "id": 110486,
+                    "acmi_id": "14118",
+                    "title": "Of me: digital poetry. No. 2",
+                    "title_annotation": "",
+                    "slug": "of-me-digital-poetry-no-2",
+                    "creator_credit": "ACMI and Anonymous",
+                    "credit_line": "",
+                    "headline_credit": "Melbourne/VIC/Australia, 2006",
+                    "thumbnail": null,
+                    "record_type": "work",
+                    "type": "Film",
+                    "is_on_display": false,
+                    "last_on_display_place": null,
+                    "last_on_display_date": null,
+                    "is_context_indigenous": false,
+                    "material_description": "",
+                    "unpublished": false,
+                    "first_production_date": "2006-01-01T11:00:00+11:00"
+                },
+                {
+                    "id": 110481,
+                    "acmi_id": "14108",
+                    "title": "Punk dogs R kool!",
+                    "title_annotation": "",
+                    "slug": "punk-dogs-r-kool",
+                    "creator_credit": "ACMI",
+                    "credit_line": "",
+                    "headline_credit": "Melbourne/VIC/Australia, 2006",
+                    "thumbnail": null,
+                    "record_type": "work",
+                    "type": "Film",
+                    "is_on_display": false,
+                    "last_on_display_place": null,
+                    "last_on_display_date": null,
+                    "is_context_indigenous": false,
+                    "material_description": "",
+                    "unpublished": false,
+                    "first_production_date": "2006-01-01T11:00:00+11:00"
+                },
+                {
+                    "id": 110480,
+                    "acmi_id": "14106",
+                    "title": "Rainbow connection",
+                    "title_annotation": "",
+                    "slug": "rainbow-connection",
+                    "creator_credit": "ACMI and Scotch College",
+                    "credit_line": "",
+                    "headline_credit": "Melbourne/VIC/Australia, 2006",
+                    "thumbnail": null,
+                    "record_type": "work",
+                    "type": "Film",
+                    "is_on_display": false,
+                    "last_on_display_place": null,
+                    "last_on_display_date": null,
+                    "is_context_indigenous": false,
+                    "material_description": "",
+                    "unpublished": false,
+                    "first_production_date": "2006-01-01T11:00:00+11:00"
+                },
+                {
+                    "id": 110479,
+                    "acmi_id": "14104",
+                    "title": "Scribbles",
+                    "title_annotation": "",
+                    "slug": "scribbles",
+                    "creator_credit": "ACMI and Richmond West Primary School",
+                    "credit_line": "",
+                    "headline_credit": "Melbourne/VIC/Australia, 2005",
+                    "thumbnail": null,
+                    "record_type": "work",
+                    "type": "Film",
+                    "is_on_display": false,
+                    "last_on_display_place": null,
+                    "last_on_display_date": null,
+                    "is_context_indigenous": false,
+                    "material_description": "",
+                    "unpublished": false,
+                    "first_production_date": "2005-01-01T11:00:00+11:00"
+                },
+                {
+                    "id": 110478,
+                    "acmi_id": "14102",
+                    "title": "Sqiggle swatches",
+                    "title_annotation": "",
+                    "slug": "sqiggle-swatches",
+                    "creator_credit": "ACMI and Fintona Girls School",
+                    "credit_line": "",
+                    "headline_credit": "Melbourne/VIC/Australia, 2006",
+                    "thumbnail": null,
+                    "record_type": "work",
+                    "type": "Film",
+                    "is_on_display": false,
+                    "last_on_display_place": null,
+                    "last_on_display_date": null,
+                    "is_context_indigenous": false,
+                    "material_description": "",
+                    "unpublished": false,
+                    "first_production_date": "2006-01-01T11:00:00+11:00"
+                },
+                {
+                    "id": 110475,
+                    "acmi_id": "14093",
+                    "title": "Super Penguin",
+                    "title_annotation": "",
+                    "slug": "super-penguin",
+                    "creator_credit": "ACMI",
+                    "credit_line": "",
+                    "headline_credit": "Melbourne/VIC/Australia, 2006",
+                    "thumbnail": null,
+                    "record_type": "work",
+                    "type": "Film",
+                    "is_on_display": false,
+                    "last_on_display_place": null,
+                    "last_on_display_date": null,
+                    "is_context_indigenous": false,
+                    "material_description": "",
+                    "unpublished": false,
+                    "first_production_date": "2006-01-01T11:00:00+11:00"
+                }
+            ],
+            "source": {
+                "name": "Vernon",
+                "slug": "vernon"
+            },
+            "source_identifier": "14112",
+            "production_places": [
+                {
+                    "id": 67,
+                    "name": "Melbourne/VIC/Australia",
+                    "slug": "melbournevicaustralia"
+                }
+            ],
+            "production_dates": [
+                {
+                    "date": "2005",
+                    "notes": "",
+                    "to_year": "2005"
+                }
+            ],
+            "labels": [
+                49976
+            ]
+        },
+        {
+            "id": 110480,
+            "acmi_id": "14106",
+            "title": "Rainbow connection",
+            "title_annotation": "",
+            "slug": "rainbow-connection",
+            "creator_credit": "ACMI and Scotch College",
+            "credit_line": "",
+            "headline_credit": "Melbourne/VIC/Australia, 2006",
+            "thumbnail": null,
+            "record_type": "work",
+            "type": "Film",
+            "is_on_display": false,
+            "last_on_display_place": null,
+            "last_on_display_date": null,
+            "is_context_indigenous": false,
+            "material_description": "",
+            "unpublished": false,
+            "first_production_date": "2006-01-01T11:00:00+11:00",
+            "brief_description": "<p>Using a digital drawing tablet and pencil, students create an individual hand drawn abstract animation influenced by the New Zealand artist Len Lye.</p>",
+            "constellations_primary": [],
+            "constellations_other": [],
+            "recommendations": [],
+            "title_for_label": "<p>Rainbow connection</p>",
+            "creator_credit_for_label": "<p>ACMI and Scotch College</p>",
+            "headline_credit_for_label": "<p>Melbourne/VIC/Australia, 2006</p>",
+            "description": "<p>Using a digital drawing tablet and pencil, students create an individual hand drawn abstract animation influenced by the New Zealand artist Len Lye.</p>",
+            "description_for_label": [
+                "<p>Using a digital drawing tablet and pencil, students create an individual hand drawn abstract animation influenced by the New Zealand artist Len Lye.</p>"
+            ],
+            "credit_line_for_label": "",
+            "details": [
+                {
+                    "label": "Duration",
+                    "display_values": [
+                        "00:01:45:00"
+                    ]
+                },
+                {
+                    "label": "Language",
+                    "display_values": [
+                        "No spoken word"
+                    ]
+                },
+                {
+                    "label": "Audience classification",
+                    "display_values": [
+                        "ACMI classified"
+                    ]
+                },
+                {
+                    "label": "Subject categories",
+                    "display_values": [
+                        "Amateur & Student Films",
+                        "Amateur & Student Films&nbsp;→ Student films - Australia",
+                        "Animation",
+                        "Animation&nbsp;→ Abstract animation"
+                    ]
+                },
+                {
+                    "label": "Sound/audio",
+                    "display_values": [
+                        "Sound"
+                    ]
+                },
+                {
+                    "label": "Colour",
+                    "display_values": [
+                        "Colour"
+                    ]
+                }
+            ],
+            "stats": {
+                "tap_count": 0
+            },
+            "links": [],
+            "creators_primary": [
+                {
+                    "id": 1134016,
+                    "name": "ACMI",
+                    "creator_id": 6272,
+                    "role": "production company",
+                    "role_id": 941,
+                    "is_primary": true
+                },
+                {
+                    "id": 1134015,
+                    "name": "Scotch College",
+                    "creator_id": 11312,
+                    "role": "creator",
+                    "role_id": 968,
+                    "is_primary": true
+                }
+            ],
+            "creators_other": [],
+            "video_links": [],
+            "media_note": "Sorry, we don't have images or video for this item.",
+            "images": [],
+            "videos": [],
+            "holdings": [
+                {
+                    "name": "MPEG-2 Digital File; Memory Grid Pod Full Encode",
+                    "identifier": "",
+                    "description": ""
+                },
+                {
+                    "name": "Mini DV; Master",
+                    "identifier": "",
+                    "description": ""
+                },
+                {
+                    "name": "Mini DV; Sub-master",
+                    "identifier": "",
+                    "description": ""
+                },
+                {
+                    "name": "VHS [PAL]; Reference - timecoded",
+                    "identifier": "",
+                    "description": ""
+                }
+            ],
+            "part_of": null,
+            "parts": [],
+            "part_siblings": [],
+            "group": {
+                "id": 110476,
+                "acmi_id": "15031",
+                "title": "Video and Animation Workshops 2006",
+                "title_annotation": "",
+                "slug": "video-and-animation-workshops-2006",
+                "creator_credit": "",
+                "credit_line": "",
+                "headline_credit": "Melbourne/VIC/Australia, 2006",
+                "thumbnail": null,
+                "record_type": "group",
+                "type": "Film",
+                "is_on_display": false,
+                "last_on_display_place": null,
+                "last_on_display_date": null,
+                "is_context_indigenous": false,
+                "material_description": "",
+                "unpublished": false,
+                "first_production_date": "2006-01-01T11:00:00+11:00"
+            },
+            "group_works": [],
+            "group_siblings": [
+                {
+                    "id": 110482,
+                    "acmi_id": "14110",
+                    "title": "Connecting",
+                    "title_annotation": "",
+                    "slug": "connecting",
+                    "creator_credit": "ACMI and Fintona Girls School",
+                    "credit_line": "",
+                    "headline_credit": "Melbourne/VIC/Australia, 2006",
+                    "thumbnail": null,
+                    "record_type": "work",
+                    "type": "Film",
+                    "is_on_display": false,
+                    "last_on_display_place": null,
+                    "last_on_display_date": null,
+                    "is_context_indigenous": false,
+                    "material_description": "",
+                    "unpublished": false,
+                    "first_production_date": "2006-01-01T11:00:00+11:00"
+                },
+                {
+                    "id": 110484,
+                    "acmi_id": "14114",
+                    "title": "Mozzie bytes",
+                    "title_annotation": "",
+                    "slug": "mozzie-bytes",
+                    "creator_credit": "ACMI and Glen Waverley Secondary College",
+                    "credit_line": "",
+                    "headline_credit": "Melbourne/VIC/Australia, 2006",
+                    "thumbnail": null,
+                    "record_type": "work",
+                    "type": "Film",
+                    "is_on_display": false,
+                    "last_on_display_place": null,
+                    "last_on_display_date": null,
+                    "is_context_indigenous": false,
+                    "material_description": "",
+                    "unpublished": false,
+                    "first_production_date": "2006-01-01T11:00:00+11:00"
+                },
+                {
+                    "id": 110485,
+                    "acmi_id": "14116",
+                    "title": "Of me: digital poetry. No. 1",
+                    "title_annotation": "",
+                    "slug": "of-me-digital-poetry-no-1",
+                    "creator_credit": "ACMI and Anonymous",
+                    "credit_line": "",
+                    "headline_credit": "Melbourne/VIC/Australia, 2006",
+                    "thumbnail": null,
+                    "record_type": "work",
+                    "type": "Film",
+                    "is_on_display": false,
+                    "last_on_display_place": null,
+                    "last_on_display_date": null,
+                    "is_context_indigenous": false,
+                    "material_description": "",
+                    "unpublished": false,
+                    "first_production_date": "2006-01-01T11:00:00+11:00"
+                },
+                {
+                    "id": 110486,
+                    "acmi_id": "14118",
+                    "title": "Of me: digital poetry. No. 2",
+                    "title_annotation": "",
+                    "slug": "of-me-digital-poetry-no-2",
+                    "creator_credit": "ACMI and Anonymous",
+                    "credit_line": "",
+                    "headline_credit": "Melbourne/VIC/Australia, 2006",
+                    "thumbnail": null,
+                    "record_type": "work",
+                    "type": "Film",
+                    "is_on_display": false,
+                    "last_on_display_place": null,
+                    "last_on_display_date": null,
+                    "is_context_indigenous": false,
+                    "material_description": "",
+                    "unpublished": false,
+                    "first_production_date": "2006-01-01T11:00:00+11:00"
+                },
+                {
+                    "id": 110481,
+                    "acmi_id": "14108",
+                    "title": "Punk dogs R kool!",
+                    "title_annotation": "",
+                    "slug": "punk-dogs-r-kool",
+                    "creator_credit": "ACMI",
+                    "credit_line": "",
+                    "headline_credit": "Melbourne/VIC/Australia, 2006",
+                    "thumbnail": null,
+                    "record_type": "work",
+                    "type": "Film",
+                    "is_on_display": false,
+                    "last_on_display_place": null,
+                    "last_on_display_date": null,
+                    "is_context_indigenous": false,
+                    "material_description": "",
+                    "unpublished": false,
+                    "first_production_date": "2006-01-01T11:00:00+11:00"
+                },
+                {
+                    "id": 110483,
+                    "acmi_id": "14112",
+                    "title": "Scratch that film!",
+                    "title_annotation": "",
+                    "slug": "scratch-that-film",
+                    "creator_credit": "ACMI and Albanvale Primary School",
+                    "credit_line": "",
+                    "headline_credit": "Melbourne/VIC/Australia, 2005",
+                    "thumbnail": null,
+                    "record_type": "work",
+                    "type": "Film",
+                    "is_on_display": false,
+                    "last_on_display_place": null,
+                    "last_on_display_date": null,
+                    "is_context_indigenous": false,
+                    "material_description": "",
+                    "unpublished": false,
+                    "first_production_date": "2005-01-01T11:00:00+11:00"
+                },
+                {
+                    "id": 110479,
+                    "acmi_id": "14104",
+                    "title": "Scribbles",
+                    "title_annotation": "",
+                    "slug": "scribbles",
+                    "creator_credit": "ACMI and Richmond West Primary School",
+                    "credit_line": "",
+                    "headline_credit": "Melbourne/VIC/Australia, 2005",
+                    "thumbnail": null,
+                    "record_type": "work",
+                    "type": "Film",
+                    "is_on_display": false,
+                    "last_on_display_place": null,
+                    "last_on_display_date": null,
+                    "is_context_indigenous": false,
+                    "material_description": "",
+                    "unpublished": false,
+                    "first_production_date": "2005-01-01T11:00:00+11:00"
+                },
+                {
+                    "id": 110478,
+                    "acmi_id": "14102",
+                    "title": "Sqiggle swatches",
+                    "title_annotation": "",
+                    "slug": "sqiggle-swatches",
+                    "creator_credit": "ACMI and Fintona Girls School",
+                    "credit_line": "",
+                    "headline_credit": "Melbourne/VIC/Australia, 2006",
+                    "thumbnail": null,
+                    "record_type": "work",
+                    "type": "Film",
+                    "is_on_display": false,
+                    "last_on_display_place": null,
+                    "last_on_display_date": null,
+                    "is_context_indigenous": false,
+                    "material_description": "",
+                    "unpublished": false,
+                    "first_production_date": "2006-01-01T11:00:00+11:00"
+                },
+                {
+                    "id": 110475,
+                    "acmi_id": "14093",
+                    "title": "Super Penguin",
+                    "title_annotation": "",
+                    "slug": "super-penguin",
+                    "creator_credit": "ACMI",
+                    "credit_line": "",
+                    "headline_credit": "Melbourne/VIC/Australia, 2006",
+                    "thumbnail": null,
+                    "record_type": "work",
+                    "type": "Film",
+                    "is_on_display": false,
+                    "last_on_display_place": null,
+                    "last_on_display_date": null,
+                    "is_context_indigenous": false,
+                    "material_description": "",
+                    "unpublished": false,
+                    "first_production_date": "2006-01-01T11:00:00+11:00"
+                }
+            ],
+            "source": {
+                "name": "Vernon",
+                "slug": "vernon"
+            },
+            "source_identifier": "14106",
+            "production_places": [
+                {
+                    "id": 67,
+                    "name": "Melbourne/VIC/Australia",
+                    "slug": "melbournevicaustralia"
+                }
+            ],
+            "production_dates": [
+                {
+                    "date": "2006",
+                    "notes": "",
+                    "to_year": "2006"
+                }
+            ],
+            "labels": [
+                49973
+            ]
+        },
+        {
+            "id": 110481,
+            "acmi_id": "14108",
+            "title": "Punk dogs R kool!",
+            "title_annotation": "",
+            "slug": "punk-dogs-r-kool",
+            "creator_credit": "ACMI",
+            "credit_line": "",
+            "headline_credit": "Melbourne/VIC/Australia, 2006",
+            "thumbnail": null,
+            "record_type": "work",
+            "type": "Film",
+            "is_on_display": false,
+            "last_on_display_place": null,
+            "last_on_display_date": null,
+            "is_context_indigenous": false,
+            "material_description": "",
+            "unpublished": false,
+            "first_production_date": "2006-01-01T11:00:00+11:00",
+            "brief_description": "<p>A short film made in a one day ACMI Claymation workshop where students are taught the basics of stop motion animation using modelling clay, a digital video camera and editing software. They also create an original soundtrack for their film</p>",
+            "constellations_primary": [],
+            "constellations_other": [],
+            "recommendations": [],
+            "title_for_label": "<p>Punk dogs R kool!</p>",
+            "creator_credit_for_label": "<p>ACMI</p>",
+            "headline_credit_for_label": "<p>Melbourne/VIC/Australia, 2006</p>",
+            "description": "<p>A short film made in a one day ACMI Claymation workshop where students are taught the basics of stop motion animation using modelling clay, a digital video camera and editing software. They also create an original soundtrack for their film</p>",
+            "description_for_label": [
+                "<p>A short film made in a one day ACMI Claymation workshop where students are taught the basics of stop motion animation using modelling clay, a digital video camera and editing software. They also create an original soundtrack for their film</p>"
+            ],
+            "credit_line_for_label": "",
+            "details": [
+                {
+                    "label": "Duration",
+                    "display_values": [
+                        "00:01:16:00"
+                    ]
+                },
+                {
+                    "label": "Language",
+                    "display_values": [
+                        "English"
+                    ]
+                },
+                {
+                    "label": "Audience classification",
+                    "display_values": [
+                        "ACMI classified"
+                    ]
+                },
+                {
+                    "label": "Subject categories",
+                    "display_values": [
+                        "Amateur & Student Films",
+                        "Amateur & Student Films&nbsp;→ Student films - Australia",
+                        "Animation",
+                        "Animation&nbsp;→ Clay animation"
+                    ]
+                },
+                {
+                    "label": "Sound/audio",
+                    "display_values": [
+                        "Sound"
+                    ]
+                },
+                {
+                    "label": "Colour",
+                    "display_values": [
+                        "Colour"
+                    ]
+                }
+            ],
+            "stats": {
+                "tap_count": 0
+            },
+            "links": [],
+            "creators_primary": [
+                {
+                    "id": 1134014,
+                    "name": "ACMI",
+                    "creator_id": 6272,
+                    "role": "production company",
+                    "role_id": 941,
+                    "is_primary": true
+                }
+            ],
+            "creators_other": [],
+            "video_links": [],
+            "media_note": "Sorry, we don't have images or video for this item.",
+            "images": [],
+            "videos": [],
+            "holdings": [
+                {
+                    "name": "MPEG-2 Digital File; Memory Grid Pod Full Encode",
+                    "identifier": "",
+                    "description": ""
+                },
+                {
+                    "name": "Mini DV; Master",
+                    "identifier": "",
+                    "description": ""
+                },
+                {
+                    "name": "Mini DV; Sub-master",
+                    "identifier": "",
+                    "description": ""
+                },
+                {
+                    "name": "VHS [PAL]; Reference - timecoded",
+                    "identifier": "",
+                    "description": ""
+                }
+            ],
+            "part_of": null,
+            "parts": [],
+            "part_siblings": [],
+            "group": {
+                "id": 110476,
+                "acmi_id": "15031",
+                "title": "Video and Animation Workshops 2006",
+                "title_annotation": "",
+                "slug": "video-and-animation-workshops-2006",
+                "creator_credit": "",
+                "credit_line": "",
+                "headline_credit": "Melbourne/VIC/Australia, 2006",
+                "thumbnail": null,
+                "record_type": "group",
+                "type": "Film",
+                "is_on_display": false,
+                "last_on_display_place": null,
+                "last_on_display_date": null,
+                "is_context_indigenous": false,
+                "material_description": "",
+                "unpublished": false,
+                "first_production_date": "2006-01-01T11:00:00+11:00"
+            },
+            "group_works": [],
+            "group_siblings": [
+                {
+                    "id": 110482,
+                    "acmi_id": "14110",
+                    "title": "Connecting",
+                    "title_annotation": "",
+                    "slug": "connecting",
+                    "creator_credit": "ACMI and Fintona Girls School",
+                    "credit_line": "",
+                    "headline_credit": "Melbourne/VIC/Australia, 2006",
+                    "thumbnail": null,
+                    "record_type": "work",
+                    "type": "Film",
+                    "is_on_display": false,
+                    "last_on_display_place": null,
+                    "last_on_display_date": null,
+                    "is_context_indigenous": false,
+                    "material_description": "",
+                    "unpublished": false,
+                    "first_production_date": "2006-01-01T11:00:00+11:00"
+                },
+                {
+                    "id": 110484,
+                    "acmi_id": "14114",
+                    "title": "Mozzie bytes",
+                    "title_annotation": "",
+                    "slug": "mozzie-bytes",
+                    "creator_credit": "ACMI and Glen Waverley Secondary College",
+                    "credit_line": "",
+                    "headline_credit": "Melbourne/VIC/Australia, 2006",
+                    "thumbnail": null,
+                    "record_type": "work",
+                    "type": "Film",
+                    "is_on_display": false,
+                    "last_on_display_place": null,
+                    "last_on_display_date": null,
+                    "is_context_indigenous": false,
+                    "material_description": "",
+                    "unpublished": false,
+                    "first_production_date": "2006-01-01T11:00:00+11:00"
+                },
+                {
+                    "id": 110485,
+                    "acmi_id": "14116",
+                    "title": "Of me: digital poetry. No. 1",
+                    "title_annotation": "",
+                    "slug": "of-me-digital-poetry-no-1",
+                    "creator_credit": "ACMI and Anonymous",
+                    "credit_line": "",
+                    "headline_credit": "Melbourne/VIC/Australia, 2006",
+                    "thumbnail": null,
+                    "record_type": "work",
+                    "type": "Film",
+                    "is_on_display": false,
+                    "last_on_display_place": null,
+                    "last_on_display_date": null,
+                    "is_context_indigenous": false,
+                    "material_description": "",
+                    "unpublished": false,
+                    "first_production_date": "2006-01-01T11:00:00+11:00"
+                },
+                {
+                    "id": 110486,
+                    "acmi_id": "14118",
+                    "title": "Of me: digital poetry. No. 2",
+                    "title_annotation": "",
+                    "slug": "of-me-digital-poetry-no-2",
+                    "creator_credit": "ACMI and Anonymous",
+                    "credit_line": "",
+                    "headline_credit": "Melbourne/VIC/Australia, 2006",
+                    "thumbnail": null,
+                    "record_type": "work",
+                    "type": "Film",
+                    "is_on_display": false,
+                    "last_on_display_place": null,
+                    "last_on_display_date": null,
+                    "is_context_indigenous": false,
+                    "material_description": "",
+                    "unpublished": false,
+                    "first_production_date": "2006-01-01T11:00:00+11:00"
+                },
+                {
+                    "id": 110480,
+                    "acmi_id": "14106",
+                    "title": "Rainbow connection",
+                    "title_annotation": "",
+                    "slug": "rainbow-connection",
+                    "creator_credit": "ACMI and Scotch College",
+                    "credit_line": "",
+                    "headline_credit": "Melbourne/VIC/Australia, 2006",
+                    "thumbnail": null,
+                    "record_type": "work",
+                    "type": "Film",
+                    "is_on_display": false,
+                    "last_on_display_place": null,
+                    "last_on_display_date": null,
+                    "is_context_indigenous": false,
+                    "material_description": "",
+                    "unpublished": false,
+                    "first_production_date": "2006-01-01T11:00:00+11:00"
+                },
+                {
+                    "id": 110483,
+                    "acmi_id": "14112",
+                    "title": "Scratch that film!",
+                    "title_annotation": "",
+                    "slug": "scratch-that-film",
+                    "creator_credit": "ACMI and Albanvale Primary School",
+                    "credit_line": "",
+                    "headline_credit": "Melbourne/VIC/Australia, 2005",
+                    "thumbnail": null,
+                    "record_type": "work",
+                    "type": "Film",
+                    "is_on_display": false,
+                    "last_on_display_place": null,
+                    "last_on_display_date": null,
+                    "is_context_indigenous": false,
+                    "material_description": "",
+                    "unpublished": false,
+                    "first_production_date": "2005-01-01T11:00:00+11:00"
+                },
+                {
+                    "id": 110479,
+                    "acmi_id": "14104",
+                    "title": "Scribbles",
+                    "title_annotation": "",
+                    "slug": "scribbles",
+                    "creator_credit": "ACMI and Richmond West Primary School",
+                    "credit_line": "",
+                    "headline_credit": "Melbourne/VIC/Australia, 2005",
+                    "thumbnail": null,
+                    "record_type": "work",
+                    "type": "Film",
+                    "is_on_display": false,
+                    "last_on_display_place": null,
+                    "last_on_display_date": null,
+                    "is_context_indigenous": false,
+                    "material_description": "",
+                    "unpublished": false,
+                    "first_production_date": "2005-01-01T11:00:00+11:00"
+                },
+                {
+                    "id": 110478,
+                    "acmi_id": "14102",
+                    "title": "Sqiggle swatches",
+                    "title_annotation": "",
+                    "slug": "sqiggle-swatches",
+                    "creator_credit": "ACMI and Fintona Girls School",
+                    "credit_line": "",
+                    "headline_credit": "Melbourne/VIC/Australia, 2006",
+                    "thumbnail": null,
+                    "record_type": "work",
+                    "type": "Film",
+                    "is_on_display": false,
+                    "last_on_display_place": null,
+                    "last_on_display_date": null,
+                    "is_context_indigenous": false,
+                    "material_description": "",
+                    "unpublished": false,
+                    "first_production_date": "2006-01-01T11:00:00+11:00"
+                },
+                {
+                    "id": 110475,
+                    "acmi_id": "14093",
+                    "title": "Super Penguin",
+                    "title_annotation": "",
+                    "slug": "super-penguin",
+                    "creator_credit": "ACMI",
+                    "credit_line": "",
+                    "headline_credit": "Melbourne/VIC/Australia, 2006",
+                    "thumbnail": null,
+                    "record_type": "work",
+                    "type": "Film",
+                    "is_on_display": false,
+                    "last_on_display_place": null,
+                    "last_on_display_date": null,
+                    "is_context_indigenous": false,
+                    "material_description": "",
+                    "unpublished": false,
+                    "first_production_date": "2006-01-01T11:00:00+11:00"
+                }
+            ],
+            "source": {
+                "name": "Vernon",
+                "slug": "vernon"
+            },
+            "source_identifier": "14108",
+            "production_places": [
+                {
+                    "id": 67,
+                    "name": "Melbourne/VIC/Australia",
+                    "slug": "melbournevicaustralia"
+                }
+            ],
+            "production_dates": [
+                {
+                    "date": "2006",
+                    "notes": "",
+                    "to_year": "2006"
+                }
+            ],
+            "labels": [
+                49974
+            ]
+        },
+        {
+            "id": 110486,
+            "acmi_id": "14118",
+            "title": "Of me: digital poetry. No. 2",
+            "title_annotation": "",
+            "slug": "of-me-digital-poetry-no-2",
+            "creator_credit": "ACMI and Anonymous",
+            "credit_line": "",
+            "headline_credit": "Melbourne/VIC/Australia, 2006",
+            "thumbnail": null,
+            "record_type": "work",
+            "type": "Film",
+            "is_on_display": false,
+            "last_on_display_place": null,
+            "last_on_display_date": null,
+            "is_context_indigenous": false,
+            "material_description": "",
+            "unpublished": false,
+            "first_production_date": "2006-01-01T11:00:00+11:00",
+            "brief_description": "<p>Digital Poetry discusses the aesthetics, form, content and meaning of poetry by combining the elements of music and the moving image in a personal workshop designed for young people.</p>",
+            "constellations_primary": [],
+            "constellations_other": [],
+            "recommendations": [],
+            "title_for_label": "<p>Of me: digital poetry. No. 2</p>",
+            "creator_credit_for_label": "<p>ACMI and Anonymous</p>",
+            "headline_credit_for_label": "<p>Melbourne/VIC/Australia, 2006</p>",
+            "description": "<p>Digital Poetry discusses the aesthetics, form, content and meaning of poetry by combining the elements of music and the moving image in a personal workshop designed for young people.</p>",
+            "description_for_label": [
+                "<p>Digital Poetry discusses the aesthetics, form, content and meaning of poetry by combining the elements of music and the moving image in a personal workshop designed for young people.</p>"
+            ],
+            "credit_line_for_label": "",
+            "details": [
+                {
+                    "label": "Duration",
+                    "display_values": [
+                        "00:00:31:00"
+                    ]
+                },
+                {
+                    "label": "Language",
+                    "display_values": [
+                        "No spoken word"
+                    ]
+                },
+                {
+                    "label": "Audience classification",
+                    "display_values": [
+                        "ACMI classified"
+                    ]
+                },
+                {
+                    "label": "Subject categories",
+                    "display_values": [
+                        "Amateur & Student Films",
+                        "Amateur & Student Films&nbsp;→ Student films - Australia"
+                    ]
+                },
+                {
+                    "label": "Sound/audio",
+                    "display_values": [
+                        "Sound"
+                    ]
+                },
+                {
+                    "label": "Colour",
+                    "display_values": [
+                        "Colour"
+                    ]
+                }
+            ],
+            "stats": {
+                "tap_count": 0
+            },
+            "links": [],
+            "creators_primary": [
+                {
+                    "id": 1134013,
+                    "name": "ACMI",
+                    "creator_id": 6272,
+                    "role": "production company",
+                    "role_id": 941,
+                    "is_primary": true
+                },
+                {
+                    "id": 1134012,
+                    "name": "Anonymous",
+                    "creator_id": 4180,
+                    "role": "creator",
+                    "role_id": 968,
+                    "is_primary": true
+                }
+            ],
+            "creators_other": [],
+            "video_links": [],
+            "media_note": "Sorry, we don't have images or video for this item.",
+            "images": [],
+            "videos": [],
+            "holdings": [
+                {
+                    "name": "MPEG-2 Digital File; Memory Grid Pod Full Encode",
+                    "identifier": "",
+                    "description": ""
+                },
+                {
+                    "name": "Mini DV; Master",
+                    "identifier": "",
+                    "description": ""
+                },
+                {
+                    "name": "Mini DV; Sub-master",
+                    "identifier": "",
+                    "description": ""
+                },
+                {
+                    "name": "VHS [PAL]; Reference - timecoded",
+                    "identifier": "",
+                    "description": ""
+                }
+            ],
+            "part_of": null,
+            "parts": [],
+            "part_siblings": [],
+            "group": {
+                "id": 110476,
+                "acmi_id": "15031",
+                "title": "Video and Animation Workshops 2006",
+                "title_annotation": "",
+                "slug": "video-and-animation-workshops-2006",
+                "creator_credit": "",
+                "credit_line": "",
+                "headline_credit": "Melbourne/VIC/Australia, 2006",
+                "thumbnail": null,
+                "record_type": "group",
+                "type": "Film",
+                "is_on_display": false,
+                "last_on_display_place": null,
+                "last_on_display_date": null,
+                "is_context_indigenous": false,
+                "material_description": "",
+                "unpublished": false,
+                "first_production_date": "2006-01-01T11:00:00+11:00"
+            },
+            "group_works": [],
+            "group_siblings": [
+                {
+                    "id": 110482,
+                    "acmi_id": "14110",
+                    "title": "Connecting",
+                    "title_annotation": "",
+                    "slug": "connecting",
+                    "creator_credit": "ACMI and Fintona Girls School",
+                    "credit_line": "",
+                    "headline_credit": "Melbourne/VIC/Australia, 2006",
+                    "thumbnail": null,
+                    "record_type": "work",
+                    "type": "Film",
+                    "is_on_display": false,
+                    "last_on_display_place": null,
+                    "last_on_display_date": null,
+                    "is_context_indigenous": false,
+                    "material_description": "",
+                    "unpublished": false,
+                    "first_production_date": "2006-01-01T11:00:00+11:00"
+                },
+                {
+                    "id": 110484,
+                    "acmi_id": "14114",
+                    "title": "Mozzie bytes",
+                    "title_annotation": "",
+                    "slug": "mozzie-bytes",
+                    "creator_credit": "ACMI and Glen Waverley Secondary College",
+                    "credit_line": "",
+                    "headline_credit": "Melbourne/VIC/Australia, 2006",
+                    "thumbnail": null,
+                    "record_type": "work",
+                    "type": "Film",
+                    "is_on_display": false,
+                    "last_on_display_place": null,
+                    "last_on_display_date": null,
+                    "is_context_indigenous": false,
+                    "material_description": "",
+                    "unpublished": false,
+                    "first_production_date": "2006-01-01T11:00:00+11:00"
+                },
+                {
+                    "id": 110485,
+                    "acmi_id": "14116",
+                    "title": "Of me: digital poetry. No. 1",
+                    "title_annotation": "",
+                    "slug": "of-me-digital-poetry-no-1",
+                    "creator_credit": "ACMI and Anonymous",
+                    "credit_line": "",
+                    "headline_credit": "Melbourne/VIC/Australia, 2006",
+                    "thumbnail": null,
+                    "record_type": "work",
+                    "type": "Film",
+                    "is_on_display": false,
+                    "last_on_display_place": null,
+                    "last_on_display_date": null,
+                    "is_context_indigenous": false,
+                    "material_description": "",
+                    "unpublished": false,
+                    "first_production_date": "2006-01-01T11:00:00+11:00"
+                },
+                {
+                    "id": 110481,
+                    "acmi_id": "14108",
+                    "title": "Punk dogs R kool!",
+                    "title_annotation": "",
+                    "slug": "punk-dogs-r-kool",
+                    "creator_credit": "ACMI",
+                    "credit_line": "",
+                    "headline_credit": "Melbourne/VIC/Australia, 2006",
+                    "thumbnail": null,
+                    "record_type": "work",
+                    "type": "Film",
+                    "is_on_display": false,
+                    "last_on_display_place": null,
+                    "last_on_display_date": null,
+                    "is_context_indigenous": false,
+                    "material_description": "",
+                    "unpublished": false,
+                    "first_production_date": "2006-01-01T11:00:00+11:00"
+                },
+                {
+                    "id": 110480,
+                    "acmi_id": "14106",
+                    "title": "Rainbow connection",
+                    "title_annotation": "",
+                    "slug": "rainbow-connection",
+                    "creator_credit": "ACMI and Scotch College",
+                    "credit_line": "",
+                    "headline_credit": "Melbourne/VIC/Australia, 2006",
+                    "thumbnail": null,
+                    "record_type": "work",
+                    "type": "Film",
+                    "is_on_display": false,
+                    "last_on_display_place": null,
+                    "last_on_display_date": null,
+                    "is_context_indigenous": false,
+                    "material_description": "",
+                    "unpublished": false,
+                    "first_production_date": "2006-01-01T11:00:00+11:00"
+                },
+                {
+                    "id": 110483,
+                    "acmi_id": "14112",
+                    "title": "Scratch that film!",
+                    "title_annotation": "",
+                    "slug": "scratch-that-film",
+                    "creator_credit": "ACMI and Albanvale Primary School",
+                    "credit_line": "",
+                    "headline_credit": "Melbourne/VIC/Australia, 2005",
+                    "thumbnail": null,
+                    "record_type": "work",
+                    "type": "Film",
+                    "is_on_display": false,
+                    "last_on_display_place": null,
+                    "last_on_display_date": null,
+                    "is_context_indigenous": false,
+                    "material_description": "",
+                    "unpublished": false,
+                    "first_production_date": "2005-01-01T11:00:00+11:00"
+                },
+                {
+                    "id": 110479,
+                    "acmi_id": "14104",
+                    "title": "Scribbles",
+                    "title_annotation": "",
+                    "slug": "scribbles",
+                    "creator_credit": "ACMI and Richmond West Primary School",
+                    "credit_line": "",
+                    "headline_credit": "Melbourne/VIC/Australia, 2005",
+                    "thumbnail": null,
+                    "record_type": "work",
+                    "type": "Film",
+                    "is_on_display": false,
+                    "last_on_display_place": null,
+                    "last_on_display_date": null,
+                    "is_context_indigenous": false,
+                    "material_description": "",
+                    "unpublished": false,
+                    "first_production_date": "2005-01-01T11:00:00+11:00"
+                },
+                {
+                    "id": 110478,
+                    "acmi_id": "14102",
+                    "title": "Sqiggle swatches",
+                    "title_annotation": "",
+                    "slug": "sqiggle-swatches",
+                    "creator_credit": "ACMI and Fintona Girls School",
+                    "credit_line": "",
+                    "headline_credit": "Melbourne/VIC/Australia, 2006",
+                    "thumbnail": null,
+                    "record_type": "work",
+                    "type": "Film",
+                    "is_on_display": false,
+                    "last_on_display_place": null,
+                    "last_on_display_date": null,
+                    "is_context_indigenous": false,
+                    "material_description": "",
+                    "unpublished": false,
+                    "first_production_date": "2006-01-01T11:00:00+11:00"
+                },
+                {
+                    "id": 110475,
+                    "acmi_id": "14093",
+                    "title": "Super Penguin",
+                    "title_annotation": "",
+                    "slug": "super-penguin",
+                    "creator_credit": "ACMI",
+                    "credit_line": "",
+                    "headline_credit": "Melbourne/VIC/Australia, 2006",
+                    "thumbnail": null,
+                    "record_type": "work",
+                    "type": "Film",
+                    "is_on_display": false,
+                    "last_on_display_place": null,
+                    "last_on_display_date": null,
+                    "is_context_indigenous": false,
+                    "material_description": "",
+                    "unpublished": false,
+                    "first_production_date": "2006-01-01T11:00:00+11:00"
+                }
+            ],
+            "source": {
+                "name": "Vernon",
+                "slug": "vernon"
+            },
+            "source_identifier": "14118",
+            "production_places": [
+                {
+                    "id": 67,
+                    "name": "Melbourne/VIC/Australia",
+                    "slug": "melbournevicaustralia"
+                }
+            ],
+            "production_dates": [
+                {
+                    "date": "2006",
+                    "notes": "",
+                    "to_year": "2006"
+                }
+            ],
+            "labels": [
+                49979
+            ]
+        },
+        {
+            "id": 110485,
+            "acmi_id": "14116",
+            "title": "Of me: digital poetry. No. 1",
+            "title_annotation": "",
+            "slug": "of-me-digital-poetry-no-1",
+            "creator_credit": "ACMI and Anonymous",
+            "credit_line": "",
+            "headline_credit": "Melbourne/VIC/Australia, 2006",
+            "thumbnail": null,
+            "record_type": "work",
+            "type": "Film",
+            "is_on_display": false,
+            "last_on_display_place": null,
+            "last_on_display_date": null,
+            "is_context_indigenous": false,
+            "material_description": "",
+            "unpublished": false,
+            "first_production_date": "2006-01-01T11:00:00+11:00",
+            "brief_description": "<p>Digital Poetry discusses the aesthetics, form, content and meaning of poetry by combining the elements of music and the moving image in a personal workshop designed for young people.</p>",
+            "constellations_primary": [],
+            "constellations_other": [],
+            "recommendations": [],
+            "title_for_label": "<p>Of me: digital poetry. No. 1</p>",
+            "creator_credit_for_label": "<p>ACMI and Anonymous</p>",
+            "headline_credit_for_label": "<p>Melbourne/VIC/Australia, 2006</p>",
+            "description": "<p>Digital Poetry discusses the aesthetics, form, content and meaning of poetry by combining the elements of music and the moving image in a personal workshop designed for young people.</p>",
+            "description_for_label": [
+                "<p>Digital Poetry discusses the aesthetics, form, content and meaning of poetry by combining the elements of music and the moving image in a personal workshop designed for young people.</p>"
+            ],
+            "credit_line_for_label": "",
+            "details": [
+                {
+                    "label": "Duration",
+                    "display_values": [
+                        "00:01:13:00"
+                    ]
+                },
+                {
+                    "label": "Language",
+                    "display_values": [
+                        "No spoken word"
+                    ]
+                },
+                {
+                    "label": "Audience classification",
+                    "display_values": [
+                        "ACMI classified"
+                    ]
+                },
+                {
+                    "label": "Subject categories",
+                    "display_values": [
+                        "Amateur & Student Films",
+                        "Amateur & Student Films&nbsp;→ Student films - Australia"
+                    ]
+                },
+                {
+                    "label": "Sound/audio",
+                    "display_values": [
+                        "Sound"
+                    ]
+                },
+                {
+                    "label": "Colour",
+                    "display_values": [
+                        "Colour"
+                    ]
+                }
+            ],
+            "stats": {
+                "tap_count": 0
+            },
+            "links": [],
+            "creators_primary": [
+                {
+                    "id": 1134011,
+                    "name": "ACMI",
+                    "creator_id": 6272,
+                    "role": "production company",
+                    "role_id": 941,
+                    "is_primary": true
+                },
+                {
+                    "id": 1134010,
+                    "name": "Anonymous",
+                    "creator_id": 4180,
+                    "role": "creator",
+                    "role_id": 968,
+                    "is_primary": true
+                }
+            ],
+            "creators_other": [],
+            "video_links": [],
+            "media_note": "Sorry, we don't have images or video for this item.",
+            "images": [],
+            "videos": [],
+            "holdings": [
+                {
+                    "name": "MPEG-2 Digital File; Memory Grid Pod Full Encode",
+                    "identifier": "",
+                    "description": ""
+                },
+                {
+                    "name": "Mini DV; Master",
+                    "identifier": "",
+                    "description": ""
+                },
+                {
+                    "name": "Mini DV; Sub-master",
+                    "identifier": "",
+                    "description": ""
+                },
+                {
+                    "name": "VHS [PAL]; Reference - timecoded",
+                    "identifier": "",
+                    "description": ""
+                }
+            ],
+            "part_of": null,
+            "parts": [],
+            "part_siblings": [],
+            "group": {
+                "id": 110476,
+                "acmi_id": "15031",
+                "title": "Video and Animation Workshops 2006",
+                "title_annotation": "",
+                "slug": "video-and-animation-workshops-2006",
+                "creator_credit": "",
+                "credit_line": "",
+                "headline_credit": "Melbourne/VIC/Australia, 2006",
+                "thumbnail": null,
+                "record_type": "group",
+                "type": "Film",
+                "is_on_display": false,
+                "last_on_display_place": null,
+                "last_on_display_date": null,
+                "is_context_indigenous": false,
+                "material_description": "",
+                "unpublished": false,
+                "first_production_date": "2006-01-01T11:00:00+11:00"
+            },
+            "group_works": [],
+            "group_siblings": [
+                {
+                    "id": 110482,
+                    "acmi_id": "14110",
+                    "title": "Connecting",
+                    "title_annotation": "",
+                    "slug": "connecting",
+                    "creator_credit": "ACMI and Fintona Girls School",
+                    "credit_line": "",
+                    "headline_credit": "Melbourne/VIC/Australia, 2006",
+                    "thumbnail": null,
+                    "record_type": "work",
+                    "type": "Film",
+                    "is_on_display": false,
+                    "last_on_display_place": null,
+                    "last_on_display_date": null,
+                    "is_context_indigenous": false,
+                    "material_description": "",
+                    "unpublished": false,
+                    "first_production_date": "2006-01-01T11:00:00+11:00"
+                },
+                {
+                    "id": 110484,
+                    "acmi_id": "14114",
+                    "title": "Mozzie bytes",
+                    "title_annotation": "",
+                    "slug": "mozzie-bytes",
+                    "creator_credit": "ACMI and Glen Waverley Secondary College",
+                    "credit_line": "",
+                    "headline_credit": "Melbourne/VIC/Australia, 2006",
+                    "thumbnail": null,
+                    "record_type": "work",
+                    "type": "Film",
+                    "is_on_display": false,
+                    "last_on_display_place": null,
+                    "last_on_display_date": null,
+                    "is_context_indigenous": false,
+                    "material_description": "",
+                    "unpublished": false,
+                    "first_production_date": "2006-01-01T11:00:00+11:00"
+                },
+                {
+                    "id": 110486,
+                    "acmi_id": "14118",
+                    "title": "Of me: digital poetry. No. 2",
+                    "title_annotation": "",
+                    "slug": "of-me-digital-poetry-no-2",
+                    "creator_credit": "ACMI and Anonymous",
+                    "credit_line": "",
+                    "headline_credit": "Melbourne/VIC/Australia, 2006",
+                    "thumbnail": null,
+                    "record_type": "work",
+                    "type": "Film",
+                    "is_on_display": false,
+                    "last_on_display_place": null,
+                    "last_on_display_date": null,
+                    "is_context_indigenous": false,
+                    "material_description": "",
+                    "unpublished": false,
+                    "first_production_date": "2006-01-01T11:00:00+11:00"
+                },
+                {
+                    "id": 110481,
+                    "acmi_id": "14108",
+                    "title": "Punk dogs R kool!",
+                    "title_annotation": "",
+                    "slug": "punk-dogs-r-kool",
+                    "creator_credit": "ACMI",
+                    "credit_line": "",
+                    "headline_credit": "Melbourne/VIC/Australia, 2006",
+                    "thumbnail": null,
+                    "record_type": "work",
+                    "type": "Film",
+                    "is_on_display": false,
+                    "last_on_display_place": null,
+                    "last_on_display_date": null,
+                    "is_context_indigenous": false,
+                    "material_description": "",
+                    "unpublished": false,
+                    "first_production_date": "2006-01-01T11:00:00+11:00"
+                },
+                {
+                    "id": 110480,
+                    "acmi_id": "14106",
+                    "title": "Rainbow connection",
+                    "title_annotation": "",
+                    "slug": "rainbow-connection",
+                    "creator_credit": "ACMI and Scotch College",
+                    "credit_line": "",
+                    "headline_credit": "Melbourne/VIC/Australia, 2006",
+                    "thumbnail": null,
+                    "record_type": "work",
+                    "type": "Film",
+                    "is_on_display": false,
+                    "last_on_display_place": null,
+                    "last_on_display_date": null,
+                    "is_context_indigenous": false,
+                    "material_description": "",
+                    "unpublished": false,
+                    "first_production_date": "2006-01-01T11:00:00+11:00"
+                },
+                {
+                    "id": 110483,
+                    "acmi_id": "14112",
+                    "title": "Scratch that film!",
+                    "title_annotation": "",
+                    "slug": "scratch-that-film",
+                    "creator_credit": "ACMI and Albanvale Primary School",
+                    "credit_line": "",
+                    "headline_credit": "Melbourne/VIC/Australia, 2005",
+                    "thumbnail": null,
+                    "record_type": "work",
+                    "type": "Film",
+                    "is_on_display": false,
+                    "last_on_display_place": null,
+                    "last_on_display_date": null,
+                    "is_context_indigenous": false,
+                    "material_description": "",
+                    "unpublished": false,
+                    "first_production_date": "2005-01-01T11:00:00+11:00"
+                },
+                {
+                    "id": 110479,
+                    "acmi_id": "14104",
+                    "title": "Scribbles",
+                    "title_annotation": "",
+                    "slug": "scribbles",
+                    "creator_credit": "ACMI and Richmond West Primary School",
+                    "credit_line": "",
+                    "headline_credit": "Melbourne/VIC/Australia, 2005",
+                    "thumbnail": null,
+                    "record_type": "work",
+                    "type": "Film",
+                    "is_on_display": false,
+                    "last_on_display_place": null,
+                    "last_on_display_date": null,
+                    "is_context_indigenous": false,
+                    "material_description": "",
+                    "unpublished": false,
+                    "first_production_date": "2005-01-01T11:00:00+11:00"
+                },
+                {
+                    "id": 110478,
+                    "acmi_id": "14102",
+                    "title": "Sqiggle swatches",
+                    "title_annotation": "",
+                    "slug": "sqiggle-swatches",
+                    "creator_credit": "ACMI and Fintona Girls School",
+                    "credit_line": "",
+                    "headline_credit": "Melbourne/VIC/Australia, 2006",
+                    "thumbnail": null,
+                    "record_type": "work",
+                    "type": "Film",
+                    "is_on_display": false,
+                    "last_on_display_place": null,
+                    "last_on_display_date": null,
+                    "is_context_indigenous": false,
+                    "material_description": "",
+                    "unpublished": false,
+                    "first_production_date": "2006-01-01T11:00:00+11:00"
+                },
+                {
+                    "id": 110475,
+                    "acmi_id": "14093",
+                    "title": "Super Penguin",
+                    "title_annotation": "",
+                    "slug": "super-penguin",
+                    "creator_credit": "ACMI",
+                    "credit_line": "",
+                    "headline_credit": "Melbourne/VIC/Australia, 2006",
+                    "thumbnail": null,
+                    "record_type": "work",
+                    "type": "Film",
+                    "is_on_display": false,
+                    "last_on_display_place": null,
+                    "last_on_display_date": null,
+                    "is_context_indigenous": false,
+                    "material_description": "",
+                    "unpublished": false,
+                    "first_production_date": "2006-01-01T11:00:00+11:00"
+                }
+            ],
+            "source": {
+                "name": "Vernon",
+                "slug": "vernon"
+            },
+            "source_identifier": "14116",
+            "production_places": [
+                {
+                    "id": 67,
+                    "name": "Melbourne/VIC/Australia",
+                    "slug": "melbournevicaustralia"
+                }
+            ],
+            "production_dates": [
+                {
+                    "date": "2006",
+                    "notes": "",
+                    "to_year": "2006"
+                }
+            ],
+            "labels": [
+                49978
+            ]
+        },
+        {
+            "id": 110484,
+            "acmi_id": "14114",
+            "title": "Mozzie bytes",
+            "title_annotation": "",
+            "slug": "mozzie-bytes",
+            "creator_credit": "ACMI and Glen Waverley Secondary College",
+            "credit_line": "",
+            "headline_credit": "Melbourne/VIC/Australia, 2006",
+            "thumbnail": null,
+            "record_type": "work",
+            "type": "Film",
+            "is_on_display": false,
+            "last_on_display_place": null,
+            "last_on_display_date": null,
+            "is_context_indigenous": false,
+            "material_description": "",
+            "unpublished": false,
+            "first_production_date": "2006-01-01T11:00:00+11:00",
+            "brief_description": "<p>Using a digital drawing tablet and pencil, students create an individual hand drawn abstract animation influenced by the New Zealand artist Len Lye.</p>",
+            "constellations_primary": [],
+            "constellations_other": [],
+            "recommendations": [],
+            "title_for_label": "<p>Mozzie bytes</p>",
+            "creator_credit_for_label": "<p>ACMI and Glen Waverley Secondary College</p>",
+            "headline_credit_for_label": "<p>Melbourne/VIC/Australia, 2006</p>",
+            "description": "<p>Using a digital drawing tablet and pencil, students create an individual hand drawn abstract animation influenced by the New Zealand artist Len Lye.</p>",
+            "description_for_label": [
+                "<p>Using a digital drawing tablet and pencil, students create an individual hand drawn abstract animation influenced by the New Zealand artist Len Lye.</p>"
+            ],
+            "credit_line_for_label": "",
+            "details": [
+                {
+                    "label": "Duration",
+                    "display_values": [
+                        "00:01:54:00"
+                    ]
+                },
+                {
+                    "label": "Language",
+                    "display_values": [
+                        "English"
+                    ]
+                },
+                {
+                    "label": "Audience classification",
+                    "display_values": [
+                        "ACMI classified"
+                    ]
+                },
+                {
+                    "label": "Subject categories",
+                    "display_values": [
+                        "Amateur & Student Films",
+                        "Amateur & Student Films&nbsp;→ Student films - Australia",
+                        "Animation",
+                        "Animation&nbsp;→ Abstract animation"
+                    ]
+                },
+                {
+                    "label": "Sound/audio",
+                    "display_values": [
+                        "Sound"
+                    ]
+                },
+                {
+                    "label": "Colour",
+                    "display_values": [
+                        "Colour"
+                    ]
+                }
+            ],
+            "stats": {
+                "tap_count": 0
+            },
+            "links": [],
+            "creators_primary": [
+                {
+                    "id": 1134009,
+                    "name": "ACMI",
+                    "creator_id": 6272,
+                    "role": "production company",
+                    "role_id": 941,
+                    "is_primary": true
+                },
+                {
+                    "id": 1134008,
+                    "name": "Glen Waverley Secondary College",
+                    "creator_id": 10616,
+                    "role": "creator",
+                    "role_id": 968,
+                    "is_primary": true
+                }
+            ],
+            "creators_other": [],
+            "video_links": [],
+            "media_note": "Sorry, we don't have images or video for this item.",
+            "images": [],
+            "videos": [],
+            "holdings": [
+                {
+                    "name": "MPEG-2 Digital File; Memory Grid Pod Full Encode",
+                    "identifier": "",
+                    "description": ""
+                },
+                {
+                    "name": "Mini DV; Master",
+                    "identifier": "",
+                    "description": ""
+                },
+                {
+                    "name": "Mini DV; Sub-master",
+                    "identifier": "",
+                    "description": ""
+                },
+                {
+                    "name": "VHS [PAL]; Reference - timecoded",
+                    "identifier": "",
+                    "description": ""
+                }
+            ],
+            "part_of": null,
+            "parts": [],
+            "part_siblings": [],
+            "group": {
+                "id": 110476,
+                "acmi_id": "15031",
+                "title": "Video and Animation Workshops 2006",
+                "title_annotation": "",
+                "slug": "video-and-animation-workshops-2006",
+                "creator_credit": "",
+                "credit_line": "",
+                "headline_credit": "Melbourne/VIC/Australia, 2006",
+                "thumbnail": null,
+                "record_type": "group",
+                "type": "Film",
+                "is_on_display": false,
+                "last_on_display_place": null,
+                "last_on_display_date": null,
+                "is_context_indigenous": false,
+                "material_description": "",
+                "unpublished": false,
+                "first_production_date": "2006-01-01T11:00:00+11:00"
+            },
+            "group_works": [],
+            "group_siblings": [
+                {
+                    "id": 110482,
+                    "acmi_id": "14110",
+                    "title": "Connecting",
+                    "title_annotation": "",
+                    "slug": "connecting",
+                    "creator_credit": "ACMI and Fintona Girls School",
+                    "credit_line": "",
+                    "headline_credit": "Melbourne/VIC/Australia, 2006",
+                    "thumbnail": null,
+                    "record_type": "work",
+                    "type": "Film",
+                    "is_on_display": false,
+                    "last_on_display_place": null,
+                    "last_on_display_date": null,
+                    "is_context_indigenous": false,
+                    "material_description": "",
+                    "unpublished": false,
+                    "first_production_date": "2006-01-01T11:00:00+11:00"
+                },
+                {
+                    "id": 110485,
+                    "acmi_id": "14116",
+                    "title": "Of me: digital poetry. No. 1",
+                    "title_annotation": "",
+                    "slug": "of-me-digital-poetry-no-1",
+                    "creator_credit": "ACMI and Anonymous",
+                    "credit_line": "",
+                    "headline_credit": "Melbourne/VIC/Australia, 2006",
+                    "thumbnail": null,
+                    "record_type": "work",
+                    "type": "Film",
+                    "is_on_display": false,
+                    "last_on_display_place": null,
+                    "last_on_display_date": null,
+                    "is_context_indigenous": false,
+                    "material_description": "",
+                    "unpublished": false,
+                    "first_production_date": "2006-01-01T11:00:00+11:00"
+                },
+                {
+                    "id": 110486,
+                    "acmi_id": "14118",
+                    "title": "Of me: digital poetry. No. 2",
+                    "title_annotation": "",
+                    "slug": "of-me-digital-poetry-no-2",
+                    "creator_credit": "ACMI and Anonymous",
+                    "credit_line": "",
+                    "headline_credit": "Melbourne/VIC/Australia, 2006",
+                    "thumbnail": null,
+                    "record_type": "work",
+                    "type": "Film",
+                    "is_on_display": false,
+                    "last_on_display_place": null,
+                    "last_on_display_date": null,
+                    "is_context_indigenous": false,
+                    "material_description": "",
+                    "unpublished": false,
+                    "first_production_date": "2006-01-01T11:00:00+11:00"
+                },
+                {
+                    "id": 110481,
+                    "acmi_id": "14108",
+                    "title": "Punk dogs R kool!",
+                    "title_annotation": "",
+                    "slug": "punk-dogs-r-kool",
+                    "creator_credit": "ACMI",
+                    "credit_line": "",
+                    "headline_credit": "Melbourne/VIC/Australia, 2006",
+                    "thumbnail": null,
+                    "record_type": "work",
+                    "type": "Film",
+                    "is_on_display": false,
+                    "last_on_display_place": null,
+                    "last_on_display_date": null,
+                    "is_context_indigenous": false,
+                    "material_description": "",
+                    "unpublished": false,
+                    "first_production_date": "2006-01-01T11:00:00+11:00"
+                },
+                {
+                    "id": 110480,
+                    "acmi_id": "14106",
+                    "title": "Rainbow connection",
+                    "title_annotation": "",
+                    "slug": "rainbow-connection",
+                    "creator_credit": "ACMI and Scotch College",
+                    "credit_line": "",
+                    "headline_credit": "Melbourne/VIC/Australia, 2006",
+                    "thumbnail": null,
+                    "record_type": "work",
+                    "type": "Film",
+                    "is_on_display": false,
+                    "last_on_display_place": null,
+                    "last_on_display_date": null,
+                    "is_context_indigenous": false,
+                    "material_description": "",
+                    "unpublished": false,
+                    "first_production_date": "2006-01-01T11:00:00+11:00"
+                },
+                {
+                    "id": 110483,
+                    "acmi_id": "14112",
+                    "title": "Scratch that film!",
+                    "title_annotation": "",
+                    "slug": "scratch-that-film",
+                    "creator_credit": "ACMI and Albanvale Primary School",
+                    "credit_line": "",
+                    "headline_credit": "Melbourne/VIC/Australia, 2005",
+                    "thumbnail": null,
+                    "record_type": "work",
+                    "type": "Film",
+                    "is_on_display": false,
+                    "last_on_display_place": null,
+                    "last_on_display_date": null,
+                    "is_context_indigenous": false,
+                    "material_description": "",
+                    "unpublished": false,
+                    "first_production_date": "2005-01-01T11:00:00+11:00"
+                },
+                {
+                    "id": 110479,
+                    "acmi_id": "14104",
+                    "title": "Scribbles",
+                    "title_annotation": "",
+                    "slug": "scribbles",
+                    "creator_credit": "ACMI and Richmond West Primary School",
+                    "credit_line": "",
+                    "headline_credit": "Melbourne/VIC/Australia, 2005",
+                    "thumbnail": null,
+                    "record_type": "work",
+                    "type": "Film",
+                    "is_on_display": false,
+                    "last_on_display_place": null,
+                    "last_on_display_date": null,
+                    "is_context_indigenous": false,
+                    "material_description": "",
+                    "unpublished": false,
+                    "first_production_date": "2005-01-01T11:00:00+11:00"
+                },
+                {
+                    "id": 110478,
+                    "acmi_id": "14102",
+                    "title": "Sqiggle swatches",
+                    "title_annotation": "",
+                    "slug": "sqiggle-swatches",
+                    "creator_credit": "ACMI and Fintona Girls School",
+                    "credit_line": "",
+                    "headline_credit": "Melbourne/VIC/Australia, 2006",
+                    "thumbnail": null,
+                    "record_type": "work",
+                    "type": "Film",
+                    "is_on_display": false,
+                    "last_on_display_place": null,
+                    "last_on_display_date": null,
+                    "is_context_indigenous": false,
+                    "material_description": "",
+                    "unpublished": false,
+                    "first_production_date": "2006-01-01T11:00:00+11:00"
+                },
+                {
+                    "id": 110475,
+                    "acmi_id": "14093",
+                    "title": "Super Penguin",
+                    "title_annotation": "",
+                    "slug": "super-penguin",
+                    "creator_credit": "ACMI",
+                    "credit_line": "",
+                    "headline_credit": "Melbourne/VIC/Australia, 2006",
+                    "thumbnail": null,
+                    "record_type": "work",
+                    "type": "Film",
+                    "is_on_display": false,
+                    "last_on_display_place": null,
+                    "last_on_display_date": null,
+                    "is_context_indigenous": false,
+                    "material_description": "",
+                    "unpublished": false,
+                    "first_production_date": "2006-01-01T11:00:00+11:00"
+                }
+            ],
+            "source": {
+                "name": "Vernon",
+                "slug": "vernon"
+            },
+            "source_identifier": "14114",
+            "production_places": [
+                {
+                    "id": 67,
+                    "name": "Melbourne/VIC/Australia",
+                    "slug": "melbournevicaustralia"
+                }
+            ],
+            "production_dates": [
+                {
+                    "date": "2006",
+                    "notes": "",
+                    "to_year": "2006"
+                }
+            ],
+            "labels": [
+                49977
+            ]
+        },
+        {
+            "id": 110482,
+            "acmi_id": "14110",
+            "title": "Connecting",
+            "title_annotation": "",
+            "slug": "connecting",
+            "creator_credit": "ACMI and Fintona Girls School",
+            "credit_line": "",
+            "headline_credit": "Melbourne/VIC/Australia, 2006",
+            "thumbnail": null,
+            "record_type": "work",
+            "type": "Film",
+            "is_on_display": false,
+            "last_on_display_place": null,
+            "last_on_display_date": null,
+            "is_context_indigenous": false,
+            "material_description": "",
+            "unpublished": false,
+            "first_production_date": "2006-01-01T11:00:00+11:00",
+            "brief_description": "<p>Using a digital drawing tablet and pencil, students create an individual hand drawn abstract animation influenced by the New Zealand artist Len Lye.</p>",
+            "constellations_primary": [],
+            "constellations_other": [],
+            "recommendations": [],
+            "title_for_label": "<p>Connecting</p>",
+            "creator_credit_for_label": "<p>ACMI and Fintona Girls School</p>",
+            "headline_credit_for_label": "<p>Melbourne/VIC/Australia, 2006</p>",
+            "description": "<p>Using a digital drawing tablet and pencil, students create an individual hand drawn abstract animation influenced by the New Zealand artist Len Lye.</p>",
+            "description_for_label": [
+                "<p>Using a digital drawing tablet and pencil, students create an individual hand drawn abstract animation influenced by the New Zealand artist Len Lye.</p>"
+            ],
+            "credit_line_for_label": "",
+            "details": [
+                {
+                    "label": "Duration",
+                    "display_values": [
+                        "00:03:37:00"
+                    ]
+                },
+                {
+                    "label": "Language",
+                    "display_values": [
+                        "No spoken word"
+                    ]
+                },
+                {
+                    "label": "Audience classification",
+                    "display_values": [
+                        "ACMI classified"
+                    ]
+                },
+                {
+                    "label": "Subject categories",
+                    "display_values": [
+                        "Amateur & Student Films",
+                        "Amateur & Student Films&nbsp;→ Student films - Australia",
+                        "Animation",
+                        "Animation&nbsp;→ Abstract animation"
+                    ]
+                },
+                {
+                    "label": "Sound/audio",
+                    "display_values": [
+                        "Sound"
+                    ]
+                },
+                {
+                    "label": "Colour",
+                    "display_values": [
+                        "Colour"
+                    ]
+                }
+            ],
+            "stats": {
+                "tap_count": 0
+            },
+            "links": [],
+            "creators_primary": [
+                {
+                    "id": 1134007,
+                    "name": "ACMI",
+                    "creator_id": 6272,
+                    "role": "production company",
+                    "role_id": 941,
+                    "is_primary": true
+                },
+                {
+                    "id": 1134006,
+                    "name": "Fintona Girls School",
+                    "creator_id": 11334,
+                    "role": "creator",
+                    "role_id": 968,
+                    "is_primary": true
+                }
+            ],
+            "creators_other": [],
+            "video_links": [],
+            "media_note": "Sorry, we don't have images or video for this item.",
+            "images": [],
+            "videos": [],
+            "holdings": [
+                {
+                    "name": "MPEG-2 Digital File; Memory Grid Pod Full Encode",
+                    "identifier": "",
+                    "description": ""
+                },
+                {
+                    "name": "Mini DV; Master",
+                    "identifier": "",
+                    "description": ""
+                },
+                {
+                    "name": "Mini DV; Sub-master",
+                    "identifier": "",
+                    "description": ""
+                },
+                {
+                    "name": "VHS [PAL]; Reference - timecoded",
+                    "identifier": "",
+                    "description": ""
+                }
+            ],
+            "part_of": null,
+            "parts": [],
+            "part_siblings": [],
+            "group": {
+                "id": 110476,
+                "acmi_id": "15031",
+                "title": "Video and Animation Workshops 2006",
+                "title_annotation": "",
+                "slug": "video-and-animation-workshops-2006",
+                "creator_credit": "",
+                "credit_line": "",
+                "headline_credit": "Melbourne/VIC/Australia, 2006",
+                "thumbnail": null,
+                "record_type": "group",
+                "type": "Film",
+                "is_on_display": false,
+                "last_on_display_place": null,
+                "last_on_display_date": null,
+                "is_context_indigenous": false,
+                "material_description": "",
+                "unpublished": false,
+                "first_production_date": "2006-01-01T11:00:00+11:00"
+            },
+            "group_works": [],
+            "group_siblings": [
+                {
+                    "id": 110484,
+                    "acmi_id": "14114",
+                    "title": "Mozzie bytes",
+                    "title_annotation": "",
+                    "slug": "mozzie-bytes",
+                    "creator_credit": "ACMI and Glen Waverley Secondary College",
+                    "credit_line": "",
+                    "headline_credit": "Melbourne/VIC/Australia, 2006",
+                    "thumbnail": null,
+                    "record_type": "work",
+                    "type": "Film",
+                    "is_on_display": false,
+                    "last_on_display_place": null,
+                    "last_on_display_date": null,
+                    "is_context_indigenous": false,
+                    "material_description": "",
+                    "unpublished": false,
+                    "first_production_date": "2006-01-01T11:00:00+11:00"
+                },
+                {
+                    "id": 110485,
+                    "acmi_id": "14116",
+                    "title": "Of me: digital poetry. No. 1",
+                    "title_annotation": "",
+                    "slug": "of-me-digital-poetry-no-1",
+                    "creator_credit": "ACMI and Anonymous",
+                    "credit_line": "",
+                    "headline_credit": "Melbourne/VIC/Australia, 2006",
+                    "thumbnail": null,
+                    "record_type": "work",
+                    "type": "Film",
+                    "is_on_display": false,
+                    "last_on_display_place": null,
+                    "last_on_display_date": null,
+                    "is_context_indigenous": false,
+                    "material_description": "",
+                    "unpublished": false,
+                    "first_production_date": "2006-01-01T11:00:00+11:00"
+                },
+                {
+                    "id": 110486,
+                    "acmi_id": "14118",
+                    "title": "Of me: digital poetry. No. 2",
+                    "title_annotation": "",
+                    "slug": "of-me-digital-poetry-no-2",
+                    "creator_credit": "ACMI and Anonymous",
+                    "credit_line": "",
+                    "headline_credit": "Melbourne/VIC/Australia, 2006",
+                    "thumbnail": null,
+                    "record_type": "work",
+                    "type": "Film",
+                    "is_on_display": false,
+                    "last_on_display_place": null,
+                    "last_on_display_date": null,
+                    "is_context_indigenous": false,
+                    "material_description": "",
+                    "unpublished": false,
+                    "first_production_date": "2006-01-01T11:00:00+11:00"
+                },
+                {
+                    "id": 110481,
+                    "acmi_id": "14108",
+                    "title": "Punk dogs R kool!",
+                    "title_annotation": "",
+                    "slug": "punk-dogs-r-kool",
+                    "creator_credit": "ACMI",
+                    "credit_line": "",
+                    "headline_credit": "Melbourne/VIC/Australia, 2006",
+                    "thumbnail": null,
+                    "record_type": "work",
+                    "type": "Film",
+                    "is_on_display": false,
+                    "last_on_display_place": null,
+                    "last_on_display_date": null,
+                    "is_context_indigenous": false,
+                    "material_description": "",
+                    "unpublished": false,
+                    "first_production_date": "2006-01-01T11:00:00+11:00"
+                },
+                {
+                    "id": 110480,
+                    "acmi_id": "14106",
+                    "title": "Rainbow connection",
+                    "title_annotation": "",
+                    "slug": "rainbow-connection",
+                    "creator_credit": "ACMI and Scotch College",
+                    "credit_line": "",
+                    "headline_credit": "Melbourne/VIC/Australia, 2006",
+                    "thumbnail": null,
+                    "record_type": "work",
+                    "type": "Film",
+                    "is_on_display": false,
+                    "last_on_display_place": null,
+                    "last_on_display_date": null,
+                    "is_context_indigenous": false,
+                    "material_description": "",
+                    "unpublished": false,
+                    "first_production_date": "2006-01-01T11:00:00+11:00"
+                },
+                {
+                    "id": 110483,
+                    "acmi_id": "14112",
+                    "title": "Scratch that film!",
+                    "title_annotation": "",
+                    "slug": "scratch-that-film",
+                    "creator_credit": "ACMI and Albanvale Primary School",
+                    "credit_line": "",
+                    "headline_credit": "Melbourne/VIC/Australia, 2005",
+                    "thumbnail": null,
+                    "record_type": "work",
+                    "type": "Film",
+                    "is_on_display": false,
+                    "last_on_display_place": null,
+                    "last_on_display_date": null,
+                    "is_context_indigenous": false,
+                    "material_description": "",
+                    "unpublished": false,
+                    "first_production_date": "2005-01-01T11:00:00+11:00"
+                },
+                {
+                    "id": 110479,
+                    "acmi_id": "14104",
+                    "title": "Scribbles",
+                    "title_annotation": "",
+                    "slug": "scribbles",
+                    "creator_credit": "ACMI and Richmond West Primary School",
+                    "credit_line": "",
+                    "headline_credit": "Melbourne/VIC/Australia, 2005",
+                    "thumbnail": null,
+                    "record_type": "work",
+                    "type": "Film",
+                    "is_on_display": false,
+                    "last_on_display_place": null,
+                    "last_on_display_date": null,
+                    "is_context_indigenous": false,
+                    "material_description": "",
+                    "unpublished": false,
+                    "first_production_date": "2005-01-01T11:00:00+11:00"
+                },
+                {
+                    "id": 110478,
+                    "acmi_id": "14102",
+                    "title": "Sqiggle swatches",
+                    "title_annotation": "",
+                    "slug": "sqiggle-swatches",
+                    "creator_credit": "ACMI and Fintona Girls School",
+                    "credit_line": "",
+                    "headline_credit": "Melbourne/VIC/Australia, 2006",
+                    "thumbnail": null,
+                    "record_type": "work",
+                    "type": "Film",
+                    "is_on_display": false,
+                    "last_on_display_place": null,
+                    "last_on_display_date": null,
+                    "is_context_indigenous": false,
+                    "material_description": "",
+                    "unpublished": false,
+                    "first_production_date": "2006-01-01T11:00:00+11:00"
+                },
+                {
+                    "id": 110475,
+                    "acmi_id": "14093",
+                    "title": "Super Penguin",
+                    "title_annotation": "",
+                    "slug": "super-penguin",
+                    "creator_credit": "ACMI",
+                    "credit_line": "",
+                    "headline_credit": "Melbourne/VIC/Australia, 2006",
+                    "thumbnail": null,
+                    "record_type": "work",
+                    "type": "Film",
+                    "is_on_display": false,
+                    "last_on_display_place": null,
+                    "last_on_display_date": null,
+                    "is_context_indigenous": false,
+                    "material_description": "",
+                    "unpublished": false,
+                    "first_production_date": "2006-01-01T11:00:00+11:00"
+                }
+            ],
+            "source": {
+                "name": "Vernon",
+                "slug": "vernon"
+            },
+            "source_identifier": "14110",
+            "production_places": [
+                {
+                    "id": 67,
+                    "name": "Melbourne/VIC/Australia",
+                    "slug": "melbournevicaustralia"
+                }
+            ],
+            "production_dates": [
+                {
+                    "date": "2006",
+                    "notes": "",
+                    "to_year": "2006"
+                }
+            ],
+            "labels": [
+                49975
+            ]
+        },
+        {
+            "id": 114315,
+            "acmi_id": "14997",
+            "title": "Stories from the Lebanese community: A Digital Storytelling project",
+            "title_annotation": "",
+            "slug": "stories-from-the-lebanese-community-a-digital-storytelling-project",
+            "creator_credit": "ACMI",
+            "credit_line": "",
+            "headline_credit": "Australia, 2007",
+            "thumbnail": {
+                "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/B2000919_ElAjnabi.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=vfW5gRdRK%2B5GIdKtQGFP8R2eysY%3D&Expires=1627009279",
+                "has_video": false
+            },
+            "record_type": "group",
+            "type": "Film",
+            "is_on_display": false,
+            "last_on_display_place": null,
+            "last_on_display_date": null,
+            "is_context_indigenous": false,
+            "material_description": "",
+            "unpublished": false,
+            "first_production_date": "2007-01-01T11:00:00+11:00",
+            "brief_description": "<p>A digital storytelling workshop created to document stories from the Lebanese community.</p>",
+            "constellations_primary": [],
+            "constellations_other": [],
+            "recommendations": [],
+            "title_for_label": "<p>Stories from the Lebanese community: A Digital Storytelling project</p>",
+            "creator_credit_for_label": "<p>ACMI</p>",
+            "headline_credit_for_label": "<p>Australia, 2007</p>",
+            "description": "<p>A digital storytelling workshop created to document stories from the Lebanese community.</p>",
+            "description_for_label": [
+                "<p>A digital storytelling workshop created to document stories from the Lebanese community.</p>"
+            ],
+            "credit_line_for_label": "",
+            "details": [
+                {
+                    "label": "Subject categories",
+                    "display_values": [
+                        "Anthropology, Ethnology, Exploration & Travel&nbsp;→ Beirut (Lebanon)",
+                        "Anthropology, Ethnology, Exploration & Travel&nbsp;→ Emigration and immigration - Psychological aspects",
+                        "Anthropology, Ethnology, Exploration & Travel&nbsp;→ Lebanese - Australia",
+                        "Anthropology, Ethnology, Exploration & Travel&nbsp;→ Lebanon",
+                        "Anthropology, Ethnology, Exploration & Travel&nbsp;→ Women immigrants",
+                        "Biographical",
+                        "Digital Storytelling",
+                        "Documentary",
+                        "Documentary&nbsp;→ Documentary films - Australia",
+                        "Economics, Philosophy, Politics, Religion & Sociology&nbsp;→ Australia - Emigration and immigration",
+                        "Economics, Philosophy, Politics, Religion & Sociology&nbsp;→ Emigration and immigration",
+                        "Economics, Philosophy, Politics, Religion & Sociology&nbsp;→ Emigration and immigration - Psychological aspects",
+                        "Economics, Philosophy, Politics, Religion & Sociology&nbsp;→ Immigrants - Australia",
+                        "Economics, Philosophy, Politics, Religion & Sociology&nbsp;→ Lebanese - Australia",
+                        "Economics, Philosophy, Politics, Religion & Sociology&nbsp;→ Lebanon - Social conditions",
+                        "Economics, Philosophy, Politics, Religion & Sociology&nbsp;→ Women immigrants",
+                        "Family, Gender Identity, Relationships & Sexuality&nbsp;→ Children - Family relationships",
+                        "Family, Gender Identity, Relationships & Sexuality&nbsp;→ Children of immigrants",
+                        "Family, Gender Identity, Relationships & Sexuality&nbsp;→ Women immigrants",
+                        "Food, Health, Lifestyle, Medicine, Psychology & Safety&nbsp;→ Memory",
+                        "History&nbsp;→ Lebanon - History",
+                        "History&nbsp;→ Lebanon - History - Israeli intervention, 1982-1984",
+                        "People&nbsp;→ Autobiographical memory",
+                        "People&nbsp;→ Immigrants",
+                        "Places&nbsp;→ Beirut (Lebanon)",
+                        "Places&nbsp;→ Lebanon",
+                        "Short films",
+                        "Short films&nbsp;→ Short films - Australia"
+                    ]
+                }
+            ],
+            "stats": {
+                "tap_count": 0
+            },
+            "links": [],
+            "creators_primary": [
+                {
+                    "id": 1134003,
+                    "name": "ACMI",
+                    "creator_id": 6272,
+                    "role": "production company",
+                    "role_id": 941,
+                    "is_primary": true
+                }
+            ],
+            "creators_other": [
+                {
+                    "id": 1134005,
+                    "name": "ACMI Digital Storytelling",
+                    "creator_id": 10590,
+                    "role": "curator",
+                    "role_id": 501,
+                    "is_primary": false
+                },
+                {
+                    "id": 1134004,
+                    "name": "Arts Victoria",
+                    "creator_id": 11250,
+                    "role": "partner",
+                    "role_id": 575,
+                    "is_primary": false
+                }
+            ],
+            "video_links": [],
+            "media_note": null,
+            "images": [
+                {
+                    "id": 13956,
+                    "image_file": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/B2000919_ElAjnabi.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=POahleDKwmp8rZBR1Or8dHTrHMg%3D&Expires=1627009279",
+                    "image_file_thumbnail": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/B2000919_ElAjnabi.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=vfW5gRdRK%2B5GIdKtQGFP8R2eysY%3D&Expires=1627009279",
+                    "image_file_xs": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/B2000919_ElAjnabi.jpg.480x480_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=%2BIShvr4P1zla3nZgbnPqgAHxKas%3D&Expires=1627009279",
+                    "image_file_s": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/B2000919_ElAjnabi.jpg.960x960_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=9IIwd%2BUqEwCpnsxXWtDn0ZRe7oQ%3D&Expires=1627009279",
+                    "image_file_m": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/B2000919_ElAjnabi.jpg.1920x1920_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=pznZmYdZXR35IUSUncF2xAm4HZo%3D&Expires=1627009279",
+                    "image_file_l": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/B2000919_ElAjnabi.jpg.3840x3840_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=sNQqSC6dUrN8Pn91G8yxKGYO3kk%3D&Expires=1627009279",
+                    "caption": "El Ajnabi (Raymond Nashar) still",
+                    "credit_line": "",
+                    "alt_text": "",
+                    "width": 438,
+                    "height": 327,
+                    "access_level": "View anywhere"
+                },
+                {
+                    "id": 13946,
+                    "image_file": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/B2000982_FootprintsOnTheMountains.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=XXxXvIiJ%2B3AxaEvSSDPCGWdORAc%3D&Expires=1627009279",
+                    "image_file_thumbnail": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/B2000982_FootprintsOnTheMountains.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=8P5fvT%2BmAchNn71%2BJF4%2FwKdPO5o%3D&Expires=1627009279",
+                    "image_file_xs": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/B2000982_FootprintsOnTheMountains.jpg.480x480_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=3B9TSMP5rcKant%2FGFxEA7t4eXTk%3D&Expires=1627009279",
+                    "image_file_s": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/B2000982_FootprintsOnTheMountains.jpg.960x960_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=x7AywhjNQKXYthK%2FtJGrjlk45Vc%3D&Expires=1627009279",
+                    "image_file_m": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/B2000982_FootprintsOnTheMountains.jpg.1920x1920_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=JEXbxZHijIykLRTR3IUZVKlT9Vk%3D&Expires=1627009279",
+                    "image_file_l": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/B2000982_FootprintsOnTheMountains.jpg.3840x3840_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=rGTJP0HZUvMRf%2FCo18lDEPAHmv0%3D&Expires=1627009279",
+                    "caption": "Footprints on the Mountains (ACMI) still",
+                    "credit_line": "",
+                    "alt_text": "",
+                    "width": 438,
+                    "height": 327,
+                    "access_level": "View anywhere"
+                },
+                {
+                    "id": 13947,
+                    "image_file": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/B2000979_HelloDarling.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=NRIkytoCcaXltEIZ1sng3adWDU8%3D&Expires=1627009279",
+                    "image_file_thumbnail": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/B2000979_HelloDarling.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=1dK22zmXO6n8FAVxQLYsvHoMV2I%3D&Expires=1627009279",
+                    "image_file_xs": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/B2000979_HelloDarling.jpg.480x480_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=2a8hbkgh%2BnaHGfL%2BfoqxyCsI7yg%3D&Expires=1627009279",
+                    "image_file_s": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/B2000979_HelloDarling.jpg.960x960_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=BUISMZl1qaysTlf%2BX%2Ff6ZPSrUmY%3D&Expires=1627009279",
+                    "image_file_m": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/B2000979_HelloDarling.jpg.1920x1920_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=el4htcDf8pvZ81Hgs%2FRqqK7F%2FEc%3D&Expires=1627009279",
+                    "image_file_l": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/B2000979_HelloDarling.jpg.3840x3840_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=8ij8yc3sCi1ell%2B%2FQPZ7cAv01Q0%3D&Expires=1627009279",
+                    "caption": "Hello Darling (ACMI) still",
+                    "credit_line": "",
+                    "alt_text": "",
+                    "width": 438,
+                    "height": 327,
+                    "access_level": "View anywhere"
+                },
+                {
+                    "id": 13948,
+                    "image_file": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/B2000980_HyperBallad.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=BmMQo%2BGoL3d9cfz7VIp%2B%2FZcG0q8%3D&Expires=1627009279",
+                    "image_file_thumbnail": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/B2000980_HyperBallad.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=5TRymB42wBnPoPRBjIWXYn4hyx8%3D&Expires=1627009279",
+                    "image_file_xs": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/B2000980_HyperBallad.jpg.480x480_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=bOoldbClHf2c7x7lhA12bniXLcY%3D&Expires=1627009279",
+                    "image_file_s": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/B2000980_HyperBallad.jpg.960x960_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=4xgR%2FlVOArl1txdPtKrtRFiWzXI%3D&Expires=1627009279",
+                    "image_file_m": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/B2000980_HyperBallad.jpg.1920x1920_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=nFVqAynorBvZ9mhrstwPk3YRp4I%3D&Expires=1627009279",
+                    "image_file_l": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/B2000980_HyperBallad.jpg.3840x3840_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=PqMj6S33OVt0uZluNOKRU5N6%2B3k%3D&Expires=1627009279",
+                    "caption": "Hyper-Ballad (ACMI) still",
+                    "credit_line": "",
+                    "alt_text": "",
+                    "width": 438,
+                    "height": 327,
+                    "access_level": "View anywhere"
+                },
+                {
+                    "id": 13949,
+                    "image_file": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/B2000981_Jidi.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=nZrKvD15NtIRxrZYUQHkBdZsVLM%3D&Expires=1627009279",
+                    "image_file_thumbnail": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/B2000981_Jidi.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=pHAb0lAY1Z74ku4i4oeAMl7wctE%3D&Expires=1627009279",
+                    "image_file_xs": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/B2000981_Jidi.jpg.480x480_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=de84AJtY79A2SJp0iJyRsIHjZxM%3D&Expires=1627009279",
+                    "image_file_s": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/B2000981_Jidi.jpg.960x960_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=aLgnVYpUTB7SVpdp9jNCy0IVKv4%3D&Expires=1627009279",
+                    "image_file_m": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/B2000981_Jidi.jpg.1920x1920_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=WiHvrA2a8%2FJ40XqJqDyFN0pMDXY%3D&Expires=1627009279",
+                    "image_file_l": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/B2000981_Jidi.jpg.3840x3840_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=VJh%2FVri%2FTtjNBBfGO%2FwIk8sMIF0%3D&Expires=1627009279",
+                    "caption": "Jidi (ACMI) still",
+                    "credit_line": "",
+                    "alt_text": "",
+                    "width": 438,
+                    "height": 327,
+                    "access_level": "View anywhere"
+                },
+                {
+                    "id": 13950,
+                    "image_file": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/B2000978_LikeFatherLikeSon.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=gw%2FruhiLQ4N7esDviWFfyBq0YhQ%3D&Expires=1627009279",
+                    "image_file_thumbnail": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/B2000978_LikeFatherLikeSon.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=jl9A0OXRIs4uQzXJUqpqnD%2FyrT0%3D&Expires=1627009279",
+                    "image_file_xs": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/B2000978_LikeFatherLikeSon.jpg.480x480_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=Iku0dVwFuZ1hQ51gcxIkjB26whM%3D&Expires=1627009279",
+                    "image_file_s": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/B2000978_LikeFatherLikeSon.jpg.960x960_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=MwiEHrN1NPv%2BVnv9IcWfonFMHnk%3D&Expires=1627009279",
+                    "image_file_m": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/B2000978_LikeFatherLikeSon.jpg.1920x1920_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=zb4QwYtpb1Z5eZtD3Ajxmld%2BeJ8%3D&Expires=1627009279",
+                    "image_file_l": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/B2000978_LikeFatherLikeSon.jpg.3840x3840_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=Eq1ubOac85VXfGRHAaYYqyEDbw4%3D&Expires=1627009279",
+                    "caption": "Like Father Like Son (ACMI) still",
+                    "credit_line": "",
+                    "alt_text": "",
+                    "width": 438,
+                    "height": 327,
+                    "access_level": "View anywhere"
+                },
+                {
+                    "id": 13951,
+                    "image_file": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/B2000921_LovingLebanonAndAustralia.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=ZsZ1qFpdFRjK93%2BYPqn98Y1C5Cs%3D&Expires=1627009279",
+                    "image_file_thumbnail": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/B2000921_LovingLebanonAndAustralia.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=RT8O21rLj8JoVsICZ%2F3PYONkI2Q%3D&Expires=1627009279",
+                    "image_file_xs": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/B2000921_LovingLebanonAndAustralia.jpg.480x480_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=E5z6rLJh1HEwbd0fzBo7ebq8lDE%3D&Expires=1627009279",
+                    "image_file_s": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/B2000921_LovingLebanonAndAustralia.jpg.960x960_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=ZqQnvfp1bnjMtFBv4P5Im7KuUX8%3D&Expires=1627009279",
+                    "image_file_m": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/B2000921_LovingLebanonAndAustralia.jpg.1920x1920_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=JdMX4dxVesNJ%2F7KCVoZo5fJoeMM%3D&Expires=1627009279",
+                    "image_file_l": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/B2000921_LovingLebanonAndAustralia.jpg.3840x3840_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=0jR55Xs2GA35nMsV14ANxhpYxcI%3D&Expires=1627009279",
+                    "caption": "Loving Lebanon and Australia (ACMI) still",
+                    "credit_line": "",
+                    "alt_text": "",
+                    "width": 438,
+                    "height": 327,
+                    "access_level": "View anywhere"
+                },
+                {
+                    "id": 13945,
+                    "image_file": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/B2000922_TheAfflictionOfMemory.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=Ch4geTFeoMQBUjRMN%2BqPZ0m5aYc%3D&Expires=1627009279",
+                    "image_file_thumbnail": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/B2000922_TheAfflictionOfMemory.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=LBucRCtXCaq1omRdVoIKiy0P%2Fh4%3D&Expires=1627009279",
+                    "image_file_xs": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/B2000922_TheAfflictionOfMemory.jpg.480x480_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=4Rcw7Xx6FAieAEEPUABbp8BYONo%3D&Expires=1627009279",
+                    "image_file_s": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/B2000922_TheAfflictionOfMemory.jpg.960x960_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=xQbyQ6tQEekJwqzi0Y6zQzEVLKE%3D&Expires=1627009279",
+                    "image_file_m": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/B2000922_TheAfflictionOfMemory.jpg.1920x1920_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=objott1IbiaLsTuxUAdpKj8ebhk%3D&Expires=1627009279",
+                    "image_file_l": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/B2000922_TheAfflictionOfMemory.jpg.3840x3840_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=Bn8%2FcgTdmeD7drCbiIebL%2FunF%2Bw%3D&Expires=1627009279",
+                    "caption": "The Affliction of Memory (ACMI) still",
+                    "credit_line": "",
+                    "alt_text": "",
+                    "width": 438,
+                    "height": 327,
+                    "access_level": "View anywhere"
+                },
+                {
+                    "id": 13952,
+                    "image_file": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/B2000976_TheSkyIsBluer.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=f4wJ2ko2IQe%2FAEPZzX82P%2BvI9AQ%3D&Expires=1627009279",
+                    "image_file_thumbnail": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/B2000976_TheSkyIsBluer.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=7xpV4zlZ%2BtaBBJJM9iyKO4uH3I0%3D&Expires=1627009279",
+                    "image_file_xs": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/B2000976_TheSkyIsBluer.jpg.480x480_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=phFdB%2Bhr2y0I%2BhRAlKlhV3ALCjQ%3D&Expires=1627009279",
+                    "image_file_s": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/B2000976_TheSkyIsBluer.jpg.960x960_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=AZk1%2FbdpYRIiONkVjELllElIDFo%3D&Expires=1627009279",
+                    "image_file_m": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/B2000976_TheSkyIsBluer.jpg.1920x1920_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=%2BE%2B5R6Bh5g7a5JM1yMpDXJtkRXs%3D&Expires=1627009279",
+                    "image_file_l": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/B2000976_TheSkyIsBluer.jpg.3840x3840_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=xN7fSixkWTUFte1uexWVc%2Ftvzls%3D&Expires=1627009279",
+                    "caption": "The Sky is Bluer (ACMI) still",
+                    "credit_line": "",
+                    "alt_text": "",
+                    "width": 438,
+                    "height": 327,
+                    "access_level": "View anywhere"
+                },
+                {
+                    "id": 13953,
+                    "image_file": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/B2000923_TheSpacesInBetween.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=Q7tFdVH%2FrBQkcbBTw7wwps4OLXw%3D&Expires=1627009279",
+                    "image_file_thumbnail": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/B2000923_TheSpacesInBetween.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=5F8itawt8dBrzEr52sAJ%2BAPIwOM%3D&Expires=1627009279",
+                    "image_file_xs": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/B2000923_TheSpacesInBetween.jpg.480x480_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=FMcj5%2FUSjL9lQVg4gbvE%2BaZMWSQ%3D&Expires=1627009279",
+                    "image_file_s": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/B2000923_TheSpacesInBetween.jpg.960x960_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=XY5o1pKRYr8b6EWgT0BuJxgELM8%3D&Expires=1627009279",
+                    "image_file_m": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/B2000923_TheSpacesInBetween.jpg.1920x1920_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=C9UJMBxEiu%2F9c1ekOpsp9IPoIZo%3D&Expires=1627009279",
+                    "image_file_l": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/B2000923_TheSpacesInBetween.jpg.3840x3840_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=Igwviiv1HcFguJhfLRuOrB9smzE%3D&Expires=1627009279",
+                    "caption": "The Spaces in Between (ACMI) still",
+                    "credit_line": "",
+                    "alt_text": "",
+                    "width": 438,
+                    "height": 327,
+                    "access_level": "View anywhere"
+                },
+                {
+                    "id": 13954,
+                    "image_file": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/B2000977_TripoliMelbourneAndMe.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=VeNDQ4I%2FfcPLO4YqfiFW7dwBHCE%3D&Expires=1627009279",
+                    "image_file_thumbnail": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/B2000977_TripoliMelbourneAndMe.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=S4a8jidg5ithvO29QAUYHVTpFd4%3D&Expires=1627009279",
+                    "image_file_xs": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/B2000977_TripoliMelbourneAndMe.jpg.480x480_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=uxIe0OkOp14eBnf0RHmZLq9vWeQ%3D&Expires=1627009279",
+                    "image_file_s": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/B2000977_TripoliMelbourneAndMe.jpg.960x960_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=LhjfwHyA8TFxqBrfwQP8fK0LyJo%3D&Expires=1627009279",
+                    "image_file_m": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/B2000977_TripoliMelbourneAndMe.jpg.1920x1920_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=1RxdPkPtwYYUA73xlFP5E5Q4db8%3D&Expires=1627009279",
+                    "image_file_l": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/B2000977_TripoliMelbourneAndMe.jpg.3840x3840_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=ILC1%2FsWlNhj%2FlncIEXipKm7cCFg%3D&Expires=1627009279",
+                    "caption": "Tripoli Melbourne & Me! (ACMI) still",
+                    "credit_line": "",
+                    "alt_text": "",
+                    "width": 438,
+                    "height": 327,
+                    "access_level": "View anywhere"
+                },
+                {
+                    "id": 13955,
+                    "image_file": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/B2000924_WhereDoIBelong.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=FCCdy85bgScPWd0YjpUsRHNLbGM%3D&Expires=1627009279",
+                    "image_file_thumbnail": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/B2000924_WhereDoIBelong.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=0gNY8lSqXYla3D5Tf465mk7n574%3D&Expires=1627009279",
+                    "image_file_xs": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/B2000924_WhereDoIBelong.jpg.480x480_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=WiW0f4CHXpy98aVx34U01IXbPcs%3D&Expires=1627009279",
+                    "image_file_s": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/B2000924_WhereDoIBelong.jpg.960x960_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=6%2BRVqUGjsfVDeaT74uKez9o5xpw%3D&Expires=1627009279",
+                    "image_file_m": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/B2000924_WhereDoIBelong.jpg.1920x1920_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=8O4NXOXUiXL5583loKL2BtFdZUA%3D&Expires=1627009279",
+                    "image_file_l": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/B2000924_WhereDoIBelong.jpg.3840x3840_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=jqOsr417GtQE5nNABg6c8FbCKwc%3D&Expires=1627009279",
+                    "caption": "Where Do I Belong? (ACMI) still",
+                    "credit_line": "",
+                    "alt_text": "",
+                    "width": 438,
+                    "height": 327,
+                    "access_level": "View anywhere"
+                }
+            ],
+            "videos": [],
+            "holdings": [
+                {
+                    "name": "DVCAM; Master",
+                    "identifier": "",
+                    "description": ""
+                },
+                {
+                    "name": "DVCAM; Sub-master",
+                    "identifier": "",
+                    "description": ""
+                }
+            ],
+            "part_of": null,
+            "parts": [],
+            "part_siblings": [],
+            "group": null,
+            "group_works": [
+                {
+                    "id": 114314,
+                    "acmi_id": "14996",
+                    "title": "El Ajnabi",
+                    "title_annotation": "",
+                    "slug": "el-ajnabi",
+                    "creator_credit": "Raymond Nashar, ACMI Digital Storytelling and ACMI",
+                    "credit_line": "",
+                    "headline_credit": "Australia, 2007",
+                    "thumbnail": {
+                        "image_url": "https://xos-prod-media.s3.amazonaws.com/media/snapshot_1702_54s.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=ITZ64LJksgA9Zp%2Bm6MzZLlUl%2FqA%3D&Expires=1627009279",
+                        "animated_image_url": "",
+                        "has_video": true
+                    },
+                    "record_type": "work",
+                    "type": "Film",
+                    "is_on_display": false,
+                    "last_on_display_place": "ACMI Viewing Booths",
+                    "last_on_display_date": "2019-04-22",
+                    "is_context_indigenous": false,
+                    "material_description": "",
+                    "unpublished": false,
+                    "first_production_date": "2007-01-01T11:00:00+11:00"
+                },
+                {
+                    "id": 114317,
+                    "acmi_id": "15209",
+                    "title": "Footprints on the Mountains",
+                    "title_annotation": "",
+                    "slug": "footprints-on-the-mountains",
+                    "creator_credit": "Denise Mack, ACMI Digital Storytelling and ACMI",
+                    "credit_line": "",
+                    "headline_credit": "Australia, 2007",
+                    "thumbnail": {
+                        "image_url": "https://xos-prod-media.s3.amazonaws.com/media/snapshot_1577_54s.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=c48SJ%2F8fZ%2FWbYNDx7ATzRc72kB4%3D&Expires=1627009279",
+                        "animated_image_url": "",
+                        "has_video": true
+                    },
+                    "record_type": "work",
+                    "type": "Film",
+                    "is_on_display": false,
+                    "last_on_display_place": "ACMI Viewing Booths",
+                    "last_on_display_date": "2019-04-22",
+                    "is_context_indigenous": false,
+                    "material_description": "",
+                    "unpublished": false,
+                    "first_production_date": "2007-01-01T11:00:00+11:00"
+                },
+                {
+                    "id": 114318,
+                    "acmi_id": "15199",
+                    "title": "Hello Darling",
+                    "title_annotation": "",
+                    "slug": "hello-darling",
+                    "creator_credit": "Mike Helal, ACMI Digital Storytelling and ACMI",
+                    "credit_line": "",
+                    "headline_credit": "Australia, 2007",
+                    "thumbnail": {
+                        "image_url": "https://xos-prod-media.s3.amazonaws.com/media/snapshot_1488_50s.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=vK%2FlxgXYtpU9EgmriTMugZntFTQ%3D&Expires=1627009279",
+                        "animated_image_url": "",
+                        "has_video": true
+                    },
+                    "record_type": "work",
+                    "type": "Film",
+                    "is_on_display": false,
+                    "last_on_display_place": "ACMI Viewing Booths",
+                    "last_on_display_date": "2019-04-22",
+                    "is_context_indigenous": false,
+                    "material_description": "",
+                    "unpublished": false,
+                    "first_production_date": "2007-01-01T11:00:00+11:00"
+                },
+                {
+                    "id": 114319,
+                    "acmi_id": "15207",
+                    "title": "Hyper-Ballad",
+                    "title_annotation": "",
+                    "slug": "hyper-ballad",
+                    "creator_credit": "Firas Massouh, ACMI Digital Storytelling and ACMI",
+                    "credit_line": "",
+                    "headline_credit": "Australia, 2007",
+                    "thumbnail": {
+                        "image_url": "https://xos-prod-media.s3.amazonaws.com/media/snapshot_1567_48s.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=HC6p98rv98IT9SDqsWF8UHcI5xc%3D&Expires=1627009279",
+                        "animated_image_url": "",
+                        "has_video": true
+                    },
+                    "record_type": "work",
+                    "type": "Film",
+                    "is_on_display": false,
+                    "last_on_display_place": "ACMI Viewing Booths",
+                    "last_on_display_date": "2019-04-22",
+                    "is_context_indigenous": false,
+                    "material_description": "",
+                    "unpublished": false,
+                    "first_production_date": "2007-01-01T11:00:00+11:00"
+                },
+                {
+                    "id": 114320,
+                    "acmi_id": "15208",
+                    "title": "Jidi",
+                    "title_annotation": "",
+                    "slug": "jidi",
+                    "creator_credit": "Stephen Pascoe, ACMI Digital Storytelling and ACMI",
+                    "credit_line": "",
+                    "headline_credit": "Australia, 2007",
+                    "thumbnail": {
+                        "image_url": "https://xos-prod-media.s3.amazonaws.com/media/snapshot_1642_53s.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=RZ0mIb0JUSEa7Ep%2BMfiPYZ6XtIk%3D&Expires=1627009279",
+                        "animated_image_url": "",
+                        "has_video": true
+                    },
+                    "record_type": "work",
+                    "type": "Film",
+                    "is_on_display": false,
+                    "last_on_display_place": "ACMI Viewing Booths",
+                    "last_on_display_date": "2019-04-22",
+                    "is_context_indigenous": false,
+                    "material_description": "",
+                    "unpublished": false,
+                    "first_production_date": "2007-01-01T11:00:00+11:00"
+                },
+                {
+                    "id": 114321,
+                    "acmi_id": "15198",
+                    "title": "Like Father Like Son",
+                    "title_annotation": "",
+                    "slug": "like-father-like-son",
+                    "creator_credit": "Mounir Kiwan, ACMI Digital Storytelling and ACMI",
+                    "credit_line": "",
+                    "headline_credit": "Australia, 2007",
+                    "thumbnail": {
+                        "image_url": "https://xos-prod-media.s3.amazonaws.com/media/snapshot_1862_44s.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=BSDrVEAyjmN40uCwir351dUT02w%3D&Expires=1627009279",
+                        "animated_image_url": "",
+                        "has_video": true
+                    },
+                    "record_type": "work",
+                    "type": "Film",
+                    "is_on_display": false,
+                    "last_on_display_place": "ACMI Viewing Booths",
+                    "last_on_display_date": "2019-04-22",
+                    "is_context_indigenous": false,
+                    "material_description": "",
+                    "unpublished": false,
+                    "first_production_date": "2007-01-01T11:00:00+11:00"
+                },
+                {
+                    "id": 114322,
+                    "acmi_id": "15012",
+                    "title": "Loving Lebanon and Australia",
+                    "title_annotation": "",
+                    "slug": "loving-lebanon-and-australia",
+                    "creator_credit": "Sam Haddad, ACMI Digital Storytelling and ACMI",
+                    "credit_line": "",
+                    "headline_credit": "Australia, 2007",
+                    "thumbnail": {
+                        "image_url": "https://xos-prod-media.s3.amazonaws.com/media/snapshot_1533_71s.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=8jZeyXmio97j%2FMNNP0Q%2FkLqC4oU%3D&Expires=1627009279",
+                        "animated_image_url": "",
+                        "has_video": true
+                    },
+                    "record_type": "work",
+                    "type": "Film",
+                    "is_on_display": false,
+                    "last_on_display_place": "ACMI Viewing Booths",
+                    "last_on_display_date": "2019-04-22",
+                    "is_context_indigenous": false,
+                    "material_description": "",
+                    "unpublished": false,
+                    "first_production_date": "2007-01-01T11:00:00+11:00"
+                },
+                {
+                    "id": 114316,
+                    "acmi_id": "15013",
+                    "title": "The Affliction of Memory",
+                    "title_annotation": "",
+                    "slug": "the-affliction-of-memory",
+                    "creator_credit": "Zeina Zogheib, ACMI Digital Storytelling and ACMI",
+                    "credit_line": "",
+                    "headline_credit": "Australia, 2007",
+                    "thumbnail": {
+                        "image_url": "https://xos-prod-media.s3.amazonaws.com/media/snapshot_1832_59s.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=8ldWl1%2F4INC9%2Fb7R3WWiTXf3dcg%3D&Expires=1627009279",
+                        "animated_image_url": "",
+                        "has_video": true
+                    },
+                    "record_type": "work",
+                    "type": "Film",
+                    "is_on_display": false,
+                    "last_on_display_place": "ACMI Viewing Booths",
+                    "last_on_display_date": "2019-04-22",
+                    "is_context_indigenous": false,
+                    "material_description": "",
+                    "unpublished": false,
+                    "first_production_date": "2007-01-01T11:00:00+11:00"
+                },
+                {
+                    "id": 114323,
+                    "acmi_id": "15196",
+                    "title": "The Sky is Bluer",
+                    "title_annotation": "",
+                    "slug": "the-sky-is-bluer",
+                    "creator_credit": "Nadine Samaha, ACMI Digital Storytelling and ACMI",
+                    "credit_line": "",
+                    "headline_credit": "Australia, 2007",
+                    "thumbnail": {
+                        "image_url": "https://xos-prod-media.s3.amazonaws.com/media/snapshot_1667_56s.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=dcVsz3MnTK6yo9aYFamBbN7fBzU%3D&Expires=1627009279",
+                        "animated_image_url": "",
+                        "has_video": true
+                    },
+                    "record_type": "work",
+                    "type": "Film",
+                    "is_on_display": false,
+                    "last_on_display_place": "ACMI Viewing Booths",
+                    "last_on_display_date": "2019-04-22",
+                    "is_context_indigenous": false,
+                    "material_description": "",
+                    "unpublished": false,
+                    "first_production_date": "2007-01-01T11:00:00+11:00"
+                },
+                {
+                    "id": 114324,
+                    "acmi_id": "15014",
+                    "title": "The Spaces in Between",
+                    "title_annotation": "",
+                    "slug": "the-spaces-in-between",
+                    "creator_credit": "Carla Pascoe, ACMI Digital Storytelling and ACMI",
+                    "credit_line": "",
+                    "headline_credit": "Australia, 2007",
+                    "thumbnail": {
+                        "image_url": "https://xos-prod-media.s3.amazonaws.com/media/snapshot_1637_62s.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=pY%2FWUEJiODAk0bFeyM29zp1FGQE%3D&Expires=1627009279",
+                        "animated_image_url": "",
+                        "has_video": true
+                    },
+                    "record_type": "work",
+                    "type": "Film",
+                    "is_on_display": false,
+                    "last_on_display_place": "ACMI Viewing Booths",
+                    "last_on_display_date": "2019-04-22",
+                    "is_context_indigenous": false,
+                    "material_description": "",
+                    "unpublished": false,
+                    "first_production_date": "2007-01-01T11:00:00+11:00"
+                },
+                {
+                    "id": 114325,
+                    "acmi_id": "15197",
+                    "title": "Tripoli Melbourne & Me!",
+                    "title_annotation": "",
+                    "slug": "tripoli-melbourne-me",
+                    "creator_credit": "Dania Dabliz, ACMI Digital Storytelling and ACMI",
+                    "credit_line": "",
+                    "headline_credit": "Australia, 2007",
+                    "thumbnail": {
+                        "image_url": "https://xos-prod-media.s3.amazonaws.com/media/snapshot_1422_42s.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=QisXcbqRi433iodeAwuEogEFnSg%3D&Expires=1627009279",
+                        "animated_image_url": "",
+                        "has_video": true
+                    },
+                    "record_type": "work",
+                    "type": "Film",
+                    "is_on_display": false,
+                    "last_on_display_place": "ACMI Viewing Booths",
+                    "last_on_display_date": "2019-04-22",
+                    "is_context_indigenous": false,
+                    "material_description": "",
+                    "unpublished": false,
+                    "first_production_date": "2007-01-01T11:00:00+11:00"
+                },
+                {
+                    "id": 114326,
+                    "acmi_id": "15015",
+                    "title": "Where Do I Belong?",
+                    "title_annotation": "",
+                    "slug": "where-do-i-belong",
+                    "creator_credit": "Rita el-Khoury, ACMI Digital Storytelling and ACMI",
+                    "credit_line": "",
+                    "headline_credit": "Australia, 2007",
+                    "thumbnail": {
+                        "image_url": "https://xos-prod-media.s3.amazonaws.com/media/snapshot_1254_51s.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=udOCiEIrPvj4lmZ3pFeP5ZO0dwc%3D&Expires=1627009279",
+                        "animated_image_url": "",
+                        "has_video": true
+                    },
+                    "record_type": "work",
+                    "type": "Film",
+                    "is_on_display": false,
+                    "last_on_display_place": "ACMI Viewing Booths",
+                    "last_on_display_date": "2019-04-22",
+                    "is_context_indigenous": false,
+                    "material_description": "",
+                    "unpublished": false,
+                    "first_production_date": "2007-01-01T11:00:00+11:00"
+                }
+            ],
+            "group_siblings": [],
+            "source": {
+                "name": "Vernon",
+                "slug": "vernon"
+            },
+            "source_identifier": "14997",
+            "production_places": [
+                {
+                    "id": 3,
+                    "name": "Australia",
+                    "slug": "australia"
+                }
+            ],
+            "production_dates": [
+                {
+                    "date": "2007",
+                    "notes": "12-14 April 2007",
+                    "to_year": "2007"
+                }
+            ],
+            "labels": [
+                53807
+            ]
+        },
+        {
+            "id": 114326,
+            "acmi_id": "15015",
+            "title": "Where Do I Belong?",
+            "title_annotation": "",
+            "slug": "where-do-i-belong",
+            "creator_credit": "Rita el-Khoury, ACMI Digital Storytelling and ACMI",
+            "credit_line": "",
+            "headline_credit": "Australia, 2007",
+            "thumbnail": {
+                "image_url": "https://xos-prod-media.s3.amazonaws.com/media/snapshot_1254_51s.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=udOCiEIrPvj4lmZ3pFeP5ZO0dwc%3D&Expires=1627009279",
+                "animated_image_url": "",
+                "has_video": true
+            },
+            "record_type": "work",
+            "type": "Film",
+            "is_on_display": false,
+            "last_on_display_place": "ACMI Viewing Booths",
+            "last_on_display_date": "2019-04-22",
+            "is_context_indigenous": false,
+            "material_description": "",
+            "unpublished": false,
+            "first_production_date": "2007-01-01T11:00:00+11:00",
+            "brief_description": "<p>Rita el-Khoury travels to Lebanon every year. She calls Australia and Lebanon her home but it wasn&#8217;t until she was caught in the middle of the 2006 Israeli bombing of Beiruit that she fully appreciated what that meant.</p>",
+            "constellations_primary": [],
+            "constellations_other": [],
+            "recommendations": [],
+            "title_for_label": "<p>Where Do I Belong?</p>",
+            "creator_credit_for_label": "<p>Rita el-Khoury, ACMI Digital Storytelling and ACMI</p>",
+            "headline_credit_for_label": "<p>Australia, 2007</p>",
+            "description": "<p>Rita el-Khoury travels to Lebanon every year. She calls Australia and Lebanon her home but it wasn&#8217;t until she was caught in the middle of the 2006 Israeli bombing of Beiruit that she fully appreciated what that meant.</p>",
+            "description_for_label": [
+                "<p>Rita el-Khoury travels to Lebanon every year. She calls Australia and Lebanon her home but it wasn&#8217;t until she was caught in the middle of the 2006 Israeli bombing of Beiruit that she fully appreciated what that meant.</p>"
+            ],
+            "credit_line_for_label": "",
+            "details": [
+                {
+                    "label": "Duration",
+                    "display_values": [
+                        "00:02:34:00"
+                    ]
+                },
+                {
+                    "label": "Language",
+                    "display_values": [
+                        "English"
+                    ]
+                },
+                {
+                    "label": "Audience classifications",
+                    "display_values": [
+                        "ACMI classified",
+                        "Mediatheque - all ages (ACMI classified)"
+                    ]
+                },
+                {
+                    "label": "Subject categories",
+                    "display_values": [
+                        "Anthropology, Ethnology, Exploration & Travel&nbsp;→ Beirut (Lebanon)",
+                        "Anthropology, Ethnology, Exploration & Travel&nbsp;→ Damascus (Syria)",
+                        "Anthropology, Ethnology, Exploration & Travel&nbsp;→ Emigration and immigration - Psychological aspects",
+                        "Anthropology, Ethnology, Exploration & Travel&nbsp;→ Lebanese - Australia",
+                        "Anthropology, Ethnology, Exploration & Travel&nbsp;→ Lebanon",
+                        "Armed Forces, Military, War & Weapons&nbsp;→ Bombing, Aerial",
+                        "Armed Forces, Military, War & Weapons&nbsp;→ War",
+                        "Biographical",
+                        "Digital Storytelling",
+                        "Documentary",
+                        "Documentary&nbsp;→ Documentary films - Australia",
+                        "Economics, Philosophy, Politics, Religion & Sociology&nbsp;→ Australia - Emigration and immigration",
+                        "Economics, Philosophy, Politics, Religion & Sociology&nbsp;→ Emigration and immigration - Psychological aspects",
+                        "Economics, Philosophy, Politics, Religion & Sociology&nbsp;→ Immigrants - Australia",
+                        "Economics, Philosophy, Politics, Religion & Sociology&nbsp;→ Lebanese - Australia",
+                        "Economics, Philosophy, Politics, Religion & Sociology&nbsp;→ Lebanon - Social conditions",
+                        "Food, Health, Lifestyle, Medicine, Psychology & Safety&nbsp;→ Group identity",
+                        "Food, Health, Lifestyle, Medicine, Psychology & Safety&nbsp;→ Identity (Psychology)",
+                        "Places&nbsp;→ Beirut (Lebanon)",
+                        "Places&nbsp;→ Damascus (Syria)",
+                        "Places&nbsp;→ Lebanon",
+                        "Short films",
+                        "Short films&nbsp;→ Short films - Australia"
+                    ]
+                },
+                {
+                    "label": "Sound/audio",
+                    "display_values": [
+                        "Sound"
+                    ]
+                },
+                {
+                    "label": "Colour",
+                    "display_values": [
+                        "Colour"
+                    ]
+                }
+            ],
+            "stats": {
+                "tap_count": 0
+            },
+            "links": [],
+            "creators_primary": [
+                {
+                    "id": 1134002,
+                    "name": "Rita el-Khoury",
+                    "creator_id": 11723,
+                    "role": "creator",
+                    "role_id": 968,
+                    "is_primary": true
+                },
+                {
+                    "id": 1134001,
+                    "name": "ACMI Digital Storytelling",
+                    "creator_id": 10590,
+                    "role": "producer",
+                    "role_id": 960,
+                    "is_primary": true
+                },
+                {
+                    "id": 1133999,
+                    "name": "ACMI",
+                    "creator_id": 6272,
+                    "role": "production company",
+                    "role_id": 941,
+                    "is_primary": true
+                }
+            ],
+            "creators_other": [
+                {
+                    "id": 1134000,
+                    "name": "Arts Victoria",
+                    "creator_id": 11250,
+                    "role": "support",
+                    "role_id": 492,
+                    "is_primary": false
+                }
+            ],
+            "video_links": [
+                {
+                    "id": 408,
+                    "name": "ACMI External Digital Access Copy",
+                    "uri": "https://youtu.be/bJHIF-EvWmM"
+                }
+            ],
+            "media_note": null,
+            "images": [
+                {
+                    "id": 13955,
+                    "image_file": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/B2000924_WhereDoIBelong.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=FCCdy85bgScPWd0YjpUsRHNLbGM%3D&Expires=1627009279",
+                    "image_file_thumbnail": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/B2000924_WhereDoIBelong.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=0gNY8lSqXYla3D5Tf465mk7n574%3D&Expires=1627009279",
+                    "image_file_xs": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/B2000924_WhereDoIBelong.jpg.480x480_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=WiW0f4CHXpy98aVx34U01IXbPcs%3D&Expires=1627009279",
+                    "image_file_s": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/B2000924_WhereDoIBelong.jpg.960x960_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=6%2BRVqUGjsfVDeaT74uKez9o5xpw%3D&Expires=1627009279",
+                    "image_file_m": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/B2000924_WhereDoIBelong.jpg.1920x1920_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=8O4NXOXUiXL5583loKL2BtFdZUA%3D&Expires=1627009279",
+                    "image_file_l": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/B2000924_WhereDoIBelong.jpg.3840x3840_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=jqOsr417GtQE5nNABg6c8FbCKwc%3D&Expires=1627009279",
+                    "caption": "Where Do I Belong? (ACMI) still",
+                    "credit_line": "",
+                    "alt_text": "",
+                    "width": 438,
+                    "height": 327,
+                    "access_level": "View anywhere"
+                }
+            ],
+            "videos": [
+                {
+                    "id": 1254,
+                    "title": "B2000924_WhereDoIBelong.mov",
+                    "resource": "https://xos-prod-media.s3.amazonaws.com/media/a_B2000924_WhereDoIBelong.mp4?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=HfT%2BB9Kio96md8nGmFdylu9sNcI%3D&Expires=1627009279",
+                    "web_resource": "https://xos-prod-media.s3.amazonaws.com/media/w_B2000924_WhereDoIBelong.mp4?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=Jn%2BQGbH%2BO9SWOX%2BvGogCd5%2Bn2hA%3D&Expires=1627009279",
+                    "duration_secs": 154.6,
+                    "subtitles": null,
+                    "master_metadata": {
+                        "title": "B2000924_WhereDoIBelong",
+                        "width": 768,
+                        "height": 576,
+                        "checksum": "2fedc68c7d19cfb22cc98685cd7b727a",
+                        "filetype": "m",
+                        "mime_type": "video/quicktime",
+                        "vernon_id": "",
+                        "audio_codec": "aac",
+                        "video_codec": "h264",
+                        "duration_hms": "00:02:34:15",
+                        "duration_secs": 154.6,
+                        "audio_bit_rate": 104704,
+                        "audio_channels": 2,
+                        "video_bit_rate": 7035331,
+                        "file_size_bytes": 138016632,
+                        "overall_bit_rate": 7141869,
+                        "video_frame_rate": 25.0,
+                        "audio_sample_rate": 44100,
+                        "creation_datetime": "2010-08-06 00:59:40+00:00",
+                        "audio_max_bit_rate": 128000,
+                        "video_max_bit_rate": null
+                    },
+                    "access_metadata": {
+                        "title": "B2000924_WhereDoIBelong",
+                        "width": 768,
+                        "height": 576,
+                        "checksum": "ade54da8477296c285e49d5812472129",
+                        "filetype": "a",
+                        "mime_type": "video/mp4",
+                        "vernon_id": "",
+                        "audio_codec": "aac",
+                        "video_codec": "h264",
+                        "duration_hms": "00:02:34:16",
+                        "duration_secs": 154.645,
+                        "audio_bit_rate": 128068,
+                        "audio_channels": 2,
+                        "video_bit_rate": 679175,
+                        "file_size_bytes": 15728820,
+                        "overall_bit_rate": 813673,
+                        "video_frame_rate": 25.0,
+                        "audio_sample_rate": 44100,
+                        "creation_datetime": "2020-10-10 10:11:46.097391+11:00",
+                        "audio_max_bit_rate": 128068,
+                        "video_max_bit_rate": null
+                    },
+                    "web_metadata": {
+                        "title": "B2000924_WhereDoIBelong",
+                        "width": 768,
+                        "height": 576,
+                        "checksum": "c77d7abce0f39389f3e41f5de3df1064",
+                        "filetype": "w",
+                        "mime_type": "video/mp4",
+                        "vernon_id": "",
+                        "audio_codec": "aac",
+                        "video_codec": "h264",
+                        "duration_hms": "00:02:34:16",
+                        "duration_secs": 154.645,
+                        "audio_bit_rate": 128068,
+                        "audio_channels": 2,
+                        "video_bit_rate": 287041,
+                        "file_size_bytes": 8150846,
+                        "overall_bit_rate": 421654,
+                        "video_frame_rate": 25.0,
+                        "audio_sample_rate": 44100,
+                        "creation_datetime": "2020-10-10 10:13:04.073247+11:00",
+                        "audio_max_bit_rate": 128068,
+                        "video_max_bit_rate": null
+                    },
+                    "access_level": "View anywhere",
+                    "snapshot": "https://xos-prod-media.s3.amazonaws.com/media/snapshot_1254_51s.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=udOCiEIrPvj4lmZ3pFeP5ZO0dwc%3D&Expires=1627009279",
+                    "animated_snapshot": ""
+                }
+            ],
+            "holdings": [
+                {
+                    "name": "DVCAM; Master",
+                    "identifier": "",
+                    "description": ""
+                },
+                {
+                    "name": "MOV file H264; ACMI Digital Access Copy - presentation",
+                    "identifier": "",
+                    "description": ""
+                },
+                {
+                    "name": "DVCAM; Sub-master",
+                    "identifier": "",
+                    "description": ""
+                },
+                {
+                    "name": "MOV file H264; ACMI External Digital Access Copy",
+                    "identifier": "",
+                    "description": ""
+                }
+            ],
+            "part_of": null,
+            "parts": [],
+            "part_siblings": [],
+            "group": {
+                "id": 114315,
+                "acmi_id": "14997",
+                "title": "Stories from the Lebanese community: A Digital Storytelling project",
+                "title_annotation": "",
+                "slug": "stories-from-the-lebanese-community-a-digital-storytelling-project",
+                "creator_credit": "ACMI",
+                "credit_line": "",
+                "headline_credit": "Australia, 2007",
+                "thumbnail": {
+                    "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/B2000919_ElAjnabi.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=vfW5gRdRK%2B5GIdKtQGFP8R2eysY%3D&Expires=1627009279",
+                    "has_video": false
+                },
+                "record_type": "group",
+                "type": "Film",
+                "is_on_display": false,
+                "last_on_display_place": null,
+                "last_on_display_date": null,
+                "is_context_indigenous": false,
+                "material_description": "",
+                "unpublished": false,
+                "first_production_date": "2007-01-01T11:00:00+11:00"
+            },
+            "group_works": [],
+            "group_siblings": [
+                {
+                    "id": 114314,
+                    "acmi_id": "14996",
+                    "title": "El Ajnabi",
+                    "title_annotation": "",
+                    "slug": "el-ajnabi",
+                    "creator_credit": "Raymond Nashar, ACMI Digital Storytelling and ACMI",
+                    "credit_line": "",
+                    "headline_credit": "Australia, 2007",
+                    "thumbnail": {
+                        "image_url": "https://xos-prod-media.s3.amazonaws.com/media/snapshot_1702_54s.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=ITZ64LJksgA9Zp%2Bm6MzZLlUl%2FqA%3D&Expires=1627009279",
+                        "animated_image_url": "",
+                        "has_video": true
+                    },
+                    "record_type": "work",
+                    "type": "Film",
+                    "is_on_display": false,
+                    "last_on_display_place": "ACMI Viewing Booths",
+                    "last_on_display_date": "2019-04-22",
+                    "is_context_indigenous": false,
+                    "material_description": "",
+                    "unpublished": false,
+                    "first_production_date": "2007-01-01T11:00:00+11:00"
+                },
+                {
+                    "id": 114317,
+                    "acmi_id": "15209",
+                    "title": "Footprints on the Mountains",
+                    "title_annotation": "",
+                    "slug": "footprints-on-the-mountains",
+                    "creator_credit": "Denise Mack, ACMI Digital Storytelling and ACMI",
+                    "credit_line": "",
+                    "headline_credit": "Australia, 2007",
+                    "thumbnail": {
+                        "image_url": "https://xos-prod-media.s3.amazonaws.com/media/snapshot_1577_54s.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=c48SJ%2F8fZ%2FWbYNDx7ATzRc72kB4%3D&Expires=1627009279",
+                        "animated_image_url": "",
+                        "has_video": true
+                    },
+                    "record_type": "work",
+                    "type": "Film",
+                    "is_on_display": false,
+                    "last_on_display_place": "ACMI Viewing Booths",
+                    "last_on_display_date": "2019-04-22",
+                    "is_context_indigenous": false,
+                    "material_description": "",
+                    "unpublished": false,
+                    "first_production_date": "2007-01-01T11:00:00+11:00"
+                },
+                {
+                    "id": 114318,
+                    "acmi_id": "15199",
+                    "title": "Hello Darling",
+                    "title_annotation": "",
+                    "slug": "hello-darling",
+                    "creator_credit": "Mike Helal, ACMI Digital Storytelling and ACMI",
+                    "credit_line": "",
+                    "headline_credit": "Australia, 2007",
+                    "thumbnail": {
+                        "image_url": "https://xos-prod-media.s3.amazonaws.com/media/snapshot_1488_50s.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=vK%2FlxgXYtpU9EgmriTMugZntFTQ%3D&Expires=1627009279",
+                        "animated_image_url": "",
+                        "has_video": true
+                    },
+                    "record_type": "work",
+                    "type": "Film",
+                    "is_on_display": false,
+                    "last_on_display_place": "ACMI Viewing Booths",
+                    "last_on_display_date": "2019-04-22",
+                    "is_context_indigenous": false,
+                    "material_description": "",
+                    "unpublished": false,
+                    "first_production_date": "2007-01-01T11:00:00+11:00"
+                },
+                {
+                    "id": 114319,
+                    "acmi_id": "15207",
+                    "title": "Hyper-Ballad",
+                    "title_annotation": "",
+                    "slug": "hyper-ballad",
+                    "creator_credit": "Firas Massouh, ACMI Digital Storytelling and ACMI",
+                    "credit_line": "",
+                    "headline_credit": "Australia, 2007",
+                    "thumbnail": {
+                        "image_url": "https://xos-prod-media.s3.amazonaws.com/media/snapshot_1567_48s.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=HC6p98rv98IT9SDqsWF8UHcI5xc%3D&Expires=1627009279",
+                        "animated_image_url": "",
+                        "has_video": true
+                    },
+                    "record_type": "work",
+                    "type": "Film",
+                    "is_on_display": false,
+                    "last_on_display_place": "ACMI Viewing Booths",
+                    "last_on_display_date": "2019-04-22",
+                    "is_context_indigenous": false,
+                    "material_description": "",
+                    "unpublished": false,
+                    "first_production_date": "2007-01-01T11:00:00+11:00"
+                },
+                {
+                    "id": 114320,
+                    "acmi_id": "15208",
+                    "title": "Jidi",
+                    "title_annotation": "",
+                    "slug": "jidi",
+                    "creator_credit": "Stephen Pascoe, ACMI Digital Storytelling and ACMI",
+                    "credit_line": "",
+                    "headline_credit": "Australia, 2007",
+                    "thumbnail": {
+                        "image_url": "https://xos-prod-media.s3.amazonaws.com/media/snapshot_1642_53s.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=RZ0mIb0JUSEa7Ep%2BMfiPYZ6XtIk%3D&Expires=1627009279",
+                        "animated_image_url": "",
+                        "has_video": true
+                    },
+                    "record_type": "work",
+                    "type": "Film",
+                    "is_on_display": false,
+                    "last_on_display_place": "ACMI Viewing Booths",
+                    "last_on_display_date": "2019-04-22",
+                    "is_context_indigenous": false,
+                    "material_description": "",
+                    "unpublished": false,
+                    "first_production_date": "2007-01-01T11:00:00+11:00"
+                },
+                {
+                    "id": 114321,
+                    "acmi_id": "15198",
+                    "title": "Like Father Like Son",
+                    "title_annotation": "",
+                    "slug": "like-father-like-son",
+                    "creator_credit": "Mounir Kiwan, ACMI Digital Storytelling and ACMI",
+                    "credit_line": "",
+                    "headline_credit": "Australia, 2007",
+                    "thumbnail": {
+                        "image_url": "https://xos-prod-media.s3.amazonaws.com/media/snapshot_1862_44s.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=BSDrVEAyjmN40uCwir351dUT02w%3D&Expires=1627009279",
+                        "animated_image_url": "",
+                        "has_video": true
+                    },
+                    "record_type": "work",
+                    "type": "Film",
+                    "is_on_display": false,
+                    "last_on_display_place": "ACMI Viewing Booths",
+                    "last_on_display_date": "2019-04-22",
+                    "is_context_indigenous": false,
+                    "material_description": "",
+                    "unpublished": false,
+                    "first_production_date": "2007-01-01T11:00:00+11:00"
+                },
+                {
+                    "id": 114322,
+                    "acmi_id": "15012",
+                    "title": "Loving Lebanon and Australia",
+                    "title_annotation": "",
+                    "slug": "loving-lebanon-and-australia",
+                    "creator_credit": "Sam Haddad, ACMI Digital Storytelling and ACMI",
+                    "credit_line": "",
+                    "headline_credit": "Australia, 2007",
+                    "thumbnail": {
+                        "image_url": "https://xos-prod-media.s3.amazonaws.com/media/snapshot_1533_71s.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=8jZeyXmio97j%2FMNNP0Q%2FkLqC4oU%3D&Expires=1627009279",
+                        "animated_image_url": "",
+                        "has_video": true
+                    },
+                    "record_type": "work",
+                    "type": "Film",
+                    "is_on_display": false,
+                    "last_on_display_place": "ACMI Viewing Booths",
+                    "last_on_display_date": "2019-04-22",
+                    "is_context_indigenous": false,
+                    "material_description": "",
+                    "unpublished": false,
+                    "first_production_date": "2007-01-01T11:00:00+11:00"
+                },
+                {
+                    "id": 114316,
+                    "acmi_id": "15013",
+                    "title": "The Affliction of Memory",
+                    "title_annotation": "",
+                    "slug": "the-affliction-of-memory",
+                    "creator_credit": "Zeina Zogheib, ACMI Digital Storytelling and ACMI",
+                    "credit_line": "",
+                    "headline_credit": "Australia, 2007",
+                    "thumbnail": {
+                        "image_url": "https://xos-prod-media.s3.amazonaws.com/media/snapshot_1832_59s.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=8ldWl1%2F4INC9%2Fb7R3WWiTXf3dcg%3D&Expires=1627009279",
+                        "animated_image_url": "",
+                        "has_video": true
+                    },
+                    "record_type": "work",
+                    "type": "Film",
+                    "is_on_display": false,
+                    "last_on_display_place": "ACMI Viewing Booths",
+                    "last_on_display_date": "2019-04-22",
+                    "is_context_indigenous": false,
+                    "material_description": "",
+                    "unpublished": false,
+                    "first_production_date": "2007-01-01T11:00:00+11:00"
+                },
+                {
+                    "id": 114323,
+                    "acmi_id": "15196",
+                    "title": "The Sky is Bluer",
+                    "title_annotation": "",
+                    "slug": "the-sky-is-bluer",
+                    "creator_credit": "Nadine Samaha, ACMI Digital Storytelling and ACMI",
+                    "credit_line": "",
+                    "headline_credit": "Australia, 2007",
+                    "thumbnail": {
+                        "image_url": "https://xos-prod-media.s3.amazonaws.com/media/snapshot_1667_56s.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=dcVsz3MnTK6yo9aYFamBbN7fBzU%3D&Expires=1627009279",
+                        "animated_image_url": "",
+                        "has_video": true
+                    },
+                    "record_type": "work",
+                    "type": "Film",
+                    "is_on_display": false,
+                    "last_on_display_place": "ACMI Viewing Booths",
+                    "last_on_display_date": "2019-04-22",
+                    "is_context_indigenous": false,
+                    "material_description": "",
+                    "unpublished": false,
+                    "first_production_date": "2007-01-01T11:00:00+11:00"
+                },
+                {
+                    "id": 114324,
+                    "acmi_id": "15014",
+                    "title": "The Spaces in Between",
+                    "title_annotation": "",
+                    "slug": "the-spaces-in-between",
+                    "creator_credit": "Carla Pascoe, ACMI Digital Storytelling and ACMI",
+                    "credit_line": "",
+                    "headline_credit": "Australia, 2007",
+                    "thumbnail": {
+                        "image_url": "https://xos-prod-media.s3.amazonaws.com/media/snapshot_1637_62s.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=pY%2FWUEJiODAk0bFeyM29zp1FGQE%3D&Expires=1627009279",
+                        "animated_image_url": "",
+                        "has_video": true
+                    },
+                    "record_type": "work",
+                    "type": "Film",
+                    "is_on_display": false,
+                    "last_on_display_place": "ACMI Viewing Booths",
+                    "last_on_display_date": "2019-04-22",
+                    "is_context_indigenous": false,
+                    "material_description": "",
+                    "unpublished": false,
+                    "first_production_date": "2007-01-01T11:00:00+11:00"
+                },
+                {
+                    "id": 114325,
+                    "acmi_id": "15197",
+                    "title": "Tripoli Melbourne & Me!",
+                    "title_annotation": "",
+                    "slug": "tripoli-melbourne-me",
+                    "creator_credit": "Dania Dabliz, ACMI Digital Storytelling and ACMI",
+                    "credit_line": "",
+                    "headline_credit": "Australia, 2007",
+                    "thumbnail": {
+                        "image_url": "https://xos-prod-media.s3.amazonaws.com/media/snapshot_1422_42s.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=QisXcbqRi433iodeAwuEogEFnSg%3D&Expires=1627009279",
+                        "animated_image_url": "",
+                        "has_video": true
+                    },
+                    "record_type": "work",
+                    "type": "Film",
+                    "is_on_display": false,
+                    "last_on_display_place": "ACMI Viewing Booths",
+                    "last_on_display_date": "2019-04-22",
+                    "is_context_indigenous": false,
+                    "material_description": "",
+                    "unpublished": false,
+                    "first_production_date": "2007-01-01T11:00:00+11:00"
+                }
+            ],
+            "source": {
+                "name": "Vernon",
+                "slug": "vernon"
+            },
+            "source_identifier": "15015",
+            "production_places": [
+                {
+                    "id": 3,
+                    "name": "Australia",
+                    "slug": "australia"
+                }
+            ],
+            "production_dates": [
+                {
+                    "date": "2007",
+                    "notes": "12-14 April 2007",
+                    "to_year": "2007"
+                }
+            ],
+            "labels": [
+                53818
+            ]
+        }
+    ]
+}

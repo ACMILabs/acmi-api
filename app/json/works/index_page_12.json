@@ -1,0 +1,2000 @@
+{
+    "count": 922,
+    "next": "https://api.acmi.net.au/works/?page=13",
+    "previous": "https://api.acmi.net.au/works/?page=11",
+    "results": [
+        {
+            "id": 114496,
+            "acmi_id": "181256",
+            "title": "Sawyer's View Master Viewing Reel - Hansel and Gretel",
+            "title_annotation": "",
+            "slug": "sawyers-view-master-viewing-reel-hansel-and-gretal",
+            "creator_credit": "",
+            "credit_line": "",
+            "headline_credit": "",
+            "thumbnail": {
+                "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/P179116_SawyersViewMasterViewingReels.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=X4beY63ZpksrCIbR%2FIgNcy9NM7s%3D&Expires=1627009063",
+                "has_video": false
+            },
+            "record_type": "work",
+            "type": "Object",
+            "is_on_display": false,
+            "last_on_display_place": null,
+            "last_on_display_date": null,
+            "is_context_indigenous": false,
+            "material_description": "View Master viewing reel in paper envelope",
+            "unpublished": false,
+            "first_production_date": null,
+            "brief_description": "<p>View Master Viewing Reels from Sawyer&#8217;s, Inc.<br />\nFT-2 Hansel and gretel.<br />\nOriginally Part 7 of P179116, individual record made for location tracking/ XOS purposes while on display (BUT it is on display in MI-08-C01 with the other reels from P179116? fmm 1/4/21)</p>",
+            "constellations_primary": [],
+            "constellations_other": [],
+            "recommendations": [],
+            "title_for_label": "<p>Sawyer&#8217;s View Master Viewing Reel - Hansel and Gretel</p>",
+            "creator_credit_for_label": "",
+            "headline_credit_for_label": "",
+            "description": "<p>View Master Viewing Reels from Sawyer&#8217;s, Inc.<br />\nFT-2 Hansel and gretel.<br />\nOriginally Part 7 of P179116, individual record made for location tracking/ XOS purposes while on display (BUT it is on display in MI-08-C01 with the other reels from P179116? fmm 1/4/21)</p>",
+            "description_for_label": [
+                "<p>View Master Viewing Reels from Sawyer&#8217;s, Inc.<br />\nFT-2 Hansel and gretel.<br />\nOriginally Part 7 of P179116, individual record made for location tracking/ XOS purposes while on display (BUT it is on display in MI-08-C01 with the other reels from P179116? fmm 1/4/21)</p>"
+            ],
+            "credit_line_for_label": "",
+            "details": [
+                {
+                    "label": "Curatorial section",
+                    "display_values": [
+                        "The Story of the Moving Image&nbsp;→ Moving Pictures&nbsp;→ 08. Immersive Innovations&nbsp;→ MI-08-C01"
+                    ]
+                },
+                {
+                    "label": "Measurements",
+                    "display_values": [
+                        "94 x 92mm",
+                        "90mm"
+                    ]
+                },
+                {
+                    "label": "Materials",
+                    "display_values": [
+                        "View Master viewing reel in paper envelope"
+                    ]
+                }
+            ],
+            "stats": {
+                "tap_count": 0
+            },
+            "links": [],
+            "creators_primary": [],
+            "creators_other": [],
+            "video_links": [],
+            "media_note": null,
+            "images": [
+                {
+                    "id": 12876,
+                    "image_file": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/P179116_SawyersViewMasterViewingReels.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=1gRfPCdsPUepb7r2zGAoV%2BtuNuM%3D&Expires=1627009063",
+                    "image_file_thumbnail": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/P179116_SawyersViewMasterViewingReels.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=X4beY63ZpksrCIbR%2FIgNcy9NM7s%3D&Expires=1627009063",
+                    "image_file_xs": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/P179116_SawyersViewMasterViewingReels.jpg.480x480_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=mi2gCDC6FQ8WuhokjOVvgKzGz6Q%3D&Expires=1627009063",
+                    "image_file_s": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/P179116_SawyersViewMasterViewingReels.jpg.960x960_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=honbUOhOhlqaeS8HPcMerwoyxD4%3D&Expires=1627009063",
+                    "image_file_m": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/P179116_SawyersViewMasterViewingReels.jpg.1920x1920_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=U5xNuY8XtqUn7eueakGSsV3%2FpAQ%3D&Expires=1627009063",
+                    "image_file_l": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/P179116_SawyersViewMasterViewingReels.jpg.3840x3840_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=QyUPrGkHcnkp3TJxhjRxW4wCUng%3D&Expires=1627009063",
+                    "caption": "P179116_SawyersViewMasterViewingReels",
+                    "credit_line": "Photograph by Egmont Contreras, ACMI",
+                    "alt_text": "",
+                    "width": 4800,
+                    "height": 3200,
+                    "access_level": "View anywhere"
+                }
+            ],
+            "videos": [],
+            "holdings": [],
+            "part_of": null,
+            "parts": [],
+            "part_siblings": [],
+            "group": null,
+            "group_works": [],
+            "group_siblings": [],
+            "source": {
+                "name": "Vernon",
+                "slug": "vernon"
+            },
+            "source_identifier": "181256",
+            "production_places": [],
+            "production_dates": [],
+            "labels": [
+                53988
+            ]
+        },
+        {
+            "id": 99897,
+            "acmi_id": "181255",
+            "title": "Commodore C2N Datasette",
+            "title_annotation": "",
+            "slug": "commodore-c2n-datasette",
+            "creator_credit": "Commodore Business Machines",
+            "credit_line": "<p>ACMI Collection</p>",
+            "headline_credit": "Taiwan, Province Of China",
+            "thumbnail": {
+                "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/E000283_CommodoreC2NDatasette_34.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=EXQioJiyJNizWjFYbjx4gyfyG9o%3D&Expires=1627009063",
+                "has_video": false
+            },
+            "record_type": "work",
+            "type": "Videogame",
+            "is_on_display": true,
+            "last_on_display_place": "ACMI: Gallery 1",
+            "last_on_display_date": "2031-02-16",
+            "is_context_indigenous": false,
+            "material_description": "",
+            "unpublished": false,
+            "first_production_date": null,
+            "brief_description": "<p>The Commodore 1530 (C2N) Datasette, later also Datassette (a portmanteau of data and cassette), is Commodore&#8217;s dedicated magnetic tape data storage device. Using compact cassettes as the storage medium, it provides inexpensive storage to Commodore&#8217;s 8-bit home/personal computers, notably the PET, VIC-20, and C64.</p>",
+            "constellations_primary": [],
+            "constellations_other": [],
+            "recommendations": [],
+            "title_for_label": "<p>Commodore C2N Datasette</p>",
+            "creator_credit_for_label": "<p>Commodore Business Machines</p>",
+            "headline_credit_for_label": "<p>Taiwan, Province Of China</p>",
+            "description": "<p>The Commodore 1530 (C2N) Datasette, later also Datassette (a portmanteau of data and cassette), is Commodore&#8217;s dedicated magnetic tape data storage device. Using compact cassettes as the storage medium, it provides inexpensive storage to Commodore&#8217;s 8-bit home/personal computers, notably the PET, VIC-20, and C64.</p>",
+            "description_for_label": [
+                "<p>The Commodore 1530 (C2N) Datasette, later also Datassette (a portmanteau of data and cassette), is Commodore&#8217;s dedicated magnetic tape data storage device. Using compact cassettes as the storage medium, it provides inexpensive storage to Commodore&#8217;s 8-bit home/personal computers, notably the PET, VIC-20, and C64.</p>"
+            ],
+            "credit_line_for_label": "<p>ACMI Collection</p>",
+            "details": [
+                {
+                    "label": "Curatorial section",
+                    "display_values": [
+                        "The Story of the Moving Image&nbsp;→  Foyer&nbsp;→ Entry &nbsp;→ 03. MPL exterior"
+                    ]
+                },
+                {
+                    "label": "Measurements",
+                    "display_values": [
+                        "53 x 195 x 155mm",
+                        "0.75kg"
+                    ]
+                }
+            ],
+            "stats": {
+                "tap_count": 0
+            },
+            "links": [],
+            "creators_primary": [
+                {
+                    "id": 1134594,
+                    "name": "Commodore Business Machines",
+                    "creator_id": 73000,
+                    "role": "manufacturer",
+                    "role_id": 627,
+                    "is_primary": true
+                }
+            ],
+            "creators_other": [],
+            "video_links": [],
+            "media_note": null,
+            "images": [
+                {
+                    "id": 13330,
+                    "image_file": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/E000283_CommodoreC2NDatasette_34.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=jKwSQk9pUTkN8fknnDRgjBlr3S0%3D&Expires=1627009063",
+                    "image_file_thumbnail": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/E000283_CommodoreC2NDatasette_34.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=EXQioJiyJNizWjFYbjx4gyfyG9o%3D&Expires=1627009063",
+                    "image_file_xs": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/E000283_CommodoreC2NDatasette_34.jpg.480x480_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=CTzTMLLtOOPy8HFhVIf4lNzlBhg%3D&Expires=1627009063",
+                    "image_file_s": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/E000283_CommodoreC2NDatasette_34.jpg.960x960_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=PTtez2Q6jpf4CBoYFPq76FqyrMM%3D&Expires=1627009063",
+                    "image_file_m": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/E000283_CommodoreC2NDatasette_34.jpg.1920x1920_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=7L5eisX1c3ar6opnVd9y2Iu%2BbY4%3D&Expires=1627009063",
+                    "image_file_l": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/E000283_CommodoreC2NDatasette_34.jpg.3840x3840_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=tdM3%2BHqopb%2BsK9srxO08Jg1%2FkT0%3D&Expires=1627009063",
+                    "caption": "E000283_CommodoreC2NDatasette_34",
+                    "credit_line": "Photograph by Egmont Contreras, ACMI.",
+                    "alt_text": "",
+                    "width": 4800,
+                    "height": 3200,
+                    "access_level": "View anywhere"
+                },
+                {
+                    "id": 13331,
+                    "image_file": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/E000283_CommodoreC2NDatasette_Front.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=ASJSWKOAMsmmDB8RWUGSuErNNe4%3D&Expires=1627009063",
+                    "image_file_thumbnail": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/E000283_CommodoreC2NDatasette_Front.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=rROdoLo1cBMyfcbYAnr2VvkIfiU%3D&Expires=1627009063",
+                    "image_file_xs": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/E000283_CommodoreC2NDatasette_Front.jpg.480x480_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=1ScGHoG%2BHKajVL3Ch0Spy%2BWqxWk%3D&Expires=1627009063",
+                    "image_file_s": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/E000283_CommodoreC2NDatasette_Front.jpg.960x960_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=7AYlu74Vsnw%2F%2Blf19%2F6KnUJkIJg%3D&Expires=1627009063",
+                    "image_file_m": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/E000283_CommodoreC2NDatasette_Front.jpg.1920x1920_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=Es%2BhljY6JEKcb3Y1KWDx%2FMDwEcQ%3D&Expires=1627009063",
+                    "image_file_l": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/E000283_CommodoreC2NDatasette_Front.jpg.3840x3840_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=xo%2BkmzG7p5TzqxDy25DnlZpMwzQ%3D&Expires=1627009063",
+                    "caption": "E000283_CommodoreC2NDatasette_Front",
+                    "credit_line": "Photograph by Egmont Contreras, ACMI.",
+                    "alt_text": "",
+                    "width": 4717,
+                    "height": 3145,
+                    "access_level": "View anywhere"
+                },
+                {
+                    "id": 14115,
+                    "image_file": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/E000283_CommodoreC2NDatasette_FrontTop.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=jb6%2BrKSnkjWkaPX6KXWfFXK%2BGqE%3D&Expires=1627009063",
+                    "image_file_thumbnail": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/E000283_CommodoreC2NDatasette_FrontTop.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=wyACD%2FysASxInHSHRHdFfMXXuzA%3D&Expires=1627009063",
+                    "image_file_xs": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/E000283_CommodoreC2NDatasette_FrontTop.jpg.480x480_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=3cC%2BwCczJf%2B09GEYXCJUU6xuDmQ%3D&Expires=1627009063",
+                    "image_file_s": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/E000283_CommodoreC2NDatasette_FrontTop.jpg.960x960_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=1%2Bzd0JPtxJWfsG7qL2rtdJQVRs8%3D&Expires=1627009063",
+                    "image_file_m": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/E000283_CommodoreC2NDatasette_FrontTop.jpg.1920x1920_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=xvi7soflbE8B1qzLiOuY8d0nrsg%3D&Expires=1627009063",
+                    "image_file_l": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/E000283_CommodoreC2NDatasette_FrontTop.jpg.3840x3840_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=bXKktOtqI8gWOPKeBdb9UGw88Ww%3D&Expires=1627009063",
+                    "caption": "E000283_CommodoreC2NDatasette_FrontTop",
+                    "credit_line": "Photograph by Egmont Contreras, ACMI.",
+                    "alt_text": "",
+                    "width": 4693,
+                    "height": 3122,
+                    "access_level": "View anywhere"
+                }
+            ],
+            "videos": [],
+            "holdings": [],
+            "part_of": null,
+            "parts": [],
+            "part_siblings": [],
+            "group": {
+                "id": 113855,
+                "acmi_id": "183614",
+                "title": "Commodore 64 Console and Cassettes",
+                "title_annotation": "",
+                "slug": "mpl-display-group-commodore-64-console-and-cassettes",
+                "creator_credit": "Commodore Business Machines",
+                "credit_line": "",
+                "headline_credit": "1985",
+                "thumbnail": {
+                    "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/GROUP_E000320_E000283_E000284_Commodore64Display.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=C%2BjDQZEcrNPVRrju48xegEEoTew%3D&Expires=1627009063",
+                    "has_video": false
+                },
+                "record_type": "group",
+                "type": "Film",
+                "is_on_display": true,
+                "last_on_display_place": "ACMI: Gallery 1",
+                "last_on_display_date": "2031-02-16",
+                "is_context_indigenous": false,
+                "material_description": "",
+                "unpublished": false,
+                "first_production_date": "1985-01-01T11:00:00+11:00"
+            },
+            "group_works": [],
+            "group_siblings": [
+                {
+                    "id": 100281,
+                    "acmi_id": "180911",
+                    "title": "Commodore 64 Console",
+                    "title_annotation": "",
+                    "slug": "commodore-64-console",
+                    "creator_credit": "Commodore Business Machines",
+                    "credit_line": "<p>ACMI Collection</p>",
+                    "headline_credit": "United Kingdom, c. 1982",
+                    "thumbnail": {
+                        "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/E000320_Commodore64_34.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=TidNRBI7PAfNLFiHm5H2yU8oBX0%3D&Expires=1627009063",
+                        "has_video": false
+                    },
+                    "record_type": "work",
+                    "type": "Videogame",
+                    "is_on_display": true,
+                    "last_on_display_place": "ACMI: Gallery 1",
+                    "last_on_display_date": "2031-02-16",
+                    "is_context_indigenous": false,
+                    "material_description": "",
+                    "unpublished": false,
+                    "first_production_date": null
+                },
+                {
+                    "id": 99898,
+                    "acmi_id": "181257",
+                    "title": "Pair of Commodore C-1342 Joysticks",
+                    "title_annotation": "",
+                    "slug": "pair-of-commodore-c-1342-joysticks",
+                    "creator_credit": "Commodore Business Machines",
+                    "credit_line": "<p>ACMI Collection</p>",
+                    "headline_credit": "Hong Kong, c. 1982",
+                    "thumbnail": {
+                        "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/E000284_CommodoreJoysticks_34.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=zvvt8ssfTOp0g%2BK45kXt3Jpq5mo%3D&Expires=1627009063",
+                        "has_video": false
+                    },
+                    "record_type": "work",
+                    "type": "Videogame",
+                    "is_on_display": true,
+                    "last_on_display_place": "ACMI: Gallery 1",
+                    "last_on_display_date": "2031-02-16",
+                    "is_context_indigenous": false,
+                    "material_description": "",
+                    "unpublished": false,
+                    "first_production_date": null
+                }
+            ],
+            "source": {
+                "name": "Vernon",
+                "slug": "vernon"
+            },
+            "source_identifier": "181255",
+            "production_places": [
+                {
+                    "id": 197,
+                    "name": "Taiwan, Province Of China",
+                    "slug": "taiwan-province-of-china"
+                }
+            ],
+            "production_dates": [],
+            "labels": [
+                39392
+            ]
+        },
+        {
+            "id": 99896,
+            "acmi_id": "181200",
+            "title": "Mark 502-D Dual 8MM Projector",
+            "title_annotation": "",
+            "slug": "mark-502-d-dual-8mm-projector",
+            "creator_credit": "Eumig",
+            "credit_line": "<p>ACMI Collection</p>",
+            "headline_credit": "Austria, c. 1970",
+            "thumbnail": {
+                "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/E000282_EumigMark502-D8mmProjector_34.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=YPBTZRRtcbncdNNSqM%2FUz3LZh38%3D&Expires=1627009063",
+                "has_video": false
+            },
+            "record_type": "work",
+            "type": "Object",
+            "is_on_display": true,
+            "last_on_display_place": "ACMI: Gallery 1",
+            "last_on_display_date": "2031-02-16",
+            "is_context_indigenous": false,
+            "material_description": "",
+            "unpublished": false,
+            "first_production_date": null,
+            "brief_description": "",
+            "constellations_primary": [],
+            "constellations_other": [],
+            "recommendations": [],
+            "title_for_label": "<p>Mark 502-D Dual 8MM Projector</p>",
+            "creator_credit_for_label": "<p>Eumig</p>",
+            "headline_credit_for_label": "<p>Austria, c. 1970</p>",
+            "description": "",
+            "description_for_label": [],
+            "credit_line_for_label": "<p>ACMI Collection</p>",
+            "details": [
+                {
+                    "label": "Curatorial section",
+                    "display_values": [
+                        "The Story of the Moving Image&nbsp;→  Foyer&nbsp;→ Entry &nbsp;→ 03. MPL exterior"
+                    ]
+                },
+                {
+                    "label": "Measurements",
+                    "display_values": [
+                        "3kg"
+                    ]
+                }
+            ],
+            "stats": {
+                "tap_count": 0
+            },
+            "links": [],
+            "creators_primary": [
+                {
+                    "id": 1134593,
+                    "name": "Eumig",
+                    "creator_id": 71998,
+                    "role": "creator",
+                    "role_id": 968,
+                    "is_primary": true
+                }
+            ],
+            "creators_other": [],
+            "video_links": [],
+            "media_note": null,
+            "images": [
+                {
+                    "id": 15914,
+                    "image_file": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/E000282_EumigMark502-D8mmProjector_34.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=kvD54e2c%2BcjAyOacTpafnImI31s%3D&Expires=1627009063",
+                    "image_file_thumbnail": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/E000282_EumigMark502-D8mmProjector_34.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=YPBTZRRtcbncdNNSqM%2FUz3LZh38%3D&Expires=1627009063",
+                    "image_file_xs": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/E000282_EumigMark502-D8mmProjector_34.jpg.480x480_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=at2RJzKLf843hYvdN9NxHcxxPHw%3D&Expires=1627009063",
+                    "image_file_s": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/E000282_EumigMark502-D8mmProjector_34.jpg.960x960_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=8tD8p0ngc7WKhUpGD2xZqb7IVl0%3D&Expires=1627009063",
+                    "image_file_m": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/E000282_EumigMark502-D8mmProjector_34.jpg.1920x1920_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=b%2BwwO2NjSSZYbJtPHMDJnmQz%2B3A%3D&Expires=1627009063",
+                    "image_file_l": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/E000282_EumigMark502-D8mmProjector_34.jpg.3840x3840_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=VS4%2FCTy35QWmKun4PGZBmFsWSHk%3D&Expires=1627009063",
+                    "caption": "E000282_EumigMark502-D8mmProjector_34",
+                    "credit_line": "Photograph by Egmont Contreras, ACMI",
+                    "alt_text": "",
+                    "width": 4613,
+                    "height": 3104,
+                    "access_level": "View anywhere"
+                },
+                {
+                    "id": 15915,
+                    "image_file": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/E000282_EumigMark502-D8mmProjector_Side.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=bJC%2BLCEBW85fAXtXZeMs00l2rT0%3D&Expires=1627009063",
+                    "image_file_thumbnail": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/E000282_EumigMark502-D8mmProjector_Side.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=x4fQcwO298mi7kr3eIpLvaczyy4%3D&Expires=1627009063",
+                    "image_file_xs": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/E000282_EumigMark502-D8mmProjector_Side.jpg.480x480_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=n9rhUg1Gb0CWKUM7G6NyQf0hR18%3D&Expires=1627009063",
+                    "image_file_s": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/E000282_EumigMark502-D8mmProjector_Side.jpg.960x960_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=tYiv3oHVIGE1tw%2B4nWKkOELKcKQ%3D&Expires=1627009063",
+                    "image_file_m": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/E000282_EumigMark502-D8mmProjector_Side.jpg.1920x1920_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=MUBcTTwVBy%2FTc00GC1F5Ni7axsU%3D&Expires=1627009063",
+                    "image_file_l": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/E000282_EumigMark502-D8mmProjector_Side.jpg.3840x3840_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=TUG5d08cUwGEosdPmUk9st3Wx1A%3D&Expires=1627009063",
+                    "caption": "E000282_EumigMark502-D8mmProjector_Side",
+                    "credit_line": "Photograph by Egmont Contreras, ACMI",
+                    "alt_text": "",
+                    "width": 4660,
+                    "height": 3107,
+                    "access_level": "View anywhere"
+                },
+                {
+                    "id": 15916,
+                    "image_file": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/E000282_EumigMark502-D8mmProjector_Front.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=zCNd8sGaWdP%2B0xDOxuw%2Fo4FKYVQ%3D&Expires=1627009063",
+                    "image_file_thumbnail": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/E000282_EumigMark502-D8mmProjector_Front.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=dyI7YH4SwTLhwuT9vQW%2BW9xUtNY%3D&Expires=1627009063",
+                    "image_file_xs": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/E000282_EumigMark502-D8mmProjector_Front.jpg.480x480_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=jxthdDePZpqJdjveOuzPHEkLzzA%3D&Expires=1627009063",
+                    "image_file_s": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/E000282_EumigMark502-D8mmProjector_Front.jpg.960x960_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=A23mBHS2HFFk87ms23kEK4qWvZU%3D&Expires=1627009063",
+                    "image_file_m": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/E000282_EumigMark502-D8mmProjector_Front.jpg.1920x1920_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=ZxbuwYP1Y0nOHjr1LRq4VrdKJl8%3D&Expires=1627009063",
+                    "image_file_l": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/E000282_EumigMark502-D8mmProjector_Front.jpg.3840x3840_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=Kww42AnvvDC5TypfRbwITfkgQV4%3D&Expires=1627009063",
+                    "caption": "E000282_EumigMark502-D8mmProjector_Front",
+                    "credit_line": "Photograph by Egmont Contreras, ACMI",
+                    "alt_text": "",
+                    "width": 4800,
+                    "height": 3200,
+                    "access_level": "View anywhere"
+                }
+            ],
+            "videos": [],
+            "holdings": [],
+            "part_of": null,
+            "parts": [],
+            "part_siblings": [],
+            "group": {
+                "id": 113894,
+                "acmi_id": "183621",
+                "title": "8mm Film",
+                "title_annotation": "",
+                "slug": "mpl-display-group-8mm-film-cabinet",
+                "creator_credit": "",
+                "credit_line": "",
+                "headline_credit": "",
+                "thumbnail": {
+                    "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/GROUP_MPL_8mmFilmCabinet.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=enyPymwTO3N2rZlJXANwjVP18f0%3D&Expires=1627009063",
+                    "has_video": false
+                },
+                "record_type": "group",
+                "type": "Film",
+                "is_on_display": true,
+                "last_on_display_place": "ACMI: Gallery 1",
+                "last_on_display_date": "2031-02-16",
+                "is_context_indigenous": false,
+                "material_description": "",
+                "unpublished": false,
+                "first_production_date": null
+            },
+            "group_works": [],
+            "group_siblings": [
+                {
+                    "id": 100285,
+                    "acmi_id": "181260",
+                    "title": "8mm and 16mm Film Splicer",
+                    "title_annotation": "",
+                    "slug": "8mm-16mm-film-splicer",
+                    "creator_credit": "",
+                    "credit_line": "<p>ACMI Collection</p>",
+                    "headline_credit": "",
+                    "thumbnail": {
+                        "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/E000332_HanimexSplicer_34_open.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=GXMvukS%2Fb%2BZZ0CFO3IbJXkKqzXI%3D&Expires=1627009063",
+                        "has_video": false
+                    },
+                    "record_type": "work",
+                    "type": "Object",
+                    "is_on_display": true,
+                    "last_on_display_place": "ACMI: Gallery 1",
+                    "last_on_display_date": "2031-02-16",
+                    "is_context_indigenous": false,
+                    "material_description": "",
+                    "unpublished": false,
+                    "first_production_date": null
+                },
+                {
+                    "id": 113893,
+                    "acmi_id": "179422",
+                    "title": "8MM Movie Camera E3L Model 1617",
+                    "title_annotation": "",
+                    "slug": "8mm-movie-camera-e3l-model-1617",
+                    "creator_credit": "",
+                    "credit_line": "<p>ACMI Collection</p>",
+                    "headline_credit": "Japan, c. 1950",
+                    "thumbnail": {
+                        "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/E000249_Brumberger8MM_34.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=Ik9odd2sAnCckqvVZV94WHSzywU%3D&Expires=1627009063",
+                        "has_video": false
+                    },
+                    "record_type": "work",
+                    "type": "Object",
+                    "is_on_display": true,
+                    "last_on_display_place": "ACMI: Gallery 1",
+                    "last_on_display_date": "2031-02-16",
+                    "is_context_indigenous": false,
+                    "material_description": "",
+                    "unpublished": false,
+                    "first_production_date": null
+                },
+                {
+                    "id": 113895,
+                    "acmi_id": "179425",
+                    "title": "Atlas Editor Viewer Model 880",
+                    "title_annotation": "",
+                    "slug": "atlas-editor-viewer-model-880",
+                    "creator_credit": "Atlas",
+                    "credit_line": "<p>ACMI Collection</p>",
+                    "headline_credit": "Japan, c. 1950",
+                    "thumbnail": {
+                        "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/E000231_Atlas_EditorViewer800_34.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=%2F8HMA1CrajUWz%2FPRrsdJQgZQLLo%3D&Expires=1627009063",
+                        "has_video": false
+                    },
+                    "record_type": "work",
+                    "type": "Object",
+                    "is_on_display": true,
+                    "last_on_display_place": "ACMI: Gallery 1",
+                    "last_on_display_date": "2031-02-16",
+                    "is_context_indigenous": false,
+                    "material_description": "",
+                    "unpublished": false,
+                    "first_production_date": null
+                }
+            ],
+            "source": {
+                "name": "Vernon",
+                "slug": "vernon"
+            },
+            "source_identifier": "181200",
+            "production_places": [
+                {
+                    "id": 39,
+                    "name": "Austria",
+                    "slug": "austria"
+                }
+            ],
+            "production_dates": [
+                {
+                    "date": "c. 1970",
+                    "notes": "",
+                    "to_year": "c. 1970"
+                }
+            ],
+            "labels": [
+                39391
+            ]
+        },
+        {
+            "id": 99895,
+            "acmi_id": "181198",
+            "title": "Ohnar 16MM Editor Viewer",
+            "title_annotation": "",
+            "slug": "ohnar-16mm-editor-viewer",
+            "creator_credit": "Ohnoya Shoten Ltd",
+            "credit_line": "<p>ACMI Collection. Courtesy James Brookes.</p>",
+            "headline_credit": "Japan",
+            "thumbnail": {
+                "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/E000330_Ohnar16mmEditorViewer_34_ClosedArms.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=AqtY5fkjEtoKOCpfsbv6B0DcjU8%3D&Expires=1627009063",
+                "has_video": false
+            },
+            "record_type": "work",
+            "type": "Object",
+            "is_on_display": true,
+            "last_on_display_place": "ACMI: Gallery 1",
+            "last_on_display_date": "2031-02-16",
+            "is_context_indigenous": false,
+            "material_description": "",
+            "unpublished": false,
+            "first_production_date": null,
+            "brief_description": "<p>Film viewing and editing devices like the Ohnar provided amatuer filmmakers the ability to precisely edit their own home movies with relative ease. Popular among avid consumer-level filmmakers for their size, this 16mm film equipment allows hand cranking and has a convenient frame counting dial. The reel arms can be swivelled out and locked in place for use, and folded away for compact storage.</p>",
+            "constellations_primary": [],
+            "constellations_other": [],
+            "recommendations": [],
+            "title_for_label": "<p>Ohnar 16MM Editor Viewer</p>",
+            "creator_credit_for_label": "<p>Ohnoya Shoten Ltd</p>",
+            "headline_credit_for_label": "<p>Japan</p>",
+            "description": "<p>Film viewing and editing devices like the Ohnar provided amatuer filmmakers the ability to precisely edit their own home movies with relative ease. Popular among avid consumer-level filmmakers for their size, this 16mm film equipment allows hand cranking and has a convenient frame counting dial. The reel arms can be swivelled out and locked in place for use, and folded away for compact storage.</p>",
+            "description_for_label": [
+                "<p>Film viewing and editing devices like the Ohnar provided amatuer filmmakers the ability to precisely edit their own home movies with relative ease. Popular among avid consumer-level filmmakers for their size, this 16mm film equipment allows hand cranking and has a convenient frame counting dial. The reel arms can be swivelled out and locked in place for use, and folded away for compact storage.</p>"
+            ],
+            "credit_line_for_label": "<p>ACMI Collection. Courtesy James Brookes.</p>",
+            "details": [
+                {
+                    "label": "Curatorial section",
+                    "display_values": [
+                        "The Story of the Moving Image&nbsp;→  Foyer&nbsp;→ Entry &nbsp;→ 03. MPL exterior"
+                    ]
+                },
+                {
+                    "label": "Measurements",
+                    "display_values": [
+                        "8.05kg"
+                    ]
+                }
+            ],
+            "stats": {
+                "tap_count": 0
+            },
+            "links": [],
+            "creators_primary": [
+                {
+                    "id": 1134591,
+                    "name": "Ohnoya Shoten Ltd",
+                    "creator_id": 70607,
+                    "role": "manufacturer",
+                    "role_id": 627,
+                    "is_primary": true
+                }
+            ],
+            "creators_other": [
+                {
+                    "id": 1134592,
+                    "name": "James Brookes",
+                    "creator_id": 81847,
+                    "role": "donor",
+                    "role_id": 606,
+                    "is_primary": false
+                }
+            ],
+            "video_links": [],
+            "media_note": null,
+            "images": [
+                {
+                    "id": 13340,
+                    "image_file": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/E000330_Ohnar16mmEditorViewer_34_ClosedArms.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=pkvCvDvmyurAg6wmM%2BX0nrpkKGQ%3D&Expires=1627009063",
+                    "image_file_thumbnail": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/E000330_Ohnar16mmEditorViewer_34_ClosedArms.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=AqtY5fkjEtoKOCpfsbv6B0DcjU8%3D&Expires=1627009063",
+                    "image_file_xs": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/E000330_Ohnar16mmEditorViewer_34_ClosedArms.jpg.480x480_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=T06RD%2B7IIKvxLaOTfLYGONcBADw%3D&Expires=1627009063",
+                    "image_file_s": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/E000330_Ohnar16mmEditorViewer_34_ClosedArms.jpg.960x960_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=1PdvxoFWdfP732VHeU%2FRGkyYeh0%3D&Expires=1627009063",
+                    "image_file_m": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/E000330_Ohnar16mmEditorViewer_34_ClosedArms.jpg.1920x1920_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=bIsLKkPTMyjUeaC74jPdhZ7DgJ0%3D&Expires=1627009063",
+                    "image_file_l": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/E000330_Ohnar16mmEditorViewer_34_ClosedArms.jpg.3840x3840_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=xwuhek%2FC1WuMPTUEhBcEYaPtTwE%3D&Expires=1627009063",
+                    "caption": "E000330_Ohnar16mmEditorViewer_34_ClosedArms",
+                    "credit_line": "Photograph by Egmont Contreras, ACMI.",
+                    "alt_text": "",
+                    "width": 4800,
+                    "height": 3200,
+                    "access_level": "View anywhere"
+                },
+                {
+                    "id": 13345,
+                    "image_file": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/E000330_Ohnar16mmEditorViewer_34armsopen.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=KG2tlonEfRRlsk6LXHlt9MdJRwY%3D&Expires=1627009063",
+                    "image_file_thumbnail": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/E000330_Ohnar16mmEditorViewer_34armsopen.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=6nj%2FsRg1JWoeWj5W7LtvDpIl06U%3D&Expires=1627009063",
+                    "image_file_xs": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/E000330_Ohnar16mmEditorViewer_34armsopen.jpg.480x480_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=BAOZUiT9hJ5gELcyyElRvAX4R5Q%3D&Expires=1627009063",
+                    "image_file_s": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/E000330_Ohnar16mmEditorViewer_34armsopen.jpg.960x960_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=16OFX0igqFEtd5ytKFR6vJ2WxTs%3D&Expires=1627009063",
+                    "image_file_m": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/E000330_Ohnar16mmEditorViewer_34armsopen.jpg.1920x1920_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=eHPI0kCcwhSYA2nf%2FMYN8V0nt2Q%3D&Expires=1627009063",
+                    "image_file_l": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/E000330_Ohnar16mmEditorViewer_34armsopen.jpg.3840x3840_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=gYp2owYvgINZHUUKIt%2FRK52GaGQ%3D&Expires=1627009063",
+                    "caption": "E000330_Ohnar16mmEditorViewer_34_ArmsOpen",
+                    "credit_line": "Photograph by Egmont Contreras, ACMI.",
+                    "alt_text": "",
+                    "width": 4800,
+                    "height": 3200,
+                    "access_level": "View anywhere"
+                },
+                {
+                    "id": 14112,
+                    "image_file": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/E000330_Ohnar16mmEditorViewer_Back.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=byXNOYW4BAKLJIcWWnEbW6E4G7U%3D&Expires=1627009063",
+                    "image_file_thumbnail": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/E000330_Ohnar16mmEditorViewer_Back.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=cVLTXOOXJ0C7k1gq6ysIpHax5TA%3D&Expires=1627009063",
+                    "image_file_xs": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/E000330_Ohnar16mmEditorViewer_Back.jpg.480x480_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=B1DFwfQVjsRsIlgDjiXblkdccrQ%3D&Expires=1627009063",
+                    "image_file_s": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/E000330_Ohnar16mmEditorViewer_Back.jpg.960x960_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=0m66pC8DTIM%2FNcEZ2PdBmuRzIC4%3D&Expires=1627009063",
+                    "image_file_m": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/E000330_Ohnar16mmEditorViewer_Back.jpg.1920x1920_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=9Ycwjczk8w%2FssZGwx15vrgA%2BX9E%3D&Expires=1627009063",
+                    "image_file_l": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/E000330_Ohnar16mmEditorViewer_Back.jpg.3840x3840_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=h1YCJUOq%2FihvDBXj0nWAcmDF2TU%3D&Expires=1627009063",
+                    "caption": "E000330_Ohnar16mmEditorViewer_Back",
+                    "credit_line": "Photograph by Egmont Contreras, ACMI.",
+                    "alt_text": "",
+                    "width": 4725,
+                    "height": 3150,
+                    "access_level": "View anywhere"
+                },
+                {
+                    "id": 14113,
+                    "image_file": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/E000330_Ohnar16mmEditorViewer_FrontArmsClosed.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=BYDQPMIG2T1%2B0Dzi1SuX9lrTTLA%3D&Expires=1627009063",
+                    "image_file_thumbnail": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/E000330_Ohnar16mmEditorViewer_FrontArmsClosed.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=G1eyKw%2BGFIVnJliREZvTqRV8pP0%3D&Expires=1627009063",
+                    "image_file_xs": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/E000330_Ohnar16mmEditorViewer_FrontArmsClosed.jpg.480x480_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=QnGOQJ%2Foj3L3sbPqQwaWIQZz94c%3D&Expires=1627009063",
+                    "image_file_s": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/E000330_Ohnar16mmEditorViewer_FrontArmsClosed.jpg.960x960_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=nT4HuTitvm0hIlxmJYbRRz7pqik%3D&Expires=1627009063",
+                    "image_file_m": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/E000330_Ohnar16mmEditorViewer_FrontArmsClosed.jpg.1920x1920_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=cC3CdNQkOZoGXulcI0h83gp7CEE%3D&Expires=1627009063",
+                    "image_file_l": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/E000330_Ohnar16mmEditorViewer_FrontArmsClosed.jpg.3840x3840_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=PnsPPFMcHacENBkIUkd2QhTXNFg%3D&Expires=1627009063",
+                    "caption": "E000330_Ohnar16mmEditorViewer_FrontArmsClosed",
+                    "credit_line": "Photograph by Egmont Contreras, ACMI.",
+                    "alt_text": "",
+                    "width": 4800,
+                    "height": 3200,
+                    "access_level": "View anywhere"
+                },
+                {
+                    "id": 14114,
+                    "image_file": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/E000330_Ohnar16mmEditorViewer_Left.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=6ITxWcg%2F7Hs98cGAyfjrNHgM3J8%3D&Expires=1627009063",
+                    "image_file_thumbnail": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/E000330_Ohnar16mmEditorViewer_Left.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=HIMCUF%2BneHfIZ67iYHqKzn9d2AQ%3D&Expires=1627009063",
+                    "image_file_xs": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/E000330_Ohnar16mmEditorViewer_Left.jpg.480x480_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=pRGUB6aY6Tx3htCYje6BwW0Iec4%3D&Expires=1627009063",
+                    "image_file_s": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/E000330_Ohnar16mmEditorViewer_Left.jpg.960x960_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=mZt5cVTkxQ8xQuXnJEgRogEFET8%3D&Expires=1627009063",
+                    "image_file_m": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/E000330_Ohnar16mmEditorViewer_Left.jpg.1920x1920_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=Oxb9WK6H5Hl36hCrAamNKP6RyS4%3D&Expires=1627009063",
+                    "image_file_l": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/E000330_Ohnar16mmEditorViewer_Left.jpg.3840x3840_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=1gYvA4gSqlZ399YewC8h67jctc8%3D&Expires=1627009063",
+                    "caption": "E000330_Ohnar16mmEditorViewer_Left",
+                    "credit_line": "Photograph by Egmont Contreras, ACMI.",
+                    "alt_text": "",
+                    "width": 4800,
+                    "height": 3200,
+                    "access_level": "View anywhere"
+                }
+            ],
+            "videos": [],
+            "holdings": [],
+            "part_of": null,
+            "parts": [],
+            "part_siblings": [],
+            "group": {
+                "id": 113911,
+                "acmi_id": "183619",
+                "title": "16mm Film",
+                "title_annotation": "",
+                "slug": "mpl-display-group-16mm-viewer-with-16mm-reel-stacks",
+                "creator_credit": "",
+                "credit_line": "",
+                "headline_credit": "",
+                "thumbnail": {
+                    "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/E000330_Ohnar16mmEditorViewer_34armsopen.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=6nj%2FsRg1JWoeWj5W7LtvDpIl06U%3D&Expires=1627009063",
+                    "has_video": false
+                },
+                "record_type": "group",
+                "type": "Object",
+                "is_on_display": true,
+                "last_on_display_place": "ACMI: Gallery 1",
+                "last_on_display_date": "2031-02-16",
+                "is_context_indigenous": false,
+                "material_description": "",
+                "unpublished": false,
+                "first_production_date": null
+            },
+            "group_works": [],
+            "group_siblings": [
+                {
+                    "id": 99430,
+                    "acmi_id": "169540",
+                    "title": "16mm projector",
+                    "title_annotation": "",
+                    "slug": "ditmar-16mm-projector",
+                    "creator_credit": "Ditmar",
+                    "credit_line": "<p>ACMI Collection. Donated by Karen Wootton</p>",
+                    "headline_credit": "Austria, c. 1950",
+                    "thumbnail": {
+                        "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/E000178_Ditmar16mmProjector_34.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=xn49SvcbNGcYzyAb8xBj0ZbhMyw%3D&Expires=1627009063",
+                        "has_video": false
+                    },
+                    "record_type": "work",
+                    "type": "Object",
+                    "is_on_display": true,
+                    "last_on_display_place": "ACMI: Gallery 1",
+                    "last_on_display_date": "2031-02-16",
+                    "is_context_indigenous": false,
+                    "material_description": "-Ditmar 16mm projector no 2072\n - Internal cloth bound board used as a platform to store inside box.\n - Grey cord w Aus plug and a black cord w Euro plug.\n - Detachable feed arm\n - Huile Oil Ol original cardboard box and glass oil bottle inside.  The oil bottle still has 3 mm of oil at bottom which is fluid.  The cork lid of the bottle also has a tiny metal straw protruding from it to gather the oil.\n - Singer (brand) oil pourer with a removable nozzle.  Not from this set, but owner must have used it as one of many methods to oil the projector.\n - Tiny metal funnel for pouring oil into oil dropper.\n - One glass dropper with rubber end which is stored inside a cylindrical tube with lid.\n - One clear plastic dropper with remnants of oil inside top round squeezer.\n - Australian plug with nothing connected.\n - A small Euro plug which is backed on to wood and slots in the back of the machine.\n - An old paper rag\n - 2 spare belts in very delicate wax paper bags.  One of rubber (hardened) and one finely coiled metal (which has a kink in it).",
+                    "unpublished": false,
+                    "first_production_date": null
+                }
+            ],
+            "source": {
+                "name": "Vernon",
+                "slug": "vernon"
+            },
+            "source_identifier": "181198",
+            "production_places": [
+                {
+                    "id": 8,
+                    "name": "Japan",
+                    "slug": "japan"
+                }
+            ],
+            "production_dates": [],
+            "labels": [
+                39390
+            ]
+        },
+        {
+            "id": 113911,
+            "acmi_id": "183619",
+            "title": "16mm Film",
+            "title_annotation": "",
+            "slug": "mpl-display-group-16mm-viewer-with-16mm-reel-stacks",
+            "creator_credit": "",
+            "credit_line": "",
+            "headline_credit": "",
+            "thumbnail": {
+                "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/E000330_Ohnar16mmEditorViewer_34armsopen.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=6nj%2FsRg1JWoeWj5W7LtvDpIl06U%3D&Expires=1627009063",
+                "has_video": false
+            },
+            "record_type": "group",
+            "type": "Object",
+            "is_on_display": true,
+            "last_on_display_place": "ACMI: Gallery 1",
+            "last_on_display_date": "2031-02-16",
+            "is_context_indigenous": false,
+            "material_description": "",
+            "unpublished": false,
+            "first_production_date": null,
+            "brief_description": "<p>Most of the films in our collection are held on 16mm film, which was introduced in the 1920s as a cheaper alternative to the 35mm format and was widely adopted by amateur filmmakers. Because of its accessibility and popularity, it’s no surprise that we receive so many donations from the community, which along with the film itself, also comprises editing equipment and cameras. The Hanimex Eiki 16mm film projector displayed in this cabinet is typical of the kinds used in schools up until the 1980s, where films were screened in assembly halls to supplement standard learning in classrooms.</p>",
+            "constellations_primary": [],
+            "constellations_other": [],
+            "recommendations": [],
+            "title_for_label": "<p>16mm Film</p>",
+            "creator_credit_for_label": "",
+            "headline_credit_for_label": "",
+            "description": "<p>Most of the films in our collection are held on 16mm film, which was introduced in the 1920s as a cheaper alternative to the 35mm format and was widely adopted by amateur filmmakers. Because of its accessibility and popularity, it’s no surprise that we receive so many donations from the community, which along with the film itself, also comprises editing equipment and cameras. The Hanimex Eiki 16mm film projector displayed in this cabinet is typical of the kinds used in schools up until the 1980s, where films were screened in assembly halls to supplement standard learning in classrooms.</p>",
+            "description_for_label": [
+                "<p>Most of the films in our collection are held on 16mm film, which was introduced in the 1920s as a cheaper alternative to the 35mm format and was widely adopted by amateur filmmakers. Because of its accessibility and popularity, it’s no surprise that we receive so many donations from the community, which along with the film itself, also comprises editing equipment and cameras. The Hanimex Eiki 16mm film projector displayed in this cabinet is typical of the kinds used in schools up until the 1980s, where films were screened in assembly halls to supplement standard learning in classrooms.</p>"
+            ],
+            "credit_line_for_label": "",
+            "details": [
+                {
+                    "label": "Curatorial section",
+                    "display_values": [
+                        "The Story of the Moving Image&nbsp;→  Foyer&nbsp;→ Entry &nbsp;→ 03. MPL exterior"
+                    ]
+                }
+            ],
+            "stats": {
+                "tap_count": 25
+            },
+            "links": [],
+            "creators_primary": [],
+            "creators_other": [],
+            "video_links": [],
+            "media_note": null,
+            "images": [
+                {
+                    "id": 13345,
+                    "image_file": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/E000330_Ohnar16mmEditorViewer_34armsopen.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=KG2tlonEfRRlsk6LXHlt9MdJRwY%3D&Expires=1627009063",
+                    "image_file_thumbnail": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/E000330_Ohnar16mmEditorViewer_34armsopen.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=6nj%2FsRg1JWoeWj5W7LtvDpIl06U%3D&Expires=1627009063",
+                    "image_file_xs": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/E000330_Ohnar16mmEditorViewer_34armsopen.jpg.480x480_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=BAOZUiT9hJ5gELcyyElRvAX4R5Q%3D&Expires=1627009063",
+                    "image_file_s": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/E000330_Ohnar16mmEditorViewer_34armsopen.jpg.960x960_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=16OFX0igqFEtd5ytKFR6vJ2WxTs%3D&Expires=1627009063",
+                    "image_file_m": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/E000330_Ohnar16mmEditorViewer_34armsopen.jpg.1920x1920_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=eHPI0kCcwhSYA2nf%2FMYN8V0nt2Q%3D&Expires=1627009063",
+                    "image_file_l": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/E000330_Ohnar16mmEditorViewer_34armsopen.jpg.3840x3840_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=gYp2owYvgINZHUUKIt%2FRK52GaGQ%3D&Expires=1627009063",
+                    "caption": "E000330_Ohnar16mmEditorViewer_34_ArmsOpen",
+                    "credit_line": "Photograph by Egmont Contreras, ACMI.",
+                    "alt_text": "",
+                    "width": 4800,
+                    "height": 3200,
+                    "access_level": "View anywhere"
+                }
+            ],
+            "videos": [],
+            "holdings": [],
+            "part_of": null,
+            "parts": [],
+            "part_siblings": [],
+            "group": null,
+            "group_works": [
+                {
+                    "id": 99430,
+                    "acmi_id": "169540",
+                    "title": "16mm projector",
+                    "title_annotation": "",
+                    "slug": "ditmar-16mm-projector",
+                    "creator_credit": "Ditmar",
+                    "credit_line": "<p>ACMI Collection. Donated by Karen Wootton</p>",
+                    "headline_credit": "Austria, c. 1950",
+                    "thumbnail": {
+                        "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/E000178_Ditmar16mmProjector_34.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=xn49SvcbNGcYzyAb8xBj0ZbhMyw%3D&Expires=1627009063",
+                        "has_video": false
+                    },
+                    "record_type": "work",
+                    "type": "Object",
+                    "is_on_display": true,
+                    "last_on_display_place": "ACMI: Gallery 1",
+                    "last_on_display_date": "2031-02-16",
+                    "is_context_indigenous": false,
+                    "material_description": "-Ditmar 16mm projector no 2072\n - Internal cloth bound board used as a platform to store inside box.\n - Grey cord w Aus plug and a black cord w Euro plug.\n - Detachable feed arm\n - Huile Oil Ol original cardboard box and glass oil bottle inside.  The oil bottle still has 3 mm of oil at bottom which is fluid.  The cork lid of the bottle also has a tiny metal straw protruding from it to gather the oil.\n - Singer (brand) oil pourer with a removable nozzle.  Not from this set, but owner must have used it as one of many methods to oil the projector.\n - Tiny metal funnel for pouring oil into oil dropper.\n - One glass dropper with rubber end which is stored inside a cylindrical tube with lid.\n - One clear plastic dropper with remnants of oil inside top round squeezer.\n - Australian plug with nothing connected.\n - A small Euro plug which is backed on to wood and slots in the back of the machine.\n - An old paper rag\n - 2 spare belts in very delicate wax paper bags.  One of rubber (hardened) and one finely coiled metal (which has a kink in it).",
+                    "unpublished": false,
+                    "first_production_date": null
+                },
+                {
+                    "id": 99895,
+                    "acmi_id": "181198",
+                    "title": "Ohnar 16MM Editor Viewer",
+                    "title_annotation": "",
+                    "slug": "ohnar-16mm-editor-viewer",
+                    "creator_credit": "Ohnoya Shoten Ltd",
+                    "credit_line": "<p>ACMI Collection. Courtesy James Brookes.</p>",
+                    "headline_credit": "Japan",
+                    "thumbnail": {
+                        "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/E000330_Ohnar16mmEditorViewer_34_ClosedArms.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=AqtY5fkjEtoKOCpfsbv6B0DcjU8%3D&Expires=1627009063",
+                        "has_video": false
+                    },
+                    "record_type": "work",
+                    "type": "Object",
+                    "is_on_display": true,
+                    "last_on_display_place": "ACMI: Gallery 1",
+                    "last_on_display_date": "2031-02-16",
+                    "is_context_indigenous": false,
+                    "material_description": "",
+                    "unpublished": false,
+                    "first_production_date": null
+                }
+            ],
+            "group_siblings": [],
+            "source": {
+                "name": "Vernon",
+                "slug": "vernon"
+            },
+            "source_identifier": "183619",
+            "production_places": [],
+            "production_dates": [],
+            "labels": [
+                53405
+            ]
+        },
+        {
+            "id": 100278,
+            "acmi_id": "181197",
+            "title": "National Ranger 505 Transistor TV",
+            "title_annotation": "",
+            "slug": "national-ranger-505-transistor-tv",
+            "creator_credit": "National Panasonic and Matsushita Electrical Co. Ltd.",
+            "credit_line": "<p>ACMI Collection. Courtesy Andrew Evans.</p>",
+            "headline_credit": "Japan, c. 1974",
+            "thumbnail": {
+                "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/E000329_NationalRangerTV_34.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=dDq4WEcpthtNt2dUTJOdmYs5IN8%3D&Expires=1627009063",
+                "has_video": false
+            },
+            "record_type": "work",
+            "type": "Object",
+            "is_on_display": true,
+            "last_on_display_place": "ACMI: Gallery 1",
+            "last_on_display_date": "2031-02-16",
+            "is_context_indigenous": false,
+            "material_description": "",
+            "unpublished": false,
+            "first_production_date": null,
+            "brief_description": "<p>Model TR-505DU</p>",
+            "constellations_primary": [],
+            "constellations_other": [],
+            "recommendations": [],
+            "title_for_label": "<p>National Ranger 505 Transistor TV</p>",
+            "creator_credit_for_label": "<p>National Panasonic and Matsushita Electrical Co. Ltd.</p>",
+            "headline_credit_for_label": "<p>Japan, c. 1974</p>",
+            "description": "<p>National Ranger 505 Transistor TV is a portable TV with handle, small screen and folding antennae. The television was completely portable -  it could be powered with either mains power or batteries, allowing the user to kick back and take the TV to the beach, campground or backyard.</p>\n<p>National was a brand used by Panasonic Corporation sell home appliances, personal appliances, and industrial appliances. The National brand operated in Australia until 1988 when it transferred to The Panasonic Corporation.</p>",
+            "description_for_label": [
+                "<p>Model TR-505DU</p>"
+            ],
+            "credit_line_for_label": "<p>ACMI Collection. Courtesy Andrew Evans.</p>",
+            "details": [
+                {
+                    "label": "Curatorial section",
+                    "display_values": [
+                        "The Story of the Moving Image&nbsp;→  Foyer&nbsp;→ Entry &nbsp;→ 03. MPL exterior"
+                    ]
+                },
+                {
+                    "label": "Measurements",
+                    "display_values": [
+                        "540 x 162 x 300mm"
+                    ]
+                }
+            ],
+            "stats": {
+                "tap_count": 0
+            },
+            "links": [],
+            "creators_primary": [
+                {
+                    "id": 1134590,
+                    "name": "National Panasonic",
+                    "creator_id": 24189,
+                    "role": "creator",
+                    "role_id": 968,
+                    "is_primary": true
+                },
+                {
+                    "id": 1134589,
+                    "name": "Matsushita Electrical Co. Ltd.",
+                    "creator_id": 82112,
+                    "role": "manufacturer",
+                    "role_id": 627,
+                    "is_primary": true
+                }
+            ],
+            "creators_other": [],
+            "video_links": [],
+            "media_note": null,
+            "images": [
+                {
+                    "id": 14107,
+                    "image_file": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/E000329_NationalRangerTV_34.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=eXCoEPP8gboEKlHvyOT88IRMqiI%3D&Expires=1627009063",
+                    "image_file_thumbnail": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/E000329_NationalRangerTV_34.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=dDq4WEcpthtNt2dUTJOdmYs5IN8%3D&Expires=1627009063",
+                    "image_file_xs": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/E000329_NationalRangerTV_34.jpg.480x480_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=47HIkjFDXPvj3iDo475%2FQYS8Wl8%3D&Expires=1627009063",
+                    "image_file_s": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/E000329_NationalRangerTV_34.jpg.960x960_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=6maqvhFBG12kLPAOMIK6SEWUrP4%3D&Expires=1627009063",
+                    "image_file_m": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/E000329_NationalRangerTV_34.jpg.1920x1920_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=qJr0K0M0JureBZtrxe%2BPrMl8XTE%3D&Expires=1627009063",
+                    "image_file_l": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/E000329_NationalRangerTV_34.jpg.3840x3840_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=1joVRRs3SeAdgVGYoeKPNqH6DPc%3D&Expires=1627009063",
+                    "caption": "E000329_NationalRangerTV_34",
+                    "credit_line": "Photograph by Egmont Contreras, ACMI.",
+                    "alt_text": "",
+                    "width": 4800,
+                    "height": 3200,
+                    "access_level": "View anywhere"
+                },
+                {
+                    "id": 14108,
+                    "image_file": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/E000329_NationalRangerTV_Front.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=KzX9SMtrUF53K4d3yKGowwVhZOw%3D&Expires=1627009063",
+                    "image_file_thumbnail": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/E000329_NationalRangerTV_Front.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=sC%2FfGGw1Smzks1dmpCUkWRSZT7w%3D&Expires=1627009063",
+                    "image_file_xs": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/E000329_NationalRangerTV_Front.jpg.480x480_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=1boLi%2BiNoie5RM%2FKX7lOYIbbjTc%3D&Expires=1627009063",
+                    "image_file_s": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/E000329_NationalRangerTV_Front.jpg.960x960_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=Zao2dfUZ3Gic3JVyjjWNFDWBcCk%3D&Expires=1627009063",
+                    "image_file_m": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/E000329_NationalRangerTV_Front.jpg.1920x1920_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=UXpr4fIZ5XPLGW3DYgVWu5xnchU%3D&Expires=1627009063",
+                    "image_file_l": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/E000329_NationalRangerTV_Front.jpg.3840x3840_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=8B4ssrM1IA7gXD74m0Zuql5f5oc%3D&Expires=1627009063",
+                    "caption": "E000329_NationalRangerTV_Front",
+                    "credit_line": "Photograph by Egmont Contreras, ACMI.",
+                    "alt_text": "",
+                    "width": 4695,
+                    "height": 3130,
+                    "access_level": "View anywhere"
+                },
+                {
+                    "id": 14109,
+                    "image_file": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/E000329_NationalRangerTV_Back.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=b%2FiE8p%2BZsRp3OiilN5ll41tLPnQ%3D&Expires=1627009063",
+                    "image_file_thumbnail": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/E000329_NationalRangerTV_Back.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=W1Cl01ZUBpa5q2NeogOhobVbl%2BA%3D&Expires=1627009063",
+                    "image_file_xs": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/E000329_NationalRangerTV_Back.jpg.480x480_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=zo8NmR5GjgLQbwx3xX1qpN91s1A%3D&Expires=1627009063",
+                    "image_file_s": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/E000329_NationalRangerTV_Back.jpg.960x960_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=aVG4IyO56GMozN1AJHbNs0XJVnY%3D&Expires=1627009063",
+                    "image_file_m": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/E000329_NationalRangerTV_Back.jpg.1920x1920_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=imsKtpJ0g0ynbkPYSgV55%2BXr1pk%3D&Expires=1627009063",
+                    "image_file_l": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/E000329_NationalRangerTV_Back.jpg.3840x3840_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=S9Pq%2F3TsGmZeVesK77V3c%2FBoEF0%3D&Expires=1627009063",
+                    "caption": "E000329_NationalRangerTV_Back",
+                    "credit_line": "Photograph by Egmont Contreras, ACMI.",
+                    "alt_text": "",
+                    "width": 4664,
+                    "height": 3109,
+                    "access_level": "View anywhere"
+                },
+                {
+                    "id": 14110,
+                    "image_file": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/E000329_NationalRangerTV_Left.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=kX8roVIeg%2Bjj%2BW3Jq3csHv7igDc%3D&Expires=1627009063",
+                    "image_file_thumbnail": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/E000329_NationalRangerTV_Left.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=%2BHSevCEVw2%2ByHEzKUl%2B7U00imFE%3D&Expires=1627009063",
+                    "image_file_xs": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/E000329_NationalRangerTV_Left.jpg.480x480_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=%2F%2BvFj6AqJUfu%2BNT919ceVrIqmY4%3D&Expires=1627009063",
+                    "image_file_s": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/E000329_NationalRangerTV_Left.jpg.960x960_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=yMo3vP8PU1bVaXAfQ0LspybmE8Q%3D&Expires=1627009063",
+                    "image_file_m": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/E000329_NationalRangerTV_Left.jpg.1920x1920_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=5op8KksvAdj1RJEQbs8ewkRnHfM%3D&Expires=1627009063",
+                    "image_file_l": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/E000329_NationalRangerTV_Left.jpg.3840x3840_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=9AFBtKwRUMb6ZZ%2FcHOlIXNE0Hvc%3D&Expires=1627009063",
+                    "caption": "E000329_NationalRangerTV_Left",
+                    "credit_line": "Photograph by Egmont Contreras, ACMI.",
+                    "alt_text": "",
+                    "width": 4722,
+                    "height": 3148,
+                    "access_level": "View anywhere"
+                },
+                {
+                    "id": 14111,
+                    "image_file": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/E000329_NationalRangerTV_Right.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=8DRzDJ916pz4xzwJFoUkCjJV8Mk%3D&Expires=1627009063",
+                    "image_file_thumbnail": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/E000329_NationalRangerTV_Right.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=stnTgo5KQqVbRNK1CNMTM5yg6R4%3D&Expires=1627009063",
+                    "image_file_xs": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/E000329_NationalRangerTV_Right.jpg.480x480_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=wxP7p8q2InLJGKLHxSQj7m6QHKI%3D&Expires=1627009063",
+                    "image_file_s": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/E000329_NationalRangerTV_Right.jpg.960x960_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=ALQoo0NZ0LFLTFTm%2B0pAvCK7AmY%3D&Expires=1627009063",
+                    "image_file_m": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/E000329_NationalRangerTV_Right.jpg.1920x1920_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=0kBSU%2Bn7PNiYEXCiZ5e68HzA%2Fos%3D&Expires=1627009063",
+                    "image_file_l": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/E000329_NationalRangerTV_Right.jpg.3840x3840_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=ZdAGGONajZAG5hH0Db9UZJ2tDgM%3D&Expires=1627009063",
+                    "caption": "E000329_NationalRangerTV_Right",
+                    "credit_line": "Photograph by Egmont Contreras, ACMI.",
+                    "alt_text": "",
+                    "width": 4677,
+                    "height": 3118,
+                    "access_level": "View anywhere"
+                }
+            ],
+            "videos": [],
+            "holdings": [],
+            "part_of": null,
+            "parts": [],
+            "part_siblings": [],
+            "group": {
+                "id": 114466,
+                "acmi_id": "183622",
+                "title": "Portable TVs (Retro Vision)",
+                "title_annotation": "",
+                "slug": "mpl-display-group-tv-cabinet",
+                "creator_credit": "",
+                "credit_line": "",
+                "headline_credit": "",
+                "thumbnail": {
+                    "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/E000329_NationalRangerTV_34.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=dDq4WEcpthtNt2dUTJOdmYs5IN8%3D&Expires=1627009063",
+                    "has_video": false
+                },
+                "record_type": "group",
+                "type": "Film",
+                "is_on_display": true,
+                "last_on_display_place": "ACMI: Gallery 1",
+                "last_on_display_date": "2031-02-16",
+                "is_context_indigenous": false,
+                "material_description": "",
+                "unpublished": false,
+                "first_production_date": null
+            },
+            "group_works": [],
+            "group_siblings": [
+                {
+                    "id": 100280,
+                    "acmi_id": "176518",
+                    "title": "Pop-Up Television Radio Model TR-475U",
+                    "title_annotation": "",
+                    "slug": "pop-up-television-radio-model-tr-475u",
+                    "creator_credit": "National Panasonic",
+                    "credit_line": "<p>ACMI Collection. Courtesy Vincent McMurray.</p>",
+                    "headline_credit": "",
+                    "thumbnail": {
+                        "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/E000323_NationalPanasonicPopUpTV_34.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=MSY7bwKJ7URcRCFts2JWYytnX4E%3D&Expires=1627009063",
+                        "has_video": false
+                    },
+                    "record_type": "work",
+                    "type": "Object",
+                    "is_on_display": true,
+                    "last_on_display_place": "ACMI: Gallery 1",
+                    "last_on_display_date": "2031-02-16",
+                    "is_context_indigenous": false,
+                    "material_description": "plastic body with silver metal handle, trim and antenna.",
+                    "unpublished": false,
+                    "first_production_date": null
+                },
+                {
+                    "id": 118211,
+                    "acmi_id": "148351",
+                    "title": "Videosphere 'Space Helmet' CRT Television Set",
+                    "title_annotation": "",
+                    "slug": "videosphere-space-helmet-crt-television-set",
+                    "creator_credit": "JVC",
+                    "credit_line": "<p>ACMI Collection</p>",
+                    "headline_credit": "c. 1970",
+                    "thumbnail": {
+                        "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/GF000011_SpaceHelmetTV_34.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=JDLg87TrPTy%2F4GVzGP07cN5CIyE%3D&Expires=1627009063",
+                        "has_video": false
+                    },
+                    "record_type": "work",
+                    "type": "Object",
+                    "is_on_display": true,
+                    "last_on_display_place": "ACMI Ground Floor",
+                    "last_on_display_date": "2019-04-22",
+                    "is_context_indigenous": false,
+                    "material_description": "",
+                    "unpublished": false,
+                    "first_production_date": null
+                }
+            ],
+            "source": {
+                "name": "Vernon",
+                "slug": "vernon"
+            },
+            "source_identifier": "181197",
+            "production_places": [
+                {
+                    "id": 8,
+                    "name": "Japan",
+                    "slug": "japan"
+                }
+            ],
+            "production_dates": [
+                {
+                    "date": "c. 1974",
+                    "notes": "",
+                    "to_year": "c. 1974"
+                }
+            ],
+            "labels": [
+                39774
+            ]
+        },
+        {
+            "id": 118272,
+            "acmi_id": "181018",
+            "title": "NV-HV60 Super Drive VHS Playback Unit",
+            "title_annotation": "",
+            "slug": "nv-hv60-super-drive-vhs-playback-unit",
+            "creator_credit": "Panasonic Corporation",
+            "credit_line": "<p>ACMI Collection</p>",
+            "headline_credit": "Malaysia",
+            "thumbnail": {
+                "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/E000443_SuperDriveVHSPlayback_34.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=KgK2%2BOiED9I0AAmteDieW9cicN0%3D&Expires=1627009063",
+                "has_video": false
+            },
+            "record_type": "work",
+            "type": "Object",
+            "is_on_display": true,
+            "last_on_display_place": "ACMI: Gallery 1",
+            "last_on_display_date": "2031-02-16",
+            "is_context_indigenous": false,
+            "material_description": "",
+            "unpublished": false,
+            "first_production_date": null,
+            "brief_description": "",
+            "constellations_primary": [],
+            "constellations_other": [],
+            "recommendations": [],
+            "title_for_label": "<p>NV-HV60 Super Drive VHS Playback Unit</p>",
+            "creator_credit_for_label": "<p>Panasonic Corporation</p>",
+            "headline_credit_for_label": "<p>Malaysia</p>",
+            "description": "",
+            "description_for_label": [],
+            "credit_line_for_label": "<p>ACMI Collection</p>",
+            "details": [
+                {
+                    "label": "Curatorial section",
+                    "display_values": [
+                        "The Story of the Moving Image&nbsp;→  Foyer&nbsp;→ Entry &nbsp;→ 03. MPL exterior"
+                    ]
+                },
+                {
+                    "label": "Measurements",
+                    "display_values": [
+                        "2.6kg",
+                        "88 x 428 x 200mm"
+                    ]
+                }
+            ],
+            "stats": {
+                "tap_count": 0
+            },
+            "links": [],
+            "creators_primary": [
+                {
+                    "id": 1134588,
+                    "name": "Panasonic Corporation",
+                    "creator_id": 73001,
+                    "role": "creator",
+                    "role_id": 968,
+                    "is_primary": true
+                }
+            ],
+            "creators_other": [],
+            "video_links": [],
+            "media_note": null,
+            "images": [
+                {
+                    "id": 21174,
+                    "image_file": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/E000443_SuperDriveVHSPlayback_34.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=BhbeoqoLlqqAP1gTBFueRDLvVuU%3D&Expires=1627009063",
+                    "image_file_thumbnail": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/E000443_SuperDriveVHSPlayback_34.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=KgK2%2BOiED9I0AAmteDieW9cicN0%3D&Expires=1627009063",
+                    "image_file_xs": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/E000443_SuperDriveVHSPlayback_34.jpg.480x480_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=wU1hyzO3sY9u3j48vJDGpwNUImo%3D&Expires=1627009063",
+                    "image_file_s": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/E000443_SuperDriveVHSPlayback_34.jpg.960x960_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=f7v158XtKhI5o6y9FasMcvzW5p0%3D&Expires=1627009063",
+                    "image_file_m": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/E000443_SuperDriveVHSPlayback_34.jpg.1920x1920_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=O5CM4SocEpSQddA8BVEqa0aL9hM%3D&Expires=1627009063",
+                    "image_file_l": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/E000443_SuperDriveVHSPlayback_34.jpg.3840x3840_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=r%2BFG0vi7o%2BNrjpJ3N19dsG5RcEk%3D&Expires=1627009063",
+                    "caption": "E000443_SuperDriveVHSPlayback_34",
+                    "credit_line": "Photograph by Egmont Contreras",
+                    "alt_text": "",
+                    "width": 4800,
+                    "height": 3200,
+                    "access_level": "View anywhere"
+                },
+                {
+                    "id": 21175,
+                    "image_file": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/E000443_SuperDriveVHSPlayback_Front.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=ljfzzxlXig0QT2RoqQ%2F6MUb3aLU%3D&Expires=1627009063",
+                    "image_file_thumbnail": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/E000443_SuperDriveVHSPlayback_Front.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=3bscZbKfbENwcYOBoXoZdIu5bQI%3D&Expires=1627009063",
+                    "image_file_xs": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/E000443_SuperDriveVHSPlayback_Front.jpg.480x480_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=ya%2BhzHi%2BNvmzeJ3Fe2N7goChOgg%3D&Expires=1627009063",
+                    "image_file_s": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/E000443_SuperDriveVHSPlayback_Front.jpg.960x960_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=sRGlWBDcTvfiLSZ76BXGSmPV3oA%3D&Expires=1627009063",
+                    "image_file_m": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/E000443_SuperDriveVHSPlayback_Front.jpg.1920x1920_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=PJl6%2FPhJGkngvuVuVtV%2B571m40g%3D&Expires=1627009063",
+                    "image_file_l": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/E000443_SuperDriveVHSPlayback_Front.jpg.3840x3840_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=54klkNwbf1ksQE%2BrNdQ1x8byifc%3D&Expires=1627009063",
+                    "caption": "E000443_SuperDriveVHSPlayback_Front",
+                    "credit_line": "Photograph by Egmont Contreras",
+                    "alt_text": "",
+                    "width": 4744,
+                    "height": 3163,
+                    "access_level": "View anywhere"
+                },
+                {
+                    "id": 21176,
+                    "image_file": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/E000443_SuperDriveVHSPlayback_Top.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=agdzDnl%2BP6%2FzLLglfWaeGElMBRM%3D&Expires=1627009063",
+                    "image_file_thumbnail": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/E000443_SuperDriveVHSPlayback_Top.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=UnPQ4ZJiSTZ2w5MIp3GfoAFYjoM%3D&Expires=1627009063",
+                    "image_file_xs": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/E000443_SuperDriveVHSPlayback_Top.jpg.480x480_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=7%2BEpEwSysd3KI8cJ104JrSZYWfs%3D&Expires=1627009063",
+                    "image_file_s": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/E000443_SuperDriveVHSPlayback_Top.jpg.960x960_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=hR3p78H7NUg9xQj1ytfCK%2BWBqng%3D&Expires=1627009063",
+                    "image_file_m": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/E000443_SuperDriveVHSPlayback_Top.jpg.1920x1920_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=kfXroW5wWYUXyVB19fh6FfHkj5E%3D&Expires=1627009063",
+                    "image_file_l": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/E000443_SuperDriveVHSPlayback_Top.jpg.3840x3840_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=ADAlbpmmM8wAkNikySw4h2pbyDk%3D&Expires=1627009063",
+                    "caption": "E000443_SuperDriveVHSPlayback_Top",
+                    "credit_line": "Photograph by Egmont Contreras",
+                    "alt_text": "",
+                    "width": 4721,
+                    "height": 3148,
+                    "access_level": "View anywhere"
+                },
+                {
+                    "id": 21177,
+                    "image_file": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/E000443_SuperDriveVHSPlayback_Back.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=%2BW7p6djR1ljn76pDqG4BQeXwdQk%3D&Expires=1627009063",
+                    "image_file_thumbnail": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/E000443_SuperDriveVHSPlayback_Back.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=Y6mhybQh%2B6ehEsd9qKfM3sAadsQ%3D&Expires=1627009063",
+                    "image_file_xs": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/E000443_SuperDriveVHSPlayback_Back.jpg.480x480_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=u09MAHAk7wvkSY%2B0NoEcmjt3YoQ%3D&Expires=1627009063",
+                    "image_file_s": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/E000443_SuperDriveVHSPlayback_Back.jpg.960x960_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=u1JteDSUvcKigV1yZaXkwx%2FgPKA%3D&Expires=1627009063",
+                    "image_file_m": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/E000443_SuperDriveVHSPlayback_Back.jpg.1920x1920_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=mLFU4itTYLnNHB35jI5S7ktFgys%3D&Expires=1627009063",
+                    "image_file_l": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/E000443_SuperDriveVHSPlayback_Back.jpg.3840x3840_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=a8G%2BWYeqKTPjJ8PXsRzXSxid0iM%3D&Expires=1627009063",
+                    "caption": "E000443_SuperDriveVHSPlayback_Back",
+                    "credit_line": "Photograph by Egmont Contreras",
+                    "alt_text": "",
+                    "width": 4619,
+                    "height": 3079,
+                    "access_level": "View anywhere"
+                }
+            ],
+            "videos": [],
+            "holdings": [],
+            "part_of": null,
+            "parts": [],
+            "part_siblings": [],
+            "group": {
+                "id": 117966,
+                "acmi_id": "183933",
+                "title": "VHS",
+                "title_annotation": "",
+                "slug": "vhs",
+                "creator_credit": "",
+                "credit_line": "",
+                "headline_credit": "",
+                "thumbnail": {
+                    "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/E000443_SuperDriveVHSPlayback_34.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=KgK2%2BOiED9I0AAmteDieW9cicN0%3D&Expires=1627009063",
+                    "has_video": false
+                },
+                "record_type": "group",
+                "type": "Film",
+                "is_on_display": false,
+                "last_on_display_place": null,
+                "last_on_display_date": null,
+                "is_context_indigenous": false,
+                "material_description": "",
+                "unpublished": false,
+                "first_production_date": null
+            },
+            "group_works": [],
+            "group_siblings": [
+                {
+                    "id": 99899,
+                    "acmi_id": "181259",
+                    "title": "VHS Movie Camera NV-M50",
+                    "title_annotation": "",
+                    "slug": "vhs-movie-camera-nv-m50",
+                    "creator_credit": "Panasonic Corporation",
+                    "credit_line": "<p>ACMI Collection</p>",
+                    "headline_credit": "Japan",
+                    "thumbnail": {
+                        "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/E000331_PanasonicVHSCamera_34.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=dGBbkbjAqcFq8OYVD8%2FtBp4kfPc%3D&Expires=1627009063",
+                        "has_video": false
+                    },
+                    "record_type": "work",
+                    "type": "Object",
+                    "is_on_display": true,
+                    "last_on_display_place": "ACMI: Gallery 1",
+                    "last_on_display_date": "2031-02-16",
+                    "is_context_indigenous": false,
+                    "material_description": "",
+                    "unpublished": false,
+                    "first_production_date": null
+                }
+            ],
+            "source": {
+                "name": "Vernon",
+                "slug": "vernon"
+            },
+            "source_identifier": "181018",
+            "production_places": [
+                {
+                    "id": 178,
+                    "name": "Malaysia",
+                    "slug": "malaysia"
+                }
+            ],
+            "production_dates": [],
+            "labels": [
+                57775
+            ]
+        },
+        {
+            "id": 100283,
+            "acmi_id": "180987",
+            "title": "Macintosh Classic ",
+            "title_annotation": "",
+            "slug": "macintosh-classic-computer",
+            "creator_credit": "Apple Computer Inc.",
+            "credit_line": "<p>ACMI Collection</p>",
+            "headline_credit": "Singapore, 1991",
+            "thumbnail": {
+                "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/E000326_MacintoshClassicComputer.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=4SPdMWlMouRNtfH743Enbymr%2BP4%3D&Expires=1627009063",
+                "has_video": false
+            },
+            "record_type": "work",
+            "type": "Object",
+            "is_on_display": true,
+            "last_on_display_place": "ACMI: Gallery 1",
+            "last_on_display_date": "2031-02-16",
+            "is_context_indigenous": false,
+            "material_description": "",
+            "unpublished": false,
+            "first_production_date": "1991-01-01T11:00:00+11:00",
+            "brief_description": "<p>If you took a computer class in Australia during the early 1990s, chances are you used one of these boxy personal computers. The Macintosh Classic was released in October 1990 and was the first Macintosh computer to sell for less than $1,000 US dollars, making it one of the most affordable computers on the market at the time. It was really just a cheaper version of the Macintosh SE without as many features, which had been released in 1987, and the Macintosh Classic was seen by some as an attempt to squeeze a few more years out of the earlier model. Part of its reduced cost was due to being made in Singapore, instead of America like previous Macintosh computers. Still, the price and stable operating system made it popular in schools, at home and for small business. </p>",
+            "constellations_primary": [],
+            "constellations_other": [],
+            "recommendations": [],
+            "title_for_label": "<p>Macintosh Classic </p>",
+            "creator_credit_for_label": "<p>Apple Computer Inc.</p>",
+            "headline_credit_for_label": "<p>Singapore, 1991</p>",
+            "description": "<p>If you took a computer class in Australia during the early 1990s, chances are you used one of these boxy personal computers. The Macintosh Classic was released in October 1990 and was the first Macintosh computer to sell for less than $1,000 US dollars, making it one of the most affordable computers on the market at the time. It was really just a cheaper version of the Macintosh SE without as many features, which had been released in 1987, and the Macintosh Classic was seen by some as an attempt to squeeze a few more years out of the earlier model. Part of its reduced cost was due to being made in Singapore, instead of America like previous Macintosh computers. Still, the price and stable operating system made it popular in schools, at home and for small business. </p>",
+            "description_for_label": [
+                "<p>If you took a computer class in Australia during the early 1990s, chances are you used one of these boxy personal computers. The Macintosh Classic was released in October 1990 and was the first Macintosh computer to sell for less than $1,000 US dollars, making it one of the most affordable computers on the market at the time. It was really just a cheaper version of the Macintosh SE without as many features, which had been released in 1987, and the Macintosh Classic was seen by some as an attempt to squeeze a few more years out of the earlier model. Part of its reduced cost was due to being made in Singapore, instead of America like previous Macintosh computers. Still, the price and stable operating system made it popular in schools, at home and for small business. </p>"
+            ],
+            "credit_line_for_label": "<p>ACMI Collection</p>",
+            "details": [
+                {
+                    "label": "Curatorial section",
+                    "display_values": [
+                        "The Story of the Moving Image&nbsp;→  Foyer&nbsp;→ Entry &nbsp;→ 03. MPL exterior"
+                    ]
+                },
+                {
+                    "label": "Measurements",
+                    "display_values": [
+                        "28 x 55 x 96mm",
+                        "35 x 65 x 105mm",
+                        "95cm",
+                        "250cm",
+                        "343 x 246 x 246mm",
+                        "44 x 419 x 142mm"
+                    ]
+                }
+            ],
+            "stats": {
+                "tap_count": 30
+            },
+            "links": [],
+            "creators_primary": [
+                {
+                    "id": 1134587,
+                    "name": "Apple Computer Inc.",
+                    "creator_id": 71442,
+                    "role": "manufacturer",
+                    "role_id": 627,
+                    "is_primary": true
+                }
+            ],
+            "creators_other": [],
+            "video_links": [],
+            "media_note": null,
+            "images": [
+                {
+                    "id": 16166,
+                    "image_file": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/E000326_MacintoshClassicComputer.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=N%2FAuOGVI5KfCnYouagO7r0Eu2xA%3D&Expires=1627009063",
+                    "image_file_thumbnail": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/E000326_MacintoshClassicComputer.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=4SPdMWlMouRNtfH743Enbymr%2BP4%3D&Expires=1627009063",
+                    "image_file_xs": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/E000326_MacintoshClassicComputer.jpg.480x480_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=fRdYYAxU2RYr6fmFXjWT%2F4nQhXg%3D&Expires=1627009063",
+                    "image_file_s": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/E000326_MacintoshClassicComputer.jpg.960x960_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=c%2Fh3kmdCRkreG%2BCR%2FeunzI6AK4M%3D&Expires=1627009063",
+                    "image_file_m": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/E000326_MacintoshClassicComputer.jpg.1920x1920_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=z8knuIbp0NZLwnxo4XAyCuiqdzA%3D&Expires=1627009063",
+                    "image_file_l": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/E000326_MacintoshClassicComputer.jpg.3840x3840_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=cSajBJh6Wt7BzKm7By%2FXrldnQ0c%3D&Expires=1627009063",
+                    "caption": "E000326_MacintoshClassicComputer",
+                    "credit_line": "Photograph by Egmont Contreras, ACMI.",
+                    "alt_text": "",
+                    "width": 4800,
+                    "height": 3200,
+                    "access_level": "View anywhere"
+                }
+            ],
+            "videos": [],
+            "holdings": [],
+            "part_of": null,
+            "parts": [],
+            "part_siblings": [],
+            "group": {
+                "id": 114488,
+                "acmi_id": "183620",
+                "title": "Early home consoles",
+                "title_annotation": "",
+                "slug": "mpl-display-group-legacy-games-with-monitors",
+                "creator_credit": "",
+                "credit_line": "",
+                "headline_credit": "",
+                "thumbnail": {
+                    "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/E000326_MacintoshClassicComputer.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=4SPdMWlMouRNtfH743Enbymr%2BP4%3D&Expires=1627009063",
+                    "has_video": false
+                },
+                "record_type": "group",
+                "type": "Film",
+                "is_on_display": true,
+                "last_on_display_place": "ACMI: Gallery 1",
+                "last_on_display_date": "2031-02-16",
+                "is_context_indigenous": false,
+                "material_description": "",
+                "unpublished": false,
+                "first_production_date": null
+            },
+            "group_works": [],
+            "group_siblings": [
+                {
+                    "id": 118262,
+                    "acmi_id": "164712",
+                    "title": "Portable Black and White TV",
+                    "title_annotation": "",
+                    "slug": "portable-black-and-white-tv",
+                    "creator_credit": "NEC Japan",
+                    "credit_line": "<p>ACMI Collection</p>",
+                    "headline_credit": "Japan, 1974",
+                    "thumbnail": {
+                        "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/E000177_RankArenaPortableBWTV_34.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=CjTKH22m23zBXRb11l71yJR373U%3D&Expires=1627009063",
+                        "has_video": false
+                    },
+                    "record_type": "work",
+                    "type": "Object",
+                    "is_on_display": true,
+                    "last_on_display_place": "ACMI: Gallery 1",
+                    "last_on_display_date": "2031-02-16",
+                    "is_context_indigenous": false,
+                    "material_description": "",
+                    "unpublished": false,
+                    "first_production_date": "1974-01-01T11:00:00+11:00"
+                },
+                {
+                    "id": 100282,
+                    "acmi_id": "180921",
+                    "title": "TVG-8610C Console",
+                    "title_annotation": "",
+                    "slug": "hanimex-tvg-8610c-console",
+                    "creator_credit": "Hanimex",
+                    "credit_line": "<p>ACMI Collection</p>",
+                    "headline_credit": "Hong Kong, c. 1978",
+                    "thumbnail": {
+                        "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/E000321_HanimexTVGconsole_34.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=vGvKHMeVpxQl3tBQIqzkH469VM4%3D&Expires=1627009063",
+                        "has_video": false
+                    },
+                    "record_type": "work",
+                    "type": "Videogame",
+                    "is_on_display": true,
+                    "last_on_display_place": "ACMI: Gallery 1",
+                    "last_on_display_date": "2031-02-16",
+                    "is_context_indigenous": false,
+                    "material_description": "plastic, metal, electronics",
+                    "unpublished": false,
+                    "first_production_date": null
+                }
+            ],
+            "source": {
+                "name": "Vernon",
+                "slug": "vernon"
+            },
+            "source_identifier": "180987",
+            "production_places": [
+                {
+                    "id": 51,
+                    "name": "Singapore",
+                    "slug": "singapore"
+                }
+            ],
+            "production_dates": [
+                {
+                    "date": "1991",
+                    "notes": "",
+                    "to_year": "1991"
+                }
+            ],
+            "labels": [
+                39779
+            ]
+        },
+        {
+            "id": 118271,
+            "acmi_id": "180927",
+            "title": "Pocket Cinema Camera 6K",
+            "title_annotation": "",
+            "slug": "pocket-cinema-camera-6k",
+            "creator_credit": "Blackmagic Design",
+            "credit_line": "<p>Courtesy Blackmagic Design, Major Partner of ACMI</p>",
+            "headline_credit": "AUG 2019",
+            "thumbnail": {
+                "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN180927_PocketCamera6K_Front.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=C070lzhwG%2BuQhXYsPMrnYfGrbcE%3D&Expires=1627009063",
+                "has_video": false
+            },
+            "record_type": "work",
+            "type": "Object",
+            "is_on_display": true,
+            "last_on_display_place": "ACMI: Gallery 1",
+            "last_on_display_date": "2023-02-09",
+            "is_context_indigenous": false,
+            "material_description": "",
+            "unpublished": false,
+            "first_production_date": null,
+            "brief_description": "<p>The Pocket Cinema Camera 6K is the world’s lightest and most portable 6K digital film camera, designed specifically for independant filmmakers, TV and web broadcasters.</p>\n<p>It offers Hollywood image quality and professional features in an affordable, ultra-portable and familiar DSLR format.</p>",
+            "constellations_primary": [],
+            "constellations_other": [],
+            "recommendations": [],
+            "title_for_label": "<p>Pocket Cinema Camera 6K</p>",
+            "creator_credit_for_label": "<p>Blackmagic Design</p>",
+            "headline_credit_for_label": "<p>AUG 2019</p>",
+            "description": "<p>The Pocket Cinema Camera 6K is the world’s lightest and most portable 6K digital film camera, designed specifically for independant filmmakers, TV and web broadcasters.</p>\n<p>It offers Hollywood image quality and professional features in an affordable, ultra-portable and familiar DSLR format.</p>",
+            "description_for_label": [
+                "<p>The Pocket Cinema Camera 6K is the world’s lightest and most portable 6K digital film camera, designed specifically for independant filmmakers, TV and web broadcasters.</p>\n<p>It offers Hollywood image quality and professional features in an affordable, ultra-portable and familiar DSLR format.</p>"
+            ],
+            "credit_line_for_label": "<p>Courtesy Blackmagic Design, Major Partner of ACMI</p>",
+            "details": [
+                {
+                    "label": "Curatorial section",
+                    "display_values": [
+                        "The Story of the Moving Image&nbsp;→  Foyer&nbsp;→ Entry &nbsp;→ 03. MPL exterior"
+                    ]
+                },
+                {
+                    "label": "Measurements",
+                    "display_values": [
+                        "90 x 170 x 185mm"
+                    ]
+                }
+            ],
+            "stats": {
+                "tap_count": 0
+            },
+            "links": [],
+            "creators_primary": [
+                {
+                    "id": 1134586,
+                    "name": "Blackmagic Design",
+                    "creator_id": 73012,
+                    "role": "manufacturer",
+                    "role_id": 627,
+                    "is_primary": true
+                }
+            ],
+            "creators_other": [
+                {
+                    "id": 1134585,
+                    "name": "Blackmagic Design",
+                    "creator_id": 73012,
+                    "role": "lender",
+                    "role_id": 626,
+                    "is_primary": false
+                }
+            ],
+            "video_links": [],
+            "media_note": null,
+            "images": [
+                {
+                    "id": 21172,
+                    "image_file": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN180927_PocketCamera6K_Front.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=1eCXlEeF7rphq9cvxOYJTUCq2NE%3D&Expires=1627009064",
+                    "image_file_thumbnail": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN180927_PocketCamera6K_Front.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=2nIOdqNgo7u3eo8m4RsStS3nRvI%3D&Expires=1627009064",
+                    "image_file_xs": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN180927_PocketCamera6K_Front.jpg.480x480_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=yieLby7%2BXIm7NEoWzpIQOfMFkAQ%3D&Expires=1627009064",
+                    "image_file_s": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN180927_PocketCamera6K_Front.jpg.960x960_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=6BNpXikUqGUck7x663DOPP5o7GU%3D&Expires=1627009064",
+                    "image_file_m": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN180927_PocketCamera6K_Front.jpg.1920x1920_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=%2FDVa7PKAND8XJaKJvGngI2zUFJo%3D&Expires=1627009064",
+                    "image_file_l": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN180927_PocketCamera6K_Front.jpg.3840x3840_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=uaUGX2L%2BYWQD2vTOU02vU8amdWA%3D&Expires=1627009064",
+                    "caption": "LN180927_PocketCamera6K_Front",
+                    "credit_line": "Photograph by Egmont Contreras, ACMI.",
+                    "alt_text": "",
+                    "width": 4800,
+                    "height": 3200,
+                    "access_level": "View anywhere"
+                },
+                {
+                    "id": 21173,
+                    "image_file": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN180927_PocketCamera6K_Left.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=9AU4%2BQ6Q9U8wtkr25mncsmEdra8%3D&Expires=1627009064",
+                    "image_file_thumbnail": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN180927_PocketCamera6K_Left.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=Opqw94iDNx1tp4zLR1rDvXFzMAI%3D&Expires=1627009064",
+                    "image_file_xs": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN180927_PocketCamera6K_Left.jpg.480x480_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=kbyRP2NSkT3k%2FnAhX%2Fb7lv4SlFg%3D&Expires=1627009064",
+                    "image_file_s": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN180927_PocketCamera6K_Left.jpg.960x960_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=SSumpDf1%2FN3Hs0Q%2Bjx1oBVDdndY%3D&Expires=1627009064",
+                    "image_file_m": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN180927_PocketCamera6K_Left.jpg.1920x1920_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=UnjvzrY693fbth%2FE%2FJWz%2FO1nrm8%3D&Expires=1627009064",
+                    "image_file_l": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN180927_PocketCamera6K_Left.jpg.3840x3840_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=wKOWxKc5O7jg2oXfYYtCZ5kWxNc%3D&Expires=1627009064",
+                    "caption": "LN180927_PocketCamera6K_Left",
+                    "credit_line": "Photograph by Egmont Contreras, ACMI.",
+                    "alt_text": "",
+                    "width": 4800,
+                    "height": 3200,
+                    "access_level": "View anywhere"
+                }
+            ],
+            "videos": [],
+            "holdings": [],
+            "part_of": null,
+            "parts": [],
+            "part_siblings": [],
+            "group": {
+                "id": 113857,
+                "acmi_id": "183607",
+                "title": "Pocket Cinema Camera 6K",
+                "title_annotation": "",
+                "slug": "mpl-display-group-pocket-cinema-camera-6k-prototypes",
+                "creator_credit": "Blackmagic Design",
+                "credit_line": "<p>Courtesy Blackmagic Design, Major Partner of ACMI</p>",
+                "headline_credit": "",
+                "thumbnail": {
+                    "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/GROUP_PocketCamera6K_2.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=RqagX0D2v5F%2FT093qCzinsbjisY%3D&Expires=1627009064",
+                    "has_video": false
+                },
+                "record_type": "group",
+                "type": "Film",
+                "is_on_display": true,
+                "last_on_display_place": "ACMI: Gallery 1",
+                "last_on_display_date": "2023-02-09",
+                "is_context_indigenous": false,
+                "material_description": "",
+                "unpublished": false,
+                "first_production_date": null
+            },
+            "group_works": [],
+            "group_siblings": [
+                {
+                    "id": 107661,
+                    "acmi_id": "182853",
+                    "title": "GRAPHIC: Sketches & CAD Drawings for Pocket Cinema Camera 6K",
+                    "title_annotation": "Facsimile",
+                    "slug": "graphic-sketches-cad-drawings-for-pocket-cinema-camera-6k",
+                    "creator_credit": "Blackmagic Design",
+                    "credit_line": "<p>Courtesy Blackmagic Design, Major Partner of ACMI</p>",
+                    "headline_credit": "",
+                    "thumbnail": null,
+                    "record_type": "work",
+                    "type": "Object",
+                    "is_on_display": true,
+                    "last_on_display_place": "ACMI: Gallery 1",
+                    "last_on_display_date": "2023-02-09",
+                    "is_context_indigenous": false,
+                    "material_description": "digital print",
+                    "unpublished": false,
+                    "first_production_date": null
+                },
+                {
+                    "id": 118269,
+                    "acmi_id": "180925",
+                    "title": "Pocket Cinema Camera 6K Body Panels",
+                    "title_annotation": "",
+                    "slug": "pocket-cinema-camera-6k-body-panels",
+                    "creator_credit": "Blackmagic Design",
+                    "credit_line": "<p>Courtesy Blackmagic Design, Major Partner of ACMI</p>",
+                    "headline_credit": "",
+                    "thumbnail": {
+                        "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN180925_PocketCamera6K_BodyPanels.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=FLTiN5Yxol74os3I9Nn1J3pwEyo%3D&Expires=1627009064",
+                        "has_video": false
+                    },
+                    "record_type": "work",
+                    "type": "Object",
+                    "is_on_display": true,
+                    "last_on_display_place": "ACMI: Gallery 1",
+                    "last_on_display_date": "2023-02-09",
+                    "is_context_indigenous": false,
+                    "material_description": "Polycarbonate reinforced with carbon fibre",
+                    "unpublished": false,
+                    "first_production_date": null
+                },
+                {
+                    "id": 118268,
+                    "acmi_id": "180924",
+                    "title": "Pocket Cinema Camera 6K Form Prototype",
+                    "title_annotation": "",
+                    "slug": "pocket-cinema-camera-6k-form-prototype",
+                    "creator_credit": "Blackmagic Design",
+                    "credit_line": "<p>Courtesy Blackmagic Design, Major Partner of ACMI</p>",
+                    "headline_credit": "",
+                    "thumbnail": {
+                        "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN180924_PocketCamera6K_FormPrototype.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=PnS5mllS6LPyUw%2BWsYRYzfOfky8%3D&Expires=1627009064",
+                        "has_video": false
+                    },
+                    "record_type": "work",
+                    "type": "Object",
+                    "is_on_display": true,
+                    "last_on_display_place": "ACMI: Gallery 1",
+                    "last_on_display_date": "2023-02-09",
+                    "is_context_indigenous": false,
+                    "material_description": "full colour 3D print",
+                    "unpublished": false,
+                    "first_production_date": null
+                },
+                {
+                    "id": 118270,
+                    "acmi_id": "180926",
+                    "title": "Pocket Cinema Camera 6K Partial Assembly",
+                    "title_annotation": "",
+                    "slug": "pocket-cinema-camera-6k-partial-assembly",
+                    "creator_credit": "Blackmagic Design",
+                    "credit_line": "<p>Courtesy Blackmagic Design, Major Partner of ACMI</p>",
+                    "headline_credit": "",
+                    "thumbnail": {
+                        "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN180926_PocketCamera6K_PartialAssembly.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=QN8wem7fazA3LBMdcs8YtsGwNvw%3D&Expires=1627009064",
+                        "has_video": false
+                    },
+                    "record_type": "work",
+                    "type": "Object",
+                    "is_on_display": true,
+                    "last_on_display_place": "ACMI: Gallery 1",
+                    "last_on_display_date": "2023-02-09",
+                    "is_context_indigenous": false,
+                    "material_description": "",
+                    "unpublished": false,
+                    "first_production_date": null
+                }
+            ],
+            "source": {
+                "name": "Vernon",
+                "slug": "vernon"
+            },
+            "source_identifier": "180927",
+            "production_places": [],
+            "production_dates": [
+                {
+                    "date": "AUG 2019",
+                    "notes": "Launched",
+                    "to_year": "AUG 2019"
+                }
+            ],
+            "labels": [
+                57774
+            ]
+        },
+        {
+            "id": 118270,
+            "acmi_id": "180926",
+            "title": "Pocket Cinema Camera 6K Partial Assembly",
+            "title_annotation": "",
+            "slug": "pocket-cinema-camera-6k-partial-assembly",
+            "creator_credit": "Blackmagic Design",
+            "credit_line": "<p>Courtesy Blackmagic Design, Major Partner of ACMI</p>",
+            "headline_credit": "",
+            "thumbnail": {
+                "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN180926_PocketCamera6K_PartialAssembly.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=QN8wem7fazA3LBMdcs8YtsGwNvw%3D&Expires=1627009064",
+                "has_video": false
+            },
+            "record_type": "work",
+            "type": "Object",
+            "is_on_display": true,
+            "last_on_display_place": "ACMI: Gallery 1",
+            "last_on_display_date": "2023-02-09",
+            "is_context_indigenous": false,
+            "material_description": "",
+            "unpublished": false,
+            "first_production_date": null,
+            "brief_description": "<p>This partially assembled Pocket Cinema Camera displays some of the design detail required to achieve accurate, highly toleranced fitment of parts.<br />\nInternal components have been miniaturised to ensure the camera is compact enough for hand-held use, but capable of delivering cinematic film quality.</p>",
+            "constellations_primary": [],
+            "constellations_other": [],
+            "recommendations": [],
+            "title_for_label": "<p>Pocket Cinema Camera 6K Partial Assembly</p>",
+            "creator_credit_for_label": "<p>Blackmagic Design</p>",
+            "headline_credit_for_label": "",
+            "description": "<p>This partially assembled Pocket Cinema Camera displays some of the design detail required to achieve accurate, highly toleranced fitment of parts.<br />\nInternal components have been miniaturised to ensure the camera is compact enough for hand-held use, but capable of delivering cinematic film quality.</p>",
+            "description_for_label": [
+                "<p>This partially assembled Pocket Cinema Camera displays some of the design detail required to achieve accurate, highly toleranced fitment of parts.<br />\nInternal components have been miniaturised to ensure the camera is compact enough for hand-held use, but capable of delivering cinematic film quality.</p>"
+            ],
+            "credit_line_for_label": "<p>Courtesy Blackmagic Design, Major Partner of ACMI</p>",
+            "details": [
+                {
+                    "label": "Curatorial section",
+                    "display_values": [
+                        "The Story of the Moving Image&nbsp;→  Foyer&nbsp;→ Entry &nbsp;→ 03. MPL exterior"
+                    ]
+                },
+                {
+                    "label": "Measurements",
+                    "display_values": [
+                        "90 x 175 x 135mm"
+                    ]
+                }
+            ],
+            "stats": {
+                "tap_count": 0
+            },
+            "links": [],
+            "creators_primary": [
+                {
+                    "id": 1134584,
+                    "name": "Blackmagic Design",
+                    "creator_id": 73012,
+                    "role": "manufacturer",
+                    "role_id": 627,
+                    "is_primary": true
+                }
+            ],
+            "creators_other": [
+                {
+                    "id": 1134583,
+                    "name": "Blackmagic Design",
+                    "creator_id": 73012,
+                    "role": "lender",
+                    "role_id": 626,
+                    "is_primary": false
+                }
+            ],
+            "video_links": [],
+            "media_note": null,
+            "images": [
+                {
+                    "id": 21171,
+                    "image_file": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN180926_PocketCamera6K_PartialAssembly.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=dynqo5KwiscPcymv%2BgYVfiwkgzM%3D&Expires=1627009064",
+                    "image_file_thumbnail": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN180926_PocketCamera6K_PartialAssembly.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=QN8wem7fazA3LBMdcs8YtsGwNvw%3D&Expires=1627009064",
+                    "image_file_xs": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN180926_PocketCamera6K_PartialAssembly.jpg.480x480_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=FGnwLYPAgCIJfEVyGcf4TW550KI%3D&Expires=1627009064",
+                    "image_file_s": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN180926_PocketCamera6K_PartialAssembly.jpg.960x960_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=z922cI0Z2ObQ0PGrwaKXzwHPzBQ%3D&Expires=1627009064",
+                    "image_file_m": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN180926_PocketCamera6K_PartialAssembly.jpg.1920x1920_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=JtXm4PKC%2BBxAaRxguSxc8LeYsd0%3D&Expires=1627009064",
+                    "image_file_l": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN180926_PocketCamera6K_PartialAssembly.jpg.3840x3840_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=ObmUdBbRulkV6lcvlmhXdhwfj60%3D&Expires=1627009064",
+                    "caption": "LN180926_PocketCamera6K_PartialAssembly",
+                    "credit_line": "Photograph by Egmont Contreras, ACMI.",
+                    "alt_text": "",
+                    "width": 4800,
+                    "height": 3200,
+                    "access_level": "View anywhere"
+                }
+            ],
+            "videos": [],
+            "holdings": [],
+            "part_of": null,
+            "parts": [],
+            "part_siblings": [],
+            "group": {
+                "id": 113857,
+                "acmi_id": "183607",
+                "title": "Pocket Cinema Camera 6K",
+                "title_annotation": "",
+                "slug": "mpl-display-group-pocket-cinema-camera-6k-prototypes",
+                "creator_credit": "Blackmagic Design",
+                "credit_line": "<p>Courtesy Blackmagic Design, Major Partner of ACMI</p>",
+                "headline_credit": "",
+                "thumbnail": {
+                    "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/GROUP_PocketCamera6K_2.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=RqagX0D2v5F%2FT093qCzinsbjisY%3D&Expires=1627009064",
+                    "has_video": false
+                },
+                "record_type": "group",
+                "type": "Film",
+                "is_on_display": true,
+                "last_on_display_place": "ACMI: Gallery 1",
+                "last_on_display_date": "2023-02-09",
+                "is_context_indigenous": false,
+                "material_description": "",
+                "unpublished": false,
+                "first_production_date": null
+            },
+            "group_works": [],
+            "group_siblings": [
+                {
+                    "id": 107661,
+                    "acmi_id": "182853",
+                    "title": "GRAPHIC: Sketches & CAD Drawings for Pocket Cinema Camera 6K",
+                    "title_annotation": "Facsimile",
+                    "slug": "graphic-sketches-cad-drawings-for-pocket-cinema-camera-6k",
+                    "creator_credit": "Blackmagic Design",
+                    "credit_line": "<p>Courtesy Blackmagic Design, Major Partner of ACMI</p>",
+                    "headline_credit": "",
+                    "thumbnail": null,
+                    "record_type": "work",
+                    "type": "Object",
+                    "is_on_display": true,
+                    "last_on_display_place": "ACMI: Gallery 1",
+                    "last_on_display_date": "2023-02-09",
+                    "is_context_indigenous": false,
+                    "material_description": "digital print",
+                    "unpublished": false,
+                    "first_production_date": null
+                },
+                {
+                    "id": 118271,
+                    "acmi_id": "180927",
+                    "title": "Pocket Cinema Camera 6K",
+                    "title_annotation": "",
+                    "slug": "pocket-cinema-camera-6k",
+                    "creator_credit": "Blackmagic Design",
+                    "credit_line": "<p>Courtesy Blackmagic Design, Major Partner of ACMI</p>",
+                    "headline_credit": "AUG 2019",
+                    "thumbnail": {
+                        "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN180927_PocketCamera6K_Front.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=2nIOdqNgo7u3eo8m4RsStS3nRvI%3D&Expires=1627009064",
+                        "has_video": false
+                    },
+                    "record_type": "work",
+                    "type": "Object",
+                    "is_on_display": true,
+                    "last_on_display_place": "ACMI: Gallery 1",
+                    "last_on_display_date": "2023-02-09",
+                    "is_context_indigenous": false,
+                    "material_description": "",
+                    "unpublished": false,
+                    "first_production_date": null
+                },
+                {
+                    "id": 118269,
+                    "acmi_id": "180925",
+                    "title": "Pocket Cinema Camera 6K Body Panels",
+                    "title_annotation": "",
+                    "slug": "pocket-cinema-camera-6k-body-panels",
+                    "creator_credit": "Blackmagic Design",
+                    "credit_line": "<p>Courtesy Blackmagic Design, Major Partner of ACMI</p>",
+                    "headline_credit": "",
+                    "thumbnail": {
+                        "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN180925_PocketCamera6K_BodyPanels.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=FLTiN5Yxol74os3I9Nn1J3pwEyo%3D&Expires=1627009064",
+                        "has_video": false
+                    },
+                    "record_type": "work",
+                    "type": "Object",
+                    "is_on_display": true,
+                    "last_on_display_place": "ACMI: Gallery 1",
+                    "last_on_display_date": "2023-02-09",
+                    "is_context_indigenous": false,
+                    "material_description": "Polycarbonate reinforced with carbon fibre",
+                    "unpublished": false,
+                    "first_production_date": null
+                },
+                {
+                    "id": 118268,
+                    "acmi_id": "180924",
+                    "title": "Pocket Cinema Camera 6K Form Prototype",
+                    "title_annotation": "",
+                    "slug": "pocket-cinema-camera-6k-form-prototype",
+                    "creator_credit": "Blackmagic Design",
+                    "credit_line": "<p>Courtesy Blackmagic Design, Major Partner of ACMI</p>",
+                    "headline_credit": "",
+                    "thumbnail": {
+                        "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN180924_PocketCamera6K_FormPrototype.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=PnS5mllS6LPyUw%2BWsYRYzfOfky8%3D&Expires=1627009064",
+                        "has_video": false
+                    },
+                    "record_type": "work",
+                    "type": "Object",
+                    "is_on_display": true,
+                    "last_on_display_place": "ACMI: Gallery 1",
+                    "last_on_display_date": "2023-02-09",
+                    "is_context_indigenous": false,
+                    "material_description": "full colour 3D print",
+                    "unpublished": false,
+                    "first_production_date": null
+                }
+            ],
+            "source": {
+                "name": "Vernon",
+                "slug": "vernon"
+            },
+            "source_identifier": "180926",
+            "production_places": [],
+            "production_dates": [],
+            "labels": [
+                57773
+            ]
+        }
+    ]
+}

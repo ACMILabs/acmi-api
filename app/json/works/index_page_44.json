@@ -1,0 +1,2536 @@
+{
+    "count": 922,
+    "next": "https://api.acmi.net.au/works/?page=45",
+    "previous": "https://api.acmi.net.au/works/?page=43",
+    "results": [
+        {
+            "id": 75133,
+            "acmi_id": "30871",
+            "title": "Now you're talking",
+            "title_annotation": "",
+            "slug": "now-youre-talking",
+            "creator_credit": "Keith Gow, Anthony Buckley and Film Australia",
+            "credit_line": "",
+            "headline_credit": "Australia, 1979",
+            "thumbnail": null,
+            "record_type": "work",
+            "type": "Film",
+            "is_on_display": false,
+            "last_on_display_place": null,
+            "last_on_display_date": null,
+            "is_context_indigenous": false,
+            "material_description": "",
+            "unpublished": false,
+            "first_production_date": "1979-01-01T11:00:00+11:00",
+            "brief_description": "<p>Episode of Series &#8220;History of Australian Cinema Series&#8221;.<br />\nThe 30s saw the introduction of the &#8220;talkies&#8221; and a new era of filmmaking began. This was to decline with World War II. Excerpts from many of the films made during this decade are seen in this video. Please note that the commentary by Leo McKern has been recorded on another channel and may not be heard over the original sound recording. Includes b&amp;w sequences.</p>",
+            "constellations_primary": [],
+            "constellations_other": [],
+            "recommendations": [],
+            "title_for_label": "<p>Now you&#8217;re talking</p>",
+            "creator_credit_for_label": "<p>Keith Gow, Anthony Buckley and Film Australia</p>",
+            "headline_credit_for_label": "<p>Australia, 1979</p>",
+            "description": "<p>Episode of Series &#8220;History of Australian Cinema Series&#8221;.<br />\nThe 30s saw the introduction of the &#8220;talkies&#8221; and a new era of filmmaking began. This was to decline with World War II. Excerpts from many of the films made during this decade are seen in this video. Please note that the commentary by Leo McKern has been recorded on another channel and may not be heard over the original sound recording. Includes b&amp;w sequences.</p>",
+            "description_for_label": [
+                "<p>Episode of Series &#8220;History of Australian Cinema Series&#8221;.<br />\nThe 30s saw the introduction of the &#8220;talkies&#8221; and a new era of filmmaking began. This was to decline with World War II. Excerpts from many of the films made during this decade are seen in this video. Please note that the commentary by Leo McKern has been recorded on another channel and may not be heard over the original sound recording. Includes b&amp;w sequences.</p>"
+            ],
+            "credit_line_for_label": "",
+            "details": [
+                {
+                    "label": "Duration",
+                    "display_values": [
+                        "00:46:00:00"
+                    ]
+                },
+                {
+                    "label": "Language",
+                    "display_values": [
+                        "English"
+                    ]
+                },
+                {
+                    "label": "Subject categories",
+                    "display_values": [
+                        "Advertising, Film, Journalism, Mass Media & TV&nbsp;→ Motion picture industry - Australia",
+                        "Advertising, Film, Journalism, Mass Media & TV&nbsp;→ Motion picture industry - Study and teaching",
+                        "Advertising, Film, Journalism, Mass Media & TV&nbsp;→ Motion pictures - Australia - History",
+                        "Advertising, Film, Journalism, Mass Media & TV&nbsp;→ Motion pictures - Excerpts",
+                        "Advertising, Film, Journalism, Mass Media & TV&nbsp;→ Motion pictures - Study and teaching - Australia",
+                        "Documentary",
+                        "Documentary&nbsp;→ Documentary films - Australia",
+                        "Education, Instruction, Teaching & Schools&nbsp;→ Motion picture industry - Study and teaching",
+                        "Education, Instruction, Teaching & Schools&nbsp;→ Motion pictures - Study and teaching - Australia",
+                        "Educational & Instructional",
+                        "Educational & Instructional&nbsp;→ Educational films",
+                        "History&nbsp;→ History",
+                        "Short films",
+                        "Short films&nbsp;→ Short films - Australia"
+                    ]
+                },
+                {
+                    "label": "Sound/audio",
+                    "display_values": [
+                        "Sound"
+                    ]
+                },
+                {
+                    "label": "Colour",
+                    "display_values": [
+                        "Colour"
+                    ]
+                }
+            ],
+            "stats": {
+                "tap_count": 0
+            },
+            "links": [],
+            "creators_primary": [
+                {
+                    "id": 1134118,
+                    "name": "Keith Gow",
+                    "creator_id": 12324,
+                    "role": "director",
+                    "role_id": 938,
+                    "is_primary": true
+                },
+                {
+                    "id": 1134117,
+                    "name": "Anthony Buckley",
+                    "creator_id": 74451,
+                    "role": "producer",
+                    "role_id": 960,
+                    "is_primary": true
+                },
+                {
+                    "id": 1134116,
+                    "name": "Film Australia",
+                    "creator_id": 68514,
+                    "role": "production company",
+                    "role_id": 941,
+                    "is_primary": true
+                }
+            ],
+            "creators_other": [
+                {
+                    "id": 1134119,
+                    "name": "Leo McKern",
+                    "creator_id": 75558,
+                    "role": "narrator",
+                    "role_id": 499,
+                    "is_primary": false
+                },
+                {
+                    "id": 1134115,
+                    "name": "Film Australia",
+                    "creator_id": 68514,
+                    "role": "distributor",
+                    "role_id": 437,
+                    "is_primary": false
+                }
+            ],
+            "video_links": [],
+            "media_note": "Sorry, we don't have images or video for this item.",
+            "images": [],
+            "videos": [],
+            "holdings": [
+                {
+                    "name": "16mm film; Limited Access Print (Section 2)",
+                    "identifier": "",
+                    "description": ""
+                },
+                {
+                    "name": "16mm film; Preservation Print (Section 5)",
+                    "identifier": "",
+                    "description": ""
+                },
+                {
+                    "name": "16mm film; Access Print (Section 1)",
+                    "identifier": "",
+                    "description": ""
+                }
+            ],
+            "part_of": null,
+            "parts": [],
+            "part_siblings": [],
+            "group": {
+                "id": 114596,
+                "acmi_id": "57731",
+                "title": "History of Australian Cinema Series",
+                "title_annotation": "",
+                "slug": "history-of-australian-cinema-series",
+                "creator_credit": "",
+                "credit_line": "",
+                "headline_credit": "Australia",
+                "thumbnail": null,
+                "record_type": "group",
+                "type": "Film",
+                "is_on_display": false,
+                "last_on_display_place": null,
+                "last_on_display_date": null,
+                "is_context_indigenous": false,
+                "material_description": "",
+                "unpublished": false,
+                "first_production_date": null
+            },
+            "group_works": [],
+            "group_siblings": [
+                {
+                    "id": 75260,
+                    "acmi_id": "30999",
+                    "title": "The Passionate industry: 1920-1930",
+                    "title_annotation": "",
+                    "slug": "the-passionate-industry-1920-1930",
+                    "creator_credit": "Joan Long, Frank Bagnall and Film Australia",
+                    "credit_line": "",
+                    "headline_credit": "Australia, 1973",
+                    "thumbnail": null,
+                    "record_type": "work",
+                    "type": "Film",
+                    "is_on_display": false,
+                    "last_on_display_place": null,
+                    "last_on_display_date": null,
+                    "is_context_indigenous": false,
+                    "material_description": "",
+                    "unpublished": false,
+                    "first_production_date": "1973-01-01T11:00:00+11:00"
+                },
+                {
+                    "id": 71562,
+                    "acmi_id": "27246",
+                    "title": "The Pictures that moved: Australian cinema 1896-1920",
+                    "title_annotation": "",
+                    "slug": "the-pictures-that-moved-australian-cinema-1896-1920",
+                    "creator_credit": "Alan Anderson, Frank Bagnall and Australian Commonwealth Film Unit",
+                    "credit_line": "",
+                    "headline_credit": "Australia, 1968",
+                    "thumbnail": null,
+                    "record_type": "work",
+                    "type": "Film",
+                    "is_on_display": false,
+                    "last_on_display_place": null,
+                    "last_on_display_date": null,
+                    "is_context_indigenous": false,
+                    "material_description": "",
+                    "unpublished": false,
+                    "first_production_date": "1968-01-01T10:00:00+10:00"
+                }
+            ],
+            "source": {
+                "name": "Vernon",
+                "slug": "vernon"
+            },
+            "source_identifier": "30871",
+            "production_places": [
+                {
+                    "id": 3,
+                    "name": "Australia",
+                    "slug": "australia"
+                }
+            ],
+            "production_dates": [
+                {
+                    "date": "1979",
+                    "notes": "Produced",
+                    "to_year": "1979"
+                }
+            ],
+            "labels": [
+                14623
+            ]
+        },
+        {
+            "id": 99032,
+            "acmi_id": "57272",
+            "title": "STD's . . . Not just long distance phone calls",
+            "title_annotation": "",
+            "slug": "stds-not-just-long-distance-phone-calls",
+            "creator_credit": "Wendy Thompson, Sabina Wynn and New South Wales. Dept. of Health",
+            "credit_line": "",
+            "headline_credit": "Australia, 1986",
+            "thumbnail": null,
+            "record_type": "work",
+            "type": "Film",
+            "is_on_display": false,
+            "last_on_display_place": null,
+            "last_on_display_date": null,
+            "is_context_indigenous": false,
+            "material_description": "",
+            "unpublished": false,
+            "first_production_date": "1986-01-01T11:00:00+11:00",
+            "brief_description": "<p>An entertaining look at the ways in which sexually transmitted diseases are transmitted and how they can (mostly) be cured. Looks at what happens at an STD clinic and encourages the use of condoms to prevent STDs.</p>",
+            "constellations_primary": [],
+            "constellations_other": [],
+            "recommendations": [],
+            "title_for_label": "<p>STD&#8217;s &#8230; Not just long distance phone calls</p>",
+            "creator_credit_for_label": "<p>Wendy Thompson, Sabina Wynn and New South Wales. Dept. of Health</p>",
+            "headline_credit_for_label": "<p>Australia, 1986</p>",
+            "description": "<p>An entertaining look at the ways in which sexually transmitted diseases are transmitted and how they can (mostly) be cured. Looks at what happens at an STD clinic and encourages the use of condoms to prevent STDs.</p>",
+            "description_for_label": [
+                "<p>An entertaining look at the ways in which sexually transmitted diseases are transmitted and how they can (mostly) be cured. Looks at what happens at an STD clinic and encourages the use of condoms to prevent STDs.</p>"
+            ],
+            "credit_line_for_label": "",
+            "details": [
+                {
+                    "label": "Duration",
+                    "display_values": [
+                        "00:21:00:00"
+                    ]
+                },
+                {
+                    "label": "Language",
+                    "display_values": [
+                        "English"
+                    ]
+                },
+                {
+                    "label": "Subject categories",
+                    "display_values": [
+                        "Family, Gender Identity, Relationships & Sexuality&nbsp;→ Sexually transmitted diseases",
+                        "Food, Health, Lifestyle, Medicine, Psychology & Safety&nbsp;→ Health education",
+                        "Food, Health, Lifestyle, Medicine, Psychology & Safety&nbsp;→ Public health - Australia",
+                        "Food, Health, Lifestyle, Medicine, Psychology & Safety&nbsp;→ Sexually transmitted diseases",
+                        "Short films",
+                        "Short films&nbsp;→ Short films - Australia"
+                    ]
+                },
+                {
+                    "label": "Sound/audio",
+                    "display_values": [
+                        "Sound"
+                    ]
+                },
+                {
+                    "label": "Colour",
+                    "display_values": [
+                        "Colour"
+                    ]
+                }
+            ],
+            "stats": {
+                "tap_count": 0
+            },
+            "links": [],
+            "creators_primary": [
+                {
+                    "id": 1134114,
+                    "name": "Wendy Thompson",
+                    "creator_id": 21001,
+                    "role": "director",
+                    "role_id": 938,
+                    "is_primary": true
+                },
+                {
+                    "id": 1134113,
+                    "name": "Sabina Wynn",
+                    "creator_id": 19845,
+                    "role": "producer",
+                    "role_id": 960,
+                    "is_primary": true
+                },
+                {
+                    "id": 1134112,
+                    "name": "New South Wales. Dept. of Health",
+                    "creator_id": 20944,
+                    "role": "production company",
+                    "role_id": 941,
+                    "is_primary": true
+                }
+            ],
+            "creators_other": [],
+            "video_links": [],
+            "media_note": "Sorry, we aren't able to make images or video for this item available to the public online.",
+            "images": [],
+            "videos": [],
+            "holdings": [
+                {
+                    "name": "VHS; Access Print (Section 1)",
+                    "identifier": "",
+                    "description": ""
+                }
+            ],
+            "part_of": null,
+            "parts": [],
+            "part_siblings": [],
+            "group": null,
+            "group_works": [],
+            "group_siblings": [],
+            "source": {
+                "name": "Vernon",
+                "slug": "vernon"
+            },
+            "source_identifier": "57272",
+            "production_places": [
+                {
+                    "id": 3,
+                    "name": "Australia",
+                    "slug": "australia"
+                }
+            ],
+            "production_dates": [
+                {
+                    "date": "1986",
+                    "notes": "Produced",
+                    "to_year": "1986"
+                }
+            ],
+            "labels": [
+                38527
+            ]
+        },
+        {
+            "id": 95195,
+            "acmi_id": "53257",
+            "title": "History of Australian Cinema [DVD]",
+            "title_annotation": "",
+            "slug": "history-of-australian-cinema-dvd",
+            "creator_credit": "Anthony Buckley, Frank Bagnall and Film Australia",
+            "credit_line": "",
+            "headline_credit": "Australia, 1979",
+            "thumbnail": null,
+            "record_type": "work",
+            "type": "Film",
+            "is_on_display": false,
+            "last_on_display_place": null,
+            "last_on_display_date": null,
+            "is_context_indigenous": false,
+            "material_description": "",
+            "unpublished": false,
+            "first_production_date": "1979-01-01T11:00:00+11:00",
+            "brief_description": "<p>&#8220;History of Australian Cinema Series&#8221;.<br />\nThree part documentary series about the history of the Austalian Motion Picture industry. &#8220;The Pictures That Moved&#8221; describes the intense activity in the Australian film industry from the first screening at the Melbourne Opera House in 1896 to the decline of the industry in the early 1920&#8217;s. Extracts from productions of particular interest are shown, including &#8220;Soldiers of the cross&#8221;, &#8220;Living Hawthorn&#8221;, &#8220;The Story of the Kelly gang&#8221;, &#8220;A Girl of the bush&#8221;, &#8220;On our selection&#8221; and &#8220;The Sentimental bloke&#8221;, with stills, contemporary press reports and interviews. Shows the technical advances gained, and the exhibition of the national character in a wide range of films. Shows the running of the first filmed Melbourne Cup in 1896 and a finals game of VFL at the Melbourne Cricket Ground between South Melbourne and Carlton. &#8220;The Passionate Industry&#8221; traces the history of the Australian film industry in the decade 1920-1930. Includes material from fifty newsreels, sixteen feature films and still photographs drawn from many collections. &#8220;Now you&#8217;re talking&#8221; - The 30s saw the introduction of the &#8220;talkies&#8221; and a new era of filmmaking began. This was to decline with World War II. Excerpts from many of the films made during this decade are seen in this work. Also available on VHS and 16mm [008384], [012586], [012406].</p>",
+            "constellations_primary": [],
+            "constellations_other": [],
+            "recommendations": [],
+            "title_for_label": "<p>History of Australian Cinema [DVD]</p>",
+            "creator_credit_for_label": "<p>Anthony Buckley, Frank Bagnall and Film Australia</p>",
+            "headline_credit_for_label": "<p>Australia, 1979</p>",
+            "description": "<p>&#8220;History of Australian Cinema Series&#8221;.<br />\nThree part documentary series about the history of the Austalian Motion Picture industry. &#8220;The Pictures That Moved&#8221; describes the intense activity in the Australian film industry from the first screening at the Melbourne Opera House in 1896 to the decline of the industry in the early 1920&#8217;s. Extracts from productions of particular interest are shown, including &#8220;Soldiers of the cross&#8221;, &#8220;Living Hawthorn&#8221;, &#8220;The Story of the Kelly gang&#8221;, &#8220;A Girl of the bush&#8221;, &#8220;On our selection&#8221; and &#8220;The Sentimental bloke&#8221;, with stills, contemporary press reports and interviews. Shows the technical advances gained, and the exhibition of the national character in a wide range of films. Shows the running of the first filmed Melbourne Cup in 1896 and a finals game of VFL at the Melbourne Cricket Ground between South Melbourne and Carlton. &#8220;The Passionate Industry&#8221; traces the history of the Australian film industry in the decade 1920-1930. Includes material from fifty newsreels, sixteen feature films and still photographs drawn from many collections. &#8220;Now you&#8217;re talking&#8221; - The 30s saw the introduction of the &#8220;talkies&#8221; and a new era of filmmaking began. This was to decline with World War II. Excerpts from many of the films made during this decade are seen in this work. Also available on VHS and 16mm [008384], [012586], [012406].</p>",
+            "description_for_label": [
+                "<p>&#8220;History of Australian Cinema Series&#8221;.<br />\nThree part documentary series about the history of the Austalian Motion Picture industry. &#8220;The Pictures That Moved&#8221; describes the intense activity in the Australian film industry from the first screening at the Melbourne Opera House in 1896 to the decline of the industry in the early 1920&#8217;s. Extracts from productions of particular interest are shown, including &#8220;Soldiers of the cross&#8221;, &#8220;Living Hawthorn&#8221;, &#8220;The Story of the Kelly gang&#8221;, &#8220;A Girl of the bush&#8221;, &#8220;On our selection&#8221; and &#8220;The Sentimental bloke&#8221;, with stills, contemporary press reports and interviews. Shows the technical advances gained, and the exhibition of the national character in a wide range of films. Shows the running of the first filmed Melbourne Cup in 1896 and a finals game of VFL at the Melbourne Cricket Ground between South Melbourne and Carlton. &#8220;The Passionate Industry&#8221; traces the history of the Australian film industry in the decade 1920-1930. Includes material from fifty newsreels, sixteen feature films and still photographs drawn from many collections. &#8220;Now you&#8217;re talking&#8221; - The 30s saw the introduction of the &#8220;talkies&#8221; and a new era of filmmaking began. This was to decline with World War II. Excerpts from many of the films made during this decade are seen in this work. Also available on VHS and 16mm [008384], [012586], [012406].</p>"
+            ],
+            "credit_line_for_label": "",
+            "details": [
+                {
+                    "label": "Duration",
+                    "display_values": [
+                        "02:32:00:00"
+                    ]
+                },
+                {
+                    "label": "Languages",
+                    "display_values": [
+                        "English",
+                        "English"
+                    ]
+                },
+                {
+                    "label": "Audience classification",
+                    "display_values": [
+                        "Exempt"
+                    ]
+                },
+                {
+                    "label": "Subject categories",
+                    "display_values": [
+                        "Advertising, Film, Journalism, Mass Media & TV&nbsp;→ Chauvel, Charles, 1897-1959",
+                        "Advertising, Film, Journalism, Mass Media & TV&nbsp;→ Longford, Raymond",
+                        "Advertising, Film, Journalism, Mass Media & TV&nbsp;→ Motion picture industry",
+                        "Advertising, Film, Journalism, Mass Media & TV&nbsp;→ Motion picture industry - Australia",
+                        "Advertising, Film, Journalism, Mass Media & TV&nbsp;→ Motion pictures - Australia - History",
+                        "Advertising, Film, Journalism, Mass Media & TV&nbsp;→ Motion pictures - Excerpts",
+                        "Advertising, Film, Journalism, Mass Media & TV&nbsp;→ Motion pictures - Production and direction - Australia",
+                        "Documentary",
+                        "Documentary&nbsp;→ Documentary films - Australia",
+                        "Feature films",
+                        "Feature films&nbsp;→ Feature films - Australia",
+                        "History&nbsp;→ Australia - History - 20th century",
+                        "History&nbsp;→ History",
+                        "Hobbies, Recreation & Sport&nbsp;→ Melbourne Cup (Horse race)",
+                        "People&nbsp;→ Chauvel, Charles, 1897-1959",
+                        "People&nbsp;→ Longford, Raymond"
+                    ]
+                },
+                {
+                    "label": "Sound/audio",
+                    "display_values": [
+                        "Sound"
+                    ]
+                },
+                {
+                    "label": "Colour",
+                    "display_values": [
+                        "Black and White and Colour"
+                    ]
+                }
+            ],
+            "stats": {
+                "tap_count": 0
+            },
+            "links": [],
+            "creators_primary": [
+                {
+                    "id": 1134111,
+                    "name": "Anthony Buckley",
+                    "creator_id": 74451,
+                    "role": "co-producer",
+                    "role_id": 915,
+                    "is_primary": true
+                },
+                {
+                    "id": 1134110,
+                    "name": "Frank Bagnall",
+                    "creator_id": 11968,
+                    "role": "co-producer",
+                    "role_id": 915,
+                    "is_primary": true
+                },
+                {
+                    "id": 1134109,
+                    "name": "Film Australia",
+                    "creator_id": 68514,
+                    "role": "production company",
+                    "role_id": 941,
+                    "is_primary": true
+                }
+            ],
+            "creators_other": [
+                {
+                    "id": 1134108,
+                    "name": "The AV Channel",
+                    "creator_id": 71973,
+                    "role": "distributor",
+                    "role_id": 437,
+                    "is_primary": false
+                }
+            ],
+            "video_links": [],
+            "media_note": "Sorry, we don't have images or video for this item.",
+            "images": [],
+            "videos": [],
+            "holdings": [
+                {
+                    "name": "DVD; Access Print (Section 1)",
+                    "identifier": "",
+                    "description": ""
+                }
+            ],
+            "part_of": null,
+            "parts": [],
+            "part_siblings": [],
+            "group": null,
+            "group_works": [],
+            "group_siblings": [],
+            "source": {
+                "name": "Vernon",
+                "slug": "vernon"
+            },
+            "source_identifier": "53257",
+            "production_places": [
+                {
+                    "id": 3,
+                    "name": "Australia",
+                    "slug": "australia"
+                }
+            ],
+            "production_dates": [
+                {
+                    "date": "1979",
+                    "notes": "Produced",
+                    "to_year": "1979"
+                }
+            ],
+            "labels": [
+                34701
+            ]
+        },
+        {
+            "id": 90008,
+            "acmi_id": "47195",
+            "title": "A Crop of records",
+            "title_annotation": "",
+            "slug": "a-crop-of-records",
+            "creator_credit": "Victoria. Dept. of Agriculture",
+            "credit_line": "",
+            "headline_credit": "Australia, 1960",
+            "thumbnail": null,
+            "record_type": "work",
+            "type": "Film",
+            "is_on_display": false,
+            "last_on_display_place": null,
+            "last_on_display_date": null,
+            "is_context_indigenous": false,
+            "material_description": "",
+            "unpublished": false,
+            "first_production_date": "1960-01-01T10:00:00+10:00",
+            "brief_description": "<p>In 1960, Victoria&#8217;s wheat growing record was smashed by a bumper harvest. 95% of the wheat was from varieties bred by the Victorian Department of Agriculture including Pinnacle; Insignia; Beacon; and Olympic. Don Rooney, an agronomist in the Wimmera region talks to Victorian farmer Harry Bouchier about his record harvest. We follow the wheat&#8217;s journey from the farm, to the silos and finally being loaded onto cargo ships at the Port of Geelong headed for international destinations.</p>",
+            "constellations_primary": [],
+            "constellations_other": [],
+            "recommendations": [],
+            "title_for_label": "<p>A Crop of records</p>",
+            "creator_credit_for_label": "<p>Victoria. Dept. of Agriculture</p>",
+            "headline_credit_for_label": "<p>Australia, 1960</p>",
+            "description": "<p>In 1960, Victoria&#8217;s wheat growing record was smashed by a bumper harvest. 95% of the wheat was from varieties bred by the Victorian Department of Agriculture including Pinnacle; Insignia; Beacon; and Olympic. Don Rooney, an agronomist in the Wimmera region talks to Victorian farmer Harry Bouchier about his record harvest. We follow the wheat&#8217;s journey from the farm, to the silos and finally being loaded onto cargo ships at the Port of Geelong headed for international destinations.</p>",
+            "description_for_label": [
+                "<p>In 1960, Victoria&#8217;s wheat growing record was smashed by a bumper harvest. 95% of the wheat was from varieties bred by the Victorian Department of Agriculture including Pinnacle; Insignia; Beacon; and Olympic. Don Rooney, an agronomist in the Wimmera region talks to Victorian farmer Harry Bouchier about his record harvest. We follow the wheat&#8217;s journey from the farm, to the silos and finally being loaded onto cargo ships at the Port of Geelong headed for international destinations.</p>"
+            ],
+            "credit_line_for_label": "",
+            "details": [
+                {
+                    "label": "Duration",
+                    "display_values": [
+                        "00:05:55:00"
+                    ]
+                },
+                {
+                    "label": "Language",
+                    "display_values": [
+                        "English"
+                    ]
+                },
+                {
+                    "label": "Subject categories",
+                    "display_values": [
+                        "Communications, Infrastructure, & Transport&nbsp;→ Shipping",
+                        "Communications, Infrastructure, & Transport&nbsp;→ Ships",
+                        "Documentary",
+                        "Short films",
+                        "Short films&nbsp;→ Short films - Australia"
+                    ]
+                },
+                {
+                    "label": "Sound/audio",
+                    "display_values": [
+                        "Sound"
+                    ]
+                },
+                {
+                    "label": "Colour",
+                    "display_values": [
+                        "Colour"
+                    ]
+                }
+            ],
+            "stats": {
+                "tap_count": 0
+            },
+            "links": [],
+            "creators_primary": [
+                {
+                    "id": 1134107,
+                    "name": "Victoria. Dept. of Agriculture",
+                    "creator_id": 8915,
+                    "role": "production company",
+                    "role_id": 941,
+                    "is_primary": true
+                }
+            ],
+            "creators_other": [],
+            "video_links": [],
+            "media_note": "Sorry, we don't have images or video for this item.",
+            "images": [],
+            "videos": [],
+            "holdings": [
+                {
+                    "name": "16mm film; Access Print (Section 1)",
+                    "identifier": "",
+                    "description": ""
+                },
+                {
+                    "name": "16mm film; Copy",
+                    "identifier": "",
+                    "description": ""
+                }
+            ],
+            "part_of": null,
+            "parts": [],
+            "part_siblings": [],
+            "group": null,
+            "group_works": [],
+            "group_siblings": [],
+            "source": {
+                "name": "Vernon",
+                "slug": "vernon"
+            },
+            "source_identifier": "47195",
+            "production_places": [
+                {
+                    "id": 3,
+                    "name": "Australia",
+                    "slug": "australia"
+                }
+            ],
+            "production_dates": [
+                {
+                    "date": "1960",
+                    "notes": "Produced",
+                    "to_year": "1960"
+                }
+            ],
+            "labels": [
+                29498
+            ]
+        },
+        {
+            "id": 64880,
+            "acmi_id": "20463",
+            "title": "The Argentine ant",
+            "title_annotation": "",
+            "slug": "the-argentine-ant",
+            "creator_credit": "L.A. Doogood and CSIRO",
+            "credit_line": "",
+            "headline_credit": "Australia, 1954",
+            "thumbnail": null,
+            "record_type": "work",
+            "type": "Film",
+            "is_on_display": false,
+            "last_on_display_place": null,
+            "last_on_display_date": null,
+            "is_context_indigenous": false,
+            "material_description": "",
+            "unpublished": false,
+            "first_production_date": "1954-01-01T10:00:00+10:00",
+            "brief_description": "<p>This film describes the methods used by State and Municipal authorities and C.S.I.R.O. to eradicate the Argentine Ant in large suburban and city areas. The efforts of individual householders to eradicate the pest have proved unsuccessful. The film shows, in detail, the large scale methods developed by the C.S.I.R.O. which have been used systematically and methodically in attempting to eradicate the pest.</p>",
+            "constellations_primary": [],
+            "constellations_other": [],
+            "recommendations": [],
+            "title_for_label": "<p>The Argentine ant</p>",
+            "creator_credit_for_label": "<p>L.A. Doogood and CSIRO</p>",
+            "headline_credit_for_label": "<p>Australia, 1954</p>",
+            "description": "<p>This film describes the methods used by State and Municipal authorities and C.S.I.R.O. to eradicate the Argentine Ant in large suburban and city areas. The efforts of individual householders to eradicate the pest have proved unsuccessful. The film shows, in detail, the large scale methods developed by the C.S.I.R.O. which have been used systematically and methodically in attempting to eradicate the pest.</p>",
+            "description_for_label": [
+                "<p>This film describes the methods used by State and Municipal authorities and C.S.I.R.O. to eradicate the Argentine Ant in large suburban and city areas. The efforts of individual householders to eradicate the pest have proved unsuccessful. The film shows, in detail, the large scale methods developed by the C.S.I.R.O. which have been used systematically and methodically in attempting to eradicate the pest.</p>"
+            ],
+            "credit_line_for_label": "",
+            "details": [
+                {
+                    "label": "Duration",
+                    "display_values": [
+                        "00:10:18:00"
+                    ]
+                },
+                {
+                    "label": "Language",
+                    "display_values": [
+                        "English"
+                    ]
+                },
+                {
+                    "label": "Audience classification",
+                    "display_values": [
+                        "G"
+                    ]
+                },
+                {
+                    "label": "Subject categories",
+                    "display_values": [
+                        "Agriculture, Business, Commerce & Industry&nbsp;→ Pest control",
+                        "Animals & Wildlife&nbsp;→ Ants",
+                        "Animals & Wildlife&nbsp;→ Insect pests - Biological control",
+                        "Climate, Environment, Natural Resources & Disasters&nbsp;→ Pest control",
+                        "Documentary",
+                        "Documentary&nbsp;→ Documentary films - Australia",
+                        "Education, Instruction, Teaching & Schools&nbsp;→ Research",
+                        "Short films",
+                        "Short films&nbsp;→ Short films - Australia"
+                    ]
+                },
+                {
+                    "label": "Sound/audio",
+                    "display_values": [
+                        "Sound"
+                    ]
+                },
+                {
+                    "label": "Colour",
+                    "display_values": [
+                        "Colour"
+                    ]
+                }
+            ],
+            "stats": {
+                "tap_count": 0
+            },
+            "links": [],
+            "creators_primary": [
+                {
+                    "id": 1134093,
+                    "name": "L.A. Doogood",
+                    "creator_id": 12570,
+                    "role": "director",
+                    "role_id": 938,
+                    "is_primary": true
+                },
+                {
+                    "id": 1134092,
+                    "name": "CSIRO",
+                    "creator_id": 12109,
+                    "role": "production company",
+                    "role_id": 941,
+                    "is_primary": true
+                }
+            ],
+            "creators_other": [],
+            "video_links": [],
+            "media_note": "Sorry, we don't have images or video for this item.",
+            "images": [],
+            "videos": [],
+            "holdings": [
+                {
+                    "name": "16mm film; Access Print (Section 1)",
+                    "identifier": "",
+                    "description": ""
+                },
+                {
+                    "name": "16mm film; Copy",
+                    "identifier": "",
+                    "description": ""
+                }
+            ],
+            "part_of": null,
+            "parts": [],
+            "part_siblings": [],
+            "group": null,
+            "group_works": [],
+            "group_siblings": [],
+            "source": {
+                "name": "Vernon",
+                "slug": "vernon"
+            },
+            "source_identifier": "20463",
+            "production_places": [
+                {
+                    "id": 3,
+                    "name": "Australia",
+                    "slug": "australia"
+                }
+            ],
+            "production_dates": [
+                {
+                    "date": "1954",
+                    "notes": "Produced",
+                    "to_year": "1954"
+                }
+            ],
+            "labels": [
+                4369
+            ]
+        },
+        {
+            "id": 100061,
+            "acmi_id": "16886",
+            "title": "Jeanne Little and the 'Bert dress' - Photo",
+            "title_annotation": "",
+            "slug": "jeanne-little-and-the-bert-dress-photo",
+            "creator_credit": "",
+            "credit_line": "",
+            "headline_credit": "Australia",
+            "thumbnail": {
+                "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/B2000371_TV50_E000180_001.JPG.1200x1200_q85.JPG?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=1QEPYV4H4PQPZ2L4YaF9WUBMOdI%3D&Expires=1627009268",
+                "has_video": false
+            },
+            "record_type": "work",
+            "type": "Object",
+            "is_on_display": false,
+            "last_on_display_place": null,
+            "last_on_display_date": null,
+            "is_context_indigenous": false,
+            "material_description": "",
+            "unpublished": false,
+            "first_production_date": null,
+            "brief_description": "<p>Photograph of Bert Newton and Jeanne Little on &#8216;Good Morning Australia 2002. Jeanne  Little is wearing the &#8216;Bert Dress&#8217;.</p>",
+            "constellations_primary": [],
+            "constellations_other": [],
+            "recommendations": [],
+            "title_for_label": "<p>Jeanne Little and the &#8216;Bert dress&#8217; - Photo</p>",
+            "creator_credit_for_label": "",
+            "headline_credit_for_label": "<p>Australia</p>",
+            "description": "<p>Photograph of Bert Newton and Jeanne Little on &#8216;Good Morning Australia 2002. Jeanne  Little is wearing the &#8216;Bert Dress&#8217;.</p>",
+            "description_for_label": [
+                "<p>Photograph of Bert Newton and Jeanne Little on &#8216;Good Morning Australia 2002. Jeanne  Little is wearing the &#8216;Bert Dress&#8217;.</p>"
+            ],
+            "credit_line_for_label": "",
+            "details": [
+                {
+                    "label": "Measurements",
+                    "display_values": [
+                        "46 x 34 x 2cm"
+                    ]
+                }
+            ],
+            "stats": {
+                "tap_count": 0
+            },
+            "links": [],
+            "creators_primary": [],
+            "creators_other": [],
+            "video_links": [],
+            "media_note": null,
+            "images": [
+                {
+                    "id": 14875,
+                    "image_file": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/B2000371_TV50_E000180_001.JPG?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=rYGdWuLyExwK8IRLJ1fVKIYQYKo%3D&Expires=1627009268",
+                    "image_file_thumbnail": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/B2000371_TV50_E000180_001.JPG.1200x1200_q85.JPG?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=1QEPYV4H4PQPZ2L4YaF9WUBMOdI%3D&Expires=1627009268",
+                    "image_file_xs": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/B2000371_TV50_E000180_001.JPG.480x480_q85.JPG?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=Q6%2BFoYMRKtUsa01L919E0Y%2BK1GE%3D&Expires=1627009268",
+                    "image_file_s": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/B2000371_TV50_E000180_001.JPG.960x960_q85.JPG?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=hePBMhteE1rYr%2FCIXf%2FCDWQ77IM%3D&Expires=1627009268",
+                    "image_file_m": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/B2000371_TV50_E000180_001.JPG.1920x1920_q85.JPG?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=3dXFmNkHSVIDJ7ZTIlPEXqRnGC8%3D&Expires=1627009268",
+                    "image_file_l": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/B2000371_TV50_E000180_001.JPG.3840x3840_q85.JPG?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=O2jap%2FkB2%2FimnpFE6Nw1zln0Px0%3D&Expires=1627009268",
+                    "caption": "Jeanne Little and the 'Bert dress' - Image 01",
+                    "credit_line": "",
+                    "alt_text": "",
+                    "width": 1539,
+                    "height": 2109,
+                    "access_level": "View anywhere"
+                }
+            ],
+            "videos": [],
+            "holdings": [],
+            "part_of": null,
+            "parts": [],
+            "part_siblings": [],
+            "group": null,
+            "group_works": [],
+            "group_siblings": [],
+            "source": {
+                "name": "Vernon",
+                "slug": "vernon"
+            },
+            "source_identifier": "16886",
+            "production_places": [
+                {
+                    "id": 3,
+                    "name": "Australia",
+                    "slug": "australia"
+                }
+            ],
+            "production_dates": [],
+            "labels": [
+                39557
+            ]
+        },
+        {
+            "id": 114340,
+            "acmi_id": "15210",
+            "title": "Stories from the Jewish Community",
+            "title_annotation": "",
+            "slug": "stories-from-the-jewish-community",
+            "creator_credit": "Adriana Gomberg, Idit Benjamin, Alain Herz, Adam Barolsky, Adam Nudelman, Emma Levy, Sheiny New, Jenni Klempfner, Ximena Silberman, Astrid Silberman, ACMI and ACMI Digital Storytelling",
+            "credit_line": "",
+            "headline_credit": "Australia, 2007",
+            "thumbnail": null,
+            "record_type": "group",
+            "type": "Film",
+            "is_on_display": false,
+            "last_on_display_place": null,
+            "last_on_display_date": null,
+            "is_context_indigenous": false,
+            "material_description": "",
+            "unpublished": false,
+            "first_production_date": "2007-01-01T11:00:00+11:00",
+            "brief_description": "<p>An ACMI digital storytelling workshop creating stories through and about the Australian, Jewish community in partnership with The Jewish Museum of Australia.<br />\nThese ten personal stories tell of the reasons for emigrating to Australia, whether it be for love or for a better life. These stories are woven with the excitement of new beginnings, the heartache of separation and the challenges of fitting respected traditions in with the new culture.</p>",
+            "constellations_primary": [],
+            "constellations_other": [],
+            "recommendations": [],
+            "title_for_label": "<p>Stories from the Jewish Community</p>",
+            "creator_credit_for_label": "<p>Adriana Gomberg, Idit Benjamin, Alain Herz, Adam Barolsky, Adam Nudelman, Emma Levy, Sheiny New, Jenni Klempfner, Ximena Silberman, Astrid Silberman, ACMI and ACMI Digital Storytelling</p>",
+            "headline_credit_for_label": "<p>Australia, 2007</p>",
+            "description": "<p>An ACMI digital storytelling workshop creating stories through and about the Australian, Jewish community in partnership with The Jewish Museum of Australia.<br />\nThese ten personal stories tell of the reasons for emigrating to Australia, whether it be for love or for a better life. These stories are woven with the excitement of new beginnings, the heartache of separation and the challenges of fitting respected traditions in with the new culture.</p>",
+            "description_for_label": [
+                "<p>An ACMI digital storytelling workshop creating stories through and about the Australian, Jewish community in partnership with The Jewish Museum of Australia.<br />\nThese ten personal stories tell of the reasons for emigrating to Australia, whether it be for love or for a better life. These stories are woven with the excitement of new beginnings, the heartache of separation and the challenges of fitting respected traditions in with the new culture.</p>"
+            ],
+            "credit_line_for_label": "",
+            "details": [
+                {
+                    "label": "Duration",
+                    "display_values": [
+                        "00:30:04:18"
+                    ]
+                },
+                {
+                    "label": "Audience classification",
+                    "display_values": [
+                        "ACMI classified"
+                    ]
+                },
+                {
+                    "label": "Subject categories",
+                    "display_values": [
+                        "Anthropology, Ethnology, Exploration & Travel&nbsp;→ Australia",
+                        "Anthropology, Ethnology, Exploration & Travel&nbsp;→ Australia - Social life and customs",
+                        "Anthropology, Ethnology, Exploration & Travel&nbsp;→ Australians",
+                        "Anthropology, Ethnology, Exploration & Travel&nbsp;→ Emigration and immigration - Psychological aspects",
+                        "Anthropology, Ethnology, Exploration & Travel&nbsp;→ Jewish families",
+                        "Anthropology, Ethnology, Exploration & Travel&nbsp;→ Jews - Australia",
+                        "Anthropology, Ethnology, Exploration & Travel&nbsp;→ Jews - Migrations",
+                        "Anthropology, Ethnology, Exploration & Travel&nbsp;→ Jews - Poland",
+                        "Anthropology, Ethnology, Exploration & Travel&nbsp;→ Jews - Social life and customs",
+                        "Anthropology, Ethnology, Exploration & Travel&nbsp;→ Women - Australia",
+                        "Biographical",
+                        "Digital Storytelling",
+                        "Documentary",
+                        "Documentary&nbsp;→ Documentary films - Australia",
+                        "Economics, Philosophy, Politics, Religion & Sociology&nbsp;→ Australia - Emigration and immigration",
+                        "Economics, Philosophy, Politics, Religion & Sociology&nbsp;→ Australia - Social conditions",
+                        "Economics, Philosophy, Politics, Religion & Sociology&nbsp;→ Australia - Social conditions - 20th Century",
+                        "Economics, Philosophy, Politics, Religion & Sociology&nbsp;→ Emigration and immigration - Psychological aspects",
+                        "Economics, Philosophy, Politics, Religion & Sociology&nbsp;→ Ethnology - Australia",
+                        "Economics, Philosophy, Politics, Religion & Sociology&nbsp;→ Immigrants - Australia",
+                        "Economics, Philosophy, Politics, Religion & Sociology&nbsp;→ Jewish families",
+                        "Economics, Philosophy, Politics, Religion & Sociology&nbsp;→ Jews",
+                        "Economics, Philosophy, Politics, Religion & Sociology&nbsp;→ Jews - Australia",
+                        "Economics, Philosophy, Politics, Religion & Sociology&nbsp;→ Jews - Migrations",
+                        "Economics, Philosophy, Politics, Religion & Sociology&nbsp;→ Minorities - Australia",
+                        "Family, Gender Identity, Relationships & Sexuality&nbsp;→ Family - Psychological aspects",
+                        "Family, Gender Identity, Relationships & Sexuality&nbsp;→ Jewish children",
+                        "Family, Gender Identity, Relationships & Sexuality&nbsp;→ Jewish families",
+                        "Food, Health, Lifestyle, Medicine, Psychology & Safety&nbsp;→ Cookery, Australian",
+                        "Food, Health, Lifestyle, Medicine, Psychology & Safety&nbsp;→ Self-actualization (Psychology)",
+                        "Food, Health, Lifestyle, Medicine, Psychology & Safety&nbsp;→ Separation (Psychology)",
+                        "History&nbsp;→ Holocaust, Jewish (1939-1945",
+                        "History&nbsp;→ Jews - Australia",
+                        "History&nbsp;→ Jews - Migrations",
+                        "Places&nbsp;→ Australia",
+                        "Short films",
+                        "Short films&nbsp;→ Short films - Australia"
+                    ]
+                },
+                {
+                    "label": "Sound/audio",
+                    "display_values": [
+                        "Sound"
+                    ]
+                },
+                {
+                    "label": "Colour",
+                    "display_values": [
+                        "Black and White and Colour"
+                    ]
+                }
+            ],
+            "stats": {
+                "tap_count": 0
+            },
+            "links": [],
+            "creators_primary": [
+                {
+                    "id": 1134091,
+                    "name": "Adriana Gomberg",
+                    "creator_id": 11772,
+                    "role": "creator",
+                    "role_id": 968,
+                    "is_primary": true
+                },
+                {
+                    "id": 1134090,
+                    "name": "Idit Benjamin",
+                    "creator_id": 11771,
+                    "role": "creator",
+                    "role_id": 968,
+                    "is_primary": true
+                },
+                {
+                    "id": 1134089,
+                    "name": "Alain Herz",
+                    "creator_id": 11768,
+                    "role": "creator",
+                    "role_id": 968,
+                    "is_primary": true
+                },
+                {
+                    "id": 1134088,
+                    "name": "Adam Barolsky",
+                    "creator_id": 11765,
+                    "role": "creator",
+                    "role_id": 968,
+                    "is_primary": true
+                },
+                {
+                    "id": 1134087,
+                    "name": "Adam Nudelman",
+                    "creator_id": 11766,
+                    "role": "creator",
+                    "role_id": 968,
+                    "is_primary": true
+                },
+                {
+                    "id": 1134086,
+                    "name": "Emma Levy",
+                    "creator_id": 11773,
+                    "role": "creator",
+                    "role_id": 968,
+                    "is_primary": true
+                },
+                {
+                    "id": 1134085,
+                    "name": "Sheiny New",
+                    "creator_id": 11774,
+                    "role": "creator",
+                    "role_id": 968,
+                    "is_primary": true
+                },
+                {
+                    "id": 1134084,
+                    "name": "Jenni Klempfner",
+                    "creator_id": 11769,
+                    "role": "creator",
+                    "role_id": 968,
+                    "is_primary": true
+                },
+                {
+                    "id": 1134083,
+                    "name": "Ximena Silberman",
+                    "creator_id": 11767,
+                    "role": "creator",
+                    "role_id": 968,
+                    "is_primary": true
+                },
+                {
+                    "id": 1134082,
+                    "name": "Astrid Silberman",
+                    "creator_id": 11770,
+                    "role": "creator",
+                    "role_id": 968,
+                    "is_primary": true
+                },
+                {
+                    "id": 1134080,
+                    "name": "ACMI",
+                    "creator_id": 6272,
+                    "role": "production company",
+                    "role_id": 941,
+                    "is_primary": true
+                },
+                {
+                    "id": 1134078,
+                    "name": "ACMI Digital Storytelling",
+                    "creator_id": 10590,
+                    "role": "producer",
+                    "role_id": 960,
+                    "is_primary": true
+                }
+            ],
+            "creators_other": [
+                {
+                    "id": 1134081,
+                    "name": "Arts Victoria",
+                    "creator_id": 11250,
+                    "role": "partner",
+                    "role_id": 575,
+                    "is_primary": false
+                },
+                {
+                    "id": 1134079,
+                    "name": "Jewish Museum of Australia",
+                    "creator_id": 81943,
+                    "role": "partner",
+                    "role_id": 575,
+                    "is_primary": false
+                }
+            ],
+            "video_links": [],
+            "media_note": "Sorry, we don't have images or video for this item.",
+            "images": [],
+            "videos": [],
+            "holdings": [
+                {
+                    "name": "DVCAM; Master",
+                    "identifier": "",
+                    "description": ""
+                }
+            ],
+            "part_of": null,
+            "parts": [],
+            "part_siblings": [],
+            "group": null,
+            "group_works": [
+                {
+                    "id": 114342,
+                    "acmi_id": "15217",
+                    "title": "A Fishy problem",
+                    "title_annotation": "",
+                    "slug": "a-fishy-problem",
+                    "creator_credit": "Astrid Silberman, ACMI Digital Storytelling and ACMI",
+                    "credit_line": "",
+                    "headline_credit": "Australia, 2007",
+                    "thumbnail": null,
+                    "record_type": "work",
+                    "type": "Film",
+                    "is_on_display": false,
+                    "last_on_display_place": null,
+                    "last_on_display_date": null,
+                    "is_context_indigenous": false,
+                    "material_description": "",
+                    "unpublished": false,
+                    "first_production_date": "2007-01-01T11:00:00+11:00"
+                },
+                {
+                    "id": 114341,
+                    "acmi_id": "15220",
+                    "title": "Fate makes all the moves",
+                    "title_annotation": "",
+                    "slug": "fate-makes-all-the-moves",
+                    "creator_credit": "Idit Benjamin, ACMI Digital Storytelling and ACMI",
+                    "credit_line": "",
+                    "headline_credit": "Australia, 2007",
+                    "thumbnail": null,
+                    "record_type": "work",
+                    "type": "Film",
+                    "is_on_display": false,
+                    "last_on_display_place": null,
+                    "last_on_display_date": null,
+                    "is_context_indigenous": false,
+                    "material_description": "",
+                    "unpublished": false,
+                    "first_production_date": "2007-01-01T11:00:00+11:00"
+                },
+                {
+                    "id": 114343,
+                    "acmi_id": "15215",
+                    "title": "I'm not French",
+                    "title_annotation": "",
+                    "slug": "im-not-french",
+                    "creator_credit": "Alain Herz, ACMI Digital Storytelling and ACMI",
+                    "credit_line": "",
+                    "headline_credit": "Australia, 2007",
+                    "thumbnail": null,
+                    "record_type": "work",
+                    "type": "Film",
+                    "is_on_display": false,
+                    "last_on_display_place": null,
+                    "last_on_display_date": null,
+                    "is_context_indigenous": false,
+                    "material_description": "",
+                    "unpublished": false,
+                    "first_production_date": "2007-01-01T11:00:00+11:00"
+                },
+                {
+                    "id": 114344,
+                    "acmi_id": "15216",
+                    "title": "Ingredients of love",
+                    "title_annotation": "",
+                    "slug": "ingredients-of-love",
+                    "creator_credit": "Jenni Klempfner, ACMI Digital Storytelling and ACMI",
+                    "credit_line": "",
+                    "headline_credit": "Australia, 2007",
+                    "thumbnail": null,
+                    "record_type": "work",
+                    "type": "Film",
+                    "is_on_display": false,
+                    "last_on_display_place": null,
+                    "last_on_display_date": null,
+                    "is_context_indigenous": false,
+                    "material_description": "",
+                    "unpublished": false,
+                    "first_production_date": "2007-01-01T11:00:00+11:00"
+                },
+                {
+                    "id": 114345,
+                    "acmi_id": "15223",
+                    "title": "Journeys",
+                    "title_annotation": "",
+                    "slug": "journeys",
+                    "creator_credit": "Sheiny New, ACMI Digital Storytelling and ACMI",
+                    "credit_line": "",
+                    "headline_credit": "Australia, 2007",
+                    "thumbnail": null,
+                    "record_type": "work",
+                    "type": "Film",
+                    "is_on_display": false,
+                    "last_on_display_place": null,
+                    "last_on_display_date": null,
+                    "is_context_indigenous": false,
+                    "material_description": "",
+                    "unpublished": false,
+                    "first_production_date": "2007-01-01T11:00:00+11:00"
+                },
+                {
+                    "id": 114339,
+                    "acmi_id": "15211",
+                    "title": "My beautiful shwesters",
+                    "title_annotation": "",
+                    "slug": "my-beautiful-shwesters",
+                    "creator_credit": "Adam Barolsky, ACMI Digital Storytelling and ACMI",
+                    "credit_line": "",
+                    "headline_credit": "Australia, 2007",
+                    "thumbnail": null,
+                    "record_type": "work",
+                    "type": "Film",
+                    "is_on_display": false,
+                    "last_on_display_place": null,
+                    "last_on_display_date": null,
+                    "is_context_indigenous": false,
+                    "material_description": "",
+                    "unpublished": false,
+                    "first_production_date": "2007-01-01T11:00:00+11:00"
+                },
+                {
+                    "id": 114346,
+                    "acmi_id": "15221",
+                    "title": "One wedding and several migrations",
+                    "title_annotation": "",
+                    "slug": "one-wedding-and-several-migrations",
+                    "creator_credit": "Adriana Gomberg, ACMI Digital Storytelling and ACMI",
+                    "credit_line": "",
+                    "headline_credit": "Australia, 2007",
+                    "thumbnail": null,
+                    "record_type": "work",
+                    "type": "Film",
+                    "is_on_display": false,
+                    "last_on_display_place": null,
+                    "last_on_display_date": null,
+                    "is_context_indigenous": false,
+                    "material_description": "",
+                    "unpublished": false,
+                    "first_production_date": "2007-01-01T11:00:00+11:00"
+                },
+                {
+                    "id": 114347,
+                    "acmi_id": "15214",
+                    "title": "Second life",
+                    "title_annotation": "",
+                    "slug": "second-life",
+                    "creator_credit": "Ximena Silberman, ACMI Digital Storytelling and ACMI",
+                    "credit_line": "",
+                    "headline_credit": "Australia, 2007",
+                    "thumbnail": null,
+                    "record_type": "work",
+                    "type": "Film",
+                    "is_on_display": false,
+                    "last_on_display_place": null,
+                    "last_on_display_date": null,
+                    "is_context_indigenous": false,
+                    "material_description": "",
+                    "unpublished": false,
+                    "first_production_date": "2007-01-01T11:00:00+11:00"
+                },
+                {
+                    "id": 114349,
+                    "acmi_id": "15222",
+                    "title": "Small town girl",
+                    "title_annotation": "",
+                    "slug": "small-town-girl",
+                    "creator_credit": "Emma Levy, ACMI Digital Storytelling and ACMI",
+                    "credit_line": "",
+                    "headline_credit": "Australia, 2007",
+                    "thumbnail": null,
+                    "record_type": "work",
+                    "type": "Film",
+                    "is_on_display": false,
+                    "last_on_display_place": null,
+                    "last_on_display_date": null,
+                    "is_context_indigenous": false,
+                    "material_description": "",
+                    "unpublished": false,
+                    "first_production_date": "2007-01-01T11:00:00+11:00"
+                },
+                {
+                    "id": 114348,
+                    "acmi_id": "15212",
+                    "title": "The Shoemaker",
+                    "title_annotation": "",
+                    "slug": "the-shoemaker",
+                    "creator_credit": "Adam Nudelman, ACMI Digital Storytelling and ACMI",
+                    "credit_line": "",
+                    "headline_credit": "Australia, 2007",
+                    "thumbnail": null,
+                    "record_type": "work",
+                    "type": "Film",
+                    "is_on_display": false,
+                    "last_on_display_place": null,
+                    "last_on_display_date": null,
+                    "is_context_indigenous": false,
+                    "material_description": "",
+                    "unpublished": false,
+                    "first_production_date": "2007-01-01T11:00:00+11:00"
+                }
+            ],
+            "group_siblings": [],
+            "source": {
+                "name": "Vernon",
+                "slug": "vernon"
+            },
+            "source_identifier": "15210",
+            "production_places": [
+                {
+                    "id": 3,
+                    "name": "Australia",
+                    "slug": "australia"
+                }
+            ],
+            "production_dates": [
+                {
+                    "date": "2007",
+                    "notes": "June 2007",
+                    "to_year": "2007"
+                }
+            ],
+            "labels": [
+                53832
+            ]
+        },
+        {
+            "id": 114349,
+            "acmi_id": "15222",
+            "title": "Small town girl",
+            "title_annotation": "",
+            "slug": "small-town-girl",
+            "creator_credit": "Emma Levy, ACMI Digital Storytelling and ACMI",
+            "credit_line": "",
+            "headline_credit": "Australia, 2007",
+            "thumbnail": null,
+            "record_type": "work",
+            "type": "Film",
+            "is_on_display": false,
+            "last_on_display_place": null,
+            "last_on_display_date": null,
+            "is_context_indigenous": false,
+            "material_description": "",
+            "unpublished": false,
+            "first_production_date": "2007-01-01T11:00:00+11:00",
+            "brief_description": "<p>Emma Levy leaves the confines of small town life in New Zealand for Melbourne in the hope of connecting with a bigger Jewish community. This Digital Storytelling project was created in partnership with the Jewish Museum of Australia.</p>",
+            "constellations_primary": [],
+            "constellations_other": [],
+            "recommendations": [],
+            "title_for_label": "<p>Small town girl</p>",
+            "creator_credit_for_label": "<p>Emma Levy, ACMI Digital Storytelling and ACMI</p>",
+            "headline_credit_for_label": "<p>Australia, 2007</p>",
+            "description": "<p>Emma Levy leaves the confines of small town life in New Zealand for Melbourne in the hope of connecting with a bigger Jewish community. This Digital Storytelling project was created in partnership with the Jewish Museum of Australia.</p>",
+            "description_for_label": [
+                "<p>Emma Levy leaves the confines of small town life in New Zealand for Melbourne in the hope of connecting with a bigger Jewish community. This Digital Storytelling project was created in partnership with the Jewish Museum of Australia.</p>"
+            ],
+            "credit_line_for_label": "",
+            "details": [
+                {
+                    "label": "Duration",
+                    "display_values": [
+                        "00:02:26:00"
+                    ]
+                },
+                {
+                    "label": "Language",
+                    "display_values": [
+                        "English"
+                    ]
+                },
+                {
+                    "label": "Audience classification",
+                    "display_values": [
+                        "ACMI classified"
+                    ]
+                },
+                {
+                    "label": "Subject categories",
+                    "display_values": [
+                        "Anthropology, Ethnology, Exploration & Travel&nbsp;→ Australia - Description and travel",
+                        "Anthropology, Ethnology, Exploration & Travel&nbsp;→ Australia - Social life and customs",
+                        "Anthropology, Ethnology, Exploration & Travel&nbsp;→ Australians",
+                        "Anthropology, Ethnology, Exploration & Travel&nbsp;→ Cities and towns - Australia",
+                        "Anthropology, Ethnology, Exploration & Travel&nbsp;→ Jewish families",
+                        "Anthropology, Ethnology, Exploration & Travel&nbsp;→ Jews - Australia",
+                        "Anthropology, Ethnology, Exploration & Travel&nbsp;→ New Zealand",
+                        "Anthropology, Ethnology, Exploration & Travel&nbsp;→ New Zealand - Social life and customs",
+                        "Biographical",
+                        "Documentary",
+                        "Documentary&nbsp;→ Documentary films - Australia",
+                        "Economics, Philosophy, Politics, Religion & Sociology&nbsp;→ Australia - Emigration and immigration",
+                        "Economics, Philosophy, Politics, Religion & Sociology&nbsp;→ Australia - Religion",
+                        "Economics, Philosophy, Politics, Religion & Sociology&nbsp;→ Australia - Social conditions",
+                        "Economics, Philosophy, Politics, Religion & Sociology&nbsp;→ Australia - Social conditions - 20th Century",
+                        "Economics, Philosophy, Politics, Religion & Sociology&nbsp;→ Ethnology - Australia",
+                        "Economics, Philosophy, Politics, Religion & Sociology&nbsp;→ Immigrants - Australia",
+                        "Economics, Philosophy, Politics, Religion & Sociology&nbsp;→ Jews - Australia",
+                        "Economics, Philosophy, Politics, Religion & Sociology&nbsp;→ Judaism",
+                        "Economics, Philosophy, Politics, Religion & Sociology&nbsp;→ Minorities - Australia",
+                        "History&nbsp;→ Jews - Australia",
+                        "Places&nbsp;→ Cities and towns - Australia",
+                        "Places&nbsp;→ New Zealand",
+                        "Short films",
+                        "Short films&nbsp;→ Short films - Australia"
+                    ]
+                },
+                {
+                    "label": "Sound/audio",
+                    "display_values": [
+                        "Sound"
+                    ]
+                },
+                {
+                    "label": "Colour",
+                    "display_values": [
+                        "Colour"
+                    ]
+                }
+            ],
+            "stats": {
+                "tap_count": 0
+            },
+            "links": [],
+            "creators_primary": [
+                {
+                    "id": 1134077,
+                    "name": "Emma Levy",
+                    "creator_id": 11773,
+                    "role": "creator",
+                    "role_id": 968,
+                    "is_primary": true
+                },
+                {
+                    "id": 1134076,
+                    "name": "ACMI Digital Storytelling",
+                    "creator_id": 10590,
+                    "role": "producer",
+                    "role_id": 960,
+                    "is_primary": true
+                },
+                {
+                    "id": 1134073,
+                    "name": "ACMI",
+                    "creator_id": 6272,
+                    "role": "production company",
+                    "role_id": 941,
+                    "is_primary": true
+                }
+            ],
+            "creators_other": [
+                {
+                    "id": 1134075,
+                    "name": "Arts Victoria",
+                    "creator_id": 11250,
+                    "role": "partner",
+                    "role_id": 575,
+                    "is_primary": false
+                },
+                {
+                    "id": 1134074,
+                    "name": "Jewish Museum of Australia",
+                    "creator_id": 81943,
+                    "role": "partner",
+                    "role_id": 575,
+                    "is_primary": false
+                }
+            ],
+            "video_links": [],
+            "media_note": "Sorry, we aren't able to make images or video for this item available to the public online.",
+            "images": [],
+            "videos": [],
+            "holdings": [
+                {
+                    "name": "DVCAM; Master",
+                    "identifier": "",
+                    "description": ""
+                },
+                {
+                    "name": "MPEG-4 Digital File; ACMI Digital Access Copy - overscan",
+                    "identifier": "",
+                    "description": ""
+                }
+            ],
+            "part_of": null,
+            "parts": [],
+            "part_siblings": [],
+            "group": {
+                "id": 114340,
+                "acmi_id": "15210",
+                "title": "Stories from the Jewish Community",
+                "title_annotation": "",
+                "slug": "stories-from-the-jewish-community",
+                "creator_credit": "Adriana Gomberg, Idit Benjamin, Alain Herz, Adam Barolsky, Adam Nudelman, Emma Levy, Sheiny New, Jenni Klempfner, Ximena Silberman, Astrid Silberman, ACMI and ACMI Digital Storytelling",
+                "credit_line": "",
+                "headline_credit": "Australia, 2007",
+                "thumbnail": null,
+                "record_type": "group",
+                "type": "Film",
+                "is_on_display": false,
+                "last_on_display_place": null,
+                "last_on_display_date": null,
+                "is_context_indigenous": false,
+                "material_description": "",
+                "unpublished": false,
+                "first_production_date": "2007-01-01T11:00:00+11:00"
+            },
+            "group_works": [],
+            "group_siblings": [
+                {
+                    "id": 114342,
+                    "acmi_id": "15217",
+                    "title": "A Fishy problem",
+                    "title_annotation": "",
+                    "slug": "a-fishy-problem",
+                    "creator_credit": "Astrid Silberman, ACMI Digital Storytelling and ACMI",
+                    "credit_line": "",
+                    "headline_credit": "Australia, 2007",
+                    "thumbnail": null,
+                    "record_type": "work",
+                    "type": "Film",
+                    "is_on_display": false,
+                    "last_on_display_place": null,
+                    "last_on_display_date": null,
+                    "is_context_indigenous": false,
+                    "material_description": "",
+                    "unpublished": false,
+                    "first_production_date": "2007-01-01T11:00:00+11:00"
+                },
+                {
+                    "id": 114341,
+                    "acmi_id": "15220",
+                    "title": "Fate makes all the moves",
+                    "title_annotation": "",
+                    "slug": "fate-makes-all-the-moves",
+                    "creator_credit": "Idit Benjamin, ACMI Digital Storytelling and ACMI",
+                    "credit_line": "",
+                    "headline_credit": "Australia, 2007",
+                    "thumbnail": null,
+                    "record_type": "work",
+                    "type": "Film",
+                    "is_on_display": false,
+                    "last_on_display_place": null,
+                    "last_on_display_date": null,
+                    "is_context_indigenous": false,
+                    "material_description": "",
+                    "unpublished": false,
+                    "first_production_date": "2007-01-01T11:00:00+11:00"
+                },
+                {
+                    "id": 114343,
+                    "acmi_id": "15215",
+                    "title": "I'm not French",
+                    "title_annotation": "",
+                    "slug": "im-not-french",
+                    "creator_credit": "Alain Herz, ACMI Digital Storytelling and ACMI",
+                    "credit_line": "",
+                    "headline_credit": "Australia, 2007",
+                    "thumbnail": null,
+                    "record_type": "work",
+                    "type": "Film",
+                    "is_on_display": false,
+                    "last_on_display_place": null,
+                    "last_on_display_date": null,
+                    "is_context_indigenous": false,
+                    "material_description": "",
+                    "unpublished": false,
+                    "first_production_date": "2007-01-01T11:00:00+11:00"
+                },
+                {
+                    "id": 114344,
+                    "acmi_id": "15216",
+                    "title": "Ingredients of love",
+                    "title_annotation": "",
+                    "slug": "ingredients-of-love",
+                    "creator_credit": "Jenni Klempfner, ACMI Digital Storytelling and ACMI",
+                    "credit_line": "",
+                    "headline_credit": "Australia, 2007",
+                    "thumbnail": null,
+                    "record_type": "work",
+                    "type": "Film",
+                    "is_on_display": false,
+                    "last_on_display_place": null,
+                    "last_on_display_date": null,
+                    "is_context_indigenous": false,
+                    "material_description": "",
+                    "unpublished": false,
+                    "first_production_date": "2007-01-01T11:00:00+11:00"
+                },
+                {
+                    "id": 114345,
+                    "acmi_id": "15223",
+                    "title": "Journeys",
+                    "title_annotation": "",
+                    "slug": "journeys",
+                    "creator_credit": "Sheiny New, ACMI Digital Storytelling and ACMI",
+                    "credit_line": "",
+                    "headline_credit": "Australia, 2007",
+                    "thumbnail": null,
+                    "record_type": "work",
+                    "type": "Film",
+                    "is_on_display": false,
+                    "last_on_display_place": null,
+                    "last_on_display_date": null,
+                    "is_context_indigenous": false,
+                    "material_description": "",
+                    "unpublished": false,
+                    "first_production_date": "2007-01-01T11:00:00+11:00"
+                },
+                {
+                    "id": 114339,
+                    "acmi_id": "15211",
+                    "title": "My beautiful shwesters",
+                    "title_annotation": "",
+                    "slug": "my-beautiful-shwesters",
+                    "creator_credit": "Adam Barolsky, ACMI Digital Storytelling and ACMI",
+                    "credit_line": "",
+                    "headline_credit": "Australia, 2007",
+                    "thumbnail": null,
+                    "record_type": "work",
+                    "type": "Film",
+                    "is_on_display": false,
+                    "last_on_display_place": null,
+                    "last_on_display_date": null,
+                    "is_context_indigenous": false,
+                    "material_description": "",
+                    "unpublished": false,
+                    "first_production_date": "2007-01-01T11:00:00+11:00"
+                },
+                {
+                    "id": 114346,
+                    "acmi_id": "15221",
+                    "title": "One wedding and several migrations",
+                    "title_annotation": "",
+                    "slug": "one-wedding-and-several-migrations",
+                    "creator_credit": "Adriana Gomberg, ACMI Digital Storytelling and ACMI",
+                    "credit_line": "",
+                    "headline_credit": "Australia, 2007",
+                    "thumbnail": null,
+                    "record_type": "work",
+                    "type": "Film",
+                    "is_on_display": false,
+                    "last_on_display_place": null,
+                    "last_on_display_date": null,
+                    "is_context_indigenous": false,
+                    "material_description": "",
+                    "unpublished": false,
+                    "first_production_date": "2007-01-01T11:00:00+11:00"
+                },
+                {
+                    "id": 114347,
+                    "acmi_id": "15214",
+                    "title": "Second life",
+                    "title_annotation": "",
+                    "slug": "second-life",
+                    "creator_credit": "Ximena Silberman, ACMI Digital Storytelling and ACMI",
+                    "credit_line": "",
+                    "headline_credit": "Australia, 2007",
+                    "thumbnail": null,
+                    "record_type": "work",
+                    "type": "Film",
+                    "is_on_display": false,
+                    "last_on_display_place": null,
+                    "last_on_display_date": null,
+                    "is_context_indigenous": false,
+                    "material_description": "",
+                    "unpublished": false,
+                    "first_production_date": "2007-01-01T11:00:00+11:00"
+                },
+                {
+                    "id": 114348,
+                    "acmi_id": "15212",
+                    "title": "The Shoemaker",
+                    "title_annotation": "",
+                    "slug": "the-shoemaker",
+                    "creator_credit": "Adam Nudelman, ACMI Digital Storytelling and ACMI",
+                    "credit_line": "",
+                    "headline_credit": "Australia, 2007",
+                    "thumbnail": null,
+                    "record_type": "work",
+                    "type": "Film",
+                    "is_on_display": false,
+                    "last_on_display_place": null,
+                    "last_on_display_date": null,
+                    "is_context_indigenous": false,
+                    "material_description": "",
+                    "unpublished": false,
+                    "first_production_date": "2007-01-01T11:00:00+11:00"
+                }
+            ],
+            "source": {
+                "name": "Vernon",
+                "slug": "vernon"
+            },
+            "source_identifier": "15222",
+            "production_places": [
+                {
+                    "id": 3,
+                    "name": "Australia",
+                    "slug": "australia"
+                }
+            ],
+            "production_dates": [
+                {
+                    "date": "2007",
+                    "notes": "June 2007",
+                    "to_year": "2007"
+                }
+            ],
+            "labels": [
+                53841
+            ]
+        },
+        {
+            "id": 114348,
+            "acmi_id": "15212",
+            "title": "The Shoemaker",
+            "title_annotation": "",
+            "slug": "the-shoemaker",
+            "creator_credit": "Adam Nudelman, ACMI Digital Storytelling and ACMI",
+            "credit_line": "",
+            "headline_credit": "Australia, 2007",
+            "thumbnail": null,
+            "record_type": "work",
+            "type": "Film",
+            "is_on_display": false,
+            "last_on_display_place": null,
+            "last_on_display_date": null,
+            "is_context_indigenous": false,
+            "material_description": "",
+            "unpublished": false,
+            "first_production_date": "2007-01-01T11:00:00+11:00",
+            "brief_description": "<p>Artist Adam Nudelman asks himself why he always paints shoes? Behind these objects lies a story about family and loss and brings him closer to his Jewish heritage. This Digital Storytelling project was created in partnership with the Jewish Museum of Australia</p>",
+            "constellations_primary": [],
+            "constellations_other": [],
+            "recommendations": [],
+            "title_for_label": "<p>The Shoemaker</p>",
+            "creator_credit_for_label": "<p>Adam Nudelman, ACMI Digital Storytelling and ACMI</p>",
+            "headline_credit_for_label": "<p>Australia, 2007</p>",
+            "description": "<p>Artist Adam Nudelman asks himself why he always paints shoes? Behind these objects lies a story about family and loss and brings him closer to his Jewish heritage. This Digital Storytelling project was created in partnership with the Jewish Museum of Australia</p>",
+            "description_for_label": [
+                "<p>Artist Adam Nudelman asks himself why he always paints shoes? Behind these objects lies a story about family and loss and brings him closer to his Jewish heritage. This Digital Storytelling project was created in partnership with the Jewish Museum of Australia</p>"
+            ],
+            "credit_line_for_label": "",
+            "details": [
+                {
+                    "label": "Duration",
+                    "display_values": [
+                        "00:02:41:00"
+                    ]
+                },
+                {
+                    "label": "Language",
+                    "display_values": [
+                        "English"
+                    ]
+                },
+                {
+                    "label": "Audience classification",
+                    "display_values": [
+                        "ACMI classified"
+                    ]
+                },
+                {
+                    "label": "Subject categories",
+                    "display_values": [
+                        "Anthropology, Ethnology, Exploration & Travel&nbsp;→ Emigration and immigration - Psychological aspects",
+                        "Anthropology, Ethnology, Exploration & Travel&nbsp;→ Jewish families",
+                        "Anthropology, Ethnology, Exploration & Travel&nbsp;→ Jews - Australia",
+                        "Anthropology, Ethnology, Exploration & Travel&nbsp;→ Jews - Migrations",
+                        "Anthropology, Ethnology, Exploration & Travel&nbsp;→ Jews - Social life and customs",
+                        "Biographical",
+                        "Crafts & Visual Arts&nbsp;→ Art",
+                        "Crafts & Visual Arts&nbsp;→ Art - Australia",
+                        "Crafts & Visual Arts&nbsp;→ Art, Modern - 20th century - Australia",
+                        "Crafts & Visual Arts&nbsp;→ Artists - Australia",
+                        "Documentary",
+                        "Documentary&nbsp;→ Documentary films - Australia",
+                        "Economics, Philosophy, Politics, Religion & Sociology&nbsp;→ Australia - Emigration and immigration",
+                        "Economics, Philosophy, Politics, Religion & Sociology&nbsp;→ Emigration and immigration - Psychological aspects",
+                        "Economics, Philosophy, Politics, Religion & Sociology&nbsp;→ Ethnology - Australia",
+                        "Economics, Philosophy, Politics, Religion & Sociology&nbsp;→ Immigrants - Australia",
+                        "Economics, Philosophy, Politics, Religion & Sociology&nbsp;→ Jewish families",
+                        "Economics, Philosophy, Politics, Religion & Sociology&nbsp;→ Jews - Australia",
+                        "Economics, Philosophy, Politics, Religion & Sociology&nbsp;→ Jews - Migrations",
+                        "Economics, Philosophy, Politics, Religion & Sociology&nbsp;→ Minorities - Australia",
+                        "Economics, Philosophy, Politics, Religion & Sociology&nbsp;→ Shoes - Social aspects",
+                        "Family, Gender Identity, Relationships & Sexuality&nbsp;→ Family",
+                        "Family, Gender Identity, Relationships & Sexuality&nbsp;→ Family - Australia",
+                        "Family, Gender Identity, Relationships & Sexuality&nbsp;→ Jewish families",
+                        "Food, Health, Lifestyle, Medicine, Psychology & Safety&nbsp;→ Nonverbal communication (Psychology)",
+                        "Food, Health, Lifestyle, Medicine, Psychology & Safety&nbsp;→ Survivors - Psychology",
+                        "History&nbsp;→ Holocaust, Jewish (1939-1945",
+                        "History&nbsp;→ Jews - Australia",
+                        "History&nbsp;→ Jews - Migrations",
+                        "Places&nbsp;→ Australia",
+                        "Short films",
+                        "Short films&nbsp;→ Short films - Australia"
+                    ]
+                },
+                {
+                    "label": "Sound/audio",
+                    "display_values": [
+                        "Sound"
+                    ]
+                },
+                {
+                    "label": "Colour",
+                    "display_values": [
+                        "Black and White and Colour"
+                    ]
+                }
+            ],
+            "stats": {
+                "tap_count": 0
+            },
+            "links": [],
+            "creators_primary": [
+                {
+                    "id": 1134072,
+                    "name": "Adam Nudelman",
+                    "creator_id": 11766,
+                    "role": "creator",
+                    "role_id": 968,
+                    "is_primary": true
+                },
+                {
+                    "id": 1134071,
+                    "name": "ACMI Digital Storytelling",
+                    "creator_id": 10590,
+                    "role": "producer",
+                    "role_id": 960,
+                    "is_primary": true
+                },
+                {
+                    "id": 1134068,
+                    "name": "ACMI",
+                    "creator_id": 6272,
+                    "role": "production company",
+                    "role_id": 941,
+                    "is_primary": true
+                }
+            ],
+            "creators_other": [
+                {
+                    "id": 1134070,
+                    "name": "Arts Victoria",
+                    "creator_id": 11250,
+                    "role": "partner",
+                    "role_id": 575,
+                    "is_primary": false
+                },
+                {
+                    "id": 1134069,
+                    "name": "Jewish Museum of Australia",
+                    "creator_id": 81943,
+                    "role": "partner",
+                    "role_id": 575,
+                    "is_primary": false
+                }
+            ],
+            "video_links": [],
+            "media_note": "Sorry, we aren't able to make images or video for this item available to the public online.",
+            "images": [],
+            "videos": [],
+            "holdings": [
+                {
+                    "name": "DVCAM; Master",
+                    "identifier": "",
+                    "description": ""
+                },
+                {
+                    "name": "MPEG-4 Digital File; ACMI Digital Access Copy - overscan",
+                    "identifier": "",
+                    "description": ""
+                }
+            ],
+            "part_of": null,
+            "parts": [],
+            "part_siblings": [],
+            "group": {
+                "id": 114340,
+                "acmi_id": "15210",
+                "title": "Stories from the Jewish Community",
+                "title_annotation": "",
+                "slug": "stories-from-the-jewish-community",
+                "creator_credit": "Adriana Gomberg, Idit Benjamin, Alain Herz, Adam Barolsky, Adam Nudelman, Emma Levy, Sheiny New, Jenni Klempfner, Ximena Silberman, Astrid Silberman, ACMI and ACMI Digital Storytelling",
+                "credit_line": "",
+                "headline_credit": "Australia, 2007",
+                "thumbnail": null,
+                "record_type": "group",
+                "type": "Film",
+                "is_on_display": false,
+                "last_on_display_place": null,
+                "last_on_display_date": null,
+                "is_context_indigenous": false,
+                "material_description": "",
+                "unpublished": false,
+                "first_production_date": "2007-01-01T11:00:00+11:00"
+            },
+            "group_works": [],
+            "group_siblings": [
+                {
+                    "id": 114342,
+                    "acmi_id": "15217",
+                    "title": "A Fishy problem",
+                    "title_annotation": "",
+                    "slug": "a-fishy-problem",
+                    "creator_credit": "Astrid Silberman, ACMI Digital Storytelling and ACMI",
+                    "credit_line": "",
+                    "headline_credit": "Australia, 2007",
+                    "thumbnail": null,
+                    "record_type": "work",
+                    "type": "Film",
+                    "is_on_display": false,
+                    "last_on_display_place": null,
+                    "last_on_display_date": null,
+                    "is_context_indigenous": false,
+                    "material_description": "",
+                    "unpublished": false,
+                    "first_production_date": "2007-01-01T11:00:00+11:00"
+                },
+                {
+                    "id": 114341,
+                    "acmi_id": "15220",
+                    "title": "Fate makes all the moves",
+                    "title_annotation": "",
+                    "slug": "fate-makes-all-the-moves",
+                    "creator_credit": "Idit Benjamin, ACMI Digital Storytelling and ACMI",
+                    "credit_line": "",
+                    "headline_credit": "Australia, 2007",
+                    "thumbnail": null,
+                    "record_type": "work",
+                    "type": "Film",
+                    "is_on_display": false,
+                    "last_on_display_place": null,
+                    "last_on_display_date": null,
+                    "is_context_indigenous": false,
+                    "material_description": "",
+                    "unpublished": false,
+                    "first_production_date": "2007-01-01T11:00:00+11:00"
+                },
+                {
+                    "id": 114343,
+                    "acmi_id": "15215",
+                    "title": "I'm not French",
+                    "title_annotation": "",
+                    "slug": "im-not-french",
+                    "creator_credit": "Alain Herz, ACMI Digital Storytelling and ACMI",
+                    "credit_line": "",
+                    "headline_credit": "Australia, 2007",
+                    "thumbnail": null,
+                    "record_type": "work",
+                    "type": "Film",
+                    "is_on_display": false,
+                    "last_on_display_place": null,
+                    "last_on_display_date": null,
+                    "is_context_indigenous": false,
+                    "material_description": "",
+                    "unpublished": false,
+                    "first_production_date": "2007-01-01T11:00:00+11:00"
+                },
+                {
+                    "id": 114344,
+                    "acmi_id": "15216",
+                    "title": "Ingredients of love",
+                    "title_annotation": "",
+                    "slug": "ingredients-of-love",
+                    "creator_credit": "Jenni Klempfner, ACMI Digital Storytelling and ACMI",
+                    "credit_line": "",
+                    "headline_credit": "Australia, 2007",
+                    "thumbnail": null,
+                    "record_type": "work",
+                    "type": "Film",
+                    "is_on_display": false,
+                    "last_on_display_place": null,
+                    "last_on_display_date": null,
+                    "is_context_indigenous": false,
+                    "material_description": "",
+                    "unpublished": false,
+                    "first_production_date": "2007-01-01T11:00:00+11:00"
+                },
+                {
+                    "id": 114345,
+                    "acmi_id": "15223",
+                    "title": "Journeys",
+                    "title_annotation": "",
+                    "slug": "journeys",
+                    "creator_credit": "Sheiny New, ACMI Digital Storytelling and ACMI",
+                    "credit_line": "",
+                    "headline_credit": "Australia, 2007",
+                    "thumbnail": null,
+                    "record_type": "work",
+                    "type": "Film",
+                    "is_on_display": false,
+                    "last_on_display_place": null,
+                    "last_on_display_date": null,
+                    "is_context_indigenous": false,
+                    "material_description": "",
+                    "unpublished": false,
+                    "first_production_date": "2007-01-01T11:00:00+11:00"
+                },
+                {
+                    "id": 114339,
+                    "acmi_id": "15211",
+                    "title": "My beautiful shwesters",
+                    "title_annotation": "",
+                    "slug": "my-beautiful-shwesters",
+                    "creator_credit": "Adam Barolsky, ACMI Digital Storytelling and ACMI",
+                    "credit_line": "",
+                    "headline_credit": "Australia, 2007",
+                    "thumbnail": null,
+                    "record_type": "work",
+                    "type": "Film",
+                    "is_on_display": false,
+                    "last_on_display_place": null,
+                    "last_on_display_date": null,
+                    "is_context_indigenous": false,
+                    "material_description": "",
+                    "unpublished": false,
+                    "first_production_date": "2007-01-01T11:00:00+11:00"
+                },
+                {
+                    "id": 114346,
+                    "acmi_id": "15221",
+                    "title": "One wedding and several migrations",
+                    "title_annotation": "",
+                    "slug": "one-wedding-and-several-migrations",
+                    "creator_credit": "Adriana Gomberg, ACMI Digital Storytelling and ACMI",
+                    "credit_line": "",
+                    "headline_credit": "Australia, 2007",
+                    "thumbnail": null,
+                    "record_type": "work",
+                    "type": "Film",
+                    "is_on_display": false,
+                    "last_on_display_place": null,
+                    "last_on_display_date": null,
+                    "is_context_indigenous": false,
+                    "material_description": "",
+                    "unpublished": false,
+                    "first_production_date": "2007-01-01T11:00:00+11:00"
+                },
+                {
+                    "id": 114347,
+                    "acmi_id": "15214",
+                    "title": "Second life",
+                    "title_annotation": "",
+                    "slug": "second-life",
+                    "creator_credit": "Ximena Silberman, ACMI Digital Storytelling and ACMI",
+                    "credit_line": "",
+                    "headline_credit": "Australia, 2007",
+                    "thumbnail": null,
+                    "record_type": "work",
+                    "type": "Film",
+                    "is_on_display": false,
+                    "last_on_display_place": null,
+                    "last_on_display_date": null,
+                    "is_context_indigenous": false,
+                    "material_description": "",
+                    "unpublished": false,
+                    "first_production_date": "2007-01-01T11:00:00+11:00"
+                },
+                {
+                    "id": 114349,
+                    "acmi_id": "15222",
+                    "title": "Small town girl",
+                    "title_annotation": "",
+                    "slug": "small-town-girl",
+                    "creator_credit": "Emma Levy, ACMI Digital Storytelling and ACMI",
+                    "credit_line": "",
+                    "headline_credit": "Australia, 2007",
+                    "thumbnail": null,
+                    "record_type": "work",
+                    "type": "Film",
+                    "is_on_display": false,
+                    "last_on_display_place": null,
+                    "last_on_display_date": null,
+                    "is_context_indigenous": false,
+                    "material_description": "",
+                    "unpublished": false,
+                    "first_production_date": "2007-01-01T11:00:00+11:00"
+                }
+            ],
+            "source": {
+                "name": "Vernon",
+                "slug": "vernon"
+            },
+            "source_identifier": "15212",
+            "production_places": [
+                {
+                    "id": 3,
+                    "name": "Australia",
+                    "slug": "australia"
+                }
+            ],
+            "production_dates": [
+                {
+                    "date": "2007",
+                    "notes": "June 2007",
+                    "to_year": "2007"
+                }
+            ],
+            "labels": [
+                53840
+            ]
+        },
+        {
+            "id": 114347,
+            "acmi_id": "15214",
+            "title": "Second life",
+            "title_annotation": "",
+            "slug": "second-life",
+            "creator_credit": "Ximena Silberman, ACMI Digital Storytelling and ACMI",
+            "credit_line": "",
+            "headline_credit": "Australia, 2007",
+            "thumbnail": null,
+            "record_type": "work",
+            "type": "Film",
+            "is_on_display": false,
+            "last_on_display_place": null,
+            "last_on_display_date": null,
+            "is_context_indigenous": false,
+            "material_description": "",
+            "unpublished": false,
+            "first_production_date": "2007-01-01T11:00:00+11:00",
+            "brief_description": "<p>Ximena migrated to Australia in 2003. To migrate is to be born again. While enjoying her new life in Australia, she looks back at the friendships and life she left behind in Buenos Aires. This Digital Storytelling project was created in partnership with the Jewish Museum of Australia</p>",
+            "constellations_primary": [],
+            "constellations_other": [],
+            "recommendations": [],
+            "title_for_label": "<p>Second life</p>",
+            "creator_credit_for_label": "<p>Ximena Silberman, ACMI Digital Storytelling and ACMI</p>",
+            "headline_credit_for_label": "<p>Australia, 2007</p>",
+            "description": "<p>Ximena migrated to Australia in 2003. To migrate is to be born again. While enjoying her new life in Australia, she looks back at the friendships and life she left behind in Buenos Aires. This Digital Storytelling project was created in partnership with the Jewish Museum of Australia</p>",
+            "description_for_label": [
+                "<p>Ximena migrated to Australia in 2003. To migrate is to be born again. While enjoying her new life in Australia, she looks back at the friendships and life she left behind in Buenos Aires. This Digital Storytelling project was created in partnership with the Jewish Museum of Australia</p>"
+            ],
+            "credit_line_for_label": "",
+            "details": [
+                {
+                    "label": "Duration",
+                    "display_values": [
+                        "00:02:56:00"
+                    ]
+                },
+                {
+                    "label": "Language",
+                    "display_values": [
+                        "English"
+                    ]
+                },
+                {
+                    "label": "Audience classification",
+                    "display_values": [
+                        "ACMI classified"
+                    ]
+                },
+                {
+                    "label": "Subject categories",
+                    "display_values": [
+                        "Anthropology, Ethnology, Exploration & Travel&nbsp;→ Australia",
+                        "Anthropology, Ethnology, Exploration & Travel&nbsp;→ Australia - Social life and customs",
+                        "Anthropology, Ethnology, Exploration & Travel&nbsp;→ Buenos Aires (Argentina)",
+                        "Anthropology, Ethnology, Exploration & Travel&nbsp;→ Jewish families",
+                        "Anthropology, Ethnology, Exploration & Travel&nbsp;→ Jews - Australia",
+                        "Anthropology, Ethnology, Exploration & Travel&nbsp;→ Jews - Migrations",
+                        "Anthropology, Ethnology, Exploration & Travel&nbsp;→ Jews - Social life and customs",
+                        "Biographical",
+                        "Crafts & Visual Arts&nbsp;→ Architects",
+                        "Documentary",
+                        "Documentary&nbsp;→ Documentary films - Australia",
+                        "Economics, Philosophy, Politics, Religion & Sociology&nbsp;→ Australia - Economic conditions",
+                        "Economics, Philosophy, Politics, Religion & Sociology&nbsp;→ Australia - Emigration and immigration",
+                        "Economics, Philosophy, Politics, Religion & Sociology&nbsp;→ Australia - Social conditions",
+                        "Economics, Philosophy, Politics, Religion & Sociology&nbsp;→ Australia - Social conditions - 20th Century",
+                        "Economics, Philosophy, Politics, Religion & Sociology&nbsp;→ Emigration and immigration - Psychological aspects",
+                        "Economics, Philosophy, Politics, Religion & Sociology&nbsp;→ Ethnology - Australia",
+                        "Economics, Philosophy, Politics, Religion & Sociology&nbsp;→ Immigrants - Australia",
+                        "Economics, Philosophy, Politics, Religion & Sociology&nbsp;→ Jews - Australia",
+                        "Economics, Philosophy, Politics, Religion & Sociology&nbsp;→ Jews - Migrations",
+                        "Economics, Philosophy, Politics, Religion & Sociology&nbsp;→ Minorities - Australia",
+                        "Family, Gender Identity, Relationships & Sexuality&nbsp;→ Friendship",
+                        "History&nbsp;→ Jews - Australia",
+                        "Places&nbsp;→ Australia",
+                        "Places&nbsp;→ Buenos Aires (Argentina)",
+                        "Short films",
+                        "Short films&nbsp;→ Short films - Australia"
+                    ]
+                },
+                {
+                    "label": "Sound/audio",
+                    "display_values": [
+                        "Sound"
+                    ]
+                },
+                {
+                    "label": "Colour",
+                    "display_values": [
+                        "Colour"
+                    ]
+                }
+            ],
+            "stats": {
+                "tap_count": 0
+            },
+            "links": [],
+            "creators_primary": [
+                {
+                    "id": 1134067,
+                    "name": "Ximena Silberman",
+                    "creator_id": 11767,
+                    "role": "creator",
+                    "role_id": 968,
+                    "is_primary": true
+                },
+                {
+                    "id": 1134066,
+                    "name": "ACMI Digital Storytelling",
+                    "creator_id": 10590,
+                    "role": "producer",
+                    "role_id": 960,
+                    "is_primary": true
+                },
+                {
+                    "id": 1134063,
+                    "name": "ACMI",
+                    "creator_id": 6272,
+                    "role": "production company",
+                    "role_id": 941,
+                    "is_primary": true
+                }
+            ],
+            "creators_other": [
+                {
+                    "id": 1134065,
+                    "name": "Arts Victoria",
+                    "creator_id": 11250,
+                    "role": "partner",
+                    "role_id": 575,
+                    "is_primary": false
+                },
+                {
+                    "id": 1134064,
+                    "name": "Jewish Museum of Australia",
+                    "creator_id": 81943,
+                    "role": "partner",
+                    "role_id": 575,
+                    "is_primary": false
+                }
+            ],
+            "video_links": [],
+            "media_note": "Sorry, we aren't able to make images or video for this item available to the public online.",
+            "images": [],
+            "videos": [],
+            "holdings": [
+                {
+                    "name": "DVCAM; Master",
+                    "identifier": "",
+                    "description": ""
+                },
+                {
+                    "name": "MPEG-4 Digital File; ACMI Digital Access Copy - overscan",
+                    "identifier": "",
+                    "description": ""
+                }
+            ],
+            "part_of": null,
+            "parts": [],
+            "part_siblings": [],
+            "group": {
+                "id": 114340,
+                "acmi_id": "15210",
+                "title": "Stories from the Jewish Community",
+                "title_annotation": "",
+                "slug": "stories-from-the-jewish-community",
+                "creator_credit": "Adriana Gomberg, Idit Benjamin, Alain Herz, Adam Barolsky, Adam Nudelman, Emma Levy, Sheiny New, Jenni Klempfner, Ximena Silberman, Astrid Silberman, ACMI and ACMI Digital Storytelling",
+                "credit_line": "",
+                "headline_credit": "Australia, 2007",
+                "thumbnail": null,
+                "record_type": "group",
+                "type": "Film",
+                "is_on_display": false,
+                "last_on_display_place": null,
+                "last_on_display_date": null,
+                "is_context_indigenous": false,
+                "material_description": "",
+                "unpublished": false,
+                "first_production_date": "2007-01-01T11:00:00+11:00"
+            },
+            "group_works": [],
+            "group_siblings": [
+                {
+                    "id": 114342,
+                    "acmi_id": "15217",
+                    "title": "A Fishy problem",
+                    "title_annotation": "",
+                    "slug": "a-fishy-problem",
+                    "creator_credit": "Astrid Silberman, ACMI Digital Storytelling and ACMI",
+                    "credit_line": "",
+                    "headline_credit": "Australia, 2007",
+                    "thumbnail": null,
+                    "record_type": "work",
+                    "type": "Film",
+                    "is_on_display": false,
+                    "last_on_display_place": null,
+                    "last_on_display_date": null,
+                    "is_context_indigenous": false,
+                    "material_description": "",
+                    "unpublished": false,
+                    "first_production_date": "2007-01-01T11:00:00+11:00"
+                },
+                {
+                    "id": 114341,
+                    "acmi_id": "15220",
+                    "title": "Fate makes all the moves",
+                    "title_annotation": "",
+                    "slug": "fate-makes-all-the-moves",
+                    "creator_credit": "Idit Benjamin, ACMI Digital Storytelling and ACMI",
+                    "credit_line": "",
+                    "headline_credit": "Australia, 2007",
+                    "thumbnail": null,
+                    "record_type": "work",
+                    "type": "Film",
+                    "is_on_display": false,
+                    "last_on_display_place": null,
+                    "last_on_display_date": null,
+                    "is_context_indigenous": false,
+                    "material_description": "",
+                    "unpublished": false,
+                    "first_production_date": "2007-01-01T11:00:00+11:00"
+                },
+                {
+                    "id": 114343,
+                    "acmi_id": "15215",
+                    "title": "I'm not French",
+                    "title_annotation": "",
+                    "slug": "im-not-french",
+                    "creator_credit": "Alain Herz, ACMI Digital Storytelling and ACMI",
+                    "credit_line": "",
+                    "headline_credit": "Australia, 2007",
+                    "thumbnail": null,
+                    "record_type": "work",
+                    "type": "Film",
+                    "is_on_display": false,
+                    "last_on_display_place": null,
+                    "last_on_display_date": null,
+                    "is_context_indigenous": false,
+                    "material_description": "",
+                    "unpublished": false,
+                    "first_production_date": "2007-01-01T11:00:00+11:00"
+                },
+                {
+                    "id": 114344,
+                    "acmi_id": "15216",
+                    "title": "Ingredients of love",
+                    "title_annotation": "",
+                    "slug": "ingredients-of-love",
+                    "creator_credit": "Jenni Klempfner, ACMI Digital Storytelling and ACMI",
+                    "credit_line": "",
+                    "headline_credit": "Australia, 2007",
+                    "thumbnail": null,
+                    "record_type": "work",
+                    "type": "Film",
+                    "is_on_display": false,
+                    "last_on_display_place": null,
+                    "last_on_display_date": null,
+                    "is_context_indigenous": false,
+                    "material_description": "",
+                    "unpublished": false,
+                    "first_production_date": "2007-01-01T11:00:00+11:00"
+                },
+                {
+                    "id": 114345,
+                    "acmi_id": "15223",
+                    "title": "Journeys",
+                    "title_annotation": "",
+                    "slug": "journeys",
+                    "creator_credit": "Sheiny New, ACMI Digital Storytelling and ACMI",
+                    "credit_line": "",
+                    "headline_credit": "Australia, 2007",
+                    "thumbnail": null,
+                    "record_type": "work",
+                    "type": "Film",
+                    "is_on_display": false,
+                    "last_on_display_place": null,
+                    "last_on_display_date": null,
+                    "is_context_indigenous": false,
+                    "material_description": "",
+                    "unpublished": false,
+                    "first_production_date": "2007-01-01T11:00:00+11:00"
+                },
+                {
+                    "id": 114339,
+                    "acmi_id": "15211",
+                    "title": "My beautiful shwesters",
+                    "title_annotation": "",
+                    "slug": "my-beautiful-shwesters",
+                    "creator_credit": "Adam Barolsky, ACMI Digital Storytelling and ACMI",
+                    "credit_line": "",
+                    "headline_credit": "Australia, 2007",
+                    "thumbnail": null,
+                    "record_type": "work",
+                    "type": "Film",
+                    "is_on_display": false,
+                    "last_on_display_place": null,
+                    "last_on_display_date": null,
+                    "is_context_indigenous": false,
+                    "material_description": "",
+                    "unpublished": false,
+                    "first_production_date": "2007-01-01T11:00:00+11:00"
+                },
+                {
+                    "id": 114346,
+                    "acmi_id": "15221",
+                    "title": "One wedding and several migrations",
+                    "title_annotation": "",
+                    "slug": "one-wedding-and-several-migrations",
+                    "creator_credit": "Adriana Gomberg, ACMI Digital Storytelling and ACMI",
+                    "credit_line": "",
+                    "headline_credit": "Australia, 2007",
+                    "thumbnail": null,
+                    "record_type": "work",
+                    "type": "Film",
+                    "is_on_display": false,
+                    "last_on_display_place": null,
+                    "last_on_display_date": null,
+                    "is_context_indigenous": false,
+                    "material_description": "",
+                    "unpublished": false,
+                    "first_production_date": "2007-01-01T11:00:00+11:00"
+                },
+                {
+                    "id": 114349,
+                    "acmi_id": "15222",
+                    "title": "Small town girl",
+                    "title_annotation": "",
+                    "slug": "small-town-girl",
+                    "creator_credit": "Emma Levy, ACMI Digital Storytelling and ACMI",
+                    "credit_line": "",
+                    "headline_credit": "Australia, 2007",
+                    "thumbnail": null,
+                    "record_type": "work",
+                    "type": "Film",
+                    "is_on_display": false,
+                    "last_on_display_place": null,
+                    "last_on_display_date": null,
+                    "is_context_indigenous": false,
+                    "material_description": "",
+                    "unpublished": false,
+                    "first_production_date": "2007-01-01T11:00:00+11:00"
+                },
+                {
+                    "id": 114348,
+                    "acmi_id": "15212",
+                    "title": "The Shoemaker",
+                    "title_annotation": "",
+                    "slug": "the-shoemaker",
+                    "creator_credit": "Adam Nudelman, ACMI Digital Storytelling and ACMI",
+                    "credit_line": "",
+                    "headline_credit": "Australia, 2007",
+                    "thumbnail": null,
+                    "record_type": "work",
+                    "type": "Film",
+                    "is_on_display": false,
+                    "last_on_display_place": null,
+                    "last_on_display_date": null,
+                    "is_context_indigenous": false,
+                    "material_description": "",
+                    "unpublished": false,
+                    "first_production_date": "2007-01-01T11:00:00+11:00"
+                }
+            ],
+            "source": {
+                "name": "Vernon",
+                "slug": "vernon"
+            },
+            "source_identifier": "15214",
+            "production_places": [
+                {
+                    "id": 3,
+                    "name": "Australia",
+                    "slug": "australia"
+                }
+            ],
+            "production_dates": [
+                {
+                    "date": "2007",
+                    "notes": "June 2007",
+                    "to_year": "2007"
+                }
+            ],
+            "labels": [
+                53839
+            ]
+        }
+    ]
+}

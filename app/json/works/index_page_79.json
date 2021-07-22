@@ -1,0 +1,1737 @@
+{
+    "count": 922,
+    "next": "https://api.acmi.net.au/works/?page=80",
+    "previous": "https://api.acmi.net.au/works/?page=78",
+    "results": [
+        {
+            "id": 108639,
+            "acmi_id": "1491",
+            "title": "Jollies",
+            "title_annotation": "",
+            "slug": "jollies",
+            "creator_credit": "Sadie Benning",
+            "credit_line": "",
+            "headline_credit": "United States, 1990",
+            "thumbnail": {
+                "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/B1003646_Jollies.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=V5weuKHhzt26j8zvNJv%2F4IPv3cQ%3D&Expires=1627009483",
+                "has_video": false
+            },
+            "record_type": "work",
+            "type": "Digital art",
+            "is_on_display": false,
+            "last_on_display_place": "ACMI Screen Gallery",
+            "last_on_display_date": "2003-08-31",
+            "is_context_indigenous": false,
+            "material_description": "Single channel moving image, black and white and audio",
+            "unpublished": false,
+            "first_production_date": "1990-01-01T11:00:00+11:00",
+            "brief_description": "<p>An intimate and sardonic work about being an adolescent in mid-American suburbia. From touching the genitals of boys in school to finally getting to kiss the girl she wants, this very funny and accomplished experimental work was filmed while the director was herself a teen.</p>",
+            "constellations_primary": [],
+            "constellations_other": [],
+            "recommendations": [],
+            "title_for_label": "<p>Jollies</p>",
+            "creator_credit_for_label": "<p>Sadie Benning</p>",
+            "headline_credit_for_label": "<p>United States, 1990</p>",
+            "description": "<p>An intimate and sardonic work about being an adolescent in mid-American suburbia. From touching the genitals of boys in school to finally getting to kiss the girl she wants, this very funny and accomplished experimental work was filmed while the director was herself a teen.</p>",
+            "description_for_label": [
+                "<p>An intimate and sardonic work about being an adolescent in mid-American suburbia. From touching the genitals of boys in school to finally getting to kiss the girl she wants, this very funny and accomplished experimental work was filmed while the director was herself a teen.</p>"
+            ],
+            "credit_line_for_label": "",
+            "details": [
+                {
+                    "label": "Duration",
+                    "display_values": [
+                        "00:11:19:00"
+                    ]
+                },
+                {
+                    "label": "Language",
+                    "display_values": [
+                        "English"
+                    ]
+                },
+                {
+                    "label": "Audience classification",
+                    "display_values": [
+                        "Mediatheque - not for children (ACMI classified)"
+                    ]
+                },
+                {
+                    "label": "Subject categories",
+                    "display_values": [
+                        "Digital Art",
+                        "Family, Gender Identity, Relationships & Sexuality&nbsp;→ Puberty",
+                        "Food, Health, Lifestyle, Medicine, Psychology & Safety&nbsp;→ Puberty",
+                        "Short films",
+                        "Short films&nbsp;→ Short films - United States"
+                    ]
+                },
+                {
+                    "label": "Sound/audio",
+                    "display_values": [
+                        "Sound"
+                    ]
+                },
+                {
+                    "label": "Colour",
+                    "display_values": [
+                        "Black and White"
+                    ]
+                },
+                {
+                    "label": "Materials",
+                    "display_values": [
+                        "Single channel moving image, black and white and audio"
+                    ]
+                }
+            ],
+            "stats": {
+                "tap_count": 0
+            },
+            "links": [],
+            "creators_primary": [
+                {
+                    "id": 1133469,
+                    "name": "Sadie Benning",
+                    "creator_id": 6504,
+                    "role": "creator",
+                    "role_id": 968,
+                    "is_primary": true
+                }
+            ],
+            "creators_other": [],
+            "video_links": [],
+            "media_note": null,
+            "images": [
+                {
+                    "id": 11214,
+                    "image_file": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/B1003646_Jollies.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=7XBM0wqI%2FzFbA4kna6t9p5H4Vfk%3D&Expires=1627009483",
+                    "image_file_thumbnail": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/B1003646_Jollies.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=V5weuKHhzt26j8zvNJv%2F4IPv3cQ%3D&Expires=1627009483",
+                    "image_file_xs": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/B1003646_Jollies.jpg.480x480_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=p0vbpQvU%2FYjYz9khFRKa92CzekU%3D&Expires=1627009483",
+                    "image_file_s": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/B1003646_Jollies.jpg.960x960_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=mvjsr%2BIy06ExtFk%2B4WqHT8ub3Pg%3D&Expires=1627009483",
+                    "image_file_m": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/B1003646_Jollies.jpg.1920x1920_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=kSPEockCLuRj%2FwxgF%2FxgBtrLH7k%3D&Expires=1627009483",
+                    "image_file_l": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/B1003646_Jollies.jpg.3840x3840_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=kCnf0mZEc2qqCV5Tu1miZ2ZtB3w%3D&Expires=1627009483",
+                    "caption": "Jollies (Sadie Benning) still",
+                    "credit_line": "",
+                    "alt_text": "",
+                    "width": 438,
+                    "height": 327,
+                    "access_level": "View anywhere"
+                }
+            ],
+            "videos": [],
+            "holdings": [
+                {
+                    "name": "MPEG-4 Digital File; ACMI Digital Access Copy - overscan",
+                    "identifier": "",
+                    "description": ""
+                },
+                {
+                    "name": "MOV file ProRes4444; Digital Preservation Master - overscan",
+                    "identifier": "",
+                    "description": ""
+                },
+                {
+                    "name": "SP Betacam; Copy",
+                    "identifier": "",
+                    "description": ""
+                },
+                {
+                    "name": "DVD [PAL]; Exhibition Copy",
+                    "identifier": "",
+                    "description": ""
+                },
+                {
+                    "name": "Digital Betacam [NTSC]; Master",
+                    "identifier": "",
+                    "description": ""
+                },
+                {
+                    "name": "VHS [PAL]; Reference - timecoded",
+                    "identifier": "",
+                    "description": ""
+                },
+                {
+                    "name": "Digital Betacam [PAL]; Sub-master",
+                    "identifier": "",
+                    "description": ""
+                },
+                {
+                    "name": "VHS [PAL]; Copy",
+                    "identifier": "",
+                    "description": ""
+                },
+                {
+                    "name": "MOV file H264; ACMI Digital Access Copy - presentation",
+                    "identifier": "",
+                    "description": ""
+                }
+            ],
+            "part_of": null,
+            "parts": [],
+            "part_siblings": [],
+            "group": {
+                "id": 101482,
+                "acmi_id": "10180",
+                "title": "Sadie Benning compile",
+                "title_annotation": "",
+                "slug": "sadie-benning-compile",
+                "creator_credit": "Sadie Benning",
+                "credit_line": "",
+                "headline_credit": "United States, 1989-1995",
+                "thumbnail": {
+                    "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/B1003646_Jollies.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=V5weuKHhzt26j8zvNJv%2F4IPv3cQ%3D&Expires=1627009483",
+                    "has_video": false
+                },
+                "record_type": "group",
+                "type": "Digital art",
+                "is_on_display": false,
+                "last_on_display_place": null,
+                "last_on_display_date": null,
+                "is_context_indigenous": false,
+                "material_description": "",
+                "unpublished": false,
+                "first_production_date": null
+            },
+            "group_works": [],
+            "group_siblings": [
+                {
+                    "id": 109883,
+                    "acmi_id": "12183",
+                    "title": "A Place called Lovely",
+                    "title_annotation": "",
+                    "slug": "a-place-called-lovely",
+                    "creator_credit": "Sadie Benning",
+                    "credit_line": "",
+                    "headline_credit": "United States, 1991",
+                    "thumbnail": null,
+                    "record_type": "work",
+                    "type": "Digital art",
+                    "is_on_display": false,
+                    "last_on_display_place": null,
+                    "last_on_display_date": null,
+                    "is_context_indigenous": false,
+                    "material_description": "Single channel moving image, black and white and audio",
+                    "unpublished": false,
+                    "first_production_date": "1991-01-01T11:00:00+11:00"
+                },
+                {
+                    "id": 107977,
+                    "acmi_id": "173",
+                    "title": "If Every Girl Had a Diary",
+                    "title_annotation": "",
+                    "slug": "if-every-girl-had-a-diary",
+                    "creator_credit": "Sadie Benning",
+                    "credit_line": "",
+                    "headline_credit": "United States, 1990",
+                    "thumbnail": null,
+                    "record_type": "work",
+                    "type": "Digital art",
+                    "is_on_display": false,
+                    "last_on_display_place": "ACMI Screen Lounge",
+                    "last_on_display_date": "2004-12-31",
+                    "is_context_indigenous": false,
+                    "material_description": "Single channel moving image, black and white and audio",
+                    "unpublished": false,
+                    "first_production_date": "1990-01-01T11:00:00+11:00"
+                },
+                {
+                    "id": 113982,
+                    "acmi_id": "12182",
+                    "title": "Living inside",
+                    "title_annotation": "",
+                    "slug": "living-inside",
+                    "creator_credit": "Sadie Benning",
+                    "credit_line": "",
+                    "headline_credit": "United States, 1989",
+                    "thumbnail": {
+                        "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/B2000271_LivingInside.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=gMmIyV5JK6Fnv1ig9a0ygdDmmrY%3D&Expires=1627009483",
+                        "has_video": false
+                    },
+                    "record_type": "work",
+                    "type": "Digital art",
+                    "is_on_display": false,
+                    "last_on_display_place": "ACMI Viewing Booths",
+                    "last_on_display_date": "2019-04-22",
+                    "is_context_indigenous": false,
+                    "material_description": "Single channel moving image, black and white and audio",
+                    "unpublished": false,
+                    "first_production_date": "1989-01-01T11:00:00+11:00"
+                },
+                {
+                    "id": 109884,
+                    "acmi_id": "12184",
+                    "title": "The Judy spots",
+                    "title_annotation": "",
+                    "slug": "the-judy-spots",
+                    "creator_credit": "Elisabeth Subrin and Sadie Benning",
+                    "credit_line": "",
+                    "headline_credit": "United States, 1995",
+                    "thumbnail": {
+                        "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/B2000273_TheJudyspots.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=x27lw2NROrnTgyoMD6WC25gLtwo%3D&Expires=1627009483",
+                        "has_video": false
+                    },
+                    "record_type": "work",
+                    "type": "Digital art",
+                    "is_on_display": false,
+                    "last_on_display_place": "ACMI Viewing Booths",
+                    "last_on_display_date": "2019-04-22",
+                    "is_context_indigenous": false,
+                    "material_description": "Single channel moving image, black and white and audio",
+                    "unpublished": false,
+                    "first_production_date": "1995-01-01T11:00:00+11:00"
+                }
+            ],
+            "source": {
+                "name": "Vernon",
+                "slug": "vernon"
+            },
+            "source_identifier": "1491",
+            "production_places": [
+                {
+                    "id": 2,
+                    "name": "United States",
+                    "slug": "united-states"
+                }
+            ],
+            "production_dates": [
+                {
+                    "date": "1990",
+                    "notes": "",
+                    "to_year": "1990"
+                }
+            ],
+            "labels": [
+                48132
+            ]
+        },
+        {
+            "id": 107977,
+            "acmi_id": "173",
+            "title": "If Every Girl Had a Diary",
+            "title_annotation": "",
+            "slug": "if-every-girl-had-a-diary",
+            "creator_credit": "Sadie Benning",
+            "credit_line": "",
+            "headline_credit": "United States, 1990",
+            "thumbnail": null,
+            "record_type": "work",
+            "type": "Digital art",
+            "is_on_display": false,
+            "last_on_display_place": "ACMI Screen Lounge",
+            "last_on_display_date": "2004-12-31",
+            "is_context_indigenous": false,
+            "material_description": "Single channel moving image, black and white and audio",
+            "unpublished": false,
+            "first_production_date": "1990-01-01T11:00:00+11:00",
+            "brief_description": "<p>Sadie Benning&#8217;s video diaries form a unique record of the development of a young artist. Within the confines of her bedroom, she creates a dense experimental work about a teenagers search for sexual and non-conformist expression. &#8216;If Every Girl Had a Diary&#8217; is an intimate insight into suburban malaise and alienation, as well as being a defiantly accomplished piece of video art.</p>",
+            "constellations_primary": [],
+            "constellations_other": [],
+            "recommendations": [],
+            "title_for_label": "<p>If Every Girl Had a Diary</p>",
+            "creator_credit_for_label": "<p>Sadie Benning</p>",
+            "headline_credit_for_label": "<p>United States, 1990</p>",
+            "description": "<p>Sadie Benning&#8217;s video diaries form a unique record of the development of a young artist. Within the confines of her bedroom, she creates a dense experimental work about a teenagers search for sexual and non-conformist expression. &#8216;If Every Girl Had a Diary&#8217; is an intimate insight into suburban malaise and alienation, as well as being a defiantly accomplished piece of video art.</p>",
+            "description_for_label": [
+                "<p>Sadie Benning&#8217;s video diaries form a unique record of the development of a young artist. Within the confines of her bedroom, she creates a dense experimental work about a teenagers search for sexual and non-conformist expression. &#8216;If Every Girl Had a Diary&#8217; is an intimate insight into suburban malaise and alienation, as well as being a defiantly accomplished piece of video art.</p>"
+            ],
+            "credit_line_for_label": "",
+            "details": [
+                {
+                    "label": "Duration",
+                    "display_values": [
+                        "00:09:00:00"
+                    ]
+                },
+                {
+                    "label": "Language",
+                    "display_values": [
+                        "English"
+                    ]
+                },
+                {
+                    "label": "Subject category",
+                    "display_values": [
+                        "Digital Art"
+                    ]
+                },
+                {
+                    "label": "Sound/audio",
+                    "display_values": [
+                        "Sound"
+                    ]
+                },
+                {
+                    "label": "Colour",
+                    "display_values": [
+                        "Black and White"
+                    ]
+                },
+                {
+                    "label": "Materials",
+                    "display_values": [
+                        "Single channel moving image, black and white and audio"
+                    ]
+                }
+            ],
+            "stats": {
+                "tap_count": 0
+            },
+            "links": [],
+            "creators_primary": [
+                {
+                    "id": 1133467,
+                    "name": "Sadie Benning",
+                    "creator_id": 6504,
+                    "role": "creator",
+                    "role_id": 968,
+                    "is_primary": true
+                }
+            ],
+            "creators_other": [
+                {
+                    "id": 1133468,
+                    "name": "Emma Crimmings",
+                    "creator_id": 6328,
+                    "role": "research manager",
+                    "role_id": 456,
+                    "is_primary": false
+                }
+            ],
+            "video_links": [],
+            "media_note": null,
+            "images": [],
+            "videos": [],
+            "holdings": [
+                {
+                    "name": "MPEG-4 Digital File; ACMI Digital Access Copy - overscan",
+                    "identifier": "",
+                    "description": ""
+                },
+                {
+                    "name": "MOV file ProRes4444; Digital Preservation Master - overscan",
+                    "identifier": "",
+                    "description": ""
+                },
+                {
+                    "name": "SP Betacam; Copy",
+                    "identifier": "",
+                    "description": ""
+                },
+                {
+                    "name": "DVD [PAL]; Exhibition Copy",
+                    "identifier": "",
+                    "description": ""
+                },
+                {
+                    "name": "Digital Betacam [NTSC]; Master",
+                    "identifier": "",
+                    "description": ""
+                },
+                {
+                    "name": "VHS [PAL]; Reference - timecoded",
+                    "identifier": "",
+                    "description": ""
+                },
+                {
+                    "name": "Digital Betacam [PAL]; Sub-master",
+                    "identifier": "",
+                    "description": ""
+                },
+                {
+                    "name": "VHS [PAL]; Copy",
+                    "identifier": "",
+                    "description": ""
+                },
+                {
+                    "name": "MOV file H264; ACMI Digital Access Copy - presentation",
+                    "identifier": "",
+                    "description": ""
+                }
+            ],
+            "part_of": null,
+            "parts": [],
+            "part_siblings": [],
+            "group": {
+                "id": 101482,
+                "acmi_id": "10180",
+                "title": "Sadie Benning compile",
+                "title_annotation": "",
+                "slug": "sadie-benning-compile",
+                "creator_credit": "Sadie Benning",
+                "credit_line": "",
+                "headline_credit": "United States, 1989-1995",
+                "thumbnail": {
+                    "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/B1003646_Jollies.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=V5weuKHhzt26j8zvNJv%2F4IPv3cQ%3D&Expires=1627009483",
+                    "has_video": false
+                },
+                "record_type": "group",
+                "type": "Digital art",
+                "is_on_display": false,
+                "last_on_display_place": null,
+                "last_on_display_date": null,
+                "is_context_indigenous": false,
+                "material_description": "",
+                "unpublished": false,
+                "first_production_date": null
+            },
+            "group_works": [],
+            "group_siblings": [
+                {
+                    "id": 109883,
+                    "acmi_id": "12183",
+                    "title": "A Place called Lovely",
+                    "title_annotation": "",
+                    "slug": "a-place-called-lovely",
+                    "creator_credit": "Sadie Benning",
+                    "credit_line": "",
+                    "headline_credit": "United States, 1991",
+                    "thumbnail": null,
+                    "record_type": "work",
+                    "type": "Digital art",
+                    "is_on_display": false,
+                    "last_on_display_place": null,
+                    "last_on_display_date": null,
+                    "is_context_indigenous": false,
+                    "material_description": "Single channel moving image, black and white and audio",
+                    "unpublished": false,
+                    "first_production_date": "1991-01-01T11:00:00+11:00"
+                },
+                {
+                    "id": 108639,
+                    "acmi_id": "1491",
+                    "title": "Jollies",
+                    "title_annotation": "",
+                    "slug": "jollies",
+                    "creator_credit": "Sadie Benning",
+                    "credit_line": "",
+                    "headline_credit": "United States, 1990",
+                    "thumbnail": {
+                        "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/B1003646_Jollies.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=V5weuKHhzt26j8zvNJv%2F4IPv3cQ%3D&Expires=1627009483",
+                        "has_video": false
+                    },
+                    "record_type": "work",
+                    "type": "Digital art",
+                    "is_on_display": false,
+                    "last_on_display_place": "ACMI Screen Gallery",
+                    "last_on_display_date": "2003-08-31",
+                    "is_context_indigenous": false,
+                    "material_description": "Single channel moving image, black and white and audio",
+                    "unpublished": false,
+                    "first_production_date": "1990-01-01T11:00:00+11:00"
+                },
+                {
+                    "id": 113982,
+                    "acmi_id": "12182",
+                    "title": "Living inside",
+                    "title_annotation": "",
+                    "slug": "living-inside",
+                    "creator_credit": "Sadie Benning",
+                    "credit_line": "",
+                    "headline_credit": "United States, 1989",
+                    "thumbnail": {
+                        "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/B2000271_LivingInside.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=gMmIyV5JK6Fnv1ig9a0ygdDmmrY%3D&Expires=1627009483",
+                        "has_video": false
+                    },
+                    "record_type": "work",
+                    "type": "Digital art",
+                    "is_on_display": false,
+                    "last_on_display_place": "ACMI Viewing Booths",
+                    "last_on_display_date": "2019-04-22",
+                    "is_context_indigenous": false,
+                    "material_description": "Single channel moving image, black and white and audio",
+                    "unpublished": false,
+                    "first_production_date": "1989-01-01T11:00:00+11:00"
+                },
+                {
+                    "id": 109884,
+                    "acmi_id": "12184",
+                    "title": "The Judy spots",
+                    "title_annotation": "",
+                    "slug": "the-judy-spots",
+                    "creator_credit": "Elisabeth Subrin and Sadie Benning",
+                    "credit_line": "",
+                    "headline_credit": "United States, 1995",
+                    "thumbnail": {
+                        "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/B2000273_TheJudyspots.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=x27lw2NROrnTgyoMD6WC25gLtwo%3D&Expires=1627009483",
+                        "has_video": false
+                    },
+                    "record_type": "work",
+                    "type": "Digital art",
+                    "is_on_display": false,
+                    "last_on_display_place": "ACMI Viewing Booths",
+                    "last_on_display_date": "2019-04-22",
+                    "is_context_indigenous": false,
+                    "material_description": "Single channel moving image, black and white and audio",
+                    "unpublished": false,
+                    "first_production_date": "1995-01-01T11:00:00+11:00"
+                }
+            ],
+            "source": {
+                "name": "Vernon",
+                "slug": "vernon"
+            },
+            "source_identifier": "173",
+            "production_places": [
+                {
+                    "id": 2,
+                    "name": "United States",
+                    "slug": "united-states"
+                }
+            ],
+            "production_dates": [
+                {
+                    "date": "1990",
+                    "notes": "",
+                    "to_year": "1990"
+                }
+            ],
+            "labels": [
+                47470
+            ]
+        },
+        {
+            "id": 109652,
+            "acmi_id": "10088",
+            "title": "Digital Diaries for Memory Grid Pods. Tape 2",
+            "title_annotation": "",
+            "slug": "digital-diaries-for-memory-grid-pods-tape-2",
+            "creator_credit": "ACMI",
+            "credit_line": "",
+            "headline_credit": "VIC/Australia, 05 OCT 2004",
+            "thumbnail": null,
+            "record_type": "group",
+            "type": "Film",
+            "is_on_display": false,
+            "last_on_display_place": null,
+            "last_on_display_date": null,
+            "is_context_indigenous": false,
+            "material_description": "",
+            "unpublished": true,
+            "first_production_date": null,
+            "brief_description": "<p>Eleven anonymous individual stories by young secondary school students produced in-house for Memory Grid Digital Diaries.<br />\nWorks produced from the digital diaires program collected at the discretion of the program coordiantors. all submissions are anonymous. The Digital Diary project asks a diverse range of young people to share a personal story as they connect memories by way of simple moving images. Participants in the workshops look at one &#8216;moment&#8217; in their lives and, concentrating on the simplicity and power of that one moment in time, they create a &#8216;lo-fi&#8217; video work that speaks to the mind and heart. The story is then burnt to a CD (or put onto VHS) for the participants to keep, and the monologues become part of a specially curated database which, with the participant&#8217;s permission, is later screened at the Australian Centre for the Moving Image at Federation Square.</p>",
+            "constellations_primary": [],
+            "constellations_other": [],
+            "recommendations": [],
+            "title_for_label": "<p>Digital Diaries for Memory Grid Pods. Tape 2</p>",
+            "creator_credit_for_label": "<p>ACMI</p>",
+            "headline_credit_for_label": "<p>VIC/Australia, 05 OCT 2004</p>",
+            "description": "<p>Eleven anonymous individual stories by young secondary school students produced in-house for Memory Grid Digital Diaries.<br />\nWorks produced from the digital diaires program collected at the discretion of the program coordiantors. all submissions are anonymous. The Digital Diary project asks a diverse range of young people to share a personal story as they connect memories by way of simple moving images. Participants in the workshops look at one &#8216;moment&#8217; in their lives and, concentrating on the simplicity and power of that one moment in time, they create a &#8216;lo-fi&#8217; video work that speaks to the mind and heart. The story is then burnt to a CD (or put onto VHS) for the participants to keep, and the monologues become part of a specially curated database which, with the participant&#8217;s permission, is later screened at the Australian Centre for the Moving Image at Federation Square.</p>",
+            "description_for_label": [
+                "<p>Eleven anonymous individual stories by young secondary school students produced in-house for Memory Grid Digital Diaries.<br />\nWorks produced from the digital diaires program collected at the discretion of the program coordiantors. all submissions are anonymous. The Digital Diary project asks a diverse range of young people to share a personal story as they connect memories by way of simple moving images. Participants in the workshops look at one &#8216;moment&#8217; in their lives and, concentrating on the simplicity and power of that one moment in time, they create a &#8216;lo-fi&#8217; video work that speaks to the mind and heart. The story is then burnt to a CD (or put onto VHS) for the participants to keep, and the monologues become part of a specially curated database which, with the participant&#8217;s permission, is later screened at the Australian Centre for the Moving Image at Federation Square.</p>"
+            ],
+            "credit_line_for_label": "",
+            "details": [
+                {
+                    "label": "Duration",
+                    "display_values": [
+                        "00:17:16:00"
+                    ]
+                },
+                {
+                    "label": "Audience classification",
+                    "display_values": [
+                        "Exempt"
+                    ]
+                },
+                {
+                    "label": "Subject categories",
+                    "display_values": [
+                        "Anthropology, Ethnology, Exploration & Travel&nbsp;→ Youth - Australia",
+                        "Biographical",
+                        "Biographical&nbsp;→ Video diary",
+                        "Digital Storytelling",
+                        "Economics, Philosophy, Politics, Religion & Sociology&nbsp;→ Reality",
+                        "Family, Gender Identity, Relationships & Sexuality&nbsp;→ Youth - Australia",
+                        "Food, Health, Lifestyle, Medicine, Psychology & Safety&nbsp;→ Memory",
+                        "Food, Health, Lifestyle, Medicine, Psychology & Safety&nbsp;→ Youth - Australia",
+                        "Short films",
+                        "Short films&nbsp;→ Short films - Australia"
+                    ]
+                },
+                {
+                    "label": "Sound/audio",
+                    "display_values": [
+                        "Sound"
+                    ]
+                },
+                {
+                    "label": "Colour",
+                    "display_values": [
+                        "Black and White"
+                    ]
+                }
+            ],
+            "stats": {
+                "tap_count": 0
+            },
+            "links": [],
+            "creators_primary": [
+                {
+                    "id": 1133466,
+                    "name": "ACMI",
+                    "creator_id": 6272,
+                    "role": "production company",
+                    "role_id": 941,
+                    "is_primary": true
+                }
+            ],
+            "creators_other": [],
+            "video_links": [],
+            "media_note": "Sorry, we don't have images or video for this item.",
+            "images": [],
+            "videos": [],
+            "holdings": [
+                {
+                    "name": "DVCAM; Master",
+                    "identifier": "",
+                    "description": ""
+                },
+                {
+                    "name": "Mini DV; Sub-master",
+                    "identifier": "",
+                    "description": ""
+                },
+                {
+                    "name": "VHS [PAL]; Reference - timecoded",
+                    "identifier": "",
+                    "description": ""
+                }
+            ],
+            "part_of": null,
+            "parts": [],
+            "part_siblings": [],
+            "group": null,
+            "group_works": [],
+            "group_siblings": [],
+            "source": {
+                "name": "Vernon",
+                "slug": "vernon"
+            },
+            "source_identifier": "10088",
+            "production_places": [
+                {
+                    "id": 40,
+                    "name": "VIC/Australia",
+                    "slug": "vicaustralia"
+                }
+            ],
+            "production_dates": [
+                {
+                    "date": "05 OCT 2004",
+                    "notes": "",
+                    "to_year": "05 OCT 2004"
+                }
+            ],
+            "labels": [
+                49145
+            ]
+        },
+        {
+            "id": 109311,
+            "acmi_id": "2906",
+            "title": "Talks: a Natimuk Primary School animation",
+            "title_annotation": "",
+            "slug": "talks-a-natimuk-primary-school-animation",
+            "creator_credit": "Dave Jones and Natimuk Primary School",
+            "credit_line": "",
+            "headline_credit": "VIC/Australia, 2003",
+            "thumbnail": null,
+            "record_type": "work",
+            "type": "Film",
+            "is_on_display": false,
+            "last_on_display_place": null,
+            "last_on_display_date": null,
+            "is_context_indigenous": false,
+            "material_description": "",
+            "unpublished": false,
+            "first_production_date": "2003-01-01T11:00:00+11:00",
+            "brief_description": "<p>A collaboration between students from Natimuk Primary School and animation artists Dave Jones funded as part of the Arts Victoria Artists in Schools program. Hand drawn crayon drawings are animated and Combined with recorded soundgrabs from the kids to make an engaging sequence of simple, colourful character studies!</p>",
+            "constellations_primary": [],
+            "constellations_other": [],
+            "recommendations": [],
+            "title_for_label": "<p>Talks: a Natimuk Primary School animation</p>",
+            "creator_credit_for_label": "<p>Dave Jones and Natimuk Primary School</p>",
+            "headline_credit_for_label": "<p>VIC/Australia, 2003</p>",
+            "description": "<p>A collaboration between students from Natimuk Primary School and animation artists Dave Jones funded as part of the Arts Victoria Artists in Schools program. Hand drawn crayon drawings are animated and Combined with recorded soundgrabs from the kids to make an engaging sequence of simple, colourful character studies!</p>",
+            "description_for_label": [
+                "<p>A collaboration between students from Natimuk Primary School and animation artists Dave Jones funded as part of the Arts Victoria Artists in Schools program. Hand drawn crayon drawings are animated and Combined with recorded soundgrabs from the kids to make an engaging sequence of simple, colourful character studies!</p>"
+            ],
+            "credit_line_for_label": "",
+            "details": [
+                {
+                    "label": "Duration",
+                    "display_values": [
+                        "00:04:30:00"
+                    ]
+                },
+                {
+                    "label": "Language",
+                    "display_values": [
+                        "English"
+                    ]
+                },
+                {
+                    "label": "Audience classification",
+                    "display_values": [
+                        "Exempt"
+                    ]
+                },
+                {
+                    "label": "Subject categories",
+                    "display_values": [
+                        "Amateur & Student Films",
+                        "Amateur & Student Films&nbsp;→ Student films - Australia",
+                        "Animation",
+                        "Animation&nbsp;→ Hand drawn"
+                    ]
+                },
+                {
+                    "label": "Sound/audio",
+                    "display_values": [
+                        "Sound"
+                    ]
+                },
+                {
+                    "label": "Colour",
+                    "display_values": [
+                        "Colour"
+                    ]
+                }
+            ],
+            "stats": {
+                "tap_count": 0
+            },
+            "links": [],
+            "creators_primary": [
+                {
+                    "id": 1133452,
+                    "name": "Dave Jones",
+                    "creator_id": 6789,
+                    "role": "creator",
+                    "role_id": 968,
+                    "is_primary": true
+                },
+                {
+                    "id": 1133451,
+                    "name": "Natimuk Primary School",
+                    "creator_id": 9327,
+                    "role": "creator",
+                    "role_id": 968,
+                    "is_primary": true
+                }
+            ],
+            "creators_other": [],
+            "video_links": [],
+            "media_note": "Sorry, we aren't able to make images or video for this item available to the public online.",
+            "images": [],
+            "videos": [],
+            "holdings": [
+                {
+                    "name": "Mini DV; Master",
+                    "identifier": "",
+                    "description": ""
+                },
+                {
+                    "name": "Mini DV; Sub-master",
+                    "identifier": "",
+                    "description": ""
+                },
+                {
+                    "name": "VHS [PAL]; Reference - timecoded",
+                    "identifier": "",
+                    "description": ""
+                },
+                {
+                    "name": "MOV file ProRes4444; Digital Preservation Master - overscan",
+                    "identifier": "",
+                    "description": ""
+                },
+                {
+                    "name": "MPEG-4 Digital File; ACMI Digital Access Copy - overscan",
+                    "identifier": "",
+                    "description": ""
+                }
+            ],
+            "part_of": null,
+            "parts": [],
+            "part_siblings": [],
+            "group": null,
+            "group_works": [],
+            "group_siblings": [],
+            "source": {
+                "name": "Vernon",
+                "slug": "vernon"
+            },
+            "source_identifier": "2906",
+            "production_places": [
+                {
+                    "id": 40,
+                    "name": "VIC/Australia",
+                    "slug": "vicaustralia"
+                }
+            ],
+            "production_dates": [
+                {
+                    "date": "2003",
+                    "notes": "",
+                    "to_year": "2003"
+                }
+            ],
+            "labels": [
+                48804
+            ]
+        },
+        {
+            "id": 114225,
+            "acmi_id": "2685",
+            "title": "The Kingpins showreel 2000-2002",
+            "title_annotation": "",
+            "slug": "the-kingpins-showreel-2000-2002",
+            "creator_credit": "Kingpins",
+            "credit_line": "",
+            "headline_credit": "Australia, 2000-2002",
+            "thumbnail": null,
+            "record_type": "group",
+            "type": "Film",
+            "is_on_display": false,
+            "last_on_display_place": null,
+            "last_on_display_date": null,
+            "is_context_indigenous": false,
+            "material_description": "",
+            "unpublished": true,
+            "first_production_date": null,
+            "brief_description": "<p>A young, Sydney-based drag-king outfit producing hilarious music videos parodying genres such as the &#8216;boy band&#8217;, and glam metal. Artists: Emma Price, Técha Noble, Katie Price and Angelica Mesiti. Compilation preview tape contains:<br />\n1. Men&#8217;s Club, 2001<br />\n2. Evil Dick, 2001<br />\n3. This is my Remix Baby, 2001<br />\n4. Pussy Whipped, 2000<br />\n5. Verses 2002.</p>",
+            "constellations_primary": [],
+            "constellations_other": [],
+            "recommendations": [],
+            "title_for_label": "<p>The Kingpins showreel 2000-2002</p>",
+            "creator_credit_for_label": "<p>Kingpins</p>",
+            "headline_credit_for_label": "<p>Australia, 2000-2002</p>",
+            "description": "<p>A young, Sydney-based drag-king outfit producing hilarious music videos parodying genres such as the &#8216;boy band&#8217;, and glam metal. Artists: Emma Price, Técha Noble, Katie Price and Angelica Mesiti. Compilation preview tape contains:<br />\n1. Men&#8217;s Club, 2001<br />\n2. Evil Dick, 2001<br />\n3. This is my Remix Baby, 2001<br />\n4. Pussy Whipped, 2000<br />\n5. Verses 2002.</p>",
+            "description_for_label": [
+                "<p>A young, Sydney-based drag-king outfit producing hilarious music videos parodying genres such as the &#8216;boy band&#8217;, and glam metal. Artists: Emma Price, Técha Noble, Katie Price and Angelica Mesiti. Compilation preview tape contains:<br />\n1. Men&#8217;s Club, 2001<br />\n2. Evil Dick, 2001<br />\n3. This is my Remix Baby, 2001<br />\n4. Pussy Whipped, 2000<br />\n5. Verses 2002.</p>"
+            ],
+            "credit_line_for_label": "",
+            "details": [
+                {
+                    "label": "Subject category",
+                    "display_values": [
+                        "Music & Performing Arts&nbsp;→ Music videos"
+                    ]
+                },
+                {
+                    "label": "Sound/audio",
+                    "display_values": [
+                        "Sound"
+                    ]
+                },
+                {
+                    "label": "Colour",
+                    "display_values": [
+                        "Colour"
+                    ]
+                }
+            ],
+            "stats": {
+                "tap_count": 0
+            },
+            "links": [],
+            "creators_primary": [
+                {
+                    "id": 1133448,
+                    "name": "Kingpins",
+                    "creator_id": 10775,
+                    "role": "creator",
+                    "role_id": 968,
+                    "is_primary": true
+                }
+            ],
+            "creators_other": [],
+            "video_links": [],
+            "media_note": "Sorry, we don't have images or video for this item.",
+            "images": [],
+            "videos": [],
+            "holdings": [],
+            "part_of": null,
+            "parts": [],
+            "part_siblings": [],
+            "group": null,
+            "group_works": [
+                {
+                    "id": 114224,
+                    "acmi_id": "12085",
+                    "title": "This is my remix baby",
+                    "title_annotation": "",
+                    "slug": "this-is-my-remix-baby",
+                    "creator_credit": "Kingpins",
+                    "credit_line": "",
+                    "headline_credit": "2001",
+                    "thumbnail": null,
+                    "record_type": "work",
+                    "type": "Film",
+                    "is_on_display": false,
+                    "last_on_display_place": null,
+                    "last_on_display_date": null,
+                    "is_context_indigenous": false,
+                    "material_description": "",
+                    "unpublished": true,
+                    "first_production_date": "2001-01-01T11:00:00+11:00"
+                },
+                {
+                    "id": 114226,
+                    "acmi_id": "12086",
+                    "title": "Verses",
+                    "title_annotation": "",
+                    "slug": "verses",
+                    "creator_credit": "Kingpins",
+                    "credit_line": "",
+                    "headline_credit": "2002",
+                    "thumbnail": null,
+                    "record_type": "work",
+                    "type": "Film",
+                    "is_on_display": false,
+                    "last_on_display_place": null,
+                    "last_on_display_date": null,
+                    "is_context_indigenous": false,
+                    "material_description": "",
+                    "unpublished": true,
+                    "first_production_date": "2002-01-01T11:00:00+11:00"
+                }
+            ],
+            "group_siblings": [],
+            "source": {
+                "name": "Vernon",
+                "slug": "vernon"
+            },
+            "source_identifier": "2685",
+            "production_places": [
+                {
+                    "id": 3,
+                    "name": "Australia",
+                    "slug": "australia"
+                }
+            ],
+            "production_dates": [
+                {
+                    "date": "2000-2002",
+                    "notes": "",
+                    "to_year": "2000-2002"
+                }
+            ],
+            "labels": [
+                53717
+            ]
+        },
+        {
+            "id": 114226,
+            "acmi_id": "12086",
+            "title": "Verses",
+            "title_annotation": "",
+            "slug": "verses",
+            "creator_credit": "Kingpins",
+            "credit_line": "",
+            "headline_credit": "2002",
+            "thumbnail": null,
+            "record_type": "work",
+            "type": "Film",
+            "is_on_display": false,
+            "last_on_display_place": null,
+            "last_on_display_date": null,
+            "is_context_indigenous": false,
+            "material_description": "",
+            "unpublished": true,
+            "first_production_date": "2002-01-01T11:00:00+11:00",
+            "brief_description": "",
+            "constellations_primary": [],
+            "constellations_other": [],
+            "recommendations": [],
+            "title_for_label": "<p>Verses</p>",
+            "creator_credit_for_label": "<p>Kingpins</p>",
+            "headline_credit_for_label": "<p>2002</p>",
+            "description": "",
+            "description_for_label": [],
+            "credit_line_for_label": "",
+            "details": [],
+            "stats": {
+                "tap_count": 0
+            },
+            "links": [],
+            "creators_primary": [
+                {
+                    "id": 1133447,
+                    "name": "Kingpins",
+                    "creator_id": 10775,
+                    "role": "creator",
+                    "role_id": 968,
+                    "is_primary": true
+                }
+            ],
+            "creators_other": [],
+            "video_links": [],
+            "media_note": "Sorry, we don't have images or video for this item.",
+            "images": [],
+            "videos": [],
+            "holdings": [],
+            "part_of": null,
+            "parts": [],
+            "part_siblings": [],
+            "group": {
+                "id": 114225,
+                "acmi_id": "2685",
+                "title": "The Kingpins showreel 2000-2002",
+                "title_annotation": "",
+                "slug": "the-kingpins-showreel-2000-2002",
+                "creator_credit": "Kingpins",
+                "credit_line": "",
+                "headline_credit": "Australia, 2000-2002",
+                "thumbnail": null,
+                "record_type": "group",
+                "type": "Film",
+                "is_on_display": false,
+                "last_on_display_place": null,
+                "last_on_display_date": null,
+                "is_context_indigenous": false,
+                "material_description": "",
+                "unpublished": true,
+                "first_production_date": null
+            },
+            "group_works": [],
+            "group_siblings": [
+                {
+                    "id": 114224,
+                    "acmi_id": "12085",
+                    "title": "This is my remix baby",
+                    "title_annotation": "",
+                    "slug": "this-is-my-remix-baby",
+                    "creator_credit": "Kingpins",
+                    "credit_line": "",
+                    "headline_credit": "2001",
+                    "thumbnail": null,
+                    "record_type": "work",
+                    "type": "Film",
+                    "is_on_display": false,
+                    "last_on_display_place": null,
+                    "last_on_display_date": null,
+                    "is_context_indigenous": false,
+                    "material_description": "",
+                    "unpublished": true,
+                    "first_production_date": "2001-01-01T11:00:00+11:00"
+                }
+            ],
+            "source": {
+                "name": "Vernon",
+                "slug": "vernon"
+            },
+            "source_identifier": "12086",
+            "production_places": [],
+            "production_dates": [
+                {
+                    "date": "2002",
+                    "notes": "",
+                    "to_year": "2002"
+                }
+            ],
+            "labels": [
+                53718
+            ]
+        },
+        {
+            "id": 114224,
+            "acmi_id": "12085",
+            "title": "This is my remix baby",
+            "title_annotation": "",
+            "slug": "this-is-my-remix-baby",
+            "creator_credit": "Kingpins",
+            "credit_line": "",
+            "headline_credit": "2001",
+            "thumbnail": null,
+            "record_type": "work",
+            "type": "Film",
+            "is_on_display": false,
+            "last_on_display_place": null,
+            "last_on_display_date": null,
+            "is_context_indigenous": false,
+            "material_description": "",
+            "unpublished": true,
+            "first_production_date": "2001-01-01T11:00:00+11:00",
+            "brief_description": "",
+            "constellations_primary": [],
+            "constellations_other": [],
+            "recommendations": [],
+            "title_for_label": "<p>This is my remix baby</p>",
+            "creator_credit_for_label": "<p>Kingpins</p>",
+            "headline_credit_for_label": "<p>2001</p>",
+            "description": "",
+            "description_for_label": [],
+            "credit_line_for_label": "",
+            "details": [],
+            "stats": {
+                "tap_count": 0
+            },
+            "links": [],
+            "creators_primary": [
+                {
+                    "id": 1133446,
+                    "name": "Kingpins",
+                    "creator_id": 10775,
+                    "role": "creator",
+                    "role_id": 968,
+                    "is_primary": true
+                }
+            ],
+            "creators_other": [],
+            "video_links": [],
+            "media_note": "Sorry, we don't have images or video for this item.",
+            "images": [],
+            "videos": [],
+            "holdings": [],
+            "part_of": null,
+            "parts": [],
+            "part_siblings": [],
+            "group": {
+                "id": 114225,
+                "acmi_id": "2685",
+                "title": "The Kingpins showreel 2000-2002",
+                "title_annotation": "",
+                "slug": "the-kingpins-showreel-2000-2002",
+                "creator_credit": "Kingpins",
+                "credit_line": "",
+                "headline_credit": "Australia, 2000-2002",
+                "thumbnail": null,
+                "record_type": "group",
+                "type": "Film",
+                "is_on_display": false,
+                "last_on_display_place": null,
+                "last_on_display_date": null,
+                "is_context_indigenous": false,
+                "material_description": "",
+                "unpublished": true,
+                "first_production_date": null
+            },
+            "group_works": [],
+            "group_siblings": [
+                {
+                    "id": 114226,
+                    "acmi_id": "12086",
+                    "title": "Verses",
+                    "title_annotation": "",
+                    "slug": "verses",
+                    "creator_credit": "Kingpins",
+                    "credit_line": "",
+                    "headline_credit": "2002",
+                    "thumbnail": null,
+                    "record_type": "work",
+                    "type": "Film",
+                    "is_on_display": false,
+                    "last_on_display_place": null,
+                    "last_on_display_date": null,
+                    "is_context_indigenous": false,
+                    "material_description": "",
+                    "unpublished": true,
+                    "first_production_date": "2002-01-01T11:00:00+11:00"
+                }
+            ],
+            "source": {
+                "name": "Vernon",
+                "slug": "vernon"
+            },
+            "source_identifier": "12085",
+            "production_places": [],
+            "production_dates": [
+                {
+                    "date": "2001",
+                    "notes": "",
+                    "to_year": "2001"
+                }
+            ],
+            "labels": [
+                53716
+            ]
+        },
+        {
+            "id": 114228,
+            "acmi_id": "2659",
+            "title": "Shaun Gladwell: excerpts from selected video works 2000-2002",
+            "title_annotation": "",
+            "slug": "shaun-gladwell-excerpts-from-selected-video-works-2000-2002",
+            "creator_credit": "Shaun Gladwell",
+            "credit_line": "",
+            "headline_credit": "Australia, 2000-2001",
+            "thumbnail": null,
+            "record_type": "group",
+            "type": "Digital art",
+            "is_on_display": false,
+            "last_on_display_place": null,
+            "last_on_display_date": null,
+            "is_context_indigenous": false,
+            "material_description": "",
+            "unpublished": true,
+            "first_production_date": null,
+            "brief_description": "<p>Gladwell describes his installations as &#8216;speculations on political and poetic aspects of transformation within urban politics.&#8217; (2004 Proposal)<br />\nFive Fragments:<br />\n1. Kickflipper: Fragments of a Ballet (2000-2001)<br />\n2. Sydney: A Guide to Recent Architecture )2000-2001)<br />\n3. Linework (2000-2001)<br />\n4. Cycles of Radical Will (Team Rivo) and (Hikaru) (2001)<br />\n5. Need for Speed (2000).</p>",
+            "constellations_primary": [],
+            "constellations_other": [],
+            "recommendations": [],
+            "title_for_label": "<p>Shaun Gladwell: excerpts from selected video works 2000-2002</p>",
+            "creator_credit_for_label": "<p>Shaun Gladwell</p>",
+            "headline_credit_for_label": "<p>Australia, 2000-2001</p>",
+            "description": "<p>Gladwell describes his installations as &#8216;speculations on political and poetic aspects of transformation within urban politics.&#8217; (2004 Proposal)<br />\nFive Fragments:<br />\n1. Kickflipper: Fragments of a Ballet (2000-2001)<br />\n2. Sydney: A Guide to Recent Architecture )2000-2001)<br />\n3. Linework (2000-2001)<br />\n4. Cycles of Radical Will (Team Rivo) and (Hikaru) (2001)<br />\n5. Need for Speed (2000).</p>",
+            "description_for_label": [
+                "<p>Gladwell describes his installations as &#8216;speculations on political and poetic aspects of transformation within urban politics.&#8217; (2004 Proposal)<br />\nFive Fragments:<br />\n1. Kickflipper: Fragments of a Ballet (2000-2001)<br />\n2. Sydney: A Guide to Recent Architecture )2000-2001)<br />\n3. Linework (2000-2001)<br />\n4. Cycles of Radical Will (Team Rivo) and (Hikaru) (2001)<br />\n5. Need for Speed (2000).</p>"
+            ],
+            "credit_line_for_label": "",
+            "details": [
+                {
+                    "label": "Duration",
+                    "display_values": [
+                        "00:11:41:00"
+                    ]
+                },
+                {
+                    "label": "Subject category",
+                    "display_values": [
+                        "Digital Art"
+                    ]
+                },
+                {
+                    "label": "Sound/audio",
+                    "display_values": [
+                        "Sound"
+                    ]
+                },
+                {
+                    "label": "Colour",
+                    "display_values": [
+                        "Colour"
+                    ]
+                }
+            ],
+            "stats": {
+                "tap_count": 0
+            },
+            "links": [],
+            "creators_primary": [
+                {
+                    "id": 1133421,
+                    "name": "Shaun Gladwell",
+                    "creator_id": 9260,
+                    "role": "creator",
+                    "role_id": 968,
+                    "is_primary": true
+                }
+            ],
+            "creators_other": [],
+            "video_links": [],
+            "media_note": "Sorry, we don't have images or video for this item.",
+            "images": [],
+            "videos": [],
+            "holdings": [],
+            "part_of": null,
+            "parts": [],
+            "part_siblings": [],
+            "group": null,
+            "group_works": [
+                {
+                    "id": 114227,
+                    "acmi_id": "12089",
+                    "title": "Kickflipper: fragments of a ballet [excerpt]",
+                    "title_annotation": "",
+                    "slug": "kickflipper-fragments-of-a-ballet-excerpt",
+                    "creator_credit": "Shaun Gladwell",
+                    "credit_line": "",
+                    "headline_credit": "Australia, 2000-2001",
+                    "thumbnail": null,
+                    "record_type": "work",
+                    "type": "Film",
+                    "is_on_display": false,
+                    "last_on_display_place": null,
+                    "last_on_display_date": null,
+                    "is_context_indigenous": false,
+                    "material_description": "",
+                    "unpublished": false,
+                    "first_production_date": null
+                }
+            ],
+            "group_siblings": [],
+            "source": {
+                "name": "Vernon",
+                "slug": "vernon"
+            },
+            "source_identifier": "2659",
+            "production_places": [
+                {
+                    "id": 3,
+                    "name": "Australia",
+                    "slug": "australia"
+                }
+            ],
+            "production_dates": [
+                {
+                    "date": "2000-2001",
+                    "notes": "compilation",
+                    "to_year": "2000-2001"
+                }
+            ],
+            "labels": [
+                53720
+            ]
+        },
+        {
+            "id": 114227,
+            "acmi_id": "12089",
+            "title": "Kickflipper: fragments of a ballet [excerpt]",
+            "title_annotation": "",
+            "slug": "kickflipper-fragments-of-a-ballet-excerpt",
+            "creator_credit": "Shaun Gladwell",
+            "credit_line": "",
+            "headline_credit": "Australia, 2000-2001",
+            "thumbnail": null,
+            "record_type": "work",
+            "type": "Film",
+            "is_on_display": false,
+            "last_on_display_place": null,
+            "last_on_display_date": null,
+            "is_context_indigenous": false,
+            "material_description": "",
+            "unpublished": false,
+            "first_production_date": null,
+            "brief_description": "",
+            "constellations_primary": [],
+            "constellations_other": [],
+            "recommendations": [],
+            "title_for_label": "<p>Kickflipper: fragments of a ballet [excerpt]</p>",
+            "creator_credit_for_label": "<p>Shaun Gladwell</p>",
+            "headline_credit_for_label": "<p>Australia, 2000-2001</p>",
+            "description": "",
+            "description_for_label": [],
+            "credit_line_for_label": "",
+            "details": [
+                {
+                    "label": "Duration",
+                    "display_values": [
+                        "00:03:41:00"
+                    ]
+                },
+                {
+                    "label": "Subject categories",
+                    "display_values": [
+                        "Crafts & Visual Arts&nbsp;→ Performance art",
+                        "Experimental",
+                        "Experimental&nbsp;→ Experimental films - Australia",
+                        "Hobbies, Recreation & Sport&nbsp;→ Skateboarding",
+                        "Performance",
+                        "Short films",
+                        "Short films&nbsp;→ Short films - Australia"
+                    ]
+                },
+                {
+                    "label": "Sound/audio",
+                    "display_values": [
+                        "Sound"
+                    ]
+                },
+                {
+                    "label": "Colour",
+                    "display_values": [
+                        "Colour"
+                    ]
+                }
+            ],
+            "stats": {
+                "tap_count": 0
+            },
+            "links": [],
+            "creators_primary": [
+                {
+                    "id": 1133420,
+                    "name": "Shaun Gladwell",
+                    "creator_id": 9260,
+                    "role": "creator",
+                    "role_id": 968,
+                    "is_primary": true
+                }
+            ],
+            "creators_other": [],
+            "video_links": [],
+            "media_note": "Sorry, we don't have images or video for this item.",
+            "images": [],
+            "videos": [],
+            "holdings": [
+                {
+                    "name": "VHS [PAL]; Preview Copy",
+                    "identifier": "",
+                    "description": ""
+                }
+            ],
+            "part_of": null,
+            "parts": [],
+            "part_siblings": [],
+            "group": {
+                "id": 114228,
+                "acmi_id": "2659",
+                "title": "Shaun Gladwell: excerpts from selected video works 2000-2002",
+                "title_annotation": "",
+                "slug": "shaun-gladwell-excerpts-from-selected-video-works-2000-2002",
+                "creator_credit": "Shaun Gladwell",
+                "credit_line": "",
+                "headline_credit": "Australia, 2000-2001",
+                "thumbnail": null,
+                "record_type": "group",
+                "type": "Digital art",
+                "is_on_display": false,
+                "last_on_display_place": null,
+                "last_on_display_date": null,
+                "is_context_indigenous": false,
+                "material_description": "",
+                "unpublished": true,
+                "first_production_date": null
+            },
+            "group_works": [],
+            "group_siblings": [],
+            "source": {
+                "name": "Vernon",
+                "slug": "vernon"
+            },
+            "source_identifier": "12089",
+            "production_places": [
+                {
+                    "id": 3,
+                    "name": "Australia",
+                    "slug": "australia"
+                }
+            ],
+            "production_dates": [
+                {
+                    "date": "2000-2001",
+                    "notes": "",
+                    "to_year": "2000-2001"
+                }
+            ],
+            "labels": [
+                53719
+            ]
+        },
+        {
+            "id": 109157,
+            "acmi_id": "2584",
+            "title": "Drawing on film",
+            "title_annotation": "",
+            "slug": "drawing-on-film",
+            "creator_credit": "Tarnagulla and Marong Primary Schools",
+            "credit_line": "",
+            "headline_credit": "Australia, 2002",
+            "thumbnail": null,
+            "record_type": "work",
+            "type": "Film",
+            "is_on_display": false,
+            "last_on_display_place": null,
+            "last_on_display_date": null,
+            "is_context_indigenous": false,
+            "material_description": "",
+            "unpublished": false,
+            "first_production_date": "2002-01-01T11:00:00+11:00",
+            "brief_description": "<p>Part of &#8216;Tales from two schools&#8217; 1004947</p>",
+            "constellations_primary": [],
+            "constellations_other": [],
+            "recommendations": [],
+            "title_for_label": "<p>Drawing on film</p>",
+            "creator_credit_for_label": "<p>Tarnagulla and Marong Primary Schools</p>",
+            "headline_credit_for_label": "<p>Australia, 2002</p>",
+            "description": "<p>Part of &#8216;Tales from two schools&#8217; 1004947</p>",
+            "description_for_label": [
+                "<p>Part of &#8216;Tales from two schools&#8217; 1004947</p>"
+            ],
+            "credit_line_for_label": "",
+            "details": [
+                {
+                    "label": "Duration",
+                    "display_values": [
+                        "00:05:50:00"
+                    ]
+                },
+                {
+                    "label": "Language",
+                    "display_values": [
+                        "No spoken word"
+                    ]
+                },
+                {
+                    "label": "Audience classification",
+                    "display_values": [
+                        "Exempt"
+                    ]
+                },
+                {
+                    "label": "Subject categories",
+                    "display_values": [
+                        "Amateur & Student Films",
+                        "Amateur & Student Films&nbsp;→ Student films - Australia",
+                        "Animation",
+                        "Experimental"
+                    ]
+                },
+                {
+                    "label": "Sound/audio",
+                    "display_values": [
+                        "Sound"
+                    ]
+                },
+                {
+                    "label": "Colour",
+                    "display_values": [
+                        "Colour"
+                    ]
+                }
+            ],
+            "stats": {
+                "tap_count": 0
+            },
+            "links": [],
+            "creators_primary": [
+                {
+                    "id": 1133419,
+                    "name": "Tarnagulla and Marong Primary Schools",
+                    "creator_id": 9202,
+                    "role": "creator",
+                    "role_id": 968,
+                    "is_primary": true
+                }
+            ],
+            "creators_other": [],
+            "video_links": [],
+            "media_note": "Sorry, we don't have images or video for this item.",
+            "images": [],
+            "videos": [],
+            "holdings": [
+                {
+                    "name": "MPEG-2 Digital File; Memory Grid Pod Full Encode",
+                    "identifier": "",
+                    "description": ""
+                },
+                {
+                    "name": "Digital Betacam; Master",
+                    "identifier": "",
+                    "description": ""
+                },
+                {
+                    "name": "Digital Betacam; Sub-master",
+                    "identifier": "",
+                    "description": ""
+                },
+                {
+                    "name": "VHS [PAL]; Reference - timecoded",
+                    "identifier": "",
+                    "description": ""
+                }
+            ],
+            "part_of": null,
+            "parts": [],
+            "part_siblings": [],
+            "group": {
+                "id": 109155,
+                "acmi_id": "2008",
+                "title": "Tales from two schools",
+                "title_annotation": "",
+                "slug": "tales-from-two-schools",
+                "creator_credit": "",
+                "credit_line": "",
+                "headline_credit": "Australia, 2002",
+                "thumbnail": null,
+                "record_type": "work",
+                "type": "Film",
+                "is_on_display": false,
+                "last_on_display_place": null,
+                "last_on_display_date": null,
+                "is_context_indigenous": false,
+                "material_description": "",
+                "unpublished": false,
+                "first_production_date": "2002-01-01T11:00:00+11:00"
+            },
+            "group_works": [],
+            "group_siblings": [
+                {
+                    "id": 109738,
+                    "acmi_id": "11693",
+                    "title": "[The Flying potato]",
+                    "title_annotation": "",
+                    "slug": "the-flying-potato",
+                    "creator_credit": "Tarnagulla and Marong Primary Schools and Paul Fletcher",
+                    "credit_line": "",
+                    "headline_credit": "Australia, 2002",
+                    "thumbnail": null,
+                    "record_type": "work",
+                    "type": "Film",
+                    "is_on_display": false,
+                    "last_on_display_place": null,
+                    "last_on_display_date": null,
+                    "is_context_indigenous": false,
+                    "material_description": "",
+                    "unpublished": false,
+                    "first_production_date": "2002-01-01T11:00:00+11:00"
+                },
+                {
+                    "id": 109156,
+                    "acmi_id": "2583",
+                    "title": "Loopin' loops",
+                    "title_annotation": "",
+                    "slug": "loopin-loops",
+                    "creator_credit": "Tarnagulla and Marong Primary Schools",
+                    "credit_line": "",
+                    "headline_credit": "Australia, 2002",
+                    "thumbnail": null,
+                    "record_type": "work",
+                    "type": "Film",
+                    "is_on_display": false,
+                    "last_on_display_place": null,
+                    "last_on_display_date": null,
+                    "is_context_indigenous": false,
+                    "material_description": "",
+                    "unpublished": false,
+                    "first_production_date": "2002-01-01T11:00:00+11:00"
+                },
+                {
+                    "id": 109154,
+                    "acmi_id": "2582",
+                    "title": "Marong's Monster Circus",
+                    "title_annotation": "",
+                    "slug": "marongs-monster-circus",
+                    "creator_credit": "Tarnagulla and Marong Primary Schools",
+                    "credit_line": "",
+                    "headline_credit": "Australia, 2002",
+                    "thumbnail": null,
+                    "record_type": "work",
+                    "type": "Film",
+                    "is_on_display": false,
+                    "last_on_display_place": null,
+                    "last_on_display_date": null,
+                    "is_context_indigenous": false,
+                    "material_description": "",
+                    "unpublished": false,
+                    "first_production_date": "2002-01-01T11:00:00+11:00"
+                }
+            ],
+            "source": {
+                "name": "Vernon",
+                "slug": "vernon"
+            },
+            "source_identifier": "2584",
+            "production_places": [
+                {
+                    "id": 3,
+                    "name": "Australia",
+                    "slug": "australia"
+                }
+            ],
+            "production_dates": [
+                {
+                    "date": "2002",
+                    "notes": "",
+                    "to_year": "2002"
+                }
+            ],
+            "labels": [
+                48650
+            ]
+        }
+    ]
+}

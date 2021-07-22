@@ -1,0 +1,161 @@
+{
+    "id": 100193,
+    "acmi_id": "179666",
+    "title": "Kookie Kamera",
+    "title_annotation": "",
+    "slug": "toy-camera",
+    "creator_credit": "Ideal Toys",
+    "credit_line": "<p>Courtesy Hazel Wolfgang Coventry-Burless</p>",
+    "headline_credit": "United States, 1968",
+    "thumbnail": null,
+    "record_type": "work",
+    "type": "Object",
+    "is_on_display": true,
+    "last_on_display_place": "ACMI: Gallery 1",
+    "last_on_display_date": "2031-02-16",
+    "is_context_indigenous": false,
+    "material_description": "Various",
+    "unpublished": false,
+    "first_production_date": "1968-01-01T10:00:00+10:00",
+    "brief_description": "",
+    "constellations_primary": [],
+    "constellations_other": [],
+    "recommendations": [],
+    "title_for_label": "<p>Kookie Kamera</p>",
+    "creator_credit_for_label": "<p>Ideal Toys</p>",
+    "headline_credit_for_label": "<p>United States, 1968</p>",
+    "description": "",
+    "description_for_label": [],
+    "credit_line_for_label": "<p>Courtesy Hazel Wolfgang Coventry-Burless</p>",
+    "details": [
+        {
+            "label": "Curatorial section",
+            "display_values": [
+                "The Story of the Moving Image&nbsp;→  Foyer&nbsp;→ Entry &nbsp;→ 02. Fed Sq Foyer Cabinets&nbsp;→ FSF Cabinet 1"
+            ]
+        },
+        {
+            "label": "Measurements",
+            "display_values": [
+                "510 x 220 x 230mm"
+            ]
+        },
+        {
+            "label": "Materials",
+            "display_values": [
+                "Various"
+            ]
+        }
+    ],
+    "stats": {
+        "tap_count": 0
+    },
+    "links": [],
+    "creators_primary": [
+        {
+            "id": 1134437,
+            "name": "Ideal Toys",
+            "creator_id": 84451,
+            "role": "manufacturer",
+            "role_id": 627,
+            "is_primary": true
+        }
+    ],
+    "creators_other": [],
+    "video_links": [],
+    "media_note": "Sorry, we don't have images or video for this item.",
+    "images": [],
+    "videos": [],
+    "holdings": [],
+    "part_of": null,
+    "parts": [],
+    "part_siblings": [],
+    "group": {
+        "id": 112011,
+        "acmi_id": "183493",
+        "title": "Camera Case",
+        "title_annotation": "",
+        "slug": "camera-case",
+        "creator_credit": "",
+        "credit_line": "<p>Edie Kurzer, Australia, 2020</p>",
+        "headline_credit": "",
+        "thumbnail": {
+            "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/183493_Cameras_FSF1.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=ElRSbEQJij9vgh5n7XivWoFZg3c%3D&Expires=1627009160",
+            "has_video": false
+        },
+        "record_type": "group",
+        "type": "Object",
+        "is_on_display": true,
+        "last_on_display_place": "ACMI: Gallery 1",
+        "last_on_display_date": "2031-02-16",
+        "is_context_indigenous": false,
+        "material_description": "",
+        "unpublished": false,
+        "first_production_date": null
+    },
+    "group_works": [],
+    "group_siblings": [
+        {
+            "id": 118204,
+            "acmi_id": "184352",
+            "title": "Handmade Blackmagic Design cardboard camera",
+            "title_annotation": "",
+            "slug": "handmade-blackmagic-design-cardboard-camera",
+            "creator_credit": "",
+            "credit_line": "<p>Courtesy Edie Kurzer</p>",
+            "headline_credit": "Australia, 2019",
+            "thumbnail": null,
+            "record_type": "work",
+            "type": "Object",
+            "is_on_display": true,
+            "last_on_display_place": "ACMI: Gallery 1",
+            "last_on_display_date": "2031-02-16",
+            "is_context_indigenous": false,
+            "material_description": "recycled materials including cardboard, foam, milk bottle, toilet paper roll, cork, cricket ball, tapes",
+            "unpublished": false,
+            "first_production_date": "2019-01-01T11:00:00+11:00"
+        },
+        {
+            "id": 118205,
+            "acmi_id": "184353",
+            "title": "Kodascope 8 camera",
+            "title_annotation": "",
+            "slug": "kodascope-8-camera",
+            "creator_credit": "Kodak",
+            "credit_line": "<p>Courtesy Edie Kurzer</p>",
+            "headline_credit": "United Kingdom, 1948",
+            "thumbnail": null,
+            "record_type": "work",
+            "type": "Object",
+            "is_on_display": true,
+            "last_on_display_place": "ACMI: Gallery 1",
+            "last_on_display_date": "2031-02-16",
+            "is_context_indigenous": false,
+            "material_description": "",
+            "unpublished": false,
+            "first_production_date": "1948-01-01T10:00:00+10:00"
+        }
+    ],
+    "source": {
+        "name": "Vernon",
+        "slug": "vernon"
+    },
+    "source_identifier": "179666",
+    "production_places": [
+        {
+            "id": 2,
+            "name": "United States",
+            "slug": "united-states"
+        }
+    ],
+    "production_dates": [
+        {
+            "date": "1968",
+            "notes": "",
+            "to_year": "1968"
+        }
+    ],
+    "labels": [
+        39689
+    ]
+}

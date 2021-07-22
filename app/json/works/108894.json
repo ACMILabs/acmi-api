@@ -1,0 +1,434 @@
+{
+    "id": 108894,
+    "acmi_id": "2189",
+    "title": "Billycarts",
+    "title_annotation": "",
+    "slug": "billycarts",
+    "creator_credit": "Athol Adams",
+    "credit_line": "",
+    "headline_credit": "Australia, 1958",
+    "thumbnail": {
+        "image_url": "https://xos-prod-media.s3.amazonaws.com/media/snapshot_1599_26s.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=mhswxhqJ%2FPRDhaDDpOn9AY8MDyQ%3D&Expires=1627009498",
+        "animated_image_url": "",
+        "has_video": true
+    },
+    "record_type": "work",
+    "type": "Film",
+    "is_on_display": false,
+    "last_on_display_place": "ACMI Collection iPads",
+    "last_on_display_date": "2019-04-22",
+    "is_context_indigenous": false,
+    "material_description": "",
+    "unpublished": false,
+    "first_production_date": "1958-01-01T10:00:00+10:00",
+    "brief_description": "<p>This evocative silent home movie footage shows kids playing in a billycart in the drive-way and on the street, and creates a strong nostalgia for long ago youth. Athol Adams footage is courtesy of Jenny and Owen Peake.</p>",
+    "constellations_primary": [],
+    "constellations_other": [],
+    "recommendations": [],
+    "title_for_label": "<p>Billycarts</p>",
+    "creator_credit_for_label": "<p>Athol Adams</p>",
+    "headline_credit_for_label": "<p>Australia, 1958</p>",
+    "description": "<p>This evocative silent home movie footage shows kids playing in a billycart in the drive-way and on the street, and creates a strong nostalgia for long ago youth. Athol Adams footage is courtesy of Jenny and Owen Peake.</p>",
+    "description_for_label": [
+        "<p>This evocative silent home movie footage shows kids playing in a billycart in the drive-way and on the street, and creates a strong nostalgia for long ago youth. Athol Adams footage is courtesy of Jenny and Owen Peake.</p>"
+    ],
+    "credit_line_for_label": "",
+    "details": [
+        {
+            "label": "Duration",
+            "display_values": [
+                "00:01:15:00"
+            ]
+        },
+        {
+            "label": "Audience classifications",
+            "display_values": [
+                "ACMI classified",
+                "Mediatheque - all ages (ACMI classified)"
+            ]
+        },
+        {
+            "label": "Subject categories",
+            "display_values": [
+                "Amateur & Student Films",
+                "Amateur & Student Films&nbsp;→ Amateur films",
+                "Anthropology, Ethnology, Exploration & Travel&nbsp;→ Victoria - Description and travel",
+                "Anthropology, Ethnology, Exploration & Travel&nbsp;→ Victoria - Social life and customs",
+                "Documentary",
+                "Documentary&nbsp;→ Documentary films - Australia",
+                "Family, Gender Identity, Relationships & Sexuality&nbsp;→ Children",
+                "Family, Gender Identity, Relationships & Sexuality&nbsp;→ Family",
+                "Food, Health, Lifestyle, Medicine, Psychology & Safety&nbsp;→ Memory",
+                "Short films",
+                "Short films&nbsp;→ Short films - Australia",
+                "Silent films"
+            ]
+        },
+        {
+            "label": "Sound/audio",
+            "display_values": [
+                "Silent"
+            ]
+        },
+        {
+            "label": "Colour",
+            "display_values": [
+                "Colour"
+            ]
+        }
+    ],
+    "stats": {
+        "tap_count": 0
+    },
+    "links": [],
+    "creators_primary": [
+        {
+            "id": 1133354,
+            "name": "Athol Adams",
+            "creator_id": 8872,
+            "role": "creator",
+            "role_id": 968,
+            "is_primary": true
+        }
+    ],
+    "creators_other": [],
+    "video_links": [
+        {
+            "id": 489,
+            "name": "ACMI External Digital Access Copy",
+            "uri": "https://youtu.be/cdUZEADnX3k"
+        }
+    ],
+    "media_note": null,
+    "images": [
+        {
+            "id": 11237,
+            "image_file": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/B1005351_Billycarts.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=hlhdNTMKeKAMHBKV2KpyLFmDcgE%3D&Expires=1627009498",
+            "image_file_thumbnail": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/B1005351_Billycarts.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=sGOv24L560XDNR1jT9DvRjUcxhc%3D&Expires=1627009498",
+            "image_file_xs": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/B1005351_Billycarts.jpg.480x480_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=BS5rNt%2Fkxl4gen8G7461Ynpyks8%3D&Expires=1627009498",
+            "image_file_s": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/B1005351_Billycarts.jpg.960x960_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=DBqJYucFJgPNnWIJppqOFDuzQ7E%3D&Expires=1627009498",
+            "image_file_m": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/B1005351_Billycarts.jpg.1920x1920_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=mNYnro%2BpLZ3DfxMCXB%2FQefE4S4E%3D&Expires=1627009498",
+            "image_file_l": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/B1005351_Billycarts.jpg.3840x3840_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=qpYj6dgm%2FQfUYpjPwvDgbGlrQuM%3D&Expires=1627009498",
+            "caption": "Billycarts (Athol Adams) still",
+            "credit_line": "",
+            "alt_text": "",
+            "width": 438,
+            "height": 327,
+            "access_level": "View anywhere"
+        }
+    ],
+    "videos": [
+        {
+            "id": 1599,
+            "title": "B1005351_Billycarts.mpg",
+            "resource": "https://xos-prod-media.s3.amazonaws.com/media/a_B1005351_Billycarts.mp4?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=%2FamZBDcxyUcntVouGt0meRIyNsM%3D&Expires=1627009498",
+            "web_resource": "https://xos-prod-media.s3.amazonaws.com/media/w_B1005351_Billycarts.mp4?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=u3eFcMwpl4XiaHLBfjw4y6Oj%2F5M%3D&Expires=1627009498",
+            "duration_secs": 78.192,
+            "subtitles": null,
+            "master_metadata": {
+                "title": "B1005351_Billycarts",
+                "width": 720,
+                "height": 576,
+                "checksum": "9ae709e0c48cdd05941d123e0a3e8ff5",
+                "filetype": "m",
+                "mime_type": "video/mpeg",
+                "vernon_id": "",
+                "audio_codec": "mp2",
+                "video_codec": "mpeg2video",
+                "duration_hms": "00:01:18:05",
+                "duration_secs": 78.192,
+                "audio_bit_rate": 384000,
+                "audio_channels": 2,
+                "video_bit_rate": 8000000,
+                "file_size_bytes": 84879938,
+                "overall_bit_rate": 8684258,
+                "video_frame_rate": 25.0,
+                "audio_sample_rate": 48000,
+                "creation_datetime": "2020-10-20 16:30:41.947396+11:00",
+                "audio_max_bit_rate": null,
+                "video_max_bit_rate": null
+            },
+            "access_metadata": {
+                "title": "B1005351_Billycarts",
+                "width": 720,
+                "height": 576,
+                "checksum": "ee2543510a2aea3e68ec7382da962835",
+                "filetype": "a",
+                "mime_type": "video/mp4",
+                "vernon_id": "",
+                "audio_codec": "aac",
+                "video_codec": "h264",
+                "duration_hms": "00:01:18:05",
+                "duration_secs": 78.214,
+                "audio_bit_rate": 128354,
+                "audio_channels": 2,
+                "video_bit_rate": 993015,
+                "file_size_bytes": 11018204,
+                "overall_bit_rate": 1126980,
+                "video_frame_rate": 25.0,
+                "audio_sample_rate": 48000,
+                "creation_datetime": "2020-10-27 19:41:41.699391+11:00",
+                "audio_max_bit_rate": 128354,
+                "video_max_bit_rate": null
+            },
+            "web_metadata": {
+                "title": "B1005351_Billycarts",
+                "width": 720,
+                "height": 576,
+                "checksum": "976e35d743c48c7e56d8ec4e5eea919b",
+                "filetype": "w",
+                "mime_type": "video/mp4",
+                "vernon_id": "",
+                "audio_codec": "aac",
+                "video_codec": "h264",
+                "duration_hms": "00:01:18:05",
+                "duration_secs": 78.214,
+                "audio_bit_rate": 128354,
+                "audio_channels": 2,
+                "video_bit_rate": 500145,
+                "file_size_bytes": 6200405,
+                "overall_bit_rate": 634198,
+                "video_frame_rate": 25.0,
+                "audio_sample_rate": 48000,
+                "creation_datetime": "2020-10-27 19:42:31.742716+11:00",
+                "audio_max_bit_rate": 128354,
+                "video_max_bit_rate": null
+            },
+            "access_level": "View anywhere",
+            "snapshot": "https://xos-prod-media.s3.amazonaws.com/media/snapshot_1599_26s.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=mhswxhqJ%2FPRDhaDDpOn9AY8MDyQ%3D&Expires=1627009498",
+            "animated_snapshot": ""
+        }
+    ],
+    "holdings": [
+        {
+            "name": "Digital Betacam; Master",
+            "identifier": "",
+            "description": ""
+        },
+        {
+            "name": "Digital Betacam; Sub-master",
+            "identifier": "",
+            "description": ""
+        },
+        {
+            "name": "VHS [PAL]; Reference - timecoded",
+            "identifier": "",
+            "description": ""
+        },
+        {
+            "name": "VHS [PAL]; Copy",
+            "identifier": "",
+            "description": ""
+        },
+        {
+            "name": "DVCAM; Master",
+            "identifier": "",
+            "description": ""
+        },
+        {
+            "name": "MPEG-2 Digital File; ACMI Digital Access Copy - presentation",
+            "identifier": "",
+            "description": ""
+        },
+        {
+            "name": "DVCAM; Sub-master",
+            "identifier": "",
+            "description": ""
+        },
+        {
+            "name": "MOV file H264; ACMI External Digital Access Copy",
+            "identifier": "",
+            "description": ""
+        }
+    ],
+    "part_of": null,
+    "parts": [],
+    "part_siblings": [],
+    "group": {
+        "id": 107319,
+        "acmi_id": "2190",
+        "title": "Memory Grid MAP Project and Collection submissions 2002",
+        "title_annotation": "",
+        "slug": "memory-grid-map-project-and-collection-submissions-2002",
+        "creator_credit": "ACMI",
+        "credit_line": "",
+        "headline_credit": "VIC/Australia, 2002",
+        "thumbnail": {
+            "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/B1005351_Billycarts.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=sGOv24L560XDNR1jT9DvRjUcxhc%3D&Expires=1627009498",
+            "has_video": false
+        },
+        "record_type": "group",
+        "type": "Film",
+        "is_on_display": false,
+        "last_on_display_place": null,
+        "last_on_display_date": null,
+        "is_context_indigenous": false,
+        "material_description": "",
+        "unpublished": false,
+        "first_production_date": "2002-01-01T11:00:00+11:00"
+    },
+    "group_works": [],
+    "group_siblings": [
+        {
+            "id": 108770,
+            "acmi_id": "1927",
+            "title": "Dandenong",
+            "title_annotation": "",
+            "slug": "dandenong",
+            "creator_credit": "",
+            "credit_line": "",
+            "headline_credit": "Australia, 1956-1958",
+            "thumbnail": {
+                "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/B1004709full.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=v%2FzzsLdkXBwS8re0ajuU7juBCKM%3D&Expires=1627009498",
+                "has_video": false
+            },
+            "record_type": "work",
+            "type": "Film",
+            "is_on_display": false,
+            "last_on_display_place": null,
+            "last_on_display_date": null,
+            "is_context_indigenous": false,
+            "material_description": "",
+            "unpublished": false,
+            "first_production_date": null
+        },
+        {
+            "id": 108893,
+            "acmi_id": "2188",
+            "title": "Henry Bolte speech at opening of relocated Dandenong Stock Market (1958)",
+            "title_annotation": "",
+            "slug": "henry-bolte-speech-at-opening-of-relocated-dandenong-stock-market-1958",
+            "creator_credit": "Athol Adams",
+            "credit_line": "",
+            "headline_credit": "Australia, 1958",
+            "thumbnail": null,
+            "record_type": "work",
+            "type": "Film",
+            "is_on_display": false,
+            "last_on_display_place": null,
+            "last_on_display_date": null,
+            "is_context_indigenous": false,
+            "material_description": "",
+            "unpublished": false,
+            "first_production_date": "1958-01-01T10:00:00+10:00"
+        },
+        {
+            "id": 108891,
+            "acmi_id": "2186",
+            "title": "Mallacoota fishing trip",
+            "title_annotation": "",
+            "slug": "mallacoota-fishing-trip",
+            "creator_credit": "Athol Adams",
+            "credit_line": "",
+            "headline_credit": "Australia, 1958",
+            "thumbnail": {
+                "image_url": "https://xos-prod-media.s3.amazonaws.com/media/snapshot_1875_50s.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=wwOlVMfcnKUXjq%2BaUnw%2BGG7tkfA%3D&Expires=1627009498",
+                "animated_image_url": "",
+                "has_video": true
+            },
+            "record_type": "work",
+            "type": "Film",
+            "is_on_display": false,
+            "last_on_display_place": "ACMI Collection iPads",
+            "last_on_display_date": "2019-04-22",
+            "is_context_indigenous": false,
+            "material_description": "",
+            "unpublished": false,
+            "first_production_date": "1958-01-01T10:00:00+10:00"
+        },
+        {
+            "id": 108892,
+            "acmi_id": "2187",
+            "title": "Maroondah Dam",
+            "title_annotation": "",
+            "slug": "maroondah-dam",
+            "creator_credit": "Athol Adams",
+            "credit_line": "",
+            "headline_credit": "Australia, 1958",
+            "thumbnail": {
+                "image_url": "https://xos-prod-media.s3.amazonaws.com/media/snapshot_1468_55s.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=cY8HGSvbQIvSn%2FsYRS6Vpoxu5FU%3D&Expires=1627009498",
+                "animated_image_url": "",
+                "has_video": true
+            },
+            "record_type": "work",
+            "type": "Film",
+            "is_on_display": false,
+            "last_on_display_place": "ACMI Viewing Booths",
+            "last_on_display_date": "2019-04-22",
+            "is_context_indigenous": false,
+            "material_description": "",
+            "unpublished": false,
+            "first_production_date": "1958-01-01T10:00:00+10:00"
+        },
+        {
+            "id": 108890,
+            "acmi_id": "2185",
+            "title": "Melbourne city parade",
+            "title_annotation": "",
+            "slug": "melbourne-city-parade",
+            "creator_credit": "Athol Adams",
+            "credit_line": "",
+            "headline_credit": "Australia, 1958",
+            "thumbnail": {
+                "image_url": "https://xos-prod-media.s3.amazonaws.com/media/snapshot_1511_53s.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=k8j%2Fl0heC1rFyGrWiWuO3Ee0rcg%3D&Expires=1627009498",
+                "animated_image_url": "",
+                "has_video": true
+            },
+            "record_type": "work",
+            "type": "Film",
+            "is_on_display": false,
+            "last_on_display_place": "ACMI Viewing Booths",
+            "last_on_display_date": "2019-04-22",
+            "is_context_indigenous": false,
+            "material_description": "",
+            "unpublished": false,
+            "first_production_date": "1958-01-01T10:00:00+10:00"
+        },
+        {
+            "id": 108889,
+            "acmi_id": "2184",
+            "title": "The Queen Mother at Essendon Airport",
+            "title_annotation": "",
+            "slug": "the-queen-mother-at-essendon-airport",
+            "creator_credit": "",
+            "credit_line": "",
+            "headline_credit": "Australia, 1958",
+            "thumbnail": {
+                "image_url": "https://xos-prod-media.s3.amazonaws.com/media/snapshot_1876_52s.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=bQxqbnKcd8BcfE36zFUtBwzaJpA%3D&Expires=1627009498",
+                "animated_image_url": "",
+                "has_video": true
+            },
+            "record_type": "work",
+            "type": "Film",
+            "is_on_display": false,
+            "last_on_display_place": "ACMI Viewing Booths",
+            "last_on_display_date": "2019-04-22",
+            "is_context_indigenous": false,
+            "material_description": "",
+            "unpublished": false,
+            "first_production_date": "1958-01-01T10:00:00+10:00"
+        }
+    ],
+    "source": {
+        "name": "Vernon",
+        "slug": "vernon"
+    },
+    "source_identifier": "2189",
+    "production_places": [
+        {
+            "id": 3,
+            "name": "Australia",
+            "slug": "australia"
+        }
+    ],
+    "production_dates": [
+        {
+            "date": "1958",
+            "notes": "",
+            "to_year": "1958"
+        }
+    ],
+    "labels": [
+        48387
+    ]
+}

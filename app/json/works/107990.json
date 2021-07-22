@@ -1,0 +1,225 @@
+{
+    "id": 107990,
+    "acmi_id": "195",
+    "title": "Liebesfilm = Film of love",
+    "title_annotation": "",
+    "slug": "liebesfilm-film-of-love",
+    "creator_credit": "Peter Tscherkassky",
+    "credit_line": "",
+    "headline_credit": "Austria, 1982",
+    "thumbnail": null,
+    "record_type": "work",
+    "type": "Digital art",
+    "is_on_display": false,
+    "last_on_display_place": null,
+    "last_on_display_date": null,
+    "is_context_indigenous": false,
+    "material_description": "Single channel moving image, tinted, silent",
+    "unpublished": false,
+    "first_production_date": "1982-01-01T11:00:00+11:00",
+    "brief_description": "",
+    "constellations_primary": [],
+    "constellations_other": [],
+    "recommendations": [],
+    "title_for_label": "<p>Liebesfilm = Film of love</p>",
+    "creator_credit_for_label": "<p>Peter Tscherkassky</p>",
+    "headline_credit_for_label": "<p>Austria, 1982</p>",
+    "description": "",
+    "description_for_label": [],
+    "credit_line_for_label": "",
+    "details": [
+        {
+            "label": "Duration",
+            "display_values": [
+                "00:07:59:00"
+            ]
+        },
+        {
+            "label": "Subject categories",
+            "display_values": [
+                "Digital Art",
+                "Experimental",
+                "Short films",
+                "Short films&nbsp;→ Short films - Austria"
+            ]
+        },
+        {
+            "label": "Sound/audio",
+            "display_values": [
+                "Silent"
+            ]
+        },
+        {
+            "label": "Colour",
+            "display_values": [
+                "Tinted"
+            ]
+        },
+        {
+            "label": "Materials",
+            "display_values": [
+                "Single channel moving image, tinted, silent"
+            ]
+        }
+    ],
+    "stats": {
+        "tap_count": 0
+    },
+    "links": [],
+    "creators_primary": [
+        {
+            "id": 1133522,
+            "name": "Peter Tscherkassky",
+            "creator_id": 6510,
+            "role": "creator",
+            "role_id": 968,
+            "is_primary": true
+        }
+    ],
+    "creators_other": [],
+    "video_links": [],
+    "media_note": "Sorry, we don't have images or video for this item.",
+    "images": [],
+    "videos": [],
+    "holdings": [
+        {
+            "name": "DVD [PAL]; Copy",
+            "identifier": "",
+            "description": ""
+        },
+        {
+            "name": "Digital Betacam [PAL]; Master",
+            "identifier": "",
+            "description": ""
+        },
+        {
+            "name": "VHS [PAL]; Reference - timecoded",
+            "identifier": "",
+            "description": ""
+        },
+        {
+            "name": "Digital Betacam [PAL]; Sub-master",
+            "identifier": "",
+            "description": ""
+        },
+        {
+            "name": "VHS [PAL]; Preview Copy",
+            "identifier": "",
+            "description": ""
+        }
+    ],
+    "part_of": null,
+    "parts": [],
+    "part_siblings": [],
+    "group": {
+        "id": 107987,
+        "acmi_id": "10242",
+        "title": "Peter Tscherkassky films (Outerspace. L'Arrivee. Liebesfilm)",
+        "title_annotation": "",
+        "slug": "peter-tscherkassky-films-outerspace-larrivee-liebesfilm",
+        "creator_credit": "Peter Tscherkassky",
+        "credit_line": "",
+        "headline_credit": "Austria, 1981-1999",
+        "thumbnail": {
+            "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/B1000565_TheArrival.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=WExc40qYPUq2%2BIOCKiEyCXfgihg%3D&Expires=1627009468",
+            "has_video": false
+        },
+        "record_type": "group",
+        "type": "Digital art",
+        "is_on_display": false,
+        "last_on_display_place": null,
+        "last_on_display_date": null,
+        "is_context_indigenous": false,
+        "material_description": "",
+        "unpublished": true,
+        "first_production_date": null
+    },
+    "group_works": [],
+    "group_siblings": [
+        {
+            "id": 107988,
+            "acmi_id": "192",
+            "title": "[Musterrolle: a compilation of short films by Peter Tscherkassky]",
+            "title_annotation": "",
+            "slug": "musterrolle-a-compilation-of-short-films-by-peter-tscherkassky",
+            "creator_credit": "Peter Tscherkassky",
+            "credit_line": "",
+            "headline_credit": "Austria, 1981-1999",
+            "thumbnail": null,
+            "record_type": "group",
+            "type": "Film",
+            "is_on_display": false,
+            "last_on_display_place": null,
+            "last_on_display_date": null,
+            "is_context_indigenous": false,
+            "material_description": "",
+            "unpublished": false,
+            "first_production_date": null
+        },
+        {
+            "id": 113998,
+            "acmi_id": "194",
+            "title": "L'Arrivee = The Arrival",
+            "title_annotation": "",
+            "slug": "larrivee-the-arrival",
+            "creator_credit": "Peter Tscherkassky",
+            "credit_line": "",
+            "headline_credit": "Austria, 1997-1998",
+            "thumbnail": {
+                "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/B1000565_TheArrival.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=WExc40qYPUq2%2BIOCKiEyCXfgihg%3D&Expires=1627009468",
+                "has_video": false
+            },
+            "record_type": "work",
+            "type": "Digital art",
+            "is_on_display": false,
+            "last_on_display_place": "ACMI Viewing Booths",
+            "last_on_display_date": "2019-04-22",
+            "is_context_indigenous": false,
+            "material_description": "Single channel moving image, black and white and audio",
+            "unpublished": false,
+            "first_production_date": null
+        },
+        {
+            "id": 107986,
+            "acmi_id": "193",
+            "title": "Outer space",
+            "title_annotation": "",
+            "slug": "outer-space",
+            "creator_credit": "Peter Tscherkassky",
+            "credit_line": "",
+            "headline_credit": "Austria, 1999",
+            "thumbnail": null,
+            "record_type": "work",
+            "type": "Digital art",
+            "is_on_display": false,
+            "last_on_display_place": "ACMI Screen Lounge",
+            "last_on_display_date": "2004-12-31",
+            "is_context_indigenous": false,
+            "material_description": "Single channel moving image, black and white and audio",
+            "unpublished": false,
+            "first_production_date": "1999-01-01T11:00:00+11:00"
+        }
+    ],
+    "source": {
+        "name": "Vernon",
+        "slug": "vernon"
+    },
+    "source_identifier": "195",
+    "production_places": [
+        {
+            "id": 39,
+            "name": "Austria",
+            "slug": "austria"
+        }
+    ],
+    "production_dates": [
+        {
+            "date": "1982",
+            "notes": "",
+            "to_year": "1982"
+        }
+    ],
+    "labels": [
+        47483
+    ]
+}

@@ -1,0 +1,87 @@
+{
+    "id": 100039,
+    "acmi_id": "13260",
+    "title": "Pye black and white industrial camera",
+    "title_annotation": "",
+    "slug": "pye-black-and-white-industrial-camera",
+    "creator_credit": "",
+    "credit_line": "",
+    "headline_credit": "",
+    "thumbnail": {
+        "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/B2000401_TVWorldCollection_E000058_001.JPG.1200x1200_q85.JPG?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=x6ADeTPKn0Ek1CAAHX2I32irmpE%3D&Expires=1627009318",
+        "has_video": false
+    },
+    "record_type": "work",
+    "type": "Object",
+    "is_on_display": false,
+    "last_on_display_place": null,
+    "last_on_display_date": null,
+    "is_context_indigenous": false,
+    "material_description": "",
+    "unpublished": false,
+    "first_production_date": null,
+    "brief_description": "<p>Pye black and white industrial camera. Very early model, used to demonstrate TV in Australia in the early 1950s, complete with two lenses and ITE metal tripod. Model 2018.</p>",
+    "constellations_primary": [],
+    "constellations_other": [],
+    "recommendations": [],
+    "title_for_label": "<p>Pye black and white industrial camera</p>",
+    "creator_credit_for_label": "",
+    "headline_credit_for_label": "",
+    "description": "<p>Pye black and white industrial camera. Very early model, used to demonstrate TV in Australia in the early 1950s, complete with two lenses and ITE metal tripod. Model 2018.</p>",
+    "description_for_label": [
+        "<p>Pye black and white industrial camera. Very early model, used to demonstrate TV in Australia in the early 1950s, complete with two lenses and ITE metal tripod. Model 2018.</p>"
+    ],
+    "credit_line_for_label": "",
+    "details": [
+        {
+            "label": "Measurements",
+            "display_values": [
+                "31kg",
+                "145 x 107 x 107cm"
+            ]
+        }
+    ],
+    "stats": {
+        "tap_count": 0
+    },
+    "links": [],
+    "creators_primary": [],
+    "creators_other": [],
+    "video_links": [],
+    "media_note": null,
+    "images": [
+        {
+            "id": 14789,
+            "image_file": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/B2000401_TVWorldCollection_E000058_001.JPG?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=By%2Fn6acEWDPBQFL9sa8qfKUcEM0%3D&Expires=1627009318",
+            "image_file_thumbnail": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/B2000401_TVWorldCollection_E000058_001.JPG.1200x1200_q85.JPG?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=x6ADeTPKn0Ek1CAAHX2I32irmpE%3D&Expires=1627009318",
+            "image_file_xs": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/B2000401_TVWorldCollection_E000058_001.JPG.480x480_q85.JPG?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=KWRts7L8Xm%2FRVCpyLaayv2xD55c%3D&Expires=1627009318",
+            "image_file_s": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/B2000401_TVWorldCollection_E000058_001.JPG.960x960_q85.JPG?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=FF5j71pst2CDtA97%2FxKnlOiLI3M%3D&Expires=1627009318",
+            "image_file_m": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/B2000401_TVWorldCollection_E000058_001.JPG.1920x1920_q85.JPG?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=O5mMMK2EE9UsqGTWYtXfgHyRZ8g%3D&Expires=1627009318",
+            "image_file_l": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/B2000401_TVWorldCollection_E000058_001.JPG.3840x3840_q85.JPG?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=xQ2aqF%2FS3kI3jtb1LgUyiYw1u7M%3D&Expires=1627009318",
+            "caption": "E000058 - Image01",
+            "credit_line": "",
+            "alt_text": "",
+            "width": 1600,
+            "height": 1200,
+            "access_level": "View anywhere"
+        }
+    ],
+    "videos": [],
+    "holdings": [],
+    "part_of": null,
+    "parts": [],
+    "part_siblings": [],
+    "group": null,
+    "group_works": [],
+    "group_siblings": [],
+    "source": {
+        "name": "Vernon",
+        "slug": "vernon"
+    },
+    "source_identifier": "13260",
+    "production_places": [],
+    "production_dates": [],
+    "labels": [
+        39535
+    ]
+}

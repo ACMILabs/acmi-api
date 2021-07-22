@@ -1,0 +1,295 @@
+{
+    "id": 97259,
+    "acmi_id": "55482",
+    "title": "A Day at the Ascot Vale School No 2608",
+    "title_annotation": "",
+    "slug": "a-day-at-the-ascot-vale-school-no-2608",
+    "creator_credit": "",
+    "credit_line": "",
+    "headline_credit": "Australia, 1925",
+    "thumbnail": {
+        "image_url": "https://xos-prod-media.s3.amazonaws.com/media/snapshot_1879_111s.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=DbySuONnu%2BPnhOp%2F%2FfJB8cb2RXI%3D&Expires=1627009230",
+        "animated_image_url": "",
+        "has_video": true
+    },
+    "record_type": "work",
+    "type": "Film",
+    "is_on_display": false,
+    "last_on_display_place": "ACMI Viewing Booths",
+    "last_on_display_date": "2019-04-22",
+    "is_context_indigenous": false,
+    "material_description": "",
+    "unpublished": false,
+    "first_production_date": "1925-01-01T10:00:00+10:00",
+    "brief_description": "<p>Portrays the outdoor life at a school in the 1920s. Shows school dress, assembly, physical training, organised dancing and games. Junior Red Cross activities, Mothers Club and School Committee.</p>",
+    "constellations_primary": [],
+    "constellations_other": [],
+    "recommendations": [],
+    "title_for_label": "<p>A Day at the Ascot Vale School No 2608</p>",
+    "creator_credit_for_label": "",
+    "headline_credit_for_label": "<p>Australia, 1925</p>",
+    "description": "<p>Portrays the outdoor life at a school in the 1920s. Shows school dress, assembly, physical training, organised dancing and games. Junior Red Cross activities, Mothers Club and School Committee.</p>",
+    "description_for_label": [
+        "<p>Portrays the outdoor life at a school in the 1920s. Shows school dress, assembly, physical training, organised dancing and games. Junior Red Cross activities, Mothers Club and School Committee.</p>"
+    ],
+    "credit_line_for_label": "",
+    "details": [
+        {
+            "label": "Duration",
+            "display_values": [
+                "00:06:00:00"
+            ]
+        },
+        {
+            "label": "Languages",
+            "display_values": [
+                "English",
+                "No spoken word"
+            ]
+        },
+        {
+            "label": "Audience classification",
+            "display_values": [
+                "Mediatheque - all ages (ACMI classified)"
+            ]
+        },
+        {
+            "label": "Subject categories",
+            "display_values": [
+                "Education, Instruction, Teaching & Schools&nbsp;→ Education - History - Victoria",
+                "Education, Instruction, Teaching & Schools&nbsp;→ School environment",
+                "Education, Instruction, Teaching & Schools&nbsp;→ Schools - Victoria",
+                "Historical films",
+                "Short films",
+                "Short films&nbsp;→ Short films - Australia",
+                "Silent films"
+            ]
+        },
+        {
+            "label": "Sound/audio",
+            "display_values": [
+                "Silent"
+            ]
+        },
+        {
+            "label": "Colour",
+            "display_values": [
+                "Black and White"
+            ]
+        }
+    ],
+    "stats": {
+        "tap_count": 0
+    },
+    "links": [],
+    "creators_primary": [],
+    "creators_other": [],
+    "video_links": [
+        {
+            "id": 973,
+            "name": "ACMI External Digital Access Copy",
+            "uri": "https://youtu.be/JMn2R-8XOF8"
+        }
+    ],
+    "media_note": null,
+    "images": [
+        {
+            "id": 15673,
+            "image_file": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/505901_DayAtTheAscotValeSchool.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=RUeZAuhpAA3XPQkDyVffeQbfPf8%3D&Expires=1627009230",
+            "image_file_thumbnail": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/505901_DayAtTheAscotValeSchool.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=T%2Fle%2BSuJZ%2BLAiJUfePtJS%2B5DEpo%3D&Expires=1627009230",
+            "image_file_xs": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/505901_DayAtTheAscotValeSchool.jpg.480x480_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=wb8viC2rTyVwpPRL17R7LiZzp30%3D&Expires=1627009230",
+            "image_file_s": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/505901_DayAtTheAscotValeSchool.jpg.960x960_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=VJHN8wM45JU6fLZ%2BGT9qLwW2dhE%3D&Expires=1627009230",
+            "image_file_m": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/505901_DayAtTheAscotValeSchool.jpg.1920x1920_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=1G1RjGuS9mMJSkj12F4dRbU0Rrw%3D&Expires=1627009230",
+            "image_file_l": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/505901_DayAtTheAscotValeSchool.jpg.3840x3840_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=oVF%2Fz71urpl6Vf3urgfhAKc56%2FI%3D&Expires=1627009230",
+            "caption": "A Day at the Ascot Vale School No 2608 still",
+            "credit_line": "",
+            "alt_text": "",
+            "width": 438,
+            "height": 327,
+            "access_level": "View anywhere"
+        }
+    ],
+    "videos": [
+        {
+            "id": 1879,
+            "title": "505901_ap01_ADayAtTheAscotValeSchoolNo2608.mp4",
+            "resource": "https://xos-prod-media.s3.amazonaws.com/media/a_505901_ap01_ADayAtTheAscotValeSchoolNo2608.mp4?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=iS4BGfYueoM3VLECb4qjyTwheEM%3D&Expires=1627009230",
+            "web_resource": "https://xos-prod-media.s3.amazonaws.com/media/w_505901_ap01_ADayAtTheAscotValeSchoolNo2608.mp4?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=DWiZh3TGjub6HttmT%2BKazXMI0uU%3D&Expires=1627009230",
+            "duration_secs": 335.44,
+            "subtitles": null,
+            "master_metadata": {
+                "title": "505901_ap01_ADayAtTheAscotValeSchoolNo2608",
+                "width": 1920,
+                "height": 1080,
+                "checksum": "27a3679d33e6cdae1f6ad3b8abc8fdd0",
+                "filetype": "m",
+                "mime_type": "video/mp4",
+                "vernon_id": "",
+                "audio_codec": null,
+                "video_codec": "h264",
+                "duration_hms": "00:05:35:11",
+                "duration_secs": 335.44,
+                "audio_bit_rate": null,
+                "audio_channels": null,
+                "video_bit_rate": 9375166,
+                "file_size_bytes": 393195176,
+                "overall_bit_rate": 9377418,
+                "video_frame_rate": 25.0,
+                "audio_sample_rate": null,
+                "creation_datetime": "2020-10-20 16:30:41.463452+11:00",
+                "audio_max_bit_rate": null,
+                "video_max_bit_rate": null
+            },
+            "access_metadata": {
+                "title": "505901_ap01_ADayAtTheAscotValeSchoolNo2608",
+                "width": 1920,
+                "height": 1080,
+                "checksum": "63309c99ae0b39a9859b9b8447e7f884",
+                "filetype": "a",
+                "mime_type": "video/mp4",
+                "vernon_id": "",
+                "audio_codec": null,
+                "video_codec": "h264",
+                "duration_hms": "00:05:35:11",
+                "duration_secs": 335.44,
+                "audio_bit_rate": null,
+                "audio_channels": null,
+                "video_bit_rate": 7586806,
+                "file_size_bytes": 318212382,
+                "overall_bit_rate": 7589133,
+                "video_frame_rate": 25.0,
+                "audio_sample_rate": null,
+                "creation_datetime": "2020-11-02 19:43:40.059727+11:00",
+                "audio_max_bit_rate": null,
+                "video_max_bit_rate": null
+            },
+            "web_metadata": {
+                "title": "505901_ap01_ADayAtTheAscotValeSchoolNo2608",
+                "width": 1920,
+                "height": 1080,
+                "checksum": "ae1b7ff84de17d510a65cda649aab18f",
+                "filetype": "w",
+                "mime_type": "video/mp4",
+                "vernon_id": "",
+                "audio_codec": null,
+                "video_codec": "h264",
+                "duration_hms": "00:05:35:11",
+                "duration_secs": 335.44,
+                "audio_bit_rate": null,
+                "audio_channels": null,
+                "video_bit_rate": 3509921,
+                "file_size_bytes": 147266543,
+                "overall_bit_rate": 3512199,
+                "video_frame_rate": 25.0,
+                "audio_sample_rate": null,
+                "creation_datetime": "2020-11-02 20:04:31.700006+11:00",
+                "audio_max_bit_rate": null,
+                "video_max_bit_rate": null
+            },
+            "access_level": "View anywhere",
+            "snapshot": "https://xos-prod-media.s3.amazonaws.com/media/snapshot_1879_111s.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=DbySuONnu%2BPnhOp%2F%2FfJB8cb2RXI%3D&Expires=1627009230",
+            "animated_snapshot": ""
+        }
+    ],
+    "holdings": [
+        {
+            "name": "16mm film; Access Print (Section 1)",
+            "identifier": "",
+            "description": ""
+        },
+        {
+            "name": "MOV file ProRes4444; Digital Preservation Master - presentation",
+            "identifier": "",
+            "description": ""
+        },
+        {
+            "name": "MOV file H264; ACMI Digital Access Copy - presentation",
+            "identifier": "",
+            "description": ""
+        },
+        {
+            "name": "MPEG-4 Digital File; ACMI Digital Access Copy - presentation",
+            "identifier": "",
+            "description": ""
+        },
+        {
+            "name": "MOV file H264; ACMI External Digital Access Copy",
+            "identifier": "",
+            "description": ""
+        }
+    ],
+    "part_of": null,
+    "parts": [],
+    "part_siblings": [],
+    "group": {
+        "id": 117673,
+        "acmi_id": "163940",
+        "title": "Big Screen: Historic Melbourne",
+        "title_annotation": "",
+        "slug": "big-screen-historic-melbourne",
+        "creator_credit": "",
+        "credit_line": "",
+        "headline_credit": "",
+        "thumbnail": {
+            "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/312903_Melbourne.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=a62b%2FSpOtgy4kCpWAwZNz5ets%2Bk%3D&Expires=1627009230",
+            "has_video": false
+        },
+        "record_type": "group",
+        "type": "Film",
+        "is_on_display": false,
+        "last_on_display_place": null,
+        "last_on_display_date": null,
+        "is_context_indigenous": false,
+        "material_description": "",
+        "unpublished": true,
+        "first_production_date": null
+    },
+    "group_works": [],
+    "group_siblings": [
+        {
+            "id": 90006,
+            "acmi_id": "47193",
+            "title": "[Melbourne]",
+            "title_annotation": "",
+            "slug": "melbourne",
+            "creator_credit": "",
+            "credit_line": "",
+            "headline_credit": "Australia, 1935",
+            "thumbnail": {
+                "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/312903_Melbourne.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=a62b%2FSpOtgy4kCpWAwZNz5ets%2Bk%3D&Expires=1627009230",
+                "has_video": false
+            },
+            "record_type": "work",
+            "type": "Film",
+            "is_on_display": false,
+            "last_on_display_place": "ACMI Viewing Booths",
+            "last_on_display_date": "2019-04-22",
+            "is_context_indigenous": false,
+            "material_description": "",
+            "unpublished": false,
+            "first_production_date": "1935-01-01T10:00:00+10:00"
+        }
+    ],
+    "source": {
+        "name": "Vernon",
+        "slug": "vernon"
+    },
+    "source_identifier": "55482",
+    "production_places": [
+        {
+            "id": 3,
+            "name": "Australia",
+            "slug": "australia"
+        }
+    ],
+    "production_dates": [
+        {
+            "date": "1925",
+            "notes": "Estimated date",
+            "to_year": "1925"
+        }
+    ],
+    "labels": [
+        36754
+    ]
+}

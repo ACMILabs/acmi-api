@@ -1,0 +1,156 @@
+{
+    "id": 109021,
+    "acmi_id": "1878",
+    "title": "Digital Diaries for Memory Grid Pods. Tape 1",
+    "title_annotation": "",
+    "slug": "digital-diaries-for-memory-grid-pods-tape-1",
+    "creator_credit": "ACMI",
+    "credit_line": "",
+    "headline_credit": "VIC/Australia, 2001",
+    "thumbnail": null,
+    "record_type": "group",
+    "type": "Film",
+    "is_on_display": false,
+    "last_on_display_place": null,
+    "last_on_display_date": null,
+    "is_context_indigenous": false,
+    "material_description": "",
+    "unpublished": true,
+    "first_production_date": "2001-01-01T11:00:00+11:00",
+    "brief_description": "<p>Works produced from the digital diaires program collected at the discretion of the program coordiantors. all submissions are anonymous. The Digital Diary project asks a diverse range of young people to share a personal story as they connect memories by way of simple moving images. Participants in the workshops look at one &#8216;moment&#8217; in their lives and, concentrating on the simplicity and power of that one moment in time, they create a &#8216;lo-fi&#8217; video work that speaks to the mind and heart. The story is then burnt to a CD (or put onto VHS) for the participants to keep, and the monologues become part of a specially curated database which, with the participant&#8217;s permission, is later screened at the Australian Centre for the Moving Image at Federation Square.</p>",
+    "constellations_primary": [],
+    "constellations_other": [],
+    "recommendations": [],
+    "title_for_label": "<p>Digital Diaries for Memory Grid Pods. Tape 1</p>",
+    "creator_credit_for_label": "<p>ACMI</p>",
+    "headline_credit_for_label": "<p>VIC/Australia, 2001</p>",
+    "description": "<p>Works produced from the digital diaires program collected at the discretion of the program coordiantors. all submissions are anonymous. The Digital Diary project asks a diverse range of young people to share a personal story as they connect memories by way of simple moving images. Participants in the workshops look at one &#8216;moment&#8217; in their lives and, concentrating on the simplicity and power of that one moment in time, they create a &#8216;lo-fi&#8217; video work that speaks to the mind and heart. The story is then burnt to a CD (or put onto VHS) for the participants to keep, and the monologues become part of a specially curated database which, with the participant&#8217;s permission, is later screened at the Australian Centre for the Moving Image at Federation Square.</p>",
+    "description_for_label": [
+        "<p>Works produced from the digital diaires program collected at the discretion of the program coordiantors. all submissions are anonymous. The Digital Diary project asks a diverse range of young people to share a personal story as they connect memories by way of simple moving images. Participants in the workshops look at one &#8216;moment&#8217; in their lives and, concentrating on the simplicity and power of that one moment in time, they create a &#8216;lo-fi&#8217; video work that speaks to the mind and heart. The story is then burnt to a CD (or put onto VHS) for the participants to keep, and the monologues become part of a specially curated database which, with the participant&#8217;s permission, is later screened at the Australian Centre for the Moving Image at Federation Square.</p>"
+    ],
+    "credit_line_for_label": "",
+    "details": [
+        {
+            "label": "Duration",
+            "display_values": [
+                "00:21:30:00"
+            ]
+        },
+        {
+            "label": "Language",
+            "display_values": [
+                "English"
+            ]
+        },
+        {
+            "label": "Audience classification",
+            "display_values": [
+                "Exempt"
+            ]
+        },
+        {
+            "label": "Subject categories",
+            "display_values": [
+                "Amateur & Student Films",
+                "Amateur & Student Films&nbsp;→ Student films - Australia",
+                "Anthropology, Ethnology, Exploration & Travel&nbsp;→ Youth - Australia",
+                "Biographical",
+                "Biographical&nbsp;→ Video diary",
+                "Digital Storytelling"
+            ]
+        },
+        {
+            "label": "Sound/audio",
+            "display_values": [
+                "Sound"
+            ]
+        },
+        {
+            "label": "Colour",
+            "display_values": [
+                "Black and White"
+            ]
+        }
+    ],
+    "stats": {
+        "tap_count": 0
+    },
+    "links": [],
+    "creators_primary": [
+        {
+            "id": 1133309,
+            "name": "ACMI",
+            "creator_id": 6272,
+            "role": "production company",
+            "role_id": 941,
+            "is_primary": true
+        }
+    ],
+    "creators_other": [
+        {
+            "id": 1133308,
+            "name": "Vincent Trundle",
+            "creator_id": 73549,
+            "role": "project manager",
+            "role_id": 498,
+            "is_primary": false
+        },
+        {
+            "id": 1133307,
+            "name": "Vyvyan Stranieri",
+            "creator_id": 8112,
+            "role": "project manager",
+            "role_id": 498,
+            "is_primary": false
+        }
+    ],
+    "video_links": [],
+    "media_note": "Sorry, we aren't able to make images or video for this item available to the public online.",
+    "images": [],
+    "videos": [],
+    "holdings": [
+        {
+            "name": "DVCAM; Master",
+            "identifier": "",
+            "description": ""
+        },
+        {
+            "name": "MOV file ProRes4444; Digital Preservation Master - overscan",
+            "identifier": "",
+            "description": ""
+        },
+        {
+            "name": "MPEG-4 Digital File; ACMI Digital Access Copy - overscan",
+            "identifier": "",
+            "description": ""
+        }
+    ],
+    "part_of": null,
+    "parts": [],
+    "part_siblings": [],
+    "group": null,
+    "group_works": [],
+    "group_siblings": [],
+    "source": {
+        "name": "Vernon",
+        "slug": "vernon"
+    },
+    "source_identifier": "1878",
+    "production_places": [
+        {
+            "id": 40,
+            "name": "VIC/Australia",
+            "slug": "vicaustralia"
+        }
+    ],
+    "production_dates": [
+        {
+            "date": "2001",
+            "notes": "",
+            "to_year": "2001"
+        }
+    ],
+    "labels": [
+        48514
+    ]
+}

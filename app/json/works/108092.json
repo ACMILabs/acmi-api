@@ -1,0 +1,930 @@
+{
+    "id": 108092,
+    "acmi_id": "317",
+    "title": "Pharmaceutical girl",
+    "title_annotation": "",
+    "slug": "pharmaceutical-girl",
+    "creator_credit": "Jeremy Parker, David Atkinson and Dik Jarman",
+    "credit_line": "",
+    "headline_credit": "Australia, 1997",
+    "thumbnail": null,
+    "record_type": "work",
+    "type": "Film",
+    "is_on_display": false,
+    "last_on_display_place": null,
+    "last_on_display_date": null,
+    "is_context_indigenous": false,
+    "material_description": "",
+    "unpublished": false,
+    "first_production_date": "1997-01-01T11:00:00+11:00",
+    "brief_description": "<p>&#8216;Pharmaceutical girl&#8217; is not strictly a claymation. The creator Dik Jarman with Nick Pledge set about experimenting with an alternate type of puppet. Pledge created an internal armitage complete with moving joints and rising chest cavity, whilst Jarman designed and sculpted the puppet using an alternate latex type of skin to form the flesh of the puppet. A surreal animation that takes us on the journey of Sukei and her addiction. Dealt mostly with symbolism, the pricks of the rose replace the syringe. The set (of which Jarman won an award for) is both functional for the purpose of shooting scenes with moveable walls etc, but also represents Sukei&#8217;s mind as the greater part of the set makes up the internals of a clock. As she begins to hallucinate the clock-like set begins to grind to a halt and then into reverse, Sukei&#8217;s dream takes over. What initially begins as peaceful escape quickly turns into a nightmare. (The soundtrack is by Edwina Blush and Thierry Cotco Lovett).</p>",
+    "constellations_primary": [],
+    "constellations_other": [],
+    "recommendations": [],
+    "title_for_label": "<p>Pharmaceutical girl</p>",
+    "creator_credit_for_label": "<p>Jeremy Parker, David Atkinson and Dik Jarman</p>",
+    "headline_credit_for_label": "<p>Australia, 1997</p>",
+    "description": "<p>&#8216;Pharmaceutical girl&#8217; is not strictly a claymation. The creator Dik Jarman with Nick Pledge set about experimenting with an alternate type of puppet. Pledge created an internal armitage complete with moving joints and rising chest cavity, whilst Jarman designed and sculpted the puppet using an alternate latex type of skin to form the flesh of the puppet. A surreal animation that takes us on the journey of Sukei and her addiction. Dealt mostly with symbolism, the pricks of the rose replace the syringe. The set (of which Jarman won an award for) is both functional for the purpose of shooting scenes with moveable walls etc, but also represents Sukei&#8217;s mind as the greater part of the set makes up the internals of a clock. As she begins to hallucinate the clock-like set begins to grind to a halt and then into reverse, Sukei&#8217;s dream takes over. What initially begins as peaceful escape quickly turns into a nightmare. (The soundtrack is by Edwina Blush and Thierry Cotco Lovett).</p>",
+    "description_for_label": [
+        "<p>&#8216;Pharmaceutical girl&#8217; is not strictly a claymation. The creator Dik Jarman with Nick Pledge set about experimenting with an alternate type of puppet. Pledge created an internal armitage complete with moving joints and rising chest cavity, whilst Jarman designed and sculpted the puppet using an alternate latex type of skin to form the flesh of the puppet. A surreal animation that takes us on the journey of Sukei and her addiction. Dealt mostly with symbolism, the pricks of the rose replace the syringe. The set (of which Jarman won an award for) is both functional for the purpose of shooting scenes with moveable walls etc, but also represents Sukei&#8217;s mind as the greater part of the set makes up the internals of a clock. As she begins to hallucinate the clock-like set begins to grind to a halt and then into reverse, Sukei&#8217;s dream takes over. What initially begins as peaceful escape quickly turns into a nightmare. (The soundtrack is by Edwina Blush and Thierry Cotco Lovett).</p>"
+    ],
+    "credit_line_for_label": "",
+    "details": [
+        {
+            "label": "Duration",
+            "display_values": [
+                "00:06:36:00"
+            ]
+        },
+        {
+            "label": "Audience classification",
+            "display_values": [
+                "ACMI classified"
+            ]
+        },
+        {
+            "label": "Subject categories",
+            "display_values": [
+                "Amateur & Student Films",
+                "Amateur & Student Films&nbsp;→ Student films - Australia",
+                "Animation",
+                "Animation&nbsp;→ Animated films - Australia",
+                "Animation&nbsp;→ Computer animation",
+                "Crafts & Visual Arts&nbsp;→ Surrealism",
+                "Experimental",
+                "Food, Health, Lifestyle, Medicine, Psychology & Safety&nbsp;→ Dreams",
+                "Food, Health, Lifestyle, Medicine, Psychology & Safety&nbsp;→ Drugs",
+                "Short films",
+                "Short films&nbsp;→ Short films - Australia"
+            ]
+        },
+        {
+            "label": "Sound/audio",
+            "display_values": [
+                "Sound"
+            ]
+        },
+        {
+            "label": "Colour",
+            "display_values": [
+                "Colour"
+            ]
+        }
+    ],
+    "stats": {
+        "tap_count": 0
+    },
+    "links": [],
+    "creators_primary": [
+        {
+            "id": 1133063,
+            "name": "Jeremy Parker",
+            "creator_id": 6612,
+            "role": "producer",
+            "role_id": 960,
+            "is_primary": true
+        },
+        {
+            "id": 1133062,
+            "name": "David Atkinson",
+            "creator_id": 6531,
+            "role": "producer",
+            "role_id": 960,
+            "is_primary": true
+        },
+        {
+            "id": 1133049,
+            "name": "Dik Jarman",
+            "creator_id": 6595,
+            "role": "writer",
+            "role_id": 939,
+            "is_primary": true
+        },
+        {
+            "id": 1133048,
+            "name": "Dik Jarman",
+            "creator_id": 6595,
+            "role": "creator",
+            "role_id": 968,
+            "is_primary": true
+        }
+    ],
+    "creators_other": [
+        {
+            "id": 1133067,
+            "name": "Animation and Interactive Media (AIM) RMIT",
+            "creator_id": 6535,
+            "role": "production facilities",
+            "role_id": 442,
+            "is_primary": false
+        },
+        {
+            "id": 1133066,
+            "name": "Beci Orpin",
+            "creator_id": 73263,
+            "role": "costume & textile advice",
+            "role_id": 525,
+            "is_primary": false
+        },
+        {
+            "id": 1133065,
+            "name": "Vanessa Bleyer",
+            "creator_id": 73262,
+            "role": "choreograph actress",
+            "role_id": 524,
+            "is_primary": false
+        },
+        {
+            "id": 1133064,
+            "name": "Alyssa Rothwell",
+            "creator_id": 6611,
+            "role": "choreograph actress",
+            "role_id": 524,
+            "is_primary": false
+        },
+        {
+            "id": 1133061,
+            "name": "Kathryn Mew",
+            "creator_id": 6610,
+            "role": "titles",
+            "role_id": 508,
+            "is_primary": false
+        },
+        {
+            "id": 1133060,
+            "name": "David Cole",
+            "creator_id": 73261,
+            "role": "telecine transfer",
+            "role_id": 523,
+            "is_primary": false
+        },
+        {
+            "id": 1133059,
+            "name": "Dylan Ingleton",
+            "creator_id": 73260,
+            "role": "set builder",
+            "role_id": 522,
+            "is_primary": false
+        },
+        {
+            "id": 1133058,
+            "name": "Tal Brot",
+            "creator_id": 73259,
+            "role": "set builder",
+            "role_id": 522,
+            "is_primary": false
+        },
+        {
+            "id": 1133057,
+            "name": "Sharon Parker",
+            "creator_id": 6598,
+            "role": "set builder",
+            "role_id": 522,
+            "is_primary": false
+        },
+        {
+            "id": 1133056,
+            "name": "Sharon Parker",
+            "creator_id": 6598,
+            "role": "assistant",
+            "role_id": 450,
+            "is_primary": false
+        },
+        {
+            "id": 1133055,
+            "name": "Alastair MacInnes",
+            "creator_id": 6593,
+            "role": "assistant",
+            "role_id": 450,
+            "is_primary": false
+        },
+        {
+            "id": 1133054,
+            "name": "Alastair MacInnes",
+            "creator_id": 6593,
+            "role": "set builder",
+            "role_id": 522,
+            "is_primary": false
+        },
+        {
+            "id": 1133053,
+            "name": "Eron Sheehan",
+            "creator_id": 73258,
+            "role": "puppets",
+            "role_id": 511,
+            "is_primary": false
+        },
+        {
+            "id": 1133052,
+            "name": "Nick Pledge",
+            "creator_id": 73257,
+            "role": "puppets",
+            "role_id": 511,
+            "is_primary": false
+        },
+        {
+            "id": 1133051,
+            "name": "Dik Jarman",
+            "creator_id": 6595,
+            "role": "set & puppet design",
+            "role_id": 521,
+            "is_primary": false
+        },
+        {
+            "id": 1133050,
+            "name": "Dik Jarman",
+            "creator_id": 6595,
+            "role": "animator",
+            "role_id": 497,
+            "is_primary": false
+        }
+    ],
+    "video_links": [],
+    "media_note": "Sorry, we don't have images or video for this item.",
+    "images": [],
+    "videos": [],
+    "holdings": [
+        {
+            "name": "Digital Betacam [PAL]; Master",
+            "identifier": "",
+            "description": ""
+        },
+        {
+            "name": "Digital Betacam [PAL]; Sub-master",
+            "identifier": "",
+            "description": ""
+        },
+        {
+            "name": "VHS [PAL]; Reference - timecoded",
+            "identifier": "",
+            "description": ""
+        },
+        {
+            "name": "MPEG-4 Digital File; ACMI Digital Access Copy - overscan",
+            "identifier": "",
+            "description": ""
+        },
+        {
+            "name": "MOV file ProRes4444; Digital Preservation Master - overscan",
+            "identifier": "",
+            "description": ""
+        }
+    ],
+    "part_of": null,
+    "parts": [],
+    "part_siblings": [],
+    "group": {
+        "id": 108047,
+        "acmi_id": "144",
+        "title": "RMIT AIM Collection 1997",
+        "title_annotation": "",
+        "slug": "rmit-aim-collection-1997",
+        "creator_credit": "",
+        "credit_line": "",
+        "headline_credit": "Australia, 1997",
+        "thumbnail": {
+            "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AIM97sopraythewasmac.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=WGVZD0nd82fxt0n%2BqvgSy3rsKEE%3D&Expires=1627009551",
+            "has_video": false
+        },
+        "record_type": "group",
+        "type": "Film",
+        "is_on_display": false,
+        "last_on_display_place": null,
+        "last_on_display_date": null,
+        "is_context_indigenous": false,
+        "material_description": "",
+        "unpublished": false,
+        "first_production_date": "1997-01-01T11:00:00+11:00"
+    },
+    "group_works": [],
+    "group_siblings": [
+        {
+            "id": 108106,
+            "acmi_id": "329",
+            "title": "[Washing machine: Santa]",
+            "title_annotation": "",
+            "slug": "washing-machine-santa",
+            "creator_credit": "Sophie Raymond",
+            "credit_line": "",
+            "headline_credit": "Australia, 1997",
+            "thumbnail": {
+                "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AIM97sopraythewasmac.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=WGVZD0nd82fxt0n%2BqvgSy3rsKEE%3D&Expires=1627009551",
+                "has_video": false
+            },
+            "record_type": "work",
+            "type": "Film",
+            "is_on_display": false,
+            "last_on_display_place": null,
+            "last_on_display_date": null,
+            "is_context_indigenous": false,
+            "material_description": "",
+            "unpublished": false,
+            "first_production_date": "1997-01-01T11:00:00+11:00"
+        },
+        {
+            "id": 108074,
+            "acmi_id": "295",
+            "title": "An afternoon with...",
+            "title_annotation": "",
+            "slug": "an-afternoon-with",
+            "creator_credit": "Jeong Kyu Kim",
+            "credit_line": "",
+            "headline_credit": "Australia, 1997",
+            "thumbnail": {
+                "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AIM97KYURAYANAFTWIT001.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=AzhBQfmoHF5LGj6rv88Y7HZKLRg%3D&Expires=1627009551",
+                "has_video": false
+            },
+            "record_type": "work",
+            "type": "Film",
+            "is_on_display": false,
+            "last_on_display_place": null,
+            "last_on_display_date": null,
+            "is_context_indigenous": false,
+            "material_description": "",
+            "unpublished": false,
+            "first_production_date": "1997-01-01T11:00:00+11:00"
+        },
+        {
+            "id": 108088,
+            "acmi_id": "312",
+            "title": "Deeth treo",
+            "title_annotation": "",
+            "slug": "deeth-treo",
+            "creator_credit": "Gary McHarg and Dermot Egan",
+            "credit_line": "",
+            "headline_credit": "Australia, 1997",
+            "thumbnail": null,
+            "record_type": "work",
+            "type": "Film",
+            "is_on_display": false,
+            "last_on_display_place": null,
+            "last_on_display_date": null,
+            "is_context_indigenous": false,
+            "material_description": "",
+            "unpublished": false,
+            "first_production_date": "1997-01-01T11:00:00+11:00"
+        },
+        {
+            "id": 114015,
+            "acmi_id": "311",
+            "title": "Essence of Terror",
+            "title_annotation": "",
+            "slug": "essence-of-terror",
+            "creator_credit": "Sophie Raymond",
+            "credit_line": "",
+            "headline_credit": "Australia, 1998",
+            "thumbnail": {
+                "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/B1001601_EssenceOfTerror.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=mAu4UtWNDA7EFjrkacQCV%2BkNjPo%3D&Expires=1627009551",
+                "has_video": false
+            },
+            "record_type": "work",
+            "type": "Film",
+            "is_on_display": false,
+            "last_on_display_place": "ACMI Viewing Booths",
+            "last_on_display_date": "2019-04-22",
+            "is_context_indigenous": false,
+            "material_description": "",
+            "unpublished": false,
+            "first_production_date": "1998-01-01T11:00:00+11:00"
+        },
+        {
+            "id": 108090,
+            "acmi_id": "315",
+            "title": "Flare",
+            "title_annotation": "",
+            "slug": "flare",
+            "creator_credit": "Craig Brooks",
+            "credit_line": "",
+            "headline_credit": "Australia, 1997",
+            "thumbnail": null,
+            "record_type": "work",
+            "type": "Film",
+            "is_on_display": false,
+            "last_on_display_place": null,
+            "last_on_display_date": null,
+            "is_context_indigenous": false,
+            "material_description": "",
+            "unpublished": false,
+            "first_production_date": "1997-01-01T11:00:00+11:00"
+        },
+        {
+            "id": 108085,
+            "acmi_id": "309",
+            "title": "Gum",
+            "title_annotation": "",
+            "slug": "gum",
+            "creator_credit": "Jasmin De Wolf",
+            "credit_line": "",
+            "headline_credit": "Australia, 1997",
+            "thumbnail": {
+                "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AIM97dewolgum001.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=1rmXFM0LCtp7WvT%2FxrIFevJj1f0%3D&Expires=1627009551",
+                "has_video": false
+            },
+            "record_type": "work",
+            "type": "Film",
+            "is_on_display": false,
+            "last_on_display_place": null,
+            "last_on_display_date": null,
+            "is_context_indigenous": false,
+            "material_description": "",
+            "unpublished": false,
+            "first_production_date": "1997-01-01T11:00:00+11:00"
+        },
+        {
+            "id": 114016,
+            "acmi_id": "313",
+            "title": "La Maison des Cochons",
+            "title_annotation": "",
+            "slug": "la-maison-des-cochons",
+            "creator_credit": "David Harris",
+            "credit_line": "",
+            "headline_credit": "Australia, 1997",
+            "thumbnail": {
+                "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/B1001609_LaMasionDesCochons.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=cPb%2Fbn2nOCAGxq9MnQZpk5Ej6Ns%3D&Expires=1627009551",
+                "has_video": false
+            },
+            "record_type": "work",
+            "type": "Film",
+            "is_on_display": false,
+            "last_on_display_place": null,
+            "last_on_display_date": null,
+            "is_context_indigenous": false,
+            "material_description": "",
+            "unpublished": false,
+            "first_production_date": "1997-01-01T11:00:00+11:00"
+        },
+        {
+            "id": 108081,
+            "acmi_id": "305",
+            "title": "Maya",
+            "title_annotation": "",
+            "slug": "maya",
+            "creator_credit": "Siriwat Aratpear",
+            "credit_line": "",
+            "headline_credit": "Australia, 1997",
+            "thumbnail": {
+                "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AIM97siraramay001.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=4QOszp9Rkaoyga4PmVJAqKOk%2BiU%3D&Expires=1627009551",
+                "has_video": false
+            },
+            "record_type": "work",
+            "type": "Film",
+            "is_on_display": false,
+            "last_on_display_place": null,
+            "last_on_display_date": null,
+            "is_context_indigenous": false,
+            "material_description": "",
+            "unpublished": false,
+            "first_production_date": "1997-01-01T11:00:00+11:00"
+        },
+        {
+            "id": 108086,
+            "acmi_id": "310",
+            "title": "Metamorphosick",
+            "title_annotation": "",
+            "slug": "metamorphosick",
+            "creator_credit": "Csaba Szamosy",
+            "credit_line": "",
+            "headline_credit": "Australia, 1997",
+            "thumbnail": {
+                "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AIM97csaszamet001.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=pczzZizmy1GvM9mn%2BrrSxn1WYSM%3D&Expires=1627009551",
+                "has_video": false
+            },
+            "record_type": "work",
+            "type": "Film",
+            "is_on_display": false,
+            "last_on_display_place": null,
+            "last_on_display_date": null,
+            "is_context_indigenous": false,
+            "material_description": "",
+            "unpublished": false,
+            "first_production_date": "1997-01-01T11:00:00+11:00"
+        },
+        {
+            "id": 108059,
+            "acmi_id": "280",
+            "title": "Metamorphosis",
+            "title_annotation": "",
+            "slug": "metamorphosis",
+            "creator_credit": "Sophie Raymond",
+            "credit_line": "",
+            "headline_credit": "Australia, 1997",
+            "thumbnail": {
+                "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AIM97sopraymet001.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=S665JZdbkgWkH8NsVXHBWXN6NLs%3D&Expires=1627009551",
+                "has_video": false
+            },
+            "record_type": "work",
+            "type": "Film",
+            "is_on_display": false,
+            "last_on_display_place": null,
+            "last_on_display_date": null,
+            "is_context_indigenous": false,
+            "material_description": "",
+            "unpublished": false,
+            "first_production_date": "1997-01-01T11:00:00+11:00"
+        },
+        {
+            "id": 108060,
+            "acmi_id": "281",
+            "title": "Metamorphosis: DJ",
+            "title_annotation": "",
+            "slug": "metamorphosis-dj",
+            "creator_credit": "Diana Janicki",
+            "credit_line": "",
+            "headline_credit": "Australia, 1997",
+            "thumbnail": {
+                "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AIM97diajanmet001.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=ir91xQgMCORpexEWuox2AYKsKFQ%3D&Expires=1627009551",
+                "has_video": false
+            },
+            "record_type": "work",
+            "type": "Film",
+            "is_on_display": false,
+            "last_on_display_place": null,
+            "last_on_display_date": null,
+            "is_context_indigenous": false,
+            "material_description": "",
+            "unpublished": false,
+            "first_production_date": "1997-01-01T11:00:00+11:00"
+        },
+        {
+            "id": 108083,
+            "acmi_id": "307",
+            "title": "Metamorphosis: Joe",
+            "title_annotation": "",
+            "slug": "metamorphosis-joe",
+            "creator_credit": "Siriwat Aratpear",
+            "credit_line": "",
+            "headline_credit": "Australia, 1997",
+            "thumbnail": {
+                "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AIM97siraramet.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=wzo13962UpA%2BCyjMswZOp6viaI8%3D&Expires=1627009551",
+                "has_video": false
+            },
+            "record_type": "work",
+            "type": "Film",
+            "is_on_display": false,
+            "last_on_display_place": null,
+            "last_on_display_date": null,
+            "is_context_indigenous": false,
+            "material_description": "",
+            "unpublished": false,
+            "first_production_date": "1997-01-01T11:00:00+11:00"
+        },
+        {
+            "id": 108061,
+            "acmi_id": "282",
+            "title": "Nice day",
+            "title_annotation": "",
+            "slug": "nice-day",
+            "creator_credit": "Diana Janicki",
+            "credit_line": "",
+            "headline_credit": "Australia, 1997",
+            "thumbnail": {
+                "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AIM97diajannicday001.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=3fQoHgAVPkxUWUR53JwLfHfop3Y%3D&Expires=1627009551",
+                "has_video": false
+            },
+            "record_type": "work",
+            "type": "Film",
+            "is_on_display": false,
+            "last_on_display_place": null,
+            "last_on_display_date": null,
+            "is_context_indigenous": false,
+            "material_description": "",
+            "unpublished": false,
+            "first_production_date": "1997-01-01T11:00:00+11:00"
+        },
+        {
+            "id": 108056,
+            "acmi_id": "277",
+            "title": "Not the chosen one",
+            "title_annotation": "",
+            "slug": "not-the-chosen-one",
+            "creator_credit": "William Trumble and Yongki Liawinata",
+            "credit_line": "",
+            "headline_credit": "Australia, 1997",
+            "thumbnail": {
+                "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AIM97youlianotthecho001.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=lf0L4pgPvFnmrO32LGSUJ5bq5D0%3D&Expires=1627009551",
+                "has_video": false
+            },
+            "record_type": "work",
+            "type": "Film",
+            "is_on_display": false,
+            "last_on_display_place": null,
+            "last_on_display_date": null,
+            "is_context_indigenous": false,
+            "material_description": "",
+            "unpublished": false,
+            "first_production_date": "1997-01-01T11:00:00+11:00"
+        },
+        {
+            "id": 108093,
+            "acmi_id": "318",
+            "title": "Octikuki",
+            "title_annotation": "",
+            "slug": "octikuki",
+            "creator_credit": "Csaba Szamosy",
+            "credit_line": "",
+            "headline_credit": "Australia, 1997",
+            "thumbnail": null,
+            "record_type": "work",
+            "type": "Film",
+            "is_on_display": false,
+            "last_on_display_place": null,
+            "last_on_display_date": null,
+            "is_context_indigenous": false,
+            "material_description": "",
+            "unpublished": false,
+            "first_production_date": "1997-01-01T11:00:00+11:00"
+        },
+        {
+            "id": 108071,
+            "acmi_id": "292",
+            "title": "Talent nite",
+            "title_annotation": "",
+            "slug": "talent-nite",
+            "creator_credit": "Nicole McKinnon",
+            "credit_line": "",
+            "headline_credit": "Australia, 1997",
+            "thumbnail": {
+                "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AIM97MCKBROTALNITOO1.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=qz4axzx0kbjMbd%2BsrUkOAzGt1YM%3D&Expires=1627009551",
+                "has_video": false
+            },
+            "record_type": "work",
+            "type": "Film",
+            "is_on_display": false,
+            "last_on_display_place": null,
+            "last_on_display_date": null,
+            "is_context_indigenous": false,
+            "material_description": "",
+            "unpublished": false,
+            "first_production_date": "1997-01-01T11:00:00+11:00"
+        },
+        {
+            "id": 108079,
+            "acmi_id": "303",
+            "title": "The Albatross",
+            "title_annotation": "",
+            "slug": "the-albatross",
+            "creator_credit": "Wendy Tyrer",
+            "credit_line": "",
+            "headline_credit": "Australia, 1997",
+            "thumbnail": {
+                "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AIM97wentyralb001.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=Jh3aVmsYKB%2FfENbGEe%2FWmRbk%2FMU%3D&Expires=1627009551",
+                "has_video": false
+            },
+            "record_type": "work",
+            "type": "Film",
+            "is_on_display": false,
+            "last_on_display_place": null,
+            "last_on_display_date": null,
+            "is_context_indigenous": false,
+            "material_description": "",
+            "unpublished": false,
+            "first_production_date": "1997-01-01T11:00:00+11:00"
+        },
+        {
+            "id": 108054,
+            "acmi_id": "275",
+            "title": "The Great Australian cultural exchange programme",
+            "title_annotation": "",
+            "slug": "the-great-australian-cultural-exchange-programme",
+            "creator_credit": "Csaba Szamosy",
+            "credit_line": "",
+            "headline_credit": "Australia, 1997",
+            "thumbnail": {
+                "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AIM97csaszagreauscul001.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=EqjFmj%2Biw3x5PPw%2Fh6xkTaM7rf4%3D&Expires=1627009551",
+                "has_video": false
+            },
+            "record_type": "work",
+            "type": "Film",
+            "is_on_display": false,
+            "last_on_display_place": null,
+            "last_on_display_date": null,
+            "is_context_indigenous": false,
+            "material_description": "",
+            "unpublished": false,
+            "first_production_date": "1997-01-01T11:00:00+11:00"
+        },
+        {
+            "id": 108091,
+            "acmi_id": "316",
+            "title": "The Joker to the thief",
+            "title_annotation": "",
+            "slug": "the-joker-to-the-thief",
+            "creator_credit": "Dermot Egan",
+            "credit_line": "",
+            "headline_credit": "Australia, 1997",
+            "thumbnail": null,
+            "record_type": "work",
+            "type": "Film",
+            "is_on_display": false,
+            "last_on_display_place": null,
+            "last_on_display_date": null,
+            "is_context_indigenous": false,
+            "material_description": "",
+            "unpublished": false,
+            "first_production_date": "1997-01-01T11:00:00+11:00"
+        },
+        {
+            "id": 114017,
+            "acmi_id": "304",
+            "title": "The Pyre of Triune",
+            "title_annotation": "",
+            "slug": "the-pyre-of-triune",
+            "creator_credit": "Jasmin De Wolf",
+            "credit_line": "",
+            "headline_credit": "Australia, 1997",
+            "thumbnail": {
+                "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/B1001585_ThePyreOfTriune.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=aCMD0RVJKSdsifCbhB2CAweGq80%3D&Expires=1627009551",
+                "has_video": false
+            },
+            "record_type": "work",
+            "type": "Film",
+            "is_on_display": false,
+            "last_on_display_place": "ACMI Viewing Booths",
+            "last_on_display_date": "2019-04-22",
+            "is_context_indigenous": false,
+            "material_description": "",
+            "unpublished": false,
+            "first_production_date": "1997-01-01T11:00:00+11:00"
+        },
+        {
+            "id": 108107,
+            "acmi_id": "330",
+            "title": "The Washing machine",
+            "title_annotation": "",
+            "slug": "the-washing-machine",
+            "creator_credit": "Wendy Tyrer",
+            "credit_line": "",
+            "headline_credit": "Australia, 1997",
+            "thumbnail": {
+                "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AIM97wentyrwasmac001.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=3F69NYvXi7xiwmWD%2F9t1xFpTbtA%3D&Expires=1627009551",
+                "has_video": false
+            },
+            "record_type": "work",
+            "type": "Film",
+            "is_on_display": false,
+            "last_on_display_place": null,
+            "last_on_display_date": null,
+            "is_context_indigenous": false,
+            "material_description": "",
+            "unpublished": false,
+            "first_production_date": "1997-01-01T11:00:00+11:00"
+        },
+        {
+            "id": 108046,
+            "acmi_id": "268",
+            "title": "Thou shalt not...kill",
+            "title_annotation": "",
+            "slug": "thou-shalt-notkill",
+            "creator_credit": "Dik Jarman and Adrian Lim",
+            "credit_line": "",
+            "headline_credit": "Australia, 1997",
+            "thumbnail": {
+                "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AIM97limjarthoshanot001.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=wWku3WEJ1W71rt83UcxDkvF1FfI%3D&Expires=1627009551",
+                "has_video": false
+            },
+            "record_type": "work",
+            "type": "Film",
+            "is_on_display": false,
+            "last_on_display_place": null,
+            "last_on_display_date": null,
+            "is_context_indigenous": false,
+            "material_description": "",
+            "unpublished": false,
+            "first_production_date": "1997-01-01T11:00:00+11:00"
+        },
+        {
+            "id": 108062,
+            "acmi_id": "283",
+            "title": "Twinkle twinkle",
+            "title_annotation": "",
+            "slug": "twinkle-twinkle",
+            "creator_credit": "Nicole McKinnon",
+            "credit_line": "",
+            "headline_credit": "Australia, 1997",
+            "thumbnail": {
+                "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AIM97nicmcktwitwi001.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=kWLyvVjbJDX0Ly9fQMM6BE9u2UA%3D&Expires=1627009551",
+                "has_video": false
+            },
+            "record_type": "work",
+            "type": "Film",
+            "is_on_display": false,
+            "last_on_display_place": null,
+            "last_on_display_date": null,
+            "is_context_indigenous": false,
+            "material_description": "",
+            "unpublished": false,
+            "first_production_date": "1997-01-01T11:00:00+11:00"
+        },
+        {
+            "id": 108055,
+            "acmi_id": "276",
+            "title": "Washing machine [caveman]",
+            "title_annotation": "",
+            "slug": "washing-machine-caveman",
+            "creator_credit": "Jeong Kyu Kim",
+            "credit_line": "",
+            "headline_credit": "Australia, 1997",
+            "thumbnail": {
+                "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AIM97jeokyuwasmascav001.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=aAFXX7GiCSkA%2B9WRs%2B3UoBeULbU%3D&Expires=1627009551",
+                "has_video": false
+            },
+            "record_type": "work",
+            "type": "Film",
+            "is_on_display": false,
+            "last_on_display_place": null,
+            "last_on_display_date": null,
+            "is_context_indigenous": false,
+            "material_description": "",
+            "unpublished": false,
+            "first_production_date": "1997-01-01T11:00:00+11:00"
+        },
+        {
+            "id": 108075,
+            "acmi_id": "296",
+            "title": "Washing machine [the cat]",
+            "title_annotation": "",
+            "slug": "washing-machine-the-cat",
+            "creator_credit": "Dik Jarman",
+            "credit_line": "",
+            "headline_credit": "Australia, 1997",
+            "thumbnail": {
+                "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AIM97DIKJARWASMAC001.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=n%2BgWrzZpFOaHae%2FRENr%2BhDiLmAA%3D&Expires=1627009551",
+                "has_video": false
+            },
+            "record_type": "work",
+            "type": "Film",
+            "is_on_display": false,
+            "last_on_display_place": null,
+            "last_on_display_date": null,
+            "is_context_indigenous": false,
+            "material_description": "",
+            "unpublished": false,
+            "first_production_date": "1997-01-01T11:00:00+11:00"
+        },
+        {
+            "id": 108084,
+            "acmi_id": "308",
+            "title": "Washing machine circa 1522",
+            "title_annotation": "",
+            "slug": "washing-machine-circa-1522",
+            "creator_credit": "Craig Brooks",
+            "credit_line": "",
+            "headline_credit": "Australia, 1997",
+            "thumbnail": {
+                "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AIM97crabrowasmaccir152001.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=VpU%2FJtJ9H0cs8tHC262j6iBSIXo%3D&Expires=1627009551",
+                "has_video": false
+            },
+            "record_type": "work",
+            "type": "Film",
+            "is_on_display": false,
+            "last_on_display_place": null,
+            "last_on_display_date": null,
+            "is_context_indigenous": false,
+            "material_description": "",
+            "unpublished": false,
+            "first_production_date": "1997-01-01T11:00:00+11:00"
+        },
+        {
+            "id": 108082,
+            "acmi_id": "306",
+            "title": "World #37...previsited",
+            "title_annotation": "",
+            "slug": "world-37previsited",
+            "creator_credit": "Adrian Lim",
+            "credit_line": "",
+            "headline_credit": "Australia, 1997",
+            "thumbnail": null,
+            "record_type": "work",
+            "type": "Film",
+            "is_on_display": false,
+            "last_on_display_place": null,
+            "last_on_display_date": null,
+            "is_context_indigenous": false,
+            "material_description": "",
+            "unpublished": false,
+            "first_production_date": "1997-01-01T11:00:00+11:00"
+        }
+    ],
+    "source": {
+        "name": "Vernon",
+        "slug": "vernon"
+    },
+    "source_identifier": "317",
+    "production_places": [
+        {
+            "id": 3,
+            "name": "Australia",
+            "slug": "australia"
+        }
+    ],
+    "production_dates": [
+        {
+            "date": "1997",
+            "notes": "produced and copyrighted",
+            "to_year": "1997"
+        }
+    ],
+    "labels": [
+        47585
+    ]
+}

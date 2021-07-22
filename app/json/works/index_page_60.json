@@ -1,0 +1,1524 @@
+{
+    "count": 922,
+    "next": "https://api.acmi.net.au/works/?page=61",
+    "previous": "https://api.acmi.net.au/works/?page=59",
+    "results": [
+        {
+            "id": 109507,
+            "acmi_id": "10843",
+            "title": "Digital Diaries for Memory Grid Pods. Tape 3",
+            "title_annotation": "",
+            "slug": "digital-diaries-for-memory-grid-pods-tape-3",
+            "creator_credit": "ACMI",
+            "credit_line": "",
+            "headline_credit": "VIC/Australia, DEC 2004",
+            "thumbnail": null,
+            "record_type": "group",
+            "type": "Film",
+            "is_on_display": false,
+            "last_on_display_place": null,
+            "last_on_display_date": null,
+            "is_context_indigenous": false,
+            "material_description": "",
+            "unpublished": true,
+            "first_production_date": null,
+            "brief_description": "<p>Ten anonymous individual stories by young secondary school students produced in-house for Memory Grid Digital Diaries.<br />\nWorks produced from the digital diaires program collected at the discretion of the program coordiantors. all submissions are anonymous. The Digital Diary project asks a diverse range of young people to share a personal story as they connect memories by way of simple moving images. Participants in the workshops look at one &#8216;moment&#8217; in their lives and, concentrating on the simplicity and power of that one moment in time, they create a &#8216;lo-fi&#8217; video work that speaks to the mind and heart. The story is then burnt to a CD (or put onto VHS) for the participants to keep, and the monologues become part of a specially curated database which, with the participant&#8217;s permission, is later screened at the Australian Centre for the Moving Image at Federation Square.</p>",
+            "constellations_primary": [],
+            "constellations_other": [],
+            "recommendations": [],
+            "title_for_label": "<p>Digital Diaries for Memory Grid Pods. Tape 3</p>",
+            "creator_credit_for_label": "<p>ACMI</p>",
+            "headline_credit_for_label": "<p>VIC/Australia, DEC 2004</p>",
+            "description": "<p>Ten anonymous individual stories by young secondary school students produced in-house for Memory Grid Digital Diaries.<br />\nWorks produced from the digital diaires program collected at the discretion of the program coordiantors. all submissions are anonymous. The Digital Diary project asks a diverse range of young people to share a personal story as they connect memories by way of simple moving images. Participants in the workshops look at one &#8216;moment&#8217; in their lives and, concentrating on the simplicity and power of that one moment in time, they create a &#8216;lo-fi&#8217; video work that speaks to the mind and heart. The story is then burnt to a CD (or put onto VHS) for the participants to keep, and the monologues become part of a specially curated database which, with the participant&#8217;s permission, is later screened at the Australian Centre for the Moving Image at Federation Square.</p>",
+            "description_for_label": [
+                "<p>Ten anonymous individual stories by young secondary school students produced in-house for Memory Grid Digital Diaries.<br />\nWorks produced from the digital diaires program collected at the discretion of the program coordiantors. all submissions are anonymous. The Digital Diary project asks a diverse range of young people to share a personal story as they connect memories by way of simple moving images. Participants in the workshops look at one &#8216;moment&#8217; in their lives and, concentrating on the simplicity and power of that one moment in time, they create a &#8216;lo-fi&#8217; video work that speaks to the mind and heart. The story is then burnt to a CD (or put onto VHS) for the participants to keep, and the monologues become part of a specially curated database which, with the participant&#8217;s permission, is later screened at the Australian Centre for the Moving Image at Federation Square.</p>"
+            ],
+            "credit_line_for_label": "",
+            "details": [
+                {
+                    "label": "Audience classification",
+                    "display_values": [
+                        "Exempt"
+                    ]
+                },
+                {
+                    "label": "Subject categories",
+                    "display_values": [
+                        "Amateur & Student Films",
+                        "Amateur & Student Films&nbsp;→ Student films - Australia",
+                        "Anthropology, Ethnology, Exploration & Travel&nbsp;→ Youth - Australia",
+                        "Biographical",
+                        "Biographical&nbsp;→ Video diary",
+                        "Digital Storytelling"
+                    ]
+                },
+                {
+                    "label": "Sound/audio",
+                    "display_values": [
+                        "Sound"
+                    ]
+                }
+            ],
+            "stats": {
+                "tap_count": 0
+            },
+            "links": [],
+            "creators_primary": [
+                {
+                    "id": 1133837,
+                    "name": "ACMI",
+                    "creator_id": 6272,
+                    "role": "production company",
+                    "role_id": 941,
+                    "is_primary": true
+                }
+            ],
+            "creators_other": [],
+            "video_links": [],
+            "media_note": "Sorry, we don't have images or video for this item.",
+            "images": [],
+            "videos": [],
+            "holdings": [
+                {
+                    "name": "DVCAM; Master",
+                    "identifier": "",
+                    "description": ""
+                },
+                {
+                    "name": "Mini DV; Sub-master",
+                    "identifier": "",
+                    "description": ""
+                },
+                {
+                    "name": "VHS [PAL]; Reference - timecoded",
+                    "identifier": "",
+                    "description": ""
+                }
+            ],
+            "part_of": null,
+            "parts": [],
+            "part_siblings": [],
+            "group": null,
+            "group_works": [],
+            "group_siblings": [],
+            "source": {
+                "name": "Vernon",
+                "slug": "vernon"
+            },
+            "source_identifier": "10843",
+            "production_places": [
+                {
+                    "id": 40,
+                    "name": "VIC/Australia",
+                    "slug": "vicaustralia"
+                }
+            ],
+            "production_dates": [
+                {
+                    "date": "DEC 2004",
+                    "notes": "",
+                    "to_year": "DEC 2004"
+                }
+            ],
+            "labels": [
+                49000
+            ]
+        },
+        {
+            "id": 108270,
+            "acmi_id": "10690",
+            "title": "Space Odysseys: visualisation",
+            "title_annotation": "",
+            "slug": "space-odysseys-visualisation",
+            "creator_credit": "",
+            "credit_line": "",
+            "headline_credit": "",
+            "thumbnail": {
+                "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/victorial01.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=w7xkmSbKXZhKYcrQWhHO0FNSs%2Bw%3D&Expires=1627009356",
+                "has_video": false
+            },
+            "record_type": "group",
+            "type": "Film",
+            "is_on_display": false,
+            "last_on_display_place": null,
+            "last_on_display_date": null,
+            "is_context_indigenous": false,
+            "material_description": "",
+            "unpublished": true,
+            "first_production_date": null,
+            "brief_description": "",
+            "constellations_primary": [],
+            "constellations_other": [],
+            "recommendations": [],
+            "title_for_label": "<p>Space Odysseys: visualisation</p>",
+            "creator_credit_for_label": "",
+            "headline_credit_for_label": "",
+            "description": "",
+            "description_for_label": [],
+            "credit_line_for_label": "",
+            "details": [],
+            "stats": {
+                "tap_count": 0
+            },
+            "links": [],
+            "creators_primary": [],
+            "creators_other": [],
+            "video_links": [],
+            "media_note": null,
+            "images": [
+                {
+                    "id": 13709,
+                    "image_file": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/victorial01.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=mNv1w9jDzRRFcci6XCwXDRvHrK4%3D&Expires=1627009356",
+                    "image_file_thumbnail": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/victorial01.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=w7xkmSbKXZhKYcrQWhHO0FNSs%2Bw%3D&Expires=1627009356",
+                    "image_file_xs": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/victorial01.jpg.480x480_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=gRKwGFBAed6OOtTjs0IpQRrxZ7c%3D&Expires=1627009356",
+                    "image_file_s": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/victorial01.jpg.960x960_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=pk3lnl4y1UaAyUgG7oySmlxaf%2Bs%3D&Expires=1627009356",
+                    "image_file_m": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/victorial01.jpg.1920x1920_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=Q63eRH1wZvAYXIx%2BFgH2wjrAbzA%3D&Expires=1627009356",
+                    "image_file_l": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/victorial01.jpg.3840x3840_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=OP06W%2Be9vjugvi%2Bsd%2BDuH9phbq0%3D&Expires=1627009356",
+                    "caption": "Victoria Lynn inside 'The Visitor'",
+                    "credit_line": "",
+                    "alt_text": "",
+                    "width": 720,
+                    "height": 576,
+                    "access_level": "View anywhere"
+                },
+                {
+                    "id": 13710,
+                    "image_file": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/luc01.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=1gVEVJMfFy%2FRdhrQTVxWcaUtxgU%3D&Expires=1627009356",
+                    "image_file_thumbnail": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/luc01.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=gKVHPyo%2FN%2BuHjmF4oSbyefPHnDo%3D&Expires=1627009356",
+                    "image_file_xs": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/luc01.jpg.480x480_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=vBNA85pgUpv5xuY%2BMkg4UY9y6lI%3D&Expires=1627009356",
+                    "image_file_s": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/luc01.jpg.960x960_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=1y4%2FjBKOkat%2B3D5CBP7YQthR0EM%3D&Expires=1627009356",
+                    "image_file_m": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/luc01.jpg.1920x1920_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=NJfwS7nEST31haifLe%2BVDtDGK1c%3D&Expires=1627009356",
+                    "image_file_l": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/luc01.jpg.3840x3840_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=xp%2FWnVYmX0U3fTUhaDnuiYfLoxc%3D&Expires=1627009356",
+                    "caption": "Setting up 'The Visitor'",
+                    "credit_line": "",
+                    "alt_text": "",
+                    "width": 720,
+                    "height": 576,
+                    "access_level": "View anywhere"
+                },
+                {
+                    "id": 13708,
+                    "image_file": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/lynnetteandtony.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=FHBgdxvQxxZS5rAiN0qAxU%2FtFwk%3D&Expires=1627009356",
+                    "image_file_thumbnail": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/lynnetteandtony.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=3TCBg2549ApEsaMkj2Q0cpsIT0w%3D&Expires=1627009356",
+                    "image_file_xs": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/lynnetteandtony.jpg.480x480_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=0OBO%2FAr4qTYRqPAdYUkemwyYDVg%3D&Expires=1627009356",
+                    "image_file_s": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/lynnetteandtony.jpg.960x960_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=fFAp7Nw6UJV3PyH%2BDOUv5EeodCE%3D&Expires=1627009356",
+                    "image_file_m": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/lynnetteandtony.jpg.1920x1920_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=NnFOA3G4%2FHsA9qSnJ1xQKEO4AVo%3D&Expires=1627009356",
+                    "image_file_l": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/lynnetteandtony.jpg.3840x3840_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=UXGFBrHYjMMhEaYn8%2B0eyW1rpeg%3D&Expires=1627009356",
+                    "caption": "Experiencing \"Hold Vessel\"",
+                    "credit_line": "",
+                    "alt_text": "",
+                    "width": 720,
+                    "height": 576,
+                    "access_level": "View anywhere"
+                },
+                {
+                    "id": 13712,
+                    "image_file": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/emmalooksatnauman01.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=IHJIgA1Z3EVRj9XCgzhH4uWsfHA%3D&Expires=1627009356",
+                    "image_file_thumbnail": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/emmalooksatnauman01.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=QruZGOCzo8LwNeDIKn7f9vtHXlA%3D&Expires=1627009356",
+                    "image_file_xs": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/emmalooksatnauman01.jpg.480x480_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=jnmMQpIb4qnTukx5XlucaNr21eo%3D&Expires=1627009356",
+                    "image_file_s": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/emmalooksatnauman01.jpg.960x960_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=Nz1W2jrAPVVAKGWDzUQ%2B3Uwa25I%3D&Expires=1627009356",
+                    "image_file_m": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/emmalooksatnauman01.jpg.1920x1920_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=MoVnqfj61fvSTL7f3X%2FGvpdCkJI%3D&Expires=1627009356",
+                    "image_file_l": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/emmalooksatnauman01.jpg.3840x3840_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=qmhRDBeF3DW1gBgLMOhj3V1ckPQ%3D&Expires=1627009356",
+                    "caption": "The discomfort of Nauman's 'Triangle Room'",
+                    "credit_line": "",
+                    "alt_text": "",
+                    "width": 720,
+                    "height": 576,
+                    "access_level": "View anywhere"
+                },
+                {
+                    "id": 14744,
+                    "image_file": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/B1002020_DeepSpace_001.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=A83a2knFshiB9s0qHFHqcD8wI14%3D&Expires=1627009356",
+                    "image_file_thumbnail": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/B1002020_DeepSpace_001.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=Hrg5kN1Fa%2FMjO4AxJtFi7jTPqtw%3D&Expires=1627009356",
+                    "image_file_xs": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/B1002020_DeepSpace_001.jpg.480x480_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=ZUlRbE1sLVEErT2IDb%2Fy3H9hqoY%3D&Expires=1627009356",
+                    "image_file_s": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/B1002020_DeepSpace_001.jpg.960x960_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=7pm1Dgv3ds2%2Fbrxehos88ZxpoKU%3D&Expires=1627009356",
+                    "image_file_m": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/B1002020_DeepSpace_001.jpg.1920x1920_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=P4ZNHkJK8WkuAiNaCZWkhZXREbo%3D&Expires=1627009356",
+                    "image_file_l": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/B1002020_DeepSpace_001.jpg.3840x3840_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=2MirSnSHMY4TX1Ya0QkkCp0%2BAK4%3D&Expires=1627009356",
+                    "caption": "Deep space - Image 01",
+                    "credit_line": "",
+                    "alt_text": "",
+                    "width": 200,
+                    "height": 150,
+                    "access_level": "View anywhere"
+                }
+            ],
+            "videos": [],
+            "holdings": [
+                {
+                    "name": "VHS; Documentation",
+                    "identifier": "",
+                    "description": ""
+                },
+                {
+                    "name": "DVCAM; Master",
+                    "identifier": "",
+                    "description": ""
+                },
+                {
+                    "name": "VHS [PAL]; Documentation",
+                    "identifier": "",
+                    "description": ""
+                },
+                {
+                    "name": "Mini DV; Master",
+                    "identifier": "",
+                    "description": ""
+                }
+            ],
+            "part_of": null,
+            "parts": [],
+            "part_siblings": [],
+            "group": null,
+            "group_works": [
+                {
+                    "id": 108269,
+                    "acmi_id": "553",
+                    "title": "Deep Space: Sensation & Immersion [exhibition] : archival material",
+                    "title_annotation": "",
+                    "slug": "deep-space-sensation-immersion-exhibition-archival-material",
+                    "creator_credit": "",
+                    "credit_line": "",
+                    "headline_credit": "2002",
+                    "thumbnail": {
+                        "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/victorial01.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=w7xkmSbKXZhKYcrQWhHO0FNSs%2Bw%3D&Expires=1627009356",
+                        "has_video": false
+                    },
+                    "record_type": "work",
+                    "type": "Film",
+                    "is_on_display": false,
+                    "last_on_display_place": null,
+                    "last_on_display_date": null,
+                    "is_context_indigenous": false,
+                    "material_description": "",
+                    "unpublished": false,
+                    "first_production_date": "2002-01-01T11:00:00+11:00"
+                },
+                {
+                    "id": 108509,
+                    "acmi_id": "1275",
+                    "title": "Space Odysseys. Coast to Coast",
+                    "title_annotation": "",
+                    "slug": "space-odysseys-coast-to-coast",
+                    "creator_credit": "",
+                    "credit_line": "",
+                    "headline_credit": "",
+                    "thumbnail": null,
+                    "record_type": "work",
+                    "type": "Film",
+                    "is_on_display": false,
+                    "last_on_display_place": null,
+                    "last_on_display_date": null,
+                    "is_context_indigenous": false,
+                    "material_description": "",
+                    "unpublished": true,
+                    "first_production_date": null
+                }
+            ],
+            "group_siblings": [],
+            "source": {
+                "name": "Vernon",
+                "slug": "vernon"
+            },
+            "source_identifier": "10690",
+            "production_places": [],
+            "production_dates": [],
+            "labels": [
+                47763
+            ]
+        },
+        {
+            "id": 108509,
+            "acmi_id": "1275",
+            "title": "Space Odysseys. Coast to Coast",
+            "title_annotation": "",
+            "slug": "space-odysseys-coast-to-coast",
+            "creator_credit": "",
+            "credit_line": "",
+            "headline_credit": "",
+            "thumbnail": null,
+            "record_type": "work",
+            "type": "Film",
+            "is_on_display": false,
+            "last_on_display_place": null,
+            "last_on_display_date": null,
+            "is_context_indigenous": false,
+            "material_description": "",
+            "unpublished": true,
+            "first_production_date": null,
+            "brief_description": "",
+            "constellations_primary": [],
+            "constellations_other": [],
+            "recommendations": [],
+            "title_for_label": "<p>Space Odysseys. Coast to Coast</p>",
+            "creator_credit_for_label": "",
+            "headline_credit_for_label": "",
+            "description": "",
+            "description_for_label": [],
+            "credit_line_for_label": "",
+            "details": [],
+            "stats": {
+                "tap_count": 0
+            },
+            "links": [],
+            "creators_primary": [],
+            "creators_other": [],
+            "video_links": [],
+            "media_note": "Sorry, we don't have images or video for this item.",
+            "images": [],
+            "videos": [],
+            "holdings": [
+                {
+                    "name": "VHS [PAL]; Documentation",
+                    "identifier": "",
+                    "description": ""
+                }
+            ],
+            "part_of": null,
+            "parts": [],
+            "part_siblings": [],
+            "group": {
+                "id": 108270,
+                "acmi_id": "10690",
+                "title": "Space Odysseys: visualisation",
+                "title_annotation": "",
+                "slug": "space-odysseys-visualisation",
+                "creator_credit": "",
+                "credit_line": "",
+                "headline_credit": "",
+                "thumbnail": {
+                    "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/victorial01.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=w7xkmSbKXZhKYcrQWhHO0FNSs%2Bw%3D&Expires=1627009356",
+                    "has_video": false
+                },
+                "record_type": "group",
+                "type": "Film",
+                "is_on_display": false,
+                "last_on_display_place": null,
+                "last_on_display_date": null,
+                "is_context_indigenous": false,
+                "material_description": "",
+                "unpublished": true,
+                "first_production_date": null
+            },
+            "group_works": [],
+            "group_siblings": [
+                {
+                    "id": 108269,
+                    "acmi_id": "553",
+                    "title": "Deep Space: Sensation & Immersion [exhibition] : archival material",
+                    "title_annotation": "",
+                    "slug": "deep-space-sensation-immersion-exhibition-archival-material",
+                    "creator_credit": "",
+                    "credit_line": "",
+                    "headline_credit": "2002",
+                    "thumbnail": {
+                        "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/victorial01.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=w7xkmSbKXZhKYcrQWhHO0FNSs%2Bw%3D&Expires=1627009356",
+                        "has_video": false
+                    },
+                    "record_type": "work",
+                    "type": "Film",
+                    "is_on_display": false,
+                    "last_on_display_place": null,
+                    "last_on_display_date": null,
+                    "is_context_indigenous": false,
+                    "material_description": "",
+                    "unpublished": false,
+                    "first_production_date": "2002-01-01T11:00:00+11:00"
+                }
+            ],
+            "source": {
+                "name": "Vernon",
+                "slug": "vernon"
+            },
+            "source_identifier": "1275",
+            "production_places": [],
+            "production_dates": [],
+            "labels": [
+                48002
+            ]
+        },
+        {
+            "id": 108269,
+            "acmi_id": "553",
+            "title": "Deep Space: Sensation & Immersion [exhibition] : archival material",
+            "title_annotation": "",
+            "slug": "deep-space-sensation-immersion-exhibition-archival-material",
+            "creator_credit": "",
+            "credit_line": "",
+            "headline_credit": "2002",
+            "thumbnail": {
+                "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/victorial01.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=w7xkmSbKXZhKYcrQWhHO0FNSs%2Bw%3D&Expires=1627009356",
+                "has_video": false
+            },
+            "record_type": "work",
+            "type": "Film",
+            "is_on_display": false,
+            "last_on_display_place": null,
+            "last_on_display_date": null,
+            "is_context_indigenous": false,
+            "material_description": "",
+            "unpublished": false,
+            "first_production_date": "2002-01-01T11:00:00+11:00",
+            "brief_description": "<p>&#8220;Deep Space: Sensation &amp; Immersion&#8221; was an ACMI Screen Gallery Exhibition, held 26 October 2002 - 27 January 2003.<br />\nSee Exhibition activity record &#8220;Deep Space&#8221; (ID 3) for more information<br />\nThe international and Australian contemporary artists in this exibition present environments, or chambers, for the visitor to participate in an all encompassing aesthetic experience. The audience is invited to move within the art works, to explore their physical construction, their digital presence, their filmic pulse and their saturated expanses of colour and light. The experiences vary: some are quiet, some intangible, others humourous or uncanny. Each involves an ephemeral medium, whether it be light, video or digital imagery and each encloses the viewer in a confined space only to offer them access to another expanded sense of space altogether. This exhibition offers visitors a memorable and transformative experience of being immersed in &#8216;deep space&#8217;, the kineasthetic, visual, aural and informational totality of the art works.</p>",
+            "constellations_primary": [],
+            "constellations_other": [],
+            "recommendations": [],
+            "title_for_label": "<p>Deep Space: Sensation &amp; Immersion [exhibition] : archival material</p>",
+            "creator_credit_for_label": "",
+            "headline_credit_for_label": "<p>2002</p>",
+            "description": "<p>&#8220;Deep Space: Sensation &amp; Immersion&#8221; was an ACMI Screen Gallery Exhibition, held 26 October 2002 - 27 January 2003.<br />\nSee Exhibition activity record &#8220;Deep Space&#8221; (ID 3) for more information<br />\nThe international and Australian contemporary artists in this exibition present environments, or chambers, for the visitor to participate in an all encompassing aesthetic experience. The audience is invited to move within the art works, to explore their physical construction, their digital presence, their filmic pulse and their saturated expanses of colour and light. The experiences vary: some are quiet, some intangible, others humourous or uncanny. Each involves an ephemeral medium, whether it be light, video or digital imagery and each encloses the viewer in a confined space only to offer them access to another expanded sense of space altogether. This exhibition offers visitors a memorable and transformative experience of being immersed in &#8216;deep space&#8217;, the kineasthetic, visual, aural and informational totality of the art works.</p>",
+            "description_for_label": [
+                "<p>&#8220;Deep Space: Sensation &amp; Immersion&#8221; was an ACMI Screen Gallery Exhibition, held 26 October 2002 - 27 January 2003.<br />\nSee Exhibition activity record &#8220;Deep Space&#8221; (ID 3) for more information<br />\nThe international and Australian contemporary artists in this exibition present environments, or chambers, for the visitor to participate in an all encompassing aesthetic experience. The audience is invited to move within the art works, to explore their physical construction, their digital presence, their filmic pulse and their saturated expanses of colour and light. The experiences vary: some are quiet, some intangible, others humourous or uncanny. Each involves an ephemeral medium, whether it be light, video or digital imagery and each encloses the viewer in a confined space only to offer them access to another expanded sense of space altogether. This exhibition offers visitors a memorable and transformative experience of being immersed in &#8216;deep space&#8217;, the kineasthetic, visual, aural and informational totality of the art works.</p>"
+            ],
+            "credit_line_for_label": "",
+            "details": [
+                {
+                    "label": "Audience classification",
+                    "display_values": [
+                        "G"
+                    ]
+                }
+            ],
+            "stats": {
+                "tap_count": 0
+            },
+            "links": [],
+            "creators_primary": [],
+            "creators_other": [
+                {
+                    "id": 1133796,
+                    "name": "Victoria Lynn",
+                    "creator_id": 73357,
+                    "role": "curator",
+                    "role_id": 501,
+                    "is_primary": false
+                }
+            ],
+            "video_links": [],
+            "media_note": null,
+            "images": [
+                {
+                    "id": 13709,
+                    "image_file": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/victorial01.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=mNv1w9jDzRRFcci6XCwXDRvHrK4%3D&Expires=1627009356",
+                    "image_file_thumbnail": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/victorial01.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=w7xkmSbKXZhKYcrQWhHO0FNSs%2Bw%3D&Expires=1627009356",
+                    "image_file_xs": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/victorial01.jpg.480x480_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=gRKwGFBAed6OOtTjs0IpQRrxZ7c%3D&Expires=1627009356",
+                    "image_file_s": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/victorial01.jpg.960x960_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=pk3lnl4y1UaAyUgG7oySmlxaf%2Bs%3D&Expires=1627009356",
+                    "image_file_m": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/victorial01.jpg.1920x1920_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=Q63eRH1wZvAYXIx%2BFgH2wjrAbzA%3D&Expires=1627009356",
+                    "image_file_l": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/victorial01.jpg.3840x3840_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=OP06W%2Be9vjugvi%2Bsd%2BDuH9phbq0%3D&Expires=1627009356",
+                    "caption": "Victoria Lynn inside 'The Visitor'",
+                    "credit_line": "",
+                    "alt_text": "",
+                    "width": 720,
+                    "height": 576,
+                    "access_level": "View anywhere"
+                },
+                {
+                    "id": 13710,
+                    "image_file": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/luc01.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=1gVEVJMfFy%2FRdhrQTVxWcaUtxgU%3D&Expires=1627009356",
+                    "image_file_thumbnail": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/luc01.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=gKVHPyo%2FN%2BuHjmF4oSbyefPHnDo%3D&Expires=1627009356",
+                    "image_file_xs": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/luc01.jpg.480x480_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=vBNA85pgUpv5xuY%2BMkg4UY9y6lI%3D&Expires=1627009356",
+                    "image_file_s": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/luc01.jpg.960x960_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=1y4%2FjBKOkat%2B3D5CBP7YQthR0EM%3D&Expires=1627009356",
+                    "image_file_m": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/luc01.jpg.1920x1920_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=NJfwS7nEST31haifLe%2BVDtDGK1c%3D&Expires=1627009356",
+                    "image_file_l": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/luc01.jpg.3840x3840_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=xp%2FWnVYmX0U3fTUhaDnuiYfLoxc%3D&Expires=1627009356",
+                    "caption": "Setting up 'The Visitor'",
+                    "credit_line": "",
+                    "alt_text": "",
+                    "width": 720,
+                    "height": 576,
+                    "access_level": "View anywhere"
+                },
+                {
+                    "id": 13708,
+                    "image_file": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/lynnetteandtony.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=FHBgdxvQxxZS5rAiN0qAxU%2FtFwk%3D&Expires=1627009356",
+                    "image_file_thumbnail": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/lynnetteandtony.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=3TCBg2549ApEsaMkj2Q0cpsIT0w%3D&Expires=1627009356",
+                    "image_file_xs": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/lynnetteandtony.jpg.480x480_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=0OBO%2FAr4qTYRqPAdYUkemwyYDVg%3D&Expires=1627009356",
+                    "image_file_s": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/lynnetteandtony.jpg.960x960_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=fFAp7Nw6UJV3PyH%2BDOUv5EeodCE%3D&Expires=1627009356",
+                    "image_file_m": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/lynnetteandtony.jpg.1920x1920_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=NnFOA3G4%2FHsA9qSnJ1xQKEO4AVo%3D&Expires=1627009356",
+                    "image_file_l": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/lynnetteandtony.jpg.3840x3840_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=UXGFBrHYjMMhEaYn8%2B0eyW1rpeg%3D&Expires=1627009356",
+                    "caption": "Experiencing \"Hold Vessel\"",
+                    "credit_line": "",
+                    "alt_text": "",
+                    "width": 720,
+                    "height": 576,
+                    "access_level": "View anywhere"
+                },
+                {
+                    "id": 13712,
+                    "image_file": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/emmalooksatnauman01.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=IHJIgA1Z3EVRj9XCgzhH4uWsfHA%3D&Expires=1627009356",
+                    "image_file_thumbnail": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/emmalooksatnauman01.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=QruZGOCzo8LwNeDIKn7f9vtHXlA%3D&Expires=1627009356",
+                    "image_file_xs": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/emmalooksatnauman01.jpg.480x480_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=jnmMQpIb4qnTukx5XlucaNr21eo%3D&Expires=1627009356",
+                    "image_file_s": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/emmalooksatnauman01.jpg.960x960_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=Nz1W2jrAPVVAKGWDzUQ%2B3Uwa25I%3D&Expires=1627009356",
+                    "image_file_m": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/emmalooksatnauman01.jpg.1920x1920_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=MoVnqfj61fvSTL7f3X%2FGvpdCkJI%3D&Expires=1627009356",
+                    "image_file_l": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/emmalooksatnauman01.jpg.3840x3840_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=qmhRDBeF3DW1gBgLMOhj3V1ckPQ%3D&Expires=1627009356",
+                    "caption": "The discomfort of Nauman's 'Triangle Room'",
+                    "credit_line": "",
+                    "alt_text": "",
+                    "width": 720,
+                    "height": 576,
+                    "access_level": "View anywhere"
+                },
+                {
+                    "id": 14744,
+                    "image_file": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/B1002020_DeepSpace_001.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=A83a2knFshiB9s0qHFHqcD8wI14%3D&Expires=1627009356",
+                    "image_file_thumbnail": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/B1002020_DeepSpace_001.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=Hrg5kN1Fa%2FMjO4AxJtFi7jTPqtw%3D&Expires=1627009356",
+                    "image_file_xs": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/B1002020_DeepSpace_001.jpg.480x480_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=ZUlRbE1sLVEErT2IDb%2Fy3H9hqoY%3D&Expires=1627009356",
+                    "image_file_s": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/B1002020_DeepSpace_001.jpg.960x960_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=7pm1Dgv3ds2%2Fbrxehos88ZxpoKU%3D&Expires=1627009356",
+                    "image_file_m": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/B1002020_DeepSpace_001.jpg.1920x1920_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=P4ZNHkJK8WkuAiNaCZWkhZXREbo%3D&Expires=1627009356",
+                    "image_file_l": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/B1002020_DeepSpace_001.jpg.3840x3840_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=2MirSnSHMY4TX1Ya0QkkCp0%2BAK4%3D&Expires=1627009356",
+                    "caption": "Deep space - Image 01",
+                    "credit_line": "",
+                    "alt_text": "",
+                    "width": 200,
+                    "height": 150,
+                    "access_level": "View anywhere"
+                }
+            ],
+            "videos": [],
+            "holdings": [
+                {
+                    "name": "VHS; Documentation",
+                    "identifier": "",
+                    "description": ""
+                },
+                {
+                    "name": "Mini DV; Documentation",
+                    "identifier": "",
+                    "description": ""
+                },
+                {
+                    "name": "VHS [PAL]; Documentation",
+                    "identifier": "",
+                    "description": ""
+                },
+                {
+                    "name": "CD ROM; Documentation",
+                    "identifier": "",
+                    "description": ""
+                },
+                {
+                    "name": "VHS [PAL]; Preview Copy",
+                    "identifier": "",
+                    "description": ""
+                },
+                {
+                    "name": "35mm slide; Documentation",
+                    "identifier": "",
+                    "description": ""
+                }
+            ],
+            "part_of": null,
+            "parts": [],
+            "part_siblings": [],
+            "group": {
+                "id": 108270,
+                "acmi_id": "10690",
+                "title": "Space Odysseys: visualisation",
+                "title_annotation": "",
+                "slug": "space-odysseys-visualisation",
+                "creator_credit": "",
+                "credit_line": "",
+                "headline_credit": "",
+                "thumbnail": {
+                    "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/victorial01.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=w7xkmSbKXZhKYcrQWhHO0FNSs%2Bw%3D&Expires=1627009356",
+                    "has_video": false
+                },
+                "record_type": "group",
+                "type": "Film",
+                "is_on_display": false,
+                "last_on_display_place": null,
+                "last_on_display_date": null,
+                "is_context_indigenous": false,
+                "material_description": "",
+                "unpublished": true,
+                "first_production_date": null
+            },
+            "group_works": [],
+            "group_siblings": [
+                {
+                    "id": 108509,
+                    "acmi_id": "1275",
+                    "title": "Space Odysseys. Coast to Coast",
+                    "title_annotation": "",
+                    "slug": "space-odysseys-coast-to-coast",
+                    "creator_credit": "",
+                    "credit_line": "",
+                    "headline_credit": "",
+                    "thumbnail": null,
+                    "record_type": "work",
+                    "type": "Film",
+                    "is_on_display": false,
+                    "last_on_display_place": null,
+                    "last_on_display_date": null,
+                    "is_context_indigenous": false,
+                    "material_description": "",
+                    "unpublished": true,
+                    "first_production_date": null
+                }
+            ],
+            "source": {
+                "name": "Vernon",
+                "slug": "vernon"
+            },
+            "source_identifier": "553",
+            "production_places": [],
+            "production_dates": [
+                {
+                    "date": "2002",
+                    "notes": "",
+                    "to_year": "2002"
+                }
+            ],
+            "labels": [
+                47762
+            ]
+        },
+        {
+            "id": 108257,
+            "acmi_id": "518",
+            "title": "Hold: Vessel #1 and Vessel #2",
+            "title_annotation": "",
+            "slug": "hold-vessel-1-and-vessel-2",
+            "creator_credit": "Lynette Wallworth",
+            "credit_line": "",
+            "headline_credit": "Australia, 2001",
+            "thumbnail": {
+                "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/B1001976_HoldVessel_002.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=DSz5UDThVp6rgLJVZMO4j1Wnnvs%3D&Expires=1627009356",
+                "has_video": false
+            },
+            "record_type": "work",
+            "type": "Digital art",
+            "is_on_display": false,
+            "last_on_display_place": "ACMI Screen Gallery",
+            "last_on_display_date": "2005-07-17",
+            "is_context_indigenous": false,
+            "material_description": "video, projection, glass, colour and sound",
+            "unpublished": false,
+            "first_production_date": "2001-01-01T11:00:00+11:00",
+            "brief_description": "<p>Hold: Vessel 1 is a magical interactive experience in which visitors to the gallery try to catch a mesmerizing series of projected visions in a delicate glass bowl - echoing the wondrous views of the world made possible with the first microscopes, underwater cameras and astronomical cinematography.<br />\nLynette Wallworth began her career in photography, and has also worked in short film, installation and performance. She creates installation spaces that require activation by the participant/viewer. To collect the images used in Hold: Vessel 1 she collaborated with scientific image libraries and specialist cinematographers, as part of her ongoing investigation into imaging technologies that enable us to see the world in ways otherwise inaccessible to the naked human eye. Hold: Vessel 1 consists of video projections with directional sound scape beamed from above into a darkened space. The visitor is invited to take hold of a glass bowl and catch the images within it, finding the point at which the vision is most clear and resolved. A personal portal opens to us  as we cradle the bowl in our hands.   Imagery in &#8216;Hold&#8217; is derived mainly from Australian scientists and specialist cinematographers including: David Hannan, who has adapted medical imaging technology to film extreme macro images of the Great Barrier Reef, Anya Salih, who investigates coral fluorescence and Greg Rouse, Marine Biologist. The work is designed as a vessel to hold a changing pool of imagery. Hold: Vessel 1 will change in time as time changes the environments it reflects.</p>",
+            "constellations_primary": [],
+            "constellations_other": [],
+            "recommendations": [],
+            "title_for_label": "<p>Hold: Vessel #1 and Vessel #2</p>",
+            "creator_credit_for_label": "<p>Lynette Wallworth</p>",
+            "headline_credit_for_label": "<p>Australia, 2001</p>",
+            "description": "<p>Hold: Vessel 1 is a magical interactive experience in which visitors to the gallery try to catch a mesmerizing series of projected visions in a delicate glass bowl - echoing the wondrous views of the world made possible with the first microscopes, underwater cameras and astronomical cinematography.<br />\nLynette Wallworth began her career in photography, and has also worked in short film, installation and performance. She creates installation spaces that require activation by the participant/viewer. To collect the images used in Hold: Vessel 1 she collaborated with scientific image libraries and specialist cinematographers, as part of her ongoing investigation into imaging technologies that enable us to see the world in ways otherwise inaccessible to the naked human eye. Hold: Vessel 1 consists of video projections with directional sound scape beamed from above into a darkened space. The visitor is invited to take hold of a glass bowl and catch the images within it, finding the point at which the vision is most clear and resolved. A personal portal opens to us  as we cradle the bowl in our hands.   Imagery in &#8216;Hold&#8217; is derived mainly from Australian scientists and specialist cinematographers including: David Hannan, who has adapted medical imaging technology to film extreme macro images of the Great Barrier Reef, Anya Salih, who investigates coral fluorescence and Greg Rouse, Marine Biologist. The work is designed as a vessel to hold a changing pool of imagery. Hold: Vessel 1 will change in time as time changes the environments it reflects.</p>",
+            "description_for_label": [
+                "<p>Hold: Vessel 1 is a magical interactive experience in which visitors to the gallery try to catch a mesmerizing series of projected visions in a delicate glass bowl - echoing the wondrous views of the world made possible with the first microscopes, underwater cameras and astronomical cinematography.<br />\nLynette Wallworth began her career in photography, and has also worked in short film, installation and performance. She creates installation spaces that require activation by the participant/viewer. To collect the images used in Hold: Vessel 1 she collaborated with scientific image libraries and specialist cinematographers, as part of her ongoing investigation into imaging technologies that enable us to see the world in ways otherwise inaccessible to the naked human eye. Hold: Vessel 1 consists of video projections with directional sound scape beamed from above into a darkened space. The visitor is invited to take hold of a glass bowl and catch the images within it, finding the point at which the vision is most clear and resolved. A personal portal opens to us  as we cradle the bowl in our hands.   Imagery in &#8216;Hold&#8217; is derived mainly from Australian scientists and specialist cinematographers including: David Hannan, who has adapted medical imaging technology to film extreme macro images of the Great Barrier Reef, Anya Salih, who investigates coral fluorescence and Greg Rouse, Marine Biologist. The work is designed as a vessel to hold a changing pool of imagery. Hold: Vessel 1 will change in time as time changes the environments it reflects.</p>"
+            ],
+            "credit_line_for_label": "",
+            "details": [
+                {
+                    "label": "Subject category",
+                    "display_values": [
+                        "Digital Art"
+                    ]
+                },
+                {
+                    "label": "Sound/audio",
+                    "display_values": [
+                        "Audio Format/Stereo"
+                    ]
+                },
+                {
+                    "label": "Colour",
+                    "display_values": [
+                        "Colour"
+                    ]
+                },
+                {
+                    "label": "Materials",
+                    "display_values": [
+                        "video, projection, glass, colour and sound"
+                    ]
+                }
+            ],
+            "stats": {
+                "tap_count": 0
+            },
+            "links": [],
+            "creators_primary": [
+                {
+                    "id": 1129684,
+                    "name": "Lynette Wallworth",
+                    "creator_id": 7138,
+                    "role": "creator",
+                    "role_id": 968,
+                    "is_primary": true
+                }
+            ],
+            "creators_other": [],
+            "video_links": [],
+            "media_note": null,
+            "images": [
+                {
+                    "id": 14737,
+                    "image_file": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/B1001976_HoldVessel_002.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=FZYI864Kj16aZH80175ANAizDRI%3D&Expires=1627009356",
+                    "image_file_thumbnail": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/B1001976_HoldVessel_002.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=DSz5UDThVp6rgLJVZMO4j1Wnnvs%3D&Expires=1627009356",
+                    "image_file_xs": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/B1001976_HoldVessel_002.jpg.480x480_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=4bRlilcXPxuMdbJ0kOSxLwebCb4%3D&Expires=1627009356",
+                    "image_file_s": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/B1001976_HoldVessel_002.jpg.960x960_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=RrxCjqMtkwvFcAUA4PcR3WzeqkA%3D&Expires=1627009356",
+                    "image_file_m": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/B1001976_HoldVessel_002.jpg.1920x1920_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=wJkUEHCk7cRkOsprZQ3tyPA3Vis%3D&Expires=1627009356",
+                    "image_file_l": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/B1001976_HoldVessel_002.jpg.3840x3840_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=k8nIMCgUzcq%2BqwxTN4Xmd8Ld54g%3D&Expires=1627009356",
+                    "caption": "Hold: vessel #1 and vessel #2 (Lynette Wallworth)still",
+                    "credit_line": "",
+                    "alt_text": "",
+                    "width": 456,
+                    "height": 345,
+                    "access_level": "View anywhere"
+                },
+                {
+                    "id": 14738,
+                    "image_file": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/B1001976_HoldVessel_001.JPG?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=RWVbuFhOwd9XB3Q7PXBdEPv473g%3D&Expires=1627009356",
+                    "image_file_thumbnail": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/B1001976_HoldVessel_001.JPG.1200x1200_q85.JPG?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=uQmM5lVt5DGN2ngVa0DbVZLatIs%3D&Expires=1627009356",
+                    "image_file_xs": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/B1001976_HoldVessel_001.JPG.480x480_q85.JPG?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=HsdLK0Z%2FO5Hf7UnYOFff4XB76Is%3D&Expires=1627009356",
+                    "image_file_s": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/B1001976_HoldVessel_001.JPG.960x960_q85.JPG?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=OiDDXy9jnKUHaU2zAJl06OL6kzA%3D&Expires=1627009356",
+                    "image_file_m": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/B1001976_HoldVessel_001.JPG.1920x1920_q85.JPG?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=fSPnaqy7moKyJG0nPI7aVKe9xho%3D&Expires=1627009356",
+                    "image_file_l": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/B1001976_HoldVessel_001.JPG.3840x3840_q85.JPG?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=SDQBXkHTok3HxI0Rx6o42qyDb20%3D&Expires=1627009356",
+                    "caption": "B1001976 Hold vessel - Image 01",
+                    "credit_line": "",
+                    "alt_text": "",
+                    "width": 200,
+                    "height": 150,
+                    "access_level": "View anywhere"
+                },
+                {
+                    "id": 14739,
+                    "image_file": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/B1001976_HoldVessel_DavisExhibition_001.JPG?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=MOhj9LkeZ89ew95epCLP08oqsZs%3D&Expires=1627009356",
+                    "image_file_thumbnail": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/B1001976_HoldVessel_DavisExhibition_001.JPG.1200x1200_q85.JPG?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=N45y79PfS31anYm%2BsRhYpii9hIU%3D&Expires=1627009356",
+                    "image_file_xs": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/B1001976_HoldVessel_DavisExhibition_001.JPG.480x480_q85.JPG?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=XHFfXiZNV%2FFzX5bWWSiDSnB0aLY%3D&Expires=1627009356",
+                    "image_file_s": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/B1001976_HoldVessel_DavisExhibition_001.JPG.960x960_q85.JPG?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=NxAC12sF8MoAbkKppMsturaZnRg%3D&Expires=1627009356",
+                    "image_file_m": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/B1001976_HoldVessel_DavisExhibition_001.JPG.1920x1920_q85.JPG?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=Q0%2B4qwjsaoknQ3Jlnd9dRuOMGFg%3D&Expires=1627009356",
+                    "image_file_l": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/B1001976_HoldVessel_DavisExhibition_001.JPG.3840x3840_q85.JPG?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=om6K03Thxw8DZda6JRbfDECFtiw%3D&Expires=1627009356",
+                    "caption": "B1001976 Hold vessel - Image 02",
+                    "credit_line": "",
+                    "alt_text": "",
+                    "width": 160,
+                    "height": 132,
+                    "access_level": "View anywhere"
+                },
+                {
+                    "id": 13708,
+                    "image_file": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/lynnetteandtony.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=FHBgdxvQxxZS5rAiN0qAxU%2FtFwk%3D&Expires=1627009356",
+                    "image_file_thumbnail": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/lynnetteandtony.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=3TCBg2549ApEsaMkj2Q0cpsIT0w%3D&Expires=1627009356",
+                    "image_file_xs": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/lynnetteandtony.jpg.480x480_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=0OBO%2FAr4qTYRqPAdYUkemwyYDVg%3D&Expires=1627009356",
+                    "image_file_s": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/lynnetteandtony.jpg.960x960_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=fFAp7Nw6UJV3PyH%2BDOUv5EeodCE%3D&Expires=1627009356",
+                    "image_file_m": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/lynnetteandtony.jpg.1920x1920_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=NnFOA3G4%2FHsA9qSnJ1xQKEO4AVo%3D&Expires=1627009356",
+                    "image_file_l": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/lynnetteandtony.jpg.3840x3840_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=UXGFBrHYjMMhEaYn8%2B0eyW1rpeg%3D&Expires=1627009356",
+                    "caption": "Experiencing \"Hold Vessel\"",
+                    "credit_line": "",
+                    "alt_text": "",
+                    "width": 720,
+                    "height": 576,
+                    "access_level": "View anywhere"
+                },
+                {
+                    "id": 14740,
+                    "image_file": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/B1001976_HoldVessel_Hold_Vessel_001.JPG?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=dxBSM7Or08JbzCG34q19G%2B5n3pE%3D&Expires=1627009356",
+                    "image_file_thumbnail": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/B1001976_HoldVessel_Hold_Vessel_001.JPG.1200x1200_q85.JPG?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=b3Dcwu8pepR1qu%2FVGeiMl3suUUw%3D&Expires=1627009356",
+                    "image_file_xs": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/B1001976_HoldVessel_Hold_Vessel_001.JPG.480x480_q85.JPG?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=yKHGd%2BM%2Fs9yrg8oMxAK5KogLTAY%3D&Expires=1627009356",
+                    "image_file_s": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/B1001976_HoldVessel_Hold_Vessel_001.JPG.960x960_q85.JPG?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=IXMJmfxmqajmJW%2B62bO4Ju9bn1E%3D&Expires=1627009356",
+                    "image_file_m": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/B1001976_HoldVessel_Hold_Vessel_001.JPG.1920x1920_q85.JPG?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=GKM7HnzfZg0BaUlPKX8Sk2qUrpI%3D&Expires=1627009356",
+                    "image_file_l": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/B1001976_HoldVessel_Hold_Vessel_001.JPG.3840x3840_q85.JPG?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=iyesF4EkQDSXIC4HFbuuTLy4vOQ%3D&Expires=1627009356",
+                    "caption": "B1001976 Hold Vessel",
+                    "credit_line": "",
+                    "alt_text": "",
+                    "width": 225,
+                    "height": 378,
+                    "access_level": "View anywhere"
+                },
+                {
+                    "id": 14741,
+                    "image_file": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/B1001976_HoldVessel_Hold_Vessel_002.JPG?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=cCOjYD1dl7dTeYTAJg3mFCDtA4M%3D&Expires=1627009356",
+                    "image_file_thumbnail": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/B1001976_HoldVessel_Hold_Vessel_002.JPG.1200x1200_q85.JPG?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=njM0Pg4zg%2F0uz9qRvGI00Fc46Vo%3D&Expires=1627009356",
+                    "image_file_xs": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/B1001976_HoldVessel_Hold_Vessel_002.JPG.480x480_q85.JPG?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=9pveA%2FhpxsNrJu2QEb96XFCXBTQ%3D&Expires=1627009356",
+                    "image_file_s": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/B1001976_HoldVessel_Hold_Vessel_002.JPG.960x960_q85.JPG?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=Jip7ycpgpbIID%2BK5i%2FhiJ7hj%2FGo%3D&Expires=1627009356",
+                    "image_file_m": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/B1001976_HoldVessel_Hold_Vessel_002.JPG.1920x1920_q85.JPG?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=0clM5c562W7cPYAZ3tvoHmFEfBI%3D&Expires=1627009356",
+                    "image_file_l": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/B1001976_HoldVessel_Hold_Vessel_002.JPG.3840x3840_q85.JPG?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=yrgo0meXzgVy13%2BtjU0c1rjqpw4%3D&Expires=1627009356",
+                    "caption": "B1001976 Hold Vessel",
+                    "credit_line": "",
+                    "alt_text": "",
+                    "width": 225,
+                    "height": 378,
+                    "access_level": "View anywhere"
+                }
+            ],
+            "videos": [],
+            "holdings": [],
+            "part_of": null,
+            "parts": [],
+            "part_siblings": [],
+            "group": null,
+            "group_works": [],
+            "group_siblings": [],
+            "source": {
+                "name": "Vernon",
+                "slug": "vernon"
+            },
+            "source_identifier": "518",
+            "production_places": [
+                {
+                    "id": 3,
+                    "name": "Australia",
+                    "slug": "australia"
+                }
+            ],
+            "production_dates": [
+                {
+                    "date": "2001",
+                    "notes": "",
+                    "to_year": "2001"
+                }
+            ],
+            "labels": [
+                47750
+            ]
+        },
+        {
+            "id": 107844,
+            "acmi_id": "10650",
+            "title": "Curatorial presentation tape 01-10-2001",
+            "title_annotation": "",
+            "slug": "curatorial-presentation-tape-01-10-2001",
+            "creator_credit": "",
+            "credit_line": "",
+            "headline_credit": "1995-2001",
+            "thumbnail": null,
+            "record_type": "group",
+            "type": "Film",
+            "is_on_display": false,
+            "last_on_display_place": null,
+            "last_on_display_date": null,
+            "is_context_indigenous": false,
+            "material_description": "",
+            "unpublished": true,
+            "first_production_date": null,
+            "brief_description": "",
+            "constellations_primary": [],
+            "constellations_other": [],
+            "recommendations": [],
+            "title_for_label": "<p>Curatorial presentation tape 01-10-2001</p>",
+            "creator_credit_for_label": "",
+            "headline_credit_for_label": "<p>1995-2001</p>",
+            "description": "",
+            "description_for_label": [],
+            "credit_line_for_label": "",
+            "details": [],
+            "stats": {
+                "tap_count": 0
+            },
+            "links": [],
+            "creators_primary": [],
+            "creators_other": [],
+            "video_links": [],
+            "media_note": "Sorry, we don't have images or video for this item.",
+            "images": [],
+            "videos": [],
+            "holdings": [],
+            "part_of": null,
+            "parts": [],
+            "part_siblings": [],
+            "group": null,
+            "group_works": [],
+            "group_siblings": [],
+            "source": {
+                "name": "Vernon",
+                "slug": "vernon"
+            },
+            "source_identifier": "10650",
+            "production_places": [],
+            "production_dates": [
+                {
+                    "date": "1995-2001",
+                    "notes": "",
+                    "to_year": "1995-2001"
+                }
+            ],
+            "labels": [
+                47337
+            ]
+        },
+        {
+            "id": 109304,
+            "acmi_id": "10616",
+            "title": "Public Programs compile (2002)",
+            "title_annotation": "",
+            "slug": "public-programs-compile-2002",
+            "creator_credit": "",
+            "credit_line": "",
+            "headline_credit": "2002",
+            "thumbnail": null,
+            "record_type": "group",
+            "type": "Film",
+            "is_on_display": false,
+            "last_on_display_place": null,
+            "last_on_display_date": null,
+            "is_context_indigenous": false,
+            "material_description": "",
+            "unpublished": true,
+            "first_production_date": "2002-01-01T11:00:00+11:00",
+            "brief_description": "<p>This compile created for the opening of ACMI at Federation Square &#8216;Oct 2002 contains:<br />\n1. Digital studio: promo 1.<br />\n2. Digital studio: promo 2.<br />\n3. Digital storytelling: promo.<br />\n4. Get into dragons.<br />\n5. ACMI kids in space.<br />\n6. Map teasers 1: This little piggy went to market [excerpt].<br />\n7. Map teasers 2: Lygon street [excerpt].<br />\n8. Map teasers 3: Red line [excerpt].<br />\n9. Small town cowboys.<br />\n10. Soon: a video haiku.</p>",
+            "constellations_primary": [],
+            "constellations_other": [],
+            "recommendations": [],
+            "title_for_label": "<p>Public Programs compile (2002)</p>",
+            "creator_credit_for_label": "",
+            "headline_credit_for_label": "<p>2002</p>",
+            "description": "<p>This compile created for the opening of ACMI at Federation Square &#8216;Oct 2002 contains:<br />\n1. Digital studio: promo 1.<br />\n2. Digital studio: promo 2.<br />\n3. Digital storytelling: promo.<br />\n4. Get into dragons.<br />\n5. ACMI kids in space.<br />\n6. Map teasers 1: This little piggy went to market [excerpt].<br />\n7. Map teasers 2: Lygon street [excerpt].<br />\n8. Map teasers 3: Red line [excerpt].<br />\n9. Small town cowboys.<br />\n10. Soon: a video haiku.</p>",
+            "description_for_label": [
+                "<p>This compile created for the opening of ACMI at Federation Square &#8216;Oct 2002 contains:<br />\n1. Digital studio: promo 1.<br />\n2. Digital studio: promo 2.<br />\n3. Digital storytelling: promo.<br />\n4. Get into dragons.<br />\n5. ACMI kids in space.<br />\n6. Map teasers 1: This little piggy went to market [excerpt].<br />\n7. Map teasers 2: Lygon street [excerpt].<br />\n8. Map teasers 3: Red line [excerpt].<br />\n9. Small town cowboys.<br />\n10. Soon: a video haiku.</p>"
+            ],
+            "credit_line_for_label": "",
+            "details": [],
+            "stats": {
+                "tap_count": 0
+            },
+            "links": [],
+            "creators_primary": [],
+            "creators_other": [],
+            "video_links": [],
+            "media_note": "Sorry, we don't have images or video for this item.",
+            "images": [],
+            "videos": [],
+            "holdings": [
+                {
+                    "name": "DVD ROM; Copy",
+                    "identifier": "",
+                    "description": ""
+                }
+            ],
+            "part_of": null,
+            "parts": [],
+            "part_siblings": [],
+            "group": null,
+            "group_works": [
+                {
+                    "id": 109305,
+                    "acmi_id": "2899",
+                    "title": "ACMI kids in space",
+                    "title_annotation": "",
+                    "slug": "acmi-kids-in-space",
+                    "creator_credit": "",
+                    "credit_line": "",
+                    "headline_credit": "",
+                    "thumbnail": null,
+                    "record_type": "work",
+                    "type": "Film",
+                    "is_on_display": false,
+                    "last_on_display_place": null,
+                    "last_on_display_date": null,
+                    "is_context_indigenous": false,
+                    "material_description": "",
+                    "unpublished": true,
+                    "first_production_date": null
+                },
+                {
+                    "id": 109306,
+                    "acmi_id": "2900",
+                    "title": "Get into dragons",
+                    "title_annotation": "",
+                    "slug": "get-into-dragons",
+                    "creator_credit": "",
+                    "credit_line": "",
+                    "headline_credit": "",
+                    "thumbnail": null,
+                    "record_type": "work",
+                    "type": "Film",
+                    "is_on_display": false,
+                    "last_on_display_place": null,
+                    "last_on_display_date": null,
+                    "is_context_indigenous": false,
+                    "material_description": "",
+                    "unpublished": true,
+                    "first_production_date": null
+                },
+                {
+                    "id": 109307,
+                    "acmi_id": "2901",
+                    "title": "Small town cowboys",
+                    "title_annotation": "",
+                    "slug": "small-town-cowboys",
+                    "creator_credit": "",
+                    "credit_line": "",
+                    "headline_credit": "",
+                    "thumbnail": null,
+                    "record_type": "work",
+                    "type": "Film",
+                    "is_on_display": false,
+                    "last_on_display_place": null,
+                    "last_on_display_date": null,
+                    "is_context_indigenous": false,
+                    "material_description": "",
+                    "unpublished": true,
+                    "first_production_date": null
+                },
+                {
+                    "id": 109303,
+                    "acmi_id": "2898",
+                    "title": "Soon: a video haiku",
+                    "title_annotation": "",
+                    "slug": "soon-a-video-haiku",
+                    "creator_credit": "",
+                    "credit_line": "",
+                    "headline_credit": "",
+                    "thumbnail": null,
+                    "record_type": "work",
+                    "type": "Film",
+                    "is_on_display": false,
+                    "last_on_display_place": null,
+                    "last_on_display_date": null,
+                    "is_context_indigenous": false,
+                    "material_description": "",
+                    "unpublished": true,
+                    "first_production_date": null
+                }
+            ],
+            "group_siblings": [],
+            "source": {
+                "name": "Vernon",
+                "slug": "vernon"
+            },
+            "source_identifier": "10616",
+            "production_places": [],
+            "production_dates": [
+                {
+                    "date": "2002",
+                    "notes": "",
+                    "to_year": "2002"
+                }
+            ],
+            "labels": [
+                48797
+            ]
+        },
+        {
+            "id": 109303,
+            "acmi_id": "2898",
+            "title": "Soon: a video haiku",
+            "title_annotation": "",
+            "slug": "soon-a-video-haiku",
+            "creator_credit": "",
+            "credit_line": "",
+            "headline_credit": "",
+            "thumbnail": null,
+            "record_type": "work",
+            "type": "Film",
+            "is_on_display": false,
+            "last_on_display_place": null,
+            "last_on_display_date": null,
+            "is_context_indigenous": false,
+            "material_description": "",
+            "unpublished": true,
+            "first_production_date": null,
+            "brief_description": "",
+            "constellations_primary": [],
+            "constellations_other": [],
+            "recommendations": [],
+            "title_for_label": "<p>Soon: a video haiku</p>",
+            "creator_credit_for_label": "",
+            "headline_credit_for_label": "",
+            "description": "",
+            "description_for_label": [],
+            "credit_line_for_label": "",
+            "details": [],
+            "stats": {
+                "tap_count": 0
+            },
+            "links": [],
+            "creators_primary": [],
+            "creators_other": [],
+            "video_links": [],
+            "media_note": "Sorry, we don't have images or video for this item.",
+            "images": [],
+            "videos": [],
+            "holdings": [
+                {
+                    "name": "DVD ROM; Copy",
+                    "identifier": "",
+                    "description": ""
+                }
+            ],
+            "part_of": null,
+            "parts": [],
+            "part_siblings": [],
+            "group": {
+                "id": 109304,
+                "acmi_id": "10616",
+                "title": "Public Programs compile (2002)",
+                "title_annotation": "",
+                "slug": "public-programs-compile-2002",
+                "creator_credit": "",
+                "credit_line": "",
+                "headline_credit": "2002",
+                "thumbnail": null,
+                "record_type": "group",
+                "type": "Film",
+                "is_on_display": false,
+                "last_on_display_place": null,
+                "last_on_display_date": null,
+                "is_context_indigenous": false,
+                "material_description": "",
+                "unpublished": true,
+                "first_production_date": "2002-01-01T11:00:00+11:00"
+            },
+            "group_works": [],
+            "group_siblings": [
+                {
+                    "id": 109305,
+                    "acmi_id": "2899",
+                    "title": "ACMI kids in space",
+                    "title_annotation": "",
+                    "slug": "acmi-kids-in-space",
+                    "creator_credit": "",
+                    "credit_line": "",
+                    "headline_credit": "",
+                    "thumbnail": null,
+                    "record_type": "work",
+                    "type": "Film",
+                    "is_on_display": false,
+                    "last_on_display_place": null,
+                    "last_on_display_date": null,
+                    "is_context_indigenous": false,
+                    "material_description": "",
+                    "unpublished": true,
+                    "first_production_date": null
+                },
+                {
+                    "id": 109306,
+                    "acmi_id": "2900",
+                    "title": "Get into dragons",
+                    "title_annotation": "",
+                    "slug": "get-into-dragons",
+                    "creator_credit": "",
+                    "credit_line": "",
+                    "headline_credit": "",
+                    "thumbnail": null,
+                    "record_type": "work",
+                    "type": "Film",
+                    "is_on_display": false,
+                    "last_on_display_place": null,
+                    "last_on_display_date": null,
+                    "is_context_indigenous": false,
+                    "material_description": "",
+                    "unpublished": true,
+                    "first_production_date": null
+                },
+                {
+                    "id": 109307,
+                    "acmi_id": "2901",
+                    "title": "Small town cowboys",
+                    "title_annotation": "",
+                    "slug": "small-town-cowboys",
+                    "creator_credit": "",
+                    "credit_line": "",
+                    "headline_credit": "",
+                    "thumbnail": null,
+                    "record_type": "work",
+                    "type": "Film",
+                    "is_on_display": false,
+                    "last_on_display_place": null,
+                    "last_on_display_date": null,
+                    "is_context_indigenous": false,
+                    "material_description": "",
+                    "unpublished": true,
+                    "first_production_date": null
+                }
+            ],
+            "source": {
+                "name": "Vernon",
+                "slug": "vernon"
+            },
+            "source_identifier": "2898",
+            "production_places": [],
+            "production_dates": [],
+            "labels": [
+                48796
+            ]
+        },
+        {
+            "id": 109307,
+            "acmi_id": "2901",
+            "title": "Small town cowboys",
+            "title_annotation": "",
+            "slug": "small-town-cowboys",
+            "creator_credit": "",
+            "credit_line": "",
+            "headline_credit": "",
+            "thumbnail": null,
+            "record_type": "work",
+            "type": "Film",
+            "is_on_display": false,
+            "last_on_display_place": null,
+            "last_on_display_date": null,
+            "is_context_indigenous": false,
+            "material_description": "",
+            "unpublished": true,
+            "first_production_date": null,
+            "brief_description": "",
+            "constellations_primary": [],
+            "constellations_other": [],
+            "recommendations": [],
+            "title_for_label": "<p>Small town cowboys</p>",
+            "creator_credit_for_label": "",
+            "headline_credit_for_label": "",
+            "description": "",
+            "description_for_label": [],
+            "credit_line_for_label": "",
+            "details": [],
+            "stats": {
+                "tap_count": 0
+            },
+            "links": [],
+            "creators_primary": [],
+            "creators_other": [],
+            "video_links": [],
+            "media_note": "Sorry, we don't have images or video for this item.",
+            "images": [],
+            "videos": [],
+            "holdings": [
+                {
+                    "name": "DVD ROM; Copy",
+                    "identifier": "",
+                    "description": ""
+                }
+            ],
+            "part_of": null,
+            "parts": [],
+            "part_siblings": [],
+            "group": {
+                "id": 109304,
+                "acmi_id": "10616",
+                "title": "Public Programs compile (2002)",
+                "title_annotation": "",
+                "slug": "public-programs-compile-2002",
+                "creator_credit": "",
+                "credit_line": "",
+                "headline_credit": "2002",
+                "thumbnail": null,
+                "record_type": "group",
+                "type": "Film",
+                "is_on_display": false,
+                "last_on_display_place": null,
+                "last_on_display_date": null,
+                "is_context_indigenous": false,
+                "material_description": "",
+                "unpublished": true,
+                "first_production_date": "2002-01-01T11:00:00+11:00"
+            },
+            "group_works": [],
+            "group_siblings": [
+                {
+                    "id": 109305,
+                    "acmi_id": "2899",
+                    "title": "ACMI kids in space",
+                    "title_annotation": "",
+                    "slug": "acmi-kids-in-space",
+                    "creator_credit": "",
+                    "credit_line": "",
+                    "headline_credit": "",
+                    "thumbnail": null,
+                    "record_type": "work",
+                    "type": "Film",
+                    "is_on_display": false,
+                    "last_on_display_place": null,
+                    "last_on_display_date": null,
+                    "is_context_indigenous": false,
+                    "material_description": "",
+                    "unpublished": true,
+                    "first_production_date": null
+                },
+                {
+                    "id": 109306,
+                    "acmi_id": "2900",
+                    "title": "Get into dragons",
+                    "title_annotation": "",
+                    "slug": "get-into-dragons",
+                    "creator_credit": "",
+                    "credit_line": "",
+                    "headline_credit": "",
+                    "thumbnail": null,
+                    "record_type": "work",
+                    "type": "Film",
+                    "is_on_display": false,
+                    "last_on_display_place": null,
+                    "last_on_display_date": null,
+                    "is_context_indigenous": false,
+                    "material_description": "",
+                    "unpublished": true,
+                    "first_production_date": null
+                },
+                {
+                    "id": 109303,
+                    "acmi_id": "2898",
+                    "title": "Soon: a video haiku",
+                    "title_annotation": "",
+                    "slug": "soon-a-video-haiku",
+                    "creator_credit": "",
+                    "credit_line": "",
+                    "headline_credit": "",
+                    "thumbnail": null,
+                    "record_type": "work",
+                    "type": "Film",
+                    "is_on_display": false,
+                    "last_on_display_place": null,
+                    "last_on_display_date": null,
+                    "is_context_indigenous": false,
+                    "material_description": "",
+                    "unpublished": true,
+                    "first_production_date": null
+                }
+            ],
+            "source": {
+                "name": "Vernon",
+                "slug": "vernon"
+            },
+            "source_identifier": "2901",
+            "production_places": [],
+            "production_dates": [],
+            "labels": [
+                48800
+            ]
+        },
+        {
+            "id": 109306,
+            "acmi_id": "2900",
+            "title": "Get into dragons",
+            "title_annotation": "",
+            "slug": "get-into-dragons",
+            "creator_credit": "",
+            "credit_line": "",
+            "headline_credit": "",
+            "thumbnail": null,
+            "record_type": "work",
+            "type": "Film",
+            "is_on_display": false,
+            "last_on_display_place": null,
+            "last_on_display_date": null,
+            "is_context_indigenous": false,
+            "material_description": "",
+            "unpublished": true,
+            "first_production_date": null,
+            "brief_description": "",
+            "constellations_primary": [],
+            "constellations_other": [],
+            "recommendations": [],
+            "title_for_label": "<p>Get into dragons</p>",
+            "creator_credit_for_label": "",
+            "headline_credit_for_label": "",
+            "description": "",
+            "description_for_label": [],
+            "credit_line_for_label": "",
+            "details": [],
+            "stats": {
+                "tap_count": 0
+            },
+            "links": [],
+            "creators_primary": [],
+            "creators_other": [],
+            "video_links": [],
+            "media_note": "Sorry, we don't have images or video for this item.",
+            "images": [],
+            "videos": [],
+            "holdings": [
+                {
+                    "name": "DVD ROM; Copy",
+                    "identifier": "",
+                    "description": ""
+                }
+            ],
+            "part_of": null,
+            "parts": [],
+            "part_siblings": [],
+            "group": {
+                "id": 109304,
+                "acmi_id": "10616",
+                "title": "Public Programs compile (2002)",
+                "title_annotation": "",
+                "slug": "public-programs-compile-2002",
+                "creator_credit": "",
+                "credit_line": "",
+                "headline_credit": "2002",
+                "thumbnail": null,
+                "record_type": "group",
+                "type": "Film",
+                "is_on_display": false,
+                "last_on_display_place": null,
+                "last_on_display_date": null,
+                "is_context_indigenous": false,
+                "material_description": "",
+                "unpublished": true,
+                "first_production_date": "2002-01-01T11:00:00+11:00"
+            },
+            "group_works": [],
+            "group_siblings": [
+                {
+                    "id": 109305,
+                    "acmi_id": "2899",
+                    "title": "ACMI kids in space",
+                    "title_annotation": "",
+                    "slug": "acmi-kids-in-space",
+                    "creator_credit": "",
+                    "credit_line": "",
+                    "headline_credit": "",
+                    "thumbnail": null,
+                    "record_type": "work",
+                    "type": "Film",
+                    "is_on_display": false,
+                    "last_on_display_place": null,
+                    "last_on_display_date": null,
+                    "is_context_indigenous": false,
+                    "material_description": "",
+                    "unpublished": true,
+                    "first_production_date": null
+                },
+                {
+                    "id": 109307,
+                    "acmi_id": "2901",
+                    "title": "Small town cowboys",
+                    "title_annotation": "",
+                    "slug": "small-town-cowboys",
+                    "creator_credit": "",
+                    "credit_line": "",
+                    "headline_credit": "",
+                    "thumbnail": null,
+                    "record_type": "work",
+                    "type": "Film",
+                    "is_on_display": false,
+                    "last_on_display_place": null,
+                    "last_on_display_date": null,
+                    "is_context_indigenous": false,
+                    "material_description": "",
+                    "unpublished": true,
+                    "first_production_date": null
+                },
+                {
+                    "id": 109303,
+                    "acmi_id": "2898",
+                    "title": "Soon: a video haiku",
+                    "title_annotation": "",
+                    "slug": "soon-a-video-haiku",
+                    "creator_credit": "",
+                    "credit_line": "",
+                    "headline_credit": "",
+                    "thumbnail": null,
+                    "record_type": "work",
+                    "type": "Film",
+                    "is_on_display": false,
+                    "last_on_display_place": null,
+                    "last_on_display_date": null,
+                    "is_context_indigenous": false,
+                    "material_description": "",
+                    "unpublished": true,
+                    "first_production_date": null
+                }
+            ],
+            "source": {
+                "name": "Vernon",
+                "slug": "vernon"
+            },
+            "source_identifier": "2900",
+            "production_places": [],
+            "production_dates": [],
+            "labels": [
+                48799
+            ]
+        }
+    ]
+}

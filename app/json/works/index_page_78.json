@@ -1,0 +1,2473 @@
+{
+    "count": 922,
+    "next": "https://api.acmi.net.au/works/?page=79",
+    "previous": "https://api.acmi.net.au/works/?page=77",
+    "results": [
+        {
+            "id": 113994,
+            "acmi_id": "188",
+            "title": "Tusalava",
+            "title_annotation": "",
+            "slug": "tusalava",
+            "creator_credit": "Len Lye",
+            "credit_line": "",
+            "headline_credit": "New Zealand",
+            "thumbnail": null,
+            "record_type": "work",
+            "type": "Film",
+            "is_on_display": false,
+            "last_on_display_place": null,
+            "last_on_display_date": null,
+            "is_context_indigenous": false,
+            "material_description": "",
+            "unpublished": false,
+            "first_production_date": null,
+            "brief_description": "<ol>\n<li>Lye&#8217;s first film was originally accompanied by live music by Jack Ellit. No score was ever found, so the film presented here is silent, a vision of the beginnings of life on earth - mixing Maori, silent and modernist influences.</li>\n</ol>",
+            "constellations_primary": [],
+            "constellations_other": [],
+            "recommendations": [],
+            "title_for_label": "<p>Tusalava</p>",
+            "creator_credit_for_label": "<p>Len Lye</p>",
+            "headline_credit_for_label": "<p>New Zealand</p>",
+            "description": "<ol>\n<li>Lye&#8217;s first film was originally accompanied by live music by Jack Ellit. No score was ever found, so the film presented here is silent, a vision of the beginnings of life on earth - mixing Maori, silent and modernist influences.</li>\n</ol>",
+            "description_for_label": [
+                "<ol>\n<li>Lye&#8217;s first film was originally accompanied by live music by Jack Ellit. No score was ever found, so the film presented here is silent, a vision of the beginnings of life on earth - mixing Maori, silent and modernist influences.</li>\n</ol>"
+            ],
+            "credit_line_for_label": "",
+            "details": [
+                {
+                    "label": "Duration",
+                    "display_values": [
+                        "00:09:00:00"
+                    ]
+                },
+                {
+                    "label": "Language",
+                    "display_values": [
+                        "No spoken word"
+                    ]
+                },
+                {
+                    "label": "Subject categories",
+                    "display_values": [
+                        "Experimental",
+                        "Short films",
+                        "Short films&nbsp;→ Short films - New Zealand",
+                        "Silent films"
+                    ]
+                }
+            ],
+            "stats": {
+                "tap_count": 0
+            },
+            "links": [],
+            "creators_primary": [
+                {
+                    "id": 1133489,
+                    "name": "Len Lye",
+                    "creator_id": 71783,
+                    "role": "creator",
+                    "role_id": 968,
+                    "is_primary": true
+                }
+            ],
+            "creators_other": [],
+            "video_links": [],
+            "media_note": "Sorry, we don't have images or video for this item.",
+            "images": [],
+            "videos": [],
+            "holdings": [
+                {
+                    "name": "VHS [PAL]; Copy",
+                    "identifier": "",
+                    "description": ""
+                },
+                {
+                    "name": "Digital Betacam [PAL]; Master",
+                    "identifier": "",
+                    "description": ""
+                },
+                {
+                    "name": "Digital Betacam [PAL]; Sub-master",
+                    "identifier": "",
+                    "description": ""
+                },
+                {
+                    "name": "VHS [PAL]; Reference - timecoded",
+                    "identifier": "",
+                    "description": ""
+                }
+            ],
+            "part_of": null,
+            "parts": [],
+            "part_siblings": [],
+            "group": {
+                "id": 113991,
+                "acmi_id": "186",
+                "title": "Len Lye compilation",
+                "title_annotation": "",
+                "slug": "len-lye-compilation",
+                "creator_credit": "Len Lye",
+                "credit_line": "",
+                "headline_credit": "New Zealand, 1929-1980",
+                "thumbnail": {
+                    "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/lenlyetalfar003.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=OrG5u56LcHAACIPgqV%2Bl07NZ%2FSg%3D&Expires=1627009477",
+                    "has_video": false
+                },
+                "record_type": "group",
+                "type": "Film",
+                "is_on_display": false,
+                "last_on_display_place": null,
+                "last_on_display_date": null,
+                "is_context_indigenous": false,
+                "material_description": "",
+                "unpublished": false,
+                "first_production_date": null
+            },
+            "group_works": [],
+            "group_siblings": [
+                {
+                    "id": 113992,
+                    "acmi_id": "2296",
+                    "title": "Particles in Space",
+                    "title_annotation": "",
+                    "slug": "particles-in-space",
+                    "creator_credit": "",
+                    "credit_line": "",
+                    "headline_credit": "New Zealand, 1979",
+                    "thumbnail": null,
+                    "record_type": "work",
+                    "type": "Film",
+                    "is_on_display": false,
+                    "last_on_display_place": null,
+                    "last_on_display_date": null,
+                    "is_context_indigenous": false,
+                    "material_description": "",
+                    "unpublished": false,
+                    "first_production_date": "1979-01-01T11:00:00+11:00"
+                },
+                {
+                    "id": 113993,
+                    "acmi_id": "12247",
+                    "title": "Rhythm",
+                    "title_annotation": "",
+                    "slug": "rhythm",
+                    "creator_credit": "Len Lye",
+                    "credit_line": "",
+                    "headline_credit": "",
+                    "thumbnail": null,
+                    "record_type": "work",
+                    "type": "Film",
+                    "is_on_display": false,
+                    "last_on_display_place": null,
+                    "last_on_display_date": null,
+                    "is_context_indigenous": false,
+                    "material_description": "",
+                    "unpublished": false,
+                    "first_production_date": null
+                }
+            ],
+            "source": {
+                "name": "Vernon",
+                "slug": "vernon"
+            },
+            "source_identifier": "188",
+            "production_places": [
+                {
+                    "id": 9,
+                    "name": "New Zealand",
+                    "slug": "new-zealand"
+                }
+            ],
+            "production_dates": [],
+            "labels": [
+                53488
+            ]
+        },
+        {
+            "id": 113993,
+            "acmi_id": "12247",
+            "title": "Rhythm",
+            "title_annotation": "",
+            "slug": "rhythm",
+            "creator_credit": "Len Lye",
+            "credit_line": "",
+            "headline_credit": "",
+            "thumbnail": null,
+            "record_type": "work",
+            "type": "Film",
+            "is_on_display": false,
+            "last_on_display_place": null,
+            "last_on_display_date": null,
+            "is_context_indigenous": false,
+            "material_description": "",
+            "unpublished": false,
+            "first_production_date": null,
+            "brief_description": "",
+            "constellations_primary": [],
+            "constellations_other": [],
+            "recommendations": [],
+            "title_for_label": "<p>Rhythm</p>",
+            "creator_credit_for_label": "<p>Len Lye</p>",
+            "headline_credit_for_label": "",
+            "description": "",
+            "description_for_label": [],
+            "credit_line_for_label": "",
+            "details": [
+                {
+                    "label": "Duration",
+                    "display_values": [
+                        "00:01:00:00"
+                    ]
+                }
+            ],
+            "stats": {
+                "tap_count": 0
+            },
+            "links": [],
+            "creators_primary": [
+                {
+                    "id": 1133487,
+                    "name": "Len Lye",
+                    "creator_id": 71783,
+                    "role": "creator",
+                    "role_id": 968,
+                    "is_primary": true
+                }
+            ],
+            "creators_other": [],
+            "video_links": [],
+            "media_note": "Sorry, we don't have images or video for this item.",
+            "images": [],
+            "videos": [],
+            "holdings": [
+                {
+                    "name": "VHS [PAL]; Copy",
+                    "identifier": "",
+                    "description": ""
+                },
+                {
+                    "name": "Digital Betacam [PAL]; Master",
+                    "identifier": "",
+                    "description": ""
+                },
+                {
+                    "name": "Digital Betacam [PAL]; Sub-master",
+                    "identifier": "",
+                    "description": ""
+                },
+                {
+                    "name": "VHS [PAL]; Reference - timecoded",
+                    "identifier": "",
+                    "description": ""
+                }
+            ],
+            "part_of": null,
+            "parts": [],
+            "part_siblings": [],
+            "group": {
+                "id": 113991,
+                "acmi_id": "186",
+                "title": "Len Lye compilation",
+                "title_annotation": "",
+                "slug": "len-lye-compilation",
+                "creator_credit": "Len Lye",
+                "credit_line": "",
+                "headline_credit": "New Zealand, 1929-1980",
+                "thumbnail": {
+                    "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/lenlyetalfar003.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=OrG5u56LcHAACIPgqV%2Bl07NZ%2FSg%3D&Expires=1627009477",
+                    "has_video": false
+                },
+                "record_type": "group",
+                "type": "Film",
+                "is_on_display": false,
+                "last_on_display_place": null,
+                "last_on_display_date": null,
+                "is_context_indigenous": false,
+                "material_description": "",
+                "unpublished": false,
+                "first_production_date": null
+            },
+            "group_works": [],
+            "group_siblings": [
+                {
+                    "id": 113992,
+                    "acmi_id": "2296",
+                    "title": "Particles in Space",
+                    "title_annotation": "",
+                    "slug": "particles-in-space",
+                    "creator_credit": "",
+                    "credit_line": "",
+                    "headline_credit": "New Zealand, 1979",
+                    "thumbnail": null,
+                    "record_type": "work",
+                    "type": "Film",
+                    "is_on_display": false,
+                    "last_on_display_place": null,
+                    "last_on_display_date": null,
+                    "is_context_indigenous": false,
+                    "material_description": "",
+                    "unpublished": false,
+                    "first_production_date": "1979-01-01T11:00:00+11:00"
+                },
+                {
+                    "id": 113994,
+                    "acmi_id": "188",
+                    "title": "Tusalava",
+                    "title_annotation": "",
+                    "slug": "tusalava",
+                    "creator_credit": "Len Lye",
+                    "credit_line": "",
+                    "headline_credit": "New Zealand",
+                    "thumbnail": null,
+                    "record_type": "work",
+                    "type": "Film",
+                    "is_on_display": false,
+                    "last_on_display_place": null,
+                    "last_on_display_date": null,
+                    "is_context_indigenous": false,
+                    "material_description": "",
+                    "unpublished": false,
+                    "first_production_date": null
+                }
+            ],
+            "source": {
+                "name": "Vernon",
+                "slug": "vernon"
+            },
+            "source_identifier": "12247",
+            "production_places": [],
+            "production_dates": [],
+            "labels": [
+                53487
+            ]
+        },
+        {
+            "id": 113992,
+            "acmi_id": "2296",
+            "title": "Particles in Space",
+            "title_annotation": "",
+            "slug": "particles-in-space",
+            "creator_credit": "",
+            "credit_line": "",
+            "headline_credit": "New Zealand, 1979",
+            "thumbnail": null,
+            "record_type": "work",
+            "type": "Film",
+            "is_on_display": false,
+            "last_on_display_place": null,
+            "last_on_display_date": null,
+            "is_context_indigenous": false,
+            "material_description": "",
+            "unpublished": false,
+            "first_production_date": "1979-01-01T11:00:00+11:00",
+            "brief_description": "<ol>\n<li>New kinds of scratch imagery reflect the disparate element of the title as dots and dashes squiggle about the screen. Supported by a grant from the National Endowment for the Arts. (A Federal Agency, Washington DC)</li>\n</ol>",
+            "constellations_primary": [],
+            "constellations_other": [],
+            "recommendations": [],
+            "title_for_label": "<p>Particles in Space</p>",
+            "creator_credit_for_label": "",
+            "headline_credit_for_label": "<p>New Zealand, 1979</p>",
+            "description": "<ol>\n<li>New kinds of scratch imagery reflect the disparate element of the title as dots and dashes squiggle about the screen. Supported by a grant from the National Endowment for the Arts. (A Federal Agency, Washington DC)</li>\n</ol>",
+            "description_for_label": [
+                "<ol>\n<li>New kinds of scratch imagery reflect the disparate element of the title as dots and dashes squiggle about the screen. Supported by a grant from the National Endowment for the Arts. (A Federal Agency, Washington DC)</li>\n</ol>"
+            ],
+            "credit_line_for_label": "",
+            "details": [
+                {
+                    "label": "Language",
+                    "display_values": [
+                        "No spoken word"
+                    ]
+                },
+                {
+                    "label": "Audience classification",
+                    "display_values": [
+                        "unclassified"
+                    ]
+                },
+                {
+                    "label": "Colour",
+                    "display_values": [
+                        "Black and White"
+                    ]
+                }
+            ],
+            "stats": {
+                "tap_count": 0
+            },
+            "links": [],
+            "creators_primary": [],
+            "creators_other": [
+                {
+                    "id": 1133486,
+                    "name": "Len Lye",
+                    "creator_id": 71783,
+                    "role": "",
+                    "role_id": 604,
+                    "is_primary": false
+                }
+            ],
+            "video_links": [],
+            "media_note": "Sorry, we don't have images or video for this item.",
+            "images": [],
+            "videos": [],
+            "holdings": [
+                {
+                    "name": "VHS [PAL]; Copy",
+                    "identifier": "",
+                    "description": ""
+                },
+                {
+                    "name": "Digital Betacam [PAL]; Master",
+                    "identifier": "",
+                    "description": ""
+                },
+                {
+                    "name": "Digital Betacam [PAL]; Sub-master",
+                    "identifier": "",
+                    "description": ""
+                },
+                {
+                    "name": "VHS [PAL]; Reference - timecoded",
+                    "identifier": "",
+                    "description": ""
+                }
+            ],
+            "part_of": null,
+            "parts": [],
+            "part_siblings": [],
+            "group": {
+                "id": 113991,
+                "acmi_id": "186",
+                "title": "Len Lye compilation",
+                "title_annotation": "",
+                "slug": "len-lye-compilation",
+                "creator_credit": "Len Lye",
+                "credit_line": "",
+                "headline_credit": "New Zealand, 1929-1980",
+                "thumbnail": {
+                    "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/lenlyetalfar003.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=OrG5u56LcHAACIPgqV%2Bl07NZ%2FSg%3D&Expires=1627009477",
+                    "has_video": false
+                },
+                "record_type": "group",
+                "type": "Film",
+                "is_on_display": false,
+                "last_on_display_place": null,
+                "last_on_display_date": null,
+                "is_context_indigenous": false,
+                "material_description": "",
+                "unpublished": false,
+                "first_production_date": null
+            },
+            "group_works": [],
+            "group_siblings": [
+                {
+                    "id": 113993,
+                    "acmi_id": "12247",
+                    "title": "Rhythm",
+                    "title_annotation": "",
+                    "slug": "rhythm",
+                    "creator_credit": "Len Lye",
+                    "credit_line": "",
+                    "headline_credit": "",
+                    "thumbnail": null,
+                    "record_type": "work",
+                    "type": "Film",
+                    "is_on_display": false,
+                    "last_on_display_place": null,
+                    "last_on_display_date": null,
+                    "is_context_indigenous": false,
+                    "material_description": "",
+                    "unpublished": false,
+                    "first_production_date": null
+                },
+                {
+                    "id": 113994,
+                    "acmi_id": "188",
+                    "title": "Tusalava",
+                    "title_annotation": "",
+                    "slug": "tusalava",
+                    "creator_credit": "Len Lye",
+                    "credit_line": "",
+                    "headline_credit": "New Zealand",
+                    "thumbnail": null,
+                    "record_type": "work",
+                    "type": "Film",
+                    "is_on_display": false,
+                    "last_on_display_place": null,
+                    "last_on_display_date": null,
+                    "is_context_indigenous": false,
+                    "material_description": "",
+                    "unpublished": false,
+                    "first_production_date": null
+                }
+            ],
+            "source": {
+                "name": "Vernon",
+                "slug": "vernon"
+            },
+            "source_identifier": "2296",
+            "production_places": [
+                {
+                    "id": 9,
+                    "name": "New Zealand",
+                    "slug": "new-zealand"
+                }
+            ],
+            "production_dates": [
+                {
+                    "date": "1979",
+                    "notes": "",
+                    "to_year": "1979"
+                }
+            ],
+            "labels": [
+                53486
+            ]
+        },
+        {
+            "id": 114003,
+            "acmi_id": "148921",
+            "title": "Free radicals",
+            "title_annotation": "",
+            "slug": "free-radicals",
+            "creator_credit": "Len Lye",
+            "credit_line": "",
+            "headline_credit": "United States, 1979",
+            "thumbnail": {
+                "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/B2001354_FreeRadicals.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=PMUQR6zN7hKGTR2slvdyuV%2Blfb0%3D&Expires=1627009477",
+                "has_video": false
+            },
+            "record_type": "work",
+            "type": "Film",
+            "is_on_display": false,
+            "last_on_display_place": "ACMI Viewing Booths",
+            "last_on_display_date": "2019-04-22",
+            "is_context_indigenous": false,
+            "material_description": "",
+            "unpublished": false,
+            "first_production_date": "1979-01-01T11:00:00+11:00",
+            "brief_description": "<p>A primitive kinetic dance of white lines and angles meticulously scratched onto black and white film over an 8 month period and then edited and retrospectively matched with an African field tape of the Bagirmi tribe. The title is a reference to modern physics, &#8216;free radicals&#8217; being particles of energy. The original version was a major award winner at the Experimental Film Competition at the 1958 Brussels World Fair. This revised version was a reworking of the<br />\noriginal by Lye in 1979, with financial assistance from<br />\nthe New Zealand Film Commission. He deleted approximately 1 min. from his first version, made in 1958.</p>",
+            "constellations_primary": [],
+            "constellations_other": [],
+            "recommendations": [],
+            "title_for_label": "<p>Free radicals</p>",
+            "creator_credit_for_label": "<p>Len Lye</p>",
+            "headline_credit_for_label": "<p>United States, 1979</p>",
+            "description": "<p>A primitive kinetic dance of white lines and angles meticulously scratched onto black and white film over an 8 month period and then edited and retrospectively matched with an African field tape of the Bagirmi tribe. The title is a reference to modern physics, &#8216;free radicals&#8217; being particles of energy. The original version was a major award winner at the Experimental Film Competition at the 1958 Brussels World Fair. This revised version was a reworking of the<br />\noriginal by Lye in 1979, with financial assistance from<br />\nthe New Zealand Film Commission. He deleted approximately 1 min. from his first version, made in 1958.</p>",
+            "description_for_label": [
+                "<p>A primitive kinetic dance of white lines and angles meticulously scratched onto black and white film over an 8 month period and then edited and retrospectively matched with an African field tape of the Bagirmi tribe. The title is a reference to modern physics, &#8216;free radicals&#8217; being particles of energy. The original version was a major award winner at the Experimental Film Competition at the 1958 Brussels World Fair. This revised version was a reworking of the<br />\noriginal by Lye in 1979, with financial assistance from<br />\nthe New Zealand Film Commission. He deleted approximately 1 min. from his first version, made in 1958.</p>"
+            ],
+            "credit_line_for_label": "",
+            "details": [
+                {
+                    "label": "Duration",
+                    "display_values": [
+                        "00:04:13:00"
+                    ]
+                },
+                {
+                    "label": "Audience classifications",
+                    "display_values": [
+                        "Mediatheque - all ages (ACMI classified)",
+                        "unclassified"
+                    ]
+                },
+                {
+                    "label": "Subject categories",
+                    "display_values": [
+                        "Short films",
+                        "Short films&nbsp;→ Short films - Australia"
+                    ]
+                },
+                {
+                    "label": "Sound/audio",
+                    "display_values": [
+                        "Sound"
+                    ]
+                },
+                {
+                    "label": "Colour",
+                    "display_values": [
+                        "Black and White"
+                    ]
+                }
+            ],
+            "stats": {
+                "tap_count": 0
+            },
+            "links": [],
+            "creators_primary": [
+                {
+                    "id": 1133481,
+                    "name": "Len Lye",
+                    "creator_id": 71783,
+                    "role": "creator",
+                    "role_id": 968,
+                    "is_primary": true
+                }
+            ],
+            "creators_other": [],
+            "video_links": [],
+            "media_note": null,
+            "images": [
+                {
+                    "id": 13396,
+                    "image_file": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/B2001354_FreeRadicals.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=%2B1FQN%2BtJVC2hqIgcK69lOr5lXNM%3D&Expires=1627009477",
+                    "image_file_thumbnail": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/B2001354_FreeRadicals.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=PMUQR6zN7hKGTR2slvdyuV%2Blfb0%3D&Expires=1627009477",
+                    "image_file_xs": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/B2001354_FreeRadicals.jpg.480x480_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=kDAnypVdmlXXUz%2Bm8msNNkAUEvk%3D&Expires=1627009477",
+                    "image_file_s": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/B2001354_FreeRadicals.jpg.960x960_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=ClYgB4%2F7d9pCq1GV51JY4IhZgts%3D&Expires=1627009477",
+                    "image_file_m": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/B2001354_FreeRadicals.jpg.1920x1920_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=AmYFSTt2cBWHhBx0lv1CfoPr3CM%3D&Expires=1627009477",
+                    "image_file_l": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/B2001354_FreeRadicals.jpg.3840x3840_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=m9X4Hdu6ePvVlYpmJHemsxVBeQU%3D&Expires=1627009477",
+                    "caption": "Free Radicals (Len Lye) still",
+                    "credit_line": "",
+                    "alt_text": "",
+                    "width": 438,
+                    "height": 327,
+                    "access_level": "View anywhere"
+                }
+            ],
+            "videos": [],
+            "holdings": [
+                {
+                    "name": "MOV file H264; ACMI Digital Access Copy - presentation",
+                    "identifier": "",
+                    "description": ""
+                }
+            ],
+            "part_of": null,
+            "parts": [],
+            "part_siblings": [],
+            "group": {
+                "id": 113985,
+                "acmi_id": "10182",
+                "title": "Public Imaging compilation. No. 1",
+                "title_annotation": "",
+                "slug": "public-imaging-compilation-no-1",
+                "creator_credit": "",
+                "credit_line": "",
+                "headline_credit": "",
+                "thumbnail": {
+                    "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/B2001360_AColourBox.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=2%2BEu2dIGtORym5P3L18D7qBZByg%3D&Expires=1627009477",
+                    "has_video": false
+                },
+                "record_type": "group",
+                "type": "Film",
+                "is_on_display": false,
+                "last_on_display_place": null,
+                "last_on_display_date": null,
+                "is_context_indigenous": false,
+                "material_description": "",
+                "unpublished": true,
+                "first_production_date": null
+            },
+            "group_works": [],
+            "group_siblings": [
+                {
+                    "id": 113986,
+                    "acmi_id": "149998",
+                    "title": "A Colour box",
+                    "title_annotation": "",
+                    "slug": "a-colour-box",
+                    "creator_credit": "John Grierson and Len Lye",
+                    "credit_line": "",
+                    "headline_credit": "United Kingdom, 1935",
+                    "thumbnail": {
+                        "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/B2001360_AColourBox.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=2%2BEu2dIGtORym5P3L18D7qBZByg%3D&Expires=1627009477",
+                        "has_video": false
+                    },
+                    "record_type": "work",
+                    "type": "Film",
+                    "is_on_display": false,
+                    "last_on_display_place": "ACMI Viewing Booths",
+                    "last_on_display_date": "2019-04-22",
+                    "is_context_indigenous": false,
+                    "material_description": "",
+                    "unpublished": false,
+                    "first_production_date": "1935-01-01T10:00:00+10:00"
+                },
+                {
+                    "id": 113987,
+                    "acmi_id": "2073",
+                    "title": "Dummy",
+                    "title_annotation": "",
+                    "slug": "dummy",
+                    "creator_credit": "Ben Speth",
+                    "credit_line": "",
+                    "headline_credit": "",
+                    "thumbnail": null,
+                    "record_type": "work",
+                    "type": "Film",
+                    "is_on_display": false,
+                    "last_on_display_place": null,
+                    "last_on_display_date": null,
+                    "is_context_indigenous": false,
+                    "material_description": "",
+                    "unpublished": false,
+                    "first_production_date": null
+                },
+                {
+                    "id": 113991,
+                    "acmi_id": "186",
+                    "title": "Len Lye compilation",
+                    "title_annotation": "",
+                    "slug": "len-lye-compilation",
+                    "creator_credit": "Len Lye",
+                    "credit_line": "",
+                    "headline_credit": "New Zealand, 1929-1980",
+                    "thumbnail": {
+                        "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/lenlyetalfar003.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=OrG5u56LcHAACIPgqV%2Bl07NZ%2FSg%3D&Expires=1627009477",
+                        "has_video": false
+                    },
+                    "record_type": "group",
+                    "type": "Film",
+                    "is_on_display": false,
+                    "last_on_display_place": null,
+                    "last_on_display_date": null,
+                    "is_context_indigenous": false,
+                    "material_description": "",
+                    "unpublished": false,
+                    "first_production_date": null
+                },
+                {
+                    "id": 113984,
+                    "acmi_id": "81",
+                    "title": "Rev",
+                    "title_annotation": "",
+                    "slug": "rev",
+                    "creator_credit": "Namsik Kim and Seoungho Cho",
+                    "credit_line": "",
+                    "headline_credit": "United States, 1997",
+                    "thumbnail": {
+                        "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/B1000090_Rev_002.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=HpCb4CrXrJeVhrVCXaLGdfzpgM8%3D&Expires=1627009477",
+                        "has_video": false
+                    },
+                    "record_type": "work",
+                    "type": "Digital art",
+                    "is_on_display": false,
+                    "last_on_display_place": "ACMI Screen Gallery",
+                    "last_on_display_date": "2005-07-17",
+                    "is_context_indigenous": false,
+                    "material_description": "Single channel moving image, black and white and colour and audio",
+                    "unpublished": false,
+                    "first_production_date": "1997-01-01T11:00:00+11:00"
+                },
+                {
+                    "id": 114008,
+                    "acmi_id": "148924",
+                    "title": "Tal Farlow",
+                    "title_annotation": "",
+                    "slug": "tal-farlow",
+                    "creator_credit": "Len Lye",
+                    "credit_line": "",
+                    "headline_credit": "New Zealand, 1980",
+                    "thumbnail": {
+                        "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/B2001357_TalFarlow.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=mcmoILUY5HfwNkDMCFAxl7PaJAk%3D&Expires=1627009477",
+                        "has_video": false
+                    },
+                    "record_type": "work",
+                    "type": "Film",
+                    "is_on_display": false,
+                    "last_on_display_place": "ACMI Viewing Booths",
+                    "last_on_display_date": "2019-04-22",
+                    "is_context_indigenous": false,
+                    "material_description": "",
+                    "unpublished": false,
+                    "first_production_date": "1980-01-01T11:00:00+11:00"
+                }
+            ],
+            "source": {
+                "name": "Vernon",
+                "slug": "vernon"
+            },
+            "source_identifier": "148921",
+            "production_places": [
+                {
+                    "id": 2,
+                    "name": "United States",
+                    "slug": "united-states"
+                }
+            ],
+            "production_dates": [
+                {
+                    "date": "1979",
+                    "notes": "",
+                    "to_year": "1979"
+                }
+            ],
+            "labels": [
+                53497
+            ]
+        },
+        {
+            "id": 113987,
+            "acmi_id": "2073",
+            "title": "Dummy",
+            "title_annotation": "",
+            "slug": "dummy",
+            "creator_credit": "Ben Speth",
+            "credit_line": "",
+            "headline_credit": "",
+            "thumbnail": null,
+            "record_type": "work",
+            "type": "Film",
+            "is_on_display": false,
+            "last_on_display_place": null,
+            "last_on_display_date": null,
+            "is_context_indigenous": false,
+            "material_description": "",
+            "unpublished": false,
+            "first_production_date": null,
+            "brief_description": "<p>Pregnant with absence, &#8216;Dummy&#8217; depicts desolate urban and suburban environments. Filmed in and around Melbourne, these everyday, expectant spaces are captured with formal elegance and an accidental beauty that reveals a unique insight into the secret and forgotten life of Melbourne.</p>",
+            "constellations_primary": [],
+            "constellations_other": [],
+            "recommendations": [],
+            "title_for_label": "<p>Dummy</p>",
+            "creator_credit_for_label": "<p>Ben Speth</p>",
+            "headline_credit_for_label": "",
+            "description": "<p>Pregnant with absence, &#8216;Dummy&#8217; depicts desolate urban and suburban environments. Filmed in and around Melbourne, these everyday, expectant spaces are captured with formal elegance and an accidental beauty that reveals a unique insight into the secret and forgotten life of Melbourne.</p>",
+            "description_for_label": [
+                "<p>Pregnant with absence, &#8216;Dummy&#8217; depicts desolate urban and suburban environments. Filmed in and around Melbourne, these everyday, expectant spaces are captured with formal elegance and an accidental beauty that reveals a unique insight into the secret and forgotten life of Melbourne.</p>"
+            ],
+            "credit_line_for_label": "",
+            "details": [
+                {
+                    "label": "Subject category",
+                    "display_values": [
+                        "Places&nbsp;→ Melbourne (Vic.)"
+                    ]
+                }
+            ],
+            "stats": {
+                "tap_count": 0
+            },
+            "links": [],
+            "creators_primary": [
+                {
+                    "id": 1133477,
+                    "name": "Ben Speth",
+                    "creator_id": 8765,
+                    "role": "creator",
+                    "role_id": 968,
+                    "is_primary": true
+                }
+            ],
+            "creators_other": [],
+            "video_links": [],
+            "media_note": "Sorry, we don't have images or video for this item.",
+            "images": [],
+            "videos": [],
+            "holdings": [
+                {
+                    "name": "Digital Betacam [PAL]; Sub-master",
+                    "identifier": "",
+                    "description": ""
+                },
+                {
+                    "name": "DVD [PAL]; Copy",
+                    "identifier": "",
+                    "description": ""
+                },
+                {
+                    "name": "Mini DV; Master",
+                    "identifier": "",
+                    "description": ""
+                },
+                {
+                    "name": "DVD ROM; Copy",
+                    "identifier": "",
+                    "description": ""
+                }
+            ],
+            "part_of": null,
+            "parts": [],
+            "part_siblings": [],
+            "group": {
+                "id": 113985,
+                "acmi_id": "10182",
+                "title": "Public Imaging compilation. No. 1",
+                "title_annotation": "",
+                "slug": "public-imaging-compilation-no-1",
+                "creator_credit": "",
+                "credit_line": "",
+                "headline_credit": "",
+                "thumbnail": {
+                    "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/B2001360_AColourBox.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=2%2BEu2dIGtORym5P3L18D7qBZByg%3D&Expires=1627009477",
+                    "has_video": false
+                },
+                "record_type": "group",
+                "type": "Film",
+                "is_on_display": false,
+                "last_on_display_place": null,
+                "last_on_display_date": null,
+                "is_context_indigenous": false,
+                "material_description": "",
+                "unpublished": true,
+                "first_production_date": null
+            },
+            "group_works": [],
+            "group_siblings": [
+                {
+                    "id": 113986,
+                    "acmi_id": "149998",
+                    "title": "A Colour box",
+                    "title_annotation": "",
+                    "slug": "a-colour-box",
+                    "creator_credit": "John Grierson and Len Lye",
+                    "credit_line": "",
+                    "headline_credit": "United Kingdom, 1935",
+                    "thumbnail": {
+                        "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/B2001360_AColourBox.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=2%2BEu2dIGtORym5P3L18D7qBZByg%3D&Expires=1627009477",
+                        "has_video": false
+                    },
+                    "record_type": "work",
+                    "type": "Film",
+                    "is_on_display": false,
+                    "last_on_display_place": "ACMI Viewing Booths",
+                    "last_on_display_date": "2019-04-22",
+                    "is_context_indigenous": false,
+                    "material_description": "",
+                    "unpublished": false,
+                    "first_production_date": "1935-01-01T10:00:00+10:00"
+                },
+                {
+                    "id": 114003,
+                    "acmi_id": "148921",
+                    "title": "Free radicals",
+                    "title_annotation": "",
+                    "slug": "free-radicals",
+                    "creator_credit": "Len Lye",
+                    "credit_line": "",
+                    "headline_credit": "United States, 1979",
+                    "thumbnail": {
+                        "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/B2001354_FreeRadicals.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=PMUQR6zN7hKGTR2slvdyuV%2Blfb0%3D&Expires=1627009477",
+                        "has_video": false
+                    },
+                    "record_type": "work",
+                    "type": "Film",
+                    "is_on_display": false,
+                    "last_on_display_place": "ACMI Viewing Booths",
+                    "last_on_display_date": "2019-04-22",
+                    "is_context_indigenous": false,
+                    "material_description": "",
+                    "unpublished": false,
+                    "first_production_date": "1979-01-01T11:00:00+11:00"
+                },
+                {
+                    "id": 113991,
+                    "acmi_id": "186",
+                    "title": "Len Lye compilation",
+                    "title_annotation": "",
+                    "slug": "len-lye-compilation",
+                    "creator_credit": "Len Lye",
+                    "credit_line": "",
+                    "headline_credit": "New Zealand, 1929-1980",
+                    "thumbnail": {
+                        "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/lenlyetalfar003.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=OrG5u56LcHAACIPgqV%2Bl07NZ%2FSg%3D&Expires=1627009477",
+                        "has_video": false
+                    },
+                    "record_type": "group",
+                    "type": "Film",
+                    "is_on_display": false,
+                    "last_on_display_place": null,
+                    "last_on_display_date": null,
+                    "is_context_indigenous": false,
+                    "material_description": "",
+                    "unpublished": false,
+                    "first_production_date": null
+                },
+                {
+                    "id": 113984,
+                    "acmi_id": "81",
+                    "title": "Rev",
+                    "title_annotation": "",
+                    "slug": "rev",
+                    "creator_credit": "Namsik Kim and Seoungho Cho",
+                    "credit_line": "",
+                    "headline_credit": "United States, 1997",
+                    "thumbnail": {
+                        "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/B1000090_Rev_002.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=HpCb4CrXrJeVhrVCXaLGdfzpgM8%3D&Expires=1627009477",
+                        "has_video": false
+                    },
+                    "record_type": "work",
+                    "type": "Digital art",
+                    "is_on_display": false,
+                    "last_on_display_place": "ACMI Screen Gallery",
+                    "last_on_display_date": "2005-07-17",
+                    "is_context_indigenous": false,
+                    "material_description": "Single channel moving image, black and white and colour and audio",
+                    "unpublished": false,
+                    "first_production_date": "1997-01-01T11:00:00+11:00"
+                },
+                {
+                    "id": 114008,
+                    "acmi_id": "148924",
+                    "title": "Tal Farlow",
+                    "title_annotation": "",
+                    "slug": "tal-farlow",
+                    "creator_credit": "Len Lye",
+                    "credit_line": "",
+                    "headline_credit": "New Zealand, 1980",
+                    "thumbnail": {
+                        "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/B2001357_TalFarlow.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=mcmoILUY5HfwNkDMCFAxl7PaJAk%3D&Expires=1627009477",
+                        "has_video": false
+                    },
+                    "record_type": "work",
+                    "type": "Film",
+                    "is_on_display": false,
+                    "last_on_display_place": "ACMI Viewing Booths",
+                    "last_on_display_date": "2019-04-22",
+                    "is_context_indigenous": false,
+                    "material_description": "",
+                    "unpublished": false,
+                    "first_production_date": "1980-01-01T11:00:00+11:00"
+                }
+            ],
+            "source": {
+                "name": "Vernon",
+                "slug": "vernon"
+            },
+            "source_identifier": "2073",
+            "production_places": [],
+            "production_dates": [],
+            "labels": [
+                53481
+            ]
+        },
+        {
+            "id": 113986,
+            "acmi_id": "149998",
+            "title": "A Colour box",
+            "title_annotation": "",
+            "slug": "a-colour-box",
+            "creator_credit": "John Grierson and Len Lye",
+            "credit_line": "",
+            "headline_credit": "United Kingdom, 1935",
+            "thumbnail": {
+                "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/B2001360_AColourBox.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=2%2BEu2dIGtORym5P3L18D7qBZByg%3D&Expires=1627009477",
+                "has_video": false
+            },
+            "record_type": "work",
+            "type": "Film",
+            "is_on_display": false,
+            "last_on_display_place": "ACMI Viewing Booths",
+            "last_on_display_date": "2019-04-22",
+            "is_context_indigenous": false,
+            "material_description": "",
+            "unpublished": false,
+            "first_production_date": "1935-01-01T10:00:00+10:00",
+            "brief_description": "<p>The purely abstract &#8220;A Colour Box&#8221; was Len Lye&#8217;s first experiment with painting in colour directly onto celluloid. After its initial release in 1935, John Grierson acquired the film for the United Kingdom General Post Office, and it was re-released in 1937 as an advertisement, with the addition of a &#8220;cheaper parcel post&#8221; message. Note: this film has been restored by the National Film and Television Archive (UK) from Lye&#8217;s original material using the Eastmancolor process.</p>",
+            "constellations_primary": [],
+            "constellations_other": [],
+            "recommendations": [],
+            "title_for_label": "<p>A Colour box</p>",
+            "creator_credit_for_label": "<p>John Grierson and Len Lye</p>",
+            "headline_credit_for_label": "<p>United Kingdom, 1935</p>",
+            "description": "<p>The purely abstract &#8220;A Colour Box&#8221; was Len Lye&#8217;s first experiment with painting in colour directly onto celluloid. After its initial release in 1935, John Grierson acquired the film for the United Kingdom General Post Office, and it was re-released in 1937 as an advertisement, with the addition of a &#8220;cheaper parcel post&#8221; message. Note: this film has been restored by the National Film and Television Archive (UK) from Lye&#8217;s original material using the Eastmancolor process.</p>",
+            "description_for_label": [
+                "<p>The purely abstract &#8220;A Colour Box&#8221; was Len Lye&#8217;s first experiment with painting in colour directly onto celluloid. After its initial release in 1935, John Grierson acquired the film for the United Kingdom General Post Office, and it was re-released in 1937 as an advertisement, with the addition of a &#8220;cheaper parcel post&#8221; message. Note: this film has been restored by the National Film and Television Archive (UK) from Lye&#8217;s original material using the Eastmancolor process.</p>"
+            ],
+            "credit_line_for_label": "",
+            "details": [
+                {
+                    "label": "Duration",
+                    "display_values": [
+                        "00:03:28:00"
+                    ]
+                },
+                {
+                    "label": "Audience classifications",
+                    "display_values": [
+                        "Mediatheque - all ages (ACMI classified)",
+                        "unclassified"
+                    ]
+                },
+                {
+                    "label": "Subject categories",
+                    "display_values": [
+                        "Short films",
+                        "Short films&nbsp;→ Short films - Australia"
+                    ]
+                },
+                {
+                    "label": "Sound/audio",
+                    "display_values": [
+                        "Sound"
+                    ]
+                },
+                {
+                    "label": "Colour",
+                    "display_values": [
+                        "Colour"
+                    ]
+                }
+            ],
+            "stats": {
+                "tap_count": 0
+            },
+            "links": [],
+            "creators_primary": [
+                {
+                    "id": 1133476,
+                    "name": "John Grierson",
+                    "creator_id": 1978,
+                    "role": "producer",
+                    "role_id": 960,
+                    "is_primary": true
+                },
+                {
+                    "id": 1133475,
+                    "name": "Len Lye",
+                    "creator_id": 71783,
+                    "role": "creator",
+                    "role_id": 968,
+                    "is_primary": true
+                }
+            ],
+            "creators_other": [],
+            "video_links": [],
+            "media_note": null,
+            "images": [
+                {
+                    "id": 13386,
+                    "image_file": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/B2001360_AColourBox.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=JpdySVXdvaBQaTqNxBK5zyR9U28%3D&Expires=1627009477",
+                    "image_file_thumbnail": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/B2001360_AColourBox.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=2%2BEu2dIGtORym5P3L18D7qBZByg%3D&Expires=1627009477",
+                    "image_file_xs": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/B2001360_AColourBox.jpg.480x480_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=J9nM%2BPNSXTH601CVyySj7P5xN%2BI%3D&Expires=1627009477",
+                    "image_file_s": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/B2001360_AColourBox.jpg.960x960_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=DTq5vjO7ZieTe9T72%2BMhwhEGnY8%3D&Expires=1627009477",
+                    "image_file_m": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/B2001360_AColourBox.jpg.1920x1920_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=31x1P7mdcCdcW%2Bmrx6Hpoko04go%3D&Expires=1627009477",
+                    "image_file_l": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/B2001360_AColourBox.jpg.3840x3840_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=1zguAAIwv01fqE7LqtNs%2BmpPMTk%3D&Expires=1627009477",
+                    "caption": "A Colour box (Len Lye) still",
+                    "credit_line": "",
+                    "alt_text": "",
+                    "width": 438,
+                    "height": 327,
+                    "access_level": "View anywhere"
+                }
+            ],
+            "videos": [],
+            "holdings": [
+                {
+                    "name": "MOV file H264; ACMI Digital Access Copy - presentation",
+                    "identifier": "",
+                    "description": ""
+                },
+                {
+                    "name": "Digital Betacam [PAL]; Sub-master",
+                    "identifier": "",
+                    "description": ""
+                }
+            ],
+            "part_of": null,
+            "parts": [],
+            "part_siblings": [],
+            "group": {
+                "id": 113985,
+                "acmi_id": "10182",
+                "title": "Public Imaging compilation. No. 1",
+                "title_annotation": "",
+                "slug": "public-imaging-compilation-no-1",
+                "creator_credit": "",
+                "credit_line": "",
+                "headline_credit": "",
+                "thumbnail": {
+                    "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/B2001360_AColourBox.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=2%2BEu2dIGtORym5P3L18D7qBZByg%3D&Expires=1627009477",
+                    "has_video": false
+                },
+                "record_type": "group",
+                "type": "Film",
+                "is_on_display": false,
+                "last_on_display_place": null,
+                "last_on_display_date": null,
+                "is_context_indigenous": false,
+                "material_description": "",
+                "unpublished": true,
+                "first_production_date": null
+            },
+            "group_works": [],
+            "group_siblings": [
+                {
+                    "id": 113987,
+                    "acmi_id": "2073",
+                    "title": "Dummy",
+                    "title_annotation": "",
+                    "slug": "dummy",
+                    "creator_credit": "Ben Speth",
+                    "credit_line": "",
+                    "headline_credit": "",
+                    "thumbnail": null,
+                    "record_type": "work",
+                    "type": "Film",
+                    "is_on_display": false,
+                    "last_on_display_place": null,
+                    "last_on_display_date": null,
+                    "is_context_indigenous": false,
+                    "material_description": "",
+                    "unpublished": false,
+                    "first_production_date": null
+                },
+                {
+                    "id": 114003,
+                    "acmi_id": "148921",
+                    "title": "Free radicals",
+                    "title_annotation": "",
+                    "slug": "free-radicals",
+                    "creator_credit": "Len Lye",
+                    "credit_line": "",
+                    "headline_credit": "United States, 1979",
+                    "thumbnail": {
+                        "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/B2001354_FreeRadicals.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=PMUQR6zN7hKGTR2slvdyuV%2Blfb0%3D&Expires=1627009477",
+                        "has_video": false
+                    },
+                    "record_type": "work",
+                    "type": "Film",
+                    "is_on_display": false,
+                    "last_on_display_place": "ACMI Viewing Booths",
+                    "last_on_display_date": "2019-04-22",
+                    "is_context_indigenous": false,
+                    "material_description": "",
+                    "unpublished": false,
+                    "first_production_date": "1979-01-01T11:00:00+11:00"
+                },
+                {
+                    "id": 113991,
+                    "acmi_id": "186",
+                    "title": "Len Lye compilation",
+                    "title_annotation": "",
+                    "slug": "len-lye-compilation",
+                    "creator_credit": "Len Lye",
+                    "credit_line": "",
+                    "headline_credit": "New Zealand, 1929-1980",
+                    "thumbnail": {
+                        "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/lenlyetalfar003.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=OrG5u56LcHAACIPgqV%2Bl07NZ%2FSg%3D&Expires=1627009477",
+                        "has_video": false
+                    },
+                    "record_type": "group",
+                    "type": "Film",
+                    "is_on_display": false,
+                    "last_on_display_place": null,
+                    "last_on_display_date": null,
+                    "is_context_indigenous": false,
+                    "material_description": "",
+                    "unpublished": false,
+                    "first_production_date": null
+                },
+                {
+                    "id": 113984,
+                    "acmi_id": "81",
+                    "title": "Rev",
+                    "title_annotation": "",
+                    "slug": "rev",
+                    "creator_credit": "Namsik Kim and Seoungho Cho",
+                    "credit_line": "",
+                    "headline_credit": "United States, 1997",
+                    "thumbnail": {
+                        "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/B1000090_Rev_002.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=HpCb4CrXrJeVhrVCXaLGdfzpgM8%3D&Expires=1627009477",
+                        "has_video": false
+                    },
+                    "record_type": "work",
+                    "type": "Digital art",
+                    "is_on_display": false,
+                    "last_on_display_place": "ACMI Screen Gallery",
+                    "last_on_display_date": "2005-07-17",
+                    "is_context_indigenous": false,
+                    "material_description": "Single channel moving image, black and white and colour and audio",
+                    "unpublished": false,
+                    "first_production_date": "1997-01-01T11:00:00+11:00"
+                },
+                {
+                    "id": 114008,
+                    "acmi_id": "148924",
+                    "title": "Tal Farlow",
+                    "title_annotation": "",
+                    "slug": "tal-farlow",
+                    "creator_credit": "Len Lye",
+                    "credit_line": "",
+                    "headline_credit": "New Zealand, 1980",
+                    "thumbnail": {
+                        "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/B2001357_TalFarlow.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=mcmoILUY5HfwNkDMCFAxl7PaJAk%3D&Expires=1627009477",
+                        "has_video": false
+                    },
+                    "record_type": "work",
+                    "type": "Film",
+                    "is_on_display": false,
+                    "last_on_display_place": "ACMI Viewing Booths",
+                    "last_on_display_date": "2019-04-22",
+                    "is_context_indigenous": false,
+                    "material_description": "",
+                    "unpublished": false,
+                    "first_production_date": "1980-01-01T11:00:00+11:00"
+                }
+            ],
+            "source": {
+                "name": "Vernon",
+                "slug": "vernon"
+            },
+            "source_identifier": "149998",
+            "production_places": [
+                {
+                    "id": 10,
+                    "name": "United Kingdom",
+                    "slug": "united-kingdom"
+                }
+            ],
+            "production_dates": [
+                {
+                    "date": "1935",
+                    "notes": "",
+                    "to_year": "1935"
+                }
+            ],
+            "labels": [
+                53480
+            ]
+        },
+        {
+            "id": 101482,
+            "acmi_id": "10180",
+            "title": "Sadie Benning compile",
+            "title_annotation": "",
+            "slug": "sadie-benning-compile",
+            "creator_credit": "Sadie Benning",
+            "credit_line": "",
+            "headline_credit": "United States, 1989-1995",
+            "thumbnail": {
+                "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/B1003646_Jollies.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=N8IZUTe5fImOmPm3tqDz8xP8aHQ%3D&Expires=1627009477",
+                "has_video": false
+            },
+            "record_type": "group",
+            "type": "Digital art",
+            "is_on_display": false,
+            "last_on_display_place": null,
+            "last_on_display_date": null,
+            "is_context_indigenous": false,
+            "material_description": "",
+            "unpublished": false,
+            "first_production_date": null,
+            "brief_description": "",
+            "constellations_primary": [],
+            "constellations_other": [],
+            "recommendations": [],
+            "title_for_label": "<p>Sadie Benning compile</p>",
+            "creator_credit_for_label": "<p>Sadie Benning</p>",
+            "headline_credit_for_label": "<p>United States, 1989-1995</p>",
+            "description": "",
+            "description_for_label": [],
+            "credit_line_for_label": "",
+            "details": [
+                {
+                    "label": "Duration",
+                    "display_values": [
+                        "00:53:00:00"
+                    ]
+                },
+                {
+                    "label": "Language",
+                    "display_values": [
+                        "English"
+                    ]
+                },
+                {
+                    "label": "Subject category",
+                    "display_values": [
+                        "Digital Art"
+                    ]
+                },
+                {
+                    "label": "Sound/audio",
+                    "display_values": [
+                        "Sound"
+                    ]
+                },
+                {
+                    "label": "Colour",
+                    "display_values": [
+                        "Black and White",
+                        "Colour"
+                    ]
+                }
+            ],
+            "stats": {
+                "tap_count": 0
+            },
+            "links": [],
+            "creators_primary": [
+                {
+                    "id": 1133474,
+                    "name": "Sadie Benning",
+                    "creator_id": 6504,
+                    "role": "creator",
+                    "role_id": 968,
+                    "is_primary": true
+                }
+            ],
+            "creators_other": [],
+            "video_links": [],
+            "media_note": null,
+            "images": [
+                {
+                    "id": 11214,
+                    "image_file": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/B1003646_Jollies.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=Qi2Sk8%2FOWMWOZ3z8PvKnsML%2B0%2BU%3D&Expires=1627009477",
+                    "image_file_thumbnail": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/B1003646_Jollies.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=N8IZUTe5fImOmPm3tqDz8xP8aHQ%3D&Expires=1627009477",
+                    "image_file_xs": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/B1003646_Jollies.jpg.480x480_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=7wO7CBEN6YiUUUDhSU%2FO7ib%2BtXQ%3D&Expires=1627009477",
+                    "image_file_s": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/B1003646_Jollies.jpg.960x960_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=02E5o%2FSy%2B4ECkDi1fPtUpQvlqt0%3D&Expires=1627009477",
+                    "image_file_m": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/B1003646_Jollies.jpg.1920x1920_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=%2BUXui7VFh7SvsXmUtuWEFJVvDGI%3D&Expires=1627009477",
+                    "image_file_l": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/B1003646_Jollies.jpg.3840x3840_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=yRmykN%2FR5hxBphnVZ%2F9jVANU%2Bis%3D&Expires=1627009477",
+                    "caption": "Jollies (Sadie Benning) still",
+                    "credit_line": "",
+                    "alt_text": "",
+                    "width": 438,
+                    "height": 327,
+                    "access_level": "View anywhere"
+                },
+                {
+                    "id": 13364,
+                    "image_file": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/B2000271_LivingInside.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=sQVaeaRnvg%2BHCg%2B9cWqt11Bqgjg%3D&Expires=1627009477",
+                    "image_file_thumbnail": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/B2000271_LivingInside.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=zxliNdBwsnfFkENIPhMzWqHlutI%3D&Expires=1627009477",
+                    "image_file_xs": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/B2000271_LivingInside.jpg.480x480_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=FqZmLSW0xirYwRZ1V0VY2d9kslY%3D&Expires=1627009477",
+                    "image_file_s": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/B2000271_LivingInside.jpg.960x960_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=Nu0XcZcDMvB%2F6uKNDF5lg%2FdvjFs%3D&Expires=1627009477",
+                    "image_file_m": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/B2000271_LivingInside.jpg.1920x1920_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=rdTo41p1bUO%2BhPH0MUvdRG8i9Zs%3D&Expires=1627009477",
+                    "image_file_l": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/B2000271_LivingInside.jpg.3840x3840_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=JcOr5fgC20Y32t809OyeQ%2BjVdYI%3D&Expires=1627009477",
+                    "caption": "Living inside (Sadie Benning) still",
+                    "credit_line": "",
+                    "alt_text": "",
+                    "width": 438,
+                    "height": 327,
+                    "access_level": "View anywhere"
+                },
+                {
+                    "id": 11271,
+                    "image_file": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/B2000273_TheJudyspots.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=7bxRcnqZZzRHuXF2OkuAbEKauqQ%3D&Expires=1627009477",
+                    "image_file_thumbnail": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/B2000273_TheJudyspots.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=6%2BHbNlbOnqCV88up%2F9IyDkmIcbc%3D&Expires=1627009477",
+                    "image_file_xs": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/B2000273_TheJudyspots.jpg.480x480_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=DW%2FjIKTZuoIdPLSmEBSI0U2GzpM%3D&Expires=1627009477",
+                    "image_file_s": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/B2000273_TheJudyspots.jpg.960x960_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=RU%2FtZwXU%2F04m1%2BOjaX807hQ4qtw%3D&Expires=1627009477",
+                    "image_file_m": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/B2000273_TheJudyspots.jpg.1920x1920_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=8b%2FKOnStKenu%2FHZ2RF7ZZVLKNrA%3D&Expires=1627009477",
+                    "image_file_l": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/B2000273_TheJudyspots.jpg.3840x3840_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=2%2BiZ1Va9HSF78TG%2FtpSELnxZJOw%3D&Expires=1627009477",
+                    "caption": "The Judy spots (Sadie Benning) still",
+                    "credit_line": "",
+                    "alt_text": "",
+                    "width": 438,
+                    "height": 327,
+                    "access_level": "View anywhere"
+                }
+            ],
+            "videos": [],
+            "holdings": [
+                {
+                    "name": "SP Betacam; Copy",
+                    "identifier": "",
+                    "description": ""
+                },
+                {
+                    "name": "MOV file ProRes4444; Digital Preservation Master - overscan",
+                    "identifier": "",
+                    "description": ""
+                },
+                {
+                    "name": "MPEG-4 Digital File; ACMI Digital Access Copy - overscan",
+                    "identifier": "",
+                    "description": ""
+                }
+            ],
+            "part_of": null,
+            "parts": [],
+            "part_siblings": [],
+            "group": null,
+            "group_works": [
+                {
+                    "id": 109883,
+                    "acmi_id": "12183",
+                    "title": "A Place called Lovely",
+                    "title_annotation": "",
+                    "slug": "a-place-called-lovely",
+                    "creator_credit": "Sadie Benning",
+                    "credit_line": "",
+                    "headline_credit": "United States, 1991",
+                    "thumbnail": null,
+                    "record_type": "work",
+                    "type": "Digital art",
+                    "is_on_display": false,
+                    "last_on_display_place": null,
+                    "last_on_display_date": null,
+                    "is_context_indigenous": false,
+                    "material_description": "Single channel moving image, black and white and audio",
+                    "unpublished": false,
+                    "first_production_date": "1991-01-01T11:00:00+11:00"
+                },
+                {
+                    "id": 107977,
+                    "acmi_id": "173",
+                    "title": "If Every Girl Had a Diary",
+                    "title_annotation": "",
+                    "slug": "if-every-girl-had-a-diary",
+                    "creator_credit": "Sadie Benning",
+                    "credit_line": "",
+                    "headline_credit": "United States, 1990",
+                    "thumbnail": null,
+                    "record_type": "work",
+                    "type": "Digital art",
+                    "is_on_display": false,
+                    "last_on_display_place": "ACMI Screen Lounge",
+                    "last_on_display_date": "2004-12-31",
+                    "is_context_indigenous": false,
+                    "material_description": "Single channel moving image, black and white and audio",
+                    "unpublished": false,
+                    "first_production_date": "1990-01-01T11:00:00+11:00"
+                },
+                {
+                    "id": 108639,
+                    "acmi_id": "1491",
+                    "title": "Jollies",
+                    "title_annotation": "",
+                    "slug": "jollies",
+                    "creator_credit": "Sadie Benning",
+                    "credit_line": "",
+                    "headline_credit": "United States, 1990",
+                    "thumbnail": {
+                        "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/B1003646_Jollies.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=N8IZUTe5fImOmPm3tqDz8xP8aHQ%3D&Expires=1627009477",
+                        "has_video": false
+                    },
+                    "record_type": "work",
+                    "type": "Digital art",
+                    "is_on_display": false,
+                    "last_on_display_place": "ACMI Screen Gallery",
+                    "last_on_display_date": "2003-08-31",
+                    "is_context_indigenous": false,
+                    "material_description": "Single channel moving image, black and white and audio",
+                    "unpublished": false,
+                    "first_production_date": "1990-01-01T11:00:00+11:00"
+                },
+                {
+                    "id": 113982,
+                    "acmi_id": "12182",
+                    "title": "Living inside",
+                    "title_annotation": "",
+                    "slug": "living-inside",
+                    "creator_credit": "Sadie Benning",
+                    "credit_line": "",
+                    "headline_credit": "United States, 1989",
+                    "thumbnail": {
+                        "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/B2000271_LivingInside.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=zxliNdBwsnfFkENIPhMzWqHlutI%3D&Expires=1627009477",
+                        "has_video": false
+                    },
+                    "record_type": "work",
+                    "type": "Digital art",
+                    "is_on_display": false,
+                    "last_on_display_place": "ACMI Viewing Booths",
+                    "last_on_display_date": "2019-04-22",
+                    "is_context_indigenous": false,
+                    "material_description": "Single channel moving image, black and white and audio",
+                    "unpublished": false,
+                    "first_production_date": "1989-01-01T11:00:00+11:00"
+                },
+                {
+                    "id": 109884,
+                    "acmi_id": "12184",
+                    "title": "The Judy spots",
+                    "title_annotation": "",
+                    "slug": "the-judy-spots",
+                    "creator_credit": "Elisabeth Subrin and Sadie Benning",
+                    "credit_line": "",
+                    "headline_credit": "United States, 1995",
+                    "thumbnail": {
+                        "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/B2000273_TheJudyspots.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=6%2BHbNlbOnqCV88up%2F9IyDkmIcbc%3D&Expires=1627009477",
+                        "has_video": false
+                    },
+                    "record_type": "work",
+                    "type": "Digital art",
+                    "is_on_display": false,
+                    "last_on_display_place": "ACMI Viewing Booths",
+                    "last_on_display_date": "2019-04-22",
+                    "is_context_indigenous": false,
+                    "material_description": "Single channel moving image, black and white and audio",
+                    "unpublished": false,
+                    "first_production_date": "1995-01-01T11:00:00+11:00"
+                }
+            ],
+            "group_siblings": [],
+            "source": {
+                "name": "Vernon",
+                "slug": "vernon"
+            },
+            "source_identifier": "10180",
+            "production_places": [
+                {
+                    "id": 2,
+                    "name": "United States",
+                    "slug": "united-states"
+                }
+            ],
+            "production_dates": [
+                {
+                    "date": "1989-1995",
+                    "notes": "",
+                    "to_year": "1989-1995"
+                }
+            ],
+            "labels": [
+                40972
+            ]
+        },
+        {
+            "id": 109883,
+            "acmi_id": "12183",
+            "title": "A Place called Lovely",
+            "title_annotation": "",
+            "slug": "a-place-called-lovely",
+            "creator_credit": "Sadie Benning",
+            "credit_line": "",
+            "headline_credit": "United States, 1991",
+            "thumbnail": null,
+            "record_type": "work",
+            "type": "Digital art",
+            "is_on_display": false,
+            "last_on_display_place": null,
+            "last_on_display_date": null,
+            "is_context_indigenous": false,
+            "material_description": "Single channel moving image, black and white and audio",
+            "unpublished": false,
+            "first_production_date": "1991-01-01T11:00:00+11:00",
+            "brief_description": "",
+            "constellations_primary": [],
+            "constellations_other": [],
+            "recommendations": [],
+            "title_for_label": "<p>A Place called Lovely</p>",
+            "creator_credit_for_label": "<p>Sadie Benning</p>",
+            "headline_credit_for_label": "<p>United States, 1991</p>",
+            "description": "",
+            "description_for_label": [],
+            "credit_line_for_label": "",
+            "details": [
+                {
+                    "label": "Duration",
+                    "display_values": [
+                        "00:13:43:00"
+                    ]
+                },
+                {
+                    "label": "Language",
+                    "display_values": [
+                        "English"
+                    ]
+                },
+                {
+                    "label": "Subject category",
+                    "display_values": [
+                        "Digital Art"
+                    ]
+                },
+                {
+                    "label": "Sound/audio",
+                    "display_values": [
+                        "Sound"
+                    ]
+                },
+                {
+                    "label": "Colour",
+                    "display_values": [
+                        "Black and White"
+                    ]
+                },
+                {
+                    "label": "Materials",
+                    "display_values": [
+                        "Single channel moving image, black and white and audio"
+                    ]
+                }
+            ],
+            "stats": {
+                "tap_count": 0
+            },
+            "links": [],
+            "creators_primary": [
+                {
+                    "id": 1133473,
+                    "name": "Sadie Benning",
+                    "creator_id": 6504,
+                    "role": "creator",
+                    "role_id": 968,
+                    "is_primary": true
+                }
+            ],
+            "creators_other": [],
+            "video_links": [],
+            "media_note": "Sorry, we don't have images or video for this item.",
+            "images": [],
+            "videos": [],
+            "holdings": [
+                {
+                    "name": "MPEG-4 Digital File; ACMI Digital Access Copy - overscan",
+                    "identifier": "",
+                    "description": ""
+                },
+                {
+                    "name": "MOV file ProRes4444; Digital Preservation Master - overscan",
+                    "identifier": "",
+                    "description": ""
+                },
+                {
+                    "name": "SP Betacam; Copy",
+                    "identifier": "",
+                    "description": ""
+                },
+                {
+                    "name": "Digital Betacam [NTSC]; Master",
+                    "identifier": "",
+                    "description": ""
+                },
+                {
+                    "name": "Digital Betacam [PAL]; Sub-master",
+                    "identifier": "",
+                    "description": ""
+                },
+                {
+                    "name": "VHS [PAL]; Reference - timecoded",
+                    "identifier": "",
+                    "description": ""
+                },
+                {
+                    "name": "VHS [PAL]; Copy",
+                    "identifier": "",
+                    "description": ""
+                }
+            ],
+            "part_of": null,
+            "parts": [],
+            "part_siblings": [],
+            "group": {
+                "id": 101482,
+                "acmi_id": "10180",
+                "title": "Sadie Benning compile",
+                "title_annotation": "",
+                "slug": "sadie-benning-compile",
+                "creator_credit": "Sadie Benning",
+                "credit_line": "",
+                "headline_credit": "United States, 1989-1995",
+                "thumbnail": {
+                    "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/B1003646_Jollies.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=N8IZUTe5fImOmPm3tqDz8xP8aHQ%3D&Expires=1627009477",
+                    "has_video": false
+                },
+                "record_type": "group",
+                "type": "Digital art",
+                "is_on_display": false,
+                "last_on_display_place": null,
+                "last_on_display_date": null,
+                "is_context_indigenous": false,
+                "material_description": "",
+                "unpublished": false,
+                "first_production_date": null
+            },
+            "group_works": [],
+            "group_siblings": [
+                {
+                    "id": 107977,
+                    "acmi_id": "173",
+                    "title": "If Every Girl Had a Diary",
+                    "title_annotation": "",
+                    "slug": "if-every-girl-had-a-diary",
+                    "creator_credit": "Sadie Benning",
+                    "credit_line": "",
+                    "headline_credit": "United States, 1990",
+                    "thumbnail": null,
+                    "record_type": "work",
+                    "type": "Digital art",
+                    "is_on_display": false,
+                    "last_on_display_place": "ACMI Screen Lounge",
+                    "last_on_display_date": "2004-12-31",
+                    "is_context_indigenous": false,
+                    "material_description": "Single channel moving image, black and white and audio",
+                    "unpublished": false,
+                    "first_production_date": "1990-01-01T11:00:00+11:00"
+                },
+                {
+                    "id": 108639,
+                    "acmi_id": "1491",
+                    "title": "Jollies",
+                    "title_annotation": "",
+                    "slug": "jollies",
+                    "creator_credit": "Sadie Benning",
+                    "credit_line": "",
+                    "headline_credit": "United States, 1990",
+                    "thumbnail": {
+                        "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/B1003646_Jollies.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=N8IZUTe5fImOmPm3tqDz8xP8aHQ%3D&Expires=1627009477",
+                        "has_video": false
+                    },
+                    "record_type": "work",
+                    "type": "Digital art",
+                    "is_on_display": false,
+                    "last_on_display_place": "ACMI Screen Gallery",
+                    "last_on_display_date": "2003-08-31",
+                    "is_context_indigenous": false,
+                    "material_description": "Single channel moving image, black and white and audio",
+                    "unpublished": false,
+                    "first_production_date": "1990-01-01T11:00:00+11:00"
+                },
+                {
+                    "id": 113982,
+                    "acmi_id": "12182",
+                    "title": "Living inside",
+                    "title_annotation": "",
+                    "slug": "living-inside",
+                    "creator_credit": "Sadie Benning",
+                    "credit_line": "",
+                    "headline_credit": "United States, 1989",
+                    "thumbnail": {
+                        "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/B2000271_LivingInside.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=zxliNdBwsnfFkENIPhMzWqHlutI%3D&Expires=1627009477",
+                        "has_video": false
+                    },
+                    "record_type": "work",
+                    "type": "Digital art",
+                    "is_on_display": false,
+                    "last_on_display_place": "ACMI Viewing Booths",
+                    "last_on_display_date": "2019-04-22",
+                    "is_context_indigenous": false,
+                    "material_description": "Single channel moving image, black and white and audio",
+                    "unpublished": false,
+                    "first_production_date": "1989-01-01T11:00:00+11:00"
+                },
+                {
+                    "id": 109884,
+                    "acmi_id": "12184",
+                    "title": "The Judy spots",
+                    "title_annotation": "",
+                    "slug": "the-judy-spots",
+                    "creator_credit": "Elisabeth Subrin and Sadie Benning",
+                    "credit_line": "",
+                    "headline_credit": "United States, 1995",
+                    "thumbnail": {
+                        "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/B2000273_TheJudyspots.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=6%2BHbNlbOnqCV88up%2F9IyDkmIcbc%3D&Expires=1627009477",
+                        "has_video": false
+                    },
+                    "record_type": "work",
+                    "type": "Digital art",
+                    "is_on_display": false,
+                    "last_on_display_place": "ACMI Viewing Booths",
+                    "last_on_display_date": "2019-04-22",
+                    "is_context_indigenous": false,
+                    "material_description": "Single channel moving image, black and white and audio",
+                    "unpublished": false,
+                    "first_production_date": "1995-01-01T11:00:00+11:00"
+                }
+            ],
+            "source": {
+                "name": "Vernon",
+                "slug": "vernon"
+            },
+            "source_identifier": "12183",
+            "production_places": [
+                {
+                    "id": 2,
+                    "name": "United States",
+                    "slug": "united-states"
+                }
+            ],
+            "production_dates": [
+                {
+                    "date": "1991",
+                    "notes": "",
+                    "to_year": "1991"
+                }
+            ],
+            "labels": [
+                49376
+            ]
+        },
+        {
+            "id": 113982,
+            "acmi_id": "12182",
+            "title": "Living inside",
+            "title_annotation": "",
+            "slug": "living-inside",
+            "creator_credit": "Sadie Benning",
+            "credit_line": "",
+            "headline_credit": "United States, 1989",
+            "thumbnail": {
+                "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/B2000271_LivingInside.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=zxliNdBwsnfFkENIPhMzWqHlutI%3D&Expires=1627009477",
+                "has_video": false
+            },
+            "record_type": "work",
+            "type": "Digital art",
+            "is_on_display": false,
+            "last_on_display_place": "ACMI Viewing Booths",
+            "last_on_display_date": "2019-04-22",
+            "is_context_indigenous": false,
+            "material_description": "Single channel moving image, black and white and audio",
+            "unpublished": false,
+            "first_production_date": "1989-01-01T11:00:00+11:00",
+            "brief_description": "<p>Sadie Benning, at the age of 16, dropped out of high school for three weeks and stayed inside with her camera, TV and a pile of dirty laundry. The result is an introspective work of stop and start edits, grainy images and Benning&#8217;s reflective commentary invoking a sense of isolation and sadness as she retreats from the outside world.</p>",
+            "constellations_primary": [],
+            "constellations_other": [],
+            "recommendations": [],
+            "title_for_label": "<p>Living inside</p>",
+            "creator_credit_for_label": "<p>Sadie Benning</p>",
+            "headline_credit_for_label": "<p>United States, 1989</p>",
+            "description": "<p>Sadie Benning, at the age of 16, dropped out of high school for three weeks and stayed inside with her camera, TV and a pile of dirty laundry. The result is an introspective work of stop and start edits, grainy images and Benning&#8217;s reflective commentary invoking a sense of isolation and sadness as she retreats from the outside world.</p>",
+            "description_for_label": [
+                "<p>Sadie Benning, at the age of 16, dropped out of high school for three weeks and stayed inside with her camera, TV and a pile of dirty laundry. The result is an introspective work of stop and start edits, grainy images and Benning&#8217;s reflective commentary invoking a sense of isolation and sadness as she retreats from the outside world.</p>"
+            ],
+            "credit_line_for_label": "",
+            "details": [
+                {
+                    "label": "Duration",
+                    "display_values": [
+                        "00:05:13:00"
+                    ]
+                },
+                {
+                    "label": "Language",
+                    "display_values": [
+                        "English"
+                    ]
+                },
+                {
+                    "label": "Audience classification",
+                    "display_values": [
+                        "Mediatheque - all ages (ACMI classified)"
+                    ]
+                },
+                {
+                    "label": "Subject categories",
+                    "display_values": [
+                        "Digital Art",
+                        "Experimental"
+                    ]
+                },
+                {
+                    "label": "Sound/audio",
+                    "display_values": [
+                        "Sound"
+                    ]
+                },
+                {
+                    "label": "Colour",
+                    "display_values": [
+                        "Black and White"
+                    ]
+                },
+                {
+                    "label": "Materials",
+                    "display_values": [
+                        "Single channel moving image, black and white and audio"
+                    ]
+                }
+            ],
+            "stats": {
+                "tap_count": 0
+            },
+            "links": [],
+            "creators_primary": [
+                {
+                    "id": 1133472,
+                    "name": "Sadie Benning",
+                    "creator_id": 6504,
+                    "role": "creator",
+                    "role_id": 968,
+                    "is_primary": true
+                }
+            ],
+            "creators_other": [],
+            "video_links": [],
+            "media_note": null,
+            "images": [
+                {
+                    "id": 13364,
+                    "image_file": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/B2000271_LivingInside.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=sQVaeaRnvg%2BHCg%2B9cWqt11Bqgjg%3D&Expires=1627009477",
+                    "image_file_thumbnail": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/B2000271_LivingInside.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=zxliNdBwsnfFkENIPhMzWqHlutI%3D&Expires=1627009477",
+                    "image_file_xs": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/B2000271_LivingInside.jpg.480x480_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=FqZmLSW0xirYwRZ1V0VY2d9kslY%3D&Expires=1627009477",
+                    "image_file_s": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/B2000271_LivingInside.jpg.960x960_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=Nu0XcZcDMvB%2F6uKNDF5lg%2FdvjFs%3D&Expires=1627009477",
+                    "image_file_m": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/B2000271_LivingInside.jpg.1920x1920_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=rdTo41p1bUO%2BhPH0MUvdRG8i9Zs%3D&Expires=1627009477",
+                    "image_file_l": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/B2000271_LivingInside.jpg.3840x3840_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=JcOr5fgC20Y32t809OyeQ%2BjVdYI%3D&Expires=1627009477",
+                    "caption": "Living inside (Sadie Benning) still",
+                    "credit_line": "",
+                    "alt_text": "",
+                    "width": 438,
+                    "height": 327,
+                    "access_level": "View anywhere"
+                }
+            ],
+            "videos": [],
+            "holdings": [
+                {
+                    "name": "MPEG-4 Digital File; ACMI Digital Access Copy - overscan",
+                    "identifier": "",
+                    "description": ""
+                },
+                {
+                    "name": "MOV file ProRes4444; Digital Preservation Master - overscan",
+                    "identifier": "",
+                    "description": ""
+                },
+                {
+                    "name": "SP Betacam; Copy",
+                    "identifier": "",
+                    "description": ""
+                },
+                {
+                    "name": "Digital Betacam [NTSC]; Master",
+                    "identifier": "",
+                    "description": ""
+                },
+                {
+                    "name": "VHS [PAL]; Reference - timecoded",
+                    "identifier": "",
+                    "description": ""
+                },
+                {
+                    "name": "MOV file H264; ACMI Digital Access Copy - presentation",
+                    "identifier": "",
+                    "description": ""
+                },
+                {
+                    "name": "Digital Betacam [PAL]; Sub-master",
+                    "identifier": "",
+                    "description": ""
+                },
+                {
+                    "name": "VHS [PAL]; Copy",
+                    "identifier": "",
+                    "description": ""
+                }
+            ],
+            "part_of": null,
+            "parts": [],
+            "part_siblings": [],
+            "group": {
+                "id": 101482,
+                "acmi_id": "10180",
+                "title": "Sadie Benning compile",
+                "title_annotation": "",
+                "slug": "sadie-benning-compile",
+                "creator_credit": "Sadie Benning",
+                "credit_line": "",
+                "headline_credit": "United States, 1989-1995",
+                "thumbnail": {
+                    "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/B1003646_Jollies.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=N8IZUTe5fImOmPm3tqDz8xP8aHQ%3D&Expires=1627009477",
+                    "has_video": false
+                },
+                "record_type": "group",
+                "type": "Digital art",
+                "is_on_display": false,
+                "last_on_display_place": null,
+                "last_on_display_date": null,
+                "is_context_indigenous": false,
+                "material_description": "",
+                "unpublished": false,
+                "first_production_date": null
+            },
+            "group_works": [],
+            "group_siblings": [
+                {
+                    "id": 109883,
+                    "acmi_id": "12183",
+                    "title": "A Place called Lovely",
+                    "title_annotation": "",
+                    "slug": "a-place-called-lovely",
+                    "creator_credit": "Sadie Benning",
+                    "credit_line": "",
+                    "headline_credit": "United States, 1991",
+                    "thumbnail": null,
+                    "record_type": "work",
+                    "type": "Digital art",
+                    "is_on_display": false,
+                    "last_on_display_place": null,
+                    "last_on_display_date": null,
+                    "is_context_indigenous": false,
+                    "material_description": "Single channel moving image, black and white and audio",
+                    "unpublished": false,
+                    "first_production_date": "1991-01-01T11:00:00+11:00"
+                },
+                {
+                    "id": 107977,
+                    "acmi_id": "173",
+                    "title": "If Every Girl Had a Diary",
+                    "title_annotation": "",
+                    "slug": "if-every-girl-had-a-diary",
+                    "creator_credit": "Sadie Benning",
+                    "credit_line": "",
+                    "headline_credit": "United States, 1990",
+                    "thumbnail": null,
+                    "record_type": "work",
+                    "type": "Digital art",
+                    "is_on_display": false,
+                    "last_on_display_place": "ACMI Screen Lounge",
+                    "last_on_display_date": "2004-12-31",
+                    "is_context_indigenous": false,
+                    "material_description": "Single channel moving image, black and white and audio",
+                    "unpublished": false,
+                    "first_production_date": "1990-01-01T11:00:00+11:00"
+                },
+                {
+                    "id": 108639,
+                    "acmi_id": "1491",
+                    "title": "Jollies",
+                    "title_annotation": "",
+                    "slug": "jollies",
+                    "creator_credit": "Sadie Benning",
+                    "credit_line": "",
+                    "headline_credit": "United States, 1990",
+                    "thumbnail": {
+                        "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/B1003646_Jollies.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=N8IZUTe5fImOmPm3tqDz8xP8aHQ%3D&Expires=1627009477",
+                        "has_video": false
+                    },
+                    "record_type": "work",
+                    "type": "Digital art",
+                    "is_on_display": false,
+                    "last_on_display_place": "ACMI Screen Gallery",
+                    "last_on_display_date": "2003-08-31",
+                    "is_context_indigenous": false,
+                    "material_description": "Single channel moving image, black and white and audio",
+                    "unpublished": false,
+                    "first_production_date": "1990-01-01T11:00:00+11:00"
+                },
+                {
+                    "id": 109884,
+                    "acmi_id": "12184",
+                    "title": "The Judy spots",
+                    "title_annotation": "",
+                    "slug": "the-judy-spots",
+                    "creator_credit": "Elisabeth Subrin and Sadie Benning",
+                    "credit_line": "",
+                    "headline_credit": "United States, 1995",
+                    "thumbnail": {
+                        "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/B2000273_TheJudyspots.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=6%2BHbNlbOnqCV88up%2F9IyDkmIcbc%3D&Expires=1627009477",
+                        "has_video": false
+                    },
+                    "record_type": "work",
+                    "type": "Digital art",
+                    "is_on_display": false,
+                    "last_on_display_place": "ACMI Viewing Booths",
+                    "last_on_display_date": "2019-04-22",
+                    "is_context_indigenous": false,
+                    "material_description": "Single channel moving image, black and white and audio",
+                    "unpublished": false,
+                    "first_production_date": "1995-01-01T11:00:00+11:00"
+                }
+            ],
+            "source": {
+                "name": "Vernon",
+                "slug": "vernon"
+            },
+            "source_identifier": "12182",
+            "production_places": [
+                {
+                    "id": 2,
+                    "name": "United States",
+                    "slug": "united-states"
+                }
+            ],
+            "production_dates": [
+                {
+                    "date": "1989",
+                    "notes": "",
+                    "to_year": "1989"
+                }
+            ],
+            "labels": [
+                53476
+            ]
+        },
+        {
+            "id": 109884,
+            "acmi_id": "12184",
+            "title": "The Judy spots",
+            "title_annotation": "",
+            "slug": "the-judy-spots",
+            "creator_credit": "Elisabeth Subrin and Sadie Benning",
+            "credit_line": "",
+            "headline_credit": "United States, 1995",
+            "thumbnail": {
+                "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/B2000273_TheJudyspots.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=6%2BHbNlbOnqCV88up%2F9IyDkmIcbc%3D&Expires=1627009477",
+                "has_video": false
+            },
+            "record_type": "work",
+            "type": "Digital art",
+            "is_on_display": false,
+            "last_on_display_place": "ACMI Viewing Booths",
+            "last_on_display_date": "2019-04-22",
+            "is_context_indigenous": false,
+            "material_description": "Single channel moving image, black and white and audio",
+            "unpublished": false,
+            "first_production_date": "1995-01-01T11:00:00+11:00",
+            "brief_description": "<p>&#8216;The Judy spots&#8217; consists of five short videos featuring a papier-mache puppet called Judy. Clever, witty and extremely dark, each of the vignettes is a social commentary about human emotions and behavior.<br />\nThe vignettes are:  &#8216;Judy feels sad&#8217;, &#8216;Judy hates her job&#8217;, &#8216;Judy has a nightmare&#8217;, &#8216;Judy goes to the mall&#8217; and &#8216;Judy gets mad&#8217;.</p>",
+            "constellations_primary": [],
+            "constellations_other": [],
+            "recommendations": [],
+            "title_for_label": "<p>The Judy spots</p>",
+            "creator_credit_for_label": "<p>Elisabeth Subrin and Sadie Benning</p>",
+            "headline_credit_for_label": "<p>United States, 1995</p>",
+            "description": "<p>&#8216;The Judy spots&#8217; consists of five short videos featuring a papier-mache puppet called Judy. Clever, witty and extremely dark, each of the vignettes is a social commentary about human emotions and behavior.<br />\nThe vignettes are:  &#8216;Judy feels sad&#8217;, &#8216;Judy hates her job&#8217;, &#8216;Judy has a nightmare&#8217;, &#8216;Judy goes to the mall&#8217; and &#8216;Judy gets mad&#8217;.</p>",
+            "description_for_label": [
+                "<p>&#8216;The Judy spots&#8217; consists of five short videos featuring a papier-mache puppet called Judy. Clever, witty and extremely dark, each of the vignettes is a social commentary about human emotions and behavior.<br />\nThe vignettes are:  &#8216;Judy feels sad&#8217;, &#8216;Judy hates her job&#8217;, &#8216;Judy has a nightmare&#8217;, &#8216;Judy goes to the mall&#8217; and &#8216;Judy gets mad&#8217;.</p>"
+            ],
+            "credit_line_for_label": "",
+            "details": [
+                {
+                    "label": "Duration",
+                    "display_values": [
+                        "00:12:53:00"
+                    ]
+                },
+                {
+                    "label": "Language",
+                    "display_values": [
+                        "English"
+                    ]
+                },
+                {
+                    "label": "Audience classification",
+                    "display_values": [
+                        "Mediatheque - all ages (ACMI classified)"
+                    ]
+                },
+                {
+                    "label": "Subject categories",
+                    "display_values": [
+                        "Animation",
+                        "Animation&nbsp;→ Puppet animation",
+                        "Digital Art"
+                    ]
+                },
+                {
+                    "label": "Sound/audio",
+                    "display_values": [
+                        "Sound"
+                    ]
+                },
+                {
+                    "label": "Colour",
+                    "display_values": [
+                        "Black and White and Colour"
+                    ]
+                },
+                {
+                    "label": "Materials",
+                    "display_values": [
+                        "Single channel moving image, black and white and audio"
+                    ]
+                }
+            ],
+            "stats": {
+                "tap_count": 0
+            },
+            "links": [],
+            "creators_primary": [
+                {
+                    "id": 1133471,
+                    "name": "Elisabeth Subrin",
+                    "creator_id": 10802,
+                    "role": "producer",
+                    "role_id": 960,
+                    "is_primary": true
+                },
+                {
+                    "id": 1133470,
+                    "name": "Sadie Benning",
+                    "creator_id": 6504,
+                    "role": "director",
+                    "role_id": 938,
+                    "is_primary": true
+                }
+            ],
+            "creators_other": [],
+            "video_links": [],
+            "media_note": null,
+            "images": [
+                {
+                    "id": 11271,
+                    "image_file": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/B2000273_TheJudyspots.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=7bxRcnqZZzRHuXF2OkuAbEKauqQ%3D&Expires=1627009477",
+                    "image_file_thumbnail": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/B2000273_TheJudyspots.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=6%2BHbNlbOnqCV88up%2F9IyDkmIcbc%3D&Expires=1627009477",
+                    "image_file_xs": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/B2000273_TheJudyspots.jpg.480x480_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=DW%2FjIKTZuoIdPLSmEBSI0U2GzpM%3D&Expires=1627009477",
+                    "image_file_s": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/B2000273_TheJudyspots.jpg.960x960_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=RU%2FtZwXU%2F04m1%2BOjaX807hQ4qtw%3D&Expires=1627009477",
+                    "image_file_m": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/B2000273_TheJudyspots.jpg.1920x1920_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=8b%2FKOnStKenu%2FHZ2RF7ZZVLKNrA%3D&Expires=1627009477",
+                    "image_file_l": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/B2000273_TheJudyspots.jpg.3840x3840_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=2%2BiZ1Va9HSF78TG%2FtpSELnxZJOw%3D&Expires=1627009477",
+                    "caption": "The Judy spots (Sadie Benning) still",
+                    "credit_line": "",
+                    "alt_text": "",
+                    "width": 438,
+                    "height": 327,
+                    "access_level": "View anywhere"
+                }
+            ],
+            "videos": [],
+            "holdings": [
+                {
+                    "name": "MPEG-4 Digital File; ACMI Digital Access Copy - overscan",
+                    "identifier": "",
+                    "description": ""
+                },
+                {
+                    "name": "MOV file ProRes4444; Digital Preservation Master - overscan",
+                    "identifier": "",
+                    "description": ""
+                },
+                {
+                    "name": "SP Betacam; Copy",
+                    "identifier": "",
+                    "description": ""
+                },
+                {
+                    "name": "Digital Betacam [NTSC]; Master",
+                    "identifier": "",
+                    "description": ""
+                },
+                {
+                    "name": "Digital Betacam [PAL]; Sub-master",
+                    "identifier": "",
+                    "description": ""
+                },
+                {
+                    "name": "VHS [PAL]; Reference - timecoded",
+                    "identifier": "",
+                    "description": ""
+                },
+                {
+                    "name": "VHS [PAL]; Copy",
+                    "identifier": "",
+                    "description": ""
+                },
+                {
+                    "name": "MOV file H264; ACMI Digital Access Copy - presentation",
+                    "identifier": "",
+                    "description": ""
+                }
+            ],
+            "part_of": null,
+            "parts": [],
+            "part_siblings": [],
+            "group": {
+                "id": 101482,
+                "acmi_id": "10180",
+                "title": "Sadie Benning compile",
+                "title_annotation": "",
+                "slug": "sadie-benning-compile",
+                "creator_credit": "Sadie Benning",
+                "credit_line": "",
+                "headline_credit": "United States, 1989-1995",
+                "thumbnail": {
+                    "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/B1003646_Jollies.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=N8IZUTe5fImOmPm3tqDz8xP8aHQ%3D&Expires=1627009477",
+                    "has_video": false
+                },
+                "record_type": "group",
+                "type": "Digital art",
+                "is_on_display": false,
+                "last_on_display_place": null,
+                "last_on_display_date": null,
+                "is_context_indigenous": false,
+                "material_description": "",
+                "unpublished": false,
+                "first_production_date": null
+            },
+            "group_works": [],
+            "group_siblings": [
+                {
+                    "id": 109883,
+                    "acmi_id": "12183",
+                    "title": "A Place called Lovely",
+                    "title_annotation": "",
+                    "slug": "a-place-called-lovely",
+                    "creator_credit": "Sadie Benning",
+                    "credit_line": "",
+                    "headline_credit": "United States, 1991",
+                    "thumbnail": null,
+                    "record_type": "work",
+                    "type": "Digital art",
+                    "is_on_display": false,
+                    "last_on_display_place": null,
+                    "last_on_display_date": null,
+                    "is_context_indigenous": false,
+                    "material_description": "Single channel moving image, black and white and audio",
+                    "unpublished": false,
+                    "first_production_date": "1991-01-01T11:00:00+11:00"
+                },
+                {
+                    "id": 107977,
+                    "acmi_id": "173",
+                    "title": "If Every Girl Had a Diary",
+                    "title_annotation": "",
+                    "slug": "if-every-girl-had-a-diary",
+                    "creator_credit": "Sadie Benning",
+                    "credit_line": "",
+                    "headline_credit": "United States, 1990",
+                    "thumbnail": null,
+                    "record_type": "work",
+                    "type": "Digital art",
+                    "is_on_display": false,
+                    "last_on_display_place": "ACMI Screen Lounge",
+                    "last_on_display_date": "2004-12-31",
+                    "is_context_indigenous": false,
+                    "material_description": "Single channel moving image, black and white and audio",
+                    "unpublished": false,
+                    "first_production_date": "1990-01-01T11:00:00+11:00"
+                },
+                {
+                    "id": 108639,
+                    "acmi_id": "1491",
+                    "title": "Jollies",
+                    "title_annotation": "",
+                    "slug": "jollies",
+                    "creator_credit": "Sadie Benning",
+                    "credit_line": "",
+                    "headline_credit": "United States, 1990",
+                    "thumbnail": {
+                        "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/B1003646_Jollies.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=N8IZUTe5fImOmPm3tqDz8xP8aHQ%3D&Expires=1627009477",
+                        "has_video": false
+                    },
+                    "record_type": "work",
+                    "type": "Digital art",
+                    "is_on_display": false,
+                    "last_on_display_place": "ACMI Screen Gallery",
+                    "last_on_display_date": "2003-08-31",
+                    "is_context_indigenous": false,
+                    "material_description": "Single channel moving image, black and white and audio",
+                    "unpublished": false,
+                    "first_production_date": "1990-01-01T11:00:00+11:00"
+                },
+                {
+                    "id": 113982,
+                    "acmi_id": "12182",
+                    "title": "Living inside",
+                    "title_annotation": "",
+                    "slug": "living-inside",
+                    "creator_credit": "Sadie Benning",
+                    "credit_line": "",
+                    "headline_credit": "United States, 1989",
+                    "thumbnail": {
+                        "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/B2000271_LivingInside.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=zxliNdBwsnfFkENIPhMzWqHlutI%3D&Expires=1627009477",
+                        "has_video": false
+                    },
+                    "record_type": "work",
+                    "type": "Digital art",
+                    "is_on_display": false,
+                    "last_on_display_place": "ACMI Viewing Booths",
+                    "last_on_display_date": "2019-04-22",
+                    "is_context_indigenous": false,
+                    "material_description": "Single channel moving image, black and white and audio",
+                    "unpublished": false,
+                    "first_production_date": "1989-01-01T11:00:00+11:00"
+                }
+            ],
+            "source": {
+                "name": "Vernon",
+                "slug": "vernon"
+            },
+            "source_identifier": "12184",
+            "production_places": [
+                {
+                    "id": 2,
+                    "name": "United States",
+                    "slug": "united-states"
+                }
+            ],
+            "production_dates": [
+                {
+                    "date": "1995",
+                    "notes": "",
+                    "to_year": "1995"
+                }
+            ],
+            "labels": [
+                49377
+            ]
+        }
+    ]
+}

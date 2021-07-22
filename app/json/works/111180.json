@@ -1,0 +1,353 @@
+{
+    "id": 111180,
+    "acmi_id": "15460",
+    "title": "Coming home",
+    "title_annotation": "",
+    "slug": "coming-home",
+    "creator_credit": "Christina Brims, ACMI Digital Storytelling and ACMI",
+    "credit_line": "",
+    "headline_credit": "Australia, 2007",
+    "thumbnail": null,
+    "record_type": "work",
+    "type": "Film",
+    "is_on_display": false,
+    "last_on_display_place": null,
+    "last_on_display_date": null,
+    "is_context_indigenous": false,
+    "material_description": "",
+    "unpublished": false,
+    "first_production_date": "2007-01-01T11:00:00+11:00",
+    "brief_description": "<p>Christina Brim&#8217;s mum died recently and a lot of memories and stories have been going around in my head. Brims pays tribute to her mother, the glue that kept her &#8216;large mob&#8217; together and cohesive.</p>",
+    "constellations_primary": [],
+    "constellations_other": [],
+    "recommendations": [],
+    "title_for_label": "<p>Coming home</p>",
+    "creator_credit_for_label": "<p>Christina Brims, ACMI Digital Storytelling and ACMI</p>",
+    "headline_credit_for_label": "<p>Australia, 2007</p>",
+    "description": "<p>Christina Brim&#8217;s mum died recently and a lot of memories and stories have been going around in my head. Brims pays tribute to her mother, the glue that kept her &#8216;large mob&#8217; together and cohesive.</p>",
+    "description_for_label": [
+        "<p>Christina Brim&#8217;s mum died recently and a lot of memories and stories have been going around in my head. Brims pays tribute to her mother, the glue that kept her &#8216;large mob&#8217; together and cohesive.</p>"
+    ],
+    "credit_line_for_label": "",
+    "details": [
+        {
+            "label": "Duration",
+            "display_values": [
+                "00:03:01:00"
+            ]
+        },
+        {
+            "label": "Language",
+            "display_values": [
+                "English"
+            ]
+        },
+        {
+            "label": "Audience classification",
+            "display_values": [
+                "ACMI classified"
+            ]
+        },
+        {
+            "label": "Subject categories",
+            "display_values": [
+                "Aboriginal Australia",
+                "Aboriginal Australia&nbsp;→ Aboriginal Australians - Biography",
+                "Aboriginal Australia&nbsp;→ Aboriginal Australians - Women",
+                "Aboriginal Australia&nbsp;→ Indigenous peoples",
+                "Anthropology, Ethnology, Exploration & Travel&nbsp;→ Indigenous peoples - Social life and customs",
+                "Biographical",
+                "Documentary",
+                "Documentary&nbsp;→ Documentary films - Australia",
+                "People&nbsp;→ Aboriginal Australians - Biography",
+                "People&nbsp;→ Indigenous peoples",
+                "Short films",
+                "Short films&nbsp;→ Short films - Australia"
+            ]
+        },
+        {
+            "label": "Sound/audio",
+            "display_values": [
+                "Sound"
+            ]
+        },
+        {
+            "label": "Colour",
+            "display_values": [
+                "Colour"
+            ]
+        }
+    ],
+    "stats": {
+        "tap_count": 0
+    },
+    "links": [],
+    "creators_primary": [
+        {
+            "id": 1134291,
+            "name": "Christina Brims",
+            "creator_id": 11815,
+            "role": "creator",
+            "role_id": 968,
+            "is_primary": true
+        },
+        {
+            "id": 1134290,
+            "name": "ACMI Digital Storytelling",
+            "creator_id": 10590,
+            "role": "producer",
+            "role_id": 960,
+            "is_primary": true
+        },
+        {
+            "id": 1134287,
+            "name": "ACMI",
+            "creator_id": 6272,
+            "role": "production company",
+            "role_id": 941,
+            "is_primary": true
+        }
+    ],
+    "creators_other": [
+        {
+            "id": 1134289,
+            "name": "Mildura Aboriginal Corporation",
+            "creator_id": 73896,
+            "role": "partner",
+            "role_id": 575,
+            "is_primary": false
+        },
+        {
+            "id": 1134288,
+            "name": "Koorie Heritage Trust",
+            "creator_id": 10862,
+            "role": "partner",
+            "role_id": 575,
+            "is_primary": false
+        }
+    ],
+    "video_links": [],
+    "media_note": "Sorry, we don't have images or video for this item.",
+    "images": [],
+    "videos": [],
+    "holdings": [
+        {
+            "name": "MPEG-2 Digital File; Memory Grid Pod Full Encode",
+            "identifier": "",
+            "description": ""
+        },
+        {
+            "name": "DVCAM; Master",
+            "identifier": "",
+            "description": ""
+        }
+    ],
+    "part_of": null,
+    "parts": [],
+    "part_siblings": [],
+    "group": {
+        "id": 111174,
+        "acmi_id": "154319",
+        "title": "Our families : Digital Storytelling project",
+        "title_annotation": "",
+        "slug": "our-families-digital-storytelling-project",
+        "creator_credit": "",
+        "credit_line": "",
+        "headline_credit": "Australia, 2007",
+        "thumbnail": null,
+        "record_type": "group",
+        "type": "Film",
+        "is_on_display": false,
+        "last_on_display_place": null,
+        "last_on_display_date": null,
+        "is_context_indigenous": false,
+        "material_description": "",
+        "unpublished": false,
+        "first_production_date": "2007-01-01T11:00:00+11:00"
+    },
+    "group_works": [],
+    "group_siblings": [
+        {
+            "id": 111176,
+            "acmi_id": "154323",
+            "title": "[Untitled]",
+            "title_annotation": "",
+            "slug": "untitled",
+            "creator_credit": "Kristy Brims, ACMI Digital Storytelling and ACMI",
+            "credit_line": "",
+            "headline_credit": "Australia, MAR 2009",
+            "thumbnail": null,
+            "record_type": "work",
+            "type": "Film",
+            "is_on_display": false,
+            "last_on_display_place": null,
+            "last_on_display_date": null,
+            "is_context_indigenous": false,
+            "material_description": "",
+            "unpublished": false,
+            "first_production_date": null
+        },
+        {
+            "id": 111175,
+            "acmi_id": "154320",
+            "title": "Ada's story",
+            "title_annotation": "",
+            "slug": "adas-story",
+            "creator_credit": "Ada Peterson, ACMI Digital Storytelling and ACMI",
+            "credit_line": "",
+            "headline_credit": "Australia, MAR 2007",
+            "thumbnail": null,
+            "record_type": "work",
+            "type": "Film",
+            "is_on_display": false,
+            "last_on_display_place": null,
+            "last_on_display_date": null,
+            "is_context_indigenous": false,
+            "material_description": "",
+            "unpublished": false,
+            "first_production_date": null
+        },
+        {
+            "id": 111173,
+            "acmi_id": "15452",
+            "title": "Barkindji memories",
+            "title_annotation": "",
+            "slug": "barkindji-memories",
+            "creator_credit": "Simone Spencer, ACMI Digital Storytelling and ACMI",
+            "credit_line": "",
+            "headline_credit": "Australia, MAR 2007",
+            "thumbnail": null,
+            "record_type": "work",
+            "type": "Film",
+            "is_on_display": false,
+            "last_on_display_place": null,
+            "last_on_display_date": null,
+            "is_context_indigenous": false,
+            "material_description": "",
+            "unpublished": false,
+            "first_production_date": null
+        },
+        {
+            "id": 111182,
+            "acmi_id": "15464",
+            "title": "From Riverbank to Dodge City",
+            "title_annotation": "",
+            "slug": "from-riverbank-to-dodge-city",
+            "creator_credit": "Ceciline Biles, ACMI Digital Storytelling and ACMI",
+            "credit_line": "",
+            "headline_credit": "Australia, MAR 2007",
+            "thumbnail": null,
+            "record_type": "work",
+            "type": "Film",
+            "is_on_display": false,
+            "last_on_display_place": null,
+            "last_on_display_date": null,
+            "is_context_indigenous": false,
+            "material_description": "",
+            "unpublished": false,
+            "first_production_date": null
+        },
+        {
+            "id": 111179,
+            "acmi_id": "15458",
+            "title": "Memory lingers on",
+            "title_annotation": "",
+            "slug": "memory-lingers-on",
+            "creator_credit": "Colleen Johnson, ACMI Digital Storytelling and ACMI",
+            "credit_line": "",
+            "headline_credit": "Australia, MAR 2007",
+            "thumbnail": null,
+            "record_type": "work",
+            "type": "Film",
+            "is_on_display": false,
+            "last_on_display_place": null,
+            "last_on_display_date": null,
+            "is_context_indigenous": false,
+            "material_description": "",
+            "unpublished": false,
+            "first_production_date": null
+        },
+        {
+            "id": 111181,
+            "acmi_id": "15462",
+            "title": "Mother",
+            "title_annotation": "",
+            "slug": "mother",
+            "creator_credit": "Jannas Quayle, ACMI Digital Storytelling and ACMI",
+            "credit_line": "",
+            "headline_credit": "Australia, MAR 2007",
+            "thumbnail": null,
+            "record_type": "work",
+            "type": "Film",
+            "is_on_display": false,
+            "last_on_display_place": null,
+            "last_on_display_date": null,
+            "is_context_indigenous": false,
+            "material_description": "",
+            "unpublished": false,
+            "first_production_date": null
+        },
+        {
+            "id": 111178,
+            "acmi_id": "15456",
+            "title": "My miracle",
+            "title_annotation": "",
+            "slug": "my-miracle",
+            "creator_credit": "Shantelle Thompson, ACMI Digital Storytelling and ACMI",
+            "credit_line": "",
+            "headline_credit": "Australia, MAR 2007",
+            "thumbnail": null,
+            "record_type": "work",
+            "type": "Film",
+            "is_on_display": false,
+            "last_on_display_place": null,
+            "last_on_display_date": null,
+            "is_context_indigenous": false,
+            "material_description": "",
+            "unpublished": false,
+            "first_production_date": null
+        },
+        {
+            "id": 111177,
+            "acmi_id": "15454",
+            "title": "Rhonda’s story : spoken by Ada Peterson",
+            "title_annotation": "",
+            "slug": "rhondas-story-spoken-by-ada-peterson",
+            "creator_credit": "Ada Peterson, ACMI Digital Storytelling and ACMI",
+            "credit_line": "",
+            "headline_credit": "Australia, MAR 2007",
+            "thumbnail": null,
+            "record_type": "work",
+            "type": "Film",
+            "is_on_display": false,
+            "last_on_display_place": null,
+            "last_on_display_date": null,
+            "is_context_indigenous": false,
+            "material_description": "",
+            "unpublished": false,
+            "first_production_date": null
+        }
+    ],
+    "source": {
+        "name": "Vernon",
+        "slug": "vernon"
+    },
+    "source_identifier": "15460",
+    "production_places": [
+        {
+            "id": 3,
+            "name": "Australia",
+            "slug": "australia"
+        }
+    ],
+    "production_dates": [
+        {
+            "date": "2007",
+            "notes": "",
+            "to_year": "2007"
+        }
+    ],
+    "labels": [
+        50673
+    ]
+}
