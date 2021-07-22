@@ -1,0 +1,8 @@
+{
+    "count": 1,
+    "next": "/works/?page=2",
+    "previous": null,
+    "results": [
+        {"result": "Results from XOS appear here..."}
+    ]
+}
