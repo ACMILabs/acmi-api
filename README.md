@@ -39,6 +39,11 @@ To run linting and tests:
 * Run `cd development` and `docker-compose up --build`
 * In another terminal tab run `docker exec -it api make linttest`
 
+To run a speed test against `ACMI_API_ENDPOINT` (defaults to https://api.acmi.net.au):
+
+* Run `cd development` and `docker-compose up --build`
+* In another terminal tab run `docker exec -it api make speed`
+
 ## TODO
 
 **Spike**: deploy this setup and see how it performs.
