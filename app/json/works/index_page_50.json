@@ -1,7 +1,7 @@
 {
     "count": 922,
-    "next": "/works/?page=51",
-    "previous": "/works/?page=49",
+    "next": "https://api.acmi.net.au/works/?page=51",
+    "previous": "https://api.acmi.net.au/works/?page=49",
     "results": [
         {
             "id": 114138,

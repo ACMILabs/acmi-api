@@ -49,7 +49,7 @@ def test_works_api():
             content_type='application/json',
         )
         assert response.status_code == 200
-        assert response.json['next'] == '/works/?page=2'
+        assert response.json['next'] == 'https://api.acmi.net.au/works/?page=2'
         assert response.json['results']
         assert response.json['count']
 
