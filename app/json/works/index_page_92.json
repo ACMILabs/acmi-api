@@ -1,0 +1,2402 @@
+{
+    "count": 922,
+    "next": "/works/?page=93",
+    "previous": "/works/?page=91",
+    "results": [
+        {
+            "id": 107920,
+            "acmi_id": "84",
+            "title": "Just hold still. Parts one and two",
+            "title_annotation": "",
+            "slug": "just-hold-still-parts-one-and-two",
+            "creator_credit": "Jem Cohen",
+            "credit_line": "",
+            "headline_credit": "United States, 1989",
+            "thumbnail": {
+                "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/loveteller.JPG.1200x1200_q85.JPG?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=Whl19SCUY4a6N%2F1t74pAdtngCnk%3D&Expires=1627009578",
+                "has_video": false
+            },
+            "record_type": "work",
+            "type": "Digital art",
+            "is_on_display": false,
+            "last_on_display_place": null,
+            "last_on_display_date": null,
+            "is_context_indigenous": false,
+            "material_description": "Single channel moving image, black and white and colour and audio",
+            "unpublished": false,
+            "first_production_date": "1989-01-01T11:00:00+11:00",
+            "brief_description": "<p>In his New York City Landscape, Cohen finds inspiration in disturbance. Looking to life for rhythm and to architecture for state of mind, he locates simple mysteries. `Just Hold Still&#8217; is comprised of an interconnected series of short works and collaborations that explore the grey area between documentary, narrative and experimental genres. Part One concerns a personal, poetic approach to narrative while Part Two involves hybridized use of verite footage and the confrontation of documentary concerns with the music video format. The work can be considered as a whole or each piece in the project can be viewed (and rented) as a separate entity.</p>",
+            "constellations_primary": [],
+            "constellations_other": [],
+            "recommendations": [],
+            "title_for_label": "<p>Just hold still. Parts one and two</p>",
+            "creator_credit_for_label": "<p>Jem Cohen</p>",
+            "headline_credit_for_label": "<p>United States, 1989</p>",
+            "description": "<p>In his New York City Landscape, Cohen finds inspiration in disturbance. Looking to life for rhythm and to architecture for state of mind, he locates simple mysteries. `Just Hold Still&#8217; is comprised of an interconnected series of short works and collaborations that explore the grey area between documentary, narrative and experimental genres. Part One concerns a personal, poetic approach to narrative while Part Two involves hybridized use of verite footage and the confrontation of documentary concerns with the music video format. The work can be considered as a whole or each piece in the project can be viewed (and rented) as a separate entity.</p>",
+            "description_for_label": [
+                "<p>In his New York City Landscape, Cohen finds inspiration in disturbance. Looking to life for rhythm and to architecture for state of mind, he locates simple mysteries. `Just Hold Still&#8217; is comprised of an interconnected series of short works and collaborations that explore the grey area between documentary, narrative and experimental genres. Part One concerns a personal, poetic approach to narrative while Part Two involves hybridized use of verite footage and the confrontation of documentary concerns with the music video format. The work can be considered as a whole or each piece in the project can be viewed (and rented) as a separate entity.</p>"
+            ],
+            "credit_line_for_label": "",
+            "details": [
+                {
+                    "label": "Duration",
+                    "display_values": [
+                        "00:31:38:00"
+                    ]
+                },
+                {
+                    "label": "Language",
+                    "display_values": [
+                        "English"
+                    ]
+                },
+                {
+                    "label": "Audience classification",
+                    "display_values": [
+                        "unclassified"
+                    ]
+                },
+                {
+                    "label": "Subject categories",
+                    "display_values": [
+                        "Digital Art",
+                        "Short films",
+                        "Short films&nbsp;→ Short films - United States"
+                    ]
+                },
+                {
+                    "label": "Sound/audio",
+                    "display_values": [
+                        "Sound"
+                    ]
+                },
+                {
+                    "label": "Colour",
+                    "display_values": [
+                        "Black and White and Colour"
+                    ]
+                },
+                {
+                    "label": "Materials",
+                    "display_values": [
+                        "Single channel moving image, black and white and colour and audio"
+                    ]
+                }
+            ],
+            "stats": {
+                "tap_count": 0
+            },
+            "links": [],
+            "creators_primary": [
+                {
+                    "id": 1132810,
+                    "name": "Jem Cohen",
+                    "creator_id": 89,
+                    "role": "creator",
+                    "role_id": 968,
+                    "is_primary": true
+                }
+            ],
+            "creators_other": [],
+            "video_links": [],
+            "media_note": null,
+            "images": [
+                {
+                    "id": 13410,
+                    "image_file": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/loveteller.JPG?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=EwFRtjmKwbQ1TOg9WVXAoXgFbDM%3D&Expires=1627009578",
+                    "image_file_thumbnail": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/loveteller.JPG.1200x1200_q85.JPG?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=Whl19SCUY4a6N%2F1t74pAdtngCnk%3D&Expires=1627009578",
+                    "image_file_xs": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/loveteller.JPG.480x480_q85.JPG?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=PNvOTSrx1LBXspEv9up6jnRc8Mg%3D&Expires=1627009578",
+                    "image_file_s": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/loveteller.JPG.960x960_q85.JPG?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=4Vkq07Fa75d5nrQaMt5wqhgqnaE%3D&Expires=1627009578",
+                    "image_file_m": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/loveteller.JPG.1920x1920_q85.JPG?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=fK7aQUxWhZJVSDxO9C44Dkc2dYQ%3D&Expires=1627009578",
+                    "image_file_l": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/loveteller.JPG.3840x3840_q85.JPG?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=kV7bxE8sswb2J2EoNJc3WYR4Xo0%3D&Expires=1627009578",
+                    "caption": "Still #1 from Love teller",
+                    "credit_line": "",
+                    "alt_text": "",
+                    "width": 176,
+                    "height": 144,
+                    "access_level": "View anywhere"
+                },
+                {
+                    "id": 13411,
+                    "image_file": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/loveteller2.JPG?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=2I0tsfNQ1QQ6WvNJ9DQPwAY59z8%3D&Expires=1627009578",
+                    "image_file_thumbnail": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/loveteller2.JPG.1200x1200_q85.JPG?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=iny7w2pCyURcPDGDLxou9OKyfpQ%3D&Expires=1627009578",
+                    "image_file_xs": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/loveteller2.JPG.480x480_q85.JPG?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=Bh8NOW%2B1kFKj9i2wOEsXNp84RsU%3D&Expires=1627009578",
+                    "image_file_s": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/loveteller2.JPG.960x960_q85.JPG?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=I0xGdB9X6UpTWywd3nIqL7jERNU%3D&Expires=1627009578",
+                    "image_file_m": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/loveteller2.JPG.1920x1920_q85.JPG?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=OqwMFR32llBdx1AnOCvitZvrFyQ%3D&Expires=1627009578",
+                    "image_file_l": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/loveteller2.JPG.3840x3840_q85.JPG?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=OhH%2F9TK9oRnAyhKj2tpHtig7P50%3D&Expires=1627009578",
+                    "caption": "Still #2 from Love teller",
+                    "credit_line": "",
+                    "alt_text": "",
+                    "width": 176,
+                    "height": 144,
+                    "access_level": "View anywhere"
+                },
+                {
+                    "id": 13412,
+                    "image_file": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/neverchange.JPG?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=DoD2bS84IbsJQMc58Wg2DWXSJBc%3D&Expires=1627009578",
+                    "image_file_thumbnail": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/neverchange.JPG.1200x1200_q85.JPG?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=ypGqhNg4Y%2F9%2F4KBXTeCqNtHmBSE%3D&Expires=1627009578",
+                    "image_file_xs": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/neverchange.JPG.480x480_q85.JPG?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=wV5FS8q6TbmYpae7fKKOW4ccKnk%3D&Expires=1627009578",
+                    "image_file_s": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/neverchange.JPG.960x960_q85.JPG?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=RF5PlCoKQcoQEKMlxQVEg%2Fk61e4%3D&Expires=1627009578",
+                    "image_file_m": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/neverchange.JPG.1920x1920_q85.JPG?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=Ljtfc22QWp5zZjyX3XabQgsCX5g%3D&Expires=1627009578",
+                    "image_file_l": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/neverchange.JPG.3840x3840_q85.JPG?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=6D7o0Rg5tZtzHJWMoP04j%2Be1fF0%3D&Expires=1627009578",
+                    "caption": "Still #1 from Never change",
+                    "credit_line": "",
+                    "alt_text": "",
+                    "width": 176,
+                    "height": 144,
+                    "access_level": "View anywhere"
+                },
+                {
+                    "id": 13413,
+                    "image_file": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/neverchange2.JPG?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=ba9IkNjvWPD7g54T5Rofe9Q3Xfk%3D&Expires=1627009578",
+                    "image_file_thumbnail": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/neverchange2.JPG.1200x1200_q85.JPG?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=c0%2BjTOK%2FTgfWbEfEm2Hr8525wqU%3D&Expires=1627009578",
+                    "image_file_xs": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/neverchange2.JPG.480x480_q85.JPG?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=58RCJOYizqqZPtSFt4JliZTfyyY%3D&Expires=1627009578",
+                    "image_file_s": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/neverchange2.JPG.960x960_q85.JPG?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=dn8%2B%2Fz2OFbz4llzZG%2Bh7t3hSvhI%3D&Expires=1627009578",
+                    "image_file_m": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/neverchange2.JPG.1920x1920_q85.JPG?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=KwSb%2FUDTGt457MGyx5YHLFtKp3M%3D&Expires=1627009578",
+                    "image_file_l": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/neverchange2.JPG.3840x3840_q85.JPG?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=w%2F%2BPuPWuK1PWbFzwNi1MF%2FQd7mI%3D&Expires=1627009578",
+                    "caption": "Still #2 from Never change",
+                    "credit_line": "",
+                    "alt_text": "",
+                    "width": 176,
+                    "height": 144,
+                    "access_level": "View anywhere"
+                },
+                {
+                    "id": 13414,
+                    "image_file": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/neverchange3.JPG?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=1%2BmHqLVy3wpjE9%2F3IZyo6Ssdh4U%3D&Expires=1627009578",
+                    "image_file_thumbnail": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/neverchange3.JPG.1200x1200_q85.JPG?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=0EyRTXn0kw5WQAM31ig%2FDCu5qKo%3D&Expires=1627009578",
+                    "image_file_xs": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/neverchange3.JPG.480x480_q85.JPG?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=vVzpppJ%2FuuatimWdm0gDT8tG0qs%3D&Expires=1627009578",
+                    "image_file_s": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/neverchange3.JPG.960x960_q85.JPG?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=nSKZjgX6Lq9G0i%2BQQIM%2BUbXIhGw%3D&Expires=1627009578",
+                    "image_file_m": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/neverchange3.JPG.1920x1920_q85.JPG?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=WMKw2EPM1UMKaew8uwjfyIlK0Lc%3D&Expires=1627009578",
+                    "image_file_l": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/neverchange3.JPG.3840x3840_q85.JPG?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=novGRgpJpWrL3Jyo6sax0Pde8hs%3D&Expires=1627009578",
+                    "caption": "Still #3 from Never change",
+                    "credit_line": "",
+                    "alt_text": "",
+                    "width": 176,
+                    "height": 144,
+                    "access_level": "View anywhere"
+                }
+            ],
+            "videos": [],
+            "holdings": [
+                {
+                    "name": "VHS [PAL]; Reference - timecoded",
+                    "identifier": "",
+                    "description": ""
+                },
+                {
+                    "name": "Digital Betacam [PAL]; Sub-master",
+                    "identifier": "",
+                    "description": ""
+                },
+                {
+                    "name": "Digital Betacam [PAL]; Master",
+                    "identifier": "",
+                    "description": ""
+                },
+                {
+                    "name": "MOV file H264; ACMI Digital Access Copy - presentation",
+                    "identifier": "",
+                    "description": ""
+                }
+            ],
+            "part_of": null,
+            "parts": [],
+            "part_siblings": [],
+            "group": {
+                "id": 107921,
+                "acmi_id": "140",
+                "title": "Jem Cohen: early works",
+                "title_annotation": "",
+                "slug": "jem-cohen-early-works",
+                "creator_credit": "Jem Cohen",
+                "credit_line": "",
+                "headline_credit": "United States, 1989-1991",
+                "thumbnail": {
+                    "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/jemcohearwor003.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=B0rmrHmf%2Falz3f43v5QEx3lw%2BJc%3D&Expires=1627009578",
+                    "has_video": false
+                },
+                "record_type": "group",
+                "type": "Film",
+                "is_on_display": false,
+                "last_on_display_place": null,
+                "last_on_display_date": null,
+                "is_context_indigenous": false,
+                "material_description": "",
+                "unpublished": false,
+                "first_production_date": null
+            },
+            "group_works": [],
+            "group_siblings": [
+                {
+                    "id": 107979,
+                    "acmi_id": "178",
+                    "title": "Black Hole Radio",
+                    "title_annotation": "",
+                    "slug": "black-hole-radio",
+                    "creator_credit": "Jem Cohen",
+                    "credit_line": "",
+                    "headline_credit": "United States, 1992",
+                    "thumbnail": {
+                        "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/blackholeradio.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=JkEqCI6yeMjTxrZOL7YZum5uz70%3D&Expires=1627009578",
+                        "has_video": false
+                    },
+                    "record_type": "work",
+                    "type": "Digital art",
+                    "is_on_display": false,
+                    "last_on_display_place": null,
+                    "last_on_display_date": null,
+                    "is_context_indigenous": false,
+                    "material_description": "video, b&w and colour, audio",
+                    "unpublished": false,
+                    "first_production_date": "1992-01-01T11:00:00+11:00"
+                },
+                {
+                    "id": 109819,
+                    "acmi_id": "12050",
+                    "title": "Drink Deep",
+                    "title_annotation": "",
+                    "slug": "drink-deep",
+                    "creator_credit": "Jem Cohen",
+                    "credit_line": "",
+                    "headline_credit": "United States, 1991",
+                    "thumbnail": null,
+                    "record_type": "work",
+                    "type": "Film",
+                    "is_on_display": false,
+                    "last_on_display_place": null,
+                    "last_on_display_date": null,
+                    "is_context_indigenous": false,
+                    "material_description": "",
+                    "unpublished": false,
+                    "first_production_date": "1991-01-01T11:00:00+11:00"
+                },
+                {
+                    "id": 107978,
+                    "acmi_id": "177",
+                    "title": "This is a history of New York",
+                    "title_annotation": "",
+                    "slug": "this-is-a-history-of-new-york",
+                    "creator_credit": "Jem Cohen",
+                    "credit_line": "",
+                    "headline_credit": "United States, 1987",
+                    "thumbnail": null,
+                    "record_type": "work",
+                    "type": "Film",
+                    "is_on_display": false,
+                    "last_on_display_place": null,
+                    "last_on_display_date": null,
+                    "is_context_indigenous": false,
+                    "material_description": "",
+                    "unpublished": false,
+                    "first_production_date": "1987-01-01T11:00:00+11:00"
+                }
+            ],
+            "source": {
+                "name": "Vernon",
+                "slug": "vernon"
+            },
+            "source_identifier": "84",
+            "production_places": [
+                {
+                    "id": 2,
+                    "name": "United States",
+                    "slug": "united-states"
+                }
+            ],
+            "production_dates": [
+                {
+                    "date": "1989",
+                    "notes": "",
+                    "to_year": "1989"
+                }
+            ],
+            "labels": [
+                47413
+            ]
+        },
+        {
+            "id": 109819,
+            "acmi_id": "12050",
+            "title": "Drink Deep",
+            "title_annotation": "",
+            "slug": "drink-deep",
+            "creator_credit": "Jem Cohen",
+            "credit_line": "",
+            "headline_credit": "United States, 1991",
+            "thumbnail": null,
+            "record_type": "work",
+            "type": "Film",
+            "is_on_display": false,
+            "last_on_display_place": null,
+            "last_on_display_date": null,
+            "is_context_indigenous": false,
+            "material_description": "",
+            "unpublished": false,
+            "first_production_date": "1991-01-01T11:00:00+11:00",
+            "brief_description": "<p>Drink Deep is a lyrical vision of friendship, hidden secrets, and desires. Cohen uses several types of film image to add texture to the layered composition. Beautiful shades of grey, silver, black and blue echo the water, reminiscent of early photography and silverprints. Cohen says, &#8220;The piece was constructed primarily from footage I’d shot of skinnydippers at swimming holes in Georgia and rural Pennsylvania. It’s about water and memory and stories just submerged. It is also, in part, a response to thinking about censorship. I would say that Drink Deep is both unabashedly and deceptively romantic. Surface, flow, and undertow. What looks like paradise is always paradise lost.&#8221; Music composed by Stephen Vitiello and performed with Gabriel Cohen and Mary Wooten.</p>",
+            "constellations_primary": [],
+            "constellations_other": [],
+            "recommendations": [],
+            "title_for_label": "<p>Drink Deep</p>",
+            "creator_credit_for_label": "<p>Jem Cohen</p>",
+            "headline_credit_for_label": "<p>United States, 1991</p>",
+            "description": "<p>Drink Deep is a lyrical vision of friendship, hidden secrets, and desires. Cohen uses several types of film image to add texture to the layered composition. Beautiful shades of grey, silver, black and blue echo the water, reminiscent of early photography and silverprints. Cohen says, &#8220;The piece was constructed primarily from footage I’d shot of skinnydippers at swimming holes in Georgia and rural Pennsylvania. It’s about water and memory and stories just submerged. It is also, in part, a response to thinking about censorship. I would say that Drink Deep is both unabashedly and deceptively romantic. Surface, flow, and undertow. What looks like paradise is always paradise lost.&#8221; Music composed by Stephen Vitiello and performed with Gabriel Cohen and Mary Wooten.</p>",
+            "description_for_label": [
+                "<p>Drink Deep is a lyrical vision of friendship, hidden secrets, and desires. Cohen uses several types of film image to add texture to the layered composition. Beautiful shades of grey, silver, black and blue echo the water, reminiscent of early photography and silverprints. Cohen says, &#8220;The piece was constructed primarily from footage I’d shot of skinnydippers at swimming holes in Georgia and rural Pennsylvania. It’s about water and memory and stories just submerged. It is also, in part, a response to thinking about censorship. I would say that Drink Deep is both unabashedly and deceptively romantic. Surface, flow, and undertow. What looks like paradise is always paradise lost.&#8221; Music composed by Stephen Vitiello and performed with Gabriel Cohen and Mary Wooten.</p>"
+            ],
+            "credit_line_for_label": "",
+            "details": [
+                {
+                    "label": "Duration",
+                    "display_values": [
+                        "00:10:05:00"
+                    ]
+                }
+            ],
+            "stats": {
+                "tap_count": 0
+            },
+            "links": [],
+            "creators_primary": [
+                {
+                    "id": 1132808,
+                    "name": "Jem Cohen",
+                    "creator_id": 89,
+                    "role": "creator",
+                    "role_id": 968,
+                    "is_primary": true
+                }
+            ],
+            "creators_other": [
+                {
+                    "id": 1132809,
+                    "name": "Stephen Vitiello",
+                    "creator_id": 6324,
+                    "role": "music",
+                    "role_id": 949,
+                    "is_primary": false
+                }
+            ],
+            "video_links": [],
+            "media_note": "Sorry, we don't have images or video for this item.",
+            "images": [],
+            "videos": [],
+            "holdings": [
+                {
+                    "name": "VHS [PAL]; Reference - timecoded",
+                    "identifier": "",
+                    "description": ""
+                },
+                {
+                    "name": "MOV file H264; ACMI Digital Access Copy - presentation",
+                    "identifier": "",
+                    "description": ""
+                },
+                {
+                    "name": "Digital Betacam [PAL]; Sub-master",
+                    "identifier": "",
+                    "description": ""
+                },
+                {
+                    "name": "Digital Betacam [PAL]; Master",
+                    "identifier": "",
+                    "description": ""
+                }
+            ],
+            "part_of": null,
+            "parts": [],
+            "part_siblings": [],
+            "group": {
+                "id": 107921,
+                "acmi_id": "140",
+                "title": "Jem Cohen: early works",
+                "title_annotation": "",
+                "slug": "jem-cohen-early-works",
+                "creator_credit": "Jem Cohen",
+                "credit_line": "",
+                "headline_credit": "United States, 1989-1991",
+                "thumbnail": {
+                    "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/jemcohearwor003.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=B0rmrHmf%2Falz3f43v5QEx3lw%2BJc%3D&Expires=1627009578",
+                    "has_video": false
+                },
+                "record_type": "group",
+                "type": "Film",
+                "is_on_display": false,
+                "last_on_display_place": null,
+                "last_on_display_date": null,
+                "is_context_indigenous": false,
+                "material_description": "",
+                "unpublished": false,
+                "first_production_date": null
+            },
+            "group_works": [],
+            "group_siblings": [
+                {
+                    "id": 107979,
+                    "acmi_id": "178",
+                    "title": "Black Hole Radio",
+                    "title_annotation": "",
+                    "slug": "black-hole-radio",
+                    "creator_credit": "Jem Cohen",
+                    "credit_line": "",
+                    "headline_credit": "United States, 1992",
+                    "thumbnail": {
+                        "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/blackholeradio.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=JkEqCI6yeMjTxrZOL7YZum5uz70%3D&Expires=1627009578",
+                        "has_video": false
+                    },
+                    "record_type": "work",
+                    "type": "Digital art",
+                    "is_on_display": false,
+                    "last_on_display_place": null,
+                    "last_on_display_date": null,
+                    "is_context_indigenous": false,
+                    "material_description": "video, b&w and colour, audio",
+                    "unpublished": false,
+                    "first_production_date": "1992-01-01T11:00:00+11:00"
+                },
+                {
+                    "id": 107920,
+                    "acmi_id": "84",
+                    "title": "Just hold still. Parts one and two",
+                    "title_annotation": "",
+                    "slug": "just-hold-still-parts-one-and-two",
+                    "creator_credit": "Jem Cohen",
+                    "credit_line": "",
+                    "headline_credit": "United States, 1989",
+                    "thumbnail": {
+                        "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/loveteller.JPG.1200x1200_q85.JPG?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=Whl19SCUY4a6N%2F1t74pAdtngCnk%3D&Expires=1627009578",
+                        "has_video": false
+                    },
+                    "record_type": "work",
+                    "type": "Digital art",
+                    "is_on_display": false,
+                    "last_on_display_place": null,
+                    "last_on_display_date": null,
+                    "is_context_indigenous": false,
+                    "material_description": "Single channel moving image, black and white and colour and audio",
+                    "unpublished": false,
+                    "first_production_date": "1989-01-01T11:00:00+11:00"
+                },
+                {
+                    "id": 107978,
+                    "acmi_id": "177",
+                    "title": "This is a history of New York",
+                    "title_annotation": "",
+                    "slug": "this-is-a-history-of-new-york",
+                    "creator_credit": "Jem Cohen",
+                    "credit_line": "",
+                    "headline_credit": "United States, 1987",
+                    "thumbnail": null,
+                    "record_type": "work",
+                    "type": "Film",
+                    "is_on_display": false,
+                    "last_on_display_place": null,
+                    "last_on_display_date": null,
+                    "is_context_indigenous": false,
+                    "material_description": "",
+                    "unpublished": false,
+                    "first_production_date": "1987-01-01T11:00:00+11:00"
+                }
+            ],
+            "source": {
+                "name": "Vernon",
+                "slug": "vernon"
+            },
+            "source_identifier": "12050",
+            "production_places": [
+                {
+                    "id": 2,
+                    "name": "United States",
+                    "slug": "united-states"
+                }
+            ],
+            "production_dates": [
+                {
+                    "date": "1991",
+                    "notes": "",
+                    "to_year": "1991"
+                }
+            ],
+            "labels": [
+                49312
+            ]
+        },
+        {
+            "id": 107967,
+            "acmi_id": "131",
+            "title": "Buried in light",
+            "title_annotation": "",
+            "slug": "buried-in-light",
+            "creator_credit": "Jem Cohen",
+            "credit_line": "",
+            "headline_credit": "United States, 1994",
+            "thumbnail": {
+                "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/B1000140_BuriedInLight004.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=d9OFIpO0v2ROFFmsB33UU9okqiQ%3D&Expires=1627009578",
+                "has_video": false
+            },
+            "record_type": "work",
+            "type": "Digital art",
+            "is_on_display": false,
+            "last_on_display_place": "ACMI Screen Gallery",
+            "last_on_display_date": "2003-08-31",
+            "is_context_indigenous": false,
+            "material_description": "three-channel video",
+            "unpublished": false,
+            "first_production_date": "1994-01-01T11:00:00+11:00",
+            "brief_description": "<p>In this work originally commissioned as a multi-screen installation, Cohen meditates on &#8216;a time between times&#8217; as he travels through Central and Eastern Europe. The filmmaker invests his own dreamily elegiac images of sites of past horror and devastation with &#8216;found&#8217; commentaries taken from radio announcers and museum guides. With a considered use of archival material, Cohen restores a deep and affecting agency to the ghosts of the past, even as he signals a concern with the encroaching signs of change being wrought on contemporary European societies. A lightness emerges, ultimately, in Cohen&#8217;s visually poetic and spiritually consoling &#8216;seven possibilities for colour beyond advertising&#8217;; a wry melancholy postscript the filmmaker proposes as a parting gift.</p>",
+            "constellations_primary": [],
+            "constellations_other": [],
+            "recommendations": [],
+            "title_for_label": "<p>Buried in light</p>",
+            "creator_credit_for_label": "<p>Jem Cohen</p>",
+            "headline_credit_for_label": "<p>United States, 1994</p>",
+            "description": "<p>In this work originally commissioned as a multi-screen installation, Cohen meditates on &#8216;a time between times&#8217; as he travels through Central and Eastern Europe. The filmmaker invests his own dreamily elegiac images of sites of past horror and devastation with &#8216;found&#8217; commentaries taken from radio announcers and museum guides. With a considered use of archival material, Cohen restores a deep and affecting agency to the ghosts of the past, even as he signals a concern with the encroaching signs of change being wrought on contemporary European societies. A lightness emerges, ultimately, in Cohen&#8217;s visually poetic and spiritually consoling &#8216;seven possibilities for colour beyond advertising&#8217;; a wry melancholy postscript the filmmaker proposes as a parting gift.</p>",
+            "description_for_label": [
+                "<p>In this work originally commissioned as a multi-screen installation, Cohen meditates on &#8216;a time between times&#8217; as he travels through Central and Eastern Europe. The filmmaker invests his own dreamily elegiac images of sites of past horror and devastation with &#8216;found&#8217; commentaries taken from radio announcers and museum guides. With a considered use of archival material, Cohen restores a deep and affecting agency to the ghosts of the past, even as he signals a concern with the encroaching signs of change being wrought on contemporary European societies. A lightness emerges, ultimately, in Cohen&#8217;s visually poetic and spiritually consoling &#8216;seven possibilities for colour beyond advertising&#8217;; a wry melancholy postscript the filmmaker proposes as a parting gift.</p>"
+            ],
+            "credit_line_for_label": "",
+            "details": [
+                {
+                    "label": "Duration",
+                    "display_values": [
+                        "01:00:00:00"
+                    ]
+                },
+                {
+                    "label": "Languages",
+                    "display_values": [
+                        "English",
+                        "English",
+                        "English"
+                    ]
+                },
+                {
+                    "label": "Audience classifications",
+                    "display_values": [
+                        "PG",
+                        "unclassified"
+                    ]
+                },
+                {
+                    "label": "Subject categories",
+                    "display_values": [
+                        "Armed Forces, Military, War & Weapons&nbsp;→ War",
+                        "Digital Art",
+                        "Food, Health, Lifestyle, Medicine, Psychology & Safety&nbsp;→ Memory",
+                        "History&nbsp;→ History"
+                    ]
+                },
+                {
+                    "label": "Materials",
+                    "display_values": [
+                        "three-channel video"
+                    ]
+                }
+            ],
+            "stats": {
+                "tap_count": 0
+            },
+            "links": [],
+            "creators_primary": [
+                {
+                    "id": 1132803,
+                    "name": "Jem Cohen",
+                    "creator_id": 89,
+                    "role": "creator",
+                    "role_id": 968,
+                    "is_primary": true
+                }
+            ],
+            "creators_other": [
+                {
+                    "id": 1132805,
+                    "name": "Rhys Graham",
+                    "creator_id": 6398,
+                    "role": "research manager",
+                    "role_id": 456,
+                    "is_primary": false
+                },
+                {
+                    "id": 1132804,
+                    "name": "Jem Cohen",
+                    "creator_id": 89,
+                    "role": "film maker",
+                    "role_id": 459,
+                    "is_primary": false
+                }
+            ],
+            "video_links": [],
+            "media_note": null,
+            "images": [
+                {
+                    "id": 14518,
+                    "image_file": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/B1000140_BuriedInLight004.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=ATGsfKtD0%2FtpiccWcxvRX1or9Vw%3D&Expires=1627009578",
+                    "image_file_thumbnail": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/B1000140_BuriedInLight004.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=d9OFIpO0v2ROFFmsB33UU9okqiQ%3D&Expires=1627009578",
+                    "image_file_xs": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/B1000140_BuriedInLight004.jpg.480x480_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=FUYqcEzbu326oK91YZlAH%2FwmZog%3D&Expires=1627009578",
+                    "image_file_s": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/B1000140_BuriedInLight004.jpg.960x960_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=G1FfU0Q5ZhKZavubC2CgXLU5dtk%3D&Expires=1627009578",
+                    "image_file_m": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/B1000140_BuriedInLight004.jpg.1920x1920_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=3tmxu2mdImf4ud0GV0KShRoYKTU%3D&Expires=1627009578",
+                    "image_file_l": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/B1000140_BuriedInLight004.jpg.3840x3840_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=Hcd0wjKFhEDlytFXd4BXp%2BvtXpQ%3D&Expires=1627009578",
+                    "caption": "Still #4 Buried in Light",
+                    "credit_line": "",
+                    "alt_text": "",
+                    "width": 640,
+                    "height": 480,
+                    "access_level": "View anywhere"
+                },
+                {
+                    "id": 14519,
+                    "image_file": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/B1000140_BuriedInLight008.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=cE0%2BRVlQzWCvDGnL6SBYYfrfwL8%3D&Expires=1627009578",
+                    "image_file_thumbnail": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/B1000140_BuriedInLight008.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=ovCy%2FdSD2iNE4YL5l%2BXARctwQ6A%3D&Expires=1627009578",
+                    "image_file_xs": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/B1000140_BuriedInLight008.jpg.480x480_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=pJAWEpXrK5tnA54grq1ehkGfpn4%3D&Expires=1627009578",
+                    "image_file_s": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/B1000140_BuriedInLight008.jpg.960x960_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=hNlfjy0HGK%2FheyhjW8pstWx9zDI%3D&Expires=1627009578",
+                    "image_file_m": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/B1000140_BuriedInLight008.jpg.1920x1920_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=uxjQGzQU9CDkttQXVmAFfkRvh7w%3D&Expires=1627009578",
+                    "image_file_l": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/B1000140_BuriedInLight008.jpg.3840x3840_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=iNv6WexylNqwLFo2vRKdQQzHh%2Fo%3D&Expires=1627009578",
+                    "caption": "Still #5 Buried in Light",
+                    "credit_line": "",
+                    "alt_text": "",
+                    "width": 640,
+                    "height": 480,
+                    "access_level": "View anywhere"
+                },
+                {
+                    "id": 14520,
+                    "image_file": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/B1000140_BuriedInLight011.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=F%2BovtlL3fWt7EWnBtlV%2FqqspAbw%3D&Expires=1627009578",
+                    "image_file_thumbnail": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/B1000140_BuriedInLight011.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=JDs7RVsOVBtrSGASEHj1QZgcewU%3D&Expires=1627009578",
+                    "image_file_xs": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/B1000140_BuriedInLight011.jpg.480x480_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=2HI1NScWNzhGBpAUM8g2ip%2BEDoU%3D&Expires=1627009578",
+                    "image_file_s": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/B1000140_BuriedInLight011.jpg.960x960_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=DZ6WmnDFmpUprn7mvZtuvIN%2Bv8w%3D&Expires=1627009578",
+                    "image_file_m": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/B1000140_BuriedInLight011.jpg.1920x1920_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=9eDMlTcJBLfGc1AkhX93wqCVu0w%3D&Expires=1627009578",
+                    "image_file_l": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/B1000140_BuriedInLight011.jpg.3840x3840_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=CW0FnboIYdlBkAJlvOnF2YtupIE%3D&Expires=1627009578",
+                    "caption": "Still #6 Buried in Light",
+                    "credit_line": "",
+                    "alt_text": "",
+                    "width": 640,
+                    "height": 480,
+                    "access_level": "View anywhere"
+                },
+                {
+                    "id": 14521,
+                    "image_file": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/B1000140_BuriedInLight012.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=WqJa%2BRbasKUVf%2FBLR3MZCgy5KRM%3D&Expires=1627009578",
+                    "image_file_thumbnail": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/B1000140_BuriedInLight012.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=9U8uaiEw699geWKsbif5D4vrB88%3D&Expires=1627009578",
+                    "image_file_xs": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/B1000140_BuriedInLight012.jpg.480x480_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=fXynoGRL9%2F3jDeMqkO8gxOue9Tg%3D&Expires=1627009578",
+                    "image_file_s": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/B1000140_BuriedInLight012.jpg.960x960_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=PCuLb7JP85FJR92FRssV7BGLWAs%3D&Expires=1627009578",
+                    "image_file_m": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/B1000140_BuriedInLight012.jpg.1920x1920_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=ggzcBG5yKdz%2FoEgpguTK5sn9beE%3D&Expires=1627009578",
+                    "image_file_l": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/B1000140_BuriedInLight012.jpg.3840x3840_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=hNkaSvWpyk%2BkFmHE49BZe0PMWjw%3D&Expires=1627009578",
+                    "caption": "Still #7 Buried in Light",
+                    "credit_line": "",
+                    "alt_text": "",
+                    "width": 640,
+                    "height": 480,
+                    "access_level": "View anywhere"
+                }
+            ],
+            "videos": [],
+            "holdings": [],
+            "part_of": null,
+            "parts": [],
+            "part_siblings": [],
+            "group": null,
+            "group_works": [],
+            "group_siblings": [],
+            "source": {
+                "name": "Vernon",
+                "slug": "vernon"
+            },
+            "source_identifier": "131",
+            "production_places": [
+                {
+                    "id": 2,
+                    "name": "United States",
+                    "slug": "united-states"
+                }
+            ],
+            "production_dates": [
+                {
+                    "date": "1994",
+                    "notes": "",
+                    "to_year": "1994"
+                }
+            ],
+            "labels": [
+                47460
+            ]
+        },
+        {
+            "id": 107315,
+            "acmi_id": "72",
+            "title": "Videoworks of Sadie Benning. Volume 3",
+            "title_annotation": "",
+            "slug": "videoworks-of-sadie-benning-volume-3",
+            "creator_credit": "Sadie Benning",
+            "credit_line": "",
+            "headline_credit": "United States, 1995-1998",
+            "thumbnail": {
+                "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/flat.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=WvVddcdF9QvSmz8l%2Fpx3VqM4bG4%3D&Expires=1627009578",
+                "has_video": false
+            },
+            "record_type": "group",
+            "type": "Digital art",
+            "is_on_display": false,
+            "last_on_display_place": null,
+            "last_on_display_date": null,
+            "is_context_indigenous": false,
+            "material_description": "",
+            "unpublished": false,
+            "first_production_date": null,
+            "brief_description": "<p>A collection of three remarkable works by Sadie Benning produced between 1995-1998 including German Song, The Judy Spots and Flat is Beautiful. Shot in black and white Super-8 film, Benning&#8217;s lyrical short muses on a disengaged youth and grey afternoons spent wandering, and features the hard-edged music of Come, an alternative band from Boston. &#8220;The Judy Spots&#8221; is a tape composed of five episodes featuring Judy, a teenage girl puppet made of papiermache as she plays in a band, works at a fast food restaurant, shops at the mall and feels scared at night. &#8220;Flat is Beautiful&#8221; is an experimental, live-action cartoon narrative using masks, animation, subtitles, drawings and dramatic scenes to investigate the psychic life of an androgynous eleven-year-old girl. Growing up in a working class neighborhood with her single mother and gay roommate, Taylor confronts the loneliness of living between masculine and feminine in a culture obsessed with defining gender difference. Shifting between black and white film and grainy pixelvision video, &#8216;Flat is Beautiful&#8217; explores the internal and external worlds of sad people.</p>",
+            "constellations_primary": [],
+            "constellations_other": [],
+            "recommendations": [],
+            "title_for_label": "<p>Videoworks of Sadie Benning. Volume 3</p>",
+            "creator_credit_for_label": "<p>Sadie Benning</p>",
+            "headline_credit_for_label": "<p>United States, 1995-1998</p>",
+            "description": "<p>A collection of three remarkable works by Sadie Benning produced between 1995-1998 including <i>German Song</i>, <i>The Judy Spots</i> and <i>Flat is Beautiful</i>. Shot in black and white Super-8 film, Benning&#8217;s lyrical short muses on a disengaged youth and grey afternoons spent wandering, and features the hard-edged music of Come, an alternative band from Boston. <i>The Judy Spots</i> is a tape composed of five episodes featuring Judy, a teenage girl puppet made of papiermache as she plays in a band, works at a fast food restaurant, shops at the mall and feels scared at night. <i>Flat is Beautiful</i> is an experimental, live-action cartoon narrative using masks, animation, subtitles, drawings and dramatic scenes to investigate the psychic life of an androgynous eleven-year-old girl. Growing up in a working class neighborhood with her single mother and gay roommate, Taylor confronts the loneliness of living between masculine and feminine in a culture obsessed with defining gender difference. Shifting between black and white film and grainy pixelvision video, <i>Flat is Beautiful</i> explores the internal and external worlds of sad people.</p>",
+            "description_for_label": [
+                "<p>A collection of three remarkable works by Sadie Benning produced between 1995-1998 including <i>German Song</i>, <i>The Judy Spots</i> and <i>Flat is Beautiful</i>. Shot in black and white Super-8 film, Benning&#8217;s lyrical short muses on a disengaged youth and grey afternoons spent wandering, and features the hard-edged music of Come, an alternative band from Boston. <i>The Judy Spots</i> is a tape composed of five episodes featuring Judy, a teenage girl puppet made of papiermache as she plays in a band, works at a fast food restaurant, shops at the mall and feels scared at night. <i>Flat is Beautiful</i> is an experimental, live-action cartoon narrative using masks, animation, subtitles, drawings and dramatic scenes to investigate the psychic life of an androgynous eleven-year-old girl. Growing up in a working class neighborhood with her single mother and gay roommate, Taylor confronts the loneliness of living between masculine and feminine in a culture obsessed with defining gender difference. Shifting between black and white film and grainy pixelvision video, <i>Flat is Beautiful</i> explores the internal and external worlds of sad people.</p>"
+            ],
+            "credit_line_for_label": "",
+            "details": [
+                {
+                    "label": "Duration",
+                    "display_values": [
+                        "01:08:39:00"
+                    ]
+                },
+                {
+                    "label": "Language",
+                    "display_values": [
+                        "English"
+                    ]
+                },
+                {
+                    "label": "Audience classification",
+                    "display_values": [
+                        "unclassified"
+                    ]
+                },
+                {
+                    "label": "Subject categories",
+                    "display_values": [
+                        "Animation",
+                        "Digital Art",
+                        "Experimental",
+                        "Family, Gender Identity, Relationships & Sexuality&nbsp;→ Lesbianism",
+                        "Short films",
+                        "Short films&nbsp;→ Short films - United States"
+                    ]
+                },
+                {
+                    "label": "Sound/audio",
+                    "display_values": [
+                        "Sound"
+                    ]
+                },
+                {
+                    "label": "Colour",
+                    "display_values": [
+                        "Black and White",
+                        "Colour"
+                    ]
+                }
+            ],
+            "stats": {
+                "tap_count": 0
+            },
+            "links": [],
+            "creators_primary": [
+                {
+                    "id": 1132802,
+                    "name": "Sadie Benning",
+                    "creator_id": 6504,
+                    "role": "creator",
+                    "role_id": 968,
+                    "is_primary": true
+                }
+            ],
+            "creators_other": [],
+            "video_links": [],
+            "media_note": null,
+            "images": [
+                {
+                    "id": 14674,
+                    "image_file": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/flat.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=NIio5quO2mT4LNO8%2BG8Glu8LvEA%3D&Expires=1627009578",
+                    "image_file_thumbnail": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/flat.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=WvVddcdF9QvSmz8l%2Fpx3VqM4bG4%3D&Expires=1627009578",
+                    "image_file_xs": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/flat.jpg.480x480_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=hTIPV4MAw5A%2BZG20nEeHcvaZJ50%3D&Expires=1627009578",
+                    "image_file_s": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/flat.jpg.960x960_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=aQb18xzCA5wC3MaOJRIRIvPqydk%3D&Expires=1627009578",
+                    "image_file_m": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/flat.jpg.1920x1920_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=w7BGmcDauvoSu8P%2B5cmKk7xxW2w%3D&Expires=1627009578",
+                    "image_file_l": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/flat.jpg.3840x3840_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=F1Pi%2B1SlmQa1pOyx3puhNmGmSSk%3D&Expires=1627009578",
+                    "caption": "Videoworks of Sadie Benning. Volume 3 (Sadie Benning) \"Flat Is Beautiful\" still",
+                    "credit_line": "",
+                    "alt_text": "",
+                    "width": 230,
+                    "height": 181,
+                    "access_level": "View anywhere"
+                },
+                {
+                    "id": 14675,
+                    "image_file": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/sadbenvidworvolthr001.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=CHX2GcKZ5dmV4q2Ab2MxY1eCXw4%3D&Expires=1627009578",
+                    "image_file_thumbnail": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/sadbenvidworvolthr001.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=pyiuB0Tb6ro2Ak7w6rsPI%2Br1jUQ%3D&Expires=1627009578",
+                    "image_file_xs": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/sadbenvidworvolthr001.jpg.480x480_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=NRKs2lohVU%2FNbCNJZ%2FbBLlr3GfI%3D&Expires=1627009578",
+                    "image_file_s": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/sadbenvidworvolthr001.jpg.960x960_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=2dYuh0BN4jnBtJ0kAL0nH7EeM%2BQ%3D&Expires=1627009578",
+                    "image_file_m": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/sadbenvidworvolthr001.jpg.1920x1920_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=M2omH6O1sAN2G3BEFiBDKN%2FwgN0%3D&Expires=1627009578",
+                    "image_file_l": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/sadbenvidworvolthr001.jpg.3840x3840_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=M5hFfD8MQEhtBRcjvRRzQGfMopQ%3D&Expires=1627009578",
+                    "caption": "Videoworks of Sadie Benning. Volume 3 (Sadie Benning) still",
+                    "credit_line": "",
+                    "alt_text": "",
+                    "width": 640,
+                    "height": 480,
+                    "access_level": "View anywhere"
+                },
+                {
+                    "id": 14676,
+                    "image_file": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/sadbenvidworvolthr002.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=NxSPHYbo24xX%2BsqrjxiMNoZ%2F%2FZk%3D&Expires=1627009578",
+                    "image_file_thumbnail": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/sadbenvidworvolthr002.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=Wfd74BmF3%2B7SDbcAjM%2FwLPyyKPQ%3D&Expires=1627009578",
+                    "image_file_xs": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/sadbenvidworvolthr002.jpg.480x480_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=yl%2FDn362r1ZkixL2J3ww2A3F8T8%3D&Expires=1627009578",
+                    "image_file_s": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/sadbenvidworvolthr002.jpg.960x960_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=z%2BIpTDyoNmonH99eF%2F69pnW%2FmvA%3D&Expires=1627009578",
+                    "image_file_m": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/sadbenvidworvolthr002.jpg.1920x1920_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=RGF5H1hE%2B0xS8oy7QAIbaM6F03o%3D&Expires=1627009578",
+                    "image_file_l": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/sadbenvidworvolthr002.jpg.3840x3840_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=wEBcImlSu7aOFEbVCfRkl1OGFDY%3D&Expires=1627009578",
+                    "caption": "Videoworks of Sadie Benning. Volume 3 (Sadie Benning) still",
+                    "credit_line": "",
+                    "alt_text": "",
+                    "width": 640,
+                    "height": 480,
+                    "access_level": "View anywhere"
+                },
+                {
+                    "id": 14677,
+                    "image_file": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/sadbenvidworvolthr003.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=oI67ayp7FaAoTQhDEcA4OUDj6uc%3D&Expires=1627009578",
+                    "image_file_thumbnail": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/sadbenvidworvolthr003.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=abDR3e%2BLYb0n74P%2Fxhxlo01Jf5c%3D&Expires=1627009578",
+                    "image_file_xs": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/sadbenvidworvolthr003.jpg.480x480_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=5Y6VYfm%2B%2Bya3iYh0XAJe2Mw5rAI%3D&Expires=1627009578",
+                    "image_file_s": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/sadbenvidworvolthr003.jpg.960x960_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=uTiREkNV%2FzqQQGm7XJ0YotCroMo%3D&Expires=1627009578",
+                    "image_file_m": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/sadbenvidworvolthr003.jpg.1920x1920_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=tTrxYMjDj8J3%2FfuoAdMXFzgMAqE%3D&Expires=1627009578",
+                    "image_file_l": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/sadbenvidworvolthr003.jpg.3840x3840_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=QRmilMLknnXwLIuS%2FIObZs1Xpz4%3D&Expires=1627009578",
+                    "caption": "Videoworks of Sadie Benning. Volume 3 (Sadie Benning) still",
+                    "credit_line": "",
+                    "alt_text": "",
+                    "width": 640,
+                    "height": 480,
+                    "access_level": "View anywhere"
+                },
+                {
+                    "id": 14678,
+                    "image_file": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/sadbenvidworvolthr004.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=1b10HinuSBozLBkIS7EvjC5E8TU%3D&Expires=1627009578",
+                    "image_file_thumbnail": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/sadbenvidworvolthr004.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=nWZo75BR9%2Bx80kHaLOz7zz6aCEk%3D&Expires=1627009578",
+                    "image_file_xs": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/sadbenvidworvolthr004.jpg.480x480_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=Oto6uaF%2BjVIq%2BrzWr1QNer02PUA%3D&Expires=1627009578",
+                    "image_file_s": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/sadbenvidworvolthr004.jpg.960x960_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=DxqGu27Hc5HTu52%2BXebDgmoYhT4%3D&Expires=1627009578",
+                    "image_file_m": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/sadbenvidworvolthr004.jpg.1920x1920_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=%2FOPOBQ0nxB4fTwjOzA94P41Q%2FNo%3D&Expires=1627009578",
+                    "image_file_l": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/sadbenvidworvolthr004.jpg.3840x3840_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=%2F3k7skzkhDRqdXfLgXkiYe%2BnaqI%3D&Expires=1627009578",
+                    "caption": "Videoworks of Sadie Benning. Volume 3 (Sadie Benning) still",
+                    "credit_line": "",
+                    "alt_text": "",
+                    "width": 640,
+                    "height": 480,
+                    "access_level": "View anywhere"
+                },
+                {
+                    "id": 14679,
+                    "image_file": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/sadbenvidworvolthr005.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=qX9XoUCKZqi3UqLkrzy8NjGpUZ0%3D&Expires=1627009578",
+                    "image_file_thumbnail": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/sadbenvidworvolthr005.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=74VcDPoivV9m%2BttoJxg2afjiLLo%3D&Expires=1627009578",
+                    "image_file_xs": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/sadbenvidworvolthr005.jpg.480x480_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=a8BP3ORDdqP8ZxfN06gNTvD0knk%3D&Expires=1627009578",
+                    "image_file_s": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/sadbenvidworvolthr005.jpg.960x960_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=jwg%2F%2F%2FNq0zry7jmpYc7O320Md5k%3D&Expires=1627009578",
+                    "image_file_m": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/sadbenvidworvolthr005.jpg.1920x1920_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=YJP9LRovxjRS9TWiLIsnpCcAiZM%3D&Expires=1627009578",
+                    "image_file_l": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/sadbenvidworvolthr005.jpg.3840x3840_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=vw0p6aJpwJva3BScrwvJS4Xuyro%3D&Expires=1627009578",
+                    "caption": "Videoworks of Sadie Benning. Volume 3 (Sadie Benning) still",
+                    "credit_line": "",
+                    "alt_text": "",
+                    "width": 640,
+                    "height": 480,
+                    "access_level": "View anywhere"
+                },
+                {
+                    "id": 14680,
+                    "image_file": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/sadbenvidworvolthr006.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=TsH3C1nRJ%2FruBHJLIpEiIFzCk5A%3D&Expires=1627009578",
+                    "image_file_thumbnail": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/sadbenvidworvolthr006.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=51YpM9fRMHk17ly1XH47y6o1Qt0%3D&Expires=1627009578",
+                    "image_file_xs": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/sadbenvidworvolthr006.jpg.480x480_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=P9o6IOQnBdrdUmf49FfkO554bBQ%3D&Expires=1627009578",
+                    "image_file_s": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/sadbenvidworvolthr006.jpg.960x960_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=reePYiKAn4z2Sw66IwUm98cTvQs%3D&Expires=1627009578",
+                    "image_file_m": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/sadbenvidworvolthr006.jpg.1920x1920_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=THSq5H7Nb7TdxFuUgSk6R0ifCOQ%3D&Expires=1627009578",
+                    "image_file_l": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/sadbenvidworvolthr006.jpg.3840x3840_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=m7QnT2f32sYsBWpGGFP3VBx0yqc%3D&Expires=1627009578",
+                    "caption": "Videoworks of Sadie Benning. Volume 3 (Sadie Benning) still",
+                    "credit_line": "",
+                    "alt_text": "",
+                    "width": 640,
+                    "height": 480,
+                    "access_level": "View anywhere"
+                },
+                {
+                    "id": 14681,
+                    "image_file": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/sadbenvidworvolthr007.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=VpyFoD4Z6rZY95eew%2BmZfVqKNNU%3D&Expires=1627009578",
+                    "image_file_thumbnail": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/sadbenvidworvolthr007.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=LmiLA0ys3ACMcI5OvouXS3tfPmY%3D&Expires=1627009578",
+                    "image_file_xs": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/sadbenvidworvolthr007.jpg.480x480_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=Im57MjNQI%2BDa0QUi5K65zFFObiY%3D&Expires=1627009578",
+                    "image_file_s": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/sadbenvidworvolthr007.jpg.960x960_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=QMlZ2BXx6roy06Jy1zsjAwBXfYA%3D&Expires=1627009578",
+                    "image_file_m": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/sadbenvidworvolthr007.jpg.1920x1920_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=9ykxhw6p5CDlsCmDOD4L%2FnTbSNc%3D&Expires=1627009578",
+                    "image_file_l": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/sadbenvidworvolthr007.jpg.3840x3840_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=5He0tGQDEvbnEQFpzGSC5gmMAfg%3D&Expires=1627009578",
+                    "caption": "Videoworks of Sadie Benning. Volume 3 (Sadie Benning) still",
+                    "credit_line": "",
+                    "alt_text": "",
+                    "width": 640,
+                    "height": 480,
+                    "access_level": "View anywhere"
+                },
+                {
+                    "id": 14682,
+                    "image_file": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/sadbenvidworvolthr008.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=gB11pmkU%2F%2BUAlH5Ry0ZraCSA5io%3D&Expires=1627009578",
+                    "image_file_thumbnail": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/sadbenvidworvolthr008.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=FMAEoBe1GbLTs9w29E2FqnONbII%3D&Expires=1627009578",
+                    "image_file_xs": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/sadbenvidworvolthr008.jpg.480x480_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=GGyjeP4J00Jc%2BR3VV5idc%2F0vNOk%3D&Expires=1627009578",
+                    "image_file_s": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/sadbenvidworvolthr008.jpg.960x960_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=ruDDdWDTyXit8O%2BgeUVupjshZzk%3D&Expires=1627009578",
+                    "image_file_m": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/sadbenvidworvolthr008.jpg.1920x1920_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=2X%2FD8Ka1gmpMEJaQUyPKc6USMoM%3D&Expires=1627009578",
+                    "image_file_l": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/sadbenvidworvolthr008.jpg.3840x3840_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=%2Bm02qVfAE7iD50y2HzD5aAjLyvg%3D&Expires=1627009578",
+                    "caption": "Videoworks of Sadie Benning. Volume 3 (Sadie Benning) still",
+                    "credit_line": "",
+                    "alt_text": "",
+                    "width": 640,
+                    "height": 480,
+                    "access_level": "View anywhere"
+                },
+                {
+                    "id": 14683,
+                    "image_file": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/sadbenvidworvolthr009.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=rOZrMDtTLGWFJqQYCFNSOpD9sSI%3D&Expires=1627009578",
+                    "image_file_thumbnail": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/sadbenvidworvolthr009.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=UqVzQTGH7jAPAux8i%2FygmR%2FPDWA%3D&Expires=1627009578",
+                    "image_file_xs": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/sadbenvidworvolthr009.jpg.480x480_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=vNxvJpBhWL66NyrIkQdFz2amv8U%3D&Expires=1627009578",
+                    "image_file_s": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/sadbenvidworvolthr009.jpg.960x960_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=2eN373oFj5noxC5Ij2ECoYp6MK0%3D&Expires=1627009578",
+                    "image_file_m": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/sadbenvidworvolthr009.jpg.1920x1920_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=wD5PqpB5CcgQzhBXMZFC7yAYYaI%3D&Expires=1627009578",
+                    "image_file_l": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/sadbenvidworvolthr009.jpg.3840x3840_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=DHd09uYIPkXYx%2BaJxmyM5YvcxEk%3D&Expires=1627009578",
+                    "caption": "Videoworks of Sadie Benning. Volume 3 (Sadie Benning) still",
+                    "credit_line": "",
+                    "alt_text": "",
+                    "width": 640,
+                    "height": 480,
+                    "access_level": "View anywhere"
+                }
+            ],
+            "videos": [],
+            "holdings": [
+                {
+                    "name": "Digital Betacam [NTSC]; Master",
+                    "identifier": "",
+                    "description": ""
+                },
+                {
+                    "name": "Digital Betacam [PAL]; Sub-master",
+                    "identifier": "",
+                    "description": ""
+                },
+                {
+                    "name": "VHS [PAL]; Reference - timecoded",
+                    "identifier": "",
+                    "description": ""
+                },
+                {
+                    "name": "VHS [PAL]; Copy",
+                    "identifier": "",
+                    "description": ""
+                },
+                {
+                    "name": "MOV file ProRes4444; Digital Preservation Master - overscan",
+                    "identifier": "",
+                    "description": ""
+                },
+                {
+                    "name": "MPEG-4 Digital File; ACMI Digital Access Copy - overscan",
+                    "identifier": "",
+                    "description": ""
+                }
+            ],
+            "part_of": null,
+            "parts": [],
+            "part_siblings": [],
+            "group": null,
+            "group_works": [
+                {
+                    "id": 109894,
+                    "acmi_id": "12195",
+                    "title": "Flat is beautiful",
+                    "title_annotation": "",
+                    "slug": "flat-is-beautiful",
+                    "creator_credit": "Sadie Benning",
+                    "credit_line": "",
+                    "headline_credit": "United States, 1998",
+                    "thumbnail": {
+                        "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/B2000280_FlatIsBeautiful.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=ixmHVBnE5XwXnjTkrNJWrdqoOM0%3D&Expires=1627009578",
+                        "has_video": false
+                    },
+                    "record_type": "work",
+                    "type": "Digital art",
+                    "is_on_display": false,
+                    "last_on_display_place": null,
+                    "last_on_display_date": null,
+                    "is_context_indigenous": false,
+                    "material_description": "Single channel moving image, black and white and audio",
+                    "unpublished": false,
+                    "first_production_date": "1998-01-01T11:00:00+11:00"
+                },
+                {
+                    "id": 109893,
+                    "acmi_id": "12194",
+                    "title": "German Song",
+                    "title_annotation": "",
+                    "slug": "german-song",
+                    "creator_credit": "Sadie Benning",
+                    "credit_line": "",
+                    "headline_credit": "United States, 1995",
+                    "thumbnail": null,
+                    "record_type": "work",
+                    "type": "Digital art",
+                    "is_on_display": false,
+                    "last_on_display_place": null,
+                    "last_on_display_date": null,
+                    "is_context_indigenous": false,
+                    "material_description": "Single channel moving image, black and white and audio",
+                    "unpublished": false,
+                    "first_production_date": "1995-01-01T11:00:00+11:00"
+                }
+            ],
+            "group_siblings": [],
+            "source": {
+                "name": "Vernon",
+                "slug": "vernon"
+            },
+            "source_identifier": "72",
+            "production_places": [
+                {
+                    "id": 2,
+                    "name": "United States",
+                    "slug": "united-states"
+                }
+            ],
+            "production_dates": [
+                {
+                    "date": "1995-1998",
+                    "notes": "",
+                    "to_year": "1995-1998"
+                }
+            ],
+            "labels": [
+                46806
+            ]
+        },
+        {
+            "id": 109893,
+            "acmi_id": "12194",
+            "title": "German Song",
+            "title_annotation": "",
+            "slug": "german-song",
+            "creator_credit": "Sadie Benning",
+            "credit_line": "",
+            "headline_credit": "United States, 1995",
+            "thumbnail": null,
+            "record_type": "work",
+            "type": "Digital art",
+            "is_on_display": false,
+            "last_on_display_place": null,
+            "last_on_display_date": null,
+            "is_context_indigenous": false,
+            "material_description": "Single channel moving image, black and white and audio",
+            "unpublished": false,
+            "first_production_date": "1995-01-01T11:00:00+11:00",
+            "brief_description": "",
+            "constellations_primary": [],
+            "constellations_other": [],
+            "recommendations": [],
+            "title_for_label": "<p>German Song</p>",
+            "creator_credit_for_label": "<p>Sadie Benning</p>",
+            "headline_credit_for_label": "<p>United States, 1995</p>",
+            "description": "",
+            "description_for_label": [],
+            "credit_line_for_label": "",
+            "details": [
+                {
+                    "label": "Duration",
+                    "display_values": [
+                        "00:06:21:00"
+                    ]
+                },
+                {
+                    "label": "Subject categories",
+                    "display_values": [
+                        "Animation",
+                        "Animation&nbsp;→ Puppet animation",
+                        "Digital Art"
+                    ]
+                },
+                {
+                    "label": "Sound/audio",
+                    "display_values": [
+                        "Sound"
+                    ]
+                },
+                {
+                    "label": "Colour",
+                    "display_values": [
+                        "Black and White"
+                    ]
+                },
+                {
+                    "label": "Materials",
+                    "display_values": [
+                        "Single channel moving image, black and white and audio"
+                    ]
+                }
+            ],
+            "stats": {
+                "tap_count": 0
+            },
+            "links": [],
+            "creators_primary": [
+                {
+                    "id": 1132799,
+                    "name": "Sadie Benning",
+                    "creator_id": 6504,
+                    "role": "creator",
+                    "role_id": 968,
+                    "is_primary": true
+                }
+            ],
+            "creators_other": [],
+            "video_links": [],
+            "media_note": null,
+            "images": [],
+            "videos": [],
+            "holdings": [
+                {
+                    "name": "Digital Betacam [NTSC]; Master",
+                    "identifier": "",
+                    "description": ""
+                },
+                {
+                    "name": "Digital Betacam [PAL]; Sub-master",
+                    "identifier": "",
+                    "description": ""
+                },
+                {
+                    "name": "VHS [PAL]; Reference - timecoded",
+                    "identifier": "",
+                    "description": ""
+                },
+                {
+                    "name": "VHS [PAL]; Copy",
+                    "identifier": "",
+                    "description": ""
+                },
+                {
+                    "name": "MOV file H264; ACMI Digital Access Copy - presentation",
+                    "identifier": "",
+                    "description": ""
+                }
+            ],
+            "part_of": null,
+            "parts": [],
+            "part_siblings": [],
+            "group": {
+                "id": 107315,
+                "acmi_id": "72",
+                "title": "Videoworks of Sadie Benning. Volume 3",
+                "title_annotation": "",
+                "slug": "videoworks-of-sadie-benning-volume-3",
+                "creator_credit": "Sadie Benning",
+                "credit_line": "",
+                "headline_credit": "United States, 1995-1998",
+                "thumbnail": {
+                    "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/flat.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=WvVddcdF9QvSmz8l%2Fpx3VqM4bG4%3D&Expires=1627009578",
+                    "has_video": false
+                },
+                "record_type": "group",
+                "type": "Digital art",
+                "is_on_display": false,
+                "last_on_display_place": null,
+                "last_on_display_date": null,
+                "is_context_indigenous": false,
+                "material_description": "",
+                "unpublished": false,
+                "first_production_date": null
+            },
+            "group_works": [],
+            "group_siblings": [
+                {
+                    "id": 109894,
+                    "acmi_id": "12195",
+                    "title": "Flat is beautiful",
+                    "title_annotation": "",
+                    "slug": "flat-is-beautiful",
+                    "creator_credit": "Sadie Benning",
+                    "credit_line": "",
+                    "headline_credit": "United States, 1998",
+                    "thumbnail": {
+                        "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/B2000280_FlatIsBeautiful.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=ixmHVBnE5XwXnjTkrNJWrdqoOM0%3D&Expires=1627009578",
+                        "has_video": false
+                    },
+                    "record_type": "work",
+                    "type": "Digital art",
+                    "is_on_display": false,
+                    "last_on_display_place": null,
+                    "last_on_display_date": null,
+                    "is_context_indigenous": false,
+                    "material_description": "Single channel moving image, black and white and audio",
+                    "unpublished": false,
+                    "first_production_date": "1998-01-01T11:00:00+11:00"
+                }
+            ],
+            "source": {
+                "name": "Vernon",
+                "slug": "vernon"
+            },
+            "source_identifier": "12194",
+            "production_places": [
+                {
+                    "id": 2,
+                    "name": "United States",
+                    "slug": "united-states"
+                }
+            ],
+            "production_dates": [
+                {
+                    "date": "1995",
+                    "notes": "",
+                    "to_year": "1995"
+                }
+            ],
+            "labels": [
+                49386
+            ]
+        },
+        {
+            "id": 109894,
+            "acmi_id": "12195",
+            "title": "Flat is beautiful",
+            "title_annotation": "",
+            "slug": "flat-is-beautiful",
+            "creator_credit": "Sadie Benning",
+            "credit_line": "",
+            "headline_credit": "United States, 1998",
+            "thumbnail": {
+                "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/B2000280_FlatIsBeautiful.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=ixmHVBnE5XwXnjTkrNJWrdqoOM0%3D&Expires=1627009578",
+                "has_video": false
+            },
+            "record_type": "work",
+            "type": "Digital art",
+            "is_on_display": false,
+            "last_on_display_place": null,
+            "last_on_display_date": null,
+            "is_context_indigenous": false,
+            "material_description": "Single channel moving image, black and white and audio",
+            "unpublished": false,
+            "first_production_date": "1998-01-01T11:00:00+11:00",
+            "brief_description": "<p>Partly shot in Pixelvision and partly in Super 8 and using a combination of hand-drawn masks, animation and live action, this experimental film explores the theme of gender identity through the eyes of androgenous 11-year-old Taylor (Sammy Steel).</p>",
+            "constellations_primary": [],
+            "constellations_other": [],
+            "recommendations": [],
+            "title_for_label": "<p>Flat is beautiful</p>",
+            "creator_credit_for_label": "<p>Sadie Benning</p>",
+            "headline_credit_for_label": "<p>United States, 1998</p>",
+            "description": "<p>Partly shot in Pixelvision and partly in Super 8 and using a combination of hand-drawn masks, animation and live action, this experimental film explores the theme of gender identity through the eyes of androgenous 11-year-old Taylor (Sammy Steel).</p>",
+            "description_for_label": [
+                "<p>Partly shot in Pixelvision and partly in Super 8 and using a combination of hand-drawn masks, animation and live action, this experimental film explores the theme of gender identity through the eyes of androgenous 11-year-old Taylor (Sammy Steel).</p>"
+            ],
+            "credit_line_for_label": "",
+            "details": [
+                {
+                    "label": "Duration",
+                    "display_values": [
+                        "00:49:48:00"
+                    ]
+                },
+                {
+                    "label": "Language",
+                    "display_values": [
+                        "English"
+                    ]
+                },
+                {
+                    "label": "Audience classification",
+                    "display_values": [
+                        "Mediatheque - not for children (ACMI classified)"
+                    ]
+                },
+                {
+                    "label": "Subject categories",
+                    "display_values": [
+                        "Animation",
+                        "Digital Art",
+                        "Experimental"
+                    ]
+                },
+                {
+                    "label": "Sound/audio",
+                    "display_values": [
+                        "Sound"
+                    ]
+                },
+                {
+                    "label": "Colour",
+                    "display_values": [
+                        "Black and White"
+                    ]
+                },
+                {
+                    "label": "Materials",
+                    "display_values": [
+                        "Single channel moving image, black and white and audio"
+                    ]
+                }
+            ],
+            "stats": {
+                "tap_count": 0
+            },
+            "links": [],
+            "creators_primary": [
+                {
+                    "id": 1132797,
+                    "name": "Sadie Benning",
+                    "creator_id": 6504,
+                    "role": "director",
+                    "role_id": 938,
+                    "is_primary": true
+                }
+            ],
+            "creators_other": [
+                {
+                    "id": 1132798,
+                    "name": "Sammy Steel",
+                    "creator_id": 73654,
+                    "role": "cast",
+                    "role_id": 33,
+                    "is_primary": false
+                }
+            ],
+            "video_links": [],
+            "media_note": null,
+            "images": [
+                {
+                    "id": 11272,
+                    "image_file": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/B2000280_FlatIsBeautiful.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=uEMNgcWj%2Bs0qynaW6Y%2F9z3N4tsU%3D&Expires=1627009578",
+                    "image_file_thumbnail": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/B2000280_FlatIsBeautiful.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=ixmHVBnE5XwXnjTkrNJWrdqoOM0%3D&Expires=1627009578",
+                    "image_file_xs": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/B2000280_FlatIsBeautiful.jpg.480x480_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=43XN2XlznNfPDVo8WJOnnKhHJ0s%3D&Expires=1627009578",
+                    "image_file_s": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/B2000280_FlatIsBeautiful.jpg.960x960_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=ojqvE6P3q6mZ77jvKj1xp%2B6FyIE%3D&Expires=1627009578",
+                    "image_file_m": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/B2000280_FlatIsBeautiful.jpg.1920x1920_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=c157YGqW3M5IG6JOubwJawgzxmk%3D&Expires=1627009578",
+                    "image_file_l": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/B2000280_FlatIsBeautiful.jpg.3840x3840_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=tFNf%2BztD30VTuTqJWSmslhliKnM%3D&Expires=1627009578",
+                    "caption": "Flat is beautiful (Sadie Benning) still",
+                    "credit_line": "",
+                    "alt_text": "",
+                    "width": 438,
+                    "height": 327,
+                    "access_level": "View anywhere"
+                }
+            ],
+            "videos": [],
+            "holdings": [
+                {
+                    "name": "Digital Betacam [NTSC]; Master",
+                    "identifier": "",
+                    "description": ""
+                },
+                {
+                    "name": "Digital Betacam [PAL]; Sub-master",
+                    "identifier": "",
+                    "description": ""
+                },
+                {
+                    "name": "VHS [PAL]; Reference - timecoded",
+                    "identifier": "",
+                    "description": ""
+                },
+                {
+                    "name": "VHS [PAL]; Copy",
+                    "identifier": "",
+                    "description": ""
+                },
+                {
+                    "name": "MOV file H264; ACMI Digital Access Copy - presentation",
+                    "identifier": "",
+                    "description": ""
+                }
+            ],
+            "part_of": null,
+            "parts": [],
+            "part_siblings": [],
+            "group": {
+                "id": 107315,
+                "acmi_id": "72",
+                "title": "Videoworks of Sadie Benning. Volume 3",
+                "title_annotation": "",
+                "slug": "videoworks-of-sadie-benning-volume-3",
+                "creator_credit": "Sadie Benning",
+                "credit_line": "",
+                "headline_credit": "United States, 1995-1998",
+                "thumbnail": {
+                    "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/flat.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=WvVddcdF9QvSmz8l%2Fpx3VqM4bG4%3D&Expires=1627009578",
+                    "has_video": false
+                },
+                "record_type": "group",
+                "type": "Digital art",
+                "is_on_display": false,
+                "last_on_display_place": null,
+                "last_on_display_date": null,
+                "is_context_indigenous": false,
+                "material_description": "",
+                "unpublished": false,
+                "first_production_date": null
+            },
+            "group_works": [],
+            "group_siblings": [
+                {
+                    "id": 109893,
+                    "acmi_id": "12194",
+                    "title": "German Song",
+                    "title_annotation": "",
+                    "slug": "german-song",
+                    "creator_credit": "Sadie Benning",
+                    "credit_line": "",
+                    "headline_credit": "United States, 1995",
+                    "thumbnail": null,
+                    "record_type": "work",
+                    "type": "Digital art",
+                    "is_on_display": false,
+                    "last_on_display_place": null,
+                    "last_on_display_date": null,
+                    "is_context_indigenous": false,
+                    "material_description": "Single channel moving image, black and white and audio",
+                    "unpublished": false,
+                    "first_production_date": "1995-01-01T11:00:00+11:00"
+                }
+            ],
+            "source": {
+                "name": "Vernon",
+                "slug": "vernon"
+            },
+            "source_identifier": "12195",
+            "production_places": [
+                {
+                    "id": 2,
+                    "name": "United States",
+                    "slug": "united-states"
+                }
+            ],
+            "production_dates": [
+                {
+                    "date": "1998",
+                    "notes": "",
+                    "to_year": "1998"
+                }
+            ],
+            "labels": [
+                49387
+            ]
+        },
+        {
+            "id": 107314,
+            "acmi_id": "71",
+            "title": "Videoworks of Sadie Benning. Volume 2",
+            "title_annotation": "",
+            "slug": "videoworks-of-sadie-benning-volume-2",
+            "creator_credit": "Sadie Benning",
+            "credit_line": "",
+            "headline_credit": "United States, 1991-1992",
+            "thumbnail": {
+                "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/lovely.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=P3iRvrHgtTG2r42LiJOay9rkO%2FY%3D&Expires=1627009578",
+                "has_video": false
+            },
+            "record_type": "group",
+            "type": "Digital art",
+            "is_on_display": false,
+            "last_on_display_place": null,
+            "last_on_display_date": null,
+            "is_context_indigenous": false,
+            "material_description": "",
+            "unpublished": false,
+            "first_production_date": null,
+            "brief_description": "<p>Volume Two includes the pixel vision works made in 1992 - &#8216;A Place Called Lovely&#8217;, &#8216;It Wasn&#8217;t Love&#8217; and &#8216;Girlpower&#8217;. &#8216;A Place Called Lovely&#8217; references the types of violence individuals find in life, from explicit beatings, accidents, and murders to the more insidious violence of lies, social expectations, and betrayed faith. Benning collects images of this socially-pervasive violence from (like mumbledy-peg) personal experiences, and those of others. Throughout, she uses small toys as props and examples, handling and controlling them the way we are in turn controlled by larger, violent forces. In &#8216;It Wasn&#8217;t Love&#8217;, Benning illustrates a lustful encounter with a <code>bad girl,&amp;#8217; through the gender posturing and genre interplay of Hollywood stereotypes: posing for the camera as the rebel, the platinum blonde, the gangster, the &amp;#8216;50s crooner, and the heavy-lidded vamp. Cigarette poses, romantic slow dancing, and fast-action heavy-metal street shots propel the viewer through the story of the love affair. Benning&amp;#8217;s video goes farther than romantic fantasy, describing other facets of physical attraction including fear, violence, lust, guilt, and total excitement. As she puts it, &amp;#8216;It wasn&amp;#8217;t love, but it was something&amp;#8217;. Set to music by Bikini Kill, an all-girl band out of Washington, &amp;#8216;Girl Power&amp;#8217; is a raucous vision of what it means to be a radical girl in the &amp;#8216;90s. Benning narrates her personal rebellion against school, family, and female stereotypes as a story of personal freedom, telling how she used to model like Matt Dillon and skip school to take adventures alone. Informed by the underground</code>riot grrrl&#8217; movement, this tape transforms the image politics of female youth, against traditional passivity and polite compliance in favor of radical independence and a self-determined sexual identity.</p>",
+            "constellations_primary": [],
+            "constellations_other": [],
+            "recommendations": [],
+            "title_for_label": "<p>Videoworks of Sadie Benning. Volume 2</p>",
+            "creator_credit_for_label": "<p>Sadie Benning</p>",
+            "headline_credit_for_label": "<p>United States, 1991-1992</p>",
+            "description": "<p>Volume Two includes the pixel vision works made in 1992 - &#8216;A Place Called Lovely&#8217;, &#8216;It Wasn&#8217;t Love&#8217; and &#8216;Girlpower&#8217;. &#8216;A Place Called Lovely&#8217; references the types of violence individuals find in life, from explicit beatings, accidents, and murders to the more insidious violence of lies, social expectations, and betrayed faith. Benning collects images of this socially-pervasive violence from (like mumbledy-peg) personal experiences, and those of others. Throughout, she uses small toys as props and examples, handling and controlling them the way we are in turn controlled by larger, violent forces. In &#8216;It Wasn&#8217;t Love&#8217;, Benning illustrates a lustful encounter with a <code>bad girl,&amp;#8217; through the gender posturing and genre interplay of Hollywood stereotypes: posing for the camera as the rebel, the platinum blonde, the gangster, the &amp;#8216;50s crooner, and the heavy-lidded vamp. Cigarette poses, romantic slow dancing, and fast-action heavy-metal street shots propel the viewer through the story of the love affair. Benning&amp;#8217;s video goes farther than romantic fantasy, describing other facets of physical attraction including fear, violence, lust, guilt, and total excitement. As she puts it, &amp;#8216;It wasn&amp;#8217;t love, but it was something&amp;#8217;. Set to music by Bikini Kill, an all-girl band out of Washington, &amp;#8216;Girl Power&amp;#8217; is a raucous vision of what it means to be a radical girl in the &amp;#8216;90s. Benning narrates her personal rebellion against school, family, and female stereotypes as a story of personal freedom, telling how she used to model like Matt Dillon and skip school to take adventures alone. Informed by the underground</code>riot grrrl&#8217; movement, this tape transforms the image politics of female youth, against traditional passivity and polite compliance in favor of radical independence and a self-determined sexual identity.</p>",
+            "description_for_label": [
+                "<p>Volume Two includes the pixel vision works made in 1992 - &#8216;A Place Called Lovely&#8217;, &#8216;It Wasn&#8217;t Love&#8217; and &#8216;Girlpower&#8217;. &#8216;A Place Called Lovely&#8217; references the types of violence individuals find in life, from explicit beatings, accidents, and murders to the more insidious violence of lies, social expectations, and betrayed faith. Benning collects images of this socially-pervasive violence from (like mumbledy-peg) personal experiences, and those of others. Throughout, she uses small toys as props and examples, handling and controlling them the way we are in turn controlled by larger, violent forces. In &#8216;It Wasn&#8217;t Love&#8217;, Benning illustrates a lustful encounter with a <code>bad girl,&amp;#8217; through the gender posturing and genre interplay of Hollywood stereotypes: posing for the camera as the rebel, the platinum blonde, the gangster, the &amp;#8216;50s crooner, and the heavy-lidded vamp. Cigarette poses, romantic slow dancing, and fast-action heavy-metal street shots propel the viewer through the story of the love affair. Benning&amp;#8217;s video goes farther than romantic fantasy, describing other facets of physical attraction including fear, violence, lust, guilt, and total excitement. As she puts it, &amp;#8216;It wasn&amp;#8217;t love, but it was something&amp;#8217;. Set to music by Bikini Kill, an all-girl band out of Washington, &amp;#8216;Girl Power&amp;#8217; is a raucous vision of what it means to be a radical girl in the &amp;#8216;90s. Benning narrates her personal rebellion against school, family, and female stereotypes as a story of personal freedom, telling how she used to model like Matt Dillon and skip school to take adventures alone. Informed by the underground</code>riot grrrl&#8217; movement, this tape transforms the image politics of female youth, against traditional passivity and polite compliance in favor of radical independence and a self-determined sexual identity.</p>"
+            ],
+            "credit_line_for_label": "",
+            "details": [
+                {
+                    "label": "Duration",
+                    "display_values": [
+                        "00:49:00:00"
+                    ]
+                },
+                {
+                    "label": "Language",
+                    "display_values": [
+                        "English"
+                    ]
+                },
+                {
+                    "label": "Subject categories",
+                    "display_values": [
+                        "Digital Art",
+                        "Family, Gender Identity, Relationships & Sexuality&nbsp;→ Teenage girls",
+                        "Food, Health, Lifestyle, Medicine, Psychology & Safety&nbsp;→ Teenage girls",
+                        "Lesbian (Queer Cinema)&nbsp;→ Gay",
+                        "Short films",
+                        "Short films&nbsp;→ Short films - United States"
+                    ]
+                },
+                {
+                    "label": "Sound/audio",
+                    "display_values": [
+                        "Sound"
+                    ]
+                },
+                {
+                    "label": "Colour",
+                    "display_values": [
+                        "Black and White"
+                    ]
+                }
+            ],
+            "stats": {
+                "tap_count": 0
+            },
+            "links": [],
+            "creators_primary": [
+                {
+                    "id": 1132796,
+                    "name": "Sadie Benning",
+                    "creator_id": 6504,
+                    "role": "creator",
+                    "role_id": 968,
+                    "is_primary": true
+                }
+            ],
+            "creators_other": [],
+            "video_links": [],
+            "media_note": null,
+            "images": [
+                {
+                    "id": 14667,
+                    "image_file": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/lovely.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=ii1pJ6zWrXfmTIcq%2BulVtteq3v0%3D&Expires=1627009578",
+                    "image_file_thumbnail": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/lovely.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=P3iRvrHgtTG2r42LiJOay9rkO%2FY%3D&Expires=1627009578",
+                    "image_file_xs": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/lovely.jpg.480x480_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=lfRO%2Foa6TJsSm80JGnIpTfiFhiI%3D&Expires=1627009578",
+                    "image_file_s": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/lovely.jpg.960x960_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=ypb0LeJKxZ1xPXOx3Z1mpr%2BSieE%3D&Expires=1627009578",
+                    "image_file_m": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/lovely.jpg.1920x1920_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=7nvOEfHMoCL6FBehtsox3hLlBc0%3D&Expires=1627009578",
+                    "image_file_l": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/lovely.jpg.3840x3840_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=SxQplcyndRdKK966WlJAKPZW%2BcQ%3D&Expires=1627009578",
+                    "caption": "Videoworks of Sadie Benning. Volume 2 (Sadie Benning) - \"A Place Called Lovely\" still",
+                    "credit_line": "",
+                    "alt_text": "",
+                    "width": 120,
+                    "height": 90,
+                    "access_level": "View anywhere"
+                },
+                {
+                    "id": 14668,
+                    "image_file": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/sadbenvidworvoltwo001.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=MgppRsGYBSG8%2F5k3u8NwfA8CA%2BU%3D&Expires=1627009578",
+                    "image_file_thumbnail": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/sadbenvidworvoltwo001.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=J5Rhs0UfDh%2BtU7cnvzWs3sZTQBw%3D&Expires=1627009578",
+                    "image_file_xs": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/sadbenvidworvoltwo001.jpg.480x480_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=QC7zqylJgzdTzQcRDacqK2CXDA0%3D&Expires=1627009578",
+                    "image_file_s": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/sadbenvidworvoltwo001.jpg.960x960_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=0lJDxseHf8zYv8WDCyK7z9ccKd4%3D&Expires=1627009578",
+                    "image_file_m": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/sadbenvidworvoltwo001.jpg.1920x1920_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=mrgV3jvyXno703tK4T5IuqcCteQ%3D&Expires=1627009578",
+                    "image_file_l": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/sadbenvidworvoltwo001.jpg.3840x3840_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=q7gglX3OAVP2hQcvV7k7nqmRq1g%3D&Expires=1627009578",
+                    "caption": "Videoworks of Sadie Benning. Volume 2 (Sadie Benning) still",
+                    "credit_line": "",
+                    "alt_text": "",
+                    "width": 640,
+                    "height": 480,
+                    "access_level": "View anywhere"
+                },
+                {
+                    "id": 14669,
+                    "image_file": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/sadbenvidworvoltwo002.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=%2BePUZvE6USTr5i3AIyAbI9A9jSQ%3D&Expires=1627009578",
+                    "image_file_thumbnail": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/sadbenvidworvoltwo002.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=nnqNPy%2BBnTg9wjTB7HwXr3e2TRE%3D&Expires=1627009578",
+                    "image_file_xs": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/sadbenvidworvoltwo002.jpg.480x480_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=FAyNvZUn1xj43KhbbIAxE0p1UwE%3D&Expires=1627009578",
+                    "image_file_s": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/sadbenvidworvoltwo002.jpg.960x960_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=zq1Q%2FRQYqYU8UTPbLqGah0Q3%2B60%3D&Expires=1627009578",
+                    "image_file_m": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/sadbenvidworvoltwo002.jpg.1920x1920_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=E8Hmq6vqLfyeZLBYKCdcCt6a65w%3D&Expires=1627009578",
+                    "image_file_l": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/sadbenvidworvoltwo002.jpg.3840x3840_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=O5JB3mQgclthDOwFMe6UKVJPwlA%3D&Expires=1627009578",
+                    "caption": "Videoworks of Sadie Benning. Volume 2 (Sadie Benning) still",
+                    "credit_line": "",
+                    "alt_text": "",
+                    "width": 640,
+                    "height": 480,
+                    "access_level": "View anywhere"
+                },
+                {
+                    "id": 14670,
+                    "image_file": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/sadbenvidworvoltwo003.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=ag1hUq%2FMYfrSWI1R7YfRtZVLQq8%3D&Expires=1627009578",
+                    "image_file_thumbnail": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/sadbenvidworvoltwo003.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=xCxEL2j5m0dEg24bWhwExRxgEhY%3D&Expires=1627009578",
+                    "image_file_xs": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/sadbenvidworvoltwo003.jpg.480x480_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=UPjrv6nNh21zBWHnbAFSvns9Tis%3D&Expires=1627009578",
+                    "image_file_s": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/sadbenvidworvoltwo003.jpg.960x960_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=IWq0xMyqvHrGw2s%2FA6PwypixC3A%3D&Expires=1627009578",
+                    "image_file_m": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/sadbenvidworvoltwo003.jpg.1920x1920_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=rPVPmnW0r5%2FZLiq3B04%2FeNDNVJc%3D&Expires=1627009578",
+                    "image_file_l": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/sadbenvidworvoltwo003.jpg.3840x3840_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=xC4OUexT74BaiNTVelT0tDYKn3g%3D&Expires=1627009578",
+                    "caption": "Videoworks of Sadie Benning. Volume 2 (Sadie Benning) still",
+                    "credit_line": "",
+                    "alt_text": "",
+                    "width": 640,
+                    "height": 480,
+                    "access_level": "View anywhere"
+                },
+                {
+                    "id": 14671,
+                    "image_file": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/sadbenvidworvoltwo004.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=RfHOYdTi7IWPqoatwXL6NaP6%2FoM%3D&Expires=1627009578",
+                    "image_file_thumbnail": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/sadbenvidworvoltwo004.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=iD7m%2B6icutSmbsMKpr7Y5%2BOEd68%3D&Expires=1627009578",
+                    "image_file_xs": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/sadbenvidworvoltwo004.jpg.480x480_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=T%2BXwM2NPxZcD1dFZ00eIBFjWiEM%3D&Expires=1627009578",
+                    "image_file_s": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/sadbenvidworvoltwo004.jpg.960x960_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=Ci2%2FmxHFJvn2Yt1RpnJiaY2d%2Fuw%3D&Expires=1627009578",
+                    "image_file_m": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/sadbenvidworvoltwo004.jpg.1920x1920_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=eA5yuTI71phgVqbfdMQF8i%2FD2es%3D&Expires=1627009578",
+                    "image_file_l": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/sadbenvidworvoltwo004.jpg.3840x3840_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=X2Swyaj4u9I8dHrOpRyjOTk2lr8%3D&Expires=1627009578",
+                    "caption": "Videoworks of Sadie Benning. Volume 2 (Sadie Benning) still",
+                    "credit_line": "",
+                    "alt_text": "",
+                    "width": 640,
+                    "height": 480,
+                    "access_level": "View anywhere"
+                },
+                {
+                    "id": 14672,
+                    "image_file": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/sadbenvidworvoltwo005.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=p33cOI7MKisN0FID0WoDDJuR6MY%3D&Expires=1627009578",
+                    "image_file_thumbnail": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/sadbenvidworvoltwo005.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=5NNboSH%2Fk4hjlGhvXeVh7BGaUKE%3D&Expires=1627009578",
+                    "image_file_xs": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/sadbenvidworvoltwo005.jpg.480x480_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=CuiYOp%2F979SYMdz2tTF%2FZjqlH4E%3D&Expires=1627009578",
+                    "image_file_s": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/sadbenvidworvoltwo005.jpg.960x960_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=UoXmSXvH012ZRVGNrQOntYj0T3w%3D&Expires=1627009578",
+                    "image_file_m": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/sadbenvidworvoltwo005.jpg.1920x1920_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=F4kMuir%2FLx8vvf5sR8ebZ7a4UOI%3D&Expires=1627009578",
+                    "image_file_l": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/sadbenvidworvoltwo005.jpg.3840x3840_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=yRfhJkjSwCwYvWTjGjxri%2FflXq0%3D&Expires=1627009578",
+                    "caption": "Videoworks of Sadie Benning. Volume 2 (Sadie Benning) still",
+                    "credit_line": "",
+                    "alt_text": "",
+                    "width": 640,
+                    "height": 480,
+                    "access_level": "View anywhere"
+                },
+                {
+                    "id": 14673,
+                    "image_file": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/sadbenvidworvoltwo006.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=hJ77S8Lm2ntEFUUKW7HjfLasK24%3D&Expires=1627009578",
+                    "image_file_thumbnail": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/sadbenvidworvoltwo006.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=MFUB%2FWLDYozzCRcUO%2FozZCA3DTI%3D&Expires=1627009578",
+                    "image_file_xs": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/sadbenvidworvoltwo006.jpg.480x480_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=jmTe0q1GPJ9Ixmq8VNqJ3VsyaAc%3D&Expires=1627009578",
+                    "image_file_s": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/sadbenvidworvoltwo006.jpg.960x960_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=F5TNTCsWDoVvkfsq1yMnLnDM%2FK8%3D&Expires=1627009578",
+                    "image_file_m": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/sadbenvidworvoltwo006.jpg.1920x1920_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=aN8po6gpvTgvGEZu6dTOMQWXhKU%3D&Expires=1627009578",
+                    "image_file_l": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/sadbenvidworvoltwo006.jpg.3840x3840_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=7tcMPKD8s%2FcA45%2BIJmi3inmj1hQ%3D&Expires=1627009578",
+                    "caption": "Videoworks of Sadie Benning. Volume 2 (Sadie Benning) still",
+                    "credit_line": "",
+                    "alt_text": "",
+                    "width": 640,
+                    "height": 480,
+                    "access_level": "View anywhere"
+                }
+            ],
+            "videos": [],
+            "holdings": [
+                {
+                    "name": "Digital Betacam [NTSC]; Master",
+                    "identifier": "",
+                    "description": ""
+                },
+                {
+                    "name": "Digital Betacam [PAL]; Sub-master",
+                    "identifier": "",
+                    "description": ""
+                },
+                {
+                    "name": "VHS [PAL]; Reference - timecoded",
+                    "identifier": "",
+                    "description": ""
+                },
+                {
+                    "name": "VHS [PAL]; Copy",
+                    "identifier": "",
+                    "description": ""
+                },
+                {
+                    "name": "MOV file ProRes4444; Digital Preservation Master - overscan",
+                    "identifier": "",
+                    "description": ""
+                },
+                {
+                    "name": "MPEG-4 Digital File; ACMI Digital Access Copy - overscan",
+                    "identifier": "",
+                    "description": ""
+                }
+            ],
+            "part_of": null,
+            "parts": [],
+            "part_siblings": [],
+            "group": null,
+            "group_works": [
+                {
+                    "id": 109888,
+                    "acmi_id": "12189",
+                    "title": "Girlpower (Part 1)",
+                    "title_annotation": "",
+                    "slug": "girlpower-part-1",
+                    "creator_credit": "Sadie Benning",
+                    "credit_line": "",
+                    "headline_credit": "United States, 1993",
+                    "thumbnail": null,
+                    "record_type": "work",
+                    "type": "Digital art",
+                    "is_on_display": false,
+                    "last_on_display_place": null,
+                    "last_on_display_date": null,
+                    "is_context_indigenous": false,
+                    "material_description": "Single channel moving image, black and white and audio",
+                    "unpublished": false,
+                    "first_production_date": "1993-01-01T11:00:00+11:00"
+                },
+                {
+                    "id": 109887,
+                    "acmi_id": "12188",
+                    "title": "It wasn't love",
+                    "title_annotation": "",
+                    "slug": "it-wasnt-love",
+                    "creator_credit": "Sadie Benning",
+                    "credit_line": "",
+                    "headline_credit": "United States, 1992",
+                    "thumbnail": null,
+                    "record_type": "work",
+                    "type": "Digital art",
+                    "is_on_display": false,
+                    "last_on_display_place": null,
+                    "last_on_display_date": null,
+                    "is_context_indigenous": false,
+                    "material_description": "Single channel moving image, black and white and audio",
+                    "unpublished": false,
+                    "first_production_date": "1992-01-01T11:00:00+11:00"
+                }
+            ],
+            "group_siblings": [],
+            "source": {
+                "name": "Vernon",
+                "slug": "vernon"
+            },
+            "source_identifier": "71",
+            "production_places": [
+                {
+                    "id": 2,
+                    "name": "United States",
+                    "slug": "united-states"
+                }
+            ],
+            "production_dates": [
+                {
+                    "date": "1991-1992",
+                    "notes": "",
+                    "to_year": "1991-1992"
+                }
+            ],
+            "labels": [
+                46805
+            ]
+        },
+        {
+            "id": 109887,
+            "acmi_id": "12188",
+            "title": "It wasn't love",
+            "title_annotation": "",
+            "slug": "it-wasnt-love",
+            "creator_credit": "Sadie Benning",
+            "credit_line": "",
+            "headline_credit": "United States, 1992",
+            "thumbnail": null,
+            "record_type": "work",
+            "type": "Digital art",
+            "is_on_display": false,
+            "last_on_display_place": null,
+            "last_on_display_date": null,
+            "is_context_indigenous": false,
+            "material_description": "Single channel moving image, black and white and audio",
+            "unpublished": false,
+            "first_production_date": "1992-01-01T11:00:00+11:00",
+            "brief_description": "",
+            "constellations_primary": [],
+            "constellations_other": [],
+            "recommendations": [],
+            "title_for_label": "<p>It wasn&#8217;t love</p>",
+            "creator_credit_for_label": "<p>Sadie Benning</p>",
+            "headline_credit_for_label": "<p>United States, 1992</p>",
+            "description": "",
+            "description_for_label": [],
+            "credit_line_for_label": "",
+            "details": [
+                {
+                    "label": "Duration",
+                    "display_values": [
+                        "00:19:10:00"
+                    ]
+                },
+                {
+                    "label": "Language",
+                    "display_values": [
+                        "English"
+                    ]
+                },
+                {
+                    "label": "Subject category",
+                    "display_values": [
+                        "Digital Art"
+                    ]
+                },
+                {
+                    "label": "Sound/audio",
+                    "display_values": [
+                        "Sound"
+                    ]
+                },
+                {
+                    "label": "Colour",
+                    "display_values": [
+                        "Black and White"
+                    ]
+                },
+                {
+                    "label": "Materials",
+                    "display_values": [
+                        "Single channel moving image, black and white and audio"
+                    ]
+                }
+            ],
+            "stats": {
+                "tap_count": 0
+            },
+            "links": [],
+            "creators_primary": [
+                {
+                    "id": 1132794,
+                    "name": "Sadie Benning",
+                    "creator_id": 6504,
+                    "role": "creator",
+                    "role_id": 968,
+                    "is_primary": true
+                }
+            ],
+            "creators_other": [],
+            "video_links": [],
+            "media_note": "Sorry, we don't have images or video for this item.",
+            "images": [],
+            "videos": [],
+            "holdings": [
+                {
+                    "name": "Digital Betacam [NTSC]; Master",
+                    "identifier": "",
+                    "description": ""
+                },
+                {
+                    "name": "Digital Betacam [PAL]; Sub-master",
+                    "identifier": "",
+                    "description": ""
+                },
+                {
+                    "name": "VHS [PAL]; Reference - timecoded",
+                    "identifier": "",
+                    "description": ""
+                },
+                {
+                    "name": "VHS [PAL]; Copy",
+                    "identifier": "",
+                    "description": ""
+                }
+            ],
+            "part_of": null,
+            "parts": [],
+            "part_siblings": [],
+            "group": {
+                "id": 107314,
+                "acmi_id": "71",
+                "title": "Videoworks of Sadie Benning. Volume 2",
+                "title_annotation": "",
+                "slug": "videoworks-of-sadie-benning-volume-2",
+                "creator_credit": "Sadie Benning",
+                "credit_line": "",
+                "headline_credit": "United States, 1991-1992",
+                "thumbnail": {
+                    "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/lovely.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=P3iRvrHgtTG2r42LiJOay9rkO%2FY%3D&Expires=1627009578",
+                    "has_video": false
+                },
+                "record_type": "group",
+                "type": "Digital art",
+                "is_on_display": false,
+                "last_on_display_place": null,
+                "last_on_display_date": null,
+                "is_context_indigenous": false,
+                "material_description": "",
+                "unpublished": false,
+                "first_production_date": null
+            },
+            "group_works": [],
+            "group_siblings": [
+                {
+                    "id": 109888,
+                    "acmi_id": "12189",
+                    "title": "Girlpower (Part 1)",
+                    "title_annotation": "",
+                    "slug": "girlpower-part-1",
+                    "creator_credit": "Sadie Benning",
+                    "credit_line": "",
+                    "headline_credit": "United States, 1993",
+                    "thumbnail": null,
+                    "record_type": "work",
+                    "type": "Digital art",
+                    "is_on_display": false,
+                    "last_on_display_place": null,
+                    "last_on_display_date": null,
+                    "is_context_indigenous": false,
+                    "material_description": "Single channel moving image, black and white and audio",
+                    "unpublished": false,
+                    "first_production_date": "1993-01-01T11:00:00+11:00"
+                }
+            ],
+            "source": {
+                "name": "Vernon",
+                "slug": "vernon"
+            },
+            "source_identifier": "12188",
+            "production_places": [
+                {
+                    "id": 2,
+                    "name": "United States",
+                    "slug": "united-states"
+                }
+            ],
+            "production_dates": [
+                {
+                    "date": "1992",
+                    "notes": "",
+                    "to_year": "1992"
+                }
+            ],
+            "labels": [
+                49380
+            ]
+        },
+        {
+            "id": 109888,
+            "acmi_id": "12189",
+            "title": "Girlpower (Part 1)",
+            "title_annotation": "",
+            "slug": "girlpower-part-1",
+            "creator_credit": "Sadie Benning",
+            "credit_line": "",
+            "headline_credit": "United States, 1993",
+            "thumbnail": null,
+            "record_type": "work",
+            "type": "Digital art",
+            "is_on_display": false,
+            "last_on_display_place": null,
+            "last_on_display_date": null,
+            "is_context_indigenous": false,
+            "material_description": "Single channel moving image, black and white and audio",
+            "unpublished": false,
+            "first_production_date": "1993-01-01T11:00:00+11:00",
+            "brief_description": "",
+            "constellations_primary": [],
+            "constellations_other": [],
+            "recommendations": [],
+            "title_for_label": "<p>Girlpower (Part 1)</p>",
+            "creator_credit_for_label": "<p>Sadie Benning</p>",
+            "headline_credit_for_label": "<p>United States, 1993</p>",
+            "description": "",
+            "description_for_label": [],
+            "credit_line_for_label": "",
+            "details": [
+                {
+                    "label": "Duration",
+                    "display_values": [
+                        "00:13:39:00"
+                    ]
+                },
+                {
+                    "label": "Language",
+                    "display_values": [
+                        "English"
+                    ]
+                },
+                {
+                    "label": "Subject category",
+                    "display_values": [
+                        "Digital Art"
+                    ]
+                },
+                {
+                    "label": "Sound/audio",
+                    "display_values": [
+                        "Sound"
+                    ]
+                },
+                {
+                    "label": "Colour",
+                    "display_values": [
+                        "Black and White"
+                    ]
+                },
+                {
+                    "label": "Materials",
+                    "display_values": [
+                        "Single channel moving image, black and white and audio"
+                    ]
+                }
+            ],
+            "stats": {
+                "tap_count": 0
+            },
+            "links": [],
+            "creators_primary": [
+                {
+                    "id": 1132793,
+                    "name": "Sadie Benning",
+                    "creator_id": 6504,
+                    "role": "creator",
+                    "role_id": 968,
+                    "is_primary": true
+                }
+            ],
+            "creators_other": [],
+            "video_links": [],
+            "media_note": "Sorry, we don't have images or video for this item.",
+            "images": [],
+            "videos": [],
+            "holdings": [
+                {
+                    "name": "Digital Betacam [NTSC]; Master",
+                    "identifier": "",
+                    "description": ""
+                },
+                {
+                    "name": "Digital Betacam [PAL]; Sub-master",
+                    "identifier": "",
+                    "description": ""
+                },
+                {
+                    "name": "VHS [PAL]; Reference - timecoded",
+                    "identifier": "",
+                    "description": ""
+                },
+                {
+                    "name": "VHS [PAL]; Copy",
+                    "identifier": "",
+                    "description": ""
+                }
+            ],
+            "part_of": null,
+            "parts": [],
+            "part_siblings": [],
+            "group": {
+                "id": 107314,
+                "acmi_id": "71",
+                "title": "Videoworks of Sadie Benning. Volume 2",
+                "title_annotation": "",
+                "slug": "videoworks-of-sadie-benning-volume-2",
+                "creator_credit": "Sadie Benning",
+                "credit_line": "",
+                "headline_credit": "United States, 1991-1992",
+                "thumbnail": {
+                    "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/lovely.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=P3iRvrHgtTG2r42LiJOay9rkO%2FY%3D&Expires=1627009578",
+                    "has_video": false
+                },
+                "record_type": "group",
+                "type": "Digital art",
+                "is_on_display": false,
+                "last_on_display_place": null,
+                "last_on_display_date": null,
+                "is_context_indigenous": false,
+                "material_description": "",
+                "unpublished": false,
+                "first_production_date": null
+            },
+            "group_works": [],
+            "group_siblings": [
+                {
+                    "id": 109887,
+                    "acmi_id": "12188",
+                    "title": "It wasn't love",
+                    "title_annotation": "",
+                    "slug": "it-wasnt-love",
+                    "creator_credit": "Sadie Benning",
+                    "credit_line": "",
+                    "headline_credit": "United States, 1992",
+                    "thumbnail": null,
+                    "record_type": "work",
+                    "type": "Digital art",
+                    "is_on_display": false,
+                    "last_on_display_place": null,
+                    "last_on_display_date": null,
+                    "is_context_indigenous": false,
+                    "material_description": "Single channel moving image, black and white and audio",
+                    "unpublished": false,
+                    "first_production_date": "1992-01-01T11:00:00+11:00"
+                }
+            ],
+            "source": {
+                "name": "Vernon",
+                "slug": "vernon"
+            },
+            "source_identifier": "12189",
+            "production_places": [
+                {
+                    "id": 2,
+                    "name": "United States",
+                    "slug": "united-states"
+                }
+            ],
+            "production_dates": [
+                {
+                    "date": "1993",
+                    "notes": "",
+                    "to_year": "1993"
+                }
+            ],
+            "labels": [
+                49381
+            ]
+        },
+        {
+            "id": 101483,
+            "acmi_id": "70",
+            "title": "Videoworks of Sadie Benning. Volume 1",
+            "title_annotation": "",
+            "slug": "videoworks-of-sadie-benning-volume-1",
+            "creator_credit": "Sadie Benning",
+            "credit_line": "",
+            "headline_credit": "United States, 1989-1990",
+            "thumbnail": {
+                "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/B1000079_VideoworksOfSadieBenning_Volume1_001.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=iAfeSxscFLWQy%2BPHvDdAlp4xsr4%3D&Expires=1627009578",
+                "has_video": false
+            },
+            "record_type": "group",
+            "type": "Digital art",
+            "is_on_display": false,
+            "last_on_display_place": null,
+            "last_on_display_date": null,
+            "is_context_indigenous": false,
+            "material_description": "",
+            "unpublished": false,
+            "first_production_date": null,
+            "brief_description": "<p>Compilation of five of Sadie Benning&#8217;s early works. In &#8216;Jollies&#8217;, Benning gives a chronology of her crushes and kisses, tracing the development of her nascent sexuality. Addressing the camera with an air of seduction and romance, Benning allows the viewer a sense of her waitful angst and special delight as she comes to realize her lesbian identity. In &#8216;If Every Girl Had a Diary&#8217;, Benning trains her Pixelvision camera on herself and her room, searching for a sense of identity and respect as a woman and a lesbian. Acting alternately as a confessor and accuser, the camera here captures Benning&#8217;s anger and frustration at feeling trapped by social prejudices. &#8216;Me and Rubyfruit&#8217; is based on a novel by Rita Mae Brown. This tape chronicles the enchantment of teenage lesbian love. Recorded against a backdrop of pornographic images and phone sex ads, Benning portrays the innocence of female romance, and the taboo prospect of female marriage. When she was 16, Benning stopped going to high school for three weeks and stayed inside with her camera, her TV set, and a pile of dirty laundry. &#8216;Living Inside&#8217; mirrors her psyche during this time. With the image breaking up between edits, the rough quality of this early tape captures Benning&#8217;s sense of isolation and sadness, her retreat from the world. As such, &#8216;Living Inside&#8217; exists as the confession of a chronic outsider. In &#8216;A New Year&#8217;, a version of the teenage diary, Benning places her feelings of confusion and depression alongside grisly tales of tabloid headlines and brutal events in her neighborhood. The difficulty of finding a positive identity for oneself in a world filled with violence is starkly revealed by Benning&#8217;s youthful but already despairing voice.</p>",
+            "constellations_primary": [],
+            "constellations_other": [],
+            "recommendations": [],
+            "title_for_label": "<p>Videoworks of Sadie Benning. Volume 1</p>",
+            "creator_credit_for_label": "<p>Sadie Benning</p>",
+            "headline_credit_for_label": "<p>United States, 1989-1990</p>",
+            "description": "<p>Compilation of five of Sadie Benning&#8217;s early works. In &#8216;Jollies&#8217;, Benning gives a chronology of her crushes and kisses, tracing the development of her nascent sexuality. Addressing the camera with an air of seduction and romance, Benning allows the viewer a sense of her waitful angst and special delight as she comes to realize her lesbian identity. In &#8216;If Every Girl Had a Diary&#8217;, Benning trains her Pixelvision camera on herself and her room, searching for a sense of identity and respect as a woman and a lesbian. Acting alternately as a confessor and accuser, the camera here captures Benning&#8217;s anger and frustration at feeling trapped by social prejudices. &#8216;Me and Rubyfruit&#8217; is based on a novel by Rita Mae Brown. This tape chronicles the enchantment of teenage lesbian love. Recorded against a backdrop of pornographic images and phone sex ads, Benning portrays the innocence of female romance, and the taboo prospect of female marriage. When she was 16, Benning stopped going to high school for three weeks and stayed inside with her camera, her TV set, and a pile of dirty laundry. &#8216;Living Inside&#8217; mirrors her psyche during this time. With the image breaking up between edits, the rough quality of this early tape captures Benning&#8217;s sense of isolation and sadness, her retreat from the world. As such, &#8216;Living Inside&#8217; exists as the confession of a chronic outsider. In &#8216;A New Year&#8217;, a version of the teenage diary, Benning places her feelings of confusion and depression alongside grisly tales of tabloid headlines and brutal events in her neighborhood. The difficulty of finding a positive identity for oneself in a world filled with violence is starkly revealed by Benning&#8217;s youthful but already despairing voice.</p>",
+            "description_for_label": [
+                "<p>Compilation of five of Sadie Benning&#8217;s early works. In &#8216;Jollies&#8217;, Benning gives a chronology of her crushes and kisses, tracing the development of her nascent sexuality. Addressing the camera with an air of seduction and romance, Benning allows the viewer a sense of her waitful angst and special delight as she comes to realize her lesbian identity. In &#8216;If Every Girl Had a Diary&#8217;, Benning trains her Pixelvision camera on herself and her room, searching for a sense of identity and respect as a woman and a lesbian. Acting alternately as a confessor and accuser, the camera here captures Benning&#8217;s anger and frustration at feeling trapped by social prejudices. &#8216;Me and Rubyfruit&#8217; is based on a novel by Rita Mae Brown. This tape chronicles the enchantment of teenage lesbian love. Recorded against a backdrop of pornographic images and phone sex ads, Benning portrays the innocence of female romance, and the taboo prospect of female marriage. When she was 16, Benning stopped going to high school for three weeks and stayed inside with her camera, her TV set, and a pile of dirty laundry. &#8216;Living Inside&#8217; mirrors her psyche during this time. With the image breaking up between edits, the rough quality of this early tape captures Benning&#8217;s sense of isolation and sadness, her retreat from the world. As such, &#8216;Living Inside&#8217; exists as the confession of a chronic outsider. In &#8216;A New Year&#8217;, a version of the teenage diary, Benning places her feelings of confusion and depression alongside grisly tales of tabloid headlines and brutal events in her neighborhood. The difficulty of finding a positive identity for oneself in a world filled with violence is starkly revealed by Benning&#8217;s youthful but already despairing voice.</p>"
+            ],
+            "credit_line_for_label": "",
+            "details": [
+                {
+                    "label": "Duration",
+                    "display_values": [
+                        "00:37:00:00"
+                    ]
+                },
+                {
+                    "label": "Language",
+                    "display_values": [
+                        "English"
+                    ]
+                },
+                {
+                    "label": "Subject categories",
+                    "display_values": [
+                        "Digital Art",
+                        "Family, Gender Identity, Relationships & Sexuality&nbsp;→ Coming out (Sexual orientation)",
+                        "Family, Gender Identity, Relationships & Sexuality&nbsp;→ Gender identity",
+                        "Family, Gender Identity, Relationships & Sexuality&nbsp;→ Lesbianism",
+                        "Family, Gender Identity, Relationships & Sexuality&nbsp;→ Teenage girls",
+                        "Food, Health, Lifestyle, Medicine, Psychology & Safety&nbsp;→ Teenage girls",
+                        "Lesbian (Queer Cinema)&nbsp;→ Gay",
+                        "Short films",
+                        "Short films&nbsp;→ Short films - United States"
+                    ]
+                }
+            ],
+            "stats": {
+                "tap_count": 0
+            },
+            "links": [],
+            "creators_primary": [
+                {
+                    "id": 1132792,
+                    "name": "Sadie Benning",
+                    "creator_id": 6504,
+                    "role": "creator",
+                    "role_id": 968,
+                    "is_primary": true
+                }
+            ],
+            "creators_other": [],
+            "video_links": [],
+            "media_note": null,
+            "images": [
+                {
+                    "id": 14662,
+                    "image_file": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/B1000079_VideoworksOfSadieBenning_Volume1_001.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=L8ik8NO4gBj%2B30ZIgkOKWUF8JN0%3D&Expires=1627009578",
+                    "image_file_thumbnail": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/B1000079_VideoworksOfSadieBenning_Volume1_001.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=iAfeSxscFLWQy%2BPHvDdAlp4xsr4%3D&Expires=1627009578",
+                    "image_file_xs": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/B1000079_VideoworksOfSadieBenning_Volume1_001.jpg.480x480_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=QkL2jkRwJtFHUVoyPB7s%2FD8Pc%2BE%3D&Expires=1627009578",
+                    "image_file_s": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/B1000079_VideoworksOfSadieBenning_Volume1_001.jpg.960x960_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=D1ZCn3JwLNruuy5D1kWR9KuPC3A%3D&Expires=1627009578",
+                    "image_file_m": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/B1000079_VideoworksOfSadieBenning_Volume1_001.jpg.1920x1920_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=SqabfAcNgjgVoJEx0BqyNaKpWNI%3D&Expires=1627009578",
+                    "image_file_l": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/B1000079_VideoworksOfSadieBenning_Volume1_001.jpg.3840x3840_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=jarJTRgOJ1g2UGk9rSRZgifoWgo%3D&Expires=1627009578",
+                    "caption": "Still #1 from Videoworks of Sadie Benning: Volume 1 (Sadie Benning)",
+                    "credit_line": "",
+                    "alt_text": "",
+                    "width": 640,
+                    "height": 480,
+                    "access_level": "View anywhere"
+                },
+                {
+                    "id": 14663,
+                    "image_file": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/B1000079_VideoworksOfSadieBenning_Volume1_002.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=DOzwLNkYR8EE%2BwAG8rXL%2FX%2BZ5xs%3D&Expires=1627009578",
+                    "image_file_thumbnail": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/B1000079_VideoworksOfSadieBenning_Volume1_002.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=At3N%2F0hTjKjrKvGNFCreRLZh9IE%3D&Expires=1627009578",
+                    "image_file_xs": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/B1000079_VideoworksOfSadieBenning_Volume1_002.jpg.480x480_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=qGPUaL1LBaDUaNhTf1GMZk6wBoo%3D&Expires=1627009578",
+                    "image_file_s": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/B1000079_VideoworksOfSadieBenning_Volume1_002.jpg.960x960_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=c4zs2F9R5TmfOXFu1CBBcRq0Hbg%3D&Expires=1627009578",
+                    "image_file_m": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/B1000079_VideoworksOfSadieBenning_Volume1_002.jpg.1920x1920_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=keM%2FcoKEpK%2Fys2p6zcYH2%2FRESjM%3D&Expires=1627009578",
+                    "image_file_l": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/B1000079_VideoworksOfSadieBenning_Volume1_002.jpg.3840x3840_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=0x7pmGidiCpXcFQCa6dLrY9DKHA%3D&Expires=1627009578",
+                    "caption": "Still #2 from Videoworks of Sadie Benning: Volume 1 (Sadie Benning)",
+                    "credit_line": "",
+                    "alt_text": "",
+                    "width": 640,
+                    "height": 480,
+                    "access_level": "View anywhere"
+                },
+                {
+                    "id": 14664,
+                    "image_file": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/B1000079_VideoworksOfSadieBenning_Volume1_003.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=OdT%2F0voa6397r8prQIlYmX%2FVwuM%3D&Expires=1627009578",
+                    "image_file_thumbnail": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/B1000079_VideoworksOfSadieBenning_Volume1_003.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=J0Yk9BX4JCY1qH%2FducqQoSk25iM%3D&Expires=1627009578",
+                    "image_file_xs": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/B1000079_VideoworksOfSadieBenning_Volume1_003.jpg.480x480_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=w2%2FByWKqAHaftkYZbnYyk92v0d0%3D&Expires=1627009578",
+                    "image_file_s": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/B1000079_VideoworksOfSadieBenning_Volume1_003.jpg.960x960_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=h7mnl6E9cp1DkHL0md53ngCeHtQ%3D&Expires=1627009578",
+                    "image_file_m": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/B1000079_VideoworksOfSadieBenning_Volume1_003.jpg.1920x1920_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=mvxVcwC3rKVXroMI%2FKkOE2KEwQ4%3D&Expires=1627009578",
+                    "image_file_l": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/B1000079_VideoworksOfSadieBenning_Volume1_003.jpg.3840x3840_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=KUdQn3ibTlOpFxgiMe3ZiRvExDw%3D&Expires=1627009578",
+                    "caption": "Still #3 from Videoworks of Sadie Benning: Volume 1 (Sadie Benning)",
+                    "credit_line": "",
+                    "alt_text": "",
+                    "width": 640,
+                    "height": 480,
+                    "access_level": "View anywhere"
+                },
+                {
+                    "id": 14665,
+                    "image_file": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/B1000079_VideoworksOfSadieBenning_Volume1_004.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=sX3fTZbaiJh0dtVzMnB6bZjm%2B4E%3D&Expires=1627009578",
+                    "image_file_thumbnail": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/B1000079_VideoworksOfSadieBenning_Volume1_004.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=X6mOal%2FcgkRaebZqKJym%2BTH2yCs%3D&Expires=1627009578",
+                    "image_file_xs": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/B1000079_VideoworksOfSadieBenning_Volume1_004.jpg.480x480_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=4sUWQiiNEaCMRP7l%2BWrRz2%2FvWOU%3D&Expires=1627009578",
+                    "image_file_s": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/B1000079_VideoworksOfSadieBenning_Volume1_004.jpg.960x960_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=lkqRxFDW56NMDwifPWtM05VOyq4%3D&Expires=1627009578",
+                    "image_file_m": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/B1000079_VideoworksOfSadieBenning_Volume1_004.jpg.1920x1920_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=G8Vlt1qEcrdh25slGDit5GGR45Y%3D&Expires=1627009578",
+                    "image_file_l": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/B1000079_VideoworksOfSadieBenning_Volume1_004.jpg.3840x3840_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=hJWU7aTB5xPORccUPRqNyhgxnwI%3D&Expires=1627009578",
+                    "caption": "Still #4 from Videoworks of Sadie Benning: Volume 1 (Sadie Benning)",
+                    "credit_line": "",
+                    "alt_text": "",
+                    "width": 640,
+                    "height": 480,
+                    "access_level": "View anywhere"
+                },
+                {
+                    "id": 14666,
+                    "image_file": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/B1000079_VideoworksOfSadieBenning_Volume1_005.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=JDmRRGCSenVYC6S4w39s2ikWVhg%3D&Expires=1627009578",
+                    "image_file_thumbnail": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/B1000079_VideoworksOfSadieBenning_Volume1_005.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=60XrMoUiaynalgpNO6Tu6SNH%2FMk%3D&Expires=1627009578",
+                    "image_file_xs": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/B1000079_VideoworksOfSadieBenning_Volume1_005.jpg.480x480_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=gDlLAePpeqjLPuXbGAyLXlUpY6U%3D&Expires=1627009578",
+                    "image_file_s": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/B1000079_VideoworksOfSadieBenning_Volume1_005.jpg.960x960_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=PO28Lj28lOW92N4N2ncxH9E%2FiTU%3D&Expires=1627009578",
+                    "image_file_m": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/B1000079_VideoworksOfSadieBenning_Volume1_005.jpg.1920x1920_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=LQklggd4fO%2Fs1o7cREOPgkYIZ3Q%3D&Expires=1627009578",
+                    "image_file_l": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/B1000079_VideoworksOfSadieBenning_Volume1_005.jpg.3840x3840_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=Hu2kqcBnnPrZRSe5TVjv4Folz%2Fg%3D&Expires=1627009578",
+                    "caption": "Still #5 from Videoworks of Sadie Benning: Volume 1 (Sadie Benning)",
+                    "credit_line": "",
+                    "alt_text": "",
+                    "width": 640,
+                    "height": 480,
+                    "access_level": "View anywhere"
+                }
+            ],
+            "videos": [],
+            "holdings": [
+                {
+                    "name": "MPEG-4 Digital File; ACMI Digital Access Copy - overscan",
+                    "identifier": "",
+                    "description": ""
+                },
+                {
+                    "name": "MOV file ProRes4444; Digital Preservation Master - overscan",
+                    "identifier": "",
+                    "description": ""
+                },
+                {
+                    "name": "Digital Betacam [NTSC]; Master",
+                    "identifier": "",
+                    "description": ""
+                },
+                {
+                    "name": "VHS [PAL]; Reference - timecoded",
+                    "identifier": "",
+                    "description": ""
+                },
+                {
+                    "name": "Digital Betacam [PAL]; Sub-master",
+                    "identifier": "",
+                    "description": ""
+                },
+                {
+                    "name": "VHS [PAL]; Copy",
+                    "identifier": "",
+                    "description": ""
+                }
+            ],
+            "part_of": null,
+            "parts": [],
+            "part_siblings": [],
+            "group": null,
+            "group_works": [
+                {
+                    "id": 109885,
+                    "acmi_id": "12185",
+                    "title": "A New Year",
+                    "title_annotation": "",
+                    "slug": "a-new-year",
+                    "creator_credit": "Sadie Benning",
+                    "credit_line": "",
+                    "headline_credit": "United States, 1989",
+                    "thumbnail": null,
+                    "record_type": "work",
+                    "type": "Digital art",
+                    "is_on_display": false,
+                    "last_on_display_place": null,
+                    "last_on_display_date": null,
+                    "is_context_indigenous": false,
+                    "material_description": "Single channel moving image, black and white and audio",
+                    "unpublished": false,
+                    "first_production_date": "1989-01-01T11:00:00+11:00"
+                },
+                {
+                    "id": 109886,
+                    "acmi_id": "12186",
+                    "title": "Me and Rubyfruit",
+                    "title_annotation": "",
+                    "slug": "me-and-rubyfruit",
+                    "creator_credit": "Sadie Benning",
+                    "credit_line": "",
+                    "headline_credit": "United States, 1989",
+                    "thumbnail": null,
+                    "record_type": "work",
+                    "type": "Digital art",
+                    "is_on_display": false,
+                    "last_on_display_place": null,
+                    "last_on_display_date": null,
+                    "is_context_indigenous": false,
+                    "material_description": "Single channel moving image, black and white and audio",
+                    "unpublished": false,
+                    "first_production_date": "1989-01-01T11:00:00+11:00"
+                }
+            ],
+            "group_siblings": [],
+            "source": {
+                "name": "Vernon",
+                "slug": "vernon"
+            },
+            "source_identifier": "70",
+            "production_places": [
+                {
+                    "id": 2,
+                    "name": "United States",
+                    "slug": "united-states"
+                }
+            ],
+            "production_dates": [
+                {
+                    "date": "1989-1990",
+                    "notes": "",
+                    "to_year": "1989-1990"
+                }
+            ],
+            "labels": [
+                40973
+            ]
+        }
+    ]
+}

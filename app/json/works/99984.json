@@ -1,0 +1,294 @@
+{
+    "id": 99984,
+    "acmi_id": "179051",
+    "title": "Hollow Knight development sketchbooks (landscape)",
+    "title_annotation": "",
+    "slug": "hollow-knight-paper-sketchbook-a5-landscape-oriented-black-cover",
+    "creator_credit": "Team Cherry",
+    "credit_line": "<p>Courtesy Ari Gibson</p>",
+    "headline_credit": "Australia",
+    "thumbnail": {
+        "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN179051_BlackNotebook_5.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=eQlK3T3%2BIHwiXk4v39IP1ot8Xic%3D&Expires=1627009184",
+        "has_video": false
+    },
+    "record_type": "work",
+    "type": "Object",
+    "is_on_display": true,
+    "last_on_display_place": "ACMI: Gallery 1",
+    "last_on_display_date": "2023-02-09",
+    "is_context_indigenous": false,
+    "material_description": "",
+    "unpublished": false,
+    "first_production_date": null,
+    "brief_description": "",
+    "constellations_primary": [],
+    "constellations_other": [],
+    "recommendations": [],
+    "title_for_label": "<p>Development sketchbooks  </p>",
+    "creator_credit_for_label": "<p>Team Cherry</p>",
+    "headline_credit_for_label": "<p>Australia</p>",
+    "description": "",
+    "description_for_label": [],
+    "credit_line_for_label": "<p>Courtesy Ari Gibson</p>",
+    "details": [
+        {
+            "label": "Curatorial section",
+            "display_values": [
+                "The Story of the Moving Image&nbsp;→ Moving Worlds&nbsp;→ 03. Production Design&nbsp;→ MW-03-C02&nbsp;→ MW-03-C02.02"
+            ]
+        },
+        {
+            "label": "Measurements",
+            "display_values": [
+                "20 x 210 x 150mm"
+            ]
+        }
+    ],
+    "stats": {
+        "tap_count": 0
+    },
+    "links": [],
+    "creators_primary": [
+        {
+            "id": 1134403,
+            "name": "Team Cherry",
+            "creator_id": 72009,
+            "role": "developer",
+            "role_id": 658,
+            "is_primary": true
+        }
+    ],
+    "creators_other": [],
+    "video_links": [],
+    "media_note": null,
+    "images": [
+        {
+            "id": 12863,
+            "image_file": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN179051_BlackNotebook_5.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=qj%2Bbdh3HnX3fs53bjf4HPA7dNCQ%3D&Expires=1627009184",
+            "image_file_thumbnail": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN179051_BlackNotebook_5.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=eQlK3T3%2BIHwiXk4v39IP1ot8Xic%3D&Expires=1627009184",
+            "image_file_xs": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN179051_BlackNotebook_5.jpg.480x480_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=MnPqqq1QdtBusFX8TLmJkDikr%2BQ%3D&Expires=1627009184",
+            "image_file_s": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN179051_BlackNotebook_5.jpg.960x960_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=nqC0SUG8MmaOtuU1AB%2FTXb918V4%3D&Expires=1627009184",
+            "image_file_m": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN179051_BlackNotebook_5.jpg.1920x1920_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=nYnJV8YnuMJ6MnWuXGj2vMoYWRY%3D&Expires=1627009184",
+            "image_file_l": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN179051_BlackNotebook_5.jpg.3840x3840_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=8QbZ0clrWbXcCsYPTt8GL4yZh%2FA%3D&Expires=1627009184",
+            "caption": "LN179051_BlackNotebook_5",
+            "credit_line": "Photograph by Egmont Contreras, ACMI.",
+            "alt_text": "",
+            "width": 4800,
+            "height": 3200,
+            "access_level": "View anywhere"
+        },
+        {
+            "id": 12859,
+            "image_file": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN179051_BlackNotebook_1.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=WH%2FNoPs51Dw3rdgD3GFQgcDWgmU%3D&Expires=1627009184",
+            "image_file_thumbnail": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN179051_BlackNotebook_1.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=DbLbiTuayXLrDS9WZMWNI8czAEc%3D&Expires=1627009184",
+            "image_file_xs": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN179051_BlackNotebook_1.jpg.480x480_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=91vK%2Bi5T7SjilMxLCNbzdQB9Jkw%3D&Expires=1627009184",
+            "image_file_s": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN179051_BlackNotebook_1.jpg.960x960_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=LfvE5tHFS%2BFW1LbXWxPXz1L8rY0%3D&Expires=1627009184",
+            "image_file_m": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN179051_BlackNotebook_1.jpg.1920x1920_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=h36vzGHaz7OFmkbShGmViX03tA8%3D&Expires=1627009184",
+            "image_file_l": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN179051_BlackNotebook_1.jpg.3840x3840_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=S6bxQwYpIIyOLv0uvYa3IVqlw7I%3D&Expires=1627009184",
+            "caption": "LN179051_BlackNotebook_1",
+            "credit_line": "Photograph by Egmont Contreras, ACMI.",
+            "alt_text": "",
+            "width": 4711,
+            "height": 3140,
+            "access_level": "View anywhere"
+        },
+        {
+            "id": 12860,
+            "image_file": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN179051_BlackNotebook_2.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=q5hYx1o3kWMr8h13psKwO9tQp5U%3D&Expires=1627009184",
+            "image_file_thumbnail": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN179051_BlackNotebook_2.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=4f0P0StF2vCalmIiLT1In%2Br%2BEJA%3D&Expires=1627009184",
+            "image_file_xs": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN179051_BlackNotebook_2.jpg.480x480_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=7JK9dLDFcBAfVDDdd%2BF9ZMTtKB0%3D&Expires=1627009184",
+            "image_file_s": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN179051_BlackNotebook_2.jpg.960x960_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=M2MPSRo574MrwcobpO3ah6xwJjg%3D&Expires=1627009184",
+            "image_file_m": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN179051_BlackNotebook_2.jpg.1920x1920_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=ewBwj2zX5C9He1NlpUIGMhhwhP8%3D&Expires=1627009184",
+            "image_file_l": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN179051_BlackNotebook_2.jpg.3840x3840_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=FeGWYE4VohE%2F1DXr%2FsjNeVbuSRE%3D&Expires=1627009184",
+            "caption": "LN179051_BlackNotebook_2",
+            "credit_line": "Photograph by Egmont Contreras, ACMI.",
+            "alt_text": "",
+            "width": 4800,
+            "height": 3200,
+            "access_level": "View anywhere"
+        },
+        {
+            "id": 12861,
+            "image_file": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN179051_BlackNotebook_3.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=8TBqDCIWAuGIDERf2PC7bVy8lQA%3D&Expires=1627009184",
+            "image_file_thumbnail": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN179051_BlackNotebook_3.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=DsTIzfBczcS8MqGXDMpaJsvJK7w%3D&Expires=1627009184",
+            "image_file_xs": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN179051_BlackNotebook_3.jpg.480x480_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=b7wRWUBjJQZn7d8HkkD3EGFhuYg%3D&Expires=1627009184",
+            "image_file_s": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN179051_BlackNotebook_3.jpg.960x960_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=dRg%2B4SxM5H7y3ptWdFu7pzpJWnI%3D&Expires=1627009184",
+            "image_file_m": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN179051_BlackNotebook_3.jpg.1920x1920_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=Ww8giU6%2FT54OHHESPyGdWpdd75Y%3D&Expires=1627009184",
+            "image_file_l": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN179051_BlackNotebook_3.jpg.3840x3840_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=NpmgQa2JZl6w6zVNb%2FbytIWOsv8%3D&Expires=1627009184",
+            "caption": "LN179051_BlackNotebook_3",
+            "credit_line": "Photograph by Egmont Contreras, ACMI.",
+            "alt_text": "",
+            "width": 4800,
+            "height": 3200,
+            "access_level": "View anywhere"
+        },
+        {
+            "id": 12862,
+            "image_file": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN179051_BlackNotebook_4.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=%2F80Q92g%2Bp8Vxr6pWGnEn2nLazag%3D&Expires=1627009184",
+            "image_file_thumbnail": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN179051_BlackNotebook_4.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=klJOJdZucdSm5zX4%2Bo2PA41Mf5k%3D&Expires=1627009184",
+            "image_file_xs": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN179051_BlackNotebook_4.jpg.480x480_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=4luYFRMTkpLaQz5UQGBxMeD5L4I%3D&Expires=1627009184",
+            "image_file_s": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN179051_BlackNotebook_4.jpg.960x960_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=Qs831RBfCGUGXh%2Fc7krjp%2B4z6yU%3D&Expires=1627009184",
+            "image_file_m": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN179051_BlackNotebook_4.jpg.1920x1920_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=wTrKDYZoPkVnkx5Zd4KCPLpRItc%3D&Expires=1627009184",
+            "image_file_l": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN179051_BlackNotebook_4.jpg.3840x3840_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=6U8gH86J4bTCQEsZwakyrw8HTj8%3D&Expires=1627009184",
+            "caption": "LN179051_BlackNotebook_4",
+            "credit_line": "Photograph by Egmont Contreras, ACMI.",
+            "alt_text": "",
+            "width": 4800,
+            "height": 3200,
+            "access_level": "View anywhere"
+        },
+        {
+            "id": 12864,
+            "image_file": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN179051_BlackNotebook_6.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=YFkeBy42gX3DJmIbzA%2FAtm0YGAc%3D&Expires=1627009184",
+            "image_file_thumbnail": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN179051_BlackNotebook_6.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=YQbNY8CyKE3nOcv5wHJSS2FlX90%3D&Expires=1627009184",
+            "image_file_xs": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN179051_BlackNotebook_6.jpg.480x480_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=7L8EBZHLwJ4liBKHR8Pvj2AsLTc%3D&Expires=1627009184",
+            "image_file_s": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN179051_BlackNotebook_6.jpg.960x960_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=VBVBKS8nI%2BFgFej5S8%2BRoqajh5w%3D&Expires=1627009184",
+            "image_file_m": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN179051_BlackNotebook_6.jpg.1920x1920_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=8yeZteSGS3iJhCN5ptMDb0dCt8Y%3D&Expires=1627009184",
+            "image_file_l": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN179051_BlackNotebook_6.jpg.3840x3840_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=YZ4qWmIpeRwknZDUUCDHJL126mo%3D&Expires=1627009184",
+            "caption": "LN179051_BlackNotebook_6",
+            "credit_line": "Photograph by Egmont Contreras, ACMI.",
+            "alt_text": "",
+            "width": 4800,
+            "height": 3200,
+            "access_level": "View anywhere"
+        },
+        {
+            "id": 12865,
+            "image_file": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN179051_BlackNotebook_7.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=2gNGSOb%2FNk2iATIt59XD%2FXQ6Lqg%3D&Expires=1627009184",
+            "image_file_thumbnail": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN179051_BlackNotebook_7.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=TXt2k4a2oGpFn3uDcptwcPBuHzA%3D&Expires=1627009184",
+            "image_file_xs": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN179051_BlackNotebook_7.jpg.480x480_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=A%2FFuhTb%2BIgfcFA17utZetXdPwHg%3D&Expires=1627009184",
+            "image_file_s": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN179051_BlackNotebook_7.jpg.960x960_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=fRORRRhOCJnYWKuyLmUElgxVX40%3D&Expires=1627009184",
+            "image_file_m": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN179051_BlackNotebook_7.jpg.1920x1920_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=w%2BAa9mnu8fGbvUP9hrKNmKJb9Vs%3D&Expires=1627009184",
+            "image_file_l": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN179051_BlackNotebook_7.jpg.3840x3840_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=%2F%2BlJLNunItrSQMoDBlMc9RXGveg%3D&Expires=1627009184",
+            "caption": "LN179051_BlackNotebook_7",
+            "credit_line": "Photograph by Egmont Contreras, ACMI.",
+            "alt_text": "",
+            "width": 4800,
+            "height": 3200,
+            "access_level": "View anywhere"
+        },
+        {
+            "id": 14009,
+            "image_file": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LI261_HollowKnightSketchbooks_DisplayGroup.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=mdzLdxSCwxkdCDlwKQyJWnhUZrs%3D&Expires=1627009184",
+            "image_file_thumbnail": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LI261_HollowKnightSketchbooks_DisplayGroup.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=DPogUG%2F5FY2ozN4%2BX4VeKXL%2B2lE%3D&Expires=1627009184",
+            "image_file_xs": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LI261_HollowKnightSketchbooks_DisplayGroup.jpg.480x480_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=LMchVYOiYNEhqtuxg72FzzlFfDo%3D&Expires=1627009184",
+            "image_file_s": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LI261_HollowKnightSketchbooks_DisplayGroup.jpg.960x960_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=tkMTIbBWbiHmD%2FmI5IGVYlOqCVE%3D&Expires=1627009184",
+            "image_file_m": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LI261_HollowKnightSketchbooks_DisplayGroup.jpg.1920x1920_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=RDMOZLyacXTNPKINvkjpz1OGgmM%3D&Expires=1627009184",
+            "image_file_l": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LI261_HollowKnightSketchbooks_DisplayGroup.jpg.3840x3840_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=mqPtEEAylx9K58WafID5%2Bv2phgg%3D&Expires=1627009184",
+            "caption": "LI261_HollowKnightSketchbooks_DisplayGroup",
+            "credit_line": "Photograph by Egmont Contreras, ACMI",
+            "alt_text": "",
+            "width": 4800,
+            "height": 3200,
+            "access_level": "View anywhere"
+        },
+        {
+            "id": 12866,
+            "image_file": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/DisplayFourNotebooks.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=o%2FrQOlh0W6SP4GnLEAntnTLnNnY%3D&Expires=1627009184",
+            "image_file_thumbnail": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/DisplayFourNotebooks.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=1167xeKVG4govNTSelO%2BZno8rks%3D&Expires=1627009184",
+            "image_file_xs": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/DisplayFourNotebooks.jpg.480x480_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=jqgEPjNPKScFPoYcOSEgKythkyw%3D&Expires=1627009184",
+            "image_file_s": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/DisplayFourNotebooks.jpg.960x960_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=bHhTFgoI%2FZQrj5a9JQGhdWjtWDo%3D&Expires=1627009184",
+            "image_file_m": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/DisplayFourNotebooks.jpg.1920x1920_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=8wFmfuaDleLEhKzdpMXKUiYTSBo%3D&Expires=1627009184",
+            "image_file_l": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/DisplayFourNotebooks.jpg.3840x3840_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=oloSy21OnyO8QrSSC2X3XnNPk6Q%3D&Expires=1627009184",
+            "caption": "HollowKnightBooks_Display_Four",
+            "credit_line": "Photograph by Egmont Contreras, ACMI.",
+            "alt_text": "",
+            "width": 4800,
+            "height": 3200,
+            "access_level": "View anywhere"
+        }
+    ],
+    "videos": [],
+    "holdings": [],
+    "part_of": null,
+    "parts": [],
+    "part_siblings": [],
+    "group": {
+        "id": 112217,
+        "acmi_id": "183570",
+        "title": "Development sketchbooks",
+        "title_annotation": "",
+        "slug": "development-sketchbooks",
+        "creator_credit": "Ari Gibson",
+        "credit_line": "<p>Courtesy Team Cherry</p>",
+        "headline_credit": "",
+        "thumbnail": {
+            "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN179049_RedNotebook_2.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=Sr3ygvzA0BrmkWpzr1QYZo%2B%2F2bs%3D&Expires=1627009184",
+            "has_video": false
+        },
+        "record_type": "group",
+        "type": "Film",
+        "is_on_display": true,
+        "last_on_display_place": "ACMI: Gallery 1",
+        "last_on_display_date": "2023-02-09",
+        "is_context_indigenous": false,
+        "material_description": "",
+        "unpublished": false,
+        "first_production_date": null
+    },
+    "group_works": [],
+    "group_siblings": [
+        {
+            "id": 99982,
+            "acmi_id": "179049",
+            "title": "Hollow Knight development sketchbooks",
+            "title_annotation": "",
+            "slug": "hollow-knight-paper-sketchbook-a5-moleskine-red-cover",
+            "creator_credit": "Team Cherry",
+            "credit_line": "<p>Courtesy Ari Gibson</p>",
+            "headline_credit": "Australia",
+            "thumbnail": {
+                "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN179049_RedNotebook_2.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=Sr3ygvzA0BrmkWpzr1QYZo%2B%2F2bs%3D&Expires=1627009184",
+                "has_video": false
+            },
+            "record_type": "work",
+            "type": "Object",
+            "is_on_display": true,
+            "last_on_display_place": "ACMI: Gallery 1",
+            "last_on_display_date": "2023-02-09",
+            "is_context_indigenous": false,
+            "material_description": "",
+            "unpublished": false,
+            "first_production_date": null
+        },
+        {
+            "id": 99983,
+            "acmi_id": "179050",
+            "title": "Hollow Knight development sketchbooks",
+            "title_annotation": "",
+            "slug": "hollow-knight-paper-sketchbook-a5-moleskine-black-cover",
+            "creator_credit": "Team Cherry",
+            "credit_line": "<p>Courtesy Ari Gibson</p>",
+            "headline_credit": "Australia",
+            "thumbnail": {
+                "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN179050_BlackNotebookVertical1.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=G5RkxzqdvlF1XbDfeIsKJ8PWtQg%3D&Expires=1627009184",
+                "has_video": false
+            },
+            "record_type": "work",
+            "type": "Object",
+            "is_on_display": true,
+            "last_on_display_place": "ACMI: Gallery 1",
+            "last_on_display_date": "2023-02-09",
+            "is_context_indigenous": false,
+            "material_description": "",
+            "unpublished": false,
+            "first_production_date": null
+        }
+    ],
+    "source": {
+        "name": "Vernon",
+        "slug": "vernon"
+    },
+    "source_identifier": "179051",
+    "production_places": [
+        {
+            "id": 3,
+            "name": "Australia",
+            "slug": "australia"
+        }
+    ],
+    "production_dates": [],
+    "labels": [
+        39480
+    ]
+}

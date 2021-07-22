@@ -1,0 +1,2569 @@
+{
+    "count": 922,
+    "next": "/works/?page=84",
+    "previous": "/works/?page=82",
+    "results": [
+        {
+            "id": 109872,
+            "acmi_id": "12169",
+            "title": "Boxing fragments",
+            "title_annotation": "",
+            "slug": "boxing-fragments",
+            "creator_credit": "Tina Gonsalves",
+            "credit_line": "",
+            "headline_credit": "Australia, 2001",
+            "thumbnail": null,
+            "record_type": "work",
+            "type": "Digital art",
+            "is_on_display": false,
+            "last_on_display_place": null,
+            "last_on_display_date": null,
+            "is_context_indigenous": false,
+            "material_description": "",
+            "unpublished": false,
+            "first_production_date": "2001-01-01T11:00:00+11:00",
+            "brief_description": "",
+            "constellations_primary": [],
+            "constellations_other": [],
+            "recommendations": [],
+            "title_for_label": "<p>Boxing fragments</p>",
+            "creator_credit_for_label": "<p>Tina Gonsalves</p>",
+            "headline_credit_for_label": "<p>Australia, 2001</p>",
+            "description": "",
+            "description_for_label": [],
+            "credit_line_for_label": "",
+            "details": [
+                {
+                    "label": "Duration",
+                    "display_values": [
+                        "00:01:58:00"
+                    ]
+                },
+                {
+                    "label": "Subject categories",
+                    "display_values": [
+                        "Animation",
+                        "Digital Art",
+                        "Experimental"
+                    ]
+                },
+                {
+                    "label": "Sound/audio",
+                    "display_values": [
+                        "Sound"
+                    ]
+                },
+                {
+                    "label": "Colour",
+                    "display_values": [
+                        "Colour"
+                    ]
+                }
+            ],
+            "stats": {
+                "tap_count": 0
+            },
+            "links": [],
+            "creators_primary": [
+                {
+                    "id": 1133310,
+                    "name": "Tina Gonsalves",
+                    "creator_id": 10796,
+                    "role": "creator",
+                    "role_id": 968,
+                    "is_primary": true
+                }
+            ],
+            "creators_other": [
+                {
+                    "id": 1133311,
+                    "name": "Mark Eden",
+                    "creator_id": 73647,
+                    "role": "sound",
+                    "role_id": 952,
+                    "is_primary": false
+                }
+            ],
+            "video_links": [],
+            "media_note": "Sorry, we don't have images or video for this item.",
+            "images": [],
+            "videos": [],
+            "holdings": [
+                {
+                    "name": "Mini DV; Master",
+                    "identifier": "",
+                    "description": ""
+                },
+                {
+                    "name": "Digital Betacam; Sub-master",
+                    "identifier": "",
+                    "description": ""
+                },
+                {
+                    "name": "VHS [PAL]; Reference - timecoded",
+                    "identifier": "",
+                    "description": ""
+                }
+            ],
+            "part_of": null,
+            "parts": [],
+            "part_siblings": [],
+            "group": {
+                "id": 109860,
+                "acmi_id": "2087",
+                "title": "Tina Gonsalves. Animation video 1999-2001",
+                "title_annotation": "",
+                "slug": "tina-gonsalves-animation-video-1999-2001",
+                "creator_credit": "Tina Gonsalves",
+                "credit_line": "",
+                "headline_credit": "Australia, 1999-2001",
+                "thumbnail": null,
+                "record_type": "group",
+                "type": "Digital art",
+                "is_on_display": false,
+                "last_on_display_place": null,
+                "last_on_display_date": null,
+                "is_context_indigenous": false,
+                "material_description": "",
+                "unpublished": false,
+                "first_production_date": null
+            },
+            "group_works": [],
+            "group_siblings": [
+                {
+                    "id": 109871,
+                    "acmi_id": "12168",
+                    "title": "Convergence",
+                    "title_annotation": "",
+                    "slug": "convergence",
+                    "creator_credit": "Tina Gonsalves",
+                    "credit_line": "",
+                    "headline_credit": "Australia, 2001",
+                    "thumbnail": null,
+                    "record_type": "work",
+                    "type": "Digital art",
+                    "is_on_display": false,
+                    "last_on_display_place": null,
+                    "last_on_display_date": null,
+                    "is_context_indigenous": false,
+                    "material_description": "",
+                    "unpublished": false,
+                    "first_production_date": "2001-01-01T11:00:00+11:00"
+                },
+                {
+                    "id": 109865,
+                    "acmi_id": "12162",
+                    "title": "Deeper",
+                    "title_annotation": "",
+                    "slug": "deeper",
+                    "creator_credit": "Tina Gonsalves",
+                    "credit_line": "",
+                    "headline_credit": "Australia, 2001",
+                    "thumbnail": null,
+                    "record_type": "work",
+                    "type": "Digital art",
+                    "is_on_display": false,
+                    "last_on_display_place": null,
+                    "last_on_display_date": null,
+                    "is_context_indigenous": false,
+                    "material_description": "",
+                    "unpublished": false,
+                    "first_production_date": "2001-01-01T11:00:00+11:00"
+                },
+                {
+                    "id": 109866,
+                    "acmi_id": "12163",
+                    "title": "Dissect",
+                    "title_annotation": "",
+                    "slug": "dissect",
+                    "creator_credit": "Tina Gonsalves",
+                    "credit_line": "",
+                    "headline_credit": "Australia, 2001",
+                    "thumbnail": null,
+                    "record_type": "work",
+                    "type": "Digital art",
+                    "is_on_display": false,
+                    "last_on_display_place": null,
+                    "last_on_display_date": null,
+                    "is_context_indigenous": false,
+                    "material_description": "",
+                    "unpublished": false,
+                    "first_production_date": "2001-01-01T11:00:00+11:00"
+                },
+                {
+                    "id": 109863,
+                    "acmi_id": "12160",
+                    "title": "Emerge",
+                    "title_annotation": "",
+                    "slug": "emerge",
+                    "creator_credit": "Tina Gonsalves",
+                    "credit_line": "",
+                    "headline_credit": "Australia, 2001",
+                    "thumbnail": null,
+                    "record_type": "work",
+                    "type": "Digital art",
+                    "is_on_display": false,
+                    "last_on_display_place": null,
+                    "last_on_display_date": null,
+                    "is_context_indigenous": false,
+                    "material_description": "",
+                    "unpublished": false,
+                    "first_production_date": "2001-01-01T11:00:00+11:00"
+                },
+                {
+                    "id": 109873,
+                    "acmi_id": "12170",
+                    "title": "Erosion",
+                    "title_annotation": "",
+                    "slug": "erosion",
+                    "creator_credit": "Tina Gonsalves",
+                    "credit_line": "",
+                    "headline_credit": "Australia, 2001",
+                    "thumbnail": null,
+                    "record_type": "work",
+                    "type": "Digital art",
+                    "is_on_display": false,
+                    "last_on_display_place": null,
+                    "last_on_display_date": null,
+                    "is_context_indigenous": false,
+                    "material_description": "",
+                    "unpublished": false,
+                    "first_production_date": "2001-01-01T11:00:00+11:00"
+                },
+                {
+                    "id": 109864,
+                    "acmi_id": "12161",
+                    "title": "Hollow",
+                    "title_annotation": "",
+                    "slug": "hollow",
+                    "creator_credit": "Tina Gonsalves",
+                    "credit_line": "",
+                    "headline_credit": "Australia, 2001",
+                    "thumbnail": null,
+                    "record_type": "work",
+                    "type": "Digital art",
+                    "is_on_display": false,
+                    "last_on_display_place": null,
+                    "last_on_display_date": null,
+                    "is_context_indigenous": false,
+                    "material_description": "",
+                    "unpublished": false,
+                    "first_production_date": "2001-01-01T11:00:00+11:00"
+                },
+                {
+                    "id": 109859,
+                    "acmi_id": "12157",
+                    "title": "I don't know you",
+                    "title_annotation": "",
+                    "slug": "i-dont-know-you",
+                    "creator_credit": "Tina Gonsalves",
+                    "credit_line": "",
+                    "headline_credit": "Australia, 2001",
+                    "thumbnail": null,
+                    "record_type": "work",
+                    "type": "Digital art",
+                    "is_on_display": false,
+                    "last_on_display_place": null,
+                    "last_on_display_date": null,
+                    "is_context_indigenous": false,
+                    "material_description": "",
+                    "unpublished": false,
+                    "first_production_date": "2001-01-01T11:00:00+11:00"
+                },
+                {
+                    "id": 109862,
+                    "acmi_id": "12159",
+                    "title": "Kissing Mark",
+                    "title_annotation": "",
+                    "slug": "kissing-mark",
+                    "creator_credit": "Tina Gonsalves",
+                    "credit_line": "",
+                    "headline_credit": "Australia, 1998",
+                    "thumbnail": null,
+                    "record_type": "work",
+                    "type": "Digital art",
+                    "is_on_display": false,
+                    "last_on_display_place": null,
+                    "last_on_display_date": null,
+                    "is_context_indigenous": false,
+                    "material_description": "",
+                    "unpublished": false,
+                    "first_production_date": "1998-01-01T11:00:00+11:00"
+                },
+                {
+                    "id": 109874,
+                    "acmi_id": "12171",
+                    "title": "Passing through",
+                    "title_annotation": "",
+                    "slug": "passing-through",
+                    "creator_credit": "Tina Gonsalves",
+                    "credit_line": "",
+                    "headline_credit": "Australia, 2001",
+                    "thumbnail": null,
+                    "record_type": "work",
+                    "type": "Digital art",
+                    "is_on_display": false,
+                    "last_on_display_place": null,
+                    "last_on_display_date": null,
+                    "is_context_indigenous": false,
+                    "material_description": "",
+                    "unpublished": false,
+                    "first_production_date": "2001-01-01T11:00:00+11:00"
+                },
+                {
+                    "id": 109870,
+                    "acmi_id": "12167",
+                    "title": "Resonate",
+                    "title_annotation": "",
+                    "slug": "resonate",
+                    "creator_credit": "Tina Gonsalves",
+                    "credit_line": "",
+                    "headline_credit": "Australia, 2001",
+                    "thumbnail": null,
+                    "record_type": "work",
+                    "type": "Digital art",
+                    "is_on_display": false,
+                    "last_on_display_place": null,
+                    "last_on_display_date": null,
+                    "is_context_indigenous": false,
+                    "material_description": "",
+                    "unpublished": false,
+                    "first_production_date": "2001-01-01T11:00:00+11:00"
+                },
+                {
+                    "id": 109867,
+                    "acmi_id": "12164",
+                    "title": "Three studies for a portrait. No. 1. Yesterday",
+                    "title_annotation": "",
+                    "slug": "three-studies-for-a-portrait-no-1-yesterday",
+                    "creator_credit": "Tina Gonsalves",
+                    "credit_line": "",
+                    "headline_credit": "Australia, 2001",
+                    "thumbnail": null,
+                    "record_type": "work",
+                    "type": "Digital art",
+                    "is_on_display": false,
+                    "last_on_display_place": null,
+                    "last_on_display_date": null,
+                    "is_context_indigenous": false,
+                    "material_description": "",
+                    "unpublished": false,
+                    "first_production_date": "2001-01-01T11:00:00+11:00"
+                },
+                {
+                    "id": 109868,
+                    "acmi_id": "12165",
+                    "title": "Three studies for a portrait. No. 2. Today",
+                    "title_annotation": "",
+                    "slug": "three-studies-for-a-portrait-no-2-today",
+                    "creator_credit": "Tina Gonsalves",
+                    "credit_line": "",
+                    "headline_credit": "Australia, 2001",
+                    "thumbnail": null,
+                    "record_type": "work",
+                    "type": "Digital art",
+                    "is_on_display": false,
+                    "last_on_display_place": null,
+                    "last_on_display_date": null,
+                    "is_context_indigenous": false,
+                    "material_description": "",
+                    "unpublished": false,
+                    "first_production_date": "2001-01-01T11:00:00+11:00"
+                },
+                {
+                    "id": 109869,
+                    "acmi_id": "12166",
+                    "title": "Three studies for a portrait. No. 3. Tomorrow",
+                    "title_annotation": "",
+                    "slug": "three-studies-for-a-portrait-no-3-tomorrow",
+                    "creator_credit": "Tina Gonsalves",
+                    "credit_line": "",
+                    "headline_credit": "Australia, 2001",
+                    "thumbnail": null,
+                    "record_type": "work",
+                    "type": "Digital art",
+                    "is_on_display": false,
+                    "last_on_display_place": null,
+                    "last_on_display_date": null,
+                    "is_context_indigenous": false,
+                    "material_description": "",
+                    "unpublished": false,
+                    "first_production_date": "2001-01-01T11:00:00+11:00"
+                },
+                {
+                    "id": 109861,
+                    "acmi_id": "12158",
+                    "title": "Wounded",
+                    "title_annotation": "",
+                    "slug": "wounded",
+                    "creator_credit": "Tina Gonsalves",
+                    "credit_line": "",
+                    "headline_credit": "Australia, 1999",
+                    "thumbnail": null,
+                    "record_type": "work",
+                    "type": "Digital art",
+                    "is_on_display": false,
+                    "last_on_display_place": null,
+                    "last_on_display_date": null,
+                    "is_context_indigenous": false,
+                    "material_description": "",
+                    "unpublished": false,
+                    "first_production_date": "1999-01-01T11:00:00+11:00"
+                }
+            ],
+            "source": {
+                "name": "Vernon",
+                "slug": "vernon"
+            },
+            "source_identifier": "12169",
+            "production_places": [
+                {
+                    "id": 3,
+                    "name": "Australia",
+                    "slug": "australia"
+                }
+            ],
+            "production_dates": [
+                {
+                    "date": "2001",
+                    "notes": "",
+                    "to_year": "2001"
+                }
+            ],
+            "labels": [
+                49365
+            ]
+        },
+        {
+            "id": 109021,
+            "acmi_id": "1878",
+            "title": "Digital Diaries for Memory Grid Pods. Tape 1",
+            "title_annotation": "",
+            "slug": "digital-diaries-for-memory-grid-pods-tape-1",
+            "creator_credit": "ACMI",
+            "credit_line": "",
+            "headline_credit": "VIC/Australia, 2001",
+            "thumbnail": null,
+            "record_type": "group",
+            "type": "Film",
+            "is_on_display": false,
+            "last_on_display_place": null,
+            "last_on_display_date": null,
+            "is_context_indigenous": false,
+            "material_description": "",
+            "unpublished": true,
+            "first_production_date": "2001-01-01T11:00:00+11:00",
+            "brief_description": "<p>Works produced from the digital diaires program collected at the discretion of the program coordiantors. all submissions are anonymous. The Digital Diary project asks a diverse range of young people to share a personal story as they connect memories by way of simple moving images. Participants in the workshops look at one &#8216;moment&#8217; in their lives and, concentrating on the simplicity and power of that one moment in time, they create a &#8216;lo-fi&#8217; video work that speaks to the mind and heart. The story is then burnt to a CD (or put onto VHS) for the participants to keep, and the monologues become part of a specially curated database which, with the participant&#8217;s permission, is later screened at the Australian Centre for the Moving Image at Federation Square.</p>",
+            "constellations_primary": [],
+            "constellations_other": [],
+            "recommendations": [],
+            "title_for_label": "<p>Digital Diaries for Memory Grid Pods. Tape 1</p>",
+            "creator_credit_for_label": "<p>ACMI</p>",
+            "headline_credit_for_label": "<p>VIC/Australia, 2001</p>",
+            "description": "<p>Works produced from the digital diaires program collected at the discretion of the program coordiantors. all submissions are anonymous. The Digital Diary project asks a diverse range of young people to share a personal story as they connect memories by way of simple moving images. Participants in the workshops look at one &#8216;moment&#8217; in their lives and, concentrating on the simplicity and power of that one moment in time, they create a &#8216;lo-fi&#8217; video work that speaks to the mind and heart. The story is then burnt to a CD (or put onto VHS) for the participants to keep, and the monologues become part of a specially curated database which, with the participant&#8217;s permission, is later screened at the Australian Centre for the Moving Image at Federation Square.</p>",
+            "description_for_label": [
+                "<p>Works produced from the digital diaires program collected at the discretion of the program coordiantors. all submissions are anonymous. The Digital Diary project asks a diverse range of young people to share a personal story as they connect memories by way of simple moving images. Participants in the workshops look at one &#8216;moment&#8217; in their lives and, concentrating on the simplicity and power of that one moment in time, they create a &#8216;lo-fi&#8217; video work that speaks to the mind and heart. The story is then burnt to a CD (or put onto VHS) for the participants to keep, and the monologues become part of a specially curated database which, with the participant&#8217;s permission, is later screened at the Australian Centre for the Moving Image at Federation Square.</p>"
+            ],
+            "credit_line_for_label": "",
+            "details": [
+                {
+                    "label": "Duration",
+                    "display_values": [
+                        "00:21:30:00"
+                    ]
+                },
+                {
+                    "label": "Language",
+                    "display_values": [
+                        "English"
+                    ]
+                },
+                {
+                    "label": "Audience classification",
+                    "display_values": [
+                        "Exempt"
+                    ]
+                },
+                {
+                    "label": "Subject categories",
+                    "display_values": [
+                        "Amateur & Student Films",
+                        "Amateur & Student Films&nbsp;→ Student films - Australia",
+                        "Anthropology, Ethnology, Exploration & Travel&nbsp;→ Youth - Australia",
+                        "Biographical",
+                        "Biographical&nbsp;→ Video diary",
+                        "Digital Storytelling"
+                    ]
+                },
+                {
+                    "label": "Sound/audio",
+                    "display_values": [
+                        "Sound"
+                    ]
+                },
+                {
+                    "label": "Colour",
+                    "display_values": [
+                        "Black and White"
+                    ]
+                }
+            ],
+            "stats": {
+                "tap_count": 0
+            },
+            "links": [],
+            "creators_primary": [
+                {
+                    "id": 1133309,
+                    "name": "ACMI",
+                    "creator_id": 6272,
+                    "role": "production company",
+                    "role_id": 941,
+                    "is_primary": true
+                }
+            ],
+            "creators_other": [
+                {
+                    "id": 1133308,
+                    "name": "Vincent Trundle",
+                    "creator_id": 73549,
+                    "role": "project manager",
+                    "role_id": 498,
+                    "is_primary": false
+                },
+                {
+                    "id": 1133307,
+                    "name": "Vyvyan Stranieri",
+                    "creator_id": 8112,
+                    "role": "project manager",
+                    "role_id": 498,
+                    "is_primary": false
+                }
+            ],
+            "video_links": [],
+            "media_note": "Sorry, we aren't able to make images or video for this item available to the public online.",
+            "images": [],
+            "videos": [],
+            "holdings": [
+                {
+                    "name": "DVCAM; Master",
+                    "identifier": "",
+                    "description": ""
+                },
+                {
+                    "name": "MOV file ProRes4444; Digital Preservation Master - overscan",
+                    "identifier": "",
+                    "description": ""
+                },
+                {
+                    "name": "MPEG-4 Digital File; ACMI Digital Access Copy - overscan",
+                    "identifier": "",
+                    "description": ""
+                }
+            ],
+            "part_of": null,
+            "parts": [],
+            "part_siblings": [],
+            "group": null,
+            "group_works": [],
+            "group_siblings": [],
+            "source": {
+                "name": "Vernon",
+                "slug": "vernon"
+            },
+            "source_identifier": "1878",
+            "production_places": [
+                {
+                    "id": 40,
+                    "name": "VIC/Australia",
+                    "slug": "vicaustralia"
+                }
+            ],
+            "production_dates": [
+                {
+                    "date": "2001",
+                    "notes": "",
+                    "to_year": "2001"
+                }
+            ],
+            "labels": [
+                48514
+            ]
+        },
+        {
+            "id": 108634,
+            "acmi_id": "1484",
+            "title": "Booth at ACMI",
+            "title_annotation": "",
+            "slug": "booth-at-acmi",
+            "creator_credit": "Grant Hilliard",
+            "credit_line": "",
+            "headline_credit": "Australia, 2003",
+            "thumbnail": null,
+            "record_type": "work",
+            "type": "Film",
+            "is_on_display": false,
+            "last_on_display_place": null,
+            "last_on_display_date": null,
+            "is_context_indigenous": false,
+            "material_description": "",
+            "unpublished": true,
+            "first_production_date": "2003-01-01T11:00:00+11:00",
+            "brief_description": "<p>The Booth at ACMI is an intimate venue designed for the exhibition of short custom made audio visual works. A cross between the world&#8217;s smallest cinema and largest photobooth with a companion Boothsite that can take the portraits of Booth visitors generated by the encounter and admit them into a growing, online, interactive community of Booth visitors.<br />\nIt is a coin-operated vending machine that vends cinema itself and, like the black and white photobooth, provides its visitors with a take away souvenir record of their encounter in the form of a photographic portrait. It includes an evolving soundscape that shifts as day turns to night, enlivened by lighting that plays over and under the 120 mother of pearl discs in the Booth&#8217;s shell.</p>",
+            "constellations_primary": [],
+            "constellations_other": [],
+            "recommendations": [],
+            "title_for_label": "<p>Booth at ACMI</p>",
+            "creator_credit_for_label": "<p>Grant Hilliard</p>",
+            "headline_credit_for_label": "<p>Australia, 2003</p>",
+            "description": "<p>The Booth at ACMI is an intimate venue designed for the exhibition of short custom made audio visual works. A cross between the world&#8217;s smallest cinema and largest photobooth with a companion Boothsite that can take the portraits of Booth visitors generated by the encounter and admit them into a growing, online, interactive community of Booth visitors.<br />\nIt is a coin-operated vending machine that vends cinema itself and, like the black and white photobooth, provides its visitors with a take away souvenir record of their encounter in the form of a photographic portrait. It includes an evolving soundscape that shifts as day turns to night, enlivened by lighting that plays over and under the 120 mother of pearl discs in the Booth&#8217;s shell.</p>",
+            "description_for_label": [
+                "<p>The Booth at ACMI is an intimate venue designed for the exhibition of short custom made audio visual works. A cross between the world&#8217;s smallest cinema and largest photobooth with a companion Boothsite that can take the portraits of Booth visitors generated by the encounter and admit them into a growing, online, interactive community of Booth visitors.<br />\nIt is a coin-operated vending machine that vends cinema itself and, like the black and white photobooth, provides its visitors with a take away souvenir record of their encounter in the form of a photographic portrait. It includes an evolving soundscape that shifts as day turns to night, enlivened by lighting that plays over and under the 120 mother of pearl discs in the Booth&#8217;s shell.</p>"
+            ],
+            "credit_line_for_label": "",
+            "details": [
+                {
+                    "label": "Language",
+                    "display_values": [
+                        "English"
+                    ]
+                },
+                {
+                    "label": "Audience classification",
+                    "display_values": [
+                        "G (8+)"
+                    ]
+                }
+            ],
+            "stats": {
+                "tap_count": 0
+            },
+            "links": [],
+            "creators_primary": [
+                {
+                    "id": 1133296,
+                    "name": "Grant Hilliard",
+                    "creator_id": 8677,
+                    "role": "creator",
+                    "role_id": 968,
+                    "is_primary": true
+                }
+            ],
+            "creators_other": [],
+            "video_links": [],
+            "media_note": "Sorry, we don't have images or video for this item.",
+            "images": [],
+            "videos": [],
+            "holdings": [
+                {
+                    "name": "DVD [PAL]; Back-up",
+                    "identifier": "",
+                    "description": ""
+                },
+                {
+                    "name": "DVD [PAL]; Documentation",
+                    "identifier": "",
+                    "description": ""
+                },
+                {
+                    "name": "Text; Documentation",
+                    "identifier": "",
+                    "description": ""
+                },
+                {
+                    "name": "CD ROM; Documentation",
+                    "identifier": "",
+                    "description": ""
+                },
+                {
+                    "name": "DVD [PAL]; Copy",
+                    "identifier": "",
+                    "description": ""
+                },
+                {
+                    "name": "Digital Betacam; Master",
+                    "identifier": "",
+                    "description": ""
+                },
+                {
+                    "name": "DVD [PAL]; Master",
+                    "identifier": "",
+                    "description": ""
+                },
+                {
+                    "name": "VHS [PAL]; Reference - timecoded",
+                    "identifier": "",
+                    "description": ""
+                },
+                {
+                    "name": "Digital Betacam; Sub-master",
+                    "identifier": "",
+                    "description": ""
+                }
+            ],
+            "part_of": null,
+            "parts": [],
+            "part_siblings": [],
+            "group": null,
+            "group_works": [],
+            "group_siblings": [],
+            "source": {
+                "name": "Vernon",
+                "slug": "vernon"
+            },
+            "source_identifier": "1484",
+            "production_places": [
+                {
+                    "id": 3,
+                    "name": "Australia",
+                    "slug": "australia"
+                }
+            ],
+            "production_dates": [
+                {
+                    "date": "2003",
+                    "notes": "",
+                    "to_year": "2003"
+                }
+            ],
+            "labels": [
+                48127
+            ]
+        },
+        {
+            "id": 108898,
+            "acmi_id": "1459",
+            "title": "Casual menace",
+            "title_annotation": "",
+            "slug": "casual-menace",
+            "creator_credit": "Simon Price and Simon Terrill",
+            "credit_line": "",
+            "headline_credit": "Australia, 01 MAR 2002-01 SEP 2002",
+            "thumbnail": null,
+            "record_type": "group",
+            "type": "Film",
+            "is_on_display": false,
+            "last_on_display_place": null,
+            "last_on_display_date": null,
+            "is_context_indigenous": false,
+            "material_description": "",
+            "unpublished": false,
+            "first_production_date": null,
+            "brief_description": "<p>Sleeping rough in bus shelters and roadside ditches from Darwin to Dubbo, the artists collect a large image-gallery of characters, landscapes, abstractions and moods. Using video and Super 8, they explore the alienating environments of the road and the lonesome souls who travel through these spaces and times. A dark meditation on the nomadic spaces of rural Australia, Casual Menace is composed of two interrelated video loops The Chance Map and Moths. Using the footage gathered from their numerous hitchhiking &#8216;experiments&#8217;, the artists explore the fragile, lonely spaces of remote highways.</p>",
+            "constellations_primary": [],
+            "constellations_other": [],
+            "recommendations": [],
+            "title_for_label": "<p>Casual menace</p>",
+            "creator_credit_for_label": "<p>Simon Price and Simon Terrill</p>",
+            "headline_credit_for_label": "<p>Australia, 01 MAR 2002-01 SEP 2002</p>",
+            "description": "<p>Sleeping rough in bus shelters and roadside ditches from Darwin to Dubbo, the artists collect a large image-gallery of characters, landscapes, abstractions and moods. Using video and Super 8, they explore the alienating environments of the road and the lonesome souls who travel through these spaces and times. A dark meditation on the nomadic spaces of rural Australia, Casual Menace is composed of two interrelated video loops The Chance Map and Moths. Using the footage gathered from their numerous hitchhiking &#8216;experiments&#8217;, the artists explore the fragile, lonely spaces of remote highways.</p>",
+            "description_for_label": [
+                "<p>Sleeping rough in bus shelters and roadside ditches from Darwin to Dubbo, the artists collect a large image-gallery of characters, landscapes, abstractions and moods. Using video and Super 8, they explore the alienating environments of the road and the lonesome souls who travel through these spaces and times. A dark meditation on the nomadic spaces of rural Australia, Casual Menace is composed of two interrelated video loops The Chance Map and Moths. Using the footage gathered from their numerous hitchhiking &#8216;experiments&#8217;, the artists explore the fragile, lonely spaces of remote highways.</p>"
+            ],
+            "credit_line_for_label": "",
+            "details": [
+                {
+                    "label": "Language",
+                    "display_values": [
+                        "English"
+                    ]
+                },
+                {
+                    "label": "Audience classification",
+                    "display_values": [
+                        "G"
+                    ]
+                }
+            ],
+            "stats": {
+                "tap_count": 0
+            },
+            "links": [],
+            "creators_primary": [
+                {
+                    "id": 1133295,
+                    "name": "Simon Price",
+                    "creator_id": 8394,
+                    "role": "creator",
+                    "role_id": 968,
+                    "is_primary": true
+                },
+                {
+                    "id": 1133294,
+                    "name": "Simon Terrill",
+                    "creator_id": 8981,
+                    "role": "creator",
+                    "role_id": 968,
+                    "is_primary": true
+                }
+            ],
+            "creators_other": [],
+            "video_links": [],
+            "media_note": "Sorry, we don't have images or video for this item.",
+            "images": [],
+            "videos": [],
+            "holdings": [
+                {
+                    "name": "DVCAM; Master",
+                    "identifier": "",
+                    "description": ""
+                },
+                {
+                    "name": "VHS; Reference - timecoded",
+                    "identifier": "",
+                    "description": ""
+                },
+                {
+                    "name": "Digital Betacam [PAL]; Sub-master",
+                    "identifier": "",
+                    "description": ""
+                }
+            ],
+            "part_of": null,
+            "parts": [],
+            "part_siblings": [],
+            "group": null,
+            "group_works": [],
+            "group_siblings": [],
+            "source": {
+                "name": "Vernon",
+                "slug": "vernon"
+            },
+            "source_identifier": "1459",
+            "production_places": [
+                {
+                    "id": 3,
+                    "name": "Australia",
+                    "slug": "australia"
+                }
+            ],
+            "production_dates": [
+                {
+                    "date": "01 MAR 2002-01 SEP 2002",
+                    "notes": "",
+                    "to_year": "01 MAR 2002-01 SEP 2002"
+                }
+            ],
+            "labels": [
+                48391
+            ]
+        },
+        {
+            "id": 108454,
+            "acmi_id": "1153",
+            "title": "Dial history",
+            "title_annotation": "",
+            "slug": "dial-history",
+            "creator_credit": "Rony Vissers and Johan Grimonprez",
+            "credit_line": "",
+            "headline_credit": "Belgium, 1997",
+            "thumbnail": null,
+            "record_type": "work",
+            "type": "Digital art",
+            "is_on_display": false,
+            "last_on_display_place": "ACMI Screen Gallery",
+            "last_on_display_date": "2005-02-13",
+            "is_context_indigenous": false,
+            "material_description": "Single channel moving image, colour and black and white and audio",
+            "unpublished": false,
+            "first_production_date": "1997-01-01T11:00:00+11:00",
+            "brief_description": "<p>In the found footage tradition, &#8216;Dial H-I-S-T-O-R-Y&#8217; takes the viewer on a journey through media footage of airplane hijacking and other terrorism.</p>",
+            "constellations_primary": [],
+            "constellations_other": [],
+            "recommendations": [],
+            "title_for_label": "<p>Dial history</p>",
+            "creator_credit_for_label": "<p>Rony Vissers and Johan Grimonprez</p>",
+            "headline_credit_for_label": "<p>Belgium, 1997</p>",
+            "description": "<p>In the found footage tradition, &#8216;Dial H-I-S-T-O-R-Y&#8217; takes the viewer on a journey through media footage of airplane hijacking and other terrorism.</p>",
+            "description_for_label": [
+                "<p>In the found footage tradition, &#8216;Dial H-I-S-T-O-R-Y&#8217; takes the viewer on a journey through media footage of airplane hijacking and other terrorism.</p>"
+            ],
+            "credit_line_for_label": "",
+            "details": [
+                {
+                    "label": "Duration",
+                    "display_values": [
+                        "01:08:00:00"
+                    ]
+                },
+                {
+                    "label": "Subject category",
+                    "display_values": [
+                        "Digital Art"
+                    ]
+                },
+                {
+                    "label": "Sound/audio",
+                    "display_values": [
+                        "Audio Format/Stereo"
+                    ]
+                },
+                {
+                    "label": "Colour",
+                    "display_values": [
+                        "Black and White",
+                        "Colour"
+                    ]
+                },
+                {
+                    "label": "Materials",
+                    "display_values": [
+                        "Single channel moving image, colour and black and white and audio"
+                    ]
+                }
+            ],
+            "stats": {
+                "tap_count": 0
+            },
+            "links": [],
+            "creators_primary": [
+                {
+                    "id": 1133289,
+                    "name": "Rony Vissers",
+                    "creator_id": 8109,
+                    "role": "producer",
+                    "role_id": 960,
+                    "is_primary": true
+                },
+                {
+                    "id": 1133288,
+                    "name": "Johan Grimonprez",
+                    "creator_id": 8108,
+                    "role": "creator",
+                    "role_id": 968,
+                    "is_primary": true
+                }
+            ],
+            "creators_other": [],
+            "video_links": [],
+            "media_note": "Sorry, we don't have images or video for this item.",
+            "images": [],
+            "videos": [],
+            "holdings": [
+                {
+                    "name": "Brochure / Flyer; Documentation",
+                    "identifier": "",
+                    "description": ""
+                },
+                {
+                    "name": "DVD [PAL]; Master",
+                    "identifier": "",
+                    "description": ""
+                },
+                {
+                    "name": "DVD ROM; Copy",
+                    "identifier": "",
+                    "description": ""
+                },
+                {
+                    "name": "DVD [PAL]; Exhibition Copy",
+                    "identifier": "",
+                    "description": ""
+                },
+                {
+                    "name": "VHS [PAL]; Reference - timecoded",
+                    "identifier": "",
+                    "description": ""
+                }
+            ],
+            "part_of": null,
+            "parts": [],
+            "part_siblings": [],
+            "group": null,
+            "group_works": [],
+            "group_siblings": [],
+            "source": {
+                "name": "Vernon",
+                "slug": "vernon"
+            },
+            "source_identifier": "1153",
+            "production_places": [
+                {
+                    "id": 37,
+                    "name": "Belgium",
+                    "slug": "belgium"
+                }
+            ],
+            "production_dates": [
+                {
+                    "date": "1997",
+                    "notes": "",
+                    "to_year": "1997"
+                }
+            ],
+            "labels": [
+                47947
+            ]
+        },
+        {
+            "id": 108233,
+            "acmi_id": "869",
+            "title": "AFI Collection: a selection of tertiary student films. Tape 2",
+            "title_annotation": "",
+            "slug": "afi-collection-a-selection-of-tertiary-student-films-tape-2",
+            "creator_credit": "",
+            "credit_line": "",
+            "headline_credit": "Australia",
+            "thumbnail": null,
+            "record_type": "group",
+            "type": "Film",
+            "is_on_display": false,
+            "last_on_display_place": null,
+            "last_on_display_date": null,
+            "is_context_indigenous": false,
+            "material_description": "",
+            "unpublished": false,
+            "first_production_date": null,
+            "brief_description": "<p>A selection of Australian tertiary student films</p>",
+            "constellations_primary": [],
+            "constellations_other": [],
+            "recommendations": [],
+            "title_for_label": "<p>AFI Collection: a selection of tertiary student films. Tape 2</p>",
+            "creator_credit_for_label": "",
+            "headline_credit_for_label": "<p>Australia</p>",
+            "description": "<p>A selection of Australian tertiary student films</p>",
+            "description_for_label": [
+                "<p>A selection of Australian tertiary student films</p>"
+            ],
+            "credit_line_for_label": "",
+            "details": [
+                {
+                    "label": "Duration",
+                    "display_values": [
+                        "00:46:00:00"
+                    ]
+                },
+                {
+                    "label": "Language",
+                    "display_values": [
+                        "English"
+                    ]
+                },
+                {
+                    "label": "Audience classification",
+                    "display_values": [
+                        "Exempt"
+                    ]
+                },
+                {
+                    "label": "Subject categories",
+                    "display_values": [
+                        "Amateur & Student Films",
+                        "Amateur & Student Films&nbsp;→ Student films - Australia",
+                        "Animation"
+                    ]
+                },
+                {
+                    "label": "Sound/audio",
+                    "display_values": [
+                        "Sound"
+                    ]
+                },
+                {
+                    "label": "Colour",
+                    "display_values": [
+                        "Colour"
+                    ]
+                }
+            ],
+            "stats": {
+                "tap_count": 0
+            },
+            "links": [],
+            "creators_primary": [],
+            "creators_other": [],
+            "video_links": [],
+            "media_note": "Sorry, we don't have images or video for this item.",
+            "images": [],
+            "videos": [],
+            "holdings": [
+                {
+                    "name": "Digital Betacam [PAL]; Master",
+                    "identifier": "",
+                    "description": ""
+                },
+                {
+                    "name": "VHS [PAL]; Reference - timecoded",
+                    "identifier": "",
+                    "description": ""
+                },
+                {
+                    "name": "Digital Betacam [PAL]; Sub-master",
+                    "identifier": "",
+                    "description": ""
+                }
+            ],
+            "part_of": null,
+            "parts": [],
+            "part_siblings": [],
+            "group": null,
+            "group_works": [
+                {
+                    "id": 108556,
+                    "acmi_id": "1403",
+                    "title": "Five ninths",
+                    "title_annotation": "",
+                    "slug": "five-ninths",
+                    "creator_credit": "Aaron Davies",
+                    "credit_line": "",
+                    "headline_credit": "Australia, 1995",
+                    "thumbnail": null,
+                    "record_type": "work",
+                    "type": "Film",
+                    "is_on_display": false,
+                    "last_on_display_place": null,
+                    "last_on_display_date": null,
+                    "is_context_indigenous": false,
+                    "material_description": "",
+                    "unpublished": false,
+                    "first_production_date": "1995-01-01T11:00:00+11:00"
+                },
+                {
+                    "id": 108564,
+                    "acmi_id": "1409",
+                    "title": "Heartbreak Motel",
+                    "title_annotation": "",
+                    "slug": "heartbreak-motel",
+                    "creator_credit": "Richard Chataway and Greg Holfeld",
+                    "credit_line": "",
+                    "headline_credit": "Australia, 1997",
+                    "thumbnail": null,
+                    "record_type": "work",
+                    "type": "Film",
+                    "is_on_display": false,
+                    "last_on_display_place": null,
+                    "last_on_display_date": null,
+                    "is_context_indigenous": false,
+                    "material_description": "",
+                    "unpublished": false,
+                    "first_production_date": "1997-01-01T11:00:00+11:00"
+                },
+                {
+                    "id": 108572,
+                    "acmi_id": "1417",
+                    "title": "Lovely day",
+                    "title_annotation": "",
+                    "slug": "lovely-day",
+                    "creator_credit": "Chris Backhouse",
+                    "credit_line": "",
+                    "headline_credit": "Australia, 1996",
+                    "thumbnail": null,
+                    "record_type": "work",
+                    "type": "Film",
+                    "is_on_display": false,
+                    "last_on_display_place": null,
+                    "last_on_display_date": null,
+                    "is_context_indigenous": false,
+                    "material_description": "",
+                    "unpublished": false,
+                    "first_production_date": "1996-01-01T11:00:00+11:00"
+                },
+                {
+                    "id": 108582,
+                    "acmi_id": "1428",
+                    "title": "Plastic",
+                    "title_annotation": "",
+                    "slug": "plastic",
+                    "creator_credit": "Matthew McCullough and VCA",
+                    "credit_line": "",
+                    "headline_credit": "VIC/Australia, 1998",
+                    "thumbnail": null,
+                    "record_type": "work",
+                    "type": "Film",
+                    "is_on_display": false,
+                    "last_on_display_place": null,
+                    "last_on_display_date": null,
+                    "is_context_indigenous": false,
+                    "material_description": "",
+                    "unpublished": false,
+                    "first_production_date": "1998-01-01T11:00:00+11:00"
+                },
+                {
+                    "id": 108583,
+                    "acmi_id": "1429",
+                    "title": "Pleasure domes",
+                    "title_annotation": "",
+                    "slug": "pleasure-domes",
+                    "creator_credit": "Swinburne Institute of Technology. Film and Television School and Maggie Fooke",
+                    "credit_line": "",
+                    "headline_credit": "Australia, 1987",
+                    "thumbnail": null,
+                    "record_type": "work",
+                    "type": "Film",
+                    "is_on_display": false,
+                    "last_on_display_place": null,
+                    "last_on_display_date": null,
+                    "is_context_indigenous": false,
+                    "material_description": "",
+                    "unpublished": false,
+                    "first_production_date": "1987-01-01T11:00:00+11:00"
+                },
+                {
+                    "id": 108597,
+                    "acmi_id": "1438",
+                    "title": "Serving suggestion",
+                    "title_annotation": "",
+                    "slug": "serving-suggestion",
+                    "creator_credit": "AFTRS, Kate Riedl and Tony Thorne",
+                    "credit_line": "",
+                    "headline_credit": "Australia, 1998",
+                    "thumbnail": null,
+                    "record_type": "work",
+                    "type": "Film",
+                    "is_on_display": false,
+                    "last_on_display_place": null,
+                    "last_on_display_date": null,
+                    "is_context_indigenous": false,
+                    "material_description": "",
+                    "unpublished": false,
+                    "first_production_date": "1998-01-01T11:00:00+11:00"
+                },
+                {
+                    "id": 108232,
+                    "acmi_id": "476",
+                    "title": "The Journey",
+                    "title_annotation": "",
+                    "slug": "the-journey",
+                    "creator_credit": "VCA and Robert Gudan",
+                    "credit_line": "",
+                    "headline_credit": "Australia, 1995",
+                    "thumbnail": null,
+                    "record_type": "work",
+                    "type": "Film",
+                    "is_on_display": false,
+                    "last_on_display_place": null,
+                    "last_on_display_date": null,
+                    "is_context_indigenous": false,
+                    "material_description": "",
+                    "unpublished": false,
+                    "first_production_date": "1995-01-01T11:00:00+11:00"
+                },
+                {
+                    "id": 108602,
+                    "acmi_id": "1443",
+                    "title": "Under the weather",
+                    "title_annotation": "",
+                    "slug": "under-the-weather",
+                    "creator_credit": "Lyn Ashby and VCA",
+                    "credit_line": "",
+                    "headline_credit": "VIC/Australia, 1993",
+                    "thumbnail": null,
+                    "record_type": "work",
+                    "type": "Film",
+                    "is_on_display": false,
+                    "last_on_display_place": null,
+                    "last_on_display_date": null,
+                    "is_context_indigenous": false,
+                    "material_description": "",
+                    "unpublished": false,
+                    "first_production_date": "1993-01-01T11:00:00+11:00"
+                }
+            ],
+            "group_siblings": [],
+            "source": {
+                "name": "Vernon",
+                "slug": "vernon"
+            },
+            "source_identifier": "869",
+            "production_places": [
+                {
+                    "id": 3,
+                    "name": "Australia",
+                    "slug": "australia"
+                }
+            ],
+            "production_dates": [],
+            "labels": [
+                47726
+            ]
+        },
+        {
+            "id": 108232,
+            "acmi_id": "476",
+            "title": "The Journey",
+            "title_annotation": "",
+            "slug": "the-journey",
+            "creator_credit": "VCA and Robert Gudan",
+            "credit_line": "",
+            "headline_credit": "Australia, 1995",
+            "thumbnail": null,
+            "record_type": "work",
+            "type": "Film",
+            "is_on_display": false,
+            "last_on_display_place": null,
+            "last_on_display_date": null,
+            "is_context_indigenous": false,
+            "material_description": "",
+            "unpublished": false,
+            "first_production_date": "1995-01-01T11:00:00+11:00",
+            "brief_description": "<p>An old man sits in a rowboat on an endless gravel ocean remembering episodes from his youth and middle age. The three vignettes presented in this film using model animation come to represent the old man&#8217;s search for spiritual meaning and purpose in his life. The tightrope becomes a metaphor for his precarious passage from boyhood to adulthood, while the door and ladder sequence comes to represent the man&#8217;s desire for meaning through material wealth. The final rowboat episode thus becomes the pinnacle of the man&#8217;s quest - a final search for fulfilment that will take him beyond life.</p>",
+            "constellations_primary": [],
+            "constellations_other": [],
+            "recommendations": [],
+            "title_for_label": "<p>The Journey</p>",
+            "creator_credit_for_label": "<p>VCA and Robert Gudan</p>",
+            "headline_credit_for_label": "<p>Australia, 1995</p>",
+            "description": "<p>An old man sits in a rowboat on an endless gravel ocean remembering episodes from his youth and middle age. The three vignettes presented in this film using model animation come to represent the old man&#8217;s search for spiritual meaning and purpose in his life. The tightrope becomes a metaphor for his precarious passage from boyhood to adulthood, while the door and ladder sequence comes to represent the man&#8217;s desire for meaning through material wealth. The final rowboat episode thus becomes the pinnacle of the man&#8217;s quest - a final search for fulfilment that will take him beyond life.</p>",
+            "description_for_label": [
+                "<p>An old man sits in a rowboat on an endless gravel ocean remembering episodes from his youth and middle age. The three vignettes presented in this film using model animation come to represent the old man&#8217;s search for spiritual meaning and purpose in his life. The tightrope becomes a metaphor for his precarious passage from boyhood to adulthood, while the door and ladder sequence comes to represent the man&#8217;s desire for meaning through material wealth. The final rowboat episode thus becomes the pinnacle of the man&#8217;s quest - a final search for fulfilment that will take him beyond life.</p>"
+            ],
+            "credit_line_for_label": "",
+            "details": [
+                {
+                    "label": "Duration",
+                    "display_values": [
+                        "00:05:00:00"
+                    ]
+                },
+                {
+                    "label": "Language",
+                    "display_values": [
+                        "No spoken word"
+                    ]
+                },
+                {
+                    "label": "Audience classification",
+                    "display_values": [
+                        "Exempt"
+                    ]
+                },
+                {
+                    "label": "Subject categories",
+                    "display_values": [
+                        "Amateur & Student Films",
+                        "Amateur & Student Films&nbsp;→ Student films - Australia",
+                        "Animation",
+                        "Animation&nbsp;→ Animated films - Australia",
+                        "Animation&nbsp;→ Clay animation",
+                        "Short films",
+                        "Short films&nbsp;→ Short films - Australia"
+                    ]
+                },
+                {
+                    "label": "Sound/audio",
+                    "display_values": [
+                        "Sound"
+                    ]
+                },
+                {
+                    "label": "Colour",
+                    "display_values": [
+                        "Colour"
+                    ]
+                }
+            ],
+            "stats": {
+                "tap_count": 0
+            },
+            "links": [],
+            "creators_primary": [
+                {
+                    "id": 1133287,
+                    "name": "VCA",
+                    "creator_id": 6833,
+                    "role": "producer",
+                    "role_id": 960,
+                    "is_primary": true
+                },
+                {
+                    "id": 1133285,
+                    "name": "Robert Gudan",
+                    "creator_id": 7103,
+                    "role": "creator",
+                    "role_id": 968,
+                    "is_primary": true
+                }
+            ],
+            "creators_other": [
+                {
+                    "id": 1133286,
+                    "name": "Robert Gudan",
+                    "creator_id": 7103,
+                    "role": "film maker",
+                    "role_id": 459,
+                    "is_primary": false
+                },
+                {
+                    "id": 1133284,
+                    "name": "Robert Gudan",
+                    "creator_id": 7103,
+                    "role": "animator",
+                    "role_id": 497,
+                    "is_primary": false
+                }
+            ],
+            "video_links": [],
+            "media_note": "Sorry, we don't have images or video for this item.",
+            "images": [],
+            "videos": [],
+            "holdings": [
+                {
+                    "name": "MPEG-2 Digital File; Memory Grid Pod Full Encode",
+                    "identifier": "",
+                    "description": ""
+                },
+                {
+                    "name": "Digital Betacam [PAL]; Master",
+                    "identifier": "",
+                    "description": ""
+                },
+                {
+                    "name": "VHS [PAL]; Reference - timecoded",
+                    "identifier": "",
+                    "description": ""
+                },
+                {
+                    "name": "Digital Betacam [PAL]; Sub-master",
+                    "identifier": "",
+                    "description": ""
+                }
+            ],
+            "part_of": null,
+            "parts": [],
+            "part_siblings": [],
+            "group": {
+                "id": 108233,
+                "acmi_id": "869",
+                "title": "AFI Collection: a selection of tertiary student films. Tape 2",
+                "title_annotation": "",
+                "slug": "afi-collection-a-selection-of-tertiary-student-films-tape-2",
+                "creator_credit": "",
+                "credit_line": "",
+                "headline_credit": "Australia",
+                "thumbnail": null,
+                "record_type": "group",
+                "type": "Film",
+                "is_on_display": false,
+                "last_on_display_place": null,
+                "last_on_display_date": null,
+                "is_context_indigenous": false,
+                "material_description": "",
+                "unpublished": false,
+                "first_production_date": null
+            },
+            "group_works": [],
+            "group_siblings": [
+                {
+                    "id": 108556,
+                    "acmi_id": "1403",
+                    "title": "Five ninths",
+                    "title_annotation": "",
+                    "slug": "five-ninths",
+                    "creator_credit": "Aaron Davies",
+                    "credit_line": "",
+                    "headline_credit": "Australia, 1995",
+                    "thumbnail": null,
+                    "record_type": "work",
+                    "type": "Film",
+                    "is_on_display": false,
+                    "last_on_display_place": null,
+                    "last_on_display_date": null,
+                    "is_context_indigenous": false,
+                    "material_description": "",
+                    "unpublished": false,
+                    "first_production_date": "1995-01-01T11:00:00+11:00"
+                },
+                {
+                    "id": 108564,
+                    "acmi_id": "1409",
+                    "title": "Heartbreak Motel",
+                    "title_annotation": "",
+                    "slug": "heartbreak-motel",
+                    "creator_credit": "Richard Chataway and Greg Holfeld",
+                    "credit_line": "",
+                    "headline_credit": "Australia, 1997",
+                    "thumbnail": null,
+                    "record_type": "work",
+                    "type": "Film",
+                    "is_on_display": false,
+                    "last_on_display_place": null,
+                    "last_on_display_date": null,
+                    "is_context_indigenous": false,
+                    "material_description": "",
+                    "unpublished": false,
+                    "first_production_date": "1997-01-01T11:00:00+11:00"
+                },
+                {
+                    "id": 108572,
+                    "acmi_id": "1417",
+                    "title": "Lovely day",
+                    "title_annotation": "",
+                    "slug": "lovely-day",
+                    "creator_credit": "Chris Backhouse",
+                    "credit_line": "",
+                    "headline_credit": "Australia, 1996",
+                    "thumbnail": null,
+                    "record_type": "work",
+                    "type": "Film",
+                    "is_on_display": false,
+                    "last_on_display_place": null,
+                    "last_on_display_date": null,
+                    "is_context_indigenous": false,
+                    "material_description": "",
+                    "unpublished": false,
+                    "first_production_date": "1996-01-01T11:00:00+11:00"
+                },
+                {
+                    "id": 108582,
+                    "acmi_id": "1428",
+                    "title": "Plastic",
+                    "title_annotation": "",
+                    "slug": "plastic",
+                    "creator_credit": "Matthew McCullough and VCA",
+                    "credit_line": "",
+                    "headline_credit": "VIC/Australia, 1998",
+                    "thumbnail": null,
+                    "record_type": "work",
+                    "type": "Film",
+                    "is_on_display": false,
+                    "last_on_display_place": null,
+                    "last_on_display_date": null,
+                    "is_context_indigenous": false,
+                    "material_description": "",
+                    "unpublished": false,
+                    "first_production_date": "1998-01-01T11:00:00+11:00"
+                },
+                {
+                    "id": 108583,
+                    "acmi_id": "1429",
+                    "title": "Pleasure domes",
+                    "title_annotation": "",
+                    "slug": "pleasure-domes",
+                    "creator_credit": "Swinburne Institute of Technology. Film and Television School and Maggie Fooke",
+                    "credit_line": "",
+                    "headline_credit": "Australia, 1987",
+                    "thumbnail": null,
+                    "record_type": "work",
+                    "type": "Film",
+                    "is_on_display": false,
+                    "last_on_display_place": null,
+                    "last_on_display_date": null,
+                    "is_context_indigenous": false,
+                    "material_description": "",
+                    "unpublished": false,
+                    "first_production_date": "1987-01-01T11:00:00+11:00"
+                },
+                {
+                    "id": 108597,
+                    "acmi_id": "1438",
+                    "title": "Serving suggestion",
+                    "title_annotation": "",
+                    "slug": "serving-suggestion",
+                    "creator_credit": "AFTRS, Kate Riedl and Tony Thorne",
+                    "credit_line": "",
+                    "headline_credit": "Australia, 1998",
+                    "thumbnail": null,
+                    "record_type": "work",
+                    "type": "Film",
+                    "is_on_display": false,
+                    "last_on_display_place": null,
+                    "last_on_display_date": null,
+                    "is_context_indigenous": false,
+                    "material_description": "",
+                    "unpublished": false,
+                    "first_production_date": "1998-01-01T11:00:00+11:00"
+                },
+                {
+                    "id": 108602,
+                    "acmi_id": "1443",
+                    "title": "Under the weather",
+                    "title_annotation": "",
+                    "slug": "under-the-weather",
+                    "creator_credit": "Lyn Ashby and VCA",
+                    "credit_line": "",
+                    "headline_credit": "VIC/Australia, 1993",
+                    "thumbnail": null,
+                    "record_type": "work",
+                    "type": "Film",
+                    "is_on_display": false,
+                    "last_on_display_place": null,
+                    "last_on_display_date": null,
+                    "is_context_indigenous": false,
+                    "material_description": "",
+                    "unpublished": false,
+                    "first_production_date": "1993-01-01T11:00:00+11:00"
+                }
+            ],
+            "source": {
+                "name": "Vernon",
+                "slug": "vernon"
+            },
+            "source_identifier": "476",
+            "production_places": [
+                {
+                    "id": 3,
+                    "name": "Australia",
+                    "slug": "australia"
+                }
+            ],
+            "production_dates": [
+                {
+                    "date": "1995",
+                    "notes": "",
+                    "to_year": "1995"
+                }
+            ],
+            "labels": [
+                47725
+            ]
+        },
+        {
+            "id": 108602,
+            "acmi_id": "1443",
+            "title": "Under the weather",
+            "title_annotation": "",
+            "slug": "under-the-weather",
+            "creator_credit": "Lyn Ashby and VCA",
+            "credit_line": "",
+            "headline_credit": "VIC/Australia, 1993",
+            "thumbnail": null,
+            "record_type": "work",
+            "type": "Film",
+            "is_on_display": false,
+            "last_on_display_place": null,
+            "last_on_display_date": null,
+            "is_context_indigenous": false,
+            "material_description": "",
+            "unpublished": false,
+            "first_production_date": "1993-01-01T11:00:00+11:00",
+            "brief_description": "<p>In this whirlwind of stop motion animation, everday domestic objects are whipped into movement by a runaway weather report.  A mixture of object animation and live action.</p>",
+            "constellations_primary": [],
+            "constellations_other": [],
+            "recommendations": [],
+            "title_for_label": "<p>Under the weather</p>",
+            "creator_credit_for_label": "<p>Lyn Ashby and VCA</p>",
+            "headline_credit_for_label": "<p>VIC/Australia, 1993</p>",
+            "description": "<p>In this whirlwind of stop motion animation, everday domestic objects are whipped into movement by a runaway weather report.  A mixture of object animation and live action.</p>",
+            "description_for_label": [
+                "<p>In this whirlwind of stop motion animation, everday domestic objects are whipped into movement by a runaway weather report.  A mixture of object animation and live action.</p>"
+            ],
+            "credit_line_for_label": "",
+            "details": [
+                {
+                    "label": "Language",
+                    "display_values": [
+                        "English"
+                    ]
+                },
+                {
+                    "label": "Audience classification",
+                    "display_values": [
+                        "Exempt"
+                    ]
+                },
+                {
+                    "label": "Subject categories",
+                    "display_values": [
+                        "Amateur & Student Films",
+                        "Amateur & Student Films&nbsp;→ Student films - Australia",
+                        "Animation",
+                        "Short films",
+                        "Short films&nbsp;→ Short films - Australia"
+                    ]
+                },
+                {
+                    "label": "Sound/audio",
+                    "display_values": [
+                        "Sound"
+                    ]
+                },
+                {
+                    "label": "Colour",
+                    "display_values": [
+                        "Colour"
+                    ]
+                }
+            ],
+            "stats": {
+                "tap_count": 0
+            },
+            "links": [],
+            "creators_primary": [
+                {
+                    "id": 1133283,
+                    "name": "Lyn Ashby",
+                    "creator_id": 8641,
+                    "role": "director",
+                    "role_id": 938,
+                    "is_primary": true
+                },
+                {
+                    "id": 1133282,
+                    "name": "Lyn Ashby",
+                    "creator_id": 8641,
+                    "role": "creator",
+                    "role_id": 968,
+                    "is_primary": true
+                },
+                {
+                    "id": 1133281,
+                    "name": "VCA",
+                    "creator_id": 6833,
+                    "role": "producer",
+                    "role_id": 960,
+                    "is_primary": true
+                }
+            ],
+            "creators_other": [],
+            "video_links": [],
+            "media_note": "Sorry, we don't have images or video for this item.",
+            "images": [],
+            "videos": [],
+            "holdings": [
+                {
+                    "name": "MPEG-2 Digital File; Memory Grid Pod Full Encode",
+                    "identifier": "",
+                    "description": ""
+                },
+                {
+                    "name": "Digital Betacam [PAL]; Master",
+                    "identifier": "",
+                    "description": ""
+                },
+                {
+                    "name": "VHS [PAL]; Reference - timecoded",
+                    "identifier": "",
+                    "description": ""
+                },
+                {
+                    "name": "Digital Betacam [PAL]; Sub-master",
+                    "identifier": "",
+                    "description": ""
+                }
+            ],
+            "part_of": null,
+            "parts": [],
+            "part_siblings": [],
+            "group": {
+                "id": 108233,
+                "acmi_id": "869",
+                "title": "AFI Collection: a selection of tertiary student films. Tape 2",
+                "title_annotation": "",
+                "slug": "afi-collection-a-selection-of-tertiary-student-films-tape-2",
+                "creator_credit": "",
+                "credit_line": "",
+                "headline_credit": "Australia",
+                "thumbnail": null,
+                "record_type": "group",
+                "type": "Film",
+                "is_on_display": false,
+                "last_on_display_place": null,
+                "last_on_display_date": null,
+                "is_context_indigenous": false,
+                "material_description": "",
+                "unpublished": false,
+                "first_production_date": null
+            },
+            "group_works": [],
+            "group_siblings": [
+                {
+                    "id": 108556,
+                    "acmi_id": "1403",
+                    "title": "Five ninths",
+                    "title_annotation": "",
+                    "slug": "five-ninths",
+                    "creator_credit": "Aaron Davies",
+                    "credit_line": "",
+                    "headline_credit": "Australia, 1995",
+                    "thumbnail": null,
+                    "record_type": "work",
+                    "type": "Film",
+                    "is_on_display": false,
+                    "last_on_display_place": null,
+                    "last_on_display_date": null,
+                    "is_context_indigenous": false,
+                    "material_description": "",
+                    "unpublished": false,
+                    "first_production_date": "1995-01-01T11:00:00+11:00"
+                },
+                {
+                    "id": 108564,
+                    "acmi_id": "1409",
+                    "title": "Heartbreak Motel",
+                    "title_annotation": "",
+                    "slug": "heartbreak-motel",
+                    "creator_credit": "Richard Chataway and Greg Holfeld",
+                    "credit_line": "",
+                    "headline_credit": "Australia, 1997",
+                    "thumbnail": null,
+                    "record_type": "work",
+                    "type": "Film",
+                    "is_on_display": false,
+                    "last_on_display_place": null,
+                    "last_on_display_date": null,
+                    "is_context_indigenous": false,
+                    "material_description": "",
+                    "unpublished": false,
+                    "first_production_date": "1997-01-01T11:00:00+11:00"
+                },
+                {
+                    "id": 108572,
+                    "acmi_id": "1417",
+                    "title": "Lovely day",
+                    "title_annotation": "",
+                    "slug": "lovely-day",
+                    "creator_credit": "Chris Backhouse",
+                    "credit_line": "",
+                    "headline_credit": "Australia, 1996",
+                    "thumbnail": null,
+                    "record_type": "work",
+                    "type": "Film",
+                    "is_on_display": false,
+                    "last_on_display_place": null,
+                    "last_on_display_date": null,
+                    "is_context_indigenous": false,
+                    "material_description": "",
+                    "unpublished": false,
+                    "first_production_date": "1996-01-01T11:00:00+11:00"
+                },
+                {
+                    "id": 108582,
+                    "acmi_id": "1428",
+                    "title": "Plastic",
+                    "title_annotation": "",
+                    "slug": "plastic",
+                    "creator_credit": "Matthew McCullough and VCA",
+                    "credit_line": "",
+                    "headline_credit": "VIC/Australia, 1998",
+                    "thumbnail": null,
+                    "record_type": "work",
+                    "type": "Film",
+                    "is_on_display": false,
+                    "last_on_display_place": null,
+                    "last_on_display_date": null,
+                    "is_context_indigenous": false,
+                    "material_description": "",
+                    "unpublished": false,
+                    "first_production_date": "1998-01-01T11:00:00+11:00"
+                },
+                {
+                    "id": 108583,
+                    "acmi_id": "1429",
+                    "title": "Pleasure domes",
+                    "title_annotation": "",
+                    "slug": "pleasure-domes",
+                    "creator_credit": "Swinburne Institute of Technology. Film and Television School and Maggie Fooke",
+                    "credit_line": "",
+                    "headline_credit": "Australia, 1987",
+                    "thumbnail": null,
+                    "record_type": "work",
+                    "type": "Film",
+                    "is_on_display": false,
+                    "last_on_display_place": null,
+                    "last_on_display_date": null,
+                    "is_context_indigenous": false,
+                    "material_description": "",
+                    "unpublished": false,
+                    "first_production_date": "1987-01-01T11:00:00+11:00"
+                },
+                {
+                    "id": 108597,
+                    "acmi_id": "1438",
+                    "title": "Serving suggestion",
+                    "title_annotation": "",
+                    "slug": "serving-suggestion",
+                    "creator_credit": "AFTRS, Kate Riedl and Tony Thorne",
+                    "credit_line": "",
+                    "headline_credit": "Australia, 1998",
+                    "thumbnail": null,
+                    "record_type": "work",
+                    "type": "Film",
+                    "is_on_display": false,
+                    "last_on_display_place": null,
+                    "last_on_display_date": null,
+                    "is_context_indigenous": false,
+                    "material_description": "",
+                    "unpublished": false,
+                    "first_production_date": "1998-01-01T11:00:00+11:00"
+                },
+                {
+                    "id": 108232,
+                    "acmi_id": "476",
+                    "title": "The Journey",
+                    "title_annotation": "",
+                    "slug": "the-journey",
+                    "creator_credit": "VCA and Robert Gudan",
+                    "credit_line": "",
+                    "headline_credit": "Australia, 1995",
+                    "thumbnail": null,
+                    "record_type": "work",
+                    "type": "Film",
+                    "is_on_display": false,
+                    "last_on_display_place": null,
+                    "last_on_display_date": null,
+                    "is_context_indigenous": false,
+                    "material_description": "",
+                    "unpublished": false,
+                    "first_production_date": "1995-01-01T11:00:00+11:00"
+                }
+            ],
+            "source": {
+                "name": "Vernon",
+                "slug": "vernon"
+            },
+            "source_identifier": "1443",
+            "production_places": [
+                {
+                    "id": 40,
+                    "name": "VIC/Australia",
+                    "slug": "vicaustralia"
+                }
+            ],
+            "production_dates": [
+                {
+                    "date": "1993",
+                    "notes": "",
+                    "to_year": "1993"
+                }
+            ],
+            "labels": [
+                48095
+            ]
+        },
+        {
+            "id": 108597,
+            "acmi_id": "1438",
+            "title": "Serving suggestion",
+            "title_annotation": "",
+            "slug": "serving-suggestion",
+            "creator_credit": "AFTRS, Kate Riedl and Tony Thorne",
+            "credit_line": "",
+            "headline_credit": "Australia, 1998",
+            "thumbnail": null,
+            "record_type": "work",
+            "type": "Film",
+            "is_on_display": false,
+            "last_on_display_place": null,
+            "last_on_display_date": null,
+            "is_context_indigenous": false,
+            "material_description": "",
+            "unpublished": false,
+            "first_production_date": "1998-01-01T11:00:00+11:00",
+            "brief_description": "<p>A snot nosed kid called Kevin eats his way through the snack aisle in the supermarket. When Kevin decides to go for the &#8216;Chocky Pops&#8217;, he doesn&#8217;t realise that he&#8217;ll end up with more than a mouthful. The supermarket becomes a jungle in this impressive computer animated short.</p>",
+            "constellations_primary": [],
+            "constellations_other": [],
+            "recommendations": [],
+            "title_for_label": "<p>Serving suggestion</p>",
+            "creator_credit_for_label": "<p>AFTRS, Kate Riedl and Tony Thorne</p>",
+            "headline_credit_for_label": "<p>Australia, 1998</p>",
+            "description": "<p>A snot nosed kid called Kevin eats his way through the snack aisle in the supermarket. When Kevin decides to go for the &#8216;Chocky Pops&#8217;, he doesn&#8217;t realise that he&#8217;ll end up with more than a mouthful. The supermarket becomes a jungle in this impressive computer animated short.</p>",
+            "description_for_label": [
+                "<p>A snot nosed kid called Kevin eats his way through the snack aisle in the supermarket. When Kevin decides to go for the &#8216;Chocky Pops&#8217;, he doesn&#8217;t realise that he&#8217;ll end up with more than a mouthful. The supermarket becomes a jungle in this impressive computer animated short.</p>"
+            ],
+            "credit_line_for_label": "",
+            "details": [
+                {
+                    "label": "Duration",
+                    "display_values": [
+                        "00:03:00:00"
+                    ]
+                },
+                {
+                    "label": "Language",
+                    "display_values": [
+                        "English"
+                    ]
+                },
+                {
+                    "label": "Audience classification",
+                    "display_values": [
+                        "Exempt"
+                    ]
+                },
+                {
+                    "label": "Subject categories",
+                    "display_values": [
+                        "Amateur & Student Films",
+                        "Amateur & Student Films&nbsp;→ Student films - Australia",
+                        "Animation",
+                        "Animation&nbsp;→ Computer animation",
+                        "Short films"
+                    ]
+                },
+                {
+                    "label": "Sound/audio",
+                    "display_values": [
+                        "Sound"
+                    ]
+                },
+                {
+                    "label": "Colour",
+                    "display_values": [
+                        "Colour"
+                    ]
+                }
+            ],
+            "stats": {
+                "tap_count": 0
+            },
+            "links": [],
+            "creators_primary": [
+                {
+                    "id": 1133280,
+                    "name": "AFTRS",
+                    "creator_id": 6518,
+                    "role": "producer",
+                    "role_id": 960,
+                    "is_primary": true
+                },
+                {
+                    "id": 1133279,
+                    "name": "Kate Riedl",
+                    "creator_id": 8314,
+                    "role": "producer",
+                    "role_id": 960,
+                    "is_primary": true
+                },
+                {
+                    "id": 1133278,
+                    "name": "Tony Thorne",
+                    "creator_id": 8390,
+                    "role": "director",
+                    "role_id": 938,
+                    "is_primary": true
+                },
+                {
+                    "id": 1133277,
+                    "name": "Tony Thorne",
+                    "creator_id": 8390,
+                    "role": "creator",
+                    "role_id": 968,
+                    "is_primary": true
+                }
+            ],
+            "creators_other": [],
+            "video_links": [],
+            "media_note": "Sorry, we don't have images or video for this item.",
+            "images": [],
+            "videos": [],
+            "holdings": [
+                {
+                    "name": "MPEG-2 Digital File; Memory Grid Pod Full Encode",
+                    "identifier": "",
+                    "description": ""
+                },
+                {
+                    "name": "Digital Betacam [PAL]; Master",
+                    "identifier": "",
+                    "description": ""
+                },
+                {
+                    "name": "VHS [PAL]; Reference - timecoded",
+                    "identifier": "",
+                    "description": ""
+                },
+                {
+                    "name": "Digital Betacam [PAL]; Sub-master",
+                    "identifier": "",
+                    "description": ""
+                }
+            ],
+            "part_of": null,
+            "parts": [],
+            "part_siblings": [],
+            "group": {
+                "id": 108233,
+                "acmi_id": "869",
+                "title": "AFI Collection: a selection of tertiary student films. Tape 2",
+                "title_annotation": "",
+                "slug": "afi-collection-a-selection-of-tertiary-student-films-tape-2",
+                "creator_credit": "",
+                "credit_line": "",
+                "headline_credit": "Australia",
+                "thumbnail": null,
+                "record_type": "group",
+                "type": "Film",
+                "is_on_display": false,
+                "last_on_display_place": null,
+                "last_on_display_date": null,
+                "is_context_indigenous": false,
+                "material_description": "",
+                "unpublished": false,
+                "first_production_date": null
+            },
+            "group_works": [],
+            "group_siblings": [
+                {
+                    "id": 108556,
+                    "acmi_id": "1403",
+                    "title": "Five ninths",
+                    "title_annotation": "",
+                    "slug": "five-ninths",
+                    "creator_credit": "Aaron Davies",
+                    "credit_line": "",
+                    "headline_credit": "Australia, 1995",
+                    "thumbnail": null,
+                    "record_type": "work",
+                    "type": "Film",
+                    "is_on_display": false,
+                    "last_on_display_place": null,
+                    "last_on_display_date": null,
+                    "is_context_indigenous": false,
+                    "material_description": "",
+                    "unpublished": false,
+                    "first_production_date": "1995-01-01T11:00:00+11:00"
+                },
+                {
+                    "id": 108564,
+                    "acmi_id": "1409",
+                    "title": "Heartbreak Motel",
+                    "title_annotation": "",
+                    "slug": "heartbreak-motel",
+                    "creator_credit": "Richard Chataway and Greg Holfeld",
+                    "credit_line": "",
+                    "headline_credit": "Australia, 1997",
+                    "thumbnail": null,
+                    "record_type": "work",
+                    "type": "Film",
+                    "is_on_display": false,
+                    "last_on_display_place": null,
+                    "last_on_display_date": null,
+                    "is_context_indigenous": false,
+                    "material_description": "",
+                    "unpublished": false,
+                    "first_production_date": "1997-01-01T11:00:00+11:00"
+                },
+                {
+                    "id": 108572,
+                    "acmi_id": "1417",
+                    "title": "Lovely day",
+                    "title_annotation": "",
+                    "slug": "lovely-day",
+                    "creator_credit": "Chris Backhouse",
+                    "credit_line": "",
+                    "headline_credit": "Australia, 1996",
+                    "thumbnail": null,
+                    "record_type": "work",
+                    "type": "Film",
+                    "is_on_display": false,
+                    "last_on_display_place": null,
+                    "last_on_display_date": null,
+                    "is_context_indigenous": false,
+                    "material_description": "",
+                    "unpublished": false,
+                    "first_production_date": "1996-01-01T11:00:00+11:00"
+                },
+                {
+                    "id": 108582,
+                    "acmi_id": "1428",
+                    "title": "Plastic",
+                    "title_annotation": "",
+                    "slug": "plastic",
+                    "creator_credit": "Matthew McCullough and VCA",
+                    "credit_line": "",
+                    "headline_credit": "VIC/Australia, 1998",
+                    "thumbnail": null,
+                    "record_type": "work",
+                    "type": "Film",
+                    "is_on_display": false,
+                    "last_on_display_place": null,
+                    "last_on_display_date": null,
+                    "is_context_indigenous": false,
+                    "material_description": "",
+                    "unpublished": false,
+                    "first_production_date": "1998-01-01T11:00:00+11:00"
+                },
+                {
+                    "id": 108583,
+                    "acmi_id": "1429",
+                    "title": "Pleasure domes",
+                    "title_annotation": "",
+                    "slug": "pleasure-domes",
+                    "creator_credit": "Swinburne Institute of Technology. Film and Television School and Maggie Fooke",
+                    "credit_line": "",
+                    "headline_credit": "Australia, 1987",
+                    "thumbnail": null,
+                    "record_type": "work",
+                    "type": "Film",
+                    "is_on_display": false,
+                    "last_on_display_place": null,
+                    "last_on_display_date": null,
+                    "is_context_indigenous": false,
+                    "material_description": "",
+                    "unpublished": false,
+                    "first_production_date": "1987-01-01T11:00:00+11:00"
+                },
+                {
+                    "id": 108232,
+                    "acmi_id": "476",
+                    "title": "The Journey",
+                    "title_annotation": "",
+                    "slug": "the-journey",
+                    "creator_credit": "VCA and Robert Gudan",
+                    "credit_line": "",
+                    "headline_credit": "Australia, 1995",
+                    "thumbnail": null,
+                    "record_type": "work",
+                    "type": "Film",
+                    "is_on_display": false,
+                    "last_on_display_place": null,
+                    "last_on_display_date": null,
+                    "is_context_indigenous": false,
+                    "material_description": "",
+                    "unpublished": false,
+                    "first_production_date": "1995-01-01T11:00:00+11:00"
+                },
+                {
+                    "id": 108602,
+                    "acmi_id": "1443",
+                    "title": "Under the weather",
+                    "title_annotation": "",
+                    "slug": "under-the-weather",
+                    "creator_credit": "Lyn Ashby and VCA",
+                    "credit_line": "",
+                    "headline_credit": "VIC/Australia, 1993",
+                    "thumbnail": null,
+                    "record_type": "work",
+                    "type": "Film",
+                    "is_on_display": false,
+                    "last_on_display_place": null,
+                    "last_on_display_date": null,
+                    "is_context_indigenous": false,
+                    "material_description": "",
+                    "unpublished": false,
+                    "first_production_date": "1993-01-01T11:00:00+11:00"
+                }
+            ],
+            "source": {
+                "name": "Vernon",
+                "slug": "vernon"
+            },
+            "source_identifier": "1438",
+            "production_places": [
+                {
+                    "id": 3,
+                    "name": "Australia",
+                    "slug": "australia"
+                }
+            ],
+            "production_dates": [
+                {
+                    "date": "1998",
+                    "notes": "",
+                    "to_year": "1998"
+                }
+            ],
+            "labels": [
+                48090
+            ]
+        },
+        {
+            "id": 108583,
+            "acmi_id": "1429",
+            "title": "Pleasure domes",
+            "title_annotation": "",
+            "slug": "pleasure-domes",
+            "creator_credit": "Swinburne Institute of Technology. Film and Television School and Maggie Fooke",
+            "credit_line": "",
+            "headline_credit": "Australia, 1987",
+            "thumbnail": null,
+            "record_type": "work",
+            "type": "Film",
+            "is_on_display": false,
+            "last_on_display_place": null,
+            "last_on_display_date": null,
+            "is_context_indigenous": false,
+            "material_description": "",
+            "unpublished": false,
+            "first_production_date": "1987-01-01T11:00:00+11:00",
+            "brief_description": "<p>Is Cannes really like St. Kilda, or is it just a state of mind? Animated watercolour drawings and hand coloured photocopies shape this introspective reflection on the nature of landscape and human responses to it. It hints that our perception of landscape is never direct but always filtered through a set of constructs, either physical or psychological.</p>",
+            "constellations_primary": [],
+            "constellations_other": [],
+            "recommendations": [],
+            "title_for_label": "<p>Pleasure domes</p>",
+            "creator_credit_for_label": "<p>Swinburne Institute of Technology. Film and Television School and Maggie Fooke</p>",
+            "headline_credit_for_label": "<p>Australia, 1987</p>",
+            "description": "<p>Is Cannes really like St. Kilda, or is it just a state of mind? Animated watercolour drawings and hand coloured photocopies shape this introspective reflection on the nature of landscape and human responses to it. It hints that our perception of landscape is never direct but always filtered through a set of constructs, either physical or psychological.</p>",
+            "description_for_label": [
+                "<p>Is Cannes really like St. Kilda, or is it just a state of mind? Animated watercolour drawings and hand coloured photocopies shape this introspective reflection on the nature of landscape and human responses to it. It hints that our perception of landscape is never direct but always filtered through a set of constructs, either physical or psychological.</p>"
+            ],
+            "credit_line_for_label": "",
+            "details": [
+                {
+                    "label": "Duration",
+                    "display_values": [
+                        "00:07:54:00"
+                    ]
+                },
+                {
+                    "label": "Language",
+                    "display_values": [
+                        "English"
+                    ]
+                },
+                {
+                    "label": "Audience classification",
+                    "display_values": [
+                        "Exempt"
+                    ]
+                },
+                {
+                    "label": "Subject categories",
+                    "display_values": [
+                        "Amateur & Student Films",
+                        "Amateur & Student Films&nbsp;→ Student films - Australia",
+                        "Animation"
+                    ]
+                },
+                {
+                    "label": "Sound/audio",
+                    "display_values": [
+                        "Sound"
+                    ]
+                },
+                {
+                    "label": "Colour",
+                    "display_values": [
+                        "Colour"
+                    ]
+                }
+            ],
+            "stats": {
+                "tap_count": 0
+            },
+            "links": [],
+            "creators_primary": [
+                {
+                    "id": 1133276,
+                    "name": "Swinburne Institute of Technology. Film and Television School",
+                    "creator_id": 8030,
+                    "role": "production company",
+                    "role_id": 941,
+                    "is_primary": true
+                },
+                {
+                    "id": 1133274,
+                    "name": "Maggie Fooke",
+                    "creator_id": 8380,
+                    "role": "creator",
+                    "role_id": 968,
+                    "is_primary": true
+                }
+            ],
+            "creators_other": [
+                {
+                    "id": 1133275,
+                    "name": "Julie Forsyth",
+                    "creator_id": 73438,
+                    "role": "narrator",
+                    "role_id": 499,
+                    "is_primary": false
+                }
+            ],
+            "video_links": [],
+            "media_note": "Sorry, we don't have images or video for this item.",
+            "images": [],
+            "videos": [],
+            "holdings": [
+                {
+                    "name": "MPEG-2 Digital File; Memory Grid Pod Full Encode",
+                    "identifier": "",
+                    "description": ""
+                },
+                {
+                    "name": "Digital Betacam [PAL]; Master",
+                    "identifier": "",
+                    "description": ""
+                },
+                {
+                    "name": "VHS [PAL]; Reference - timecoded",
+                    "identifier": "",
+                    "description": ""
+                },
+                {
+                    "name": "Digital Betacam [PAL]; Sub-master",
+                    "identifier": "",
+                    "description": ""
+                }
+            ],
+            "part_of": null,
+            "parts": [],
+            "part_siblings": [],
+            "group": {
+                "id": 108233,
+                "acmi_id": "869",
+                "title": "AFI Collection: a selection of tertiary student films. Tape 2",
+                "title_annotation": "",
+                "slug": "afi-collection-a-selection-of-tertiary-student-films-tape-2",
+                "creator_credit": "",
+                "credit_line": "",
+                "headline_credit": "Australia",
+                "thumbnail": null,
+                "record_type": "group",
+                "type": "Film",
+                "is_on_display": false,
+                "last_on_display_place": null,
+                "last_on_display_date": null,
+                "is_context_indigenous": false,
+                "material_description": "",
+                "unpublished": false,
+                "first_production_date": null
+            },
+            "group_works": [],
+            "group_siblings": [
+                {
+                    "id": 108556,
+                    "acmi_id": "1403",
+                    "title": "Five ninths",
+                    "title_annotation": "",
+                    "slug": "five-ninths",
+                    "creator_credit": "Aaron Davies",
+                    "credit_line": "",
+                    "headline_credit": "Australia, 1995",
+                    "thumbnail": null,
+                    "record_type": "work",
+                    "type": "Film",
+                    "is_on_display": false,
+                    "last_on_display_place": null,
+                    "last_on_display_date": null,
+                    "is_context_indigenous": false,
+                    "material_description": "",
+                    "unpublished": false,
+                    "first_production_date": "1995-01-01T11:00:00+11:00"
+                },
+                {
+                    "id": 108564,
+                    "acmi_id": "1409",
+                    "title": "Heartbreak Motel",
+                    "title_annotation": "",
+                    "slug": "heartbreak-motel",
+                    "creator_credit": "Richard Chataway and Greg Holfeld",
+                    "credit_line": "",
+                    "headline_credit": "Australia, 1997",
+                    "thumbnail": null,
+                    "record_type": "work",
+                    "type": "Film",
+                    "is_on_display": false,
+                    "last_on_display_place": null,
+                    "last_on_display_date": null,
+                    "is_context_indigenous": false,
+                    "material_description": "",
+                    "unpublished": false,
+                    "first_production_date": "1997-01-01T11:00:00+11:00"
+                },
+                {
+                    "id": 108572,
+                    "acmi_id": "1417",
+                    "title": "Lovely day",
+                    "title_annotation": "",
+                    "slug": "lovely-day",
+                    "creator_credit": "Chris Backhouse",
+                    "credit_line": "",
+                    "headline_credit": "Australia, 1996",
+                    "thumbnail": null,
+                    "record_type": "work",
+                    "type": "Film",
+                    "is_on_display": false,
+                    "last_on_display_place": null,
+                    "last_on_display_date": null,
+                    "is_context_indigenous": false,
+                    "material_description": "",
+                    "unpublished": false,
+                    "first_production_date": "1996-01-01T11:00:00+11:00"
+                },
+                {
+                    "id": 108582,
+                    "acmi_id": "1428",
+                    "title": "Plastic",
+                    "title_annotation": "",
+                    "slug": "plastic",
+                    "creator_credit": "Matthew McCullough and VCA",
+                    "credit_line": "",
+                    "headline_credit": "VIC/Australia, 1998",
+                    "thumbnail": null,
+                    "record_type": "work",
+                    "type": "Film",
+                    "is_on_display": false,
+                    "last_on_display_place": null,
+                    "last_on_display_date": null,
+                    "is_context_indigenous": false,
+                    "material_description": "",
+                    "unpublished": false,
+                    "first_production_date": "1998-01-01T11:00:00+11:00"
+                },
+                {
+                    "id": 108597,
+                    "acmi_id": "1438",
+                    "title": "Serving suggestion",
+                    "title_annotation": "",
+                    "slug": "serving-suggestion",
+                    "creator_credit": "AFTRS, Kate Riedl and Tony Thorne",
+                    "credit_line": "",
+                    "headline_credit": "Australia, 1998",
+                    "thumbnail": null,
+                    "record_type": "work",
+                    "type": "Film",
+                    "is_on_display": false,
+                    "last_on_display_place": null,
+                    "last_on_display_date": null,
+                    "is_context_indigenous": false,
+                    "material_description": "",
+                    "unpublished": false,
+                    "first_production_date": "1998-01-01T11:00:00+11:00"
+                },
+                {
+                    "id": 108232,
+                    "acmi_id": "476",
+                    "title": "The Journey",
+                    "title_annotation": "",
+                    "slug": "the-journey",
+                    "creator_credit": "VCA and Robert Gudan",
+                    "credit_line": "",
+                    "headline_credit": "Australia, 1995",
+                    "thumbnail": null,
+                    "record_type": "work",
+                    "type": "Film",
+                    "is_on_display": false,
+                    "last_on_display_place": null,
+                    "last_on_display_date": null,
+                    "is_context_indigenous": false,
+                    "material_description": "",
+                    "unpublished": false,
+                    "first_production_date": "1995-01-01T11:00:00+11:00"
+                },
+                {
+                    "id": 108602,
+                    "acmi_id": "1443",
+                    "title": "Under the weather",
+                    "title_annotation": "",
+                    "slug": "under-the-weather",
+                    "creator_credit": "Lyn Ashby and VCA",
+                    "credit_line": "",
+                    "headline_credit": "VIC/Australia, 1993",
+                    "thumbnail": null,
+                    "record_type": "work",
+                    "type": "Film",
+                    "is_on_display": false,
+                    "last_on_display_place": null,
+                    "last_on_display_date": null,
+                    "is_context_indigenous": false,
+                    "material_description": "",
+                    "unpublished": false,
+                    "first_production_date": "1993-01-01T11:00:00+11:00"
+                }
+            ],
+            "source": {
+                "name": "Vernon",
+                "slug": "vernon"
+            },
+            "source_identifier": "1429",
+            "production_places": [
+                {
+                    "id": 3,
+                    "name": "Australia",
+                    "slug": "australia"
+                }
+            ],
+            "production_dates": [
+                {
+                    "date": "1987",
+                    "notes": "",
+                    "to_year": "1987"
+                }
+            ],
+            "labels": [
+                48076
+            ]
+        }
+    ]
+}

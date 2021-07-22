@@ -1,0 +1,102 @@
+{
+    "id": 100043,
+    "acmi_id": "13268",
+    "title": "Tektroniks Oscilloscope Type 543A",
+    "title_annotation": "",
+    "slug": "tektroniks-oscilloscope-type-543a",
+    "creator_credit": "Tektroniks Inc.",
+    "credit_line": "",
+    "headline_credit": "Oregon/United States",
+    "thumbnail": {
+        "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/B2000401_TVWorldCollection_E000066_001.JPG.1200x1200_q85.JPG?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=NVCOHKA7ts0Qq%2BhPIwrkQDS9CRE%3D&Expires=1627009316",
+        "has_video": false
+    },
+    "record_type": "work",
+    "type": "Object",
+    "is_on_display": false,
+    "last_on_display_place": null,
+    "last_on_display_date": null,
+    "is_context_indigenous": false,
+    "material_description": "",
+    "unpublished": false,
+    "first_production_date": null,
+    "brief_description": "<p>Tektroniks oscilloscope. Also listed as TV and Radio test equipment. Manufactured by Tektroniks Inc., Portland, Oregon USA. Type 543 A.</p>",
+    "constellations_primary": [],
+    "constellations_other": [],
+    "recommendations": [],
+    "title_for_label": "<p>Tektroniks Oscilloscope Type 543A</p>",
+    "creator_credit_for_label": "<p>Tektroniks Inc.</p>",
+    "headline_credit_for_label": "<p>Oregon/United States</p>",
+    "description": "<p>Tektroniks oscilloscope. Also listed as TV and Radio test equipment. Manufactured by Tektroniks Inc., Portland, Oregon USA. Type 543 A.</p>",
+    "description_for_label": [
+        "<p>Tektroniks oscilloscope. Also listed as TV and Radio test equipment. Manufactured by Tektroniks Inc., Portland, Oregon USA. Type 543 A.</p>"
+    ],
+    "credit_line_for_label": "",
+    "details": [
+        {
+            "label": "Measurements",
+            "display_values": [
+                "43 x 60 x 34cm",
+                "450 x 330 x 550mm"
+            ]
+        }
+    ],
+    "stats": {
+        "tap_count": 0
+    },
+    "links": [],
+    "creators_primary": [
+        {
+            "id": 1133915,
+            "name": "Tektroniks Inc.",
+            "creator_id": 72733,
+            "role": "manufacturer",
+            "role_id": 627,
+            "is_primary": true
+        }
+    ],
+    "creators_other": [],
+    "video_links": [],
+    "media_note": null,
+    "images": [
+        {
+            "id": 14794,
+            "image_file": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/B2000401_TVWorldCollection_E000066_001.JPG?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=vlLooCkyLpq8Q55%2FBxypuZUelOY%3D&Expires=1627009316",
+            "image_file_thumbnail": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/B2000401_TVWorldCollection_E000066_001.JPG.1200x1200_q85.JPG?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=NVCOHKA7ts0Qq%2BhPIwrkQDS9CRE%3D&Expires=1627009316",
+            "image_file_xs": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/B2000401_TVWorldCollection_E000066_001.JPG.480x480_q85.JPG?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=jFlBs3pxmD%2BOT%2BmM%2BEe2dDJPiy8%3D&Expires=1627009316",
+            "image_file_s": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/B2000401_TVWorldCollection_E000066_001.JPG.960x960_q85.JPG?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=FONr5kBOuGdCJi6fvqKn%2FADTqDE%3D&Expires=1627009316",
+            "image_file_m": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/B2000401_TVWorldCollection_E000066_001.JPG.1920x1920_q85.JPG?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=a5SIX1t3Vg%2FcX23FMlt5wiiG4Jc%3D&Expires=1627009316",
+            "image_file_l": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/B2000401_TVWorldCollection_E000066_001.JPG.3840x3840_q85.JPG?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=xUXnGnEBUi0LvkciXAm43aTqqQc%3D&Expires=1627009316",
+            "caption": "E000066 - Image01",
+            "credit_line": "",
+            "alt_text": "",
+            "width": 1600,
+            "height": 1200,
+            "access_level": "View anywhere"
+        }
+    ],
+    "videos": [],
+    "holdings": [],
+    "part_of": null,
+    "parts": [],
+    "part_siblings": [],
+    "group": null,
+    "group_works": [],
+    "group_siblings": [],
+    "source": {
+        "name": "Vernon",
+        "slug": "vernon"
+    },
+    "source_identifier": "13268",
+    "production_places": [
+        {
+            "id": 266,
+            "name": "Oregon/United States",
+            "slug": "oregonunited-states"
+        }
+    ],
+    "production_dates": [],
+    "labels": [
+        39539
+    ]
+}

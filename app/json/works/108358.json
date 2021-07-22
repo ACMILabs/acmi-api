@@ -1,0 +1,461 @@
+{
+    "id": 108358,
+    "acmi_id": "723",
+    "title": "Jawpan",
+    "title_annotation": "",
+    "slug": "jawpan",
+    "creator_credit": "Troy Innocent",
+    "credit_line": "",
+    "headline_credit": "Australia, 1992",
+    "thumbnail": null,
+    "record_type": "work",
+    "type": "Film",
+    "is_on_display": false,
+    "last_on_display_place": null,
+    "last_on_display_date": null,
+    "is_context_indigenous": false,
+    "material_description": "",
+    "unpublished": false,
+    "first_production_date": "1992-01-01T11:00:00+11:00",
+    "brief_description": "<p>Otaku and his robot friend Knowbot stumble across an evil force when out for a good time at th e”Nice Life” ATM.  When the world is threatened with destruction by a &#8220;type 1 error&#8221;, Otaku and Knowbot must save the day by re-initialising planet earth.</p>",
+    "constellations_primary": [],
+    "constellations_other": [],
+    "recommendations": [],
+    "title_for_label": "<p>Jawpan</p>",
+    "creator_credit_for_label": "<p>Troy Innocent</p>",
+    "headline_credit_for_label": "<p>Australia, 1992</p>",
+    "description": "<p>Otaku and his robot friend Knowbot stumble across an evil force when out for a good time at th e”Nice Life” ATM.  When the world is threatened with destruction by a &#8220;type 1 error&#8221;, Otaku and Knowbot must save the day by re-initialising planet earth.</p>",
+    "description_for_label": [
+        "<p>Otaku and his robot friend Knowbot stumble across an evil force when out for a good time at th e”Nice Life” ATM.  When the world is threatened with destruction by a &#8220;type 1 error&#8221;, Otaku and Knowbot must save the day by re-initialising planet earth.</p>"
+    ],
+    "credit_line_for_label": "",
+    "details": [
+        {
+            "label": "Duration",
+            "display_values": [
+                "00:07:25:00"
+            ]
+        },
+        {
+            "label": "Language",
+            "display_values": [
+                "No spoken word"
+            ]
+        },
+        {
+            "label": "Audience classification",
+            "display_values": [
+                "ACMI classified"
+            ]
+        },
+        {
+            "label": "Subject categories",
+            "display_values": [
+                "Amateur & Student Films",
+                "Amateur & Student Films&nbsp;→ Student films - Australia",
+                "Animation",
+                "Animation&nbsp;→ Computer animation&nbsp;→ 2-D computer animation",
+                "Animation&nbsp;→ Computer animation&nbsp;→ 3-D computer animation",
+                "Animation&nbsp;→ Hand drawn",
+                "Short films",
+                "Short films&nbsp;→ Short films - Australia"
+            ]
+        },
+        {
+            "label": "Sound/audio",
+            "display_values": [
+                "Sound"
+            ]
+        },
+        {
+            "label": "Colour",
+            "display_values": [
+                "Colour"
+            ]
+        }
+    ],
+    "stats": {
+        "tap_count": 0
+    },
+    "links": [],
+    "creators_primary": [
+        {
+            "id": 1132856,
+            "name": "Troy Innocent",
+            "creator_id": 6691,
+            "role": "creator",
+            "role_id": 968,
+            "is_primary": true
+        }
+    ],
+    "creators_other": [
+        {
+            "id": 1132864,
+            "name": "Animation and Interactive Media (AIM) RMIT",
+            "creator_id": 6535,
+            "role": "production facilities",
+            "role_id": 442,
+            "is_primary": false
+        },
+        {
+            "id": 1132863,
+            "name": "Third Eye Productions",
+            "creator_id": 6694,
+            "role": "sound",
+            "role_id": 952,
+            "is_primary": false
+        },
+        {
+            "id": 1132862,
+            "name": "Third Eye Productions",
+            "creator_id": 6694,
+            "role": "music",
+            "role_id": 949,
+            "is_primary": false
+        },
+        {
+            "id": 1132861,
+            "name": "David Atkinson",
+            "creator_id": 6531,
+            "role": "executive producer",
+            "role_id": 916,
+            "is_primary": false
+        },
+        {
+            "id": 1132860,
+            "name": "John Bird",
+            "creator_id": 6532,
+            "role": "executive producer",
+            "role_id": 916,
+            "is_primary": false
+        },
+        {
+            "id": 1132859,
+            "name": "Cameron Parsons",
+            "creator_id": 73395,
+            "role": "animator",
+            "role_id": 497,
+            "is_primary": false
+        },
+        {
+            "id": 1132858,
+            "name": "Minty",
+            "creator_id": 73218,
+            "role": "sound",
+            "role_id": 952,
+            "is_primary": false
+        },
+        {
+            "id": 1132857,
+            "name": "Troy Innocent",
+            "creator_id": 6691,
+            "role": "animator",
+            "role_id": 497,
+            "is_primary": false
+        }
+    ],
+    "video_links": [],
+    "media_note": "Sorry, we don't have images or video for this item.",
+    "images": [],
+    "videos": [],
+    "holdings": [
+        {
+            "name": "MPEG-2 Digital File; Memory Grid Pod Full Encode",
+            "identifier": "",
+            "description": ""
+        },
+        {
+            "name": "Digital Betacam [PAL]; Master",
+            "identifier": "",
+            "description": ""
+        },
+        {
+            "name": "Digital Betacam [PAL]; Sub-master",
+            "identifier": "",
+            "description": ""
+        },
+        {
+            "name": "VHS [PAL]; Reference - timecoded",
+            "identifier": "",
+            "description": ""
+        },
+        {
+            "name": "MPEG-4 Digital File; ACMI Digital Access Copy - overscan",
+            "identifier": "",
+            "description": ""
+        },
+        {
+            "name": "MOV file ProRes4444; Digital Preservation Master - overscan",
+            "identifier": "",
+            "description": ""
+        }
+    ],
+    "part_of": null,
+    "parts": [],
+    "part_siblings": [],
+    "group": {
+        "id": 108100,
+        "acmi_id": "143",
+        "title": "RMIT AIM Collection 1992",
+        "title_annotation": "",
+        "slug": "rmit-aim-collection-1992",
+        "creator_credit": "Animation and Interactive Media (AIM) RMIT",
+        "credit_line": "",
+        "headline_credit": "VIC/Australia, 1992",
+        "thumbnail": null,
+        "record_type": "group",
+        "type": "Film",
+        "is_on_display": false,
+        "last_on_display_place": null,
+        "last_on_display_date": null,
+        "is_context_indigenous": false,
+        "material_description": "",
+        "unpublished": false,
+        "first_production_date": "1992-01-01T11:00:00+11:00"
+    },
+    "group_works": [],
+    "group_siblings": [
+        {
+            "id": 108116,
+            "acmi_id": "339",
+            "title": "Alex and the beast within",
+            "title_annotation": "",
+            "slug": "alex-and-the-beast-within",
+            "creator_credit": "David Atkinson, John Bird and Dominic O'Brien",
+            "credit_line": "",
+            "headline_credit": "VIC/Australia, 1992",
+            "thumbnail": null,
+            "record_type": "work",
+            "type": "Film",
+            "is_on_display": false,
+            "last_on_display_place": null,
+            "last_on_display_date": null,
+            "is_context_indigenous": false,
+            "material_description": "",
+            "unpublished": false,
+            "first_production_date": "1992-01-01T11:00:00+11:00"
+        },
+        {
+            "id": 108099,
+            "acmi_id": "323",
+            "title": "Blue",
+            "title_annotation": "",
+            "slug": "blue",
+            "creator_credit": "David Atkinson and Grant Noble",
+            "credit_line": "",
+            "headline_credit": "VIC/Australia, 1992",
+            "thumbnail": null,
+            "record_type": "work",
+            "type": "Film",
+            "is_on_display": false,
+            "last_on_display_place": null,
+            "last_on_display_date": null,
+            "is_context_indigenous": false,
+            "material_description": "",
+            "unpublished": false,
+            "first_production_date": "1992-01-01T11:00:00+11:00"
+        },
+        {
+            "id": 108104,
+            "acmi_id": "327",
+            "title": "Harry Bachelor",
+            "title_annotation": "",
+            "slug": "harry-bachelor",
+            "creator_credit": "Matthew Gidney",
+            "credit_line": "",
+            "headline_credit": "VIC/Australia, 1992",
+            "thumbnail": null,
+            "record_type": "work",
+            "type": "Film",
+            "is_on_display": false,
+            "last_on_display_place": null,
+            "last_on_display_date": null,
+            "is_context_indigenous": false,
+            "material_description": "",
+            "unpublished": false,
+            "first_production_date": "1992-01-01T11:00:00+11:00"
+        },
+        {
+            "id": 108115,
+            "acmi_id": "338",
+            "title": "Icaros",
+            "title_annotation": "",
+            "slug": "icaros",
+            "creator_credit": "Amos Winikoff, John Bird and David Atkinson",
+            "credit_line": "",
+            "headline_credit": "VIC/Australia, 1992",
+            "thumbnail": null,
+            "record_type": "work",
+            "type": "Film",
+            "is_on_display": false,
+            "last_on_display_place": null,
+            "last_on_display_date": null,
+            "is_context_indigenous": false,
+            "material_description": "",
+            "unpublished": false,
+            "first_production_date": "1992-01-01T11:00:00+11:00"
+        },
+        {
+            "id": 108102,
+            "acmi_id": "325",
+            "title": "Nevil the ninja",
+            "title_annotation": "",
+            "slug": "nevil-the-ninja",
+            "creator_credit": "John Bird, Grant Noble and David Atkinson",
+            "credit_line": "",
+            "headline_credit": "Australia, 1992",
+            "thumbnail": null,
+            "record_type": "work",
+            "type": "Film",
+            "is_on_display": false,
+            "last_on_display_place": null,
+            "last_on_display_date": null,
+            "is_context_indigenous": false,
+            "material_description": "",
+            "unpublished": false,
+            "first_production_date": "1992-01-01T11:00:00+11:00"
+        },
+        {
+            "id": 108114,
+            "acmi_id": "337",
+            "title": "Robot cycle",
+            "title_annotation": "",
+            "slug": "robot-cycle",
+            "creator_credit": "David Atkinson, John Bird and Elena Popa",
+            "credit_line": "",
+            "headline_credit": "Australia, 1992",
+            "thumbnail": null,
+            "record_type": "work",
+            "type": "Film",
+            "is_on_display": false,
+            "last_on_display_place": null,
+            "last_on_display_date": null,
+            "is_context_indigenous": false,
+            "material_description": "",
+            "unpublished": false,
+            "first_production_date": "1992-01-01T11:00:00+11:00"
+        },
+        {
+            "id": 108103,
+            "acmi_id": "326",
+            "title": "Sintu",
+            "title_annotation": "",
+            "slug": "sintu",
+            "creator_credit": "Elena Popa, David Atkinson and John Bird",
+            "credit_line": "",
+            "headline_credit": "VIC/Australia, 1992",
+            "thumbnail": null,
+            "record_type": "work",
+            "type": "Film",
+            "is_on_display": false,
+            "last_on_display_place": null,
+            "last_on_display_date": null,
+            "is_context_indigenous": false,
+            "material_description": "",
+            "unpublished": false,
+            "first_production_date": "1992-01-01T11:00:00+11:00"
+        },
+        {
+            "id": 108101,
+            "acmi_id": "324",
+            "title": "Sleep with the fishes",
+            "title_annotation": "",
+            "slug": "sleep-with-the-fishes",
+            "creator_credit": "Jos Valdman",
+            "credit_line": "",
+            "headline_credit": "Australia, 1992",
+            "thumbnail": null,
+            "record_type": "work",
+            "type": "Film",
+            "is_on_display": false,
+            "last_on_display_place": null,
+            "last_on_display_date": null,
+            "is_context_indigenous": false,
+            "material_description": "",
+            "unpublished": false,
+            "first_production_date": "1992-01-01T11:00:00+11:00"
+        },
+        {
+            "id": 108117,
+            "acmi_id": "340",
+            "title": "The Audition",
+            "title_annotation": "",
+            "slug": "the-audition",
+            "creator_credit": "Jos Valdman and Matthew Gidney",
+            "credit_line": "",
+            "headline_credit": "Australia, 1992",
+            "thumbnail": null,
+            "record_type": "work",
+            "type": "Film",
+            "is_on_display": false,
+            "last_on_display_place": null,
+            "last_on_display_date": null,
+            "is_context_indigenous": false,
+            "material_description": "",
+            "unpublished": false,
+            "first_production_date": "1992-01-01T11:00:00+11:00"
+        },
+        {
+            "id": 108108,
+            "acmi_id": "331",
+            "title": "Transylvanian skies",
+            "title_annotation": "",
+            "slug": "transylvanian-skies",
+            "creator_credit": "Axyl Lottie, John Bird, David Atkinson and Jos Valdman",
+            "credit_line": "",
+            "headline_credit": "VIC/Australia, 1992",
+            "thumbnail": null,
+            "record_type": "work",
+            "type": "Film",
+            "is_on_display": false,
+            "last_on_display_place": null,
+            "last_on_display_date": null,
+            "is_context_indigenous": false,
+            "material_description": "",
+            "unpublished": false,
+            "first_production_date": "1992-01-01T11:00:00+11:00"
+        },
+        {
+            "id": 108357,
+            "acmi_id": "722",
+            "title": "Yum yum noodles",
+            "title_annotation": "",
+            "slug": "yum-yum-noodles",
+            "creator_credit": "David Atkinson, John Bird, Troy Innocent and Elena Popa",
+            "credit_line": "",
+            "headline_credit": "Australia, 1992",
+            "thumbnail": null,
+            "record_type": "work",
+            "type": "Film",
+            "is_on_display": false,
+            "last_on_display_place": null,
+            "last_on_display_date": null,
+            "is_context_indigenous": false,
+            "material_description": "",
+            "unpublished": false,
+            "first_production_date": "1992-01-01T11:00:00+11:00"
+        }
+    ],
+    "source": {
+        "name": "Vernon",
+        "slug": "vernon"
+    },
+    "source_identifier": "723",
+    "production_places": [
+        {
+            "id": 3,
+            "name": "Australia",
+            "slug": "australia"
+        }
+    ],
+    "production_dates": [
+        {
+            "date": "1992",
+            "notes": "",
+            "to_year": "1992"
+        }
+    ],
+    "labels": [
+        47851
+    ]
+}

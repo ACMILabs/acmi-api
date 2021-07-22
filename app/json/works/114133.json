@@ -1,0 +1,601 @@
+{
+    "id": 114133,
+    "acmi_id": "1835",
+    "title": "Froggie's gone",
+    "title_annotation": "",
+    "slug": "froggies-gone",
+    "creator_credit": "Joan Robinson",
+    "credit_line": "",
+    "headline_credit": "Australia, 2001",
+    "thumbnail": {
+        "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/B1004128_FroggiesGone.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=6d9a87kLHjVI1tfPBfSZS%2Bq5r2o%3D&Expires=1627009302",
+        "has_video": false
+    },
+    "record_type": "work",
+    "type": "Film",
+    "is_on_display": false,
+    "last_on_display_place": "ACMI Viewing Booths",
+    "last_on_display_date": "2019-04-22",
+    "is_context_indigenous": false,
+    "material_description": "",
+    "unpublished": false,
+    "first_production_date": "2001-01-01T11:00:00+11:00",
+    "brief_description": "<p>This warmly comic documentary is about Beryl from Brunswick whose prized garden frog is stolen from her verandah. Very soon the police and the neighbours are on the trail of the thieves, everyone wanting to do their bit to ensure that Froggie comes back home where he belongs. This acclaimed short film was made by Beryl&#8217;s niece as a celebration of community, and is an example of how remembering an episode from your life can make a wonderful piece of film.</p>",
+    "constellations_primary": [],
+    "constellations_other": [],
+    "recommendations": [],
+    "title_for_label": "<p>Froggie&#8217;s gone</p>",
+    "creator_credit_for_label": "<p>Joan Robinson</p>",
+    "headline_credit_for_label": "<p>Australia, 2001</p>",
+    "description": "<p>This warmly comic documentary is about Beryl from Brunswick whose prized garden frog is stolen from her verandah. Very soon the police and the neighbours are on the trail of the thieves, everyone wanting to do their bit to ensure that Froggie comes back home where he belongs. This acclaimed short film was made by Beryl&#8217;s niece as a celebration of community, and is an example of how remembering an episode from your life can make a wonderful piece of film.</p>",
+    "description_for_label": [
+        "<p>This warmly comic documentary is about Beryl from Brunswick whose prized garden frog is stolen from her verandah. Very soon the police and the neighbours are on the trail of the thieves, everyone wanting to do their bit to ensure that Froggie comes back home where he belongs. This acclaimed short film was made by Beryl&#8217;s niece as a celebration of community, and is an example of how remembering an episode from your life can make a wonderful piece of film.</p>"
+    ],
+    "credit_line_for_label": "",
+    "details": [
+        {
+            "label": "Duration",
+            "display_values": [
+                "00:12:22:00"
+            ]
+        },
+        {
+            "label": "Language",
+            "display_values": [
+                "English"
+            ]
+        },
+        {
+            "label": "Audience classifications",
+            "display_values": [
+                "ACMI classified",
+                "Mediatheque - all ages (ACMI classified)"
+            ]
+        },
+        {
+            "label": "Subject categories",
+            "display_values": [
+                "Anthropology, Ethnology, Exploration & Travel&nbsp;→ Cities and towns",
+                "Anthropology, Ethnology, Exploration & Travel&nbsp;→ Victoria - Description and travel",
+                "Anthropology, Ethnology, Exploration & Travel&nbsp;→ Victoria - Social life and customs",
+                "Documentary",
+                "Short films",
+                "Short films&nbsp;→ Short films - Australia"
+            ]
+        },
+        {
+            "label": "Sound/audio",
+            "display_values": [
+                "Sound"
+            ]
+        },
+        {
+            "label": "Colour",
+            "display_values": [
+                "Colour"
+            ]
+        }
+    ],
+    "stats": {
+        "tap_count": 0
+    },
+    "links": [],
+    "creators_primary": [
+        {
+            "id": 1133931,
+            "name": "Joan Robinson",
+            "creator_id": 8806,
+            "role": "creator",
+            "role_id": 968,
+            "is_primary": true
+        }
+    ],
+    "creators_other": [],
+    "video_links": [],
+    "media_note": null,
+    "images": [
+        {
+            "id": 13742,
+            "image_file": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/B1004128_FroggiesGone.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=fS4KV9myioP%2FiRoY1EZkZrPmGLA%3D&Expires=1627009302",
+            "image_file_thumbnail": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/B1004128_FroggiesGone.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=6d9a87kLHjVI1tfPBfSZS%2Bq5r2o%3D&Expires=1627009302",
+            "image_file_xs": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/B1004128_FroggiesGone.jpg.480x480_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=8UJbz6B94QFogZPzAeazt%2Bd%2BsNk%3D&Expires=1627009302",
+            "image_file_s": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/B1004128_FroggiesGone.jpg.960x960_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=4Ooq7SFH8IA4zbwzv6mwjtlhxWU%3D&Expires=1627009302",
+            "image_file_m": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/B1004128_FroggiesGone.jpg.1920x1920_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=06TuZex7Cp4FNciH%2F9GETQ%2B0CYM%3D&Expires=1627009302",
+            "image_file_l": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/B1004128_FroggiesGone.jpg.3840x3840_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=SGHAAmtbfSDDHnp10nL18ORhtCQ%3D&Expires=1627009302",
+            "caption": "Froggie's gone (Joan Robinson) still",
+            "credit_line": "",
+            "alt_text": "",
+            "width": 438,
+            "height": 327,
+            "access_level": "View anywhere"
+        }
+    ],
+    "videos": [],
+    "holdings": [
+        {
+            "name": "DVCAM; Master",
+            "identifier": "",
+            "description": ""
+        },
+        {
+            "name": "MPEG-2 Digital File; ACMI Digital Access Copy - presentation",
+            "identifier": "",
+            "description": ""
+        },
+        {
+            "name": "DVD ROM; Copy",
+            "identifier": "",
+            "description": ""
+        },
+        {
+            "name": "Digital Betacam; Master",
+            "identifier": "",
+            "description": ""
+        },
+        {
+            "name": "Digital Betacam; Sub-master",
+            "identifier": "",
+            "description": ""
+        },
+        {
+            "name": "VHS [PAL]; Reference - timecoded",
+            "identifier": "",
+            "description": ""
+        },
+        {
+            "name": "VHS [PAL]; Copy",
+            "identifier": "",
+            "description": ""
+        }
+    ],
+    "part_of": null,
+    "parts": [],
+    "part_siblings": [],
+    "group": {
+        "id": 114137,
+        "acmi_id": "14184",
+        "title": "Memory Grid MAP compilation (2006)",
+        "title_annotation": "",
+        "slug": "memory-grid-map-compilation-2006",
+        "creator_credit": "",
+        "credit_line": "",
+        "headline_credit": "VIC/Australia, 2006",
+        "thumbnail": {
+            "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/B1004129_70YearsAtBrunswickBaths.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=OF5L%2F%2Bfr9ujgQfRrvWqyabHM6%2BE%3D&Expires=1627009302",
+            "has_video": false
+        },
+        "record_type": "group",
+        "type": "Film",
+        "is_on_display": false,
+        "last_on_display_place": null,
+        "last_on_display_date": null,
+        "is_context_indigenous": false,
+        "material_description": "",
+        "unpublished": false,
+        "first_production_date": "2006-01-01T11:00:00+11:00"
+    },
+    "group_works": [],
+    "group_siblings": [
+        {
+            "id": 114138,
+            "acmi_id": "1836",
+            "title": "70 years at Brunswick Baths",
+            "title_annotation": "",
+            "slug": "70-years-at-brunswick-baths",
+            "creator_credit": "Joan Robinson",
+            "credit_line": "",
+            "headline_credit": "Australia, 2002",
+            "thumbnail": {
+                "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/B1004129_70YearsAtBrunswickBaths.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=OF5L%2F%2Bfr9ujgQfRrvWqyabHM6%2BE%3D&Expires=1627009302",
+                "has_video": false
+            },
+            "record_type": "work",
+            "type": "Film",
+            "is_on_display": false,
+            "last_on_display_place": "ACMI Viewing Booths",
+            "last_on_display_date": "2019-04-22",
+            "is_context_indigenous": false,
+            "material_description": "",
+            "unpublished": false,
+            "first_production_date": "2002-01-01T11:00:00+11:00"
+        },
+        {
+            "id": 114139,
+            "acmi_id": "1926",
+            "title": "Ararat",
+            "title_annotation": "",
+            "slug": "ararat",
+            "creator_credit": "Noel Matthews",
+            "credit_line": "",
+            "headline_credit": "Australia, 1930",
+            "thumbnail": {
+                "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/B1004695_WestbourneGrove.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=BYGzXatizrIyRTqwWLDDP%2Fsu4TM%3D&Expires=1627009302",
+                "has_video": false
+            },
+            "record_type": "work",
+            "type": "Film",
+            "is_on_display": false,
+            "last_on_display_place": "ACMI Viewing Booths",
+            "last_on_display_date": "2019-04-22",
+            "is_context_indigenous": false,
+            "material_description": "",
+            "unpublished": false,
+            "first_production_date": "1930-01-01T10:00:00+10:00"
+        },
+        {
+            "id": 114140,
+            "acmi_id": "1838",
+            "title": "Carpark",
+            "title_annotation": "",
+            "slug": "carpark",
+            "creator_credit": "Michael Carmody",
+            "credit_line": "",
+            "headline_credit": "VIC/Australia, 2001",
+            "thumbnail": null,
+            "record_type": "work",
+            "type": "Film",
+            "is_on_display": false,
+            "last_on_display_place": null,
+            "last_on_display_date": null,
+            "is_context_indigenous": false,
+            "material_description": "",
+            "unpublished": false,
+            "first_production_date": "2001-01-01T11:00:00+11:00"
+        },
+        {
+            "id": 114141,
+            "acmi_id": "1920",
+            "title": "Cohuna celebrates the coronation of QE II",
+            "title_annotation": "",
+            "slug": "cohuna-celebrates-the-coronation-of-qe-ii",
+            "creator_credit": "Cohuna Historical Society Productions",
+            "credit_line": "",
+            "headline_credit": "Australia, 1952",
+            "thumbnail": null,
+            "record_type": "work",
+            "type": "Film",
+            "is_on_display": false,
+            "last_on_display_place": null,
+            "last_on_display_date": null,
+            "is_context_indigenous": false,
+            "material_description": "",
+            "unpublished": false,
+            "first_production_date": "1952-01-01T10:00:00+10:00"
+        },
+        {
+            "id": 114142,
+            "acmi_id": "2181",
+            "title": "Eucalyptus oil distillery [excerpt]",
+            "title_annotation": "",
+            "slug": "eucalyptus-oil-distillery-excerpt",
+            "creator_credit": "Philip Ashton",
+            "credit_line": "",
+            "headline_credit": "Australia, 1983",
+            "thumbnail": {
+                "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/B1005341full.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=z7CRFsNrjeK5M49cApNuWSOl4rU%3D&Expires=1627009302",
+                "has_video": false
+            },
+            "record_type": "work",
+            "type": "Film",
+            "is_on_display": false,
+            "last_on_display_place": null,
+            "last_on_display_date": null,
+            "is_context_indigenous": false,
+            "material_description": "",
+            "unpublished": false,
+            "first_production_date": "1983-01-01T11:00:00+11:00"
+        },
+        {
+            "id": 114143,
+            "acmi_id": "2182",
+            "title": "First job after leaving school (c.1916)",
+            "title_annotation": "",
+            "slug": "first-job-after-leaving-school-c1916",
+            "creator_credit": "Philip Ashton",
+            "credit_line": "",
+            "headline_credit": "Australia, 1991",
+            "thumbnail": {
+                "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/B1005342fulll.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=7SmvZ%2BF1ofCzlJ4JDbX2bAQPgyw%3D&Expires=1627009302",
+                "has_video": false
+            },
+            "record_type": "work",
+            "type": "Film",
+            "is_on_display": false,
+            "last_on_display_place": null,
+            "last_on_display_date": null,
+            "is_context_indigenous": false,
+            "material_description": "",
+            "unpublished": false,
+            "first_production_date": "1991-01-01T11:00:00+11:00"
+        },
+        {
+            "id": 114144,
+            "acmi_id": "1929",
+            "title": "Frank's cowshed",
+            "title_annotation": "",
+            "slug": "franks-cowshed",
+            "creator_credit": "Tom Olsson",
+            "credit_line": "",
+            "headline_credit": "Australia, 1952",
+            "thumbnail": {
+                "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/B1004743full.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=2sQ3iPqABk9nplbWaam36A0d3ps%3D&Expires=1627009302",
+                "has_video": false
+            },
+            "record_type": "work",
+            "type": "Film",
+            "is_on_display": false,
+            "last_on_display_place": "ACMI Viewing Booths",
+            "last_on_display_date": "2019-04-22",
+            "is_context_indigenous": false,
+            "material_description": "",
+            "unpublished": false,
+            "first_production_date": "1952-01-01T10:00:00+10:00"
+        },
+        {
+            "id": 114145,
+            "acmi_id": "12008",
+            "title": "Geelong",
+            "title_annotation": "",
+            "slug": "geelong",
+            "creator_credit": "",
+            "credit_line": "",
+            "headline_credit": "Australia, 2002",
+            "thumbnail": {
+                "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/B1005338_Geelong.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=McVJGdCNDrHpZbrw7PBmpF10GUA%3D&Expires=1627009302",
+                "has_video": false
+            },
+            "record_type": "work",
+            "type": "Film",
+            "is_on_display": false,
+            "last_on_display_place": "ACMI Viewing Booths",
+            "last_on_display_date": "2019-04-22",
+            "is_context_indigenous": false,
+            "material_description": "",
+            "unpublished": false,
+            "first_production_date": "2002-01-01T11:00:00+11:00"
+        },
+        {
+            "id": 114136,
+            "acmi_id": "1923",
+            "title": "Lygon Street",
+            "title_annotation": "",
+            "slug": "lygon-street",
+            "creator_credit": "Michael Carmody and Amaara Raheem",
+            "credit_line": "",
+            "headline_credit": "Australia, 2002",
+            "thumbnail": {
+                "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/B1004705_LygonStreet.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=R7QQp1t2hdTWMBEnu4PpqjZ5lF0%3D&Expires=1627009302",
+                "has_video": false
+            },
+            "record_type": "work",
+            "type": "Film",
+            "is_on_display": false,
+            "last_on_display_place": "ACMI Viewing Booths",
+            "last_on_display_date": "2019-04-22",
+            "is_context_indigenous": false,
+            "material_description": "",
+            "unpublished": false,
+            "first_production_date": "2002-01-01T11:00:00+11:00"
+        },
+        {
+            "id": 114147,
+            "acmi_id": "2461",
+            "title": "Prism of purpose",
+            "title_annotation": "",
+            "slug": "prism-of-purpose",
+            "creator_credit": "Alexandra Lyall",
+            "credit_line": "",
+            "headline_credit": "VIC/Australia, 2002",
+            "thumbnail": null,
+            "record_type": "work",
+            "type": "Film",
+            "is_on_display": false,
+            "last_on_display_place": null,
+            "last_on_display_date": null,
+            "is_context_indigenous": false,
+            "material_description": "",
+            "unpublished": false,
+            "first_production_date": "2002-01-01T11:00:00+11:00"
+        },
+        {
+            "id": 114151,
+            "acmi_id": "2180",
+            "title": "Red line",
+            "title_annotation": "",
+            "slug": "red-line",
+            "creator_credit": "Michael Carmody",
+            "credit_line": "",
+            "headline_credit": "Australia, 2002",
+            "thumbnail": {
+                "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/B1005339_RedLine.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=W5tR4QNRz63sKLKcxvj6yKVUuJQ%3D&Expires=1627009302",
+                "has_video": false
+            },
+            "record_type": "work",
+            "type": "Film",
+            "is_on_display": false,
+            "last_on_display_place": "ACMI Viewing Booths",
+            "last_on_display_date": "2019-04-22",
+            "is_context_indigenous": false,
+            "material_description": "",
+            "unpublished": false,
+            "first_production_date": "2002-01-01T11:00:00+11:00"
+        },
+        {
+            "id": 114152,
+            "acmi_id": "1839",
+            "title": "reLOCATED - Mr and Mrs Kemp",
+            "title_annotation": "",
+            "slug": "relocated-mr-and-mrs-kemp",
+            "creator_credit": "Angela Costi and Angela Bailey",
+            "credit_line": "",
+            "headline_credit": "Australia, 2002",
+            "thumbnail": {
+                "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/B1004132_RelocatedMrAndMrsKemp.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=V6NlPYEsaXTI2iAx%2BVQspu89Wc8%3D&Expires=1627009302",
+                "has_video": false
+            },
+            "record_type": "work",
+            "type": "Film",
+            "is_on_display": false,
+            "last_on_display_place": "ACMI Viewing Booths",
+            "last_on_display_date": "2019-04-22",
+            "is_context_indigenous": false,
+            "material_description": "",
+            "unpublished": false,
+            "first_production_date": "2002-01-01T11:00:00+11:00"
+        },
+        {
+            "id": 114153,
+            "acmi_id": "1919",
+            "title": "reLOCATED - The Venny kids",
+            "title_annotation": "",
+            "slug": "relocated-the-venny-kids",
+            "creator_credit": "Angela Bailey and Angela Costi",
+            "credit_line": "",
+            "headline_credit": "VIC/Australia, 2002",
+            "thumbnail": {
+                "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/B1004685full.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=ozZIe9DJ5CWFobu1kyOvznx0vDE%3D&Expires=1627009302",
+                "has_video": false
+            },
+            "record_type": "work",
+            "type": "Film",
+            "is_on_display": false,
+            "last_on_display_place": null,
+            "last_on_display_date": null,
+            "is_context_indigenous": false,
+            "material_description": "",
+            "unpublished": false,
+            "first_production_date": "2002-01-01T11:00:00+11:00"
+        },
+        {
+            "id": 114154,
+            "acmi_id": "1837",
+            "title": "Stack",
+            "title_annotation": "",
+            "slug": "stack",
+            "creator_credit": "Ros Bandt",
+            "credit_line": "",
+            "headline_credit": "Australia, 2001",
+            "thumbnail": {
+                "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/B1004130_Stack.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=N0euA9CfTk%2Bmx%2Fe4KOSoR7LXQf8%3D&Expires=1627009302",
+                "has_video": false
+            },
+            "record_type": "work",
+            "type": "Film",
+            "is_on_display": false,
+            "last_on_display_place": "ACMI Viewing Booths",
+            "last_on_display_date": "2019-04-22",
+            "is_context_indigenous": false,
+            "material_description": "",
+            "unpublished": false,
+            "first_production_date": "2001-01-01T11:00:00+11:00"
+        },
+        {
+            "id": 114146,
+            "acmi_id": "1922",
+            "title": "The Posidon Rush - Jack Flett",
+            "title_annotation": "",
+            "slug": "the-posidon-rush-jack-flett",
+            "creator_credit": "Philip Ashton",
+            "credit_line": "",
+            "headline_credit": "Australia, 1986",
+            "thumbnail": null,
+            "record_type": "work",
+            "type": "Film",
+            "is_on_display": false,
+            "last_on_display_place": null,
+            "last_on_display_date": null,
+            "is_context_indigenous": false,
+            "material_description": "",
+            "unpublished": false,
+            "first_production_date": "1986-01-01T11:00:00+11:00"
+        },
+        {
+            "id": 114155,
+            "acmi_id": "2183",
+            "title": "This little pig went to market",
+            "title_annotation": "",
+            "slug": "this-little-pig-went-to-market",
+            "creator_credit": "Sue Jarvis",
+            "credit_line": "",
+            "headline_credit": "Australia, 1970",
+            "thumbnail": {
+                "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/B1005343full.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=6hFV24MprLjP%2B%2F31fJxMN7589iA%3D&Expires=1627009302",
+                "has_video": false
+            },
+            "record_type": "work",
+            "type": "Film",
+            "is_on_display": false,
+            "last_on_display_place": null,
+            "last_on_display_date": null,
+            "is_context_indigenous": false,
+            "material_description": "",
+            "unpublished": false,
+            "first_production_date": "1970-01-01T10:00:00+10:00"
+        },
+        {
+            "id": 114156,
+            "acmi_id": "11643",
+            "title": "Tom Olsson's Cohuna",
+            "title_annotation": "",
+            "slug": "tom-olssons-cohuna",
+            "creator_credit": "Cohuna Historical Society Productions",
+            "credit_line": "",
+            "headline_credit": "Australia, 1952",
+            "thumbnail": null,
+            "record_type": "work",
+            "type": "Film",
+            "is_on_display": false,
+            "last_on_display_place": null,
+            "last_on_display_date": null,
+            "is_context_indigenous": false,
+            "material_description": "",
+            "unpublished": false,
+            "first_production_date": "1952-01-01T10:00:00+10:00"
+        },
+        {
+            "id": 114157,
+            "acmi_id": "1921",
+            "title": "Westbourne Grove",
+            "title_annotation": "",
+            "slug": "westbourne-grove",
+            "creator_credit": "Fiona Vivian and Michael Carmody",
+            "credit_line": "",
+            "headline_credit": "Australia, 2002",
+            "thumbnail": {
+                "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/B1004695full.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=8GNKqtFrR0h9%2BL9unut0wxbP7ys%3D&Expires=1627009302",
+                "has_video": false
+            },
+            "record_type": "work",
+            "type": "Film",
+            "is_on_display": false,
+            "last_on_display_place": "ACMI Viewing Booths",
+            "last_on_display_date": "2019-04-22",
+            "is_context_indigenous": false,
+            "material_description": "",
+            "unpublished": false,
+            "first_production_date": "2002-01-01T11:00:00+11:00"
+        }
+    ],
+    "source": {
+        "name": "Vernon",
+        "slug": "vernon"
+    },
+    "source_identifier": "1835",
+    "production_places": [
+        {
+            "id": 3,
+            "name": "Australia",
+            "slug": "australia"
+        }
+    ],
+    "production_dates": [
+        {
+            "date": "2001",
+            "notes": "",
+            "to_year": "2001"
+        }
+    ],
+    "labels": [
+        53625
+    ]
+}

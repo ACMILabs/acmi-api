@@ -1,0 +1,130 @@
+{
+    "id": 108684,
+    "acmi_id": "10440",
+    "title": "Martine Corompt compilation",
+    "title_annotation": "",
+    "slug": "martine-corompt-compilation",
+    "creator_credit": "Martine Corompt",
+    "credit_line": "",
+    "headline_credit": "1998-2001",
+    "thumbnail": null,
+    "record_type": "group",
+    "type": "Film",
+    "is_on_display": false,
+    "last_on_display_place": null,
+    "last_on_display_date": null,
+    "is_context_indigenous": false,
+    "material_description": "",
+    "unpublished": true,
+    "first_production_date": null,
+    "brief_description": "",
+    "constellations_primary": [],
+    "constellations_other": [],
+    "recommendations": [],
+    "title_for_label": "<p>Martine Corompt compilation</p>",
+    "creator_credit_for_label": "<p>Martine Corompt</p>",
+    "headline_credit_for_label": "<p>1998-2001</p>",
+    "description": "",
+    "description_for_label": [],
+    "credit_line_for_label": "",
+    "details": [],
+    "stats": {
+        "tap_count": 0
+    },
+    "links": [],
+    "creators_primary": [
+        {
+            "id": 1133741,
+            "name": "Martine Corompt",
+            "creator_id": 7116,
+            "role": "creator",
+            "role_id": 968,
+            "is_primary": true
+        }
+    ],
+    "creators_other": [],
+    "video_links": [],
+    "media_note": "Sorry, we don't have images or video for this item.",
+    "images": [],
+    "videos": [],
+    "holdings": [
+        {
+            "name": "Mini DV; Master",
+            "identifier": "",
+            "description": ""
+        },
+        {
+            "name": "Digital Betacam; Sub-master",
+            "identifier": "",
+            "description": ""
+        },
+        {
+            "name": "VHS [PAL]; Reference - timecoded",
+            "identifier": "",
+            "description": ""
+        }
+    ],
+    "part_of": null,
+    "parts": [],
+    "part_siblings": [],
+    "group": null,
+    "group_works": [
+        {
+            "id": 108683,
+            "acmi_id": "1809",
+            "title": "Pet shop",
+            "title_annotation": "",
+            "slug": "pet-shop",
+            "creator_credit": "Martine Corompt",
+            "credit_line": "",
+            "headline_credit": "Australia, 1998",
+            "thumbnail": null,
+            "record_type": "work",
+            "type": "Film",
+            "is_on_display": false,
+            "last_on_display_place": null,
+            "last_on_display_date": null,
+            "is_context_indigenous": false,
+            "material_description": "",
+            "unpublished": false,
+            "first_production_date": "1998-01-01T11:00:00+11:00"
+        },
+        {
+            "id": 108686,
+            "acmi_id": "1811",
+            "title": "This is my world",
+            "title_annotation": "",
+            "slug": "this-is-my-world",
+            "creator_credit": "Martine Corompt",
+            "credit_line": "",
+            "headline_credit": "Australia, 2001",
+            "thumbnail": null,
+            "record_type": "work",
+            "type": "Film",
+            "is_on_display": false,
+            "last_on_display_place": null,
+            "last_on_display_date": null,
+            "is_context_indigenous": false,
+            "material_description": "",
+            "unpublished": false,
+            "first_production_date": "2001-01-01T11:00:00+11:00"
+        }
+    ],
+    "group_siblings": [],
+    "source": {
+        "name": "Vernon",
+        "slug": "vernon"
+    },
+    "source_identifier": "10440",
+    "production_places": [],
+    "production_dates": [
+        {
+            "date": "1998-2001",
+            "notes": "",
+            "to_year": "1998-2001"
+        }
+    ],
+    "labels": [
+        48177
+    ]
+}

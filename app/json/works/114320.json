@@ -1,0 +1,581 @@
+{
+    "id": 114320,
+    "acmi_id": "15208",
+    "title": "Jidi",
+    "title_annotation": "",
+    "slug": "jidi",
+    "creator_credit": "Stephen Pascoe, ACMI Digital Storytelling and ACMI",
+    "credit_line": "",
+    "headline_credit": "Australia, 2007",
+    "thumbnail": {
+        "image_url": "https://xos-prod-media.s3.amazonaws.com/media/snapshot_1642_53s.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=s0OxVKkJbbBkzyI0NHDM%2F18gXTo%3D&Expires=1627009289",
+        "animated_image_url": "",
+        "has_video": true
+    },
+    "record_type": "work",
+    "type": "Film",
+    "is_on_display": false,
+    "last_on_display_place": "ACMI Viewing Booths",
+    "last_on_display_date": "2019-04-22",
+    "is_context_indigenous": false,
+    "material_description": "",
+    "unpublished": false,
+    "first_production_date": "2007-01-01T11:00:00+11:00",
+    "brief_description": "<p>When Stephen Pascoe&#8217;s grandfather was diagnosed with cancer, he and his sister decided to preserve his memories by filming an interview with him.</p>",
+    "constellations_primary": [],
+    "constellations_other": [],
+    "recommendations": [],
+    "title_for_label": "<p>Jidi</p>",
+    "creator_credit_for_label": "<p>Stephen Pascoe, ACMI Digital Storytelling and ACMI</p>",
+    "headline_credit_for_label": "<p>Australia, 2007</p>",
+    "description": "<p>When Stephen Pascoe&#8217;s grandfather was diagnosed with cancer, he and his sister decided to preserve his memories by filming an interview with him.</p>",
+    "description_for_label": [
+        "<p>When Stephen Pascoe&#8217;s grandfather was diagnosed with cancer, he and his sister decided to preserve his memories by filming an interview with him.</p>"
+    ],
+    "credit_line_for_label": "",
+    "details": [
+        {
+            "label": "Duration",
+            "display_values": [
+                "00:02:41:00"
+            ]
+        },
+        {
+            "label": "Language",
+            "display_values": [
+                "English"
+            ]
+        },
+        {
+            "label": "Audience classifications",
+            "display_values": [
+                "ACMI classified",
+                "Mediatheque - all ages (ACMI classified)"
+            ]
+        },
+        {
+            "label": "Subject categories",
+            "display_values": [
+                "Anthropology, Ethnology, Exploration & Travel&nbsp;→ Emigration and immigration - Psychological aspects",
+                "Anthropology, Ethnology, Exploration & Travel&nbsp;→ Lebanese - Australia",
+                "Biographical",
+                "Digital Storytelling",
+                "Documentary",
+                "Documentary&nbsp;→ Documentary films - Australia",
+                "Economics, Philosophy, Politics, Religion & Sociology&nbsp;→ Australia - Emigration and immigration",
+                "Economics, Philosophy, Politics, Religion & Sociology&nbsp;→ Emigration and immigration - Psychological aspects",
+                "Economics, Philosophy, Politics, Religion & Sociology&nbsp;→ Immigrants - Australia",
+                "Economics, Philosophy, Politics, Religion & Sociology&nbsp;→ Lebanese - Australia",
+                "Family, Gender Identity, Relationships & Sexuality&nbsp;→ Children - Family relationships",
+                "Family, Gender Identity, Relationships & Sexuality&nbsp;→ Children of immigrants",
+                "Family, Gender Identity, Relationships & Sexuality&nbsp;→ Family",
+                "Family, Gender Identity, Relationships & Sexuality&nbsp;→ Family - Australia",
+                "Family, Gender Identity, Relationships & Sexuality&nbsp;→ Grandparents",
+                "Food, Health, Lifestyle, Medicine, Psychology & Safety&nbsp;→ Cancer - Psychological aspects",
+                "Food, Health, Lifestyle, Medicine, Psychology & Safety&nbsp;→ Lungs - Cancer",
+                "Food, Health, Lifestyle, Medicine, Psychology & Safety&nbsp;→ Memory",
+                "People&nbsp;→ Autobiographical memory",
+                "People&nbsp;→ Immigrants",
+                "Places&nbsp;→ Lebanon",
+                "Short films",
+                "Short films&nbsp;→ Short films - Australia"
+            ]
+        },
+        {
+            "label": "Sound/audio",
+            "display_values": [
+                "Sound"
+            ]
+        },
+        {
+            "label": "Colour",
+            "display_values": [
+                "Black and White and Colour"
+            ]
+        }
+    ],
+    "stats": {
+        "tap_count": 0
+    },
+    "links": [],
+    "creators_primary": [
+        {
+            "id": 1133978,
+            "name": "Stephen Pascoe",
+            "creator_id": 11763,
+            "role": "creator",
+            "role_id": 968,
+            "is_primary": true
+        },
+        {
+            "id": 1133977,
+            "name": "ACMI Digital Storytelling",
+            "creator_id": 10590,
+            "role": "producer",
+            "role_id": 960,
+            "is_primary": true
+        },
+        {
+            "id": 1133975,
+            "name": "ACMI",
+            "creator_id": 6272,
+            "role": "production company",
+            "role_id": 941,
+            "is_primary": true
+        }
+    ],
+    "creators_other": [
+        {
+            "id": 1133976,
+            "name": "Arts Victoria",
+            "creator_id": 11250,
+            "role": "support",
+            "role_id": 492,
+            "is_primary": false
+        }
+    ],
+    "video_links": [
+        {
+            "id": 414,
+            "name": "ACMI External Digital Access Copy",
+            "uri": "https://youtu.be/yviAcGcMyE0"
+        }
+    ],
+    "media_note": null,
+    "images": [
+        {
+            "id": 13949,
+            "image_file": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/B2000981_Jidi.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=%2FQc3jjAY2ehYzcm3dDR%2Fd3xRs2o%3D&Expires=1627009289",
+            "image_file_thumbnail": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/B2000981_Jidi.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=vSzNcDaCq2VarvlRlEGqpluqTD0%3D&Expires=1627009289",
+            "image_file_xs": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/B2000981_Jidi.jpg.480x480_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=Fi3gMwB2GRSYwZLKUj9FDu2wH3w%3D&Expires=1627009289",
+            "image_file_s": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/B2000981_Jidi.jpg.960x960_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=gvN8fWRkrGAvXZeiz7DJa%2Ffkt0k%3D&Expires=1627009289",
+            "image_file_m": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/B2000981_Jidi.jpg.1920x1920_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=IQUS7EkZe%2Bw0Nbt10nBD9cnz3sQ%3D&Expires=1627009289",
+            "image_file_l": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/B2000981_Jidi.jpg.3840x3840_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=bpNsyFI1r4q%2F%2FScvRop%2FzLkGRbY%3D&Expires=1627009289",
+            "caption": "Jidi (ACMI) still",
+            "credit_line": "",
+            "alt_text": "",
+            "width": 438,
+            "height": 327,
+            "access_level": "View anywhere"
+        }
+    ],
+    "videos": [
+        {
+            "id": 1642,
+            "title": "B2000981_Jidi.mov",
+            "resource": "https://xos-prod-media.s3.amazonaws.com/media/a_B2000981_Jidi.mp4?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=rfpiXHgwrCu0USF9uz6QWyhdtyw%3D&Expires=1627009289",
+            "web_resource": "https://xos-prod-media.s3.amazonaws.com/media/w_B2000981_Jidi.mp4?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=QHSz5IDwVWnOhEETzAu4Da0kCFA%3D&Expires=1627009289",
+            "duration_secs": 161.72,
+            "subtitles": null,
+            "master_metadata": {
+                "title": "B2000981_Jidi",
+                "width": 768,
+                "height": 576,
+                "checksum": "f364696ae9c86e9c230196e9134ef54f",
+                "filetype": "m",
+                "mime_type": "video/quicktime",
+                "vernon_id": "",
+                "audio_codec": "aac",
+                "video_codec": "h264",
+                "duration_hms": "00:02:41:18",
+                "duration_secs": 161.72,
+                "audio_bit_rate": 102452,
+                "audio_channels": 2,
+                "video_bit_rate": 6913996,
+                "file_size_bytes": 141874085,
+                "overall_bit_rate": 7018257,
+                "video_frame_rate": 25.0,
+                "audio_sample_rate": 44100,
+                "creation_datetime": "2010-08-06 01:55:19+00:00",
+                "audio_max_bit_rate": 128000,
+                "video_max_bit_rate": null
+            },
+            "access_metadata": {
+                "title": "B2000981_Jidi",
+                "width": 768,
+                "height": 576,
+                "checksum": "6188340b91e8a782d945f629d0bcd551",
+                "filetype": "a",
+                "mime_type": "video/mp4",
+                "vernon_id": "",
+                "audio_codec": "aac",
+                "video_codec": "h264",
+                "duration_hms": "00:02:41:19",
+                "duration_secs": 161.751,
+                "audio_bit_rate": 133077,
+                "audio_channels": 2,
+                "video_bit_rate": 377438,
+                "file_size_bytes": 10455471,
+                "overall_bit_rate": 517114,
+                "video_frame_rate": 25.0,
+                "audio_sample_rate": 44100,
+                "creation_datetime": "2020-10-28 15:39:45.821847+11:00",
+                "audio_max_bit_rate": 133077,
+                "video_max_bit_rate": null
+            },
+            "web_metadata": {
+                "title": "B2000981_Jidi",
+                "width": 768,
+                "height": 576,
+                "checksum": "fd41bac658bf32b88c98f193eb50ad1c",
+                "filetype": "w",
+                "mime_type": "video/mp4",
+                "vernon_id": "",
+                "audio_codec": "aac",
+                "video_codec": "h264",
+                "duration_hms": "00:02:41:19",
+                "duration_secs": 161.751,
+                "audio_bit_rate": 133077,
+                "audio_channels": 2,
+                "video_bit_rate": 163237,
+                "file_size_bytes": 6125392,
+                "overall_bit_rate": 302954,
+                "video_frame_rate": 25.0,
+                "audio_sample_rate": 44100,
+                "creation_datetime": "2020-10-28 15:40:42.985942+11:00",
+                "audio_max_bit_rate": 133077,
+                "video_max_bit_rate": null
+            },
+            "access_level": "View anywhere",
+            "snapshot": "https://xos-prod-media.s3.amazonaws.com/media/snapshot_1642_53s.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=s0OxVKkJbbBkzyI0NHDM%2F18gXTo%3D&Expires=1627009289",
+            "animated_snapshot": ""
+        }
+    ],
+    "holdings": [
+        {
+            "name": "DVCAM; Master",
+            "identifier": "",
+            "description": ""
+        },
+        {
+            "name": "MOV file H264; ACMI Digital Access Copy - presentation",
+            "identifier": "",
+            "description": ""
+        },
+        {
+            "name": "DVCAM; Sub-master",
+            "identifier": "",
+            "description": ""
+        },
+        {
+            "name": "MOV file H264; ACMI External Digital Access Copy",
+            "identifier": "",
+            "description": ""
+        }
+    ],
+    "part_of": null,
+    "parts": [],
+    "part_siblings": [],
+    "group": {
+        "id": 114315,
+        "acmi_id": "14997",
+        "title": "Stories from the Lebanese community: A Digital Storytelling project",
+        "title_annotation": "",
+        "slug": "stories-from-the-lebanese-community-a-digital-storytelling-project",
+        "creator_credit": "ACMI",
+        "credit_line": "",
+        "headline_credit": "Australia, 2007",
+        "thumbnail": {
+            "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/B2000919_ElAjnabi.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=mm5w2zNJBldyq9JfzDMsZg9RcB4%3D&Expires=1627009289",
+            "has_video": false
+        },
+        "record_type": "group",
+        "type": "Film",
+        "is_on_display": false,
+        "last_on_display_place": null,
+        "last_on_display_date": null,
+        "is_context_indigenous": false,
+        "material_description": "",
+        "unpublished": false,
+        "first_production_date": "2007-01-01T11:00:00+11:00"
+    },
+    "group_works": [],
+    "group_siblings": [
+        {
+            "id": 114314,
+            "acmi_id": "14996",
+            "title": "El Ajnabi",
+            "title_annotation": "",
+            "slug": "el-ajnabi",
+            "creator_credit": "Raymond Nashar, ACMI Digital Storytelling and ACMI",
+            "credit_line": "",
+            "headline_credit": "Australia, 2007",
+            "thumbnail": {
+                "image_url": "https://xos-prod-media.s3.amazonaws.com/media/snapshot_1702_54s.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=L1JW%2BqzkARBW9iM0ssdFAGm8jfs%3D&Expires=1627009289",
+                "animated_image_url": "",
+                "has_video": true
+            },
+            "record_type": "work",
+            "type": "Film",
+            "is_on_display": false,
+            "last_on_display_place": "ACMI Viewing Booths",
+            "last_on_display_date": "2019-04-22",
+            "is_context_indigenous": false,
+            "material_description": "",
+            "unpublished": false,
+            "first_production_date": "2007-01-01T11:00:00+11:00"
+        },
+        {
+            "id": 114317,
+            "acmi_id": "15209",
+            "title": "Footprints on the Mountains",
+            "title_annotation": "",
+            "slug": "footprints-on-the-mountains",
+            "creator_credit": "Denise Mack, ACMI Digital Storytelling and ACMI",
+            "credit_line": "",
+            "headline_credit": "Australia, 2007",
+            "thumbnail": {
+                "image_url": "https://xos-prod-media.s3.amazonaws.com/media/snapshot_1577_54s.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=xREY5VHJk%2BM9mXcva7fTkiZYHlE%3D&Expires=1627009289",
+                "animated_image_url": "",
+                "has_video": true
+            },
+            "record_type": "work",
+            "type": "Film",
+            "is_on_display": false,
+            "last_on_display_place": "ACMI Viewing Booths",
+            "last_on_display_date": "2019-04-22",
+            "is_context_indigenous": false,
+            "material_description": "",
+            "unpublished": false,
+            "first_production_date": "2007-01-01T11:00:00+11:00"
+        },
+        {
+            "id": 114318,
+            "acmi_id": "15199",
+            "title": "Hello Darling",
+            "title_annotation": "",
+            "slug": "hello-darling",
+            "creator_credit": "Mike Helal, ACMI Digital Storytelling and ACMI",
+            "credit_line": "",
+            "headline_credit": "Australia, 2007",
+            "thumbnail": {
+                "image_url": "https://xos-prod-media.s3.amazonaws.com/media/snapshot_1488_50s.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=9T3ZfOATSZuA%2FIKJbEpWJpnG9sg%3D&Expires=1627009289",
+                "animated_image_url": "",
+                "has_video": true
+            },
+            "record_type": "work",
+            "type": "Film",
+            "is_on_display": false,
+            "last_on_display_place": "ACMI Viewing Booths",
+            "last_on_display_date": "2019-04-22",
+            "is_context_indigenous": false,
+            "material_description": "",
+            "unpublished": false,
+            "first_production_date": "2007-01-01T11:00:00+11:00"
+        },
+        {
+            "id": 114319,
+            "acmi_id": "15207",
+            "title": "Hyper-Ballad",
+            "title_annotation": "",
+            "slug": "hyper-ballad",
+            "creator_credit": "Firas Massouh, ACMI Digital Storytelling and ACMI",
+            "credit_line": "",
+            "headline_credit": "Australia, 2007",
+            "thumbnail": {
+                "image_url": "https://xos-prod-media.s3.amazonaws.com/media/snapshot_1567_48s.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=gQPcZFGQ9uwXET71Bw293om0Fuk%3D&Expires=1627009289",
+                "animated_image_url": "",
+                "has_video": true
+            },
+            "record_type": "work",
+            "type": "Film",
+            "is_on_display": false,
+            "last_on_display_place": "ACMI Viewing Booths",
+            "last_on_display_date": "2019-04-22",
+            "is_context_indigenous": false,
+            "material_description": "",
+            "unpublished": false,
+            "first_production_date": "2007-01-01T11:00:00+11:00"
+        },
+        {
+            "id": 114321,
+            "acmi_id": "15198",
+            "title": "Like Father Like Son",
+            "title_annotation": "",
+            "slug": "like-father-like-son",
+            "creator_credit": "Mounir Kiwan, ACMI Digital Storytelling and ACMI",
+            "credit_line": "",
+            "headline_credit": "Australia, 2007",
+            "thumbnail": {
+                "image_url": "https://xos-prod-media.s3.amazonaws.com/media/snapshot_1862_44s.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=GaFWqwTL6a2srZRSDECM52YYUpY%3D&Expires=1627009289",
+                "animated_image_url": "",
+                "has_video": true
+            },
+            "record_type": "work",
+            "type": "Film",
+            "is_on_display": false,
+            "last_on_display_place": "ACMI Viewing Booths",
+            "last_on_display_date": "2019-04-22",
+            "is_context_indigenous": false,
+            "material_description": "",
+            "unpublished": false,
+            "first_production_date": "2007-01-01T11:00:00+11:00"
+        },
+        {
+            "id": 114322,
+            "acmi_id": "15012",
+            "title": "Loving Lebanon and Australia",
+            "title_annotation": "",
+            "slug": "loving-lebanon-and-australia",
+            "creator_credit": "Sam Haddad, ACMI Digital Storytelling and ACMI",
+            "credit_line": "",
+            "headline_credit": "Australia, 2007",
+            "thumbnail": {
+                "image_url": "https://xos-prod-media.s3.amazonaws.com/media/snapshot_1533_71s.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=zqQJ2fkNr3PDmVsbsx%2Ft3uqwhkc%3D&Expires=1627009289",
+                "animated_image_url": "",
+                "has_video": true
+            },
+            "record_type": "work",
+            "type": "Film",
+            "is_on_display": false,
+            "last_on_display_place": "ACMI Viewing Booths",
+            "last_on_display_date": "2019-04-22",
+            "is_context_indigenous": false,
+            "material_description": "",
+            "unpublished": false,
+            "first_production_date": "2007-01-01T11:00:00+11:00"
+        },
+        {
+            "id": 114316,
+            "acmi_id": "15013",
+            "title": "The Affliction of Memory",
+            "title_annotation": "",
+            "slug": "the-affliction-of-memory",
+            "creator_credit": "Zeina Zogheib, ACMI Digital Storytelling and ACMI",
+            "credit_line": "",
+            "headline_credit": "Australia, 2007",
+            "thumbnail": {
+                "image_url": "https://xos-prod-media.s3.amazonaws.com/media/snapshot_1832_59s.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=Ihua1cihFPqzdyxtjLPRuFTXqT4%3D&Expires=1627009289",
+                "animated_image_url": "",
+                "has_video": true
+            },
+            "record_type": "work",
+            "type": "Film",
+            "is_on_display": false,
+            "last_on_display_place": "ACMI Viewing Booths",
+            "last_on_display_date": "2019-04-22",
+            "is_context_indigenous": false,
+            "material_description": "",
+            "unpublished": false,
+            "first_production_date": "2007-01-01T11:00:00+11:00"
+        },
+        {
+            "id": 114323,
+            "acmi_id": "15196",
+            "title": "The Sky is Bluer",
+            "title_annotation": "",
+            "slug": "the-sky-is-bluer",
+            "creator_credit": "Nadine Samaha, ACMI Digital Storytelling and ACMI",
+            "credit_line": "",
+            "headline_credit": "Australia, 2007",
+            "thumbnail": {
+                "image_url": "https://xos-prod-media.s3.amazonaws.com/media/snapshot_1667_56s.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=dnFF9Gv4Utrc5YT9Ahn6d%2Fi%2Fw6M%3D&Expires=1627009289",
+                "animated_image_url": "",
+                "has_video": true
+            },
+            "record_type": "work",
+            "type": "Film",
+            "is_on_display": false,
+            "last_on_display_place": "ACMI Viewing Booths",
+            "last_on_display_date": "2019-04-22",
+            "is_context_indigenous": false,
+            "material_description": "",
+            "unpublished": false,
+            "first_production_date": "2007-01-01T11:00:00+11:00"
+        },
+        {
+            "id": 114324,
+            "acmi_id": "15014",
+            "title": "The Spaces in Between",
+            "title_annotation": "",
+            "slug": "the-spaces-in-between",
+            "creator_credit": "Carla Pascoe, ACMI Digital Storytelling and ACMI",
+            "credit_line": "",
+            "headline_credit": "Australia, 2007",
+            "thumbnail": {
+                "image_url": "https://xos-prod-media.s3.amazonaws.com/media/snapshot_1637_62s.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=2ZVzSFKtd3KrB8iD9L%2Bvq1eaLU8%3D&Expires=1627009289",
+                "animated_image_url": "",
+                "has_video": true
+            },
+            "record_type": "work",
+            "type": "Film",
+            "is_on_display": false,
+            "last_on_display_place": "ACMI Viewing Booths",
+            "last_on_display_date": "2019-04-22",
+            "is_context_indigenous": false,
+            "material_description": "",
+            "unpublished": false,
+            "first_production_date": "2007-01-01T11:00:00+11:00"
+        },
+        {
+            "id": 114325,
+            "acmi_id": "15197",
+            "title": "Tripoli Melbourne & Me!",
+            "title_annotation": "",
+            "slug": "tripoli-melbourne-me",
+            "creator_credit": "Dania Dabliz, ACMI Digital Storytelling and ACMI",
+            "credit_line": "",
+            "headline_credit": "Australia, 2007",
+            "thumbnail": {
+                "image_url": "https://xos-prod-media.s3.amazonaws.com/media/snapshot_1422_42s.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=QfUOMRni5cvD%2Bw8pyiNBBYbH4uk%3D&Expires=1627009289",
+                "animated_image_url": "",
+                "has_video": true
+            },
+            "record_type": "work",
+            "type": "Film",
+            "is_on_display": false,
+            "last_on_display_place": "ACMI Viewing Booths",
+            "last_on_display_date": "2019-04-22",
+            "is_context_indigenous": false,
+            "material_description": "",
+            "unpublished": false,
+            "first_production_date": "2007-01-01T11:00:00+11:00"
+        },
+        {
+            "id": 114326,
+            "acmi_id": "15015",
+            "title": "Where Do I Belong?",
+            "title_annotation": "",
+            "slug": "where-do-i-belong",
+            "creator_credit": "Rita el-Khoury, ACMI Digital Storytelling and ACMI",
+            "credit_line": "",
+            "headline_credit": "Australia, 2007",
+            "thumbnail": {
+                "image_url": "https://xos-prod-media.s3.amazonaws.com/media/snapshot_1254_51s.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=nbd0XQArAQgG4UrnckPQIvDBqFc%3D&Expires=1627009289",
+                "animated_image_url": "",
+                "has_video": true
+            },
+            "record_type": "work",
+            "type": "Film",
+            "is_on_display": false,
+            "last_on_display_place": "ACMI Viewing Booths",
+            "last_on_display_date": "2019-04-22",
+            "is_context_indigenous": false,
+            "material_description": "",
+            "unpublished": false,
+            "first_production_date": "2007-01-01T11:00:00+11:00"
+        }
+    ],
+    "source": {
+        "name": "Vernon",
+        "slug": "vernon"
+    },
+    "source_identifier": "15208",
+    "production_places": [
+        {
+            "id": 3,
+            "name": "Australia",
+            "slug": "australia"
+        }
+    ],
+    "production_dates": [
+        {
+            "date": "2007",
+            "notes": "12-14 April 2007",
+            "to_year": "2007"
+        }
+    ],
+    "labels": [
+        53812
+    ]
+}

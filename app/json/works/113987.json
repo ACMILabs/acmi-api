@@ -1,0 +1,235 @@
+{
+    "id": 113987,
+    "acmi_id": "2073",
+    "title": "Dummy",
+    "title_annotation": "",
+    "slug": "dummy",
+    "creator_credit": "Ben Speth",
+    "credit_line": "",
+    "headline_credit": "",
+    "thumbnail": null,
+    "record_type": "work",
+    "type": "Film",
+    "is_on_display": false,
+    "last_on_display_place": null,
+    "last_on_display_date": null,
+    "is_context_indigenous": false,
+    "material_description": "",
+    "unpublished": false,
+    "first_production_date": null,
+    "brief_description": "<p>Pregnant with absence, &#8216;Dummy&#8217; depicts desolate urban and suburban environments. Filmed in and around Melbourne, these everyday, expectant spaces are captured with formal elegance and an accidental beauty that reveals a unique insight into the secret and forgotten life of Melbourne.</p>",
+    "constellations_primary": [],
+    "constellations_other": [],
+    "recommendations": [],
+    "title_for_label": "<p>Dummy</p>",
+    "creator_credit_for_label": "<p>Ben Speth</p>",
+    "headline_credit_for_label": "",
+    "description": "<p>Pregnant with absence, &#8216;Dummy&#8217; depicts desolate urban and suburban environments. Filmed in and around Melbourne, these everyday, expectant spaces are captured with formal elegance and an accidental beauty that reveals a unique insight into the secret and forgotten life of Melbourne.</p>",
+    "description_for_label": [
+        "<p>Pregnant with absence, &#8216;Dummy&#8217; depicts desolate urban and suburban environments. Filmed in and around Melbourne, these everyday, expectant spaces are captured with formal elegance and an accidental beauty that reveals a unique insight into the secret and forgotten life of Melbourne.</p>"
+    ],
+    "credit_line_for_label": "",
+    "details": [
+        {
+            "label": "Subject category",
+            "display_values": [
+                "Places&nbsp;→ Melbourne (Vic.)"
+            ]
+        }
+    ],
+    "stats": {
+        "tap_count": 0
+    },
+    "links": [],
+    "creators_primary": [
+        {
+            "id": 1133477,
+            "name": "Ben Speth",
+            "creator_id": 8765,
+            "role": "creator",
+            "role_id": 968,
+            "is_primary": true
+        }
+    ],
+    "creators_other": [],
+    "video_links": [],
+    "media_note": "Sorry, we don't have images or video for this item.",
+    "images": [],
+    "videos": [],
+    "holdings": [
+        {
+            "name": "Digital Betacam [PAL]; Sub-master",
+            "identifier": "",
+            "description": ""
+        },
+        {
+            "name": "DVD [PAL]; Copy",
+            "identifier": "",
+            "description": ""
+        },
+        {
+            "name": "Mini DV; Master",
+            "identifier": "",
+            "description": ""
+        },
+        {
+            "name": "DVD ROM; Copy",
+            "identifier": "",
+            "description": ""
+        }
+    ],
+    "part_of": null,
+    "parts": [],
+    "part_siblings": [],
+    "group": {
+        "id": 113985,
+        "acmi_id": "10182",
+        "title": "Public Imaging compilation. No. 1",
+        "title_annotation": "",
+        "slug": "public-imaging-compilation-no-1",
+        "creator_credit": "",
+        "credit_line": "",
+        "headline_credit": "",
+        "thumbnail": {
+            "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/B2001360_AColourBox.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=KOI2BFeLnKDW45Cep8igXZFu%2Fng%3D&Expires=1627009480",
+            "has_video": false
+        },
+        "record_type": "group",
+        "type": "Film",
+        "is_on_display": false,
+        "last_on_display_place": null,
+        "last_on_display_date": null,
+        "is_context_indigenous": false,
+        "material_description": "",
+        "unpublished": true,
+        "first_production_date": null
+    },
+    "group_works": [],
+    "group_siblings": [
+        {
+            "id": 113986,
+            "acmi_id": "149998",
+            "title": "A Colour box",
+            "title_annotation": "",
+            "slug": "a-colour-box",
+            "creator_credit": "John Grierson and Len Lye",
+            "credit_line": "",
+            "headline_credit": "United Kingdom, 1935",
+            "thumbnail": {
+                "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/B2001360_AColourBox.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=KOI2BFeLnKDW45Cep8igXZFu%2Fng%3D&Expires=1627009480",
+                "has_video": false
+            },
+            "record_type": "work",
+            "type": "Film",
+            "is_on_display": false,
+            "last_on_display_place": "ACMI Viewing Booths",
+            "last_on_display_date": "2019-04-22",
+            "is_context_indigenous": false,
+            "material_description": "",
+            "unpublished": false,
+            "first_production_date": "1935-01-01T10:00:00+10:00"
+        },
+        {
+            "id": 114003,
+            "acmi_id": "148921",
+            "title": "Free radicals",
+            "title_annotation": "",
+            "slug": "free-radicals",
+            "creator_credit": "Len Lye",
+            "credit_line": "",
+            "headline_credit": "United States, 1979",
+            "thumbnail": {
+                "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/B2001354_FreeRadicals.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=R6lG0jOKdKntqU8FLKMrq19E%2Bos%3D&Expires=1627009480",
+                "has_video": false
+            },
+            "record_type": "work",
+            "type": "Film",
+            "is_on_display": false,
+            "last_on_display_place": "ACMI Viewing Booths",
+            "last_on_display_date": "2019-04-22",
+            "is_context_indigenous": false,
+            "material_description": "",
+            "unpublished": false,
+            "first_production_date": "1979-01-01T11:00:00+11:00"
+        },
+        {
+            "id": 113991,
+            "acmi_id": "186",
+            "title": "Len Lye compilation",
+            "title_annotation": "",
+            "slug": "len-lye-compilation",
+            "creator_credit": "Len Lye",
+            "credit_line": "",
+            "headline_credit": "New Zealand, 1929-1980",
+            "thumbnail": {
+                "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/lenlyetalfar003.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=KU8U%2BHO4qJIE2Dz9C1eL3qRORGA%3D&Expires=1627009480",
+                "has_video": false
+            },
+            "record_type": "group",
+            "type": "Film",
+            "is_on_display": false,
+            "last_on_display_place": null,
+            "last_on_display_date": null,
+            "is_context_indigenous": false,
+            "material_description": "",
+            "unpublished": false,
+            "first_production_date": null
+        },
+        {
+            "id": 113984,
+            "acmi_id": "81",
+            "title": "Rev",
+            "title_annotation": "",
+            "slug": "rev",
+            "creator_credit": "Namsik Kim and Seoungho Cho",
+            "credit_line": "",
+            "headline_credit": "United States, 1997",
+            "thumbnail": {
+                "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/B1000090_Rev_002.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=png9AWraEsC0sQoATJnXhwbf8%2F4%3D&Expires=1627009480",
+                "has_video": false
+            },
+            "record_type": "work",
+            "type": "Digital art",
+            "is_on_display": false,
+            "last_on_display_place": "ACMI Screen Gallery",
+            "last_on_display_date": "2005-07-17",
+            "is_context_indigenous": false,
+            "material_description": "Single channel moving image, black and white and colour and audio",
+            "unpublished": false,
+            "first_production_date": "1997-01-01T11:00:00+11:00"
+        },
+        {
+            "id": 114008,
+            "acmi_id": "148924",
+            "title": "Tal Farlow",
+            "title_annotation": "",
+            "slug": "tal-farlow",
+            "creator_credit": "Len Lye",
+            "credit_line": "",
+            "headline_credit": "New Zealand, 1980",
+            "thumbnail": {
+                "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/B2001357_TalFarlow.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=D6dKEdYli%2FBwf%2FiipxLrCyY8DSw%3D&Expires=1627009480",
+                "has_video": false
+            },
+            "record_type": "work",
+            "type": "Film",
+            "is_on_display": false,
+            "last_on_display_place": "ACMI Viewing Booths",
+            "last_on_display_date": "2019-04-22",
+            "is_context_indigenous": false,
+            "material_description": "",
+            "unpublished": false,
+            "first_production_date": "1980-01-01T11:00:00+11:00"
+        }
+    ],
+    "source": {
+        "name": "Vernon",
+        "slug": "vernon"
+    },
+    "source_identifier": "2073",
+    "production_places": [],
+    "production_dates": [],
+    "labels": [
+        53481
+    ]
+}

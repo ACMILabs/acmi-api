@@ -1,0 +1,187 @@
+{
+    "id": 118261,
+    "acmi_id": "177865",
+    "title": "[Stelarc: The Third Hand Tokyo 1981]",
+    "title_annotation": "",
+    "slug": "stelarc-the-third-hand-tokyo-1981",
+    "creator_credit": "Stelarc",
+    "credit_line": "",
+    "headline_credit": "Tokyo/Japan, 1981",
+    "thumbnail": null,
+    "record_type": "work",
+    "type": "Digital art",
+    "is_on_display": false,
+    "last_on_display_place": null,
+    "last_on_display_date": null,
+    "is_context_indigenous": false,
+    "material_description": "",
+    "unpublished": true,
+    "first_production_date": "1981-01-01T11:00:00+11:00",
+    "brief_description": "<p>This video is colour U-matic footage of a performance entitled &#8220;The Third Hand&#8221; at Tamura Gallery in Tokyo, Japan on 8 May 1981.</p>",
+    "constellations_primary": [],
+    "constellations_other": [],
+    "recommendations": [],
+    "title_for_label": "<p>[Stelarc: The Third Hand Tokyo 1981]</p>",
+    "creator_credit_for_label": "<p>Stelarc</p>",
+    "headline_credit_for_label": "<p>Tokyo/Japan, 1981</p>",
+    "description": "<p>This video is colour U-matic footage of a performance entitled &#8220;The Third Hand&#8221; at Tamura Gallery in Tokyo, Japan on 8 May 1981.</p>",
+    "description_for_label": [
+        "<p>This video is colour U-matic footage of a performance entitled &#8220;The Third Hand&#8221; at Tamura Gallery in Tokyo, Japan on 8 May 1981.</p>"
+    ],
+    "credit_line_for_label": "",
+    "details": [
+        {
+            "label": "Duration",
+            "display_values": [
+                "00:28:50:00"
+            ]
+        },
+        {
+            "label": "Subject categories",
+            "display_values": [
+                "Digital Art",
+                "Short films"
+            ]
+        },
+        {
+            "label": "Sound/audio",
+            "display_values": [
+                "Sound"
+            ]
+        },
+        {
+            "label": "Colour",
+            "display_values": [
+                "Colour"
+            ]
+        }
+    ],
+    "stats": {
+        "tap_count": 0
+    },
+    "links": [],
+    "creators_primary": [
+        {
+            "id": 1134335,
+            "name": "Stelarc",
+            "creator_id": 8996,
+            "role": "creator",
+            "role_id": 968,
+            "is_primary": true
+        }
+    ],
+    "creators_other": [],
+    "video_links": [],
+    "media_note": "Sorry, we don't have images or video for this item.",
+    "images": [],
+    "videos": [],
+    "holdings": [
+        {
+            "name": "MOV file ProRes4444; Digital Preservation Master - overscan",
+            "identifier": "",
+            "description": ""
+        },
+        {
+            "name": "MPEG-4 Digital File; ACMI Digital Access Copy - overscan",
+            "identifier": "",
+            "description": ""
+        }
+    ],
+    "part_of": null,
+    "parts": [],
+    "part_siblings": [],
+    "group": {
+        "id": 119217,
+        "acmi_id": "173786",
+        "title": "Stelarc Moving Image Collection",
+        "title_annotation": "",
+        "slug": "stelarc-moving-image-collection",
+        "creator_credit": "Stelarc",
+        "credit_line": "",
+        "headline_credit": "Australia, 1970s-2000s Decade",
+        "thumbnail": {
+            "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/B2004064_mi03_StelarcModifiedMan1976.tif.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=dILzqgtyHzZUx5xxG%2BorRjLzRWU%3D&Expires=1627009227",
+            "has_video": false
+        },
+        "record_type": "group",
+        "type": "Digital art",
+        "is_on_display": false,
+        "last_on_display_place": null,
+        "last_on_display_date": null,
+        "is_context_indigenous": false,
+        "material_description": "",
+        "unpublished": false,
+        "first_production_date": null
+    },
+    "group_works": [],
+    "group_siblings": [
+        {
+            "id": 119221,
+            "acmi_id": "177972",
+            "title": "[Stelarc: Event for Modified Man 1976]",
+            "title_annotation": "",
+            "slug": "stelarc-event-for-modified-man-1976",
+            "creator_credit": "Stelarc",
+            "credit_line": "",
+            "headline_credit": "Tokyo/Japan, 1976",
+            "thumbnail": {
+                "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/B2004064_mi01_StelarcModifiedMan1976.tif.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=RI8ERrZCZDtoaaacEOWwWqHIXNQ%3D&Expires=1627009227",
+                "has_video": false
+            },
+            "record_type": "work",
+            "type": "Digital art",
+            "is_on_display": false,
+            "last_on_display_place": null,
+            "last_on_display_date": null,
+            "is_context_indigenous": false,
+            "material_description": "",
+            "unpublished": false,
+            "first_production_date": "1976-01-01T11:00:00+11:00"
+        },
+        {
+            "id": 119222,
+            "acmi_id": "177986",
+            "title": "[Stelarc: Stretched Skin No.4 Munich 1977]",
+            "title_annotation": "",
+            "slug": "stelarc-stretched-skin-no4-munich-1977",
+            "creator_credit": "Stelarc",
+            "credit_line": "",
+            "headline_credit": "Munich/Germany, 1977",
+            "thumbnail": {
+                "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/B2004079_mi01_StelarcMunich1977.tif.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=OSwK%2BdxvL7p1ZxKddLupBTxdSXk%3D&Expires=1627009227",
+                "has_video": false
+            },
+            "record_type": "work",
+            "type": "Digital art",
+            "is_on_display": false,
+            "last_on_display_place": null,
+            "last_on_display_date": null,
+            "is_context_indigenous": false,
+            "material_description": "",
+            "unpublished": false,
+            "first_production_date": "1977-01-01T11:00:00+11:00"
+        }
+    ],
+    "source": {
+        "name": "Vernon",
+        "slug": "vernon"
+    },
+    "source_identifier": "177865",
+    "production_places": [
+        {
+            "id": 111,
+            "name": "Tokyo/Japan",
+            "slug": "tokyojapan"
+        }
+    ],
+    "production_dates": [
+        {
+            "date": "1981",
+            "notes": "",
+            "to_year": "1981"
+        }
+    ],
+    "labels": [
+        57764
+    ]
+}

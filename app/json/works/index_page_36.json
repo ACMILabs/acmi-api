@@ -1,0 +1,3050 @@
+{
+    "count": 922,
+    "next": "/works/?page=37",
+    "previous": "/works/?page=35",
+    "results": [
+        {
+            "id": 114491,
+            "acmi_id": "175967",
+            "title": "View-Master (Mickey Mouse Character)",
+            "title_annotation": "",
+            "slug": "view-master-mickey-mouse-character",
+            "creator_credit": "",
+            "credit_line": "",
+            "headline_credit": "China, 1989",
+            "thumbnail": null,
+            "record_type": "work",
+            "type": "Object",
+            "is_on_display": false,
+            "last_on_display_place": null,
+            "last_on_display_date": null,
+            "is_context_indigenous": false,
+            "material_description": "Plastic",
+            "unpublished": false,
+            "first_production_date": "1989-01-01T11:00:00+11:00",
+            "brief_description": "<p>c.80&#8217;s Ideal Group Disney Mickey Mouse special</p>",
+            "constellations_primary": [],
+            "constellations_other": [],
+            "recommendations": [],
+            "title_for_label": "<p>View-Master (Mickey Mouse Character)</p>",
+            "creator_credit_for_label": "",
+            "headline_credit_for_label": "<p>China, 1989</p>",
+            "description": "<p>c.80&#8217;s Ideal Group Disney Mickey Mouse special</p>",
+            "description_for_label": [
+                "<p>c.80&#8217;s Ideal Group Disney Mickey Mouse special</p>"
+            ],
+            "credit_line_for_label": "",
+            "details": [
+                {
+                    "label": "Measurements",
+                    "display_values": [
+                        "152 x 152 x 100mm"
+                    ]
+                },
+                {
+                    "label": "Materials",
+                    "display_values": [
+                        "Plastic"
+                    ]
+                }
+            ],
+            "stats": {
+                "tap_count": 0
+            },
+            "links": [],
+            "creators_primary": [],
+            "creators_other": [
+                {
+                    "id": 1134352,
+                    "name": "View-Master Ideal Group Inc.",
+                    "creator_id": 82115,
+                    "role": "",
+                    "role_id": 604,
+                    "is_primary": false
+                }
+            ],
+            "video_links": [],
+            "media_note": "Sorry, we don't have images or video for this item.",
+            "images": [],
+            "videos": [],
+            "holdings": [],
+            "part_of": null,
+            "parts": [],
+            "part_siblings": [],
+            "group": null,
+            "group_works": [],
+            "group_siblings": [],
+            "source": {
+                "name": "Vernon",
+                "slug": "vernon"
+            },
+            "source_identifier": "175967",
+            "production_places": [
+                {
+                    "id": 4,
+                    "name": "China",
+                    "slug": "china"
+                }
+            ],
+            "production_dates": [
+                {
+                    "date": "1989",
+                    "notes": "",
+                    "to_year": "1989"
+                }
+            ],
+            "labels": [
+                53983
+            ]
+        },
+        {
+            "id": 99453,
+            "acmi_id": "175972",
+            "title": "Tyco Toys model classic red",
+            "title_annotation": "",
+            "slug": "view-master-classic-red-model",
+            "creator_credit": "Tyco Toys and Sawyer's Inc.",
+            "credit_line": "",
+            "headline_credit": "United States, c. 1980s",
+            "thumbnail": {
+                "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AEO175972_ViewmasterTycoToysClassicRed_34.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=q9vuavxDDnYrVcDLGBN7LPV8s3E%3D&Expires=1627009211",
+                "has_video": false
+            },
+            "record_type": "work",
+            "type": "Object",
+            "is_on_display": true,
+            "last_on_display_place": "ACMI: Gallery 1",
+            "last_on_display_date": "2031-02-16",
+            "is_context_indigenous": false,
+            "material_description": "",
+            "unpublished": false,
+            "first_production_date": null,
+            "brief_description": "<p>c.80&#8217;s Tyco Toys classic red model</p>",
+            "constellations_primary": [],
+            "constellations_other": [],
+            "recommendations": [],
+            "title_for_label": "<p>Tyco Toys model classic red</p>",
+            "creator_credit_for_label": "<p>Tyco Toys and Sawyer&#8217;s Inc.</p>",
+            "headline_credit_for_label": "<p>United States, c. 1980s</p>",
+            "description": "<p>c.80&#8217;s Tyco Toys classic red model</p>",
+            "description_for_label": [
+                "<p>c.80&#8217;s Tyco Toys classic red model</p>"
+            ],
+            "credit_line_for_label": "<p>c.1980s</p>",
+            "details": [
+                {
+                    "label": "Curatorial section",
+                    "display_values": [
+                        "The Story of the Moving Image&nbsp;→ Moving Pictures&nbsp;→ 08. Immersive Innovations&nbsp;→ MI-08-C01"
+                    ]
+                },
+                {
+                    "label": "Measurements",
+                    "display_values": [
+                        "100 x 135 x 80mm"
+                    ]
+                }
+            ],
+            "stats": {
+                "tap_count": 0
+            },
+            "links": [],
+            "creators_primary": [
+                {
+                    "id": 1055200,
+                    "name": "Tyco Toys",
+                    "creator_id": 71986,
+                    "role": "creator",
+                    "role_id": 968,
+                    "is_primary": true
+                },
+                {
+                    "id": 1055199,
+                    "name": "Sawyer's Inc.",
+                    "creator_id": 71463,
+                    "role": "creator",
+                    "role_id": 968,
+                    "is_primary": true
+                }
+            ],
+            "creators_other": [],
+            "video_links": [],
+            "media_note": null,
+            "images": [
+                {
+                    "id": 12422,
+                    "image_file": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AEO175972_ViewmasterTycoToysClassicRed_34.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=Ic2NubeWCB5S2HJpMKwQd1m9YOo%3D&Expires=1627009211",
+                    "image_file_thumbnail": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AEO175972_ViewmasterTycoToysClassicRed_34.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=q9vuavxDDnYrVcDLGBN7LPV8s3E%3D&Expires=1627009211",
+                    "image_file_xs": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AEO175972_ViewmasterTycoToysClassicRed_34.jpg.480x480_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=E6tBYE580x77F4H%2FbuKddHwAQ40%3D&Expires=1627009211",
+                    "image_file_s": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AEO175972_ViewmasterTycoToysClassicRed_34.jpg.960x960_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=bvTRlv3349zWqkmUWyjY2THhQU4%3D&Expires=1627009211",
+                    "image_file_m": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AEO175972_ViewmasterTycoToysClassicRed_34.jpg.1920x1920_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=8sSkbB1gq40hKZY%2Fa9lA5yWPcLI%3D&Expires=1627009211",
+                    "image_file_l": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AEO175972_ViewmasterTycoToysClassicRed_34.jpg.3840x3840_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=HhAvphQYs0AjJedTK3Ep3BO7NTs%3D&Expires=1627009211",
+                    "caption": "AEO175972_ViewmasterTycoToysClassicRed_34",
+                    "credit_line": "Photograph by Egmont Contreras, ACMI.",
+                    "alt_text": "",
+                    "width": 4800,
+                    "height": 3200,
+                    "access_level": "View anywhere"
+                },
+                {
+                    "id": 12423,
+                    "image_file": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AEO175972_ViewmasterTycoToysClassicRed_Front.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=2EOk2aVwfQ7DWBcN1zeG%2BwcvKc0%3D&Expires=1627009211",
+                    "image_file_thumbnail": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AEO175972_ViewmasterTycoToysClassicRed_Front.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=W6B%2BOP9X%2FULPhyUtzDpugjzj4ws%3D&Expires=1627009211",
+                    "image_file_xs": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AEO175972_ViewmasterTycoToysClassicRed_Front.jpg.480x480_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=xQ0rxU4xNqqIYNP44GLKqsDX6gI%3D&Expires=1627009211",
+                    "image_file_s": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AEO175972_ViewmasterTycoToysClassicRed_Front.jpg.960x960_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=etey%2FeVdwtr%2FP0v%2FWh0%2BrXYOtjY%3D&Expires=1627009211",
+                    "image_file_m": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AEO175972_ViewmasterTycoToysClassicRed_Front.jpg.1920x1920_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=MgLsu7lcZgRh6%2FeaFELaefTr4dk%3D&Expires=1627009211",
+                    "image_file_l": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AEO175972_ViewmasterTycoToysClassicRed_Front.jpg.3840x3840_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=lYQjMank6a8K4f9k5g7SnCyAiYg%3D&Expires=1627009211",
+                    "caption": "AEO175972_ViewmasterTycoToysClassicRed_Front",
+                    "credit_line": "Photograph by Egmont Contreras, ACMI.",
+                    "alt_text": "",
+                    "width": 4617,
+                    "height": 3078,
+                    "access_level": "View anywhere"
+                },
+                {
+                    "id": 13970,
+                    "image_file": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/GROUP_ViewMasters.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=Ranoonc0RzDKsATw4Ez%2FfgVYQFc%3D&Expires=1627009211",
+                    "image_file_thumbnail": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/GROUP_ViewMasters.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=w1gjtImh14lK60i0wkWhRQQ4MhQ%3D&Expires=1627009211",
+                    "image_file_xs": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/GROUP_ViewMasters.jpg.480x480_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=7zSVOmaoht3Sc7RSCc3q%2FsRRlss%3D&Expires=1627009211",
+                    "image_file_s": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/GROUP_ViewMasters.jpg.960x960_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=AZW1l00UQaXo5Rc%2BtfUwv0YO7cw%3D&Expires=1627009211",
+                    "image_file_m": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/GROUP_ViewMasters.jpg.1920x1920_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=U%2BfeIJJkdtRyFja%2BrwdYFbdTKlA%3D&Expires=1627009211",
+                    "image_file_l": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/GROUP_ViewMasters.jpg.3840x3840_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=yW3IPmcQTChPmSolP9XYNT4CbIk%3D&Expires=1627009211",
+                    "caption": "GROUP_ViewMasters",
+                    "credit_line": "Photograph by Egmont Contreras, ACMI.",
+                    "alt_text": "",
+                    "width": 11811,
+                    "height": 7705,
+                    "access_level": "View anywhere"
+                }
+            ],
+            "videos": [],
+            "holdings": [],
+            "part_of": null,
+            "parts": [],
+            "part_siblings": [],
+            "group": {
+                "id": 112101,
+                "acmi_id": "183543",
+                "title": "View Masters",
+                "title_annotation": "",
+                "slug": "view-masters",
+                "creator_credit": "Sawyer's Inc.",
+                "credit_line": "",
+                "headline_credit": "United States",
+                "thumbnail": {
+                    "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AEO175971_ViewmasterTycoToysBlue_34.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=f9ng5%2BVNdOpO7GpgdbFbRLgWzpg%3D&Expires=1627009211",
+                    "has_video": false
+                },
+                "record_type": "group",
+                "type": "Film",
+                "is_on_display": true,
+                "last_on_display_place": "ACMI: Gallery 1",
+                "last_on_display_date": "2031-02-16",
+                "is_context_indigenous": false,
+                "material_description": "",
+                "unpublished": false,
+                "first_production_date": null
+            },
+            "group_works": [],
+            "group_siblings": [
+                {
+                    "id": 99452,
+                    "acmi_id": "175971",
+                    "title": "Tyco Toys model",
+                    "title_annotation": "",
+                    "slug": "view-master-rare-blue",
+                    "creator_credit": "Tyco Toys and Sawyer's Inc.",
+                    "credit_line": "",
+                    "headline_credit": "United States, c. 1980s",
+                    "thumbnail": {
+                        "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AEO175971_ViewmasterTycoToysBlue_34.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=f9ng5%2BVNdOpO7GpgdbFbRLgWzpg%3D&Expires=1627009211",
+                        "has_video": false
+                    },
+                    "record_type": "work",
+                    "type": "Object",
+                    "is_on_display": true,
+                    "last_on_display_place": "ACMI: Gallery 1",
+                    "last_on_display_date": "2031-02-16",
+                    "is_context_indigenous": false,
+                    "material_description": "",
+                    "unpublished": false,
+                    "first_production_date": null
+                },
+                {
+                    "id": 99450,
+                    "acmi_id": "175966",
+                    "title": "Early Bakelite model",
+                    "title_annotation": "",
+                    "slug": "view-master-black",
+                    "creator_credit": "Sawyer's Inc.",
+                    "credit_line": "",
+                    "headline_credit": "United States, c. 1950s",
+                    "thumbnail": {
+                        "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AEO175966_ViewMastersSawyerUSABakelite_34.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=EIna0I1sZLnD0a9tR16o8sV8i3g%3D&Expires=1627009211",
+                        "has_video": false
+                    },
+                    "record_type": "work",
+                    "type": "Object",
+                    "is_on_display": true,
+                    "last_on_display_place": "ACMI: Gallery 1",
+                    "last_on_display_date": "2031-02-16",
+                    "is_context_indigenous": false,
+                    "material_description": "Bakelite",
+                    "unpublished": false,
+                    "first_production_date": null
+                },
+                {
+                    "id": 99449,
+                    "acmi_id": "175965",
+                    "title": "European model",
+                    "title_annotation": "",
+                    "slug": "view-master-red",
+                    "creator_credit": "Sawyer's Inc.",
+                    "credit_line": "",
+                    "headline_credit": "Belgium, c. 1960-1970s",
+                    "thumbnail": {
+                        "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AEO175965_ViewMasterSawyerEuropeanModel_34.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=TEQCsXT%2FQehhDsFHX5oycSo1ds0%3D&Expires=1627009211",
+                        "has_video": false
+                    },
+                    "record_type": "work",
+                    "type": "Object",
+                    "is_on_display": true,
+                    "last_on_display_place": "ACMI: Gallery 1",
+                    "last_on_display_date": "2031-02-16",
+                    "is_context_indigenous": false,
+                    "material_description": "",
+                    "unpublished": false,
+                    "first_production_date": null
+                },
+                {
+                    "id": 99448,
+                    "acmi_id": "175964",
+                    "title": "European model",
+                    "title_annotation": "",
+                    "slug": "view-master-grey",
+                    "creator_credit": "Sawyer's Inc.",
+                    "credit_line": "",
+                    "headline_credit": "Belgium, c. 1960s-1970s",
+                    "thumbnail": {
+                        "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AEO175964_ViewmasterSawyerEuropeanModel_34.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=Go8ZGK5ih%2FJKMxhclKJdLPgjEgU%3D&Expires=1627009211",
+                        "has_video": false
+                    },
+                    "record_type": "work",
+                    "type": "Object",
+                    "is_on_display": true,
+                    "last_on_display_place": "ACMI: Gallery 1",
+                    "last_on_display_date": "2031-02-16",
+                    "is_context_indigenous": false,
+                    "material_description": "",
+                    "unpublished": false,
+                    "first_production_date": null
+                },
+                {
+                    "id": 99451,
+                    "acmi_id": "175969",
+                    "title": "GAF USA model",
+                    "title_annotation": "",
+                    "slug": "view-master-white-red-blue",
+                    "creator_credit": "Sawyer's Inc.",
+                    "credit_line": "",
+                    "headline_credit": "United States, c. 1960s-1970s",
+                    "thumbnail": {
+                        "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AEO175969_ViewMasterGAFUSA_34.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=LDLtRc1ZoF2J%2FwUcp4EekGruC0A%3D&Expires=1627009211",
+                        "has_video": false
+                    },
+                    "record_type": "work",
+                    "type": "Object",
+                    "is_on_display": true,
+                    "last_on_display_place": "ACMI: Gallery 1",
+                    "last_on_display_date": "2031-02-16",
+                    "is_context_indigenous": false,
+                    "material_description": "",
+                    "unpublished": false,
+                    "first_production_date": null
+                }
+            ],
+            "source": {
+                "name": "Vernon",
+                "slug": "vernon"
+            },
+            "source_identifier": "175972",
+            "production_places": [
+                {
+                    "id": 2,
+                    "name": "United States",
+                    "slug": "united-states"
+                }
+            ],
+            "production_dates": [
+                {
+                    "date": "c. 1980s",
+                    "notes": "",
+                    "to_year": "c. 1980s"
+                }
+            ],
+            "labels": [
+                38948
+            ]
+        },
+        {
+            "id": 99451,
+            "acmi_id": "175969",
+            "title": "GAF USA model",
+            "title_annotation": "",
+            "slug": "view-master-white-red-blue",
+            "creator_credit": "Sawyer's Inc.",
+            "credit_line": "",
+            "headline_credit": "United States, c. 1960s-1970s",
+            "thumbnail": {
+                "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AEO175969_ViewMasterGAFUSA_34.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=LDLtRc1ZoF2J%2FwUcp4EekGruC0A%3D&Expires=1627009211",
+                "has_video": false
+            },
+            "record_type": "work",
+            "type": "Object",
+            "is_on_display": true,
+            "last_on_display_place": "ACMI: Gallery 1",
+            "last_on_display_date": "2031-02-16",
+            "is_context_indigenous": false,
+            "material_description": "",
+            "unpublished": false,
+            "first_production_date": null,
+            "brief_description": "<p>c.60&#8217;s-70&#8217;s GAF USA (smaller front windows)<br />\n*Note - can be differentiated from AEO175968 by the metal piece under blue switch</p>",
+            "constellations_primary": [],
+            "constellations_other": [],
+            "recommendations": [],
+            "title_for_label": "<p>GAF USA model</p>",
+            "creator_credit_for_label": "<p>Sawyer&#8217;s Inc.</p>",
+            "headline_credit_for_label": "<p>United States, c. 1960s-1970s</p>",
+            "description": "<p>c.60&#8217;s-70&#8217;s GAF USA (smaller front windows)<br />\n*Note - can be differentiated from AEO175968 by the metal piece under blue switch</p>",
+            "description_for_label": [
+                "<p>c.60&#8217;s-70&#8217;s GAF USA (smaller front windows)<br />\n*Note - can be differentiated from AEO175968 by the metal piece under blue switch</p>"
+            ],
+            "credit_line_for_label": "<p>c.1960s–1970s</p>",
+            "details": [
+                {
+                    "label": "Curatorial section",
+                    "display_values": [
+                        "The Story of the Moving Image&nbsp;→ Moving Pictures&nbsp;→ 08. Immersive Innovations&nbsp;→ MI-08-C01"
+                    ]
+                },
+                {
+                    "label": "Measurements",
+                    "display_values": [
+                        "95 x 125 x 75mm"
+                    ]
+                }
+            ],
+            "stats": {
+                "tap_count": 0
+            },
+            "links": [],
+            "creators_primary": [
+                {
+                    "id": 1055192,
+                    "name": "Sawyer's Inc.",
+                    "creator_id": 71463,
+                    "role": "creator",
+                    "role_id": 968,
+                    "is_primary": true
+                }
+            ],
+            "creators_other": [],
+            "video_links": [],
+            "media_note": null,
+            "images": [
+                {
+                    "id": 12418,
+                    "image_file": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AEO175969_ViewMasterGAFUSA_34.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=tjdDkrhOUFAtcJNG7XKB%2FUkGic8%3D&Expires=1627009211",
+                    "image_file_thumbnail": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AEO175969_ViewMasterGAFUSA_34.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=LDLtRc1ZoF2J%2FwUcp4EekGruC0A%3D&Expires=1627009211",
+                    "image_file_xs": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AEO175969_ViewMasterGAFUSA_34.jpg.480x480_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=dgqDYPw55bOjHNIHrjUgakXwhXA%3D&Expires=1627009211",
+                    "image_file_s": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AEO175969_ViewMasterGAFUSA_34.jpg.960x960_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=Nnp0LDgcXsn6pi6VDPrWaGKYjbc%3D&Expires=1627009211",
+                    "image_file_m": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AEO175969_ViewMasterGAFUSA_34.jpg.1920x1920_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=m9FiVQ18A1l91r%2BZkXnUyvcrtlU%3D&Expires=1627009211",
+                    "image_file_l": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AEO175969_ViewMasterGAFUSA_34.jpg.3840x3840_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=m%2B1O%2Bnpy3G7gDHsWiSzbLmBT8Tw%3D&Expires=1627009211",
+                    "caption": "AEO175969_ViewMasterGAFUSA_34",
+                    "credit_line": "Photograph by Egmont Contreras, ACMI",
+                    "alt_text": "",
+                    "width": 4415,
+                    "height": 3101,
+                    "access_level": "View anywhere"
+                },
+                {
+                    "id": 12419,
+                    "image_file": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AEO175969_ViewMasterGAFUSA_Front.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=pKgQpANS30tbzrOTqL%2BZyZArtuw%3D&Expires=1627009211",
+                    "image_file_thumbnail": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AEO175969_ViewMasterGAFUSA_Front.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=L1463j1Vp%2FbCzlSNdVsG%2F7VPZQU%3D&Expires=1627009211",
+                    "image_file_xs": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AEO175969_ViewMasterGAFUSA_Front.jpg.480x480_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=jXIcaKuk3oVvhxHzgOTbY7TaDFc%3D&Expires=1627009211",
+                    "image_file_s": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AEO175969_ViewMasterGAFUSA_Front.jpg.960x960_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=AVMkQA4HtJX31uQjzhe%2Foj%2FZAjU%3D&Expires=1627009211",
+                    "image_file_m": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AEO175969_ViewMasterGAFUSA_Front.jpg.1920x1920_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=XuOQc623zw4jybbRNOHHpqT1wco%3D&Expires=1627009211",
+                    "image_file_l": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AEO175969_ViewMasterGAFUSA_Front.jpg.3840x3840_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=NF%2BuX7ISDLSG7lQz%2B61pgOoYoa0%3D&Expires=1627009211",
+                    "caption": "AEO175969_ViewMasterGAFUSA_Front",
+                    "credit_line": "Photograph by Egmont Contreras, ACMI",
+                    "alt_text": "",
+                    "width": 4531,
+                    "height": 2815,
+                    "access_level": "View anywhere"
+                },
+                {
+                    "id": 13970,
+                    "image_file": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/GROUP_ViewMasters.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=Ranoonc0RzDKsATw4Ez%2FfgVYQFc%3D&Expires=1627009211",
+                    "image_file_thumbnail": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/GROUP_ViewMasters.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=w1gjtImh14lK60i0wkWhRQQ4MhQ%3D&Expires=1627009211",
+                    "image_file_xs": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/GROUP_ViewMasters.jpg.480x480_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=7zSVOmaoht3Sc7RSCc3q%2FsRRlss%3D&Expires=1627009211",
+                    "image_file_s": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/GROUP_ViewMasters.jpg.960x960_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=AZW1l00UQaXo5Rc%2BtfUwv0YO7cw%3D&Expires=1627009211",
+                    "image_file_m": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/GROUP_ViewMasters.jpg.1920x1920_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=U%2BfeIJJkdtRyFja%2BrwdYFbdTKlA%3D&Expires=1627009211",
+                    "image_file_l": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/GROUP_ViewMasters.jpg.3840x3840_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=yW3IPmcQTChPmSolP9XYNT4CbIk%3D&Expires=1627009211",
+                    "caption": "GROUP_ViewMasters",
+                    "credit_line": "Photograph by Egmont Contreras, ACMI.",
+                    "alt_text": "",
+                    "width": 11811,
+                    "height": 7705,
+                    "access_level": "View anywhere"
+                }
+            ],
+            "videos": [],
+            "holdings": [],
+            "part_of": null,
+            "parts": [],
+            "part_siblings": [],
+            "group": {
+                "id": 112101,
+                "acmi_id": "183543",
+                "title": "View Masters",
+                "title_annotation": "",
+                "slug": "view-masters",
+                "creator_credit": "Sawyer's Inc.",
+                "credit_line": "",
+                "headline_credit": "United States",
+                "thumbnail": {
+                    "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AEO175971_ViewmasterTycoToysBlue_34.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=f9ng5%2BVNdOpO7GpgdbFbRLgWzpg%3D&Expires=1627009211",
+                    "has_video": false
+                },
+                "record_type": "group",
+                "type": "Film",
+                "is_on_display": true,
+                "last_on_display_place": "ACMI: Gallery 1",
+                "last_on_display_date": "2031-02-16",
+                "is_context_indigenous": false,
+                "material_description": "",
+                "unpublished": false,
+                "first_production_date": null
+            },
+            "group_works": [],
+            "group_siblings": [
+                {
+                    "id": 99452,
+                    "acmi_id": "175971",
+                    "title": "Tyco Toys model",
+                    "title_annotation": "",
+                    "slug": "view-master-rare-blue",
+                    "creator_credit": "Tyco Toys and Sawyer's Inc.",
+                    "credit_line": "",
+                    "headline_credit": "United States, c. 1980s",
+                    "thumbnail": {
+                        "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AEO175971_ViewmasterTycoToysBlue_34.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=f9ng5%2BVNdOpO7GpgdbFbRLgWzpg%3D&Expires=1627009211",
+                        "has_video": false
+                    },
+                    "record_type": "work",
+                    "type": "Object",
+                    "is_on_display": true,
+                    "last_on_display_place": "ACMI: Gallery 1",
+                    "last_on_display_date": "2031-02-16",
+                    "is_context_indigenous": false,
+                    "material_description": "",
+                    "unpublished": false,
+                    "first_production_date": null
+                },
+                {
+                    "id": 99450,
+                    "acmi_id": "175966",
+                    "title": "Early Bakelite model",
+                    "title_annotation": "",
+                    "slug": "view-master-black",
+                    "creator_credit": "Sawyer's Inc.",
+                    "credit_line": "",
+                    "headline_credit": "United States, c. 1950s",
+                    "thumbnail": {
+                        "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AEO175966_ViewMastersSawyerUSABakelite_34.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=EIna0I1sZLnD0a9tR16o8sV8i3g%3D&Expires=1627009211",
+                        "has_video": false
+                    },
+                    "record_type": "work",
+                    "type": "Object",
+                    "is_on_display": true,
+                    "last_on_display_place": "ACMI: Gallery 1",
+                    "last_on_display_date": "2031-02-16",
+                    "is_context_indigenous": false,
+                    "material_description": "Bakelite",
+                    "unpublished": false,
+                    "first_production_date": null
+                },
+                {
+                    "id": 99449,
+                    "acmi_id": "175965",
+                    "title": "European model",
+                    "title_annotation": "",
+                    "slug": "view-master-red",
+                    "creator_credit": "Sawyer's Inc.",
+                    "credit_line": "",
+                    "headline_credit": "Belgium, c. 1960-1970s",
+                    "thumbnail": {
+                        "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AEO175965_ViewMasterSawyerEuropeanModel_34.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=TEQCsXT%2FQehhDsFHX5oycSo1ds0%3D&Expires=1627009211",
+                        "has_video": false
+                    },
+                    "record_type": "work",
+                    "type": "Object",
+                    "is_on_display": true,
+                    "last_on_display_place": "ACMI: Gallery 1",
+                    "last_on_display_date": "2031-02-16",
+                    "is_context_indigenous": false,
+                    "material_description": "",
+                    "unpublished": false,
+                    "first_production_date": null
+                },
+                {
+                    "id": 99448,
+                    "acmi_id": "175964",
+                    "title": "European model",
+                    "title_annotation": "",
+                    "slug": "view-master-grey",
+                    "creator_credit": "Sawyer's Inc.",
+                    "credit_line": "",
+                    "headline_credit": "Belgium, c. 1960s-1970s",
+                    "thumbnail": {
+                        "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AEO175964_ViewmasterSawyerEuropeanModel_34.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=Go8ZGK5ih%2FJKMxhclKJdLPgjEgU%3D&Expires=1627009211",
+                        "has_video": false
+                    },
+                    "record_type": "work",
+                    "type": "Object",
+                    "is_on_display": true,
+                    "last_on_display_place": "ACMI: Gallery 1",
+                    "last_on_display_date": "2031-02-16",
+                    "is_context_indigenous": false,
+                    "material_description": "",
+                    "unpublished": false,
+                    "first_production_date": null
+                },
+                {
+                    "id": 99453,
+                    "acmi_id": "175972",
+                    "title": "Tyco Toys model classic red",
+                    "title_annotation": "",
+                    "slug": "view-master-classic-red-model",
+                    "creator_credit": "Tyco Toys and Sawyer's Inc.",
+                    "credit_line": "",
+                    "headline_credit": "United States, c. 1980s",
+                    "thumbnail": {
+                        "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AEO175972_ViewmasterTycoToysClassicRed_34.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=q9vuavxDDnYrVcDLGBN7LPV8s3E%3D&Expires=1627009211",
+                        "has_video": false
+                    },
+                    "record_type": "work",
+                    "type": "Object",
+                    "is_on_display": true,
+                    "last_on_display_place": "ACMI: Gallery 1",
+                    "last_on_display_date": "2031-02-16",
+                    "is_context_indigenous": false,
+                    "material_description": "",
+                    "unpublished": false,
+                    "first_production_date": null
+                }
+            ],
+            "source": {
+                "name": "Vernon",
+                "slug": "vernon"
+            },
+            "source_identifier": "175969",
+            "production_places": [
+                {
+                    "id": 2,
+                    "name": "United States",
+                    "slug": "united-states"
+                }
+            ],
+            "production_dates": [
+                {
+                    "date": "c. 1960s-1970s",
+                    "notes": "",
+                    "to_year": "c. 1960s-1970s"
+                }
+            ],
+            "labels": [
+                38946
+            ]
+        },
+        {
+            "id": 99448,
+            "acmi_id": "175964",
+            "title": "European model",
+            "title_annotation": "",
+            "slug": "view-master-grey",
+            "creator_credit": "Sawyer's Inc.",
+            "credit_line": "",
+            "headline_credit": "Belgium, c. 1960s-1970s",
+            "thumbnail": {
+                "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AEO175964_ViewmasterSawyerEuropeanModel_34.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=Go8ZGK5ih%2FJKMxhclKJdLPgjEgU%3D&Expires=1627009211",
+                "has_video": false
+            },
+            "record_type": "work",
+            "type": "Object",
+            "is_on_display": true,
+            "last_on_display_place": "ACMI: Gallery 1",
+            "last_on_display_date": "2031-02-16",
+            "is_context_indigenous": false,
+            "material_description": "",
+            "unpublished": false,
+            "first_production_date": null,
+            "brief_description": "<p>c.60s-70s  Sawyer&#8217;s Europe model, made in Belgium.  Some indenting of the window panels</p>",
+            "constellations_primary": [],
+            "constellations_other": [],
+            "recommendations": [],
+            "title_for_label": "<p>European model</p>",
+            "creator_credit_for_label": "<p>Sawyer&#8217;s Inc.</p>",
+            "headline_credit_for_label": "<p>Belgium, c. 1960s-1970s</p>",
+            "description": "<p>c.60s-70s  Sawyer&#8217;s Europe model, made in Belgium.  Some indenting of the window panels</p>",
+            "description_for_label": [
+                "<p>c.60s-70s  Sawyer&#8217;s Europe model, made in Belgium.  Some indenting of the window panels</p>"
+            ],
+            "credit_line_for_label": "<p>c.1960s–1970s</p>",
+            "details": [
+                {
+                    "label": "Curatorial section",
+                    "display_values": [
+                        "The Story of the Moving Image&nbsp;→ Moving Pictures&nbsp;→ 08. Immersive Innovations&nbsp;→ MI-08-C01"
+                    ]
+                },
+                {
+                    "label": "Measurements",
+                    "display_values": [
+                        "95 x 122 x 75mm"
+                    ]
+                }
+            ],
+            "stats": {
+                "tap_count": 0
+            },
+            "links": [],
+            "creators_primary": [
+                {
+                    "id": 1055178,
+                    "name": "Sawyer's Inc.",
+                    "creator_id": 71463,
+                    "role": "creator",
+                    "role_id": 968,
+                    "is_primary": true
+                }
+            ],
+            "creators_other": [],
+            "video_links": [],
+            "media_note": null,
+            "images": [
+                {
+                    "id": 12412,
+                    "image_file": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AEO175964_ViewmasterSawyerEuropeanModel_34.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=ZexTbcLM7Q8sn1fWLxo4YKnn2i8%3D&Expires=1627009211",
+                    "image_file_thumbnail": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AEO175964_ViewmasterSawyerEuropeanModel_34.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=Go8ZGK5ih%2FJKMxhclKJdLPgjEgU%3D&Expires=1627009211",
+                    "image_file_xs": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AEO175964_ViewmasterSawyerEuropeanModel_34.jpg.480x480_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=PNAv8qUQIYSIVqP7SaKk7Uyx5Lo%3D&Expires=1627009211",
+                    "image_file_s": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AEO175964_ViewmasterSawyerEuropeanModel_34.jpg.960x960_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=%2Bt3onAhgf7u3KILwEnh42Ei3aQE%3D&Expires=1627009211",
+                    "image_file_m": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AEO175964_ViewmasterSawyerEuropeanModel_34.jpg.1920x1920_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=k8%2FZtBbTl6YOXbH20Gjv8lGt8B0%3D&Expires=1627009211",
+                    "image_file_l": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AEO175964_ViewmasterSawyerEuropeanModel_34.jpg.3840x3840_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=w93E2PgWP52G2iSrTKsuJmNB0jk%3D&Expires=1627009211",
+                    "caption": "AEO175964_ViewmasterSawyerEuropeanModel_34",
+                    "credit_line": "Photograph by Egmont Contreras, ACMI.",
+                    "alt_text": "",
+                    "width": 4800,
+                    "height": 3200,
+                    "access_level": "View anywhere"
+                },
+                {
+                    "id": 12413,
+                    "image_file": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AEO175964_ViewmasterSawyerEuropeanModel_Front.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=cWRfeqsPaYuQJ6peAgbnZ9aaQRw%3D&Expires=1627009211",
+                    "image_file_thumbnail": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AEO175964_ViewmasterSawyerEuropeanModel_Front.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=UTkk0Ab7YdJYdxBzdGXuHlIS6x0%3D&Expires=1627009211",
+                    "image_file_xs": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AEO175964_ViewmasterSawyerEuropeanModel_Front.jpg.480x480_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=5neZUbygG6Uz4glDuGXKGrWAmEo%3D&Expires=1627009211",
+                    "image_file_s": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AEO175964_ViewmasterSawyerEuropeanModel_Front.jpg.960x960_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=nMSmcXNiKh8o8ftpUCYbF2c%2BmWY%3D&Expires=1627009211",
+                    "image_file_m": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AEO175964_ViewmasterSawyerEuropeanModel_Front.jpg.1920x1920_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=ISbBsjQLd5SZy1iGCKv%2FhzkC7KY%3D&Expires=1627009211",
+                    "image_file_l": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AEO175964_ViewmasterSawyerEuropeanModel_Front.jpg.3840x3840_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=CPMB8RkBM4uSui%2F0YUKB3Esk%2B5k%3D&Expires=1627009211",
+                    "caption": "AEO175964_ViewmasterSawyerEuropeanModel_Front",
+                    "credit_line": "Photograph by Egmont Contreras, ACMI.",
+                    "alt_text": "",
+                    "width": 4626,
+                    "height": 3084,
+                    "access_level": "View anywhere"
+                },
+                {
+                    "id": 13970,
+                    "image_file": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/GROUP_ViewMasters.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=Ranoonc0RzDKsATw4Ez%2FfgVYQFc%3D&Expires=1627009211",
+                    "image_file_thumbnail": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/GROUP_ViewMasters.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=w1gjtImh14lK60i0wkWhRQQ4MhQ%3D&Expires=1627009211",
+                    "image_file_xs": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/GROUP_ViewMasters.jpg.480x480_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=7zSVOmaoht3Sc7RSCc3q%2FsRRlss%3D&Expires=1627009211",
+                    "image_file_s": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/GROUP_ViewMasters.jpg.960x960_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=AZW1l00UQaXo5Rc%2BtfUwv0YO7cw%3D&Expires=1627009211",
+                    "image_file_m": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/GROUP_ViewMasters.jpg.1920x1920_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=U%2BfeIJJkdtRyFja%2BrwdYFbdTKlA%3D&Expires=1627009211",
+                    "image_file_l": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/GROUP_ViewMasters.jpg.3840x3840_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=yW3IPmcQTChPmSolP9XYNT4CbIk%3D&Expires=1627009211",
+                    "caption": "GROUP_ViewMasters",
+                    "credit_line": "Photograph by Egmont Contreras, ACMI.",
+                    "alt_text": "",
+                    "width": 11811,
+                    "height": 7705,
+                    "access_level": "View anywhere"
+                }
+            ],
+            "videos": [],
+            "holdings": [],
+            "part_of": null,
+            "parts": [],
+            "part_siblings": [],
+            "group": {
+                "id": 112101,
+                "acmi_id": "183543",
+                "title": "View Masters",
+                "title_annotation": "",
+                "slug": "view-masters",
+                "creator_credit": "Sawyer's Inc.",
+                "credit_line": "",
+                "headline_credit": "United States",
+                "thumbnail": {
+                    "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AEO175971_ViewmasterTycoToysBlue_34.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=f9ng5%2BVNdOpO7GpgdbFbRLgWzpg%3D&Expires=1627009211",
+                    "has_video": false
+                },
+                "record_type": "group",
+                "type": "Film",
+                "is_on_display": true,
+                "last_on_display_place": "ACMI: Gallery 1",
+                "last_on_display_date": "2031-02-16",
+                "is_context_indigenous": false,
+                "material_description": "",
+                "unpublished": false,
+                "first_production_date": null
+            },
+            "group_works": [],
+            "group_siblings": [
+                {
+                    "id": 99452,
+                    "acmi_id": "175971",
+                    "title": "Tyco Toys model",
+                    "title_annotation": "",
+                    "slug": "view-master-rare-blue",
+                    "creator_credit": "Tyco Toys and Sawyer's Inc.",
+                    "credit_line": "",
+                    "headline_credit": "United States, c. 1980s",
+                    "thumbnail": {
+                        "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AEO175971_ViewmasterTycoToysBlue_34.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=f9ng5%2BVNdOpO7GpgdbFbRLgWzpg%3D&Expires=1627009211",
+                        "has_video": false
+                    },
+                    "record_type": "work",
+                    "type": "Object",
+                    "is_on_display": true,
+                    "last_on_display_place": "ACMI: Gallery 1",
+                    "last_on_display_date": "2031-02-16",
+                    "is_context_indigenous": false,
+                    "material_description": "",
+                    "unpublished": false,
+                    "first_production_date": null
+                },
+                {
+                    "id": 99450,
+                    "acmi_id": "175966",
+                    "title": "Early Bakelite model",
+                    "title_annotation": "",
+                    "slug": "view-master-black",
+                    "creator_credit": "Sawyer's Inc.",
+                    "credit_line": "",
+                    "headline_credit": "United States, c. 1950s",
+                    "thumbnail": {
+                        "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AEO175966_ViewMastersSawyerUSABakelite_34.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=EIna0I1sZLnD0a9tR16o8sV8i3g%3D&Expires=1627009211",
+                        "has_video": false
+                    },
+                    "record_type": "work",
+                    "type": "Object",
+                    "is_on_display": true,
+                    "last_on_display_place": "ACMI: Gallery 1",
+                    "last_on_display_date": "2031-02-16",
+                    "is_context_indigenous": false,
+                    "material_description": "Bakelite",
+                    "unpublished": false,
+                    "first_production_date": null
+                },
+                {
+                    "id": 99449,
+                    "acmi_id": "175965",
+                    "title": "European model",
+                    "title_annotation": "",
+                    "slug": "view-master-red",
+                    "creator_credit": "Sawyer's Inc.",
+                    "credit_line": "",
+                    "headline_credit": "Belgium, c. 1960-1970s",
+                    "thumbnail": {
+                        "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AEO175965_ViewMasterSawyerEuropeanModel_34.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=TEQCsXT%2FQehhDsFHX5oycSo1ds0%3D&Expires=1627009211",
+                        "has_video": false
+                    },
+                    "record_type": "work",
+                    "type": "Object",
+                    "is_on_display": true,
+                    "last_on_display_place": "ACMI: Gallery 1",
+                    "last_on_display_date": "2031-02-16",
+                    "is_context_indigenous": false,
+                    "material_description": "",
+                    "unpublished": false,
+                    "first_production_date": null
+                },
+                {
+                    "id": 99451,
+                    "acmi_id": "175969",
+                    "title": "GAF USA model",
+                    "title_annotation": "",
+                    "slug": "view-master-white-red-blue",
+                    "creator_credit": "Sawyer's Inc.",
+                    "credit_line": "",
+                    "headline_credit": "United States, c. 1960s-1970s",
+                    "thumbnail": {
+                        "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AEO175969_ViewMasterGAFUSA_34.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=LDLtRc1ZoF2J%2FwUcp4EekGruC0A%3D&Expires=1627009211",
+                        "has_video": false
+                    },
+                    "record_type": "work",
+                    "type": "Object",
+                    "is_on_display": true,
+                    "last_on_display_place": "ACMI: Gallery 1",
+                    "last_on_display_date": "2031-02-16",
+                    "is_context_indigenous": false,
+                    "material_description": "",
+                    "unpublished": false,
+                    "first_production_date": null
+                },
+                {
+                    "id": 99453,
+                    "acmi_id": "175972",
+                    "title": "Tyco Toys model classic red",
+                    "title_annotation": "",
+                    "slug": "view-master-classic-red-model",
+                    "creator_credit": "Tyco Toys and Sawyer's Inc.",
+                    "credit_line": "",
+                    "headline_credit": "United States, c. 1980s",
+                    "thumbnail": {
+                        "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AEO175972_ViewmasterTycoToysClassicRed_34.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=q9vuavxDDnYrVcDLGBN7LPV8s3E%3D&Expires=1627009211",
+                        "has_video": false
+                    },
+                    "record_type": "work",
+                    "type": "Object",
+                    "is_on_display": true,
+                    "last_on_display_place": "ACMI: Gallery 1",
+                    "last_on_display_date": "2031-02-16",
+                    "is_context_indigenous": false,
+                    "material_description": "",
+                    "unpublished": false,
+                    "first_production_date": null
+                }
+            ],
+            "source": {
+                "name": "Vernon",
+                "slug": "vernon"
+            },
+            "source_identifier": "175964",
+            "production_places": [
+                {
+                    "id": 37,
+                    "name": "Belgium",
+                    "slug": "belgium"
+                }
+            ],
+            "production_dates": [
+                {
+                    "date": "c. 1960s-1970s",
+                    "notes": "",
+                    "to_year": "c. 1960s-1970s"
+                }
+            ],
+            "labels": [
+                38943
+            ]
+        },
+        {
+            "id": 99449,
+            "acmi_id": "175965",
+            "title": "European model",
+            "title_annotation": "",
+            "slug": "view-master-red",
+            "creator_credit": "Sawyer's Inc.",
+            "credit_line": "",
+            "headline_credit": "Belgium, c. 1960-1970s",
+            "thumbnail": {
+                "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AEO175965_ViewMasterSawyerEuropeanModel_34.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=TEQCsXT%2FQehhDsFHX5oycSo1ds0%3D&Expires=1627009211",
+                "has_video": false
+            },
+            "record_type": "work",
+            "type": "Object",
+            "is_on_display": true,
+            "last_on_display_place": "ACMI: Gallery 1",
+            "last_on_display_date": "2031-02-16",
+            "is_context_indigenous": false,
+            "material_description": "",
+            "unpublished": false,
+            "first_production_date": null,
+            "brief_description": "<p>c.70&#8217;s  Sawyer&#8217;s Europe model, made in Belgium.  No lever spring</p>",
+            "constellations_primary": [],
+            "constellations_other": [],
+            "recommendations": [],
+            "title_for_label": "<p>European model</p>",
+            "creator_credit_for_label": "<p>Sawyer&#8217;s Inc.</p>",
+            "headline_credit_for_label": "<p>Belgium, c. 1960-1970s</p>",
+            "description": "<p>c.70&#8217;s  Sawyer&#8217;s Europe model, made in Belgium.  No lever spring</p>",
+            "description_for_label": [
+                "<p>c.70&#8217;s  Sawyer&#8217;s Europe model, made in Belgium.  No lever spring</p>"
+            ],
+            "credit_line_for_label": "<p>c.1960s–1970s</p>",
+            "details": [
+                {
+                    "label": "Curatorial section",
+                    "display_values": [
+                        "The Story of the Moving Image&nbsp;→ Moving Pictures&nbsp;→ 08. Immersive Innovations&nbsp;→ MI-08-C01"
+                    ]
+                },
+                {
+                    "label": "Measurements",
+                    "display_values": [
+                        "95 x 128 x 80mm"
+                    ]
+                }
+            ],
+            "stats": {
+                "tap_count": 0
+            },
+            "links": [],
+            "creators_primary": [
+                {
+                    "id": 1055185,
+                    "name": "Sawyer's Inc.",
+                    "creator_id": 71463,
+                    "role": "creator",
+                    "role_id": 968,
+                    "is_primary": true
+                }
+            ],
+            "creators_other": [],
+            "video_links": [],
+            "media_note": null,
+            "images": [
+                {
+                    "id": 12414,
+                    "image_file": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AEO175965_ViewMasterSawyerEuropeanModel_34.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=u9EPlfNc7Minnwh6nmp%2FCaQ2HC8%3D&Expires=1627009211",
+                    "image_file_thumbnail": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AEO175965_ViewMasterSawyerEuropeanModel_34.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=TEQCsXT%2FQehhDsFHX5oycSo1ds0%3D&Expires=1627009211",
+                    "image_file_xs": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AEO175965_ViewMasterSawyerEuropeanModel_34.jpg.480x480_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=EGjb6PCGZDcRDsAzwOiYM0CaBJ8%3D&Expires=1627009211",
+                    "image_file_s": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AEO175965_ViewMasterSawyerEuropeanModel_34.jpg.960x960_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=l2RFDAy%2B6U31PQB7dy%2FjKsMsSxg%3D&Expires=1627009211",
+                    "image_file_m": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AEO175965_ViewMasterSawyerEuropeanModel_34.jpg.1920x1920_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=NXwUTZ2pfLOJkNkvc0KOT7SmqW8%3D&Expires=1627009211",
+                    "image_file_l": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AEO175965_ViewMasterSawyerEuropeanModel_34.jpg.3840x3840_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=%2Fr7UqreVuOUH110VTAXK6wspqiE%3D&Expires=1627009211",
+                    "caption": "AEO175965_ViewMasterSawyerEuropeanModel_34",
+                    "credit_line": "Photograph by Egmont Contreras, ACMI",
+                    "alt_text": "",
+                    "width": 4621,
+                    "height": 3124,
+                    "access_level": "View anywhere"
+                },
+                {
+                    "id": 12415,
+                    "image_file": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AEO175965_ViewMasterSawyerEuropeanModel_Front.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=sKo7Z86s9V0cZAfPksUJuhC%2B%2FsE%3D&Expires=1627009211",
+                    "image_file_thumbnail": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AEO175965_ViewMasterSawyerEuropeanModel_Front.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=WMCEl8bXvIu%2FoJy1u3Vuxbd1GUw%3D&Expires=1627009211",
+                    "image_file_xs": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AEO175965_ViewMasterSawyerEuropeanModel_Front.jpg.480x480_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=EelHu8i8A7SDqt0CIRY9ua7lDuk%3D&Expires=1627009211",
+                    "image_file_s": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AEO175965_ViewMasterSawyerEuropeanModel_Front.jpg.960x960_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=K759T2vVSzQq3rkPe4i5Ks3RwRE%3D&Expires=1627009211",
+                    "image_file_m": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AEO175965_ViewMasterSawyerEuropeanModel_Front.jpg.1920x1920_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=dyws6CgiPV3QSru2FiRzxvCJaTY%3D&Expires=1627009211",
+                    "image_file_l": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AEO175965_ViewMasterSawyerEuropeanModel_Front.jpg.3840x3840_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=Nj6nJPQgAyEauLbQn6xx5LcYQG4%3D&Expires=1627009211",
+                    "caption": "AEO175965_ViewMasterSawyerEuropeanModel_Front",
+                    "credit_line": "Photograph by Egmont Contreras, ACMI",
+                    "alt_text": "",
+                    "width": 4412,
+                    "height": 3041,
+                    "access_level": "View anywhere"
+                },
+                {
+                    "id": 13970,
+                    "image_file": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/GROUP_ViewMasters.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=Ranoonc0RzDKsATw4Ez%2FfgVYQFc%3D&Expires=1627009211",
+                    "image_file_thumbnail": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/GROUP_ViewMasters.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=w1gjtImh14lK60i0wkWhRQQ4MhQ%3D&Expires=1627009211",
+                    "image_file_xs": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/GROUP_ViewMasters.jpg.480x480_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=7zSVOmaoht3Sc7RSCc3q%2FsRRlss%3D&Expires=1627009211",
+                    "image_file_s": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/GROUP_ViewMasters.jpg.960x960_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=AZW1l00UQaXo5Rc%2BtfUwv0YO7cw%3D&Expires=1627009211",
+                    "image_file_m": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/GROUP_ViewMasters.jpg.1920x1920_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=U%2BfeIJJkdtRyFja%2BrwdYFbdTKlA%3D&Expires=1627009211",
+                    "image_file_l": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/GROUP_ViewMasters.jpg.3840x3840_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=yW3IPmcQTChPmSolP9XYNT4CbIk%3D&Expires=1627009211",
+                    "caption": "GROUP_ViewMasters",
+                    "credit_line": "Photograph by Egmont Contreras, ACMI.",
+                    "alt_text": "",
+                    "width": 11811,
+                    "height": 7705,
+                    "access_level": "View anywhere"
+                }
+            ],
+            "videos": [],
+            "holdings": [],
+            "part_of": null,
+            "parts": [],
+            "part_siblings": [],
+            "group": {
+                "id": 112101,
+                "acmi_id": "183543",
+                "title": "View Masters",
+                "title_annotation": "",
+                "slug": "view-masters",
+                "creator_credit": "Sawyer's Inc.",
+                "credit_line": "",
+                "headline_credit": "United States",
+                "thumbnail": {
+                    "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AEO175971_ViewmasterTycoToysBlue_34.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=f9ng5%2BVNdOpO7GpgdbFbRLgWzpg%3D&Expires=1627009211",
+                    "has_video": false
+                },
+                "record_type": "group",
+                "type": "Film",
+                "is_on_display": true,
+                "last_on_display_place": "ACMI: Gallery 1",
+                "last_on_display_date": "2031-02-16",
+                "is_context_indigenous": false,
+                "material_description": "",
+                "unpublished": false,
+                "first_production_date": null
+            },
+            "group_works": [],
+            "group_siblings": [
+                {
+                    "id": 99452,
+                    "acmi_id": "175971",
+                    "title": "Tyco Toys model",
+                    "title_annotation": "",
+                    "slug": "view-master-rare-blue",
+                    "creator_credit": "Tyco Toys and Sawyer's Inc.",
+                    "credit_line": "",
+                    "headline_credit": "United States, c. 1980s",
+                    "thumbnail": {
+                        "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AEO175971_ViewmasterTycoToysBlue_34.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=f9ng5%2BVNdOpO7GpgdbFbRLgWzpg%3D&Expires=1627009211",
+                        "has_video": false
+                    },
+                    "record_type": "work",
+                    "type": "Object",
+                    "is_on_display": true,
+                    "last_on_display_place": "ACMI: Gallery 1",
+                    "last_on_display_date": "2031-02-16",
+                    "is_context_indigenous": false,
+                    "material_description": "",
+                    "unpublished": false,
+                    "first_production_date": null
+                },
+                {
+                    "id": 99450,
+                    "acmi_id": "175966",
+                    "title": "Early Bakelite model",
+                    "title_annotation": "",
+                    "slug": "view-master-black",
+                    "creator_credit": "Sawyer's Inc.",
+                    "credit_line": "",
+                    "headline_credit": "United States, c. 1950s",
+                    "thumbnail": {
+                        "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AEO175966_ViewMastersSawyerUSABakelite_34.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=EIna0I1sZLnD0a9tR16o8sV8i3g%3D&Expires=1627009211",
+                        "has_video": false
+                    },
+                    "record_type": "work",
+                    "type": "Object",
+                    "is_on_display": true,
+                    "last_on_display_place": "ACMI: Gallery 1",
+                    "last_on_display_date": "2031-02-16",
+                    "is_context_indigenous": false,
+                    "material_description": "Bakelite",
+                    "unpublished": false,
+                    "first_production_date": null
+                },
+                {
+                    "id": 99448,
+                    "acmi_id": "175964",
+                    "title": "European model",
+                    "title_annotation": "",
+                    "slug": "view-master-grey",
+                    "creator_credit": "Sawyer's Inc.",
+                    "credit_line": "",
+                    "headline_credit": "Belgium, c. 1960s-1970s",
+                    "thumbnail": {
+                        "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AEO175964_ViewmasterSawyerEuropeanModel_34.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=Go8ZGK5ih%2FJKMxhclKJdLPgjEgU%3D&Expires=1627009211",
+                        "has_video": false
+                    },
+                    "record_type": "work",
+                    "type": "Object",
+                    "is_on_display": true,
+                    "last_on_display_place": "ACMI: Gallery 1",
+                    "last_on_display_date": "2031-02-16",
+                    "is_context_indigenous": false,
+                    "material_description": "",
+                    "unpublished": false,
+                    "first_production_date": null
+                },
+                {
+                    "id": 99451,
+                    "acmi_id": "175969",
+                    "title": "GAF USA model",
+                    "title_annotation": "",
+                    "slug": "view-master-white-red-blue",
+                    "creator_credit": "Sawyer's Inc.",
+                    "credit_line": "",
+                    "headline_credit": "United States, c. 1960s-1970s",
+                    "thumbnail": {
+                        "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AEO175969_ViewMasterGAFUSA_34.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=LDLtRc1ZoF2J%2FwUcp4EekGruC0A%3D&Expires=1627009211",
+                        "has_video": false
+                    },
+                    "record_type": "work",
+                    "type": "Object",
+                    "is_on_display": true,
+                    "last_on_display_place": "ACMI: Gallery 1",
+                    "last_on_display_date": "2031-02-16",
+                    "is_context_indigenous": false,
+                    "material_description": "",
+                    "unpublished": false,
+                    "first_production_date": null
+                },
+                {
+                    "id": 99453,
+                    "acmi_id": "175972",
+                    "title": "Tyco Toys model classic red",
+                    "title_annotation": "",
+                    "slug": "view-master-classic-red-model",
+                    "creator_credit": "Tyco Toys and Sawyer's Inc.",
+                    "credit_line": "",
+                    "headline_credit": "United States, c. 1980s",
+                    "thumbnail": {
+                        "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AEO175972_ViewmasterTycoToysClassicRed_34.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=q9vuavxDDnYrVcDLGBN7LPV8s3E%3D&Expires=1627009211",
+                        "has_video": false
+                    },
+                    "record_type": "work",
+                    "type": "Object",
+                    "is_on_display": true,
+                    "last_on_display_place": "ACMI: Gallery 1",
+                    "last_on_display_date": "2031-02-16",
+                    "is_context_indigenous": false,
+                    "material_description": "",
+                    "unpublished": false,
+                    "first_production_date": null
+                }
+            ],
+            "source": {
+                "name": "Vernon",
+                "slug": "vernon"
+            },
+            "source_identifier": "175965",
+            "production_places": [
+                {
+                    "id": 37,
+                    "name": "Belgium",
+                    "slug": "belgium"
+                }
+            ],
+            "production_dates": [
+                {
+                    "date": "c. 1960-1970s",
+                    "notes": "",
+                    "to_year": "c. 1960-1970s"
+                }
+            ],
+            "labels": [
+                38944
+            ]
+        },
+        {
+            "id": 99450,
+            "acmi_id": "175966",
+            "title": "Early Bakelite model",
+            "title_annotation": "",
+            "slug": "view-master-black",
+            "creator_credit": "Sawyer's Inc.",
+            "credit_line": "",
+            "headline_credit": "United States, c. 1950s",
+            "thumbnail": {
+                "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AEO175966_ViewMastersSawyerUSABakelite_34.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=EIna0I1sZLnD0a9tR16o8sV8i3g%3D&Expires=1627009211",
+                "has_video": false
+            },
+            "record_type": "work",
+            "type": "Object",
+            "is_on_display": true,
+            "last_on_display_place": "ACMI: Gallery 1",
+            "last_on_display_date": "2031-02-16",
+            "is_context_indigenous": false,
+            "material_description": "Bakelite",
+            "unpublished": false,
+            "first_production_date": null,
+            "brief_description": "<p>c.50&#8217;s Sawyer&#8217;s USA early bakelite model</p>",
+            "constellations_primary": [],
+            "constellations_other": [],
+            "recommendations": [],
+            "title_for_label": "<p>Early Bakelite model</p>",
+            "creator_credit_for_label": "<p>Sawyer&#8217;s Inc.</p>",
+            "headline_credit_for_label": "<p>United States, c. 1950s</p>",
+            "description": "<p>c.50&#8217;s Sawyer&#8217;s USA early bakelite model</p>",
+            "description_for_label": [
+                "<p>c.50&#8217;s Sawyer&#8217;s USA early bakelite model</p>"
+            ],
+            "credit_line_for_label": "<p>c.1950s</p>",
+            "details": [
+                {
+                    "label": "Curatorial section",
+                    "display_values": [
+                        "The Story of the Moving Image&nbsp;→ Moving Pictures&nbsp;→ 08. Immersive Innovations&nbsp;→ MI-08-C01"
+                    ]
+                },
+                {
+                    "label": "Measurements",
+                    "display_values": [
+                        "95 x 115 x 75mm"
+                    ]
+                },
+                {
+                    "label": "Materials",
+                    "display_values": [
+                        "Bakelite"
+                    ]
+                }
+            ],
+            "stats": {
+                "tap_count": 0
+            },
+            "links": [],
+            "creators_primary": [
+                {
+                    "id": 1134351,
+                    "name": "Sawyer's Inc.",
+                    "creator_id": 71463,
+                    "role": "creator",
+                    "role_id": 968,
+                    "is_primary": true
+                }
+            ],
+            "creators_other": [],
+            "video_links": [],
+            "media_note": null,
+            "images": [
+                {
+                    "id": 12416,
+                    "image_file": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AEO175966_ViewMastersSawyerUSABakelite_34.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=HtWCewPGxJruMIa04IFeVXhj7xo%3D&Expires=1627009211",
+                    "image_file_thumbnail": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AEO175966_ViewMastersSawyerUSABakelite_34.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=EIna0I1sZLnD0a9tR16o8sV8i3g%3D&Expires=1627009211",
+                    "image_file_xs": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AEO175966_ViewMastersSawyerUSABakelite_34.jpg.480x480_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=K4VLaLOPCtGSdbbeGz%2BVVPPMIYM%3D&Expires=1627009211",
+                    "image_file_s": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AEO175966_ViewMastersSawyerUSABakelite_34.jpg.960x960_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=q7%2BOcADAEhEL79tirRymAhBjwK8%3D&Expires=1627009211",
+                    "image_file_m": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AEO175966_ViewMastersSawyerUSABakelite_34.jpg.1920x1920_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=VirXbR380A7cBYv3OhffaPlmz3s%3D&Expires=1627009211",
+                    "image_file_l": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AEO175966_ViewMastersSawyerUSABakelite_34.jpg.3840x3840_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=nywXW%2ByQooysAq2C40XRQjq4cZo%3D&Expires=1627009211",
+                    "caption": "AEO175966_ViewMastersSawyerUSABakelite_34",
+                    "credit_line": "Photograph by Egmont Contreras, ACMI",
+                    "alt_text": "",
+                    "width": 4800,
+                    "height": 3200,
+                    "access_level": "View anywhere"
+                },
+                {
+                    "id": 12417,
+                    "image_file": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AEO175966_ViewMastersSawyerUSABakelite_Front.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=xPMWz7cVRx%2F5f0hASM000tT9HYQ%3D&Expires=1627009211",
+                    "image_file_thumbnail": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AEO175966_ViewMastersSawyerUSABakelite_Front.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=c2GFFcD%2BUxOujq%2ByVnqYUy2qPe8%3D&Expires=1627009211",
+                    "image_file_xs": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AEO175966_ViewMastersSawyerUSABakelite_Front.jpg.480x480_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=yayE62xTJK7hMTLPKG9znAEGkVA%3D&Expires=1627009211",
+                    "image_file_s": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AEO175966_ViewMastersSawyerUSABakelite_Front.jpg.960x960_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=lgY213iSnPNd4cBu1axRfT1GC9w%3D&Expires=1627009211",
+                    "image_file_m": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AEO175966_ViewMastersSawyerUSABakelite_Front.jpg.1920x1920_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=ITsCigGZTiuMlJ2yKVoczkq8Lhg%3D&Expires=1627009211",
+                    "image_file_l": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AEO175966_ViewMastersSawyerUSABakelite_Front.jpg.3840x3840_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=lKWPKVMMN468VHTSVO11Rwm6ImA%3D&Expires=1627009211",
+                    "caption": "AEO175966_ViewMastersSawyerUSABakelite_Front",
+                    "credit_line": "Photograph by Egmont Contreras, ACMI",
+                    "alt_text": "",
+                    "width": 4255,
+                    "height": 3011,
+                    "access_level": "View anywhere"
+                },
+                {
+                    "id": 13970,
+                    "image_file": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/GROUP_ViewMasters.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=Ranoonc0RzDKsATw4Ez%2FfgVYQFc%3D&Expires=1627009211",
+                    "image_file_thumbnail": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/GROUP_ViewMasters.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=w1gjtImh14lK60i0wkWhRQQ4MhQ%3D&Expires=1627009211",
+                    "image_file_xs": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/GROUP_ViewMasters.jpg.480x480_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=7zSVOmaoht3Sc7RSCc3q%2FsRRlss%3D&Expires=1627009211",
+                    "image_file_s": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/GROUP_ViewMasters.jpg.960x960_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=AZW1l00UQaXo5Rc%2BtfUwv0YO7cw%3D&Expires=1627009211",
+                    "image_file_m": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/GROUP_ViewMasters.jpg.1920x1920_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=U%2BfeIJJkdtRyFja%2BrwdYFbdTKlA%3D&Expires=1627009211",
+                    "image_file_l": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/GROUP_ViewMasters.jpg.3840x3840_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=yW3IPmcQTChPmSolP9XYNT4CbIk%3D&Expires=1627009211",
+                    "caption": "GROUP_ViewMasters",
+                    "credit_line": "Photograph by Egmont Contreras, ACMI.",
+                    "alt_text": "",
+                    "width": 11811,
+                    "height": 7705,
+                    "access_level": "View anywhere"
+                }
+            ],
+            "videos": [],
+            "holdings": [],
+            "part_of": null,
+            "parts": [],
+            "part_siblings": [],
+            "group": {
+                "id": 112101,
+                "acmi_id": "183543",
+                "title": "View Masters",
+                "title_annotation": "",
+                "slug": "view-masters",
+                "creator_credit": "Sawyer's Inc.",
+                "credit_line": "",
+                "headline_credit": "United States",
+                "thumbnail": {
+                    "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AEO175971_ViewmasterTycoToysBlue_34.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=f9ng5%2BVNdOpO7GpgdbFbRLgWzpg%3D&Expires=1627009211",
+                    "has_video": false
+                },
+                "record_type": "group",
+                "type": "Film",
+                "is_on_display": true,
+                "last_on_display_place": "ACMI: Gallery 1",
+                "last_on_display_date": "2031-02-16",
+                "is_context_indigenous": false,
+                "material_description": "",
+                "unpublished": false,
+                "first_production_date": null
+            },
+            "group_works": [],
+            "group_siblings": [
+                {
+                    "id": 99452,
+                    "acmi_id": "175971",
+                    "title": "Tyco Toys model",
+                    "title_annotation": "",
+                    "slug": "view-master-rare-blue",
+                    "creator_credit": "Tyco Toys and Sawyer's Inc.",
+                    "credit_line": "",
+                    "headline_credit": "United States, c. 1980s",
+                    "thumbnail": {
+                        "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AEO175971_ViewmasterTycoToysBlue_34.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=f9ng5%2BVNdOpO7GpgdbFbRLgWzpg%3D&Expires=1627009211",
+                        "has_video": false
+                    },
+                    "record_type": "work",
+                    "type": "Object",
+                    "is_on_display": true,
+                    "last_on_display_place": "ACMI: Gallery 1",
+                    "last_on_display_date": "2031-02-16",
+                    "is_context_indigenous": false,
+                    "material_description": "",
+                    "unpublished": false,
+                    "first_production_date": null
+                },
+                {
+                    "id": 99449,
+                    "acmi_id": "175965",
+                    "title": "European model",
+                    "title_annotation": "",
+                    "slug": "view-master-red",
+                    "creator_credit": "Sawyer's Inc.",
+                    "credit_line": "",
+                    "headline_credit": "Belgium, c. 1960-1970s",
+                    "thumbnail": {
+                        "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AEO175965_ViewMasterSawyerEuropeanModel_34.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=TEQCsXT%2FQehhDsFHX5oycSo1ds0%3D&Expires=1627009211",
+                        "has_video": false
+                    },
+                    "record_type": "work",
+                    "type": "Object",
+                    "is_on_display": true,
+                    "last_on_display_place": "ACMI: Gallery 1",
+                    "last_on_display_date": "2031-02-16",
+                    "is_context_indigenous": false,
+                    "material_description": "",
+                    "unpublished": false,
+                    "first_production_date": null
+                },
+                {
+                    "id": 99448,
+                    "acmi_id": "175964",
+                    "title": "European model",
+                    "title_annotation": "",
+                    "slug": "view-master-grey",
+                    "creator_credit": "Sawyer's Inc.",
+                    "credit_line": "",
+                    "headline_credit": "Belgium, c. 1960s-1970s",
+                    "thumbnail": {
+                        "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AEO175964_ViewmasterSawyerEuropeanModel_34.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=Go8ZGK5ih%2FJKMxhclKJdLPgjEgU%3D&Expires=1627009211",
+                        "has_video": false
+                    },
+                    "record_type": "work",
+                    "type": "Object",
+                    "is_on_display": true,
+                    "last_on_display_place": "ACMI: Gallery 1",
+                    "last_on_display_date": "2031-02-16",
+                    "is_context_indigenous": false,
+                    "material_description": "",
+                    "unpublished": false,
+                    "first_production_date": null
+                },
+                {
+                    "id": 99451,
+                    "acmi_id": "175969",
+                    "title": "GAF USA model",
+                    "title_annotation": "",
+                    "slug": "view-master-white-red-blue",
+                    "creator_credit": "Sawyer's Inc.",
+                    "credit_line": "",
+                    "headline_credit": "United States, c. 1960s-1970s",
+                    "thumbnail": {
+                        "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AEO175969_ViewMasterGAFUSA_34.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=LDLtRc1ZoF2J%2FwUcp4EekGruC0A%3D&Expires=1627009211",
+                        "has_video": false
+                    },
+                    "record_type": "work",
+                    "type": "Object",
+                    "is_on_display": true,
+                    "last_on_display_place": "ACMI: Gallery 1",
+                    "last_on_display_date": "2031-02-16",
+                    "is_context_indigenous": false,
+                    "material_description": "",
+                    "unpublished": false,
+                    "first_production_date": null
+                },
+                {
+                    "id": 99453,
+                    "acmi_id": "175972",
+                    "title": "Tyco Toys model classic red",
+                    "title_annotation": "",
+                    "slug": "view-master-classic-red-model",
+                    "creator_credit": "Tyco Toys and Sawyer's Inc.",
+                    "credit_line": "",
+                    "headline_credit": "United States, c. 1980s",
+                    "thumbnail": {
+                        "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AEO175972_ViewmasterTycoToysClassicRed_34.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=q9vuavxDDnYrVcDLGBN7LPV8s3E%3D&Expires=1627009211",
+                        "has_video": false
+                    },
+                    "record_type": "work",
+                    "type": "Object",
+                    "is_on_display": true,
+                    "last_on_display_place": "ACMI: Gallery 1",
+                    "last_on_display_date": "2031-02-16",
+                    "is_context_indigenous": false,
+                    "material_description": "",
+                    "unpublished": false,
+                    "first_production_date": null
+                }
+            ],
+            "source": {
+                "name": "Vernon",
+                "slug": "vernon"
+            },
+            "source_identifier": "175966",
+            "production_places": [
+                {
+                    "id": 2,
+                    "name": "United States",
+                    "slug": "united-states"
+                }
+            ],
+            "production_dates": [
+                {
+                    "date": "c. 1950s",
+                    "notes": "",
+                    "to_year": "c. 1950s"
+                }
+            ],
+            "labels": [
+                38945
+            ]
+        },
+        {
+            "id": 99452,
+            "acmi_id": "175971",
+            "title": "Tyco Toys model",
+            "title_annotation": "",
+            "slug": "view-master-rare-blue",
+            "creator_credit": "Tyco Toys and Sawyer's Inc.",
+            "credit_line": "",
+            "headline_credit": "United States, c. 1980s",
+            "thumbnail": {
+                "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AEO175971_ViewmasterTycoToysBlue_34.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=f9ng5%2BVNdOpO7GpgdbFbRLgWzpg%3D&Expires=1627009211",
+                "has_video": false
+            },
+            "record_type": "work",
+            "type": "Object",
+            "is_on_display": true,
+            "last_on_display_place": "ACMI: Gallery 1",
+            "last_on_display_date": "2031-02-16",
+            "is_context_indigenous": false,
+            "material_description": "",
+            "unpublished": false,
+            "first_production_date": null,
+            "brief_description": "<p>c.80&#8217;s Tyco Toys (rare blue)</p>",
+            "constellations_primary": [],
+            "constellations_other": [],
+            "recommendations": [],
+            "title_for_label": "<p>Tyco Toys model</p>",
+            "creator_credit_for_label": "<p>Tyco Toys and Sawyer&#8217;s Inc.</p>",
+            "headline_credit_for_label": "<p>United States, c. 1980s</p>",
+            "description": "<p>c.80&#8217;s Tyco Toys (rare blue)</p>",
+            "description_for_label": [
+                "<p>c.80&#8217;s Tyco Toys (rare blue)</p>"
+            ],
+            "credit_line_for_label": "<p>c.1980s</p>",
+            "details": [
+                {
+                    "label": "Curatorial section",
+                    "display_values": [
+                        "The Story of the Moving Image&nbsp;→ Moving Pictures&nbsp;→ 08. Immersive Innovations&nbsp;→ MI-08-C01"
+                    ]
+                },
+                {
+                    "label": "Measurements",
+                    "display_values": [
+                        "100 x 135 x 80mm"
+                    ]
+                }
+            ],
+            "stats": {
+                "tap_count": 0
+            },
+            "links": [],
+            "creators_primary": [
+                {
+                    "id": 1055205,
+                    "name": "Tyco Toys",
+                    "creator_id": 71986,
+                    "role": "creator",
+                    "role_id": 968,
+                    "is_primary": true
+                },
+                {
+                    "id": 1055204,
+                    "name": "Sawyer's Inc.",
+                    "creator_id": 71463,
+                    "role": "creator",
+                    "role_id": 968,
+                    "is_primary": true
+                }
+            ],
+            "creators_other": [],
+            "video_links": [],
+            "media_note": null,
+            "images": [
+                {
+                    "id": 12420,
+                    "image_file": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AEO175971_ViewmasterTycoToysBlue_34.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=2NfiQH4h%2BVzDb6yAqaS%2FoGXCMzk%3D&Expires=1627009211",
+                    "image_file_thumbnail": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AEO175971_ViewmasterTycoToysBlue_34.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=f9ng5%2BVNdOpO7GpgdbFbRLgWzpg%3D&Expires=1627009211",
+                    "image_file_xs": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AEO175971_ViewmasterTycoToysBlue_34.jpg.480x480_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=BJCagxuClayIKr%2FaVQygRaRgBa0%3D&Expires=1627009211",
+                    "image_file_s": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AEO175971_ViewmasterTycoToysBlue_34.jpg.960x960_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=gaDcYLldVuBzNy%2BjYPqZ7pbggV4%3D&Expires=1627009211",
+                    "image_file_m": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AEO175971_ViewmasterTycoToysBlue_34.jpg.1920x1920_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=42xOLY0XRhj%2FsYP6Xldrja3d6Bw%3D&Expires=1627009211",
+                    "image_file_l": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AEO175971_ViewmasterTycoToysBlue_34.jpg.3840x3840_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=tPQHADu%2FSvYG2i859AZFo%2FtGQqo%3D&Expires=1627009211",
+                    "caption": "AEO175971_ViewmasterTycoToysBlue_34",
+                    "credit_line": "Photograph by Egmont Contreras, ACMI.",
+                    "alt_text": "",
+                    "width": 4800,
+                    "height": 3200,
+                    "access_level": "View anywhere"
+                },
+                {
+                    "id": 12421,
+                    "image_file": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AEO175971_ViewmasterTycoToysBlue_Front.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=M8igStwTujE4h%2BrHHoWo1GCZY90%3D&Expires=1627009211",
+                    "image_file_thumbnail": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AEO175971_ViewmasterTycoToysBlue_Front.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=oTu67FTukUAaRMNLaiM1fa67m50%3D&Expires=1627009211",
+                    "image_file_xs": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AEO175971_ViewmasterTycoToysBlue_Front.jpg.480x480_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=jmH3vAT6hIBp00Pavp9B%2FQEcqRg%3D&Expires=1627009211",
+                    "image_file_s": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AEO175971_ViewmasterTycoToysBlue_Front.jpg.960x960_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=Crix93JWY8muiP%2FCYj6KPNdAu6Q%3D&Expires=1627009211",
+                    "image_file_m": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AEO175971_ViewmasterTycoToysBlue_Front.jpg.1920x1920_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=%2BecwAgWmtaZmkkhEYSVOnVum24w%3D&Expires=1627009211",
+                    "image_file_l": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AEO175971_ViewmasterTycoToysBlue_Front.jpg.3840x3840_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=ejEPKiFwsOIjL54YnFZspTW41PY%3D&Expires=1627009211",
+                    "caption": "AEO175971_ViewmasterTycoToysBlue_Front",
+                    "credit_line": "Photograph by Egmont Contreras, ACMI.",
+                    "alt_text": "",
+                    "width": 4800,
+                    "height": 3200,
+                    "access_level": "View anywhere"
+                },
+                {
+                    "id": 13970,
+                    "image_file": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/GROUP_ViewMasters.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=Ranoonc0RzDKsATw4Ez%2FfgVYQFc%3D&Expires=1627009211",
+                    "image_file_thumbnail": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/GROUP_ViewMasters.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=w1gjtImh14lK60i0wkWhRQQ4MhQ%3D&Expires=1627009211",
+                    "image_file_xs": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/GROUP_ViewMasters.jpg.480x480_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=7zSVOmaoht3Sc7RSCc3q%2FsRRlss%3D&Expires=1627009211",
+                    "image_file_s": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/GROUP_ViewMasters.jpg.960x960_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=AZW1l00UQaXo5Rc%2BtfUwv0YO7cw%3D&Expires=1627009211",
+                    "image_file_m": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/GROUP_ViewMasters.jpg.1920x1920_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=U%2BfeIJJkdtRyFja%2BrwdYFbdTKlA%3D&Expires=1627009211",
+                    "image_file_l": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/GROUP_ViewMasters.jpg.3840x3840_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=yW3IPmcQTChPmSolP9XYNT4CbIk%3D&Expires=1627009211",
+                    "caption": "GROUP_ViewMasters",
+                    "credit_line": "Photograph by Egmont Contreras, ACMI.",
+                    "alt_text": "",
+                    "width": 11811,
+                    "height": 7705,
+                    "access_level": "View anywhere"
+                }
+            ],
+            "videos": [],
+            "holdings": [],
+            "part_of": null,
+            "parts": [],
+            "part_siblings": [],
+            "group": {
+                "id": 112101,
+                "acmi_id": "183543",
+                "title": "View Masters",
+                "title_annotation": "",
+                "slug": "view-masters",
+                "creator_credit": "Sawyer's Inc.",
+                "credit_line": "",
+                "headline_credit": "United States",
+                "thumbnail": {
+                    "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AEO175971_ViewmasterTycoToysBlue_34.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=f9ng5%2BVNdOpO7GpgdbFbRLgWzpg%3D&Expires=1627009211",
+                    "has_video": false
+                },
+                "record_type": "group",
+                "type": "Film",
+                "is_on_display": true,
+                "last_on_display_place": "ACMI: Gallery 1",
+                "last_on_display_date": "2031-02-16",
+                "is_context_indigenous": false,
+                "material_description": "",
+                "unpublished": false,
+                "first_production_date": null
+            },
+            "group_works": [],
+            "group_siblings": [
+                {
+                    "id": 99450,
+                    "acmi_id": "175966",
+                    "title": "Early Bakelite model",
+                    "title_annotation": "",
+                    "slug": "view-master-black",
+                    "creator_credit": "Sawyer's Inc.",
+                    "credit_line": "",
+                    "headline_credit": "United States, c. 1950s",
+                    "thumbnail": {
+                        "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AEO175966_ViewMastersSawyerUSABakelite_34.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=EIna0I1sZLnD0a9tR16o8sV8i3g%3D&Expires=1627009211",
+                        "has_video": false
+                    },
+                    "record_type": "work",
+                    "type": "Object",
+                    "is_on_display": true,
+                    "last_on_display_place": "ACMI: Gallery 1",
+                    "last_on_display_date": "2031-02-16",
+                    "is_context_indigenous": false,
+                    "material_description": "Bakelite",
+                    "unpublished": false,
+                    "first_production_date": null
+                },
+                {
+                    "id": 99449,
+                    "acmi_id": "175965",
+                    "title": "European model",
+                    "title_annotation": "",
+                    "slug": "view-master-red",
+                    "creator_credit": "Sawyer's Inc.",
+                    "credit_line": "",
+                    "headline_credit": "Belgium, c. 1960-1970s",
+                    "thumbnail": {
+                        "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AEO175965_ViewMasterSawyerEuropeanModel_34.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=TEQCsXT%2FQehhDsFHX5oycSo1ds0%3D&Expires=1627009211",
+                        "has_video": false
+                    },
+                    "record_type": "work",
+                    "type": "Object",
+                    "is_on_display": true,
+                    "last_on_display_place": "ACMI: Gallery 1",
+                    "last_on_display_date": "2031-02-16",
+                    "is_context_indigenous": false,
+                    "material_description": "",
+                    "unpublished": false,
+                    "first_production_date": null
+                },
+                {
+                    "id": 99448,
+                    "acmi_id": "175964",
+                    "title": "European model",
+                    "title_annotation": "",
+                    "slug": "view-master-grey",
+                    "creator_credit": "Sawyer's Inc.",
+                    "credit_line": "",
+                    "headline_credit": "Belgium, c. 1960s-1970s",
+                    "thumbnail": {
+                        "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AEO175964_ViewmasterSawyerEuropeanModel_34.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=Go8ZGK5ih%2FJKMxhclKJdLPgjEgU%3D&Expires=1627009211",
+                        "has_video": false
+                    },
+                    "record_type": "work",
+                    "type": "Object",
+                    "is_on_display": true,
+                    "last_on_display_place": "ACMI: Gallery 1",
+                    "last_on_display_date": "2031-02-16",
+                    "is_context_indigenous": false,
+                    "material_description": "",
+                    "unpublished": false,
+                    "first_production_date": null
+                },
+                {
+                    "id": 99451,
+                    "acmi_id": "175969",
+                    "title": "GAF USA model",
+                    "title_annotation": "",
+                    "slug": "view-master-white-red-blue",
+                    "creator_credit": "Sawyer's Inc.",
+                    "credit_line": "",
+                    "headline_credit": "United States, c. 1960s-1970s",
+                    "thumbnail": {
+                        "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AEO175969_ViewMasterGAFUSA_34.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=LDLtRc1ZoF2J%2FwUcp4EekGruC0A%3D&Expires=1627009211",
+                        "has_video": false
+                    },
+                    "record_type": "work",
+                    "type": "Object",
+                    "is_on_display": true,
+                    "last_on_display_place": "ACMI: Gallery 1",
+                    "last_on_display_date": "2031-02-16",
+                    "is_context_indigenous": false,
+                    "material_description": "",
+                    "unpublished": false,
+                    "first_production_date": null
+                },
+                {
+                    "id": 99453,
+                    "acmi_id": "175972",
+                    "title": "Tyco Toys model classic red",
+                    "title_annotation": "",
+                    "slug": "view-master-classic-red-model",
+                    "creator_credit": "Tyco Toys and Sawyer's Inc.",
+                    "credit_line": "",
+                    "headline_credit": "United States, c. 1980s",
+                    "thumbnail": {
+                        "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AEO175972_ViewmasterTycoToysClassicRed_34.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=q9vuavxDDnYrVcDLGBN7LPV8s3E%3D&Expires=1627009211",
+                        "has_video": false
+                    },
+                    "record_type": "work",
+                    "type": "Object",
+                    "is_on_display": true,
+                    "last_on_display_place": "ACMI: Gallery 1",
+                    "last_on_display_date": "2031-02-16",
+                    "is_context_indigenous": false,
+                    "material_description": "",
+                    "unpublished": false,
+                    "first_production_date": null
+                }
+            ],
+            "source": {
+                "name": "Vernon",
+                "slug": "vernon"
+            },
+            "source_identifier": "175971",
+            "production_places": [
+                {
+                    "id": 2,
+                    "name": "United States",
+                    "slug": "united-states"
+                }
+            ],
+            "production_dates": [
+                {
+                    "date": "c. 1980s",
+                    "notes": "",
+                    "to_year": "c. 1980s"
+                }
+            ],
+            "labels": [
+                38947
+            ]
+        },
+        {
+            "id": 99445,
+            "acmi_id": "175950",
+            "title": "Peacock slipping slide",
+            "title_annotation": "",
+            "slug": "magic-lantern-slipping-slide-peacock",
+            "creator_credit": "Maker not documented",
+            "credit_line": "",
+            "headline_credit": "France, c. 1870",
+            "thumbnail": {
+                "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AEO175950_MLS_Peacock_Front.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=nKgJTHtTl78OKoRz4os%2Bzx5RvF4%3D&Expires=1627009211",
+                "has_video": false
+            },
+            "record_type": "work",
+            "type": "Object",
+            "is_on_display": true,
+            "last_on_display_place": "ACMI: Gallery 1",
+            "last_on_display_date": "2021-08-12",
+            "is_context_indigenous": false,
+            "material_description": "wood, glass, ink",
+            "unpublished": false,
+            "first_production_date": null,
+            "brief_description": "",
+            "constellations_primary": [],
+            "constellations_other": [],
+            "recommendations": [],
+            "title_for_label": "<p>Peacock slipping slide</p>",
+            "creator_credit_for_label": "<p>Maker not documented</p>",
+            "headline_credit_for_label": "<p>France, c. 1870</p>",
+            "description": "",
+            "description_for_label": [],
+            "credit_line_for_label": "",
+            "details": [
+                {
+                    "label": "Curatorial section",
+                    "display_values": [
+                        "The Story of the Moving Image&nbsp;→ Moving Pictures&nbsp;→ 02. Play and Illusion&nbsp;→ MI-02-C01"
+                    ]
+                },
+                {
+                    "label": "Measurements",
+                    "display_values": [
+                        "100 x 180 x 10mm"
+                    ]
+                },
+                {
+                    "label": "Materials",
+                    "display_values": [
+                        "wood, glass, ink"
+                    ]
+                }
+            ],
+            "stats": {
+                "tap_count": 0
+            },
+            "links": [],
+            "creators_primary": [
+                {
+                    "id": 1134350,
+                    "name": "Maker not documented",
+                    "creator_id": 71446,
+                    "role": "creator",
+                    "role_id": 968,
+                    "is_primary": true
+                }
+            ],
+            "creators_other": [],
+            "video_links": [],
+            "media_note": null,
+            "images": [
+                {
+                    "id": 12213,
+                    "image_file": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AEO175950_MLS_Peacock_Front.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=7HPN%2FXAYcPEYeJsRW2Vbzw%2BKEHc%3D&Expires=1627009211",
+                    "image_file_thumbnail": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AEO175950_MLS_Peacock_Front.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=nKgJTHtTl78OKoRz4os%2Bzx5RvF4%3D&Expires=1627009211",
+                    "image_file_xs": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AEO175950_MLS_Peacock_Front.jpg.480x480_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=cx4d9jjmSudhXCL%2F%2BGMV5qUAv3M%3D&Expires=1627009211",
+                    "image_file_s": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AEO175950_MLS_Peacock_Front.jpg.960x960_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=A5d6%2B7pEln6%2FPcyuIKWdPHUdhKQ%3D&Expires=1627009211",
+                    "image_file_m": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AEO175950_MLS_Peacock_Front.jpg.1920x1920_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=UJqc7OQUEoTAfT%2FMKNk8FoWVYo0%3D&Expires=1627009211",
+                    "image_file_l": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AEO175950_MLS_Peacock_Front.jpg.3840x3840_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=8yOpDdTaZhSFCS1YDI9a7Guwkoo%3D&Expires=1627009211",
+                    "caption": "AEO175950_MLS_Peacock_Front",
+                    "credit_line": "Photograph by Egmont Contreras, ACMI",
+                    "alt_text": "",
+                    "width": 4580,
+                    "height": 2937,
+                    "access_level": "View anywhere"
+                },
+                {
+                    "id": 12212,
+                    "image_file": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AEO175950_MLS_Peacock_Front_open.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=K%2BJ32ioFTpCPw1rxGFTerx4d%2FdA%3D&Expires=1627009211",
+                    "image_file_thumbnail": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AEO175950_MLS_Peacock_Front_open.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=Y9h8PCz2tkKUjNTNdED1fEhGc4s%3D&Expires=1627009211",
+                    "image_file_xs": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AEO175950_MLS_Peacock_Front_open.jpg.480x480_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=IvFZTg63bhkIAl0%2FtRgKf2HtYkc%3D&Expires=1627009211",
+                    "image_file_s": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AEO175950_MLS_Peacock_Front_open.jpg.960x960_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=yuGWv50RuNXDdebZ5hXK4prAy%2BI%3D&Expires=1627009211",
+                    "image_file_m": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AEO175950_MLS_Peacock_Front_open.jpg.1920x1920_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=2BjWYi6OcvTbuJ2jZER3WCmX%2B0E%3D&Expires=1627009211",
+                    "image_file_l": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AEO175950_MLS_Peacock_Front_open.jpg.3840x3840_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=psqCaCWCfEC0EAcK6x%2BSl2k%2Fahs%3D&Expires=1627009211",
+                    "caption": "AEO175950_MLS_Peacock_Front_open",
+                    "credit_line": "Photograph by Egmont Contreras, ACMI",
+                    "alt_text": "",
+                    "width": 4608,
+                    "height": 2944,
+                    "access_level": "View anywhere"
+                },
+                {
+                    "id": 12214,
+                    "image_file": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AEO175950_MLS_Peacock_Back.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=y6nsW%2BpK8B%2FnWrPg%2FZOYfrCcCzg%3D&Expires=1627009211",
+                    "image_file_thumbnail": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AEO175950_MLS_Peacock_Back.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=rk0iXNbpXsXyMRQQU6hJrXCgn5k%3D&Expires=1627009211",
+                    "image_file_xs": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AEO175950_MLS_Peacock_Back.jpg.480x480_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=7AQx6dpIZwFFOnvYpDkF9XJ1%2FmU%3D&Expires=1627009211",
+                    "image_file_s": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AEO175950_MLS_Peacock_Back.jpg.960x960_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=MObkpUCmDdCOuIy5FmKP8XtpplA%3D&Expires=1627009211",
+                    "image_file_m": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AEO175950_MLS_Peacock_Back.jpg.1920x1920_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=ueCY%2Bn7Y54W0QkJ1LMPRZKlNbxc%3D&Expires=1627009211",
+                    "image_file_l": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AEO175950_MLS_Peacock_Back.jpg.3840x3840_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=nkOCU3RAlPHjJJ6FL9wYnsH8AHI%3D&Expires=1627009211",
+                    "caption": "AEO175950_MLS_Peacock_Back",
+                    "credit_line": "Photograph by Egmont Contreras, ACMI",
+                    "alt_text": "",
+                    "width": 4630,
+                    "height": 2938,
+                    "access_level": "View anywhere"
+                }
+            ],
+            "videos": [],
+            "holdings": [],
+            "part_of": null,
+            "parts": [],
+            "part_siblings": [],
+            "group": {
+                "id": 100517,
+                "acmi_id": "181480",
+                "title": "Mechanical magic lantern slides",
+                "title_annotation": "",
+                "slug": "mechanical-magic-lantern-slides",
+                "creator_credit": "",
+                "credit_line": "",
+                "headline_credit": "",
+                "thumbnail": {
+                    "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AEO175944_MechanicalML_Chromatrope_Back.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=hvzAgSj%2BStKjMroA2zo%2ByFGh34A%3D&Expires=1627009211",
+                    "has_video": false
+                },
+                "record_type": "group",
+                "type": "Object",
+                "is_on_display": true,
+                "last_on_display_place": "ACMI: Gallery 1",
+                "last_on_display_date": "2031-02-16",
+                "is_context_indigenous": false,
+                "material_description": "",
+                "unpublished": false,
+                "first_production_date": null
+            },
+            "group_works": [],
+            "group_siblings": [
+                {
+                    "id": 59892,
+                    "acmi_id": "175944",
+                    "title": "Chromatrope rackwork slide",
+                    "title_annotation": "",
+                    "slug": "chromatrope-mechanical-magic-lantern-slide",
+                    "creator_credit": "Maker not documented",
+                    "credit_line": "",
+                    "headline_credit": "France",
+                    "thumbnail": {
+                        "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AEO175944_MechanicalML_Chromatrope_Back.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=hvzAgSj%2BStKjMroA2zo%2ByFGh34A%3D&Expires=1627009211",
+                        "has_video": false
+                    },
+                    "record_type": "work",
+                    "type": "Object",
+                    "is_on_display": true,
+                    "last_on_display_place": "ACMI: Gallery 1",
+                    "last_on_display_date": "2021-08-12",
+                    "is_context_indigenous": false,
+                    "material_description": "wood, glass, pigment, metal",
+                    "unpublished": false,
+                    "first_production_date": null
+                },
+                {
+                    "id": 107892,
+                    "acmi_id": "175948",
+                    "title": "Hand painted chromatrope rackwork slide",
+                    "title_annotation": "",
+                    "slug": "hand-painted-chromatrope-rackwork-slide",
+                    "creator_credit": "Maker not documented",
+                    "credit_line": "",
+                    "headline_credit": "France, c. 1860",
+                    "thumbnail": {
+                        "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AEO175948_MechanicalMLS_Chromatrope_Back.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=ScSFO1X78mnYcE86w5sV647fiPA%3D&Expires=1627009211",
+                        "has_video": false
+                    },
+                    "record_type": "work",
+                    "type": "Object",
+                    "is_on_display": true,
+                    "last_on_display_place": "ACMI: Gallery 1",
+                    "last_on_display_date": "2021-08-12",
+                    "is_context_indigenous": false,
+                    "material_description": "wood, glass, pigment, metal",
+                    "unpublished": false,
+                    "first_production_date": null
+                },
+                {
+                    "id": 99550,
+                    "acmi_id": "179378",
+                    "title": "Boy and Girl slipping slide",
+                    "title_annotation": "",
+                    "slug": "magic-lantern-slipping-slide-boy-girl",
+                    "creator_credit": "Maker not documented",
+                    "credit_line": "<p>ACMI Collection</p>",
+                    "headline_credit": "United Kingdom, c. 1900",
+                    "thumbnail": {
+                        "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/R0007984_MLS_BoyGirl_1.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=o2%2FfJ8hNxKGiCgX0atHafOO3LKU%3D&Expires=1627009211",
+                        "has_video": false
+                    },
+                    "record_type": "work",
+                    "type": "Object",
+                    "is_on_display": true,
+                    "last_on_display_place": "ACMI: Gallery 1",
+                    "last_on_display_date": "2021-08-12",
+                    "is_context_indigenous": false,
+                    "material_description": "wood, glass, ink",
+                    "unpublished": false,
+                    "first_production_date": null
+                },
+                {
+                    "id": 99443,
+                    "acmi_id": "175947",
+                    "title": "Chromatrope double pulley slide",
+                    "title_annotation": "",
+                    "slug": "magic-lantern-double-pulley-slide-chromatrope",
+                    "creator_credit": "Maker not documented",
+                    "credit_line": "",
+                    "headline_credit": "France, c. 1880",
+                    "thumbnail": {
+                        "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AEO_MechanicalML_Chromatrope_Back.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=zWB%2F3X4e2uRHCsn%2Fwn5QwsWnwQI%3D&Expires=1627009211",
+                        "has_video": false
+                    },
+                    "record_type": "work",
+                    "type": "Object",
+                    "is_on_display": true,
+                    "last_on_display_place": "ACMI: Gallery 1",
+                    "last_on_display_date": "2021-08-12",
+                    "is_context_indigenous": false,
+                    "material_description": "wood, glass, ink, pulley system",
+                    "unpublished": false,
+                    "first_production_date": null
+                },
+                {
+                    "id": 99441,
+                    "acmi_id": "175945",
+                    "title": "Crocodile lever slide",
+                    "title_annotation": "",
+                    "slug": "magic-lantern-lever-slide-crocodile",
+                    "creator_credit": "Maker not documented",
+                    "credit_line": "",
+                    "headline_credit": "France, c. 1860",
+                    "thumbnail": {
+                        "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AEO175945_MLS_Crocodile_Front.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=D0efxIX21o6nl%2Bq23QoxYaiRMOg%3D&Expires=1627009211",
+                        "has_video": false
+                    },
+                    "record_type": "work",
+                    "type": "Object",
+                    "is_on_display": true,
+                    "last_on_display_place": "ACMI: Gallery 1",
+                    "last_on_display_date": "2021-08-12",
+                    "is_context_indigenous": false,
+                    "material_description": "wood, glass, ink, metal",
+                    "unpublished": false,
+                    "first_production_date": null
+                },
+                {
+                    "id": 99549,
+                    "acmi_id": "179377",
+                    "title": "Flower bloom three panel slipping slide",
+                    "title_annotation": "",
+                    "slug": "magic-lantern-three-panel-slipping-slide-flower-bloom",
+                    "creator_credit": "Maker not documented",
+                    "credit_line": "<p>ACMI Collection</p>",
+                    "headline_credit": "United Kingdom, c. 1900",
+                    "thumbnail": {
+                        "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/R0007987_MLS_FlowerBloom_1.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=93ysS2vXGGpRwDPTs1X0V4V5BHc%3D&Expires=1627009211",
+                        "has_video": false
+                    },
+                    "record_type": "work",
+                    "type": "Object",
+                    "is_on_display": true,
+                    "last_on_display_place": "ACMI: Gallery 1",
+                    "last_on_display_date": "2021-08-12",
+                    "is_context_indigenous": false,
+                    "material_description": "wood, glass, ink",
+                    "unpublished": false,
+                    "first_production_date": null
+                },
+                {
+                    "id": 99444,
+                    "acmi_id": "175949",
+                    "title": "Girl jumping rope slipping slide",
+                    "title_annotation": "",
+                    "slug": "magic-lantern-slipping-slide-girl-jumping-rope",
+                    "creator_credit": "Maker not documented",
+                    "credit_line": "",
+                    "headline_credit": "France, c. 1860",
+                    "thumbnail": {
+                        "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AEO175949_MLS_JumpingRope_Back.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=gvVZ80rQUgwGjhDxA00v7%2FkHcnU%3D&Expires=1627009211",
+                        "has_video": false
+                    },
+                    "record_type": "work",
+                    "type": "Object",
+                    "is_on_display": true,
+                    "last_on_display_place": "ACMI: Gallery 1",
+                    "last_on_display_date": "2021-08-12",
+                    "is_context_indigenous": false,
+                    "material_description": "wood, glass, metal, ink",
+                    "unpublished": false,
+                    "first_production_date": null
+                },
+                {
+                    "id": 99552,
+                    "acmi_id": "179385",
+                    "title": "House in Summer slide",
+                    "title_annotation": "",
+                    "slug": "magic-lantern-slide-house-in-summer",
+                    "creator_credit": "Maker not documented",
+                    "credit_line": "<p>ACMI Collection</p>",
+                    "headline_credit": "United Kingdom, c. 1900",
+                    "thumbnail": {
+                        "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/R0007983_MLS_HouseInSumme_2.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=%2BeDuV4FK8ksC5qgjYex950vxIus%3D&Expires=1627009211",
+                        "has_video": false
+                    },
+                    "record_type": "work",
+                    "type": "Object",
+                    "is_on_display": true,
+                    "last_on_display_place": "ACMI: Gallery 1",
+                    "last_on_display_date": "2021-08-12",
+                    "is_context_indigenous": false,
+                    "material_description": "wood, glass, ink",
+                    "unpublished": false,
+                    "first_production_date": null
+                },
+                {
+                    "id": 99442,
+                    "acmi_id": "175946",
+                    "title": "Jester slipping slide",
+                    "title_annotation": "",
+                    "slug": "magic-lantern-slipping-slide-jester",
+                    "creator_credit": "Maker not documented",
+                    "credit_line": "",
+                    "headline_credit": "France, c. 1870",
+                    "thumbnail": {
+                        "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AEO175946_MLS_Jester_Front.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=Cs0doB5hg7yKvo9XqUS5nZgxCJo%3D&Expires=1627009211",
+                        "has_video": false
+                    },
+                    "record_type": "work",
+                    "type": "Object",
+                    "is_on_display": true,
+                    "last_on_display_place": "ACMI: Gallery 1",
+                    "last_on_display_date": "2021-08-12",
+                    "is_context_indigenous": false,
+                    "material_description": "wood, glass, ink",
+                    "unpublished": false,
+                    "first_production_date": null
+                },
+                {
+                    "id": 99551,
+                    "acmi_id": "179379",
+                    "title": "Knight and Princess slipping slide",
+                    "title_annotation": "",
+                    "slug": "magic-lantern-slipping-slide-knight-and-princess",
+                    "creator_credit": "Maker not documented",
+                    "credit_line": "<p>ACMI Collection</p>",
+                    "headline_credit": "United Kingdom, c. 1900",
+                    "thumbnail": {
+                        "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/R0007985_MLS_KnightAndPrincess_3.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=2eYysD4u5t99pPMVFLQjEOYpfUU%3D&Expires=1627009211",
+                        "has_video": false
+                    },
+                    "record_type": "work",
+                    "type": "Object",
+                    "is_on_display": true,
+                    "last_on_display_place": "ACMI: Gallery 1",
+                    "last_on_display_date": "2021-08-12",
+                    "is_context_indigenous": false,
+                    "material_description": "wood, glass, ink",
+                    "unpublished": false,
+                    "first_production_date": null
+                },
+                {
+                    "id": 99548,
+                    "acmi_id": "179376",
+                    "title": "Man and Donkey lever slide",
+                    "title_annotation": "",
+                    "slug": "magic-lantern-lever-slide-man-and-donkey",
+                    "creator_credit": "Maker not documented",
+                    "credit_line": "<p>ACMI Collection</p>",
+                    "headline_credit": "United Kingdom, c. 1900",
+                    "thumbnail": {
+                        "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/R0007986_MLS_ManDonkey_Front_2.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=y7fL9dDtLsHauxh%2B25K1dV8FYTA%3D&Expires=1627009211",
+                        "has_video": false
+                    },
+                    "record_type": "work",
+                    "type": "Object",
+                    "is_on_display": true,
+                    "last_on_display_place": "ACMI: Gallery 1",
+                    "last_on_display_date": "2021-08-12",
+                    "is_context_indigenous": false,
+                    "material_description": "wood, glass, metal, ink",
+                    "unpublished": false,
+                    "first_production_date": null
+                }
+            ],
+            "source": {
+                "name": "Vernon",
+                "slug": "vernon"
+            },
+            "source_identifier": "175950",
+            "production_places": [
+                {
+                    "id": 17,
+                    "name": "France",
+                    "slug": "france"
+                }
+            ],
+            "production_dates": [
+                {
+                    "date": "c. 1870",
+                    "notes": "",
+                    "to_year": "c. 1870"
+                }
+            ],
+            "labels": [
+                38940
+            ]
+        },
+        {
+            "id": 99444,
+            "acmi_id": "175949",
+            "title": "Girl jumping rope slipping slide",
+            "title_annotation": "",
+            "slug": "magic-lantern-slipping-slide-girl-jumping-rope",
+            "creator_credit": "Maker not documented",
+            "credit_line": "",
+            "headline_credit": "France, c. 1860",
+            "thumbnail": {
+                "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AEO175949_MLS_JumpingRope_Back.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=gvVZ80rQUgwGjhDxA00v7%2FkHcnU%3D&Expires=1627009211",
+                "has_video": false
+            },
+            "record_type": "work",
+            "type": "Object",
+            "is_on_display": true,
+            "last_on_display_place": "ACMI: Gallery 1",
+            "last_on_display_date": "2021-08-12",
+            "is_context_indigenous": false,
+            "material_description": "wood, glass, metal, ink",
+            "unpublished": false,
+            "first_production_date": null,
+            "brief_description": "<p>Hand painted magic lantern slide showing a girl jumping rope</p>",
+            "constellations_primary": [],
+            "constellations_other": [],
+            "recommendations": [],
+            "title_for_label": "<p>Girl jumping rope slipping slide</p>",
+            "creator_credit_for_label": "<p>Maker not documented</p>",
+            "headline_credit_for_label": "<p>France, c. 1860</p>",
+            "description": "<p>Hand painted magic lantern slide showing a girl jumping rope</p>",
+            "description_for_label": [
+                "<p>Hand painted magic lantern slide showing a girl jumping rope</p>"
+            ],
+            "credit_line_for_label": "",
+            "details": [
+                {
+                    "label": "Curatorial section",
+                    "display_values": [
+                        "The Story of the Moving Image&nbsp;→ Moving Pictures&nbsp;→ 02. Play and Illusion&nbsp;→ MI-02-C01"
+                    ]
+                },
+                {
+                    "label": "Measurements",
+                    "display_values": [
+                        "7 x 21cm"
+                    ]
+                },
+                {
+                    "label": "Materials",
+                    "display_values": [
+                        "wood, glass, metal, ink"
+                    ]
+                }
+            ],
+            "stats": {
+                "tap_count": 0
+            },
+            "links": [],
+            "creators_primary": [
+                {
+                    "id": 1134349,
+                    "name": "Maker not documented",
+                    "creator_id": 71446,
+                    "role": "creator",
+                    "role_id": 968,
+                    "is_primary": true
+                }
+            ],
+            "creators_other": [],
+            "video_links": [],
+            "media_note": null,
+            "images": [
+                {
+                    "id": 12210,
+                    "image_file": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AEO175949_MLS_JumpingRope_Back.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=Jk7U5hkgKf5AqhJTMbzRAFP691c%3D&Expires=1627009211",
+                    "image_file_thumbnail": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AEO175949_MLS_JumpingRope_Back.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=gvVZ80rQUgwGjhDxA00v7%2FkHcnU%3D&Expires=1627009211",
+                    "image_file_xs": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AEO175949_MLS_JumpingRope_Back.jpg.480x480_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=mxg5IPoF8K3DUSE8JFqqCbTmMWE%3D&Expires=1627009211",
+                    "image_file_s": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AEO175949_MLS_JumpingRope_Back.jpg.960x960_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=XKoFevSufHu7QXKUFZ1focaUHKo%3D&Expires=1627009211",
+                    "image_file_m": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AEO175949_MLS_JumpingRope_Back.jpg.1920x1920_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=bvgbAL%2BpOYuChAnNDH8sElG3IVA%3D&Expires=1627009211",
+                    "image_file_l": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AEO175949_MLS_JumpingRope_Back.jpg.3840x3840_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=21q%2FvZ01%2BZivtbROi92zc41zAlg%3D&Expires=1627009211",
+                    "caption": "AEO175949_MLS_JumpingRope_Back",
+                    "credit_line": "Photograph by Egmont Contreras, ACMI",
+                    "alt_text": "",
+                    "width": 4395,
+                    "height": 1944,
+                    "access_level": "View anywhere"
+                },
+                {
+                    "id": 12211,
+                    "image_file": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AEO175949_MLS_JumpingRope_Front.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=co43tQZmm%2FiJbLywMzn668ZRCqE%3D&Expires=1627009211",
+                    "image_file_thumbnail": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AEO175949_MLS_JumpingRope_Front.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=HKBMQpZFNOCmcYwUyYfFI%2BH%2BWIg%3D&Expires=1627009211",
+                    "image_file_xs": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AEO175949_MLS_JumpingRope_Front.jpg.480x480_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=rjm9jW2RCbh5Cw1e4y3jyrIBN2Q%3D&Expires=1627009211",
+                    "image_file_s": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AEO175949_MLS_JumpingRope_Front.jpg.960x960_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=qE5R0v3rE6oHfrbScwtcVg1xw5g%3D&Expires=1627009211",
+                    "image_file_m": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AEO175949_MLS_JumpingRope_Front.jpg.1920x1920_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=eriXeK7%2F6UA7SJltf9TJcb3S8ms%3D&Expires=1627009211",
+                    "image_file_l": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AEO175949_MLS_JumpingRope_Front.jpg.3840x3840_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=3izFqFMnmk395uPQ8aSFnJwAHkM%3D&Expires=1627009211",
+                    "caption": "AEO175949_MLS_JumpingRope_Front",
+                    "credit_line": "Photograph by Egmont Contreras, ACMI",
+                    "alt_text": "",
+                    "width": 4928,
+                    "height": 2067,
+                    "access_level": "View anywhere"
+                }
+            ],
+            "videos": [],
+            "holdings": [],
+            "part_of": null,
+            "parts": [],
+            "part_siblings": [],
+            "group": {
+                "id": 100517,
+                "acmi_id": "181480",
+                "title": "Mechanical magic lantern slides",
+                "title_annotation": "",
+                "slug": "mechanical-magic-lantern-slides",
+                "creator_credit": "",
+                "credit_line": "",
+                "headline_credit": "",
+                "thumbnail": {
+                    "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AEO175944_MechanicalML_Chromatrope_Back.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=hvzAgSj%2BStKjMroA2zo%2ByFGh34A%3D&Expires=1627009211",
+                    "has_video": false
+                },
+                "record_type": "group",
+                "type": "Object",
+                "is_on_display": true,
+                "last_on_display_place": "ACMI: Gallery 1",
+                "last_on_display_date": "2031-02-16",
+                "is_context_indigenous": false,
+                "material_description": "",
+                "unpublished": false,
+                "first_production_date": null
+            },
+            "group_works": [],
+            "group_siblings": [
+                {
+                    "id": 59892,
+                    "acmi_id": "175944",
+                    "title": "Chromatrope rackwork slide",
+                    "title_annotation": "",
+                    "slug": "chromatrope-mechanical-magic-lantern-slide",
+                    "creator_credit": "Maker not documented",
+                    "credit_line": "",
+                    "headline_credit": "France",
+                    "thumbnail": {
+                        "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AEO175944_MechanicalML_Chromatrope_Back.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=hvzAgSj%2BStKjMroA2zo%2ByFGh34A%3D&Expires=1627009211",
+                        "has_video": false
+                    },
+                    "record_type": "work",
+                    "type": "Object",
+                    "is_on_display": true,
+                    "last_on_display_place": "ACMI: Gallery 1",
+                    "last_on_display_date": "2021-08-12",
+                    "is_context_indigenous": false,
+                    "material_description": "wood, glass, pigment, metal",
+                    "unpublished": false,
+                    "first_production_date": null
+                },
+                {
+                    "id": 107892,
+                    "acmi_id": "175948",
+                    "title": "Hand painted chromatrope rackwork slide",
+                    "title_annotation": "",
+                    "slug": "hand-painted-chromatrope-rackwork-slide",
+                    "creator_credit": "Maker not documented",
+                    "credit_line": "",
+                    "headline_credit": "France, c. 1860",
+                    "thumbnail": {
+                        "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AEO175948_MechanicalMLS_Chromatrope_Back.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=ScSFO1X78mnYcE86w5sV647fiPA%3D&Expires=1627009211",
+                        "has_video": false
+                    },
+                    "record_type": "work",
+                    "type": "Object",
+                    "is_on_display": true,
+                    "last_on_display_place": "ACMI: Gallery 1",
+                    "last_on_display_date": "2021-08-12",
+                    "is_context_indigenous": false,
+                    "material_description": "wood, glass, pigment, metal",
+                    "unpublished": false,
+                    "first_production_date": null
+                },
+                {
+                    "id": 99550,
+                    "acmi_id": "179378",
+                    "title": "Boy and Girl slipping slide",
+                    "title_annotation": "",
+                    "slug": "magic-lantern-slipping-slide-boy-girl",
+                    "creator_credit": "Maker not documented",
+                    "credit_line": "<p>ACMI Collection</p>",
+                    "headline_credit": "United Kingdom, c. 1900",
+                    "thumbnail": {
+                        "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/R0007984_MLS_BoyGirl_1.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=o2%2FfJ8hNxKGiCgX0atHafOO3LKU%3D&Expires=1627009211",
+                        "has_video": false
+                    },
+                    "record_type": "work",
+                    "type": "Object",
+                    "is_on_display": true,
+                    "last_on_display_place": "ACMI: Gallery 1",
+                    "last_on_display_date": "2021-08-12",
+                    "is_context_indigenous": false,
+                    "material_description": "wood, glass, ink",
+                    "unpublished": false,
+                    "first_production_date": null
+                },
+                {
+                    "id": 99443,
+                    "acmi_id": "175947",
+                    "title": "Chromatrope double pulley slide",
+                    "title_annotation": "",
+                    "slug": "magic-lantern-double-pulley-slide-chromatrope",
+                    "creator_credit": "Maker not documented",
+                    "credit_line": "",
+                    "headline_credit": "France, c. 1880",
+                    "thumbnail": {
+                        "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AEO_MechanicalML_Chromatrope_Back.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=zWB%2F3X4e2uRHCsn%2Fwn5QwsWnwQI%3D&Expires=1627009211",
+                        "has_video": false
+                    },
+                    "record_type": "work",
+                    "type": "Object",
+                    "is_on_display": true,
+                    "last_on_display_place": "ACMI: Gallery 1",
+                    "last_on_display_date": "2021-08-12",
+                    "is_context_indigenous": false,
+                    "material_description": "wood, glass, ink, pulley system",
+                    "unpublished": false,
+                    "first_production_date": null
+                },
+                {
+                    "id": 99441,
+                    "acmi_id": "175945",
+                    "title": "Crocodile lever slide",
+                    "title_annotation": "",
+                    "slug": "magic-lantern-lever-slide-crocodile",
+                    "creator_credit": "Maker not documented",
+                    "credit_line": "",
+                    "headline_credit": "France, c. 1860",
+                    "thumbnail": {
+                        "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AEO175945_MLS_Crocodile_Front.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=D0efxIX21o6nl%2Bq23QoxYaiRMOg%3D&Expires=1627009211",
+                        "has_video": false
+                    },
+                    "record_type": "work",
+                    "type": "Object",
+                    "is_on_display": true,
+                    "last_on_display_place": "ACMI: Gallery 1",
+                    "last_on_display_date": "2021-08-12",
+                    "is_context_indigenous": false,
+                    "material_description": "wood, glass, ink, metal",
+                    "unpublished": false,
+                    "first_production_date": null
+                },
+                {
+                    "id": 99549,
+                    "acmi_id": "179377",
+                    "title": "Flower bloom three panel slipping slide",
+                    "title_annotation": "",
+                    "slug": "magic-lantern-three-panel-slipping-slide-flower-bloom",
+                    "creator_credit": "Maker not documented",
+                    "credit_line": "<p>ACMI Collection</p>",
+                    "headline_credit": "United Kingdom, c. 1900",
+                    "thumbnail": {
+                        "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/R0007987_MLS_FlowerBloom_1.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=93ysS2vXGGpRwDPTs1X0V4V5BHc%3D&Expires=1627009211",
+                        "has_video": false
+                    },
+                    "record_type": "work",
+                    "type": "Object",
+                    "is_on_display": true,
+                    "last_on_display_place": "ACMI: Gallery 1",
+                    "last_on_display_date": "2021-08-12",
+                    "is_context_indigenous": false,
+                    "material_description": "wood, glass, ink",
+                    "unpublished": false,
+                    "first_production_date": null
+                },
+                {
+                    "id": 99552,
+                    "acmi_id": "179385",
+                    "title": "House in Summer slide",
+                    "title_annotation": "",
+                    "slug": "magic-lantern-slide-house-in-summer",
+                    "creator_credit": "Maker not documented",
+                    "credit_line": "<p>ACMI Collection</p>",
+                    "headline_credit": "United Kingdom, c. 1900",
+                    "thumbnail": {
+                        "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/R0007983_MLS_HouseInSumme_2.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=%2BeDuV4FK8ksC5qgjYex950vxIus%3D&Expires=1627009211",
+                        "has_video": false
+                    },
+                    "record_type": "work",
+                    "type": "Object",
+                    "is_on_display": true,
+                    "last_on_display_place": "ACMI: Gallery 1",
+                    "last_on_display_date": "2021-08-12",
+                    "is_context_indigenous": false,
+                    "material_description": "wood, glass, ink",
+                    "unpublished": false,
+                    "first_production_date": null
+                },
+                {
+                    "id": 99442,
+                    "acmi_id": "175946",
+                    "title": "Jester slipping slide",
+                    "title_annotation": "",
+                    "slug": "magic-lantern-slipping-slide-jester",
+                    "creator_credit": "Maker not documented",
+                    "credit_line": "",
+                    "headline_credit": "France, c. 1870",
+                    "thumbnail": {
+                        "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AEO175946_MLS_Jester_Front.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=Cs0doB5hg7yKvo9XqUS5nZgxCJo%3D&Expires=1627009211",
+                        "has_video": false
+                    },
+                    "record_type": "work",
+                    "type": "Object",
+                    "is_on_display": true,
+                    "last_on_display_place": "ACMI: Gallery 1",
+                    "last_on_display_date": "2021-08-12",
+                    "is_context_indigenous": false,
+                    "material_description": "wood, glass, ink",
+                    "unpublished": false,
+                    "first_production_date": null
+                },
+                {
+                    "id": 99551,
+                    "acmi_id": "179379",
+                    "title": "Knight and Princess slipping slide",
+                    "title_annotation": "",
+                    "slug": "magic-lantern-slipping-slide-knight-and-princess",
+                    "creator_credit": "Maker not documented",
+                    "credit_line": "<p>ACMI Collection</p>",
+                    "headline_credit": "United Kingdom, c. 1900",
+                    "thumbnail": {
+                        "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/R0007985_MLS_KnightAndPrincess_3.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=2eYysD4u5t99pPMVFLQjEOYpfUU%3D&Expires=1627009211",
+                        "has_video": false
+                    },
+                    "record_type": "work",
+                    "type": "Object",
+                    "is_on_display": true,
+                    "last_on_display_place": "ACMI: Gallery 1",
+                    "last_on_display_date": "2021-08-12",
+                    "is_context_indigenous": false,
+                    "material_description": "wood, glass, ink",
+                    "unpublished": false,
+                    "first_production_date": null
+                },
+                {
+                    "id": 99548,
+                    "acmi_id": "179376",
+                    "title": "Man and Donkey lever slide",
+                    "title_annotation": "",
+                    "slug": "magic-lantern-lever-slide-man-and-donkey",
+                    "creator_credit": "Maker not documented",
+                    "credit_line": "<p>ACMI Collection</p>",
+                    "headline_credit": "United Kingdom, c. 1900",
+                    "thumbnail": {
+                        "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/R0007986_MLS_ManDonkey_Front_2.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=y7fL9dDtLsHauxh%2B25K1dV8FYTA%3D&Expires=1627009211",
+                        "has_video": false
+                    },
+                    "record_type": "work",
+                    "type": "Object",
+                    "is_on_display": true,
+                    "last_on_display_place": "ACMI: Gallery 1",
+                    "last_on_display_date": "2021-08-12",
+                    "is_context_indigenous": false,
+                    "material_description": "wood, glass, metal, ink",
+                    "unpublished": false,
+                    "first_production_date": null
+                },
+                {
+                    "id": 99445,
+                    "acmi_id": "175950",
+                    "title": "Peacock slipping slide",
+                    "title_annotation": "",
+                    "slug": "magic-lantern-slipping-slide-peacock",
+                    "creator_credit": "Maker not documented",
+                    "credit_line": "",
+                    "headline_credit": "France, c. 1870",
+                    "thumbnail": {
+                        "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AEO175950_MLS_Peacock_Front.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=nKgJTHtTl78OKoRz4os%2Bzx5RvF4%3D&Expires=1627009211",
+                        "has_video": false
+                    },
+                    "record_type": "work",
+                    "type": "Object",
+                    "is_on_display": true,
+                    "last_on_display_place": "ACMI: Gallery 1",
+                    "last_on_display_date": "2021-08-12",
+                    "is_context_indigenous": false,
+                    "material_description": "wood, glass, ink",
+                    "unpublished": false,
+                    "first_production_date": null
+                }
+            ],
+            "source": {
+                "name": "Vernon",
+                "slug": "vernon"
+            },
+            "source_identifier": "175949",
+            "production_places": [
+                {
+                    "id": 17,
+                    "name": "France",
+                    "slug": "france"
+                }
+            ],
+            "production_dates": [
+                {
+                    "date": "c. 1860",
+                    "notes": "",
+                    "to_year": "c. 1860"
+                }
+            ],
+            "labels": [
+                38939
+            ]
+        },
+        {
+            "id": 107892,
+            "acmi_id": "175948",
+            "title": "Hand painted chromatrope rackwork slide",
+            "title_annotation": "",
+            "slug": "hand-painted-chromatrope-rackwork-slide",
+            "creator_credit": "Maker not documented",
+            "credit_line": "",
+            "headline_credit": "France, c. 1860",
+            "thumbnail": {
+                "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AEO175948_MechanicalMLS_Chromatrope_Back.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=ScSFO1X78mnYcE86w5sV647fiPA%3D&Expires=1627009211",
+                "has_video": false
+            },
+            "record_type": "work",
+            "type": "Object",
+            "is_on_display": true,
+            "last_on_display_place": "ACMI: Gallery 1",
+            "last_on_display_date": "2021-08-12",
+            "is_context_indigenous": false,
+            "material_description": "wood, glass, pigment, metal",
+            "unpublished": false,
+            "first_production_date": null,
+            "brief_description": "",
+            "constellations_primary": [],
+            "constellations_other": [],
+            "recommendations": [],
+            "title_for_label": "<p>Hand Painted Chromatrope rackwork slide</p>",
+            "creator_credit_for_label": "<p>Maker not documented</p>",
+            "headline_credit_for_label": "<p>France, c. 1860</p>",
+            "description": "",
+            "description_for_label": [],
+            "credit_line_for_label": "",
+            "details": [
+                {
+                    "label": "Curatorial section",
+                    "display_values": [
+                        "The Story of the Moving Image&nbsp;→ Moving Pictures&nbsp;→ 02. Play and Illusion&nbsp;→ MI-02-C01"
+                    ]
+                },
+                {
+                    "label": "Measurements",
+                    "display_values": [
+                        "77 x 219 x 13mm"
+                    ]
+                },
+                {
+                    "label": "Materials",
+                    "display_values": [
+                        "wood, glass, pigment, metal"
+                    ]
+                }
+            ],
+            "stats": {
+                "tap_count": 0
+            },
+            "links": [],
+            "creators_primary": [
+                {
+                    "id": 1134348,
+                    "name": "Maker not documented",
+                    "creator_id": 71446,
+                    "role": "creator",
+                    "role_id": 968,
+                    "is_primary": true
+                }
+            ],
+            "creators_other": [],
+            "video_links": [],
+            "media_note": null,
+            "images": [
+                {
+                    "id": 11103,
+                    "image_file": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AEO175948_MechanicalMLS_Chromatrope_Back.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=wo1NYBsD2BML9eegoa7GX1FLoUU%3D&Expires=1627009211",
+                    "image_file_thumbnail": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AEO175948_MechanicalMLS_Chromatrope_Back.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=ScSFO1X78mnYcE86w5sV647fiPA%3D&Expires=1627009211",
+                    "image_file_xs": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AEO175948_MechanicalMLS_Chromatrope_Back.jpg.480x480_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=v2aKM8ZroOgsSla%2BVgXDCZMV6Ew%3D&Expires=1627009211",
+                    "image_file_s": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AEO175948_MechanicalMLS_Chromatrope_Back.jpg.960x960_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=iGhQcPnzK%2BUPLbPyk2p1BJxhyNA%3D&Expires=1627009211",
+                    "image_file_m": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AEO175948_MechanicalMLS_Chromatrope_Back.jpg.1920x1920_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=vMdypz9v4%2FmZ5qUTNtLM31QBaqg%3D&Expires=1627009211",
+                    "image_file_l": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AEO175948_MechanicalMLS_Chromatrope_Back.jpg.3840x3840_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=PN962WmmLnHvTPiMH80VozWjFHI%3D&Expires=1627009211",
+                    "caption": "AEO175948_MechanicalMLS_Chromatrope_Back",
+                    "credit_line": "Photograph by Egmont Contreras, ACMI",
+                    "alt_text": "",
+                    "width": 5018,
+                    "height": 2411,
+                    "access_level": "View anywhere"
+                },
+                {
+                    "id": 11104,
+                    "image_file": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AEO175948_MechanicalMLS_Chromatrope_Front.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=zMSf7mQO%2BI2G2JZhrEjJdueOppc%3D&Expires=1627009211",
+                    "image_file_thumbnail": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AEO175948_MechanicalMLS_Chromatrope_Front.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=nDQWquhpts%2FrFYKxGgPni1vSoyw%3D&Expires=1627009211",
+                    "image_file_xs": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AEO175948_MechanicalMLS_Chromatrope_Front.jpg.480x480_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=Cm2hx9XPTmYTiG8h49dNwlvPwps%3D&Expires=1627009211",
+                    "image_file_s": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AEO175948_MechanicalMLS_Chromatrope_Front.jpg.960x960_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=fIVsrvVtAIrEhvU0%2BkZdJqAK%2FBM%3D&Expires=1627009211",
+                    "image_file_m": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AEO175948_MechanicalMLS_Chromatrope_Front.jpg.1920x1920_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=hl10jDWPGHpqkyyMFyMquiWWagE%3D&Expires=1627009211",
+                    "image_file_l": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AEO175948_MechanicalMLS_Chromatrope_Front.jpg.3840x3840_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=o%2F0vEyP20QmbGIZiO0GxUJ1bBRM%3D&Expires=1627009211",
+                    "caption": "AEO175948_MechanicalMLS_Chromatrope_Front",
+                    "credit_line": "Photograph by Egmont Contreras, ACMI",
+                    "alt_text": "",
+                    "width": 4206,
+                    "height": 1853,
+                    "access_level": "View anywhere"
+                }
+            ],
+            "videos": [],
+            "holdings": [],
+            "part_of": null,
+            "parts": [],
+            "part_siblings": [],
+            "group": {
+                "id": 100517,
+                "acmi_id": "181480",
+                "title": "Mechanical magic lantern slides",
+                "title_annotation": "",
+                "slug": "mechanical-magic-lantern-slides",
+                "creator_credit": "",
+                "credit_line": "",
+                "headline_credit": "",
+                "thumbnail": {
+                    "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AEO175944_MechanicalML_Chromatrope_Back.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=hvzAgSj%2BStKjMroA2zo%2ByFGh34A%3D&Expires=1627009211",
+                    "has_video": false
+                },
+                "record_type": "group",
+                "type": "Object",
+                "is_on_display": true,
+                "last_on_display_place": "ACMI: Gallery 1",
+                "last_on_display_date": "2031-02-16",
+                "is_context_indigenous": false,
+                "material_description": "",
+                "unpublished": false,
+                "first_production_date": null
+            },
+            "group_works": [],
+            "group_siblings": [
+                {
+                    "id": 59892,
+                    "acmi_id": "175944",
+                    "title": "Chromatrope rackwork slide",
+                    "title_annotation": "",
+                    "slug": "chromatrope-mechanical-magic-lantern-slide",
+                    "creator_credit": "Maker not documented",
+                    "credit_line": "",
+                    "headline_credit": "France",
+                    "thumbnail": {
+                        "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AEO175944_MechanicalML_Chromatrope_Back.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=hvzAgSj%2BStKjMroA2zo%2ByFGh34A%3D&Expires=1627009211",
+                        "has_video": false
+                    },
+                    "record_type": "work",
+                    "type": "Object",
+                    "is_on_display": true,
+                    "last_on_display_place": "ACMI: Gallery 1",
+                    "last_on_display_date": "2021-08-12",
+                    "is_context_indigenous": false,
+                    "material_description": "wood, glass, pigment, metal",
+                    "unpublished": false,
+                    "first_production_date": null
+                },
+                {
+                    "id": 99550,
+                    "acmi_id": "179378",
+                    "title": "Boy and Girl slipping slide",
+                    "title_annotation": "",
+                    "slug": "magic-lantern-slipping-slide-boy-girl",
+                    "creator_credit": "Maker not documented",
+                    "credit_line": "<p>ACMI Collection</p>",
+                    "headline_credit": "United Kingdom, c. 1900",
+                    "thumbnail": {
+                        "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/R0007984_MLS_BoyGirl_1.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=o2%2FfJ8hNxKGiCgX0atHafOO3LKU%3D&Expires=1627009211",
+                        "has_video": false
+                    },
+                    "record_type": "work",
+                    "type": "Object",
+                    "is_on_display": true,
+                    "last_on_display_place": "ACMI: Gallery 1",
+                    "last_on_display_date": "2021-08-12",
+                    "is_context_indigenous": false,
+                    "material_description": "wood, glass, ink",
+                    "unpublished": false,
+                    "first_production_date": null
+                },
+                {
+                    "id": 99443,
+                    "acmi_id": "175947",
+                    "title": "Chromatrope double pulley slide",
+                    "title_annotation": "",
+                    "slug": "magic-lantern-double-pulley-slide-chromatrope",
+                    "creator_credit": "Maker not documented",
+                    "credit_line": "",
+                    "headline_credit": "France, c. 1880",
+                    "thumbnail": {
+                        "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AEO_MechanicalML_Chromatrope_Back.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=zWB%2F3X4e2uRHCsn%2Fwn5QwsWnwQI%3D&Expires=1627009211",
+                        "has_video": false
+                    },
+                    "record_type": "work",
+                    "type": "Object",
+                    "is_on_display": true,
+                    "last_on_display_place": "ACMI: Gallery 1",
+                    "last_on_display_date": "2021-08-12",
+                    "is_context_indigenous": false,
+                    "material_description": "wood, glass, ink, pulley system",
+                    "unpublished": false,
+                    "first_production_date": null
+                },
+                {
+                    "id": 99441,
+                    "acmi_id": "175945",
+                    "title": "Crocodile lever slide",
+                    "title_annotation": "",
+                    "slug": "magic-lantern-lever-slide-crocodile",
+                    "creator_credit": "Maker not documented",
+                    "credit_line": "",
+                    "headline_credit": "France, c. 1860",
+                    "thumbnail": {
+                        "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AEO175945_MLS_Crocodile_Front.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=D0efxIX21o6nl%2Bq23QoxYaiRMOg%3D&Expires=1627009211",
+                        "has_video": false
+                    },
+                    "record_type": "work",
+                    "type": "Object",
+                    "is_on_display": true,
+                    "last_on_display_place": "ACMI: Gallery 1",
+                    "last_on_display_date": "2021-08-12",
+                    "is_context_indigenous": false,
+                    "material_description": "wood, glass, ink, metal",
+                    "unpublished": false,
+                    "first_production_date": null
+                },
+                {
+                    "id": 99549,
+                    "acmi_id": "179377",
+                    "title": "Flower bloom three panel slipping slide",
+                    "title_annotation": "",
+                    "slug": "magic-lantern-three-panel-slipping-slide-flower-bloom",
+                    "creator_credit": "Maker not documented",
+                    "credit_line": "<p>ACMI Collection</p>",
+                    "headline_credit": "United Kingdom, c. 1900",
+                    "thumbnail": {
+                        "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/R0007987_MLS_FlowerBloom_1.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=93ysS2vXGGpRwDPTs1X0V4V5BHc%3D&Expires=1627009211",
+                        "has_video": false
+                    },
+                    "record_type": "work",
+                    "type": "Object",
+                    "is_on_display": true,
+                    "last_on_display_place": "ACMI: Gallery 1",
+                    "last_on_display_date": "2021-08-12",
+                    "is_context_indigenous": false,
+                    "material_description": "wood, glass, ink",
+                    "unpublished": false,
+                    "first_production_date": null
+                },
+                {
+                    "id": 99444,
+                    "acmi_id": "175949",
+                    "title": "Girl jumping rope slipping slide",
+                    "title_annotation": "",
+                    "slug": "magic-lantern-slipping-slide-girl-jumping-rope",
+                    "creator_credit": "Maker not documented",
+                    "credit_line": "",
+                    "headline_credit": "France, c. 1860",
+                    "thumbnail": {
+                        "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AEO175949_MLS_JumpingRope_Back.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=gvVZ80rQUgwGjhDxA00v7%2FkHcnU%3D&Expires=1627009211",
+                        "has_video": false
+                    },
+                    "record_type": "work",
+                    "type": "Object",
+                    "is_on_display": true,
+                    "last_on_display_place": "ACMI: Gallery 1",
+                    "last_on_display_date": "2021-08-12",
+                    "is_context_indigenous": false,
+                    "material_description": "wood, glass, metal, ink",
+                    "unpublished": false,
+                    "first_production_date": null
+                },
+                {
+                    "id": 99552,
+                    "acmi_id": "179385",
+                    "title": "House in Summer slide",
+                    "title_annotation": "",
+                    "slug": "magic-lantern-slide-house-in-summer",
+                    "creator_credit": "Maker not documented",
+                    "credit_line": "<p>ACMI Collection</p>",
+                    "headline_credit": "United Kingdom, c. 1900",
+                    "thumbnail": {
+                        "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/R0007983_MLS_HouseInSumme_2.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=%2BeDuV4FK8ksC5qgjYex950vxIus%3D&Expires=1627009211",
+                        "has_video": false
+                    },
+                    "record_type": "work",
+                    "type": "Object",
+                    "is_on_display": true,
+                    "last_on_display_place": "ACMI: Gallery 1",
+                    "last_on_display_date": "2021-08-12",
+                    "is_context_indigenous": false,
+                    "material_description": "wood, glass, ink",
+                    "unpublished": false,
+                    "first_production_date": null
+                },
+                {
+                    "id": 99442,
+                    "acmi_id": "175946",
+                    "title": "Jester slipping slide",
+                    "title_annotation": "",
+                    "slug": "magic-lantern-slipping-slide-jester",
+                    "creator_credit": "Maker not documented",
+                    "credit_line": "",
+                    "headline_credit": "France, c. 1870",
+                    "thumbnail": {
+                        "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AEO175946_MLS_Jester_Front.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=Cs0doB5hg7yKvo9XqUS5nZgxCJo%3D&Expires=1627009211",
+                        "has_video": false
+                    },
+                    "record_type": "work",
+                    "type": "Object",
+                    "is_on_display": true,
+                    "last_on_display_place": "ACMI: Gallery 1",
+                    "last_on_display_date": "2021-08-12",
+                    "is_context_indigenous": false,
+                    "material_description": "wood, glass, ink",
+                    "unpublished": false,
+                    "first_production_date": null
+                },
+                {
+                    "id": 99551,
+                    "acmi_id": "179379",
+                    "title": "Knight and Princess slipping slide",
+                    "title_annotation": "",
+                    "slug": "magic-lantern-slipping-slide-knight-and-princess",
+                    "creator_credit": "Maker not documented",
+                    "credit_line": "<p>ACMI Collection</p>",
+                    "headline_credit": "United Kingdom, c. 1900",
+                    "thumbnail": {
+                        "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/R0007985_MLS_KnightAndPrincess_3.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=2eYysD4u5t99pPMVFLQjEOYpfUU%3D&Expires=1627009211",
+                        "has_video": false
+                    },
+                    "record_type": "work",
+                    "type": "Object",
+                    "is_on_display": true,
+                    "last_on_display_place": "ACMI: Gallery 1",
+                    "last_on_display_date": "2021-08-12",
+                    "is_context_indigenous": false,
+                    "material_description": "wood, glass, ink",
+                    "unpublished": false,
+                    "first_production_date": null
+                },
+                {
+                    "id": 99548,
+                    "acmi_id": "179376",
+                    "title": "Man and Donkey lever slide",
+                    "title_annotation": "",
+                    "slug": "magic-lantern-lever-slide-man-and-donkey",
+                    "creator_credit": "Maker not documented",
+                    "credit_line": "<p>ACMI Collection</p>",
+                    "headline_credit": "United Kingdom, c. 1900",
+                    "thumbnail": {
+                        "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/R0007986_MLS_ManDonkey_Front_2.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=y7fL9dDtLsHauxh%2B25K1dV8FYTA%3D&Expires=1627009211",
+                        "has_video": false
+                    },
+                    "record_type": "work",
+                    "type": "Object",
+                    "is_on_display": true,
+                    "last_on_display_place": "ACMI: Gallery 1",
+                    "last_on_display_date": "2021-08-12",
+                    "is_context_indigenous": false,
+                    "material_description": "wood, glass, metal, ink",
+                    "unpublished": false,
+                    "first_production_date": null
+                },
+                {
+                    "id": 99445,
+                    "acmi_id": "175950",
+                    "title": "Peacock slipping slide",
+                    "title_annotation": "",
+                    "slug": "magic-lantern-slipping-slide-peacock",
+                    "creator_credit": "Maker not documented",
+                    "credit_line": "",
+                    "headline_credit": "France, c. 1870",
+                    "thumbnail": {
+                        "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AEO175950_MLS_Peacock_Front.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=nKgJTHtTl78OKoRz4os%2Bzx5RvF4%3D&Expires=1627009211",
+                        "has_video": false
+                    },
+                    "record_type": "work",
+                    "type": "Object",
+                    "is_on_display": true,
+                    "last_on_display_place": "ACMI: Gallery 1",
+                    "last_on_display_date": "2021-08-12",
+                    "is_context_indigenous": false,
+                    "material_description": "wood, glass, ink",
+                    "unpublished": false,
+                    "first_production_date": null
+                }
+            ],
+            "source": {
+                "name": "Vernon",
+                "slug": "vernon"
+            },
+            "source_identifier": "175948",
+            "production_places": [
+                {
+                    "id": 17,
+                    "name": "France",
+                    "slug": "france"
+                }
+            ],
+            "production_dates": [
+                {
+                    "date": "c. 1860",
+                    "notes": "",
+                    "to_year": "c. 1860"
+                }
+            ],
+            "labels": [
+                47385
+            ]
+        }
+    ]
+}

@@ -1,0 +1,1592 @@
+{
+    "count": 922,
+    "next": "/works/?page=29",
+    "previous": "/works/?page=27",
+    "results": [
+        {
+            "id": 100555,
+            "acmi_id": "179581",
+            "title": "Sweet Country's Harry Marsh shirt and vest costume",
+            "title_annotation": "",
+            "slug": "harrys-shirt-and-vest-from-sweet-country-warwick-thornton",
+            "creator_credit": "Heather Wallace",
+            "credit_line": "<p>Courtesy Bunya Productions Pty Ltd</p>",
+            "headline_credit": "Australia, 2018",
+            "thumbnail": {
+                "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN179581_SweetCountry_HarrysRedShirt_Front.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=PP3J3HtCi4MOGssUdJmUQTzZw%2F0%3D&Expires=1627009165",
+                "has_video": false
+            },
+            "record_type": "work",
+            "type": "Object",
+            "is_on_display": true,
+            "last_on_display_place": "ACMI: Gallery 1",
+            "last_on_display_date": "2023-02-09",
+            "is_context_indigenous": false,
+            "material_description": "Linen, wool, cotton ticking, cotton calico, vintage buttons",
+            "unpublished": false,
+            "first_production_date": "2018-01-01T11:00:00+11:00",
+            "brief_description": "<p>Harry&#8217;s Shirt and Vest costume from Sweet Country<br />\nCostume Design by Heather Wallace<br />\nDirected by Warwick Thornton<br />\nBunya Productions<br />\nAustralia, 2017</p>",
+            "constellations_primary": [],
+            "constellations_other": [],
+            "recommendations": [],
+            "title_for_label": "<p>Harry Marsh shirt and vest</p>",
+            "creator_credit_for_label": "<p>Heather Wallace</p>",
+            "headline_credit_for_label": "<p>Australia, 2018</p>",
+            "description": "<p>Harry&#8217;s Shirt and Vest costume from Sweet Country<br />\nCostume Design by Heather Wallace<br />\nDirected by Warwick Thornton<br />\nBunya Productions<br />\nAustralia, 2017</p>",
+            "description_for_label": [
+                "<p>Harry&#8217;s Shirt and Vest costume from Sweet Country<br />\nCostume Design by Heather Wallace<br />\nDirected by Warwick Thornton<br />\nBunya Productions<br />\nAustralia, 2017</p>"
+            ],
+            "credit_line_for_label": "<p>Courtesy Bunya Productions Pty Ltd</p>",
+            "details": [
+                {
+                    "label": "Curatorial section",
+                    "display_values": [
+                        "The Story of the Moving Image&nbsp;→ Moving Worlds&nbsp;→ 03. Production Design&nbsp;→ MW-03-C01&nbsp;→ MW-03-C01.02"
+                    ]
+                },
+                {
+                    "label": "Measurements",
+                    "display_values": [
+                        "620 x 365mm",
+                        "64.5cm"
+                    ]
+                },
+                {
+                    "label": "Materials",
+                    "display_values": [
+                        "Linen, wool, cotton ticking, cotton calico, vintage buttons"
+                    ]
+                }
+            ],
+            "stats": {
+                "tap_count": 0
+            },
+            "links": [],
+            "creators_primary": [
+                {
+                    "id": 1134429,
+                    "name": "Heather Wallace",
+                    "creator_id": 51101,
+                    "role": "costume designer",
+                    "role_id": 961,
+                    "is_primary": true
+                }
+            ],
+            "creators_other": [],
+            "video_links": [],
+            "media_note": null,
+            "images": [
+                {
+                    "id": 16519,
+                    "image_file": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN179581_SweetCountry_HarrysRedShirt_Front.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=R82sq52j7FR%2F03Wo3f0EyDNjfJE%3D&Expires=1627009165",
+                    "image_file_thumbnail": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN179581_SweetCountry_HarrysRedShirt_Front.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=PP3J3HtCi4MOGssUdJmUQTzZw%2F0%3D&Expires=1627009165",
+                    "image_file_xs": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN179581_SweetCountry_HarrysRedShirt_Front.jpg.480x480_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=tU92IBsJnUsObpB1CHWjfIXE2t8%3D&Expires=1627009165",
+                    "image_file_s": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN179581_SweetCountry_HarrysRedShirt_Front.jpg.960x960_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=E9ZAyPZEraM5Zlpcbx8O%2FZaSXzc%3D&Expires=1627009165",
+                    "image_file_m": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN179581_SweetCountry_HarrysRedShirt_Front.jpg.1920x1920_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=LWfkqA%2B79LhmWX2fQDYanaDPbYc%3D&Expires=1627009165",
+                    "image_file_l": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN179581_SweetCountry_HarrysRedShirt_Front.jpg.3840x3840_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=DaYCjVS4ePreWn8nf05GxYQplJ4%3D&Expires=1627009165",
+                    "caption": "LN179581_SweetCountry_Harry'sRedShirt_Front",
+                    "credit_line": "Photograph by Egmont Contreras, ACMI.",
+                    "alt_text": "",
+                    "width": 3200,
+                    "height": 4800,
+                    "access_level": "View anywhere"
+                },
+                {
+                    "id": 16520,
+                    "image_file": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN179581_SweetCountry_HarrysRedShirt_Back.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=m1yOaxbVjzq5LGILzbgteRFSyeg%3D&Expires=1627009165",
+                    "image_file_thumbnail": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN179581_SweetCountry_HarrysRedShirt_Back.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=v8kiNCW8QzAQq5%2FMCv8fbGYvW6c%3D&Expires=1627009165",
+                    "image_file_xs": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN179581_SweetCountry_HarrysRedShirt_Back.jpg.480x480_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=Zfo4M0Yloodw37TNIC0lUQJjfag%3D&Expires=1627009165",
+                    "image_file_s": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN179581_SweetCountry_HarrysRedShirt_Back.jpg.960x960_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=hNuDD04ozZh5UnIo1KysHNfGlYY%3D&Expires=1627009165",
+                    "image_file_m": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN179581_SweetCountry_HarrysRedShirt_Back.jpg.1920x1920_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=Idn6p8%2FOHXgyUuoBfn9fnRg2lVA%3D&Expires=1627009165",
+                    "image_file_l": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN179581_SweetCountry_HarrysRedShirt_Back.jpg.3840x3840_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=Wi7obZZkSo6k41PWwRV%2F1V6gdRw%3D&Expires=1627009165",
+                    "caption": "LN179581_SweetCountry_Harry'sRedShirt_Back",
+                    "credit_line": "Photograph by Egmont Contreras, ACMI.",
+                    "alt_text": "",
+                    "width": 3200,
+                    "height": 4800,
+                    "access_level": "View anywhere"
+                }
+            ],
+            "videos": [],
+            "holdings": [],
+            "part_of": null,
+            "parts": [],
+            "part_siblings": [],
+            "group": {
+                "id": 100860,
+                "acmi_id": "182483",
+                "title": "Set design in Sweet Country",
+                "title_annotation": "",
+                "slug": "set-design-in-sweet-country",
+                "creator_credit": "David Tranter and Warwick Thornton",
+                "credit_line": "<p>Courtesy Bunya Productions Pty Ltd</p>",
+                "headline_credit": "Australia, 2018",
+                "thumbnail": {
+                    "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/P180487_G196.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=bBp7TsLEQx2c771VbaUvaL75qBc%3D&Expires=1627009165",
+                    "has_video": false
+                },
+                "record_type": "group",
+                "type": "Object",
+                "is_on_display": true,
+                "last_on_display_place": "ACMI: Gallery 1",
+                "last_on_display_date": "2023-02-09",
+                "is_context_indigenous": true,
+                "material_description": "",
+                "unpublished": false,
+                "first_production_date": "2018-01-01T11:00:00+11:00"
+            },
+            "group_works": [],
+            "group_siblings": [
+                {
+                    "id": 114479,
+                    "acmi_id": "183575",
+                    "title": "Hamilton Morris, Natassia Gorey-Furber and Warwick Thornton during production",
+                    "title_annotation": "",
+                    "slug": "hamilton-morris-natassia-gorey-furber-and-warwick-thornton-during-production",
+                    "creator_credit": "Mark Rogers",
+                    "credit_line": "<p>Courtesy Bunya Productions Pty Ltd</p>",
+                    "headline_credit": "",
+                    "thumbnail": {
+                        "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/P180487_G196.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=bBp7TsLEQx2c771VbaUvaL75qBc%3D&Expires=1627009165",
+                        "has_video": false
+                    },
+                    "record_type": "group",
+                    "type": "Film",
+                    "is_on_display": true,
+                    "last_on_display_place": "ACMI: Gallery 1",
+                    "last_on_display_date": "2023-02-09",
+                    "is_context_indigenous": false,
+                    "material_description": "",
+                    "unpublished": false,
+                    "first_production_date": null
+                },
+                {
+                    "id": 100687,
+                    "acmi_id": "180490",
+                    "title": "Philomac costume sketch",
+                    "title_annotation": "Facsimile",
+                    "slug": "graphic-costume-sketch-philomac",
+                    "creator_credit": "Heather Wallace",
+                    "credit_line": "<p>Courtesy Bunya Productions Pty Ltd</p>",
+                    "headline_credit": "Australia, 2018",
+                    "thumbnail": {
+                        "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/P180490_G199.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=tjopYWNThNJUqH4iC2OqvDG80zU%3D&Expires=1627009165",
+                        "has_video": false
+                    },
+                    "record_type": "work",
+                    "type": "Object",
+                    "is_on_display": true,
+                    "last_on_display_place": "ACMI: Gallery 1",
+                    "last_on_display_date": "2023-02-09",
+                    "is_context_indigenous": false,
+                    "material_description": "Graphic",
+                    "unpublished": false,
+                    "first_production_date": "2018-01-01T11:00:00+11:00"
+                },
+                {
+                    "id": 112208,
+                    "acmi_id": "183576",
+                    "title": "Plans and colour references for set",
+                    "title_annotation": "",
+                    "slug": "plans-and-colour-references-for-set",
+                    "creator_credit": "Theo Benton and Tony Cronin",
+                    "credit_line": "",
+                    "headline_credit": "",
+                    "thumbnail": {
+                        "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/P180496_G205.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=5GOaVJZ111W7GXLPNh57obz0FqM%3D&Expires=1627009165",
+                        "has_video": false
+                    },
+                    "record_type": "group",
+                    "type": "Film",
+                    "is_on_display": true,
+                    "last_on_display_place": "ACMI: Gallery 1",
+                    "last_on_display_date": "2023-02-09",
+                    "is_context_indigenous": false,
+                    "material_description": "",
+                    "unpublished": false,
+                    "first_production_date": null
+                },
+                {
+                    "id": 112191,
+                    "acmi_id": "183577",
+                    "title": "Pocket watch, chains, pocket knife",
+                    "title_annotation": "",
+                    "slug": "pocket-watch-chains-pocket-knife",
+                    "creator_credit": "",
+                    "credit_line": "<p>Courtesy Bunya Productions Pty Ltd</p>",
+                    "headline_credit": "",
+                    "thumbnail": {
+                        "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN179583_ArchiesKnifeSweetCountry.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=5Ph67BWXAFA8yypBfx0m%2F8LRgVg%3D&Expires=1627009165",
+                        "has_video": false
+                    },
+                    "record_type": "group",
+                    "type": "Film",
+                    "is_on_display": true,
+                    "last_on_display_place": "ACMI: Gallery 1",
+                    "last_on_display_date": "2023-02-09",
+                    "is_context_indigenous": false,
+                    "material_description": "",
+                    "unpublished": false,
+                    "first_production_date": null
+                },
+                {
+                    "id": 112207,
+                    "acmi_id": "183578",
+                    "title": "Set during contsruction",
+                    "title_annotation": "",
+                    "slug": "set-during-consruction",
+                    "creator_credit": "Theo Benton and Tony Cronin",
+                    "credit_line": "<p>Courtesy Bunya Productions</p>",
+                    "headline_credit": "",
+                    "thumbnail": {
+                        "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/P180494_G203.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=b9WgwRC5LkoqxMo6hOyE7vTXNXg%3D&Expires=1627009165",
+                        "has_video": false
+                    },
+                    "record_type": "group",
+                    "type": "Film",
+                    "is_on_display": true,
+                    "last_on_display_place": "ACMI: Gallery 1",
+                    "last_on_display_date": "2023-02-09",
+                    "is_context_indigenous": false,
+                    "material_description": "",
+                    "unpublished": false,
+                    "first_production_date": null
+                },
+                {
+                    "id": 112204,
+                    "acmi_id": "183579",
+                    "title": "Storyboards",
+                    "title_annotation": "",
+                    "slug": "storyboards",
+                    "creator_credit": "David Tranter",
+                    "credit_line": "<p>Courtesy Bunja Productions Pty Ltd</p>",
+                    "headline_credit": "",
+                    "thumbnail": null,
+                    "record_type": "group",
+                    "type": "Film",
+                    "is_on_display": true,
+                    "last_on_display_place": "ACMI: Gallery 1",
+                    "last_on_display_date": "2023-02-09",
+                    "is_context_indigenous": false,
+                    "material_description": "",
+                    "unpublished": false,
+                    "first_production_date": null
+                },
+                {
+                    "id": 100694,
+                    "acmi_id": "180497",
+                    "title": "Sweet Country costume sketch for Harry Marsh",
+                    "title_annotation": "Facsimile",
+                    "slug": "graphic-costume-sketch-harry",
+                    "creator_credit": "Heather Wallace",
+                    "credit_line": "<p>Courtesy Bunya Productions Pty Ltd</p>",
+                    "headline_credit": "Australia, 2018",
+                    "thumbnail": {
+                        "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/P180497_G206.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=aqHhHuBowHOJ%2B1lNxiykFIlCCak%3D&Expires=1627009165",
+                        "has_video": false
+                    },
+                    "record_type": "work",
+                    "type": "Object",
+                    "is_on_display": true,
+                    "last_on_display_place": "ACMI: Gallery 1",
+                    "last_on_display_date": "2023-02-09",
+                    "is_context_indigenous": false,
+                    "material_description": "Graphic",
+                    "unpublished": false,
+                    "first_production_date": "2018-01-01T11:00:00+11:00"
+                },
+                {
+                    "id": 100685,
+                    "acmi_id": "180488",
+                    "title": "Sweet Country production photo of Shanika Cole",
+                    "title_annotation": "Facsimile",
+                    "slug": "graphic-photo-of-shanika-cole-as-lucy-p1",
+                    "creator_credit": "",
+                    "credit_line": "<p>Courtesy Bunya Productions Pty Ltd</p>",
+                    "headline_credit": "Australia, 2018",
+                    "thumbnail": {
+                        "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/P180488_G197.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=lnN6xuS9yp2EkugWs5iekLVl%2FxI%3D&Expires=1627009165",
+                        "has_video": false
+                    },
+                    "record_type": "work",
+                    "type": "Object",
+                    "is_on_display": true,
+                    "last_on_display_place": "ACMI: Gallery 1",
+                    "last_on_display_date": "2023-02-09",
+                    "is_context_indigenous": false,
+                    "material_description": "Graphic",
+                    "unpublished": false,
+                    "first_production_date": "2018-01-01T11:00:00+11:00"
+                },
+                {
+                    "id": 100683,
+                    "acmi_id": "180486",
+                    "title": "Tremayne and Trevon Doolan during production of Sweet Country",
+                    "title_annotation": "Facsimile",
+                    "slug": "graphic-photo-of-tremayne-trevor-doonan-as-philomac",
+                    "creator_credit": "",
+                    "credit_line": "<p>Courtesy Bunya Productions Pty Ltd</p>",
+                    "headline_credit": "Australia, 2018",
+                    "thumbnail": {
+                        "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/P180486_G195.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=PCyYNhMYtH48sabFIFc71URVONo%3D&Expires=1627009165",
+                        "has_video": false
+                    },
+                    "record_type": "work",
+                    "type": "Object",
+                    "is_on_display": true,
+                    "last_on_display_place": "ACMI: Gallery 1",
+                    "last_on_display_date": "2023-02-09",
+                    "is_context_indigenous": false,
+                    "material_description": "Graphic",
+                    "unpublished": false,
+                    "first_production_date": "2018-01-01T11:00:00+11:00"
+                }
+            ],
+            "source": {
+                "name": "Vernon",
+                "slug": "vernon"
+            },
+            "source_identifier": "179581",
+            "production_places": [
+                {
+                    "id": 3,
+                    "name": "Australia",
+                    "slug": "australia"
+                }
+            ],
+            "production_dates": [
+                {
+                    "date": "2018",
+                    "notes": "",
+                    "to_year": "2018"
+                }
+            ],
+            "labels": [
+                40051
+            ]
+        },
+        {
+            "id": 100554,
+            "acmi_id": "179579",
+            "title": "Metalbeard figure",
+            "title_annotation": "",
+            "slug": "lego-metalbeard-figure",
+            "creator_credit": "The Lego Group",
+            "credit_line": "<p>LEGO</p>",
+            "headline_credit": "",
+            "thumbnail": {
+                "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/P179579_LEGO_MetalBeardFigure_Front.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=WgB3i%2BGsT%2F6p8lOmiKR7VtX2K3Y%3D&Expires=1627009165",
+                "has_video": false
+            },
+            "record_type": "work",
+            "type": "Object",
+            "is_on_display": true,
+            "last_on_display_place": "ACMI: Gallery 1",
+            "last_on_display_date": "2023-02-09",
+            "is_context_indigenous": false,
+            "material_description": "LEGO bricks and minifigurine, acrylonitrile butadiene styrene (ABS) plastic",
+            "unpublished": false,
+            "first_production_date": null,
+            "brief_description": "<p>LEGO Metalbeard Figure</p>",
+            "constellations_primary": [],
+            "constellations_other": [],
+            "recommendations": [],
+            "title_for_label": "<p>Minifigurines of characters from The LEGO Movie</p>",
+            "creator_credit_for_label": "<p>The Lego Group</p>",
+            "headline_credit_for_label": "",
+            "description": "<p>LEGO Metalbeard Figure</p>",
+            "description_for_label": [
+                "<p>LEGO Metalbeard Figure</p>"
+            ],
+            "credit_line_for_label": "<p>LEGO</p>",
+            "details": [
+                {
+                    "label": "Curatorial section",
+                    "display_values": [
+                        "The Story of the Moving Image&nbsp;→ Moving Worlds&nbsp;→ 05. Character Design&nbsp;→ MW-05-C02&nbsp;→ MW-05-C02.02"
+                    ]
+                },
+                {
+                    "label": "Measurements",
+                    "display_values": [
+                        "150 x 150 x 80mm"
+                    ]
+                },
+                {
+                    "label": "Materials",
+                    "display_values": [
+                        "LEGO bricks and minifigurine, acrylonitrile butadiene styrene (ABS) plastic"
+                    ]
+                }
+            ],
+            "stats": {
+                "tap_count": 0
+            },
+            "links": [],
+            "creators_primary": [
+                {
+                    "id": 1134428,
+                    "name": "The Lego Group",
+                    "creator_id": 36934,
+                    "role": "manufacturer",
+                    "role_id": 627,
+                    "is_primary": true
+                }
+            ],
+            "creators_other": [],
+            "video_links": [],
+            "media_note": null,
+            "images": [
+                {
+                    "id": 12612,
+                    "image_file": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/P179579_LEGO_MetalBeardFigure_Front.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=n7tuGRsjOkNimWEzFTnEfW6hp2s%3D&Expires=1627009165",
+                    "image_file_thumbnail": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/P179579_LEGO_MetalBeardFigure_Front.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=WgB3i%2BGsT%2F6p8lOmiKR7VtX2K3Y%3D&Expires=1627009165",
+                    "image_file_xs": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/P179579_LEGO_MetalBeardFigure_Front.jpg.480x480_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=bE5yBuLO8oBVa5Peyup7wPJkIfg%3D&Expires=1627009165",
+                    "image_file_s": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/P179579_LEGO_MetalBeardFigure_Front.jpg.960x960_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=6FHHoFLWpTHtxHhR9U2XTbXT7lc%3D&Expires=1627009165",
+                    "image_file_m": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/P179579_LEGO_MetalBeardFigure_Front.jpg.1920x1920_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=Ck%2BVVclSGkTLCGlyD5DtTdN49yo%3D&Expires=1627009165",
+                    "image_file_l": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/P179579_LEGO_MetalBeardFigure_Front.jpg.3840x3840_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=E4Sri8NKfTs9MI6ikNYySA6VH64%3D&Expires=1627009165",
+                    "caption": "P179579_LEGO_MetalBeardFigure_Front",
+                    "credit_line": "Photograph by Egmont Contreras, ACMI.",
+                    "alt_text": "",
+                    "width": 4644,
+                    "height": 3096,
+                    "access_level": "View anywhere"
+                },
+                {
+                    "id": 12932,
+                    "image_file": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/P179579_LEGO_MetalBeardFigure_Left.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=fFwt99Wse42kziQgjouh1whsnBg%3D&Expires=1627009165",
+                    "image_file_thumbnail": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/P179579_LEGO_MetalBeardFigure_Left.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=eNJiukz1ViWEvXZsnHp5rCW9Djo%3D&Expires=1627009165",
+                    "image_file_xs": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/P179579_LEGO_MetalBeardFigure_Left.jpg.480x480_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=WNSeERufr13wKG%2B1jfLeI9kbKDw%3D&Expires=1627009165",
+                    "image_file_s": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/P179579_LEGO_MetalBeardFigure_Left.jpg.960x960_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=OteZDO8Bw%2BdkU6Aqy9hBnFOCi54%3D&Expires=1627009165",
+                    "image_file_m": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/P179579_LEGO_MetalBeardFigure_Left.jpg.1920x1920_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=M7kZwXSqtk7UzlVhAAm9aZa3Tv4%3D&Expires=1627009165",
+                    "image_file_l": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/P179579_LEGO_MetalBeardFigure_Left.jpg.3840x3840_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=zFUmU7fmgzqsRFshCTIDFVEGUx0%3D&Expires=1627009165",
+                    "caption": "P179579_LEGO_MetalBeardFigure_Left",
+                    "credit_line": "Photograph by Egmont Contreras, ACMI.",
+                    "alt_text": "",
+                    "width": 4800,
+                    "height": 3200,
+                    "access_level": "View anywhere"
+                },
+                {
+                    "id": 12933,
+                    "image_file": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/P179579_LEGO_MetalBeardFigure_Right.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=azcFxv0hj5mAe6uzr%2F16oTRlqcI%3D&Expires=1627009165",
+                    "image_file_thumbnail": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/P179579_LEGO_MetalBeardFigure_Right.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=mbOyta53Qu4iASfBB05GX4K087E%3D&Expires=1627009165",
+                    "image_file_xs": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/P179579_LEGO_MetalBeardFigure_Right.jpg.480x480_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=6TCUluC3a9Znoy8iq%2FBxCTX6zDk%3D&Expires=1627009165",
+                    "image_file_s": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/P179579_LEGO_MetalBeardFigure_Right.jpg.960x960_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=Pu8Cgf8tPso2bjpF1lgglVZJVm8%3D&Expires=1627009165",
+                    "image_file_m": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/P179579_LEGO_MetalBeardFigure_Right.jpg.1920x1920_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=pTI6z6dyJAVE%2FXplNdCd6Y%2BfVNA%3D&Expires=1627009165",
+                    "image_file_l": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/P179579_LEGO_MetalBeardFigure_Right.jpg.3840x3840_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=4XxKGs%2FFFmnP5zZk9Ek3Rr5AY7k%3D&Expires=1627009165",
+                    "caption": "P179579_LEGO_MetalBeardFigure_Right",
+                    "credit_line": "Photograph by Egmont Contreras, ACMI.",
+                    "alt_text": "",
+                    "width": 4554,
+                    "height": 3139,
+                    "access_level": "View anywhere"
+                },
+                {
+                    "id": 12931,
+                    "image_file": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/P179579_LEGO_MetalBeardFigure_Back.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=WeVLG59lyrKI%2FKXWLL0pTmSer48%3D&Expires=1627009165",
+                    "image_file_thumbnail": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/P179579_LEGO_MetalBeardFigure_Back.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=e%2BaXSyeMZ1fdxmh4NGBtEawzx30%3D&Expires=1627009165",
+                    "image_file_xs": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/P179579_LEGO_MetalBeardFigure_Back.jpg.480x480_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=4loOHzKBfV278gw%2BzPuKF35%2Bvr8%3D&Expires=1627009165",
+                    "image_file_s": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/P179579_LEGO_MetalBeardFigure_Back.jpg.960x960_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=GB7X19QwMobzs%2BnlhWeD3p8670U%3D&Expires=1627009165",
+                    "image_file_m": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/P179579_LEGO_MetalBeardFigure_Back.jpg.1920x1920_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=dkS%2Fk0OhcawqqcppwTrcri6zXlI%3D&Expires=1627009165",
+                    "image_file_l": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/P179579_LEGO_MetalBeardFigure_Back.jpg.3840x3840_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=EuiDry%2BlmxJ9oPCrgnXZiuGZIA8%3D&Expires=1627009165",
+                    "caption": "P179579_LEGO_MetalBeardFigure_Back",
+                    "credit_line": "Photograph by Egmont Contreras, ACMI.",
+                    "alt_text": "",
+                    "width": 4800,
+                    "height": 3200,
+                    "access_level": "View anywhere"
+                }
+            ],
+            "videos": [],
+            "holdings": [],
+            "part_of": null,
+            "parts": [],
+            "part_siblings": [],
+            "group": {
+                "id": 112190,
+                "acmi_id": "183585",
+                "title": "Minifigurines of characters from The Lego Movie",
+                "title_annotation": "",
+                "slug": "minifigurines-of-characters-from-the-lego-movie",
+                "creator_credit": "",
+                "credit_line": "",
+                "headline_credit": "",
+                "thumbnail": {
+                    "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/P180819_LegoUniKittySuperAngry.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=sWVUphJcQHjm0XPzxGRIzJv73JQ%3D&Expires=1627009165",
+                    "has_video": false
+                },
+                "record_type": "group",
+                "type": "Film",
+                "is_on_display": true,
+                "last_on_display_place": "ACMI: Gallery 1",
+                "last_on_display_date": "2023-02-09",
+                "is_context_indigenous": false,
+                "material_description": "",
+                "unpublished": false,
+                "first_production_date": null
+            },
+            "group_works": [],
+            "group_siblings": [
+                {
+                    "id": 100831,
+                    "acmi_id": "180819",
+                    "title": "Angry Unikitty minifigurine",
+                    "title_annotation": "",
+                    "slug": "lego-unikitty-super-angry-minifigure",
+                    "creator_credit": "The Lego Group",
+                    "credit_line": "",
+                    "headline_credit": "",
+                    "thumbnail": {
+                        "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/P180819_LegoUniKittySuperAngry.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=sWVUphJcQHjm0XPzxGRIzJv73JQ%3D&Expires=1627009165",
+                        "has_video": false
+                    },
+                    "record_type": "work",
+                    "type": "Object",
+                    "is_on_display": true,
+                    "last_on_display_place": "ACMI: Gallery 1",
+                    "last_on_display_date": "2023-02-09",
+                    "is_context_indigenous": false,
+                    "material_description": "LEGO minifigurine, acrylonitrile butadiene styrene (ABS) plastic",
+                    "unpublished": false,
+                    "first_production_date": null
+                },
+                {
+                    "id": 100822,
+                    "acmi_id": "180810",
+                    "title": "Benny minifigurine",
+                    "title_annotation": "",
+                    "slug": "lego-benny-minifigure",
+                    "creator_credit": "The Lego Group",
+                    "credit_line": "",
+                    "headline_credit": "",
+                    "thumbnail": {
+                        "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/P180810_LegoBenny.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=ZyB0276w1orFA%2BnN1M2F4H8WAHo%3D&Expires=1627009165",
+                        "has_video": false
+                    },
+                    "record_type": "work",
+                    "type": "Object",
+                    "is_on_display": true,
+                    "last_on_display_place": "ACMI: Gallery 1",
+                    "last_on_display_date": "2023-02-09",
+                    "is_context_indigenous": false,
+                    "material_description": "LEGO minifigurine, acrylonitrile butadiene styrene (ABS) plastic",
+                    "unpublished": false,
+                    "first_production_date": null
+                },
+                {
+                    "id": 100827,
+                    "acmi_id": "180815",
+                    "title": "Calamity Drone minifigurine",
+                    "title_annotation": "",
+                    "slug": "lego-calamity-drone-minifigure",
+                    "creator_credit": "The Lego Group",
+                    "credit_line": "",
+                    "headline_credit": "",
+                    "thumbnail": {
+                        "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/P180815_LegoCalamityDrone.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=bGlPOXA4rk%2FuSkRo7e%2F0F03iM%2BU%3D&Expires=1627009165",
+                        "has_video": false
+                    },
+                    "record_type": "work",
+                    "type": "Object",
+                    "is_on_display": true,
+                    "last_on_display_place": "ACMI: Gallery 1",
+                    "last_on_display_date": "2023-02-09",
+                    "is_context_indigenous": false,
+                    "material_description": "LEGO minifigurine, acrylonitrile butadiene styrene (ABS) plastic",
+                    "unpublished": false,
+                    "first_production_date": null
+                },
+                {
+                    "id": 100551,
+                    "acmi_id": "179576",
+                    "title": "Emmet minifigurine",
+                    "title_annotation": "",
+                    "slug": "lego-emmet-minifigure",
+                    "creator_credit": "The Lego Group",
+                    "credit_line": "<p>LEGO</p>",
+                    "headline_credit": "",
+                    "thumbnail": null,
+                    "record_type": "work",
+                    "type": "Object",
+                    "is_on_display": true,
+                    "last_on_display_place": "ACMI: Gallery 1",
+                    "last_on_display_date": "2023-02-09",
+                    "is_context_indigenous": false,
+                    "material_description": "LEGO minifigurine, acrylonitrile butadiene styrene (ABS) plastic",
+                    "unpublished": false,
+                    "first_production_date": null
+                },
+                {
+                    "id": 100553,
+                    "acmi_id": "179578",
+                    "title": "Ghost Vitruvius minifigurine",
+                    "title_annotation": "",
+                    "slug": "lego-ghost-vitruvius-minifigure",
+                    "creator_credit": "The Lego Group",
+                    "credit_line": "<p>LEGO</p>",
+                    "headline_credit": "",
+                    "thumbnail": null,
+                    "record_type": "work",
+                    "type": "Object",
+                    "is_on_display": true,
+                    "last_on_display_place": "ACMI: Gallery 1",
+                    "last_on_display_date": "2023-02-09",
+                    "is_context_indigenous": false,
+                    "material_description": "LEGO minifigurine, acrylonitrile butadiene styrene (ABS) plastic",
+                    "unpublished": false,
+                    "first_production_date": null
+                },
+                {
+                    "id": 100828,
+                    "acmi_id": "180816",
+                    "title": "President Business minifigurine",
+                    "title_annotation": "",
+                    "slug": "lego-president-business-minifigure",
+                    "creator_credit": "The Lego Group",
+                    "credit_line": "",
+                    "headline_credit": "",
+                    "thumbnail": {
+                        "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/P180816_LegoPresidentBusiness.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=7jwQVWGRsk45lXQWmsn8M1KyP9k%3D&Expires=1627009165",
+                        "has_video": false
+                    },
+                    "record_type": "work",
+                    "type": "Object",
+                    "is_on_display": true,
+                    "last_on_display_place": "ACMI: Gallery 1",
+                    "last_on_display_date": "2023-02-09",
+                    "is_context_indigenous": false,
+                    "material_description": "LEGO minifigurine, acrylonitrile butadiene styrene (ABS) plastic",
+                    "unpublished": false,
+                    "first_production_date": null
+                },
+                {
+                    "id": 100826,
+                    "acmi_id": "180814",
+                    "title": "Scribble Face Bad Cop minifigurine",
+                    "title_annotation": "",
+                    "slug": "lego-scribble-face-bad-cop-minifigure",
+                    "creator_credit": "The Lego Group",
+                    "credit_line": "",
+                    "headline_credit": "",
+                    "thumbnail": {
+                        "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/P180814_LegoScribbleFaceBadCop.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=4LdXr3xC0Q8VEnZz02CraroYebA%3D&Expires=1627009165",
+                        "has_video": false
+                    },
+                    "record_type": "work",
+                    "type": "Object",
+                    "is_on_display": true,
+                    "last_on_display_place": "ACMI: Gallery 1",
+                    "last_on_display_date": "2023-02-09",
+                    "is_context_indigenous": false,
+                    "material_description": "LEGO minifigurine, acrylonitrile butadiene styrene (ABS) plastic",
+                    "unpublished": false,
+                    "first_production_date": null
+                },
+                {
+                    "id": 100829,
+                    "acmi_id": "180817",
+                    "title": "Unikitty minifigurine",
+                    "title_annotation": "",
+                    "slug": "lego-unikitty-large-smile-minifigure",
+                    "creator_credit": "The Lego Group",
+                    "credit_line": "",
+                    "headline_credit": "",
+                    "thumbnail": {
+                        "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/P180817_LegoUniKittyBigSmile.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=STKXJJqFAepVilkMSp832daKuyI%3D&Expires=1627009165",
+                        "has_video": false
+                    },
+                    "record_type": "work",
+                    "type": "Object",
+                    "is_on_display": true,
+                    "last_on_display_place": "ACMI: Gallery 1",
+                    "last_on_display_date": "2023-02-09",
+                    "is_context_indigenous": false,
+                    "material_description": "ine, acrylonitrile butadiene styrene (ABS) plastic",
+                    "unpublished": false,
+                    "first_production_date": null
+                },
+                {
+                    "id": 100830,
+                    "acmi_id": "180818",
+                    "title": "Vitruvius minifigurine",
+                    "title_annotation": "",
+                    "slug": "lego-vitruvius-minifigure",
+                    "creator_credit": "The Lego Group",
+                    "credit_line": "",
+                    "headline_credit": "",
+                    "thumbnail": {
+                        "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/P180818_LegoVitruvius.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=u0gItwakUdbl2WzGBV%2Fa81H2IWM%3D&Expires=1627009165",
+                        "has_video": false
+                    },
+                    "record_type": "work",
+                    "type": "Object",
+                    "is_on_display": true,
+                    "last_on_display_place": "ACMI: Gallery 1",
+                    "last_on_display_date": "2023-02-09",
+                    "is_context_indigenous": false,
+                    "material_description": "LEGO minifigurine, acrylonitrile butadiene styrene (ABS) plastic",
+                    "unpublished": false,
+                    "first_production_date": null
+                },
+                {
+                    "id": 100552,
+                    "acmi_id": "179577",
+                    "title": "Wyldstyle minifigurine",
+                    "title_annotation": "",
+                    "slug": "lego-wyldstyle-minifigure",
+                    "creator_credit": "The Lego Group",
+                    "credit_line": "<p>LEGO</p>",
+                    "headline_credit": "",
+                    "thumbnail": null,
+                    "record_type": "work",
+                    "type": "Object",
+                    "is_on_display": true,
+                    "last_on_display_place": "ACMI: Gallery 1",
+                    "last_on_display_date": "2023-02-09",
+                    "is_context_indigenous": false,
+                    "material_description": "LEGO minifigurine, acrylonitrile butadiene styrene (ABS) plastic",
+                    "unpublished": false,
+                    "first_production_date": null
+                }
+            ],
+            "source": {
+                "name": "Vernon",
+                "slug": "vernon"
+            },
+            "source_identifier": "179579",
+            "production_places": [],
+            "production_dates": [],
+            "labels": [
+                40050
+            ]
+        },
+        {
+            "id": 100252,
+            "acmi_id": "179575",
+            "title": "Magic Lantern Set Effects Slide [Dentist Pulling a Tooth]",
+            "title_annotation": "",
+            "slug": "magic-lantern-set-effects-slide-dentist-pulling-a-tooth",
+            "creator_credit": "Maker not documented",
+            "credit_line": "",
+            "headline_credit": "",
+            "thumbnail": {
+                "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AEO179575_MLS_PullinATooth_1.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=QOldFGtu8%2B2hiMQ8dPqAkhlPcIc%3D&Expires=1627009165",
+                "has_video": false
+            },
+            "record_type": "work",
+            "type": "Object",
+            "is_on_display": false,
+            "last_on_display_place": "ACMI",
+            "last_on_display_date": "2022-02-10",
+            "is_context_indigenous": false,
+            "material_description": "",
+            "unpublished": true,
+            "first_production_date": null,
+            "brief_description": "<p>Hand painted magic lantern set effects slipping slide in wooden frame (dentist pulling a tooth). As the slipping slide is pulled, a dentist pulls out a tooth from a patient.</p>",
+            "constellations_primary": [],
+            "constellations_other": [],
+            "recommendations": [],
+            "title_for_label": "<p>Magic Lantern Set Effects Slide [Dentist Pulling a Tooth]</p>",
+            "creator_credit_for_label": "<p>Maker not documented</p>",
+            "headline_credit_for_label": "",
+            "description": "<p>Hand painted magic lantern set effects slipping slide in wooden frame (dentist pulling a tooth). As the slipping slide is pulled, a dentist pulls out a tooth from a patient.</p>",
+            "description_for_label": [
+                "<p>Hand painted magic lantern set effects slipping slide in wooden frame (dentist pulling a tooth). As the slipping slide is pulled, a dentist pulls out a tooth from a patient.</p>"
+            ],
+            "credit_line_for_label": "",
+            "details": [
+                {
+                    "label": "Curatorial section",
+                    "display_values": [
+                        "The Story of the Moving Image&nbsp;→ Moving Pictures&nbsp;→ 02. Play and Illusion&nbsp;→ MI-02-C01"
+                    ]
+                },
+                {
+                    "label": "Measurements",
+                    "display_values": [
+                        "120 x 179 x 9mm"
+                    ]
+                }
+            ],
+            "stats": {
+                "tap_count": 0
+            },
+            "links": [],
+            "creators_primary": [
+                {
+                    "id": 1134427,
+                    "name": "Maker not documented",
+                    "creator_id": 71446,
+                    "role": "creator",
+                    "role_id": 968,
+                    "is_primary": true
+                }
+            ],
+            "creators_other": [],
+            "video_links": [],
+            "media_note": null,
+            "images": [
+                {
+                    "id": 28175,
+                    "image_file": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AEO179575_MLS_PullinATooth_1.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=lGpgNxQOdxYfvnvlh0hm%2Fu1iU88%3D&Expires=1627009165",
+                    "image_file_thumbnail": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AEO179575_MLS_PullinATooth_1.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=QOldFGtu8%2B2hiMQ8dPqAkhlPcIc%3D&Expires=1627009165",
+                    "image_file_xs": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AEO179575_MLS_PullinATooth_1.jpg.480x480_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=lePtle7PhUaXTAi%2BtqqkvUFv2YY%3D&Expires=1627009165",
+                    "image_file_s": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AEO179575_MLS_PullinATooth_1.jpg.960x960_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=snnSE4gS9vZiaYWixvS2Lgl7qfs%3D&Expires=1627009165",
+                    "image_file_m": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AEO179575_MLS_PullinATooth_1.jpg.1920x1920_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=Ov19eYdlXOwdAkfF%2BPcjkN9AJQ4%3D&Expires=1627009165",
+                    "image_file_l": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AEO179575_MLS_PullinATooth_1.jpg.3840x3840_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=kjQ%2FGlUn3FcF8R65zoKbkJJzcHk%3D&Expires=1627009165",
+                    "caption": "AEO179575_MLS_PullinATooth_1",
+                    "credit_line": "Photograph by Egmont Contreras, ACMI",
+                    "alt_text": "",
+                    "width": 7360,
+                    "height": 4912,
+                    "access_level": "View anywhere"
+                },
+                {
+                    "id": 28176,
+                    "image_file": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AEO179575_MLS_PullinATooth_2.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=9sZUIO9VZEsnoHGnmR1Ub87PMWc%3D&Expires=1627009165",
+                    "image_file_thumbnail": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AEO179575_MLS_PullinATooth_2.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=8TCvZeGj7jy37PVw7degrmiZOds%3D&Expires=1627009165",
+                    "image_file_xs": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AEO179575_MLS_PullinATooth_2.jpg.480x480_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=izhPnHGsN6XWlkXa2o3VWuKIzQI%3D&Expires=1627009165",
+                    "image_file_s": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AEO179575_MLS_PullinATooth_2.jpg.960x960_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=xktrh8MysxrCJRRmsGB1YHbpods%3D&Expires=1627009165",
+                    "image_file_m": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AEO179575_MLS_PullinATooth_2.jpg.1920x1920_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=vf9kk41x2k6zVkRfoklu2d%2FrfAA%3D&Expires=1627009165",
+                    "image_file_l": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AEO179575_MLS_PullinATooth_2.jpg.3840x3840_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=2Bx%2B0f2wrJMeVw8SXJ%2FM0iIjqk0%3D&Expires=1627009165",
+                    "caption": "AEO179575_MLS_PullinATooth_2",
+                    "credit_line": "Photograph by Egmont Contreras, ACMI",
+                    "alt_text": "",
+                    "width": 7360,
+                    "height": 4912,
+                    "access_level": "View anywhere"
+                }
+            ],
+            "videos": [],
+            "holdings": [],
+            "part_of": null,
+            "parts": [],
+            "part_siblings": [],
+            "group": null,
+            "group_works": [],
+            "group_siblings": [],
+            "source": {
+                "name": "Vernon",
+                "slug": "vernon"
+            },
+            "source_identifier": "179575",
+            "production_places": [],
+            "production_dates": [],
+            "labels": [
+                39748
+            ]
+        },
+        {
+            "id": 99570,
+            "acmi_id": "179567",
+            "title": "Electronic 3D glasses for domes",
+            "title_annotation": "",
+            "slug": "imax-fujitsu-electronic-3d-glasses-for-domes-liquid-crystal-shutters",
+            "creator_credit": "IMAX and Fujitsu",
+            "credit_line": "<p>Courtesy IMAX</p>",
+            "headline_credit": "Canada",
+            "thumbnail": {
+                "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/P179567_Imax3DGlasses_34.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=4%2FGs%2FguYf3RaArxFTdcJFsMUDug%3D&Expires=1627009165",
+                "has_video": false
+            },
+            "record_type": "work",
+            "type": "Object",
+            "is_on_display": true,
+            "last_on_display_place": "ACMI: Gallery 1",
+            "last_on_display_date": "2031-02-16",
+            "is_context_indigenous": false,
+            "material_description": "",
+            "unpublished": false,
+            "first_production_date": null,
+            "brief_description": "<p>IMAX Fujitsu electronic 3D glasses for Domes liquid crystal shutters</p>",
+            "constellations_primary": [],
+            "constellations_other": [],
+            "recommendations": [],
+            "title_for_label": "<p>Electronic 3D glasses for domes</p>",
+            "creator_credit_for_label": "<p>IMAX and Fujitsu</p>",
+            "headline_credit_for_label": "<p>Canada</p>",
+            "description": "<p>IMAX Fujitsu electronic 3D glasses for Domes liquid crystal shutters</p>",
+            "description_for_label": [
+                "<p>IMAX Fujitsu electronic 3D glasses for Domes liquid crystal shutters</p>"
+            ],
+            "credit_line_for_label": "<p>Courtesy IMAX</p>",
+            "details": [
+                {
+                    "label": "Curatorial section",
+                    "display_values": [
+                        "The Story of the Moving Image&nbsp;→ Moving Pictures&nbsp;→ 08. Immersive Innovations&nbsp;→ MI-08-C01"
+                    ]
+                },
+                {
+                    "label": "Measurements",
+                    "display_values": [
+                        "120 x 195 x 220mm"
+                    ]
+                }
+            ],
+            "stats": {
+                "tap_count": 0
+            },
+            "links": [],
+            "creators_primary": [
+                {
+                    "id": 1134426,
+                    "name": "IMAX",
+                    "creator_id": 72016,
+                    "role": "creator",
+                    "role_id": 968,
+                    "is_primary": true
+                },
+                {
+                    "id": 1134425,
+                    "name": "Fujitsu",
+                    "creator_id": 72015,
+                    "role": "manufacturer",
+                    "role_id": 627,
+                    "is_primary": true
+                }
+            ],
+            "creators_other": [],
+            "video_links": [],
+            "media_note": null,
+            "images": [
+                {
+                    "id": 12171,
+                    "image_file": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/P179567_Imax3DGlasses_34.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=tGypLmW75Umf8xsCet7k81fl7ek%3D&Expires=1627009165",
+                    "image_file_thumbnail": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/P179567_Imax3DGlasses_34.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=4%2FGs%2FguYf3RaArxFTdcJFsMUDug%3D&Expires=1627009165",
+                    "image_file_xs": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/P179567_Imax3DGlasses_34.jpg.480x480_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=SnqnUnc4MZqtx5D%2BdzWMxX4J7iQ%3D&Expires=1627009165",
+                    "image_file_s": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/P179567_Imax3DGlasses_34.jpg.960x960_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=gSprdYE8T2bUnxtymxQQIjozD6o%3D&Expires=1627009165",
+                    "image_file_m": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/P179567_Imax3DGlasses_34.jpg.1920x1920_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=g4PUMOwwObhRhBfBmDZakwwo4LU%3D&Expires=1627009165",
+                    "image_file_l": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/P179567_Imax3DGlasses_34.jpg.3840x3840_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=MdV6%2Fr%2BYPEelf1MjclFRs0PvGTw%3D&Expires=1627009165",
+                    "caption": "P179567_Imax3DGlasses_34",
+                    "credit_line": "Photograph by Egmont Contreras, ACMI.",
+                    "alt_text": "",
+                    "width": 4800,
+                    "height": 3200,
+                    "access_level": "View anywhere"
+                },
+                {
+                    "id": 12172,
+                    "image_file": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/P179567_Imax3DGlasses_Front.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=47xox9dwsQKA660xyzfhJF9nfaM%3D&Expires=1627009165",
+                    "image_file_thumbnail": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/P179567_Imax3DGlasses_Front.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=754ENW17p%2BYMnO15OJS1XHNLLCs%3D&Expires=1627009165",
+                    "image_file_xs": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/P179567_Imax3DGlasses_Front.jpg.480x480_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=bUAvHHOj9l7dBhm807mlef8hPK0%3D&Expires=1627009165",
+                    "image_file_s": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/P179567_Imax3DGlasses_Front.jpg.960x960_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=pOOLvrvjVBVpz9AZCiJPqCO6pyY%3D&Expires=1627009165",
+                    "image_file_m": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/P179567_Imax3DGlasses_Front.jpg.1920x1920_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=XqzhEZ1cH12KP8BOU237IgvGb%2F8%3D&Expires=1627009165",
+                    "image_file_l": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/P179567_Imax3DGlasses_Front.jpg.3840x3840_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=9VF9I6ncYyjegJyrHEbUXbduvzY%3D&Expires=1627009165",
+                    "caption": "P179567_Imax3DGlasses_Front",
+                    "credit_line": "Photograph by Egmont Contreras, ACMI.",
+                    "alt_text": "",
+                    "width": 4593,
+                    "height": 3062,
+                    "access_level": "View anywhere"
+                },
+                {
+                    "id": 12173,
+                    "image_file": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/P179567_Imax3DGlasses_Side.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=f2Nb%2FWGVcFGDtFgXq1dw6YOHWNc%3D&Expires=1627009165",
+                    "image_file_thumbnail": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/P179567_Imax3DGlasses_Side.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=O4Vny17jC2NGBaHLSprGK076HlQ%3D&Expires=1627009165",
+                    "image_file_xs": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/P179567_Imax3DGlasses_Side.jpg.480x480_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=szMmE2gNNWhKKXnXOZJ1qlvSAOc%3D&Expires=1627009165",
+                    "image_file_s": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/P179567_Imax3DGlasses_Side.jpg.960x960_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=T1hST4kLY4cV%2BarrisTmV8jSzC4%3D&Expires=1627009165",
+                    "image_file_m": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/P179567_Imax3DGlasses_Side.jpg.1920x1920_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=KUECD3SqIsBvdjOwqIGy0%2BaC8NQ%3D&Expires=1627009165",
+                    "image_file_l": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/P179567_Imax3DGlasses_Side.jpg.3840x3840_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=FgcLYxoQJ3HPJE8QaTPP3s%2FGQb4%3D&Expires=1627009165",
+                    "caption": "P179567_Imax3DGlasses_Side",
+                    "credit_line": "Photograph by Egmont Contreras, ACMI.",
+                    "alt_text": "",
+                    "width": 4800,
+                    "height": 3200,
+                    "access_level": "View anywhere"
+                }
+            ],
+            "videos": [],
+            "holdings": [],
+            "part_of": null,
+            "parts": [],
+            "part_siblings": [],
+            "group": {
+                "id": 100550,
+                "acmi_id": "181519",
+                "title": "IMAX",
+                "title_annotation": "",
+                "slug": "imax",
+                "creator_credit": "",
+                "credit_line": "",
+                "headline_credit": "",
+                "thumbnail": {
+                    "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/P179567_Imax3DGlasses_34.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=4%2FGs%2FguYf3RaArxFTdcJFsMUDug%3D&Expires=1627009165",
+                    "has_video": false
+                },
+                "record_type": "group",
+                "type": "Film",
+                "is_on_display": true,
+                "last_on_display_place": "ACMI: Gallery 1",
+                "last_on_display_date": "2031-02-16",
+                "is_context_indigenous": false,
+                "material_description": "",
+                "unpublished": false,
+                "first_production_date": null
+            },
+            "group_works": [],
+            "group_siblings": [
+                {
+                    "id": 99873,
+                    "acmi_id": "180384",
+                    "title": "IMAX film comparison",
+                    "title_annotation": "Facsimile",
+                    "slug": "graphic-imax",
+                    "creator_credit": "",
+                    "credit_line": "",
+                    "headline_credit": "",
+                    "thumbnail": null,
+                    "record_type": "work",
+                    "type": "Object",
+                    "is_on_display": true,
+                    "last_on_display_place": "ACMI: Gallery 1",
+                    "last_on_display_date": "2031-02-16",
+                    "is_context_indigenous": false,
+                    "material_description": "Graphic",
+                    "unpublished": false,
+                    "first_production_date": null
+                },
+                {
+                    "id": 99875,
+                    "acmi_id": "180386",
+                    "title": "Loading Film At The Feinstein IMAX Theatre",
+                    "title_annotation": "Facsimile",
+                    "slug": "graphic-loading-film-at-the-feinstein-imax-theatre",
+                    "creator_credit": "Dominic Chavez",
+                    "credit_line": "<p>Courtesy Boston Globe / Getty Images</p>",
+                    "headline_credit": "United States, 2001",
+                    "thumbnail": {
+                        "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/P180386_G096.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=0XvzsLOClIUCNsOin%2BGN4YjMLsE%3D&Expires=1627009165",
+                        "has_video": false
+                    },
+                    "record_type": "work",
+                    "type": "Object",
+                    "is_on_display": true,
+                    "last_on_display_place": "ACMI: Gallery 1",
+                    "last_on_display_date": "2031-02-16",
+                    "is_context_indigenous": false,
+                    "material_description": "Graphic",
+                    "unpublished": false,
+                    "first_production_date": "2001-01-01T11:00:00+11:00"
+                },
+                {
+                    "id": 99874,
+                    "acmi_id": "180385",
+                    "title": "Typical 3D IMAX theatre",
+                    "title_annotation": "Facsimile",
+                    "slug": "graphic-typical-3d-imax-theatre",
+                    "creator_credit": "",
+                    "credit_line": "<p>Courtesy IMAX</p>",
+                    "headline_credit": "Canada",
+                    "thumbnail": null,
+                    "record_type": "work",
+                    "type": "Object",
+                    "is_on_display": true,
+                    "last_on_display_place": "ACMI: Gallery 1",
+                    "last_on_display_date": "2031-02-16",
+                    "is_context_indigenous": false,
+                    "material_description": "Graphic",
+                    "unpublished": false,
+                    "first_production_date": null
+                }
+            ],
+            "source": {
+                "name": "Vernon",
+                "slug": "vernon"
+            },
+            "source_identifier": "179567",
+            "production_places": [
+                {
+                    "id": 36,
+                    "name": "Canada",
+                    "slug": "canada"
+                }
+            ],
+            "production_dates": [],
+            "labels": [
+                39065
+            ]
+        },
+        {
+            "id": 100129,
+            "acmi_id": "179437",
+            "title": "Eumig P8 Standard 8mm Silent Projector",
+            "title_annotation": "",
+            "slug": "eumig-p8-standard-8mm-silent-projector",
+            "creator_credit": "",
+            "credit_line": "",
+            "headline_credit": "Austria, c. 1980",
+            "thumbnail": null,
+            "record_type": "work",
+            "type": "Object",
+            "is_on_display": false,
+            "last_on_display_place": null,
+            "last_on_display_date": null,
+            "is_context_indigenous": false,
+            "material_description": "",
+            "unpublished": false,
+            "first_production_date": null,
+            "brief_description": "<p>Eumig P8 Standard 8mm silent projector s.n. 1091069 with take up spool, Philips projector lamp type 7909. Does not have original box.</p>",
+            "constellations_primary": [],
+            "constellations_other": [],
+            "recommendations": [],
+            "title_for_label": "<p>Eumig P8 Standard 8mm Silent Projector</p>",
+            "creator_credit_for_label": "",
+            "headline_credit_for_label": "<p>Austria, c. 1980</p>",
+            "description": "<p>Eumig P8 Standard 8mm silent projector s.n. 1091069 with take up spool, Philips projector lamp type 7909. Does not have original box.</p>",
+            "description_for_label": [
+                "<p>Eumig P8 Standard 8mm silent projector s.n. 1091069 with take up spool, Philips projector lamp type 7909. Does not have original box.</p>"
+            ],
+            "credit_line_for_label": "",
+            "details": [
+                {
+                    "label": "Measurements",
+                    "display_values": [
+                        "9.05kg"
+                    ]
+                }
+            ],
+            "stats": {
+                "tap_count": 0
+            },
+            "links": [],
+            "creators_primary": [],
+            "creators_other": [
+                {
+                    "id": 1134424,
+                    "name": "Eumig",
+                    "creator_id": 71998,
+                    "role": "",
+                    "role_id": 604,
+                    "is_primary": false
+                }
+            ],
+            "video_links": [],
+            "media_note": "Sorry, we don't have images or video for this item.",
+            "images": [],
+            "videos": [],
+            "holdings": [],
+            "part_of": null,
+            "parts": [],
+            "part_siblings": [],
+            "group": null,
+            "group_works": [],
+            "group_siblings": [],
+            "source": {
+                "name": "Vernon",
+                "slug": "vernon"
+            },
+            "source_identifier": "179437",
+            "production_places": [
+                {
+                    "id": 39,
+                    "name": "Austria",
+                    "slug": "austria"
+                }
+            ],
+            "production_dates": [
+                {
+                    "date": "c. 1980",
+                    "notes": "",
+                    "to_year": "c. 1980"
+                }
+            ],
+            "labels": [
+                39625
+            ]
+        },
+        {
+            "id": 100128,
+            "acmi_id": "179435",
+            "title": "Super 8: Plus-o-Matic TTL 200M",
+            "title_annotation": "",
+            "slug": "super-8-plus-o-matic-ttl-200m",
+            "creator_credit": "",
+            "credit_line": "",
+            "headline_credit": "1970s",
+            "thumbnail": null,
+            "record_type": "work",
+            "type": "Object",
+            "is_on_display": false,
+            "last_on_display_place": null,
+            "last_on_display_date": null,
+            "is_context_indigenous": false,
+            "material_description": "",
+            "unpublished": false,
+            "first_production_date": null,
+            "brief_description": "<p>Super 8: Plus-o-matic c.1970s s.n. 14618</p>",
+            "constellations_primary": [],
+            "constellations_other": [],
+            "recommendations": [],
+            "title_for_label": "<p>Super 8: Plus-o-Matic TTL 200M</p>",
+            "creator_credit_for_label": "",
+            "headline_credit_for_label": "<p>1970s</p>",
+            "description": "<p>Super 8: Plus-o-matic c.1970s s.n. 14618</p>",
+            "description_for_label": [
+                "<p>Super 8: Plus-o-matic c.1970s s.n. 14618</p>"
+            ],
+            "credit_line_for_label": "",
+            "details": [
+                {
+                    "label": "Measurements",
+                    "display_values": [
+                        "1.3kg"
+                    ]
+                }
+            ],
+            "stats": {
+                "tap_count": 0
+            },
+            "links": [],
+            "creators_primary": [],
+            "creators_other": [],
+            "video_links": [],
+            "media_note": "Sorry, we don't have images or video for this item.",
+            "images": [],
+            "videos": [],
+            "holdings": [],
+            "part_of": null,
+            "parts": [],
+            "part_siblings": [],
+            "group": null,
+            "group_works": [],
+            "group_siblings": [],
+            "source": {
+                "name": "Vernon",
+                "slug": "vernon"
+            },
+            "source_identifier": "179435",
+            "production_places": [],
+            "production_dates": [
+                {
+                    "date": "1970s",
+                    "notes": "",
+                    "to_year": "1970s"
+                }
+            ],
+            "labels": [
+                39624
+            ]
+        },
+        {
+            "id": 100127,
+            "acmi_id": "179434",
+            "title": "Moviscop 16mm Viewer with Rewinders",
+            "title_annotation": "",
+            "slug": "moviscop-16mm-viewer-with-rewinders",
+            "creator_credit": "",
+            "credit_line": "",
+            "headline_credit": "Stuttgart/Germany, 1950s",
+            "thumbnail": null,
+            "record_type": "work",
+            "type": "Object",
+            "is_on_display": false,
+            "last_on_display_place": null,
+            "last_on_display_date": null,
+            "is_context_indigenous": false,
+            "material_description": "",
+            "unpublished": false,
+            "first_production_date": null,
+            "brief_description": "<p>Moviscop 16mm viewer with rewinders</p>",
+            "constellations_primary": [],
+            "constellations_other": [],
+            "recommendations": [],
+            "title_for_label": "<p>Moviscop 16mm Viewer with Rewinders</p>",
+            "creator_credit_for_label": "",
+            "headline_credit_for_label": "<p>Stuttgart/Germany, 1950s</p>",
+            "description": "<p>Moviscop 16mm viewer with rewinders</p>",
+            "description_for_label": [
+                "<p>Moviscop 16mm viewer with rewinders</p>"
+            ],
+            "credit_line_for_label": "",
+            "details": [
+                {
+                    "label": "Measurements",
+                    "display_values": [
+                        "4.6kg"
+                    ]
+                }
+            ],
+            "stats": {
+                "tap_count": 0
+            },
+            "links": [],
+            "creators_primary": [],
+            "creators_other": [
+                {
+                    "id": 1134423,
+                    "name": "Zeiss Ikon",
+                    "creator_id": 82101,
+                    "role": "",
+                    "role_id": 604,
+                    "is_primary": false
+                }
+            ],
+            "video_links": [],
+            "media_note": "Sorry, we don't have images or video for this item.",
+            "images": [],
+            "videos": [],
+            "holdings": [],
+            "part_of": null,
+            "parts": [],
+            "part_siblings": [],
+            "group": null,
+            "group_works": [],
+            "group_siblings": [],
+            "source": {
+                "name": "Vernon",
+                "slug": "vernon"
+            },
+            "source_identifier": "179434",
+            "production_places": [
+                {
+                    "id": 267,
+                    "name": "Stuttgart/Germany",
+                    "slug": "stuttgartgermany"
+                }
+            ],
+            "production_dates": [
+                {
+                    "date": "1950s",
+                    "notes": "",
+                    "to_year": "1950s"
+                }
+            ],
+            "labels": [
+                39623
+            ]
+        },
+        {
+            "id": 100126,
+            "acmi_id": "179433",
+            "title": "Eumig P8-M Automatic Projector",
+            "title_annotation": "",
+            "slug": "eumig-p8-m-automatic-projector",
+            "creator_credit": "",
+            "credit_line": "",
+            "headline_credit": "Austria",
+            "thumbnail": null,
+            "record_type": "work",
+            "type": "Object",
+            "is_on_display": false,
+            "last_on_display_place": null,
+            "last_on_display_date": null,
+            "is_context_indigenous": false,
+            "material_description": "",
+            "unpublished": false,
+            "first_production_date": null,
+            "brief_description": "<p>Eumig P8-M Automatic projector with take up reel, atlas projector lamp, power cable, booklet and warranty, 2 sprockets, box and</p>",
+            "constellations_primary": [],
+            "constellations_other": [],
+            "recommendations": [],
+            "title_for_label": "<p>Eumig P8-M Automatic Projector</p>",
+            "creator_credit_for_label": "",
+            "headline_credit_for_label": "<p>Austria</p>",
+            "description": "<p>Eumig P8-M Automatic projector with take up reel, atlas projector lamp, power cable, booklet and warranty, 2 sprockets, box and</p>",
+            "description_for_label": [
+                "<p>Eumig P8-M Automatic projector with take up reel, atlas projector lamp, power cable, booklet and warranty, 2 sprockets, box and</p>"
+            ],
+            "credit_line_for_label": "",
+            "details": [
+                {
+                    "label": "Measurements",
+                    "display_values": [
+                        "7.3kg"
+                    ]
+                }
+            ],
+            "stats": {
+                "tap_count": 0
+            },
+            "links": [],
+            "creators_primary": [],
+            "creators_other": [
+                {
+                    "id": 1134422,
+                    "name": "Eumig",
+                    "creator_id": 71998,
+                    "role": "",
+                    "role_id": 604,
+                    "is_primary": false
+                }
+            ],
+            "video_links": [],
+            "media_note": "Sorry, we don't have images or video for this item.",
+            "images": [],
+            "videos": [],
+            "holdings": [],
+            "part_of": null,
+            "parts": [],
+            "part_siblings": [],
+            "group": null,
+            "group_works": [],
+            "group_siblings": [],
+            "source": {
+                "name": "Vernon",
+                "slug": "vernon"
+            },
+            "source_identifier": "179433",
+            "production_places": [
+                {
+                    "id": 39,
+                    "name": "Austria",
+                    "slug": "austria"
+                }
+            ],
+            "production_dates": [],
+            "labels": [
+                39622
+            ]
+        },
+        {
+            "id": 100125,
+            "acmi_id": "179432",
+            "title": "8mm Editor Viewer G100 D-8",
+            "title_annotation": "",
+            "slug": "8mm-editor-viewer-g100-d-8",
+            "creator_credit": "",
+            "credit_line": "",
+            "headline_credit": "Japan",
+            "thumbnail": null,
+            "record_type": "work",
+            "type": "Object",
+            "is_on_display": false,
+            "last_on_display_place": null,
+            "last_on_display_date": null,
+            "is_context_indigenous": false,
+            "material_description": "",
+            "unpublished": false,
+            "first_production_date": null,
+            "brief_description": "<p>Goko G100 D-8 8mm Editor Viewer in original box (box stored separately)<br />\nThis object has UK power cord</p>",
+            "constellations_primary": [],
+            "constellations_other": [],
+            "recommendations": [],
+            "title_for_label": "<p>8mm Editor Viewer G100 D-8</p>",
+            "creator_credit_for_label": "",
+            "headline_credit_for_label": "<p>Japan</p>",
+            "description": "<p>Goko G100 D-8 8mm Editor Viewer in original box (box stored separately)<br />\nThis object has UK power cord</p>",
+            "description_for_label": [
+                "<p>Goko G100 D-8 8mm Editor Viewer in original box (box stored separately)<br />\nThis object has UK power cord</p>"
+            ],
+            "credit_line_for_label": "",
+            "details": [
+                {
+                    "label": "Measurements",
+                    "display_values": [
+                        "225 x 179 x 200mm"
+                    ]
+                }
+            ],
+            "stats": {
+                "tap_count": 0
+            },
+            "links": [],
+            "creators_primary": [],
+            "creators_other": [
+                {
+                    "id": 1134421,
+                    "name": "Goko",
+                    "creator_id": 82100,
+                    "role": "",
+                    "role_id": 604,
+                    "is_primary": false
+                }
+            ],
+            "video_links": [],
+            "media_note": "Sorry, we don't have images or video for this item.",
+            "images": [],
+            "videos": [],
+            "holdings": [],
+            "part_of": null,
+            "parts": [],
+            "part_siblings": [],
+            "group": null,
+            "group_works": [],
+            "group_siblings": [],
+            "source": {
+                "name": "Vernon",
+                "slug": "vernon"
+            },
+            "source_identifier": "179432",
+            "production_places": [
+                {
+                    "id": 8,
+                    "name": "Japan",
+                    "slug": "japan"
+                }
+            ],
+            "production_dates": [],
+            "labels": [
+                39621
+            ]
+        },
+        {
+            "id": 100124,
+            "acmi_id": "179431",
+            "title": "Eumig Type P8 Automatic 'Novo' Standard-8 Projector",
+            "title_annotation": "",
+            "slug": "eumig-type-p8-automatic-novo-standard-8-projector",
+            "creator_credit": "",
+            "credit_line": "",
+            "headline_credit": "",
+            "thumbnail": null,
+            "record_type": "work",
+            "type": "Object",
+            "is_on_display": false,
+            "last_on_display_place": null,
+            "last_on_display_date": null,
+            "is_context_indigenous": false,
+            "material_description": "",
+            "unpublished": false,
+            "first_production_date": null,
+            "brief_description": "<p>Eumig P8 M Standard-8 projector</p>\n<p>From web:<br />\nEumig P8 Automatic Novo<br />\nStandard 8mm<br />\nLens: Eumig Eupro-Zoom 1:1,3 F 15-25<br />\nEupronar1:1,4 F20<br />\nLamp: 12V 100W, FCR<br />\nFilm loading: Automatic threading<br />\nReel capacity: 120m/400ft<br />\nProjection: Forward and backward<br />\nProjection speed: Variable Speed by Slider Control (8 - 24 fps)<br />\nMotor: DC Magnetic Motor<br />\nPower Source: AC. 50 Hz<br />\nWeight: 5600g<br />\nDimensions: 130x240x210</p>",
+            "constellations_primary": [],
+            "constellations_other": [],
+            "recommendations": [],
+            "title_for_label": "<p>Eumig Type P8 Automatic &#8216;Novo&#8217; Standard-8 Projector</p>",
+            "creator_credit_for_label": "",
+            "headline_credit_for_label": "",
+            "description": "<p>Eumig P8 M Standard-8 projector</p>\n<p>From web:<br />\nEumig P8 Automatic Novo<br />\nStandard 8mm<br />\nLens: Eumig Eupro-Zoom 1:1,3 F 15-25<br />\nEupronar1:1,4 F20<br />\nLamp: 12V 100W, FCR<br />\nFilm loading: Automatic threading<br />\nReel capacity: 120m/400ft<br />\nProjection: Forward and backward<br />\nProjection speed: Variable Speed by Slider Control (8 - 24 fps)<br />\nMotor: DC Magnetic Motor<br />\nPower Source: AC. 50 Hz<br />\nWeight: 5600g<br />\nDimensions: 130x240x210</p>",
+            "description_for_label": [
+                "<p>Eumig P8 M Standard-8 projector</p>\n<p>From web:<br />\nEumig P8 Automatic Novo<br />\nStandard 8mm<br />\nLens: Eumig Eupro-Zoom 1:1,3 F 15-25<br />\nEupronar1:1,4 F20<br />\nLamp: 12V 100W, FCR<br />\nFilm loading: Automatic threading<br />\nReel capacity: 120m/400ft<br />\nProjection: Forward and backward<br />\nProjection speed: Variable Speed by Slider Control (8 - 24 fps)<br />\nMotor: DC Magnetic Motor<br />\nPower Source: AC. 50 Hz<br />\nWeight: 5600g<br />\nDimensions: 130x240x210</p>"
+            ],
+            "credit_line_for_label": "",
+            "details": [
+                {
+                    "label": "Measurements",
+                    "display_values": [
+                        "7.6kg"
+                    ]
+                }
+            ],
+            "stats": {
+                "tap_count": 0
+            },
+            "links": [],
+            "creators_primary": [],
+            "creators_other": [],
+            "video_links": [],
+            "media_note": "Sorry, we don't have images or video for this item.",
+            "images": [],
+            "videos": [],
+            "holdings": [],
+            "part_of": null,
+            "parts": [],
+            "part_siblings": [],
+            "group": null,
+            "group_works": [],
+            "group_siblings": [],
+            "source": {
+                "name": "Vernon",
+                "slug": "vernon"
+            },
+            "source_identifier": "179431",
+            "production_places": [],
+            "production_dates": [],
+            "labels": [
+                39620
+            ]
+        }
+    ]
+}

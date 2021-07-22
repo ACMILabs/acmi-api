@@ -1,0 +1,2105 @@
+{
+    "count": 922,
+    "next": "/works/?page=85",
+    "previous": "/works/?page=83",
+    "results": [
+        {
+            "id": 108582,
+            "acmi_id": "1428",
+            "title": "Plastic",
+            "title_annotation": "",
+            "slug": "plastic",
+            "creator_credit": "Matthew McCullough and VCA",
+            "credit_line": "",
+            "headline_credit": "VIC/Australia, 1998",
+            "thumbnail": null,
+            "record_type": "work",
+            "type": "Film",
+            "is_on_display": false,
+            "last_on_display_place": null,
+            "last_on_display_date": null,
+            "is_context_indigenous": false,
+            "material_description": "",
+            "unpublished": false,
+            "first_production_date": "1998-01-01T11:00:00+11:00",
+            "brief_description": "<p>Evan&#8217;s world is a dark one. It is only his imagination that affords him some escape. The outside world&#8217;s harshness leads him finally to subversion and his escape is complete. An excellent discussion starter for exploring the issues of difference, and society&#8217;s perceptions of disability.</p>",
+            "constellations_primary": [],
+            "constellations_other": [],
+            "recommendations": [],
+            "title_for_label": "<p>Plastic</p>",
+            "creator_credit_for_label": "<p>Matthew McCullough and VCA</p>",
+            "headline_credit_for_label": "<p>VIC/Australia, 1998</p>",
+            "description": "<p>Evan&#8217;s world is a dark one. It is only his imagination that affords him some escape. The outside world&#8217;s harshness leads him finally to subversion and his escape is complete. An excellent discussion starter for exploring the issues of difference, and society&#8217;s perceptions of disability.</p>",
+            "description_for_label": [
+                "<p>Evan&#8217;s world is a dark one. It is only his imagination that affords him some escape. The outside world&#8217;s harshness leads him finally to subversion and his escape is complete. An excellent discussion starter for exploring the issues of difference, and society&#8217;s perceptions of disability.</p>"
+            ],
+            "credit_line_for_label": "",
+            "details": [
+                {
+                    "label": "Duration",
+                    "display_values": [
+                        "00:06:00:00"
+                    ]
+                },
+                {
+                    "label": "Language",
+                    "display_values": [
+                        "English"
+                    ]
+                },
+                {
+                    "label": "Audience classification",
+                    "display_values": [
+                        "Exempt"
+                    ]
+                },
+                {
+                    "label": "Subject categories",
+                    "display_values": [
+                        "Amateur & Student Films",
+                        "Amateur & Student Films&nbsp;→ Student films - Australia",
+                        "Animation"
+                    ]
+                },
+                {
+                    "label": "Sound/audio",
+                    "display_values": [
+                        "Sound"
+                    ]
+                },
+                {
+                    "label": "Colour",
+                    "display_values": [
+                        "Colour"
+                    ]
+                }
+            ],
+            "stats": {
+                "tap_count": 0
+            },
+            "links": [],
+            "creators_primary": [
+                {
+                    "id": 1133273,
+                    "name": "Matthew McCullough",
+                    "creator_id": 8005,
+                    "role": "director",
+                    "role_id": 938,
+                    "is_primary": true
+                },
+                {
+                    "id": 1133272,
+                    "name": "Matthew McCullough",
+                    "creator_id": 8005,
+                    "role": "creator",
+                    "role_id": 968,
+                    "is_primary": true
+                },
+                {
+                    "id": 1133271,
+                    "name": "VCA",
+                    "creator_id": 6833,
+                    "role": "producer",
+                    "role_id": 960,
+                    "is_primary": true
+                }
+            ],
+            "creators_other": [],
+            "video_links": [],
+            "media_note": "Sorry, we don't have images or video for this item.",
+            "images": [],
+            "videos": [],
+            "holdings": [
+                {
+                    "name": "MPEG-2 Digital File; Memory Grid Pod Full Encode",
+                    "identifier": "",
+                    "description": ""
+                },
+                {
+                    "name": "Digital Betacam [PAL]; Master",
+                    "identifier": "",
+                    "description": ""
+                },
+                {
+                    "name": "VHS [PAL]; Reference - timecoded",
+                    "identifier": "",
+                    "description": ""
+                },
+                {
+                    "name": "Digital Betacam [PAL]; Sub-master",
+                    "identifier": "",
+                    "description": ""
+                }
+            ],
+            "part_of": null,
+            "parts": [],
+            "part_siblings": [],
+            "group": {
+                "id": 108233,
+                "acmi_id": "869",
+                "title": "AFI Collection: a selection of tertiary student films. Tape 2",
+                "title_annotation": "",
+                "slug": "afi-collection-a-selection-of-tertiary-student-films-tape-2",
+                "creator_credit": "",
+                "credit_line": "",
+                "headline_credit": "Australia",
+                "thumbnail": null,
+                "record_type": "group",
+                "type": "Film",
+                "is_on_display": false,
+                "last_on_display_place": null,
+                "last_on_display_date": null,
+                "is_context_indigenous": false,
+                "material_description": "",
+                "unpublished": false,
+                "first_production_date": null
+            },
+            "group_works": [],
+            "group_siblings": [
+                {
+                    "id": 108556,
+                    "acmi_id": "1403",
+                    "title": "Five ninths",
+                    "title_annotation": "",
+                    "slug": "five-ninths",
+                    "creator_credit": "Aaron Davies",
+                    "credit_line": "",
+                    "headline_credit": "Australia, 1995",
+                    "thumbnail": null,
+                    "record_type": "work",
+                    "type": "Film",
+                    "is_on_display": false,
+                    "last_on_display_place": null,
+                    "last_on_display_date": null,
+                    "is_context_indigenous": false,
+                    "material_description": "",
+                    "unpublished": false,
+                    "first_production_date": "1995-01-01T11:00:00+11:00"
+                },
+                {
+                    "id": 108564,
+                    "acmi_id": "1409",
+                    "title": "Heartbreak Motel",
+                    "title_annotation": "",
+                    "slug": "heartbreak-motel",
+                    "creator_credit": "Richard Chataway and Greg Holfeld",
+                    "credit_line": "",
+                    "headline_credit": "Australia, 1997",
+                    "thumbnail": null,
+                    "record_type": "work",
+                    "type": "Film",
+                    "is_on_display": false,
+                    "last_on_display_place": null,
+                    "last_on_display_date": null,
+                    "is_context_indigenous": false,
+                    "material_description": "",
+                    "unpublished": false,
+                    "first_production_date": "1997-01-01T11:00:00+11:00"
+                },
+                {
+                    "id": 108572,
+                    "acmi_id": "1417",
+                    "title": "Lovely day",
+                    "title_annotation": "",
+                    "slug": "lovely-day",
+                    "creator_credit": "Chris Backhouse",
+                    "credit_line": "",
+                    "headline_credit": "Australia, 1996",
+                    "thumbnail": null,
+                    "record_type": "work",
+                    "type": "Film",
+                    "is_on_display": false,
+                    "last_on_display_place": null,
+                    "last_on_display_date": null,
+                    "is_context_indigenous": false,
+                    "material_description": "",
+                    "unpublished": false,
+                    "first_production_date": "1996-01-01T11:00:00+11:00"
+                },
+                {
+                    "id": 108583,
+                    "acmi_id": "1429",
+                    "title": "Pleasure domes",
+                    "title_annotation": "",
+                    "slug": "pleasure-domes",
+                    "creator_credit": "Swinburne Institute of Technology. Film and Television School and Maggie Fooke",
+                    "credit_line": "",
+                    "headline_credit": "Australia, 1987",
+                    "thumbnail": null,
+                    "record_type": "work",
+                    "type": "Film",
+                    "is_on_display": false,
+                    "last_on_display_place": null,
+                    "last_on_display_date": null,
+                    "is_context_indigenous": false,
+                    "material_description": "",
+                    "unpublished": false,
+                    "first_production_date": "1987-01-01T11:00:00+11:00"
+                },
+                {
+                    "id": 108597,
+                    "acmi_id": "1438",
+                    "title": "Serving suggestion",
+                    "title_annotation": "",
+                    "slug": "serving-suggestion",
+                    "creator_credit": "AFTRS, Kate Riedl and Tony Thorne",
+                    "credit_line": "",
+                    "headline_credit": "Australia, 1998",
+                    "thumbnail": null,
+                    "record_type": "work",
+                    "type": "Film",
+                    "is_on_display": false,
+                    "last_on_display_place": null,
+                    "last_on_display_date": null,
+                    "is_context_indigenous": false,
+                    "material_description": "",
+                    "unpublished": false,
+                    "first_production_date": "1998-01-01T11:00:00+11:00"
+                },
+                {
+                    "id": 108232,
+                    "acmi_id": "476",
+                    "title": "The Journey",
+                    "title_annotation": "",
+                    "slug": "the-journey",
+                    "creator_credit": "VCA and Robert Gudan",
+                    "credit_line": "",
+                    "headline_credit": "Australia, 1995",
+                    "thumbnail": null,
+                    "record_type": "work",
+                    "type": "Film",
+                    "is_on_display": false,
+                    "last_on_display_place": null,
+                    "last_on_display_date": null,
+                    "is_context_indigenous": false,
+                    "material_description": "",
+                    "unpublished": false,
+                    "first_production_date": "1995-01-01T11:00:00+11:00"
+                },
+                {
+                    "id": 108602,
+                    "acmi_id": "1443",
+                    "title": "Under the weather",
+                    "title_annotation": "",
+                    "slug": "under-the-weather",
+                    "creator_credit": "Lyn Ashby and VCA",
+                    "credit_line": "",
+                    "headline_credit": "VIC/Australia, 1993",
+                    "thumbnail": null,
+                    "record_type": "work",
+                    "type": "Film",
+                    "is_on_display": false,
+                    "last_on_display_place": null,
+                    "last_on_display_date": null,
+                    "is_context_indigenous": false,
+                    "material_description": "",
+                    "unpublished": false,
+                    "first_production_date": "1993-01-01T11:00:00+11:00"
+                }
+            ],
+            "source": {
+                "name": "Vernon",
+                "slug": "vernon"
+            },
+            "source_identifier": "1428",
+            "production_places": [
+                {
+                    "id": 40,
+                    "name": "VIC/Australia",
+                    "slug": "vicaustralia"
+                }
+            ],
+            "production_dates": [
+                {
+                    "date": "1998",
+                    "notes": "",
+                    "to_year": "1998"
+                }
+            ],
+            "labels": [
+                48075
+            ]
+        },
+        {
+            "id": 108572,
+            "acmi_id": "1417",
+            "title": "Lovely day",
+            "title_annotation": "",
+            "slug": "lovely-day",
+            "creator_credit": "Chris Backhouse",
+            "credit_line": "",
+            "headline_credit": "Australia, 1996",
+            "thumbnail": null,
+            "record_type": "work",
+            "type": "Film",
+            "is_on_display": false,
+            "last_on_display_place": null,
+            "last_on_display_date": null,
+            "is_context_indigenous": false,
+            "material_description": "",
+            "unpublished": false,
+            "first_production_date": "1996-01-01T11:00:00+11:00",
+            "brief_description": "<p>Lovely Day is a masterpiece of painterly animation art. Painstakingly rendered in the style of Hieronymus Bosch, the central character and accompanying putto-like figures evoke memories of a time when the pianola was the price of the parlour and partying involved an old fashioned knees up sing along.</p>",
+            "constellations_primary": [],
+            "constellations_other": [],
+            "recommendations": [],
+            "title_for_label": "<p>Lovely day</p>",
+            "creator_credit_for_label": "<p>Chris Backhouse</p>",
+            "headline_credit_for_label": "<p>Australia, 1996</p>",
+            "description": "<p>Lovely Day is a masterpiece of painterly animation art. Painstakingly rendered in the style of Hieronymus Bosch, the central character and accompanying putto-like figures evoke memories of a time when the pianola was the price of the parlour and partying involved an old fashioned knees up sing along.</p>",
+            "description_for_label": [
+                "<p>Lovely Day is a masterpiece of painterly animation art. Painstakingly rendered in the style of Hieronymus Bosch, the central character and accompanying putto-like figures evoke memories of a time when the pianola was the price of the parlour and partying involved an old fashioned knees up sing along.</p>"
+            ],
+            "credit_line_for_label": "",
+            "details": [
+                {
+                    "label": "Language",
+                    "display_values": [
+                        "English"
+                    ]
+                },
+                {
+                    "label": "Audience classification",
+                    "display_values": [
+                        "Exempt"
+                    ]
+                },
+                {
+                    "label": "Subject categories",
+                    "display_values": [
+                        "Amateur & Student Films",
+                        "Amateur & Student Films&nbsp;→ Student films - Australia",
+                        "Animation"
+                    ]
+                },
+                {
+                    "label": "Sound/audio",
+                    "display_values": [
+                        "Sound"
+                    ]
+                },
+                {
+                    "label": "Colour",
+                    "display_values": [
+                        "Colour"
+                    ]
+                }
+            ],
+            "stats": {
+                "tap_count": 0
+            },
+            "links": [],
+            "creators_primary": [
+                {
+                    "id": 1133270,
+                    "name": "Chris Backhouse",
+                    "creator_id": 8369,
+                    "role": "creator",
+                    "role_id": 968,
+                    "is_primary": true
+                },
+                {
+                    "id": 1133269,
+                    "name": "Chris Backhouse",
+                    "creator_id": 8369,
+                    "role": "director",
+                    "role_id": 938,
+                    "is_primary": true
+                }
+            ],
+            "creators_other": [],
+            "video_links": [],
+            "media_note": "Sorry, we don't have images or video for this item.",
+            "images": [],
+            "videos": [],
+            "holdings": [
+                {
+                    "name": "Digital Betacam [PAL]; Master",
+                    "identifier": "",
+                    "description": ""
+                },
+                {
+                    "name": "VHS [PAL]; Reference - timecoded",
+                    "identifier": "",
+                    "description": ""
+                },
+                {
+                    "name": "Digital Betacam [PAL]; Sub-master",
+                    "identifier": "",
+                    "description": ""
+                }
+            ],
+            "part_of": null,
+            "parts": [],
+            "part_siblings": [],
+            "group": {
+                "id": 108233,
+                "acmi_id": "869",
+                "title": "AFI Collection: a selection of tertiary student films. Tape 2",
+                "title_annotation": "",
+                "slug": "afi-collection-a-selection-of-tertiary-student-films-tape-2",
+                "creator_credit": "",
+                "credit_line": "",
+                "headline_credit": "Australia",
+                "thumbnail": null,
+                "record_type": "group",
+                "type": "Film",
+                "is_on_display": false,
+                "last_on_display_place": null,
+                "last_on_display_date": null,
+                "is_context_indigenous": false,
+                "material_description": "",
+                "unpublished": false,
+                "first_production_date": null
+            },
+            "group_works": [],
+            "group_siblings": [
+                {
+                    "id": 108556,
+                    "acmi_id": "1403",
+                    "title": "Five ninths",
+                    "title_annotation": "",
+                    "slug": "five-ninths",
+                    "creator_credit": "Aaron Davies",
+                    "credit_line": "",
+                    "headline_credit": "Australia, 1995",
+                    "thumbnail": null,
+                    "record_type": "work",
+                    "type": "Film",
+                    "is_on_display": false,
+                    "last_on_display_place": null,
+                    "last_on_display_date": null,
+                    "is_context_indigenous": false,
+                    "material_description": "",
+                    "unpublished": false,
+                    "first_production_date": "1995-01-01T11:00:00+11:00"
+                },
+                {
+                    "id": 108564,
+                    "acmi_id": "1409",
+                    "title": "Heartbreak Motel",
+                    "title_annotation": "",
+                    "slug": "heartbreak-motel",
+                    "creator_credit": "Richard Chataway and Greg Holfeld",
+                    "credit_line": "",
+                    "headline_credit": "Australia, 1997",
+                    "thumbnail": null,
+                    "record_type": "work",
+                    "type": "Film",
+                    "is_on_display": false,
+                    "last_on_display_place": null,
+                    "last_on_display_date": null,
+                    "is_context_indigenous": false,
+                    "material_description": "",
+                    "unpublished": false,
+                    "first_production_date": "1997-01-01T11:00:00+11:00"
+                },
+                {
+                    "id": 108582,
+                    "acmi_id": "1428",
+                    "title": "Plastic",
+                    "title_annotation": "",
+                    "slug": "plastic",
+                    "creator_credit": "Matthew McCullough and VCA",
+                    "credit_line": "",
+                    "headline_credit": "VIC/Australia, 1998",
+                    "thumbnail": null,
+                    "record_type": "work",
+                    "type": "Film",
+                    "is_on_display": false,
+                    "last_on_display_place": null,
+                    "last_on_display_date": null,
+                    "is_context_indigenous": false,
+                    "material_description": "",
+                    "unpublished": false,
+                    "first_production_date": "1998-01-01T11:00:00+11:00"
+                },
+                {
+                    "id": 108583,
+                    "acmi_id": "1429",
+                    "title": "Pleasure domes",
+                    "title_annotation": "",
+                    "slug": "pleasure-domes",
+                    "creator_credit": "Swinburne Institute of Technology. Film and Television School and Maggie Fooke",
+                    "credit_line": "",
+                    "headline_credit": "Australia, 1987",
+                    "thumbnail": null,
+                    "record_type": "work",
+                    "type": "Film",
+                    "is_on_display": false,
+                    "last_on_display_place": null,
+                    "last_on_display_date": null,
+                    "is_context_indigenous": false,
+                    "material_description": "",
+                    "unpublished": false,
+                    "first_production_date": "1987-01-01T11:00:00+11:00"
+                },
+                {
+                    "id": 108597,
+                    "acmi_id": "1438",
+                    "title": "Serving suggestion",
+                    "title_annotation": "",
+                    "slug": "serving-suggestion",
+                    "creator_credit": "AFTRS, Kate Riedl and Tony Thorne",
+                    "credit_line": "",
+                    "headline_credit": "Australia, 1998",
+                    "thumbnail": null,
+                    "record_type": "work",
+                    "type": "Film",
+                    "is_on_display": false,
+                    "last_on_display_place": null,
+                    "last_on_display_date": null,
+                    "is_context_indigenous": false,
+                    "material_description": "",
+                    "unpublished": false,
+                    "first_production_date": "1998-01-01T11:00:00+11:00"
+                },
+                {
+                    "id": 108232,
+                    "acmi_id": "476",
+                    "title": "The Journey",
+                    "title_annotation": "",
+                    "slug": "the-journey",
+                    "creator_credit": "VCA and Robert Gudan",
+                    "credit_line": "",
+                    "headline_credit": "Australia, 1995",
+                    "thumbnail": null,
+                    "record_type": "work",
+                    "type": "Film",
+                    "is_on_display": false,
+                    "last_on_display_place": null,
+                    "last_on_display_date": null,
+                    "is_context_indigenous": false,
+                    "material_description": "",
+                    "unpublished": false,
+                    "first_production_date": "1995-01-01T11:00:00+11:00"
+                },
+                {
+                    "id": 108602,
+                    "acmi_id": "1443",
+                    "title": "Under the weather",
+                    "title_annotation": "",
+                    "slug": "under-the-weather",
+                    "creator_credit": "Lyn Ashby and VCA",
+                    "credit_line": "",
+                    "headline_credit": "VIC/Australia, 1993",
+                    "thumbnail": null,
+                    "record_type": "work",
+                    "type": "Film",
+                    "is_on_display": false,
+                    "last_on_display_place": null,
+                    "last_on_display_date": null,
+                    "is_context_indigenous": false,
+                    "material_description": "",
+                    "unpublished": false,
+                    "first_production_date": "1993-01-01T11:00:00+11:00"
+                }
+            ],
+            "source": {
+                "name": "Vernon",
+                "slug": "vernon"
+            },
+            "source_identifier": "1417",
+            "production_places": [
+                {
+                    "id": 3,
+                    "name": "Australia",
+                    "slug": "australia"
+                }
+            ],
+            "production_dates": [
+                {
+                    "date": "1996",
+                    "notes": "",
+                    "to_year": "1996"
+                }
+            ],
+            "labels": [
+                48065
+            ]
+        },
+        {
+            "id": 108564,
+            "acmi_id": "1409",
+            "title": "Heartbreak Motel",
+            "title_annotation": "",
+            "slug": "heartbreak-motel",
+            "creator_credit": "Richard Chataway and Greg Holfeld",
+            "credit_line": "",
+            "headline_credit": "Australia, 1997",
+            "thumbnail": null,
+            "record_type": "work",
+            "type": "Film",
+            "is_on_display": false,
+            "last_on_display_place": null,
+            "last_on_display_date": null,
+            "is_context_indigenous": false,
+            "material_description": "",
+            "unpublished": false,
+            "first_production_date": "1997-01-01T11:00:00+11:00",
+            "brief_description": "",
+            "constellations_primary": [],
+            "constellations_other": [],
+            "recommendations": [],
+            "title_for_label": "<p>Heartbreak Motel</p>",
+            "creator_credit_for_label": "<p>Richard Chataway and Greg Holfeld</p>",
+            "headline_credit_for_label": "<p>Australia, 1997</p>",
+            "description": "",
+            "description_for_label": [],
+            "credit_line_for_label": "",
+            "details": [
+                {
+                    "label": "Language",
+                    "display_values": [
+                        "English"
+                    ]
+                },
+                {
+                    "label": "Audience classification",
+                    "display_values": [
+                        "Exempt"
+                    ]
+                },
+                {
+                    "label": "Subject categories",
+                    "display_values": [
+                        "Amateur & Student Films",
+                        "Amateur & Student Films&nbsp;→ Student films - Australia",
+                        "Animation"
+                    ]
+                },
+                {
+                    "label": "Sound/audio",
+                    "display_values": [
+                        "Sound"
+                    ]
+                },
+                {
+                    "label": "Colour",
+                    "display_values": [
+                        "Colour"
+                    ]
+                }
+            ],
+            "stats": {
+                "tap_count": 0
+            },
+            "links": [],
+            "creators_primary": [
+                {
+                    "id": 1133268,
+                    "name": "Richard Chataway",
+                    "creator_id": 8323,
+                    "role": "producer",
+                    "role_id": 960,
+                    "is_primary": true
+                },
+                {
+                    "id": 1133267,
+                    "name": "Greg Holfeld",
+                    "creator_id": 8364,
+                    "role": "director",
+                    "role_id": 938,
+                    "is_primary": true
+                },
+                {
+                    "id": 1133266,
+                    "name": "Greg Holfeld",
+                    "creator_id": 8364,
+                    "role": "creator",
+                    "role_id": 968,
+                    "is_primary": true
+                }
+            ],
+            "creators_other": [],
+            "video_links": [],
+            "media_note": "Sorry, we don't have images or video for this item.",
+            "images": [],
+            "videos": [],
+            "holdings": [
+                {
+                    "name": "Digital Betacam [PAL]; Master",
+                    "identifier": "",
+                    "description": ""
+                },
+                {
+                    "name": "VHS [PAL]; Reference - timecoded",
+                    "identifier": "",
+                    "description": ""
+                },
+                {
+                    "name": "Digital Betacam [PAL]; Sub-master",
+                    "identifier": "",
+                    "description": ""
+                }
+            ],
+            "part_of": null,
+            "parts": [],
+            "part_siblings": [],
+            "group": {
+                "id": 108233,
+                "acmi_id": "869",
+                "title": "AFI Collection: a selection of tertiary student films. Tape 2",
+                "title_annotation": "",
+                "slug": "afi-collection-a-selection-of-tertiary-student-films-tape-2",
+                "creator_credit": "",
+                "credit_line": "",
+                "headline_credit": "Australia",
+                "thumbnail": null,
+                "record_type": "group",
+                "type": "Film",
+                "is_on_display": false,
+                "last_on_display_place": null,
+                "last_on_display_date": null,
+                "is_context_indigenous": false,
+                "material_description": "",
+                "unpublished": false,
+                "first_production_date": null
+            },
+            "group_works": [],
+            "group_siblings": [
+                {
+                    "id": 108556,
+                    "acmi_id": "1403",
+                    "title": "Five ninths",
+                    "title_annotation": "",
+                    "slug": "five-ninths",
+                    "creator_credit": "Aaron Davies",
+                    "credit_line": "",
+                    "headline_credit": "Australia, 1995",
+                    "thumbnail": null,
+                    "record_type": "work",
+                    "type": "Film",
+                    "is_on_display": false,
+                    "last_on_display_place": null,
+                    "last_on_display_date": null,
+                    "is_context_indigenous": false,
+                    "material_description": "",
+                    "unpublished": false,
+                    "first_production_date": "1995-01-01T11:00:00+11:00"
+                },
+                {
+                    "id": 108572,
+                    "acmi_id": "1417",
+                    "title": "Lovely day",
+                    "title_annotation": "",
+                    "slug": "lovely-day",
+                    "creator_credit": "Chris Backhouse",
+                    "credit_line": "",
+                    "headline_credit": "Australia, 1996",
+                    "thumbnail": null,
+                    "record_type": "work",
+                    "type": "Film",
+                    "is_on_display": false,
+                    "last_on_display_place": null,
+                    "last_on_display_date": null,
+                    "is_context_indigenous": false,
+                    "material_description": "",
+                    "unpublished": false,
+                    "first_production_date": "1996-01-01T11:00:00+11:00"
+                },
+                {
+                    "id": 108582,
+                    "acmi_id": "1428",
+                    "title": "Plastic",
+                    "title_annotation": "",
+                    "slug": "plastic",
+                    "creator_credit": "Matthew McCullough and VCA",
+                    "credit_line": "",
+                    "headline_credit": "VIC/Australia, 1998",
+                    "thumbnail": null,
+                    "record_type": "work",
+                    "type": "Film",
+                    "is_on_display": false,
+                    "last_on_display_place": null,
+                    "last_on_display_date": null,
+                    "is_context_indigenous": false,
+                    "material_description": "",
+                    "unpublished": false,
+                    "first_production_date": "1998-01-01T11:00:00+11:00"
+                },
+                {
+                    "id": 108583,
+                    "acmi_id": "1429",
+                    "title": "Pleasure domes",
+                    "title_annotation": "",
+                    "slug": "pleasure-domes",
+                    "creator_credit": "Swinburne Institute of Technology. Film and Television School and Maggie Fooke",
+                    "credit_line": "",
+                    "headline_credit": "Australia, 1987",
+                    "thumbnail": null,
+                    "record_type": "work",
+                    "type": "Film",
+                    "is_on_display": false,
+                    "last_on_display_place": null,
+                    "last_on_display_date": null,
+                    "is_context_indigenous": false,
+                    "material_description": "",
+                    "unpublished": false,
+                    "first_production_date": "1987-01-01T11:00:00+11:00"
+                },
+                {
+                    "id": 108597,
+                    "acmi_id": "1438",
+                    "title": "Serving suggestion",
+                    "title_annotation": "",
+                    "slug": "serving-suggestion",
+                    "creator_credit": "AFTRS, Kate Riedl and Tony Thorne",
+                    "credit_line": "",
+                    "headline_credit": "Australia, 1998",
+                    "thumbnail": null,
+                    "record_type": "work",
+                    "type": "Film",
+                    "is_on_display": false,
+                    "last_on_display_place": null,
+                    "last_on_display_date": null,
+                    "is_context_indigenous": false,
+                    "material_description": "",
+                    "unpublished": false,
+                    "first_production_date": "1998-01-01T11:00:00+11:00"
+                },
+                {
+                    "id": 108232,
+                    "acmi_id": "476",
+                    "title": "The Journey",
+                    "title_annotation": "",
+                    "slug": "the-journey",
+                    "creator_credit": "VCA and Robert Gudan",
+                    "credit_line": "",
+                    "headline_credit": "Australia, 1995",
+                    "thumbnail": null,
+                    "record_type": "work",
+                    "type": "Film",
+                    "is_on_display": false,
+                    "last_on_display_place": null,
+                    "last_on_display_date": null,
+                    "is_context_indigenous": false,
+                    "material_description": "",
+                    "unpublished": false,
+                    "first_production_date": "1995-01-01T11:00:00+11:00"
+                },
+                {
+                    "id": 108602,
+                    "acmi_id": "1443",
+                    "title": "Under the weather",
+                    "title_annotation": "",
+                    "slug": "under-the-weather",
+                    "creator_credit": "Lyn Ashby and VCA",
+                    "credit_line": "",
+                    "headline_credit": "VIC/Australia, 1993",
+                    "thumbnail": null,
+                    "record_type": "work",
+                    "type": "Film",
+                    "is_on_display": false,
+                    "last_on_display_place": null,
+                    "last_on_display_date": null,
+                    "is_context_indigenous": false,
+                    "material_description": "",
+                    "unpublished": false,
+                    "first_production_date": "1993-01-01T11:00:00+11:00"
+                }
+            ],
+            "source": {
+                "name": "Vernon",
+                "slug": "vernon"
+            },
+            "source_identifier": "1409",
+            "production_places": [
+                {
+                    "id": 3,
+                    "name": "Australia",
+                    "slug": "australia"
+                }
+            ],
+            "production_dates": [
+                {
+                    "date": "1997",
+                    "notes": "",
+                    "to_year": "1997"
+                }
+            ],
+            "labels": [
+                48057
+            ]
+        },
+        {
+            "id": 108556,
+            "acmi_id": "1403",
+            "title": "Five ninths",
+            "title_annotation": "",
+            "slug": "five-ninths",
+            "creator_credit": "Aaron Davies",
+            "credit_line": "",
+            "headline_credit": "Australia, 1995",
+            "thumbnail": null,
+            "record_type": "work",
+            "type": "Film",
+            "is_on_display": false,
+            "last_on_display_place": null,
+            "last_on_display_date": null,
+            "is_context_indigenous": false,
+            "material_description": "",
+            "unpublished": false,
+            "first_production_date": "1995-01-01T11:00:00+11:00",
+            "brief_description": "",
+            "constellations_primary": [],
+            "constellations_other": [],
+            "recommendations": [],
+            "title_for_label": "<p>Five ninths</p>",
+            "creator_credit_for_label": "<p>Aaron Davies</p>",
+            "headline_credit_for_label": "<p>Australia, 1995</p>",
+            "description": "",
+            "description_for_label": [],
+            "credit_line_for_label": "",
+            "details": [
+                {
+                    "label": "Language",
+                    "display_values": [
+                        "English"
+                    ]
+                },
+                {
+                    "label": "Audience classification",
+                    "display_values": [
+                        "Exempt"
+                    ]
+                },
+                {
+                    "label": "Subject categories",
+                    "display_values": [
+                        "Amateur & Student Films",
+                        "Amateur & Student Films&nbsp;→ Student films - Australia",
+                        "Animation"
+                    ]
+                },
+                {
+                    "label": "Sound/audio",
+                    "display_values": [
+                        "Sound"
+                    ]
+                },
+                {
+                    "label": "Colour",
+                    "display_values": [
+                        "Colour"
+                    ]
+                }
+            ],
+            "stats": {
+                "tap_count": 0
+            },
+            "links": [],
+            "creators_primary": [
+                {
+                    "id": 1133265,
+                    "name": "Aaron Davies",
+                    "creator_id": 8358,
+                    "role": "producer",
+                    "role_id": 960,
+                    "is_primary": true
+                },
+                {
+                    "id": 1133264,
+                    "name": "Aaron Davies",
+                    "creator_id": 8358,
+                    "role": "creator",
+                    "role_id": 968,
+                    "is_primary": true
+                },
+                {
+                    "id": 1133263,
+                    "name": "Aaron Davies",
+                    "creator_id": 8358,
+                    "role": "director",
+                    "role_id": 938,
+                    "is_primary": true
+                }
+            ],
+            "creators_other": [],
+            "video_links": [],
+            "media_note": "Sorry, we don't have images or video for this item.",
+            "images": [],
+            "videos": [],
+            "holdings": [
+                {
+                    "name": "Digital Betacam [PAL]; Master",
+                    "identifier": "",
+                    "description": ""
+                },
+                {
+                    "name": "VHS [PAL]; Reference - timecoded",
+                    "identifier": "",
+                    "description": ""
+                },
+                {
+                    "name": "Digital Betacam [PAL]; Sub-master",
+                    "identifier": "",
+                    "description": ""
+                }
+            ],
+            "part_of": null,
+            "parts": [],
+            "part_siblings": [],
+            "group": {
+                "id": 108233,
+                "acmi_id": "869",
+                "title": "AFI Collection: a selection of tertiary student films. Tape 2",
+                "title_annotation": "",
+                "slug": "afi-collection-a-selection-of-tertiary-student-films-tape-2",
+                "creator_credit": "",
+                "credit_line": "",
+                "headline_credit": "Australia",
+                "thumbnail": null,
+                "record_type": "group",
+                "type": "Film",
+                "is_on_display": false,
+                "last_on_display_place": null,
+                "last_on_display_date": null,
+                "is_context_indigenous": false,
+                "material_description": "",
+                "unpublished": false,
+                "first_production_date": null
+            },
+            "group_works": [],
+            "group_siblings": [
+                {
+                    "id": 108564,
+                    "acmi_id": "1409",
+                    "title": "Heartbreak Motel",
+                    "title_annotation": "",
+                    "slug": "heartbreak-motel",
+                    "creator_credit": "Richard Chataway and Greg Holfeld",
+                    "credit_line": "",
+                    "headline_credit": "Australia, 1997",
+                    "thumbnail": null,
+                    "record_type": "work",
+                    "type": "Film",
+                    "is_on_display": false,
+                    "last_on_display_place": null,
+                    "last_on_display_date": null,
+                    "is_context_indigenous": false,
+                    "material_description": "",
+                    "unpublished": false,
+                    "first_production_date": "1997-01-01T11:00:00+11:00"
+                },
+                {
+                    "id": 108572,
+                    "acmi_id": "1417",
+                    "title": "Lovely day",
+                    "title_annotation": "",
+                    "slug": "lovely-day",
+                    "creator_credit": "Chris Backhouse",
+                    "credit_line": "",
+                    "headline_credit": "Australia, 1996",
+                    "thumbnail": null,
+                    "record_type": "work",
+                    "type": "Film",
+                    "is_on_display": false,
+                    "last_on_display_place": null,
+                    "last_on_display_date": null,
+                    "is_context_indigenous": false,
+                    "material_description": "",
+                    "unpublished": false,
+                    "first_production_date": "1996-01-01T11:00:00+11:00"
+                },
+                {
+                    "id": 108582,
+                    "acmi_id": "1428",
+                    "title": "Plastic",
+                    "title_annotation": "",
+                    "slug": "plastic",
+                    "creator_credit": "Matthew McCullough and VCA",
+                    "credit_line": "",
+                    "headline_credit": "VIC/Australia, 1998",
+                    "thumbnail": null,
+                    "record_type": "work",
+                    "type": "Film",
+                    "is_on_display": false,
+                    "last_on_display_place": null,
+                    "last_on_display_date": null,
+                    "is_context_indigenous": false,
+                    "material_description": "",
+                    "unpublished": false,
+                    "first_production_date": "1998-01-01T11:00:00+11:00"
+                },
+                {
+                    "id": 108583,
+                    "acmi_id": "1429",
+                    "title": "Pleasure domes",
+                    "title_annotation": "",
+                    "slug": "pleasure-domes",
+                    "creator_credit": "Swinburne Institute of Technology. Film and Television School and Maggie Fooke",
+                    "credit_line": "",
+                    "headline_credit": "Australia, 1987",
+                    "thumbnail": null,
+                    "record_type": "work",
+                    "type": "Film",
+                    "is_on_display": false,
+                    "last_on_display_place": null,
+                    "last_on_display_date": null,
+                    "is_context_indigenous": false,
+                    "material_description": "",
+                    "unpublished": false,
+                    "first_production_date": "1987-01-01T11:00:00+11:00"
+                },
+                {
+                    "id": 108597,
+                    "acmi_id": "1438",
+                    "title": "Serving suggestion",
+                    "title_annotation": "",
+                    "slug": "serving-suggestion",
+                    "creator_credit": "AFTRS, Kate Riedl and Tony Thorne",
+                    "credit_line": "",
+                    "headline_credit": "Australia, 1998",
+                    "thumbnail": null,
+                    "record_type": "work",
+                    "type": "Film",
+                    "is_on_display": false,
+                    "last_on_display_place": null,
+                    "last_on_display_date": null,
+                    "is_context_indigenous": false,
+                    "material_description": "",
+                    "unpublished": false,
+                    "first_production_date": "1998-01-01T11:00:00+11:00"
+                },
+                {
+                    "id": 108232,
+                    "acmi_id": "476",
+                    "title": "The Journey",
+                    "title_annotation": "",
+                    "slug": "the-journey",
+                    "creator_credit": "VCA and Robert Gudan",
+                    "credit_line": "",
+                    "headline_credit": "Australia, 1995",
+                    "thumbnail": null,
+                    "record_type": "work",
+                    "type": "Film",
+                    "is_on_display": false,
+                    "last_on_display_place": null,
+                    "last_on_display_date": null,
+                    "is_context_indigenous": false,
+                    "material_description": "",
+                    "unpublished": false,
+                    "first_production_date": "1995-01-01T11:00:00+11:00"
+                },
+                {
+                    "id": 108602,
+                    "acmi_id": "1443",
+                    "title": "Under the weather",
+                    "title_annotation": "",
+                    "slug": "under-the-weather",
+                    "creator_credit": "Lyn Ashby and VCA",
+                    "credit_line": "",
+                    "headline_credit": "VIC/Australia, 1993",
+                    "thumbnail": null,
+                    "record_type": "work",
+                    "type": "Film",
+                    "is_on_display": false,
+                    "last_on_display_place": null,
+                    "last_on_display_date": null,
+                    "is_context_indigenous": false,
+                    "material_description": "",
+                    "unpublished": false,
+                    "first_production_date": "1993-01-01T11:00:00+11:00"
+                }
+            ],
+            "source": {
+                "name": "Vernon",
+                "slug": "vernon"
+            },
+            "source_identifier": "1403",
+            "production_places": [
+                {
+                    "id": 3,
+                    "name": "Australia",
+                    "slug": "australia"
+                }
+            ],
+            "production_dates": [
+                {
+                    "date": "1995",
+                    "notes": "",
+                    "to_year": "1995"
+                }
+            ],
+            "labels": [
+                48049
+            ]
+        },
+        {
+            "id": 108267,
+            "acmi_id": "530",
+            "title": "Versifier",
+            "title_annotation": "",
+            "slug": "versifier",
+            "creator_credit": "Gina Czarnecki",
+            "credit_line": "",
+            "headline_credit": "United Kingdom, 1998",
+            "thumbnail": null,
+            "record_type": "work",
+            "type": "Digital art",
+            "is_on_display": false,
+            "last_on_display_place": null,
+            "last_on_display_date": null,
+            "is_context_indigenous": false,
+            "material_description": "Multi channel moving image installation",
+            "unpublished": false,
+            "first_production_date": "1998-01-01T11:00:00+11:00",
+            "brief_description": "<p>Gina Czarnecki&#8217;s &#8216;Versifier&#8217; places the viewer alone in a room with nine naked figures.<br />\nVarying in age, race and gender, &#8216;Versifier&#8217;s&#8216; pale figures are without identity or voice, like spectres of people with a hidden past that has occurred long before our arrival. Rearprojected onto a vast screen stretched like skin across the space, these human forms suggest early nineteenth-century museum exhibits: human specimens stripped of protective layers and preserved eternally in a captive vessel.</p>\n<p>Currently heading the Electronic Imaging Department at the University of Dundee, Gina Czarnecki works at the intersection of film, video and computer-generated imagery. In describing &#8216;Versifier&#8217; she explains, &#8216;I have always loved the cinematic experience and came to realise that I wanted this in an installation environment. There is something about being in the dark in a public space that focuses your eyes and attention onto small details, sounds, people in the space with you or your inner thoughts and solitude.&#8217;</p>\n<p>Once enclosed within Czarnecki&#8217;s installation, the viewer focuses on the exposed<br />\ninhabitants. With its confronting interface, Versifier challenges notions of modesty,<br />\ncandour, embarrassment, fascination. Experiences that we tend to take for granted are offered up for creepily clinical re-examination. Czarnecki has used digital technology to manipulate the figures into disquieting hybrid forms: skin tones are unusually monochromatic, limbs appear disproportionate and distended. The body itself - the medium through which we all experience the world - takes on disturbing new definitions inside the specimen room that is Versifier.</p>\n<p>Czarnecki&#8217;s mutant characters gesture forward to contemporary anxieties about the looming new frontier of genetic modification, manipulation and experimentation. But they also point backward to personal memories of vulnerability or exposure, and to communal memories of the Holocaust and genocide in which bodies were lined up and exposed in ways that were an affront to all accepted definitions of humanity. In fact, Czarnecki&#8217;s disturbing yet beautiful parade calls into question everything - past, present and future - that makes us human in the most basic, naked way.</p>",
+            "constellations_primary": [],
+            "constellations_other": [],
+            "recommendations": [],
+            "title_for_label": "<p>Versifier</p>",
+            "creator_credit_for_label": "<p>Gina Czarnecki</p>",
+            "headline_credit_for_label": "<p>United Kingdom, 1998</p>",
+            "description": "<p>Gina Czarnecki&#8217;s &#8216;Versifier&#8217; places the viewer alone in a room with nine naked figures.<br />\nVarying in age, race and gender, &#8216;Versifier&#8217;s&#8216; pale figures are without identity or voice, like spectres of people with a hidden past that has occurred long before our arrival. Rearprojected onto a vast screen stretched like skin across the space, these human forms suggest early nineteenth-century museum exhibits: human specimens stripped of protective layers and preserved eternally in a captive vessel.</p>\n<p>Currently heading the Electronic Imaging Department at the University of Dundee, Gina Czarnecki works at the intersection of film, video and computer-generated imagery. In describing &#8216;Versifier&#8217; she explains, &#8216;I have always loved the cinematic experience and came to realise that I wanted this in an installation environment. There is something about being in the dark in a public space that focuses your eyes and attention onto small details, sounds, people in the space with you or your inner thoughts and solitude.&#8217;</p>\n<p>Once enclosed within Czarnecki&#8217;s installation, the viewer focuses on the exposed<br />\ninhabitants. With its confronting interface, Versifier challenges notions of modesty,<br />\ncandour, embarrassment, fascination. Experiences that we tend to take for granted are offered up for creepily clinical re-examination. Czarnecki has used digital technology to manipulate the figures into disquieting hybrid forms: skin tones are unusually monochromatic, limbs appear disproportionate and distended. The body itself - the medium through which we all experience the world - takes on disturbing new definitions inside the specimen room that is Versifier.</p>\n<p>Czarnecki&#8217;s mutant characters gesture forward to contemporary anxieties about the looming new frontier of genetic modification, manipulation and experimentation. But they also point backward to personal memories of vulnerability or exposure, and to communal memories of the Holocaust and genocide in which bodies were lined up and exposed in ways that were an affront to all accepted definitions of humanity. In fact, Czarnecki&#8217;s disturbing yet beautiful parade calls into question everything - past, present and future - that makes us human in the most basic, naked way.</p>",
+            "description_for_label": [
+                "<p>Gina Czarnecki&#8217;s &#8216;Versifier&#8217; places the viewer alone in a room with nine naked figures.<br />\nVarying in age, race and gender, &#8216;Versifier&#8217;s&#8216; pale figures are without identity or voice, like spectres of people with a hidden past that has occurred long before our arrival. Rearprojected onto a vast screen stretched like skin across the space, these human forms suggest early nineteenth-century museum exhibits: human specimens stripped of protective layers and preserved eternally in a captive vessel.</p>\n<p>Currently heading the Electronic Imaging Department at the University of Dundee, Gina Czarnecki works at the intersection of film, video and computer-generated imagery. In describing &#8216;Versifier&#8217; she explains, &#8216;I have always loved the cinematic experience and came to realise that I wanted this in an installation environment. There is something about being in the dark in a public space that focuses your eyes and attention onto small details, sounds, people in the space with you or your inner thoughts and solitude.&#8217;</p>\n<p>Once enclosed within Czarnecki&#8217;s installation, the viewer focuses on the exposed<br />\ninhabitants. With its confronting interface, Versifier challenges notions of modesty,<br />\ncandour, embarrassment, fascination. Experiences that we tend to take for granted are offered up for creepily clinical re-examination. Czarnecki has used digital technology to manipulate the figures into disquieting hybrid forms: skin tones are unusually monochromatic, limbs appear disproportionate and distended. The body itself - the medium through which we all experience the world - takes on disturbing new definitions inside the specimen room that is Versifier.</p>\n<p>Czarnecki&#8217;s mutant characters gesture forward to contemporary anxieties about the looming new frontier of genetic modification, manipulation and experimentation. But they also point backward to personal memories of vulnerability or exposure, and to communal memories of the Holocaust and genocide in which bodies were lined up and exposed in ways that were an affront to all accepted definitions of humanity. In fact, Czarnecki&#8217;s disturbing yet beautiful parade calls into question everything - past, present and future - that makes us human in the most basic, naked way.</p>"
+            ],
+            "credit_line_for_label": "",
+            "details": [
+                {
+                    "label": "Language",
+                    "display_values": [
+                        "English"
+                    ]
+                },
+                {
+                    "label": "Audience classifications",
+                    "display_values": [
+                        "G",
+                        "M (15+)",
+                        "unclassified"
+                    ]
+                },
+                {
+                    "label": "Subject category",
+                    "display_values": [
+                        "Digital Art"
+                    ]
+                },
+                {
+                    "label": "Materials",
+                    "display_values": [
+                        "Multi channel moving image installation"
+                    ]
+                }
+            ],
+            "stats": {
+                "tap_count": 0
+            },
+            "links": [],
+            "creators_primary": [
+                {
+                    "id": 1133260,
+                    "name": "Gina Czarnecki",
+                    "creator_id": 7145,
+                    "role": "creator",
+                    "role_id": 968,
+                    "is_primary": true
+                }
+            ],
+            "creators_other": [
+                {
+                    "id": 1133261,
+                    "name": "Emma Crimmings",
+                    "creator_id": 6328,
+                    "role": "research manager",
+                    "role_id": 456,
+                    "is_primary": false
+                }
+            ],
+            "video_links": [],
+            "media_note": "Sorry, we aren't able to make images or video for this item available to the public online.",
+            "images": [],
+            "videos": [],
+            "holdings": [
+                {
+                    "name": "DVD [PAL]; Exhibition Copy",
+                    "identifier": "",
+                    "description": ""
+                },
+                {
+                    "name": "Digital Betacam [PAL]; Master",
+                    "identifier": "",
+                    "description": ""
+                },
+                {
+                    "name": "Digital Betacam [PAL]; Sub-master",
+                    "identifier": "",
+                    "description": ""
+                },
+                {
+                    "name": "VHS [PAL]; Reference - timecoded",
+                    "identifier": "",
+                    "description": ""
+                },
+                {
+                    "name": "DVD [PAL]; Copy",
+                    "identifier": "",
+                    "description": ""
+                }
+            ],
+            "part_of": null,
+            "parts": [],
+            "part_siblings": [],
+            "group": null,
+            "group_works": [],
+            "group_siblings": [],
+            "source": {
+                "name": "Vernon",
+                "slug": "vernon"
+            },
+            "source_identifier": "530",
+            "production_places": [
+                {
+                    "id": 10,
+                    "name": "United Kingdom",
+                    "slug": "united-kingdom"
+                }
+            ],
+            "production_dates": [
+                {
+                    "date": "1998",
+                    "notes": "",
+                    "to_year": "1998"
+                }
+            ],
+            "labels": [
+                47760
+            ]
+        },
+        {
+            "id": 108254,
+            "acmi_id": "512",
+            "title": "The Blinds and the Shutters",
+            "title_annotation": "",
+            "slug": "the-blinds-and-the-shutters",
+            "creator_credit": "Joyce Hinterding and David Haines",
+            "credit_line": "",
+            "headline_credit": "Australia, 2001",
+            "thumbnail": null,
+            "record_type": "work",
+            "type": "Digital art",
+            "is_on_display": false,
+            "last_on_display_place": "ACMI Screen Gallery",
+            "last_on_display_date": "2003-01-27",
+            "is_context_indigenous": false,
+            "material_description": "Multi channel moving image installation",
+            "unpublished": false,
+            "first_production_date": "2001-01-01T11:00:00+11:00",
+            "brief_description": "<p>This works presents a virtual world comprised of a modernist fictional house in a remote forest setting, whose contents gradually spill and float out of every aperture.  Shoes and dresses, pots and pans, cutlery, pillows, blankets and plates journey in two directions simultaneously, some disappearing into the distance never to return, others appearing across all four screens in the installation. The larger objects fade up like apparitions, disappear and then reappear in strange locations, breaking all logic that is guiding this imaginary world. The slow drift of these household objects around the four screens is uncanny. While their journey suggests that the natural phenomenon of air is present, there is also a sense of airlessness; a claustrophobic, almost heavily scented environment. Despite sharing an energy force within the virtual environment, these objects are estranged – for they have lost their domestic relationship with one another. The sounds of bumps, collisions and muffled shuffles emerging from the interior of the house underscores the mystery of this scene. The disturbing atmosphere is most bizarre when the household goods are propelled into outer space, taking on the form of miniature satellites presumably tracking our behaviour from afar.</p>",
+            "constellations_primary": [],
+            "constellations_other": [],
+            "recommendations": [],
+            "title_for_label": "<p>The Blinds and the Shutters</p>",
+            "creator_credit_for_label": "<p>Joyce Hinterding and David Haines</p>",
+            "headline_credit_for_label": "<p>Australia, 2001</p>",
+            "description": "<p>This works presents a virtual world comprised of a modernist fictional house in a remote forest setting, whose contents gradually spill and float out of every aperture.  Shoes and dresses, pots and pans, cutlery, pillows, blankets and plates journey in two directions simultaneously, some disappearing into the distance never to return, others appearing across all four screens in the installation. The larger objects fade up like apparitions, disappear and then reappear in strange locations, breaking all logic that is guiding this imaginary world. The slow drift of these household objects around the four screens is uncanny. While their journey suggests that the natural phenomenon of air is present, there is also a sense of airlessness; a claustrophobic, almost heavily scented environment. Despite sharing an energy force within the virtual environment, these objects are estranged – for they have lost their domestic relationship with one another. The sounds of bumps, collisions and muffled shuffles emerging from the interior of the house underscores the mystery of this scene. The disturbing atmosphere is most bizarre when the household goods are propelled into outer space, taking on the form of miniature satellites presumably tracking our behaviour from afar.</p>",
+            "description_for_label": [
+                "<p>This works presents a virtual world comprised of a modernist fictional house in a remote forest setting, whose contents gradually spill and float out of every aperture.  Shoes and dresses, pots and pans, cutlery, pillows, blankets and plates journey in two directions simultaneously, some disappearing into the distance never to return, others appearing across all four screens in the installation. The larger objects fade up like apparitions, disappear and then reappear in strange locations, breaking all logic that is guiding this imaginary world. The slow drift of these household objects around the four screens is uncanny. While their journey suggests that the natural phenomenon of air is present, there is also a sense of airlessness; a claustrophobic, almost heavily scented environment. Despite sharing an energy force within the virtual environment, these objects are estranged – for they have lost their domestic relationship with one another. The sounds of bumps, collisions and muffled shuffles emerging from the interior of the house underscores the mystery of this scene. The disturbing atmosphere is most bizarre when the household goods are propelled into outer space, taking on the form of miniature satellites presumably tracking our behaviour from afar.</p>"
+            ],
+            "credit_line_for_label": "",
+            "details": [
+                {
+                    "label": "Audience classification",
+                    "display_values": [
+                        "G"
+                    ]
+                },
+                {
+                    "label": "Subject category",
+                    "display_values": [
+                        "Digital Art"
+                    ]
+                },
+                {
+                    "label": "Materials",
+                    "display_values": [
+                        "Multi channel moving image installation"
+                    ]
+                }
+            ],
+            "stats": {
+                "tap_count": 0
+            },
+            "links": [],
+            "creators_primary": [
+                {
+                    "id": 1133259,
+                    "name": "Joyce Hinterding",
+                    "creator_id": 6507,
+                    "role": "creator",
+                    "role_id": 968,
+                    "is_primary": true
+                },
+                {
+                    "id": 1133258,
+                    "name": "David Haines",
+                    "creator_id": 6506,
+                    "role": "creator",
+                    "role_id": 968,
+                    "is_primary": true
+                }
+            ],
+            "creators_other": [
+                {
+                    "id": 1133257,
+                    "name": "Rhys Graham",
+                    "creator_id": 6398,
+                    "role": "research manager",
+                    "role_id": 456,
+                    "is_primary": false
+                }
+            ],
+            "video_links": [],
+            "media_note": "Sorry, we don't have images or video for this item.",
+            "images": [],
+            "videos": [],
+            "holdings": [
+                {
+                    "name": "DVD ROM; Master",
+                    "identifier": "",
+                    "description": ""
+                },
+                {
+                    "name": "DVD ROM; Copy",
+                    "identifier": "",
+                    "description": ""
+                },
+                {
+                    "name": "35mm slide; Documentation",
+                    "identifier": "",
+                    "description": ""
+                }
+            ],
+            "part_of": null,
+            "parts": [],
+            "part_siblings": [],
+            "group": null,
+            "group_works": [],
+            "group_siblings": [],
+            "source": {
+                "name": "Vernon",
+                "slug": "vernon"
+            },
+            "source_identifier": "512",
+            "production_places": [
+                {
+                    "id": 3,
+                    "name": "Australia",
+                    "slug": "australia"
+                }
+            ],
+            "production_dates": [
+                {
+                    "date": "2001",
+                    "notes": "",
+                    "to_year": "2001"
+                }
+            ],
+            "labels": [
+                47747
+            ]
+        },
+        {
+            "id": 108227,
+            "acmi_id": "458",
+            "title": "Audio visual environment suite",
+            "title_annotation": "",
+            "slug": "audio-visual-environment-suite",
+            "creator_credit": "Golan Levin",
+            "credit_line": "",
+            "headline_credit": "",
+            "thumbnail": null,
+            "record_type": "work",
+            "type": "Digital art",
+            "is_on_display": false,
+            "last_on_display_place": null,
+            "last_on_display_date": null,
+            "is_context_indigenous": false,
+            "material_description": "",
+            "unpublished": true,
+            "first_production_date": null,
+            "brief_description": "<p>As the player&#8217;s gestures mark the screen, they also mark time. Animated by the player&#8217;s interventions, the Audio Visual Environment spawns a teeming mix of music and graphic motion. The environment grows, broils and chimes - a slightly nervous system, a beautiful orchestra of eddying energy.</p>",
+            "constellations_primary": [],
+            "constellations_other": [],
+            "recommendations": [],
+            "title_for_label": "<p>Audio visual environment suite</p>",
+            "creator_credit_for_label": "<p>Golan Levin</p>",
+            "headline_credit_for_label": "",
+            "description": "<p>As the player&#8217;s gestures mark the screen, they also mark time. Animated by the player&#8217;s interventions, the Audio Visual Environment spawns a teeming mix of music and graphic motion. The environment grows, broils and chimes - a slightly nervous system, a beautiful orchestra of eddying energy.</p>",
+            "description_for_label": [
+                "<p>As the player&#8217;s gestures mark the screen, they also mark time. Animated by the player&#8217;s interventions, the Audio Visual Environment spawns a teeming mix of music and graphic motion. The environment grows, broils and chimes - a slightly nervous system, a beautiful orchestra of eddying energy.</p>"
+            ],
+            "credit_line_for_label": "",
+            "details": [
+                {
+                    "label": "Subject category",
+                    "display_values": [
+                        "Digital Art"
+                    ]
+                }
+            ],
+            "stats": {
+                "tap_count": 0
+            },
+            "links": [],
+            "creators_primary": [
+                {
+                    "id": 1133256,
+                    "name": "Golan Levin",
+                    "creator_id": 7086,
+                    "role": "creator",
+                    "role_id": 968,
+                    "is_primary": true
+                },
+                {
+                    "id": 1133253,
+                    "name": "Golan Levin",
+                    "creator_id": 7086,
+                    "role": "director",
+                    "role_id": 938,
+                    "is_primary": true
+                }
+            ],
+            "creators_other": [
+                {
+                    "id": 1133255,
+                    "name": "Golan Levin",
+                    "creator_id": 7086,
+                    "role": "composer",
+                    "role_id": 538,
+                    "is_primary": false
+                },
+                {
+                    "id": 1133254,
+                    "name": "Golan Levin",
+                    "creator_id": 7086,
+                    "role": "programmer",
+                    "role_id": 483,
+                    "is_primary": false
+                }
+            ],
+            "video_links": [],
+            "media_note": "Sorry, we don't have images or video for this item.",
+            "images": [],
+            "videos": [],
+            "holdings": [],
+            "part_of": null,
+            "parts": [],
+            "part_siblings": [],
+            "group": null,
+            "group_works": [],
+            "group_siblings": [],
+            "source": {
+                "name": "Vernon",
+                "slug": "vernon"
+            },
+            "source_identifier": "458",
+            "production_places": [],
+            "production_dates": [],
+            "labels": [
+                47720
+            ]
+        },
+        {
+            "id": 108196,
+            "acmi_id": "401",
+            "title": "Suspension",
+            "title_annotation": "",
+            "slug": "suspension",
+            "creator_credit": "Anthony Discenza",
+            "credit_line": "",
+            "headline_credit": "United States, 1997",
+            "thumbnail": {
+                "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/B1001833_Suspension.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=UucrYkLBuKyESFta5HjPf0w5iog%3D&Expires=1627009518",
+                "has_video": false
+            },
+            "record_type": "work",
+            "type": "Digital art",
+            "is_on_display": false,
+            "last_on_display_place": "ACMI Viewing Booths",
+            "last_on_display_date": "2019-04-22",
+            "is_context_indigenous": false,
+            "material_description": "Single channel moving image",
+            "unpublished": false,
+            "first_production_date": "1997-01-01T11:00:00+11:00",
+            "brief_description": "<p>A meditation on the narcissistic nature of the consumption of advertising images, &#8216;Suspension&#8217; consists of footage of hundreds of models&#8217; head shots taken from magazines that Discenza has repeatedly re-taped and re-scanned into an endlessly mutating image of cut-and-paste beauty. This hypnotic video artwork literally suspends the viewer in a cycle of visual engagement, an energetic interchange from eye to eye, viewer to model, consumer to consumed.</p>",
+            "constellations_primary": [],
+            "constellations_other": [],
+            "recommendations": [],
+            "title_for_label": "<p>Suspension</p>",
+            "creator_credit_for_label": "<p>Anthony Discenza</p>",
+            "headline_credit_for_label": "<p>United States, 1997</p>",
+            "description": "<p>A meditation on the narcissistic nature of the consumption of advertising images, &#8216;Suspension&#8217; consists of footage of hundreds of models&#8217; head shots taken from magazines that Discenza has repeatedly re-taped and re-scanned into an endlessly mutating image of cut-and-paste beauty. This hypnotic video artwork literally suspends the viewer in a cycle of visual engagement, an energetic interchange from eye to eye, viewer to model, consumer to consumed.</p>",
+            "description_for_label": [
+                "<p>A meditation on the narcissistic nature of the consumption of advertising images, &#8216;Suspension&#8217; consists of footage of hundreds of models&#8217; head shots taken from magazines that Discenza has repeatedly re-taped and re-scanned into an endlessly mutating image of cut-and-paste beauty. This hypnotic video artwork literally suspends the viewer in a cycle of visual engagement, an energetic interchange from eye to eye, viewer to model, consumer to consumed.</p>"
+            ],
+            "credit_line_for_label": "",
+            "details": [
+                {
+                    "label": "Duration",
+                    "display_values": [
+                        "00:08:33:00"
+                    ]
+                },
+                {
+                    "label": "Language",
+                    "display_values": [
+                        "English"
+                    ]
+                },
+                {
+                    "label": "Audience classifications",
+                    "display_values": [
+                        "G",
+                        "Mediatheque - all ages (ACMI classified)"
+                    ]
+                },
+                {
+                    "label": "Subject categories",
+                    "display_values": [
+                        "Crafts & Visual Arts&nbsp;→ Art",
+                        "Crafts & Visual Arts&nbsp;→ Performance art",
+                        "Digital Art"
+                    ]
+                },
+                {
+                    "label": "Sound/audio",
+                    "display_values": [
+                        "Sound"
+                    ]
+                },
+                {
+                    "label": "Colour",
+                    "display_values": [
+                        "Colour"
+                    ]
+                },
+                {
+                    "label": "Materials",
+                    "display_values": [
+                        "Single channel moving image"
+                    ]
+                }
+            ],
+            "stats": {
+                "tap_count": 0
+            },
+            "links": [],
+            "creators_primary": [
+                {
+                    "id": 1133251,
+                    "name": "Anthony Discenza",
+                    "creator_id": 6808,
+                    "role": "creator",
+                    "role_id": 968,
+                    "is_primary": true
+                }
+            ],
+            "creators_other": [
+                {
+                    "id": 1133252,
+                    "name": "Fiona Trigg",
+                    "creator_id": 73332,
+                    "role": "research manager",
+                    "role_id": 456,
+                    "is_primary": false
+                }
+            ],
+            "video_links": [],
+            "media_note": null,
+            "images": [
+                {
+                    "id": 11165,
+                    "image_file": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/B1001833_Suspension.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=4jGFQuh5nUAf8vCStTZ4%2Bnux79M%3D&Expires=1627009518",
+                    "image_file_thumbnail": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/B1001833_Suspension.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=UucrYkLBuKyESFta5HjPf0w5iog%3D&Expires=1627009518",
+                    "image_file_xs": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/B1001833_Suspension.jpg.480x480_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=40vnWLzHzcaS2DQpAd8S9z8F9jU%3D&Expires=1627009518",
+                    "image_file_s": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/B1001833_Suspension.jpg.960x960_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=0jWlGaWz1GRt4jlsVLNCLhTwLW8%3D&Expires=1627009518",
+                    "image_file_m": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/B1001833_Suspension.jpg.1920x1920_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=xSKGuR97IUaT%2FWyOTSgIgC8%2BJx0%3D&Expires=1627009518",
+                    "image_file_l": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/B1001833_Suspension.jpg.3840x3840_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=s0Tt%2Fs8M6Y%2BEZ%2BCKm8x4UBk31i4%3D&Expires=1627009518",
+                    "caption": "Suspension (Anthony Discenza) still",
+                    "credit_line": "",
+                    "alt_text": "",
+                    "width": 438,
+                    "height": 327,
+                    "access_level": "View anywhere"
+                }
+            ],
+            "videos": [],
+            "holdings": [
+                {
+                    "name": "Digital Betacam [NTSC]; Master",
+                    "identifier": "",
+                    "description": ""
+                },
+                {
+                    "name": "DVD [PAL]; Exhibition Copy",
+                    "identifier": "",
+                    "description": ""
+                },
+                {
+                    "name": "VHS [PAL]; Reference - timecoded",
+                    "identifier": "",
+                    "description": ""
+                },
+                {
+                    "name": "MPEG-4 Digital File; ACMI Digital Access Copy - presentation",
+                    "identifier": "",
+                    "description": ""
+                },
+                {
+                    "name": "Digital Betacam [PAL]; Sub-master",
+                    "identifier": "",
+                    "description": ""
+                },
+                {
+                    "name": "DVD [PAL]; Copy",
+                    "identifier": "",
+                    "description": ""
+                },
+                {
+                    "name": "MOV file ProRes4444; Digital Preservation Master - overscan",
+                    "identifier": "",
+                    "description": ""
+                },
+                {
+                    "name": "MPEG-4 Digital File; ACMI Digital Access Copy - overscan",
+                    "identifier": "",
+                    "description": ""
+                }
+            ],
+            "part_of": null,
+            "parts": [],
+            "part_siblings": [],
+            "group": null,
+            "group_works": [],
+            "group_siblings": [],
+            "source": {
+                "name": "Vernon",
+                "slug": "vernon"
+            },
+            "source_identifier": "401",
+            "production_places": [
+                {
+                    "id": 2,
+                    "name": "United States",
+                    "slug": "united-states"
+                }
+            ],
+            "production_dates": [
+                {
+                    "date": "1997",
+                    "notes": "",
+                    "to_year": "1997"
+                }
+            ],
+            "labels": [
+                47689
+            ]
+        },
+        {
+            "id": 108195,
+            "acmi_id": "400",
+            "title": "Measures of distance",
+            "title_annotation": "",
+            "slug": "measures-of-distance",
+            "creator_credit": "Mona Hatoum",
+            "credit_line": "",
+            "headline_credit": "United Kingdom, 1988",
+            "thumbnail": {
+                "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/B1001832_MeasuresOfDistance.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=nuxpHkC2ZM7%2B1BC7hvf%2F0giLfHE%3D&Expires=1627009518",
+                "has_video": false
+            },
+            "record_type": "work",
+            "type": "Digital art",
+            "is_on_display": false,
+            "last_on_display_place": "ACMI Screen Gallery",
+            "last_on_display_date": "2003-08-31",
+            "is_context_indigenous": false,
+            "material_description": "Single channel moving image",
+            "unpublished": false,
+            "first_production_date": "1988-01-01T11:00:00+11:00",
+            "brief_description": "<p>Reading out loud from letters sent by her mother in Beirut, Hatoum constructs a visual montage that evokes feelings of separation and isolation from her Palestinian family. The personal and political are inextricably bound in a narrative that explores personal and family identity against a backdrop of traumatic social rupture, exile and displacement.</p>",
+            "constellations_primary": [],
+            "constellations_other": [],
+            "recommendations": [],
+            "title_for_label": "<p>Measures of distance</p>",
+            "creator_credit_for_label": "<p>Mona Hatoum</p>",
+            "headline_credit_for_label": "<p>United Kingdom, 1988</p>",
+            "description": "<p>Reading out loud from letters sent by her mother in Beirut, Hatoum constructs a visual montage that evokes feelings of separation and isolation from her Palestinian family. The personal and political are inextricably bound in a narrative that explores personal and family identity against a backdrop of traumatic social rupture, exile and displacement.</p>",
+            "description_for_label": [
+                "<p>Reading out loud from letters sent by her mother in Beirut, Hatoum constructs a visual montage that evokes feelings of separation and isolation from her Palestinian family. The personal and political are inextricably bound in a narrative that explores personal and family identity against a backdrop of traumatic social rupture, exile and displacement.</p>"
+            ],
+            "credit_line_for_label": "",
+            "details": [
+                {
+                    "label": "Duration",
+                    "display_values": [
+                        "00:15:26:00"
+                    ]
+                },
+                {
+                    "label": "Language",
+                    "display_values": [
+                        "English"
+                    ]
+                },
+                {
+                    "label": "Audience classifications",
+                    "display_values": [
+                        "M (15+)",
+                        "Mediatheque - not for children (ACMI classified)"
+                    ]
+                },
+                {
+                    "label": "Subject category",
+                    "display_values": [
+                        "Digital Art"
+                    ]
+                },
+                {
+                    "label": "Sound/audio",
+                    "display_values": [
+                        "Sound"
+                    ]
+                },
+                {
+                    "label": "Colour",
+                    "display_values": [
+                        "Colour"
+                    ]
+                },
+                {
+                    "label": "Materials",
+                    "display_values": [
+                        "Single channel moving image"
+                    ]
+                }
+            ],
+            "stats": {
+                "tap_count": 0
+            },
+            "links": [],
+            "creators_primary": [
+                {
+                    "id": 1133249,
+                    "name": "Mona Hatoum",
+                    "creator_id": 6806,
+                    "role": "creator",
+                    "role_id": 968,
+                    "is_primary": true
+                }
+            ],
+            "creators_other": [
+                {
+                    "id": 1133250,
+                    "name": "Fiona Trigg",
+                    "creator_id": 73332,
+                    "role": "research manager",
+                    "role_id": 456,
+                    "is_primary": false
+                }
+            ],
+            "video_links": [],
+            "media_note": null,
+            "images": [
+                {
+                    "id": 11164,
+                    "image_file": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/B1001832_MeasuresOfDistance.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=6uHXbACTv4fYk3jx8BkMllM1Z3k%3D&Expires=1627009518",
+                    "image_file_thumbnail": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/B1001832_MeasuresOfDistance.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=nuxpHkC2ZM7%2B1BC7hvf%2F0giLfHE%3D&Expires=1627009518",
+                    "image_file_xs": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/B1001832_MeasuresOfDistance.jpg.480x480_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=fxAdfxBptFC3NZYS3tC21Qa9rFE%3D&Expires=1627009518",
+                    "image_file_s": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/B1001832_MeasuresOfDistance.jpg.960x960_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=Zoc0S5sqdagF4%2FWGvhnL1YhZKCA%3D&Expires=1627009518",
+                    "image_file_m": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/B1001832_MeasuresOfDistance.jpg.1920x1920_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=tV5lA1UTUDGfwnjERDR2OQtzGlk%3D&Expires=1627009518",
+                    "image_file_l": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/B1001832_MeasuresOfDistance.jpg.3840x3840_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=6I6PoOl0RFVA6Xt4j4o26I41W7U%3D&Expires=1627009518",
+                    "caption": "Measures of Distance (Mona Hatoum) still",
+                    "credit_line": "",
+                    "alt_text": "",
+                    "width": 438,
+                    "height": 327,
+                    "access_level": "View anywhere"
+                }
+            ],
+            "videos": [],
+            "holdings": [
+                {
+                    "name": "Digital Betacam [NTSC]; Master",
+                    "identifier": "",
+                    "description": ""
+                },
+                {
+                    "name": "VHS [PAL]; Reference - timecoded",
+                    "identifier": "",
+                    "description": ""
+                },
+                {
+                    "name": "Digital Betacam [PAL]; Sub-master",
+                    "identifier": "",
+                    "description": ""
+                },
+                {
+                    "name": "DVD ROM; Copy",
+                    "identifier": "",
+                    "description": ""
+                },
+                {
+                    "name": "DVD [PAL]; Exhibition Copy",
+                    "identifier": "",
+                    "description": ""
+                },
+                {
+                    "name": "MPEG-4 Digital File; ACMI Digital Access Copy - presentation",
+                    "identifier": "",
+                    "description": ""
+                }
+            ],
+            "part_of": null,
+            "parts": [],
+            "part_siblings": [],
+            "group": null,
+            "group_works": [],
+            "group_siblings": [],
+            "source": {
+                "name": "Vernon",
+                "slug": "vernon"
+            },
+            "source_identifier": "400",
+            "production_places": [
+                {
+                    "id": 10,
+                    "name": "United Kingdom",
+                    "slug": "united-kingdom"
+                }
+            ],
+            "production_dates": [
+                {
+                    "date": "1988",
+                    "notes": "",
+                    "to_year": "1988"
+                }
+            ],
+            "labels": [
+                47688
+            ]
+        },
+        {
+            "id": 108190,
+            "acmi_id": "397",
+            "title": "Nest of Tens",
+            "title_annotation": "",
+            "slug": "nest-of-tens",
+            "creator_credit": "Miranda July",
+            "credit_line": "",
+            "headline_credit": "United States, 1999",
+            "thumbnail": null,
+            "record_type": "work",
+            "type": "Film",
+            "is_on_display": false,
+            "last_on_display_place": null,
+            "last_on_display_date": null,
+            "is_context_indigenous": false,
+            "material_description": "",
+            "unpublished": false,
+            "first_production_date": "1999-01-01T11:00:00+11:00",
+            "brief_description": "<p>&#8216;Nest of tens&#8217; is comprised of four alternating stories which reveal mundane yet personal methods of control. These systems are derived from intuitive sources. Children and a retarded adult operate control panels made out of paper, lists, monsters and their own bodies. &#8216;A young boy, home alone, performing a bizarre ritual with a baby; an uneasy, aborted sexual flirtation between a teenage babysitter and an older man; an airport lounge encounter between a businesswoman (played by July) and a young girl. Linked by a lecturer enumerating phobias in a quasi-academic seminar, these three perverse, unnerving scenarios involving children and adults provide authentic glimpses into the queasy strangeness that lies behind the everyday&#8217;. New York Video Festival, 2000.</p>",
+            "constellations_primary": [],
+            "constellations_other": [],
+            "recommendations": [],
+            "title_for_label": "<p>Nest of Tens</p>",
+            "creator_credit_for_label": "<p>Miranda July</p>",
+            "headline_credit_for_label": "<p>United States, 1999</p>",
+            "description": "<p>&#8216;Nest of tens&#8217; is comprised of four alternating stories which reveal mundane yet personal methods of control. These systems are derived from intuitive sources. Children and a retarded adult operate control panels made out of paper, lists, monsters and their own bodies. &#8216;A young boy, home alone, performing a bizarre ritual with a baby; an uneasy, aborted sexual flirtation between a teenage babysitter and an older man; an airport lounge encounter between a businesswoman (played by July) and a young girl. Linked by a lecturer enumerating phobias in a quasi-academic seminar, these three perverse, unnerving scenarios involving children and adults provide authentic glimpses into the queasy strangeness that lies behind the everyday&#8217;. New York Video Festival, 2000.</p>",
+            "description_for_label": [
+                "<p>&#8216;Nest of tens&#8217; is comprised of four alternating stories which reveal mundane yet personal methods of control. These systems are derived from intuitive sources. Children and a retarded adult operate control panels made out of paper, lists, monsters and their own bodies. &#8216;A young boy, home alone, performing a bizarre ritual with a baby; an uneasy, aborted sexual flirtation between a teenage babysitter and an older man; an airport lounge encounter between a businesswoman (played by July) and a young girl. Linked by a lecturer enumerating phobias in a quasi-academic seminar, these three perverse, unnerving scenarios involving children and adults provide authentic glimpses into the queasy strangeness that lies behind the everyday&#8217;. New York Video Festival, 2000.</p>"
+            ],
+            "credit_line_for_label": "",
+            "details": [
+                {
+                    "label": "Language",
+                    "display_values": [
+                        "English"
+                    ]
+                }
+            ],
+            "stats": {
+                "tap_count": 0
+            },
+            "links": [],
+            "creators_primary": [
+                {
+                    "id": 1133245,
+                    "name": "Miranda July",
+                    "creator_id": 73331,
+                    "role": "creator",
+                    "role_id": 968,
+                    "is_primary": true
+                }
+            ],
+            "creators_other": [
+                {
+                    "id": 1133244,
+                    "name": "Miranda July",
+                    "creator_id": 73331,
+                    "role": "film maker",
+                    "role_id": 459,
+                    "is_primary": false
+                }
+            ],
+            "video_links": [],
+            "media_note": "Sorry, we don't have images or video for this item.",
+            "images": [],
+            "videos": [],
+            "holdings": [
+                {
+                    "name": "Digital Betacam [NTSC]; Master",
+                    "identifier": "",
+                    "description": ""
+                },
+                {
+                    "name": "Digital Betacam [PAL]; Sub-master",
+                    "identifier": "",
+                    "description": ""
+                },
+                {
+                    "name": "VHS [PAL]; Reference - timecoded",
+                    "identifier": "",
+                    "description": ""
+                },
+                {
+                    "name": "CD ROM [PC]; Documentation",
+                    "identifier": "",
+                    "description": ""
+                }
+            ],
+            "part_of": null,
+            "parts": [],
+            "part_siblings": [],
+            "group": null,
+            "group_works": [],
+            "group_siblings": [],
+            "source": {
+                "name": "Vernon",
+                "slug": "vernon"
+            },
+            "source_identifier": "397",
+            "production_places": [
+                {
+                    "id": 2,
+                    "name": "United States",
+                    "slug": "united-states"
+                }
+            ],
+            "production_dates": [
+                {
+                    "date": "1999",
+                    "notes": "",
+                    "to_year": "1999"
+                }
+            ],
+            "labels": [
+                47683
+            ]
+        }
+    ]
+}

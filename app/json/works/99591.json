@@ -1,0 +1,128 @@
+{
+    "id": 99591,
+    "acmi_id": "179808",
+    "title": "Jane Conquest magic lantern slides",
+    "title_annotation": "",
+    "slug": "jane-conquest-1317",
+    "creator_credit": "York & Son",
+    "credit_line": "<p>Courtesy Martyn Jolly</p>",
+    "headline_credit": "United Kingdom, c. 1891",
+    "thumbnail": {
+        "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN179808_MLS_JanesConquest_13_Front.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=I%2BvySGNXeps66S4dU1THXjBAaW0%3D&Expires=1627009146",
+        "has_video": false
+    },
+    "record_type": "work",
+    "type": "Object",
+    "is_on_display": true,
+    "last_on_display_place": "ACMI",
+    "last_on_display_date": "2022-02-10",
+    "is_context_indigenous": false,
+    "material_description": "glass, ink, gum arabic tape",
+    "unpublished": true,
+    "first_production_date": null,
+    "brief_description": "<p>Creator, York &amp; Son, England. Harry Conquest standing by baby&#8217;s bassinet.<br />\nNarrative for slide &#8220;No light, no fire, no wife were there to welcome him&#8230;..&#8221;</p>",
+    "constellations_primary": [],
+    "constellations_other": [],
+    "recommendations": [],
+    "title_for_label": "<p>Jane Conquest narrative slides</p>",
+    "creator_credit_for_label": "<p>York &amp; Son</p>",
+    "headline_credit_for_label": "<p>United Kingdom, c. 1891</p>",
+    "description": "<p>Creator, York &amp; Son, England. Harry Conquest standing by baby&#8217;s bassinet.<br />\nNarrative for slide &#8220;No light, no fire, no wife were there to welcome him&#8230;..&#8221;</p>",
+    "description_for_label": [
+        "<p>Creator, York &amp; Son, England. Harry Conquest standing by baby&#8217;s bassinet.<br />\nNarrative for slide &#8220;No light, no fire, no wife were there to welcome him&#8230;..&#8221;</p>"
+    ],
+    "credit_line_for_label": "<p>Courtesy Martyn Jolly</p>",
+    "details": [
+        {
+            "label": "Measurements",
+            "display_values": [
+                "82 x 82 x 4mm"
+            ]
+        },
+        {
+            "label": "Materials",
+            "display_values": [
+                "glass, ink, gum arabic tape"
+            ]
+        }
+    ],
+    "stats": {
+        "tap_count": 0
+    },
+    "links": [],
+    "creators_primary": [
+        {
+            "id": 1134456,
+            "name": "York & Son",
+            "creator_id": 70602,
+            "role": "creator",
+            "role_id": 968,
+            "is_primary": true
+        }
+    ],
+    "creators_other": [],
+    "video_links": [],
+    "media_note": null,
+    "images": [
+        {
+            "id": 12546,
+            "image_file": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN179808_MLS_JanesConquest_13_Front.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=QD5yFN6nq9FWWzgUyDaI34sTLNs%3D&Expires=1627009146",
+            "image_file_thumbnail": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN179808_MLS_JanesConquest_13_Front.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=I%2BvySGNXeps66S4dU1THXjBAaW0%3D&Expires=1627009146",
+            "image_file_xs": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN179808_MLS_JanesConquest_13_Front.jpg.480x480_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=%2BxCMHPaemyEH37U0qSvAaVxOxFU%3D&Expires=1627009146",
+            "image_file_s": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN179808_MLS_JanesConquest_13_Front.jpg.960x960_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=Q7vk8lVRBLv3seFv4KGtt9EUNlo%3D&Expires=1627009146",
+            "image_file_m": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN179808_MLS_JanesConquest_13_Front.jpg.1920x1920_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=siQRa0gdb%2FYmUHQ8s8vnuKxT33A%3D&Expires=1627009146",
+            "image_file_l": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN179808_MLS_JanesConquest_13_Front.jpg.3840x3840_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=7l37LUUXwawNXYvPWlDm6Jp8Jkw%3D&Expires=1627009146",
+            "caption": "LN179808_MLS_JanesConquest_13_Front",
+            "credit_line": "Photograph by Egmont Contreras, ACMI",
+            "alt_text": "",
+            "width": 3201,
+            "height": 3211,
+            "access_level": "View anywhere"
+        },
+        {
+            "id": 12547,
+            "image_file": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN179808_MLS_JanesConquest_13_Back.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=GWbadZUvulwvtH%2BWT2XQm5S3kwg%3D&Expires=1627009146",
+            "image_file_thumbnail": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN179808_MLS_JanesConquest_13_Back.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=I8jIKuOIz1MHn8hgiFLWXHG8O38%3D&Expires=1627009146",
+            "image_file_xs": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN179808_MLS_JanesConquest_13_Back.jpg.480x480_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=6nSj21DB736CMJWErDrzDoPKSjE%3D&Expires=1627009146",
+            "image_file_s": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN179808_MLS_JanesConquest_13_Back.jpg.960x960_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=48LtOknjDDT%2FmjWq79bd7xbSXQc%3D&Expires=1627009146",
+            "image_file_m": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN179808_MLS_JanesConquest_13_Back.jpg.1920x1920_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=y3J%2FEKJPnmFyWvCci%2FbBKoOm36o%3D&Expires=1627009146",
+            "image_file_l": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN179808_MLS_JanesConquest_13_Back.jpg.3840x3840_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=onC%2Fo3sYJWNJr2ENf3Pd7ynSP2E%3D&Expires=1627009146",
+            "caption": "LN179808_MLS_JanesConquest_13_Back",
+            "credit_line": "Photograph by Egmont Contreras, ACMI",
+            "alt_text": "",
+            "width": 3133,
+            "height": 3187,
+            "access_level": "View anywhere"
+        }
+    ],
+    "videos": [],
+    "holdings": [],
+    "part_of": null,
+    "parts": [],
+    "part_siblings": [],
+    "group": null,
+    "group_works": [],
+    "group_siblings": [],
+    "source": {
+        "name": "Vernon",
+        "slug": "vernon"
+    },
+    "source_identifier": "179808",
+    "production_places": [
+        {
+            "id": 10,
+            "name": "United Kingdom",
+            "slug": "united-kingdom"
+        }
+    ],
+    "production_dates": [
+        {
+            "date": "c. 1891",
+            "notes": "",
+            "to_year": "c. 1891"
+        }
+    ],
+    "labels": [
+        39086
+    ]
+}

@@ -1,0 +1,119 @@
+{
+    "id": 116780,
+    "acmi_id": "151689",
+    "title": "[Our city cares : photographs]",
+    "title_annotation": "",
+    "slug": "our-city-cares-photographs",
+    "creator_credit": "Kim Montgomery",
+    "credit_line": "",
+    "headline_credit": "Australia, 27 FEB 2009",
+    "thumbnail": null,
+    "record_type": "work",
+    "type": "Film",
+    "is_on_display": false,
+    "last_on_display_place": null,
+    "last_on_display_date": null,
+    "is_context_indigenous": false,
+    "material_description": "",
+    "unpublished": true,
+    "first_production_date": null,
+    "brief_description": "<p>Included are the production stills taken by Egmont Contreras during filming of the vox pops for Our city cares project. People interviewed had pledged their support for victims of the Black Saturday bushfires.</p>",
+    "constellations_primary": [],
+    "constellations_other": [],
+    "recommendations": [],
+    "title_for_label": "<p>[Our city cares : photographs]</p>",
+    "creator_credit_for_label": "<p>Kim Montgomery</p>",
+    "headline_credit_for_label": "<p>Australia, 27 FEB 2009</p>",
+    "description": "<p>Included are the production stills taken by Egmont Contreras during filming of the vox pops for Our city cares project. People interviewed had pledged their support for victims of the Black Saturday bushfires.</p>",
+    "description_for_label": [
+        "<p>Included are the production stills taken by Egmont Contreras during filming of the vox pops for Our city cares project. People interviewed had pledged their support for victims of the Black Saturday bushfires.</p>"
+    ],
+    "credit_line_for_label": "",
+    "details": [
+        {
+            "label": "Audience classification",
+            "display_values": [
+                "ACMI classified"
+            ]
+        },
+        {
+            "label": "Subject categories",
+            "display_values": [
+                "Climate, Environment, Natural Resources & Disasters&nbsp;→ Wildfires - Australia",
+                "Crafts & Visual Arts&nbsp;→ Photography",
+                "Documentary",
+                "Short films",
+                "Short films&nbsp;→ Short films - Australia"
+            ]
+        },
+        {
+            "label": "Colour",
+            "display_values": [
+                "Colour"
+            ]
+        }
+    ],
+    "stats": {
+        "tap_count": 0
+    },
+    "links": [],
+    "creators_primary": [
+        {
+            "id": 1134153,
+            "name": "Kim Montgomery",
+            "creator_id": 8660,
+            "role": "producer/director",
+            "role_id": 31,
+            "is_primary": true
+        }
+    ],
+    "creators_other": [
+        {
+            "id": 1134154,
+            "name": "Egmont Contreras",
+            "creator_id": 83536,
+            "role": "photographer",
+            "role_id": 440,
+            "is_primary": false
+        }
+    ],
+    "video_links": [],
+    "media_note": "Sorry, we don't have images or video for this item.",
+    "images": [],
+    "videos": [],
+    "holdings": [
+        {
+            "name": "DVD [PAL]; Copy",
+            "identifier": "",
+            "description": ""
+        }
+    ],
+    "part_of": null,
+    "parts": [],
+    "part_siblings": [],
+    "group": null,
+    "group_works": [],
+    "group_siblings": [],
+    "source": {
+        "name": "Vernon",
+        "slug": "vernon"
+    },
+    "source_identifier": "151689",
+    "production_places": [
+        {
+            "id": 3,
+            "name": "Australia",
+            "slug": "australia"
+        }
+    ],
+    "production_dates": [
+        {
+            "date": "27 FEB 2009",
+            "notes": "",
+            "to_year": "27 FEB 2009"
+        }
+    ],
+    "labels": [
+        56274
+    ]
+}

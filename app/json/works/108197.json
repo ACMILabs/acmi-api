@@ -1,0 +1,176 @@
+{
+    "id": 108197,
+    "acmi_id": "409",
+    "title": "Triptych",
+    "title_annotation": "",
+    "slug": "triptych",
+    "creator_credit": "Robert Arnold",
+    "credit_line": "",
+    "headline_credit": "Poland and United States, 1999-2000",
+    "thumbnail": null,
+    "record_type": "work",
+    "type": "Digital art",
+    "is_on_display": false,
+    "last_on_display_place": "ACMI Screen Gallery",
+    "last_on_display_date": "2003-08-31",
+    "is_context_indigenous": false,
+    "material_description": "",
+    "unpublished": false,
+    "first_production_date": null,
+    "brief_description": "<p>This is the view overlooking Plac Wielkapolski (Great Poland Square), a busy intersection of pedestrian, tram, and other vehicle traffic adjacent to an open-air market. A meditation on an unfamiliar environment by an outside observer, and a response to the work of Zbignew Rybczynski and other members of the Lodz Film Form Workshop of the 1970&#8217;s.<br />\nIn memory of Antoni Mikolajczyk, head of the studio of video and installation, who passed away last spring, a year after this material was shot in his studio. Shot over a twenty four hour period in early Spring 1999, during my stay as a visiting professor at the Poznan&#8217; Academy of Fine Arts Studio of Video and Installation.</p>",
+    "constellations_primary": [],
+    "constellations_other": [],
+    "recommendations": [],
+    "title_for_label": "<p>Triptych</p>",
+    "creator_credit_for_label": "<p>Robert Arnold</p>",
+    "headline_credit_for_label": "<p>Poland and United States, 1999-2000</p>",
+    "description": "<p>This is the view overlooking Plac Wielkapolski (Great Poland Square), a busy intersection of pedestrian, tram, and other vehicle traffic adjacent to an open-air market. A meditation on an unfamiliar environment by an outside observer, and a response to the work of Zbignew Rybczynski and other members of the Lodz Film Form Workshop of the 1970&#8217;s.<br />\nIn memory of Antoni Mikolajczyk, head of the studio of video and installation, who passed away last spring, a year after this material was shot in his studio. Shot over a twenty four hour period in early Spring 1999, during my stay as a visiting professor at the Poznan&#8217; Academy of Fine Arts Studio of Video and Installation.</p>",
+    "description_for_label": [
+        "<p>This is the view overlooking Plac Wielkapolski (Great Poland Square), a busy intersection of pedestrian, tram, and other vehicle traffic adjacent to an open-air market. A meditation on an unfamiliar environment by an outside observer, and a response to the work of Zbignew Rybczynski and other members of the Lodz Film Form Workshop of the 1970&#8217;s.<br />\nIn memory of Antoni Mikolajczyk, head of the studio of video and installation, who passed away last spring, a year after this material was shot in his studio. Shot over a twenty four hour period in early Spring 1999, during my stay as a visiting professor at the Poznan&#8217; Academy of Fine Arts Studio of Video and Installation.</p>"
+    ],
+    "credit_line_for_label": "",
+    "details": [
+        {
+            "label": "Language",
+            "display_values": [
+                "English"
+            ]
+        },
+        {
+            "label": "Audience classifications",
+            "display_values": [
+                "G",
+                "unclassified"
+            ]
+        },
+        {
+            "label": "Subject category",
+            "display_values": [
+                "Digital Art"
+            ]
+        }
+    ],
+    "stats": {
+        "tap_count": 0
+    },
+    "links": [],
+    "creators_primary": [
+        {
+            "id": 1133540,
+            "name": "Robert Arnold",
+            "creator_id": 73333,
+            "role": "creator",
+            "role_id": 968,
+            "is_primary": true
+        }
+    ],
+    "creators_other": [
+        {
+            "id": 1133541,
+            "name": "Rhys Graham",
+            "creator_id": 6398,
+            "role": "research manager",
+            "role_id": 456,
+            "is_primary": false
+        }
+    ],
+    "video_links": [],
+    "media_note": "Sorry, we don't have images or video for this item.",
+    "images": [],
+    "videos": [],
+    "holdings": [
+        {
+            "name": "VHS [PAL]; Reference - timecoded",
+            "identifier": "",
+            "description": ""
+        },
+        {
+            "name": "DVD [PAL]; Exhibition Copy",
+            "identifier": "",
+            "description": ""
+        },
+        {
+            "name": "Digital Betacam [PAL]; Master",
+            "identifier": "",
+            "description": ""
+        },
+        {
+            "name": "Digital Betacam [PAL]; Sub-master",
+            "identifier": "",
+            "description": ""
+        }
+    ],
+    "part_of": null,
+    "parts": [],
+    "part_siblings": [],
+    "group": {
+        "id": 108198,
+        "acmi_id": "10278",
+        "title": "Robert Arnold compilation",
+        "title_annotation": "",
+        "slug": "robert-arnold-compilation",
+        "creator_credit": "",
+        "credit_line": "",
+        "headline_credit": "1998-2000",
+        "thumbnail": null,
+        "record_type": "group",
+        "type": "Film",
+        "is_on_display": false,
+        "last_on_display_place": null,
+        "last_on_display_date": null,
+        "is_context_indigenous": false,
+        "material_description": "",
+        "unpublished": true,
+        "first_production_date": null
+    },
+    "group_works": [],
+    "group_siblings": [
+        {
+            "id": 108199,
+            "acmi_id": "410",
+            "title": "The Morphology of desire",
+            "title_annotation": "",
+            "slug": "the-morphology-of-desire",
+            "creator_credit": "Robert Arnold",
+            "credit_line": "",
+            "headline_credit": "United States, 1998",
+            "thumbnail": null,
+            "record_type": "work",
+            "type": "Digital art",
+            "is_on_display": false,
+            "last_on_display_place": null,
+            "last_on_display_date": null,
+            "is_context_indigenous": false,
+            "material_description": "",
+            "unpublished": false,
+            "first_production_date": "1998-01-01T11:00:00+11:00"
+        }
+    ],
+    "source": {
+        "name": "Vernon",
+        "slug": "vernon"
+    },
+    "source_identifier": "409",
+    "production_places": [
+        {
+            "id": 44,
+            "name": "Poland",
+            "slug": "poland"
+        },
+        {
+            "id": 2,
+            "name": "United States",
+            "slug": "united-states"
+        }
+    ],
+    "production_dates": [
+        {
+            "date": "1999-2000",
+            "notes": "Shot in Spring, 1999. Copyrighted 2000.",
+            "to_year": "1999-2000"
+        }
+    ],
+    "labels": [
+        47690
+    ]
+}

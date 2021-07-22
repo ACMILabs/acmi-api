@@ -1,0 +1,110 @@
+{
+    "id": 108509,
+    "acmi_id": "1275",
+    "title": "Space Odysseys. Coast to Coast",
+    "title_annotation": "",
+    "slug": "space-odysseys-coast-to-coast",
+    "creator_credit": "",
+    "credit_line": "",
+    "headline_credit": "",
+    "thumbnail": null,
+    "record_type": "work",
+    "type": "Film",
+    "is_on_display": false,
+    "last_on_display_place": null,
+    "last_on_display_date": null,
+    "is_context_indigenous": false,
+    "material_description": "",
+    "unpublished": true,
+    "first_production_date": null,
+    "brief_description": "",
+    "constellations_primary": [],
+    "constellations_other": [],
+    "recommendations": [],
+    "title_for_label": "<p>Space Odysseys. Coast to Coast</p>",
+    "creator_credit_for_label": "",
+    "headline_credit_for_label": "",
+    "description": "",
+    "description_for_label": [],
+    "credit_line_for_label": "",
+    "details": [],
+    "stats": {
+        "tap_count": 0
+    },
+    "links": [],
+    "creators_primary": [],
+    "creators_other": [],
+    "video_links": [],
+    "media_note": "Sorry, we don't have images or video for this item.",
+    "images": [],
+    "videos": [],
+    "holdings": [
+        {
+            "name": "VHS [PAL]; Documentation",
+            "identifier": "",
+            "description": ""
+        }
+    ],
+    "part_of": null,
+    "parts": [],
+    "part_siblings": [],
+    "group": {
+        "id": 108270,
+        "acmi_id": "10690",
+        "title": "Space Odysseys: visualisation",
+        "title_annotation": "",
+        "slug": "space-odysseys-visualisation",
+        "creator_credit": "",
+        "credit_line": "",
+        "headline_credit": "",
+        "thumbnail": {
+            "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/victorial01.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=ysJbhbyy%2FbEbQshK0IsEIslU1wQ%3D&Expires=1627009358",
+            "has_video": false
+        },
+        "record_type": "group",
+        "type": "Film",
+        "is_on_display": false,
+        "last_on_display_place": null,
+        "last_on_display_date": null,
+        "is_context_indigenous": false,
+        "material_description": "",
+        "unpublished": true,
+        "first_production_date": null
+    },
+    "group_works": [],
+    "group_siblings": [
+        {
+            "id": 108269,
+            "acmi_id": "553",
+            "title": "Deep Space: Sensation & Immersion [exhibition] : archival material",
+            "title_annotation": "",
+            "slug": "deep-space-sensation-immersion-exhibition-archival-material",
+            "creator_credit": "",
+            "credit_line": "",
+            "headline_credit": "2002",
+            "thumbnail": {
+                "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/victorial01.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=ysJbhbyy%2FbEbQshK0IsEIslU1wQ%3D&Expires=1627009358",
+                "has_video": false
+            },
+            "record_type": "work",
+            "type": "Film",
+            "is_on_display": false,
+            "last_on_display_place": null,
+            "last_on_display_date": null,
+            "is_context_indigenous": false,
+            "material_description": "",
+            "unpublished": false,
+            "first_production_date": "2002-01-01T11:00:00+11:00"
+        }
+    ],
+    "source": {
+        "name": "Vernon",
+        "slug": "vernon"
+    },
+    "source_identifier": "1275",
+    "production_places": [],
+    "production_dates": [],
+    "labels": [
+        48002
+    ]
+}

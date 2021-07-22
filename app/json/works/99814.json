@@ -1,0 +1,207 @@
+{
+    "id": 99814,
+    "acmi_id": "180312",
+    "title": "Sequential photographs\nMotion Studies: Man with Hat",
+    "title_annotation": "Facsimile",
+    "slug": "graphic-motion-studies-man-with-hat-1987",
+    "creator_credit": "Eadweard Muybridge",
+    "credit_line": "<p>Courtesy Heritage Image Partnership Ltd / World History Archive / Welcome Collection / Alamy</p>",
+    "headline_credit": "United Kingdom, 1887",
+    "thumbnail": {
+        "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/P180312_G020.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=WSjkIUcscGVAbdyCaxXL5OBkUWU%3D&Expires=1627009114",
+        "has_video": false
+    },
+    "record_type": "work",
+    "type": "Object",
+    "is_on_display": true,
+    "last_on_display_place": "ACMI: Gallery 1",
+    "last_on_display_date": "2031-02-16",
+    "is_context_indigenous": false,
+    "material_description": "Digital print",
+    "unpublished": false,
+    "first_production_date": "1887-01-01T09:40:00+09:40",
+    "brief_description": "<p>British American photographer Eadweard Muybridge laid the foundation of the moving image. Using multiple cameras triggered by trip wires, he captured a galloping horse in sequential images, reproduced them in a zoetrope and created the world’s first moving photographs.</p>",
+    "constellations_primary": [],
+    "constellations_other": [],
+    "recommendations": [],
+    "title_for_label": "<p>Sequential photographs</p>",
+    "creator_credit_for_label": "<p>Eadweard Muybridge</p>",
+    "headline_credit_for_label": "<p>United Kingdom, 1887</p>",
+    "description": "",
+    "description_for_label": [],
+    "credit_line_for_label": "<p>Courtesy Heritage Image Partnership Ltd / World History Archive / Welcome Collection / Alamy</p>",
+    "details": [
+        {
+            "label": "Curatorial sections",
+            "display_values": [
+                "The Story of the Moving Image&nbsp;→ Moving Pictures&nbsp;→ 03. Time and Movement",
+                "The Story of the Moving Image&nbsp;→ Moving Pictures&nbsp;→ 03. Time and Movement&nbsp;→ MI-03-Splitting Time"
+            ]
+        },
+        {
+            "label": "Measurements",
+            "display_values": [
+                "470 x 800mm"
+            ]
+        },
+        {
+            "label": "Materials",
+            "display_values": [
+                "Digital print"
+            ]
+        }
+    ],
+    "stats": {
+        "tap_count": 0
+    },
+    "links": [],
+    "creators_primary": [
+        {
+            "id": 1134504,
+            "name": "Eadweard Muybridge",
+            "creator_id": 72028,
+            "role": "creator",
+            "role_id": 968,
+            "is_primary": true
+        }
+    ],
+    "creators_other": [],
+    "video_links": [],
+    "media_note": null,
+    "images": [
+        {
+            "id": 12381,
+            "image_file": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/P180312_G020.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=qGZM55ie7p9ligSCDmY4eGb878w%3D&Expires=1627009114",
+            "image_file_thumbnail": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/P180312_G020.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=WSjkIUcscGVAbdyCaxXL5OBkUWU%3D&Expires=1627009114",
+            "image_file_xs": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/P180312_G020.jpg.480x480_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=ZTyoVVTT%2B1Ju7nvLdYjVOQ%2B61wk%3D&Expires=1627009114",
+            "image_file_s": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/P180312_G020.jpg.960x960_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=Pyq73%2FHWYlaDOd0XJoC4QpaO4G4%3D&Expires=1627009114",
+            "image_file_m": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/P180312_G020.jpg.1920x1920_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=EFQzX8tPEwOSZWwKUWHdK13qZbQ%3D&Expires=1627009114",
+            "image_file_l": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/P180312_G020.jpg.3840x3840_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=UzW20%2BhweL%2FpWj44Onbi2z3vEUs%3D&Expires=1627009114",
+            "caption": "",
+            "credit_line": "",
+            "alt_text": "",
+            "width": 3096,
+            "height": 2139,
+            "access_level": "View anywhere"
+        }
+    ],
+    "videos": [],
+    "holdings": [],
+    "part_of": null,
+    "parts": [],
+    "part_siblings": [],
+    "group": {
+        "id": 112094,
+        "acmi_id": "183537",
+        "title": "Sequential photographs",
+        "title_annotation": "",
+        "slug": "sequential-photographs",
+        "creator_credit": "Eadweard Muybridge",
+        "credit_line": "<p>Courtesy Heritage Image Partnership Ltd / World History Archive / Welcome Collection / Alamy</p>",
+        "headline_credit": "1887",
+        "thumbnail": {
+            "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/P180308_G016_resaved_2.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=Bwr%2FBCjiTmXIu5pENW0iStYxxHM%3D&Expires=1627009114",
+            "has_video": false
+        },
+        "record_type": "group",
+        "type": "Film",
+        "is_on_display": true,
+        "last_on_display_place": "ACMI: Gallery 1",
+        "last_on_display_date": "2031-02-16",
+        "is_context_indigenous": false,
+        "material_description": "",
+        "unpublished": false,
+        "first_production_date": "1887-01-01T09:40:00+09:40"
+    },
+    "group_works": [],
+    "group_siblings": [
+        {
+            "id": 99812,
+            "acmi_id": "180310",
+            "title": "Sequential photographs\nMotion Studies: A man standing on his hands from a lying down position",
+            "title_annotation": "Facsimile",
+            "slug": "graphic-a-man-standing-on-his-hands-from-a-lying-down-position",
+            "creator_credit": "Eadweard Muybridge",
+            "credit_line": "<p>Courtesy Heritage Image Partnership Ltd / World History Archive / Welcome Collection / Alamy</p>",
+            "headline_credit": "United Kingdom, 1887",
+            "thumbnail": null,
+            "record_type": "work",
+            "type": "Object",
+            "is_on_display": true,
+            "last_on_display_place": "ACMI: Gallery 1",
+            "last_on_display_date": "2031-02-16",
+            "is_context_indigenous": false,
+            "material_description": "Digital print",
+            "unpublished": false,
+            "first_production_date": "1887-01-01T09:40:00+09:40"
+        },
+        {
+            "id": 99810,
+            "acmi_id": "180308",
+            "title": "Sequential photographs\nMotion Studies: Horse",
+            "title_annotation": "Facsimile",
+            "slug": "graphic-motion-studies-horse-image-1887",
+            "creator_credit": "Eadweard Muybridge",
+            "credit_line": "<p>Courtesy Heritage Image Partnership Ltd / World History Archive / Welcome Collection / Alamy</p>",
+            "headline_credit": "United Kingdom, 1887",
+            "thumbnail": {
+                "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/P180308_G016_resaved_2.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=Bwr%2FBCjiTmXIu5pENW0iStYxxHM%3D&Expires=1627009114",
+                "has_video": false
+            },
+            "record_type": "work",
+            "type": "Object",
+            "is_on_display": true,
+            "last_on_display_place": "ACMI: Gallery 1",
+            "last_on_display_date": "2031-02-16",
+            "is_context_indigenous": false,
+            "material_description": "Digital print",
+            "unpublished": false,
+            "first_production_date": "1887-01-01T09:40:00+09:40"
+        },
+        {
+            "id": 99815,
+            "acmi_id": "180313",
+            "title": "Sequential photographs\nMotion Studies: Straight High Jump",
+            "title_annotation": "Facsimile",
+            "slug": "graphic-woman-jumping-running-straight-high-jump",
+            "creator_credit": "Eadweard Muybridge",
+            "credit_line": "<p>Courtesy Heritage Image Partnership Ltd / World History Archive / Welcome Collection / Alamy</p>",
+            "headline_credit": "United Kingdom, 1887",
+            "thumbnail": {
+                "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/P180313_G021.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=csdOHnDOOREhPF7hyJ4eIzEV0KE%3D&Expires=1627009114",
+                "has_video": false
+            },
+            "record_type": "work",
+            "type": "Object",
+            "is_on_display": true,
+            "last_on_display_place": "ACMI: Gallery 1",
+            "last_on_display_date": "2031-02-16",
+            "is_context_indigenous": false,
+            "material_description": "Digital print",
+            "unpublished": false,
+            "first_production_date": "1887-01-01T09:40:00+09:40"
+        }
+    ],
+    "source": {
+        "name": "Vernon",
+        "slug": "vernon"
+    },
+    "source_identifier": "180312",
+    "production_places": [
+        {
+            "id": 10,
+            "name": "United Kingdom",
+            "slug": "united-kingdom"
+        }
+    ],
+    "production_dates": [
+        {
+            "date": "1887",
+            "notes": "",
+            "to_year": "1887"
+        }
+    ],
+    "labels": [
+        39309
+    ]
+}

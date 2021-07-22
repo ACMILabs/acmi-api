@@ -1,0 +1,125 @@
+{
+    "id": 108198,
+    "acmi_id": "10278",
+    "title": "Robert Arnold compilation",
+    "title_annotation": "",
+    "slug": "robert-arnold-compilation",
+    "creator_credit": "",
+    "credit_line": "",
+    "headline_credit": "1998-2000",
+    "thumbnail": null,
+    "record_type": "group",
+    "type": "Film",
+    "is_on_display": false,
+    "last_on_display_place": null,
+    "last_on_display_date": null,
+    "is_context_indigenous": false,
+    "material_description": "",
+    "unpublished": true,
+    "first_production_date": null,
+    "brief_description": "",
+    "constellations_primary": [],
+    "constellations_other": [],
+    "recommendations": [],
+    "title_for_label": "<p>Robert Arnold compilation</p>",
+    "creator_credit_for_label": "",
+    "headline_credit_for_label": "<p>1998-2000</p>",
+    "description": "",
+    "description_for_label": [],
+    "credit_line_for_label": "",
+    "details": [],
+    "stats": {
+        "tap_count": 0
+    },
+    "links": [],
+    "creators_primary": [],
+    "creators_other": [
+        {
+            "id": 1133546,
+            "name": "Robert Arnold",
+            "creator_id": 73333,
+            "role": "",
+            "role_id": 604,
+            "is_primary": false
+        }
+    ],
+    "video_links": [],
+    "media_note": "Sorry, we don't have images or video for this item.",
+    "images": [],
+    "videos": [],
+    "holdings": [
+        {
+            "name": "Digital Betacam [PAL]; Master",
+            "identifier": "",
+            "description": ""
+        },
+        {
+            "name": "Digital Betacam [PAL]; Sub-master",
+            "identifier": "",
+            "description": ""
+        }
+    ],
+    "part_of": null,
+    "parts": [],
+    "part_siblings": [],
+    "group": null,
+    "group_works": [
+        {
+            "id": 108199,
+            "acmi_id": "410",
+            "title": "The Morphology of desire",
+            "title_annotation": "",
+            "slug": "the-morphology-of-desire",
+            "creator_credit": "Robert Arnold",
+            "credit_line": "",
+            "headline_credit": "United States, 1998",
+            "thumbnail": null,
+            "record_type": "work",
+            "type": "Digital art",
+            "is_on_display": false,
+            "last_on_display_place": null,
+            "last_on_display_date": null,
+            "is_context_indigenous": false,
+            "material_description": "",
+            "unpublished": false,
+            "first_production_date": "1998-01-01T11:00:00+11:00"
+        },
+        {
+            "id": 108197,
+            "acmi_id": "409",
+            "title": "Triptych",
+            "title_annotation": "",
+            "slug": "triptych",
+            "creator_credit": "Robert Arnold",
+            "credit_line": "",
+            "headline_credit": "Poland and United States, 1999-2000",
+            "thumbnail": null,
+            "record_type": "work",
+            "type": "Digital art",
+            "is_on_display": false,
+            "last_on_display_place": "ACMI Screen Gallery",
+            "last_on_display_date": "2003-08-31",
+            "is_context_indigenous": false,
+            "material_description": "",
+            "unpublished": false,
+            "first_production_date": null
+        }
+    ],
+    "group_siblings": [],
+    "source": {
+        "name": "Vernon",
+        "slug": "vernon"
+    },
+    "source_identifier": "10278",
+    "production_places": [],
+    "production_dates": [
+        {
+            "date": "1998-2000",
+            "notes": "",
+            "to_year": "1998-2000"
+        }
+    ],
+    "labels": [
+        47691
+    ]
+}

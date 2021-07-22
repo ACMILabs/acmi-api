@@ -1,0 +1,87 @@
+{
+    "id": 100057,
+    "acmi_id": "13581",
+    "title": "G Code Programmer",
+    "title_annotation": "",
+    "slug": "g-code-programmer",
+    "creator_credit": "",
+    "credit_line": "",
+    "headline_credit": "",
+    "thumbnail": {
+        "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/B2000401_TVWorldCollection_E000083_001.JPG.1200x1200_q85.JPG?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=BRT3XulkBD0SoxNmzyMwfQtSSlQ%3D&Expires=1627009310",
+        "has_video": false
+    },
+    "record_type": "work",
+    "type": "Object",
+    "is_on_display": false,
+    "last_on_display_place": null,
+    "last_on_display_date": null,
+    "is_context_indigenous": false,
+    "material_description": "",
+    "unpublished": false,
+    "first_production_date": null,
+    "brief_description": "<p>G Code Programmer</p>",
+    "constellations_primary": [],
+    "constellations_other": [],
+    "recommendations": [],
+    "title_for_label": "<p>G Code Programmer</p>",
+    "creator_credit_for_label": "",
+    "headline_credit_for_label": "",
+    "description": "<p>G Code Programmer</p>",
+    "description_for_label": [
+        "<p>G Code Programmer</p>"
+    ],
+    "credit_line_for_label": "",
+    "details": [
+        {
+            "label": "Measurements",
+            "display_values": [
+                "4 x 15 x 10cm",
+                "1kg"
+            ]
+        }
+    ],
+    "stats": {
+        "tap_count": 0
+    },
+    "links": [],
+    "creators_primary": [],
+    "creators_other": [],
+    "video_links": [],
+    "media_note": null,
+    "images": [
+        {
+            "id": 14807,
+            "image_file": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/B2000401_TVWorldCollection_E000083_001.JPG?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=Uik1ppm%2F%2BHHpuKQHxksmZd7HB9w%3D&Expires=1627009310",
+            "image_file_thumbnail": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/B2000401_TVWorldCollection_E000083_001.JPG.1200x1200_q85.JPG?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=BRT3XulkBD0SoxNmzyMwfQtSSlQ%3D&Expires=1627009310",
+            "image_file_xs": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/B2000401_TVWorldCollection_E000083_001.JPG.480x480_q85.JPG?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=H0%2BbuD9vyQh%2FB%2BAd4u%2F6FBbXjMc%3D&Expires=1627009310",
+            "image_file_s": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/B2000401_TVWorldCollection_E000083_001.JPG.960x960_q85.JPG?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=1SiqLw3y9%2BV3ShiNH3pT5q%2FouSQ%3D&Expires=1627009310",
+            "image_file_m": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/B2000401_TVWorldCollection_E000083_001.JPG.1920x1920_q85.JPG?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=%2BST4a3B1btqAhIb1S8CVPTXFYs8%3D&Expires=1627009310",
+            "image_file_l": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/B2000401_TVWorldCollection_E000083_001.JPG.3840x3840_q85.JPG?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=Jq2qAMDDmavxzNdv0ihbrCfr1S4%3D&Expires=1627009310",
+            "caption": "E000083 - Image01",
+            "credit_line": "",
+            "alt_text": "",
+            "width": 1920,
+            "height": 2560,
+            "access_level": "View anywhere"
+        }
+    ],
+    "videos": [],
+    "holdings": [],
+    "part_of": null,
+    "parts": [],
+    "part_siblings": [],
+    "group": null,
+    "group_works": [],
+    "group_siblings": [],
+    "source": {
+        "name": "Vernon",
+        "slug": "vernon"
+    },
+    "source_identifier": "13581",
+    "production_places": [],
+    "production_dates": [],
+    "labels": [
+        39553
+    ]
+}

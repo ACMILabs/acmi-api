@@ -1,0 +1,105 @@
+{
+    "id": 107646,
+    "acmi_id": "182675",
+    "title": "Clips from Cleverman",
+    "title_annotation": "",
+    "slug": "clips-from-cleverman",
+    "creator_credit": "Ryan Griffen",
+    "credit_line": "<p>Courtesy Goalpost Pictures</p>",
+    "headline_credit": "Australia, 2016",
+    "thumbnail": {
+        "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/Screen_Shot_2020-10-12_at_8.26.23_pm.png.1200x1200_q85.png?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=O2v3MIACukjbBbSo5nEn1wPBPhM%3D&Expires=1627009055",
+        "has_video": false
+    },
+    "record_type": "work",
+    "type": "Film",
+    "is_on_display": true,
+    "last_on_display_place": "ACMI: Gallery 1",
+    "last_on_display_date": "2023-02-09",
+    "is_context_indigenous": false,
+    "material_description": "",
+    "unpublished": true,
+    "first_production_date": "2016-01-01T11:00:00+11:00",
+    "brief_description": "",
+    "constellations_primary": [],
+    "constellations_other": [],
+    "recommendations": [],
+    "title_for_label": "<p>Clips from finished show</p>",
+    "creator_credit_for_label": "<p>Ryan Griffen</p>",
+    "headline_credit_for_label": "<p>Australia, 2016</p>",
+    "description": "",
+    "description_for_label": [],
+    "credit_line_for_label": "<p>Courtesy Goalpost Pictures</p>",
+    "details": [
+        {
+            "label": "Curatorial section",
+            "display_values": [
+                "The Story of the Moving Image&nbsp;→ Moving Worlds&nbsp;→ 05. Character Design&nbsp;→ MW-05-C01&nbsp;→ MW-05-C01.01"
+            ]
+        }
+    ],
+    "stats": {
+        "tap_count": 0
+    },
+    "links": [],
+    "creators_primary": [
+        {
+            "id": 1134604,
+            "name": "Ryan Griffen",
+            "creator_id": 49330,
+            "role": "creator",
+            "role_id": 968,
+            "is_primary": true
+        }
+    ],
+    "creators_other": [],
+    "video_links": [],
+    "media_note": null,
+    "images": [
+        {
+            "id": 16536,
+            "image_file": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/Screen_Shot_2020-10-12_at_8.26.23_pm.png?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=n%2Be0RPzxOVGFfMp0k%2B%2BGV0mPcBc%3D&Expires=1627009055",
+            "image_file_thumbnail": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/Screen_Shot_2020-10-12_at_8.26.23_pm.png.1200x1200_q85.png?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=O2v3MIACukjbBbSo5nEn1wPBPhM%3D&Expires=1627009055",
+            "image_file_xs": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/Screen_Shot_2020-10-12_at_8.26.23_pm.png.480x480_q85.png?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=OUrV2oaLddHCkdab6ozP%2BLU2FOg%3D&Expires=1627009055",
+            "image_file_s": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/Screen_Shot_2020-10-12_at_8.26.23_pm.png.960x960_q85.png?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=pffhXxeVT6stW1bP1MJpwjLhVdE%3D&Expires=1627009055",
+            "image_file_m": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/Screen_Shot_2020-10-12_at_8.26.23_pm.png.1920x1920_q85.png?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=AAiOjIwC%2FV3K1FydRqKVVTTGegw%3D&Expires=1627009055",
+            "image_file_l": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/Screen_Shot_2020-10-12_at_8.26.23_pm.png.3840x3840_q85.png?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=K1VVPsmeyCuBmJ0pEmhUbRypL2w%3D&Expires=1627009055",
+            "caption": "A still from Cleverman",
+            "credit_line": "",
+            "alt_text": "An image of a man in beastly prosthetics being restrained.",
+            "width": 1217,
+            "height": 606,
+            "access_level": "View anywhere"
+        }
+    ],
+    "videos": [],
+    "holdings": [],
+    "part_of": null,
+    "parts": [],
+    "part_siblings": [],
+    "group": null,
+    "group_works": [],
+    "group_siblings": [],
+    "source": {
+        "name": "Vernon",
+        "slug": "vernon"
+    },
+    "source_identifier": "182675",
+    "production_places": [
+        {
+            "id": 3,
+            "name": "Australia",
+            "slug": "australia"
+        }
+    ],
+    "production_dates": [
+        {
+            "date": "2016",
+            "notes": "",
+            "to_year": "2016"
+        }
+    ],
+    "labels": [
+        47139
+    ]
+}

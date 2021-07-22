@@ -1,0 +1,2506 @@
+{
+    "count": 922,
+    "next": "/works/?page=18",
+    "previous": "/works/?page=16",
+    "results": [
+        {
+            "id": 100734,
+            "acmi_id": "180537",
+            "title": "Cleverman reference images: Punks at Gotik Treffen festival",
+            "title_annotation": "Facsimile",
+            "slug": "graphic-reference-image-two-goths-at-wave-gotik-treffen-2007",
+            "creator_credit": "",
+            "credit_line": "",
+            "headline_credit": "2007",
+            "thumbnail": {
+                "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/P180537_G247.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=of3HL%2FaXPEmHzBWv51Y%2F5DgCwro%3D&Expires=1627009095",
+                "has_video": false
+            },
+            "record_type": "work",
+            "type": "Object",
+            "is_on_display": true,
+            "last_on_display_place": "ACMI: Gallery 1",
+            "last_on_display_date": "2023-02-09",
+            "is_context_indigenous": false,
+            "material_description": "Graphic",
+            "unpublished": false,
+            "first_production_date": "2007-01-01T11:00:00+11:00",
+            "brief_description": "",
+            "constellations_primary": [],
+            "constellations_other": [],
+            "recommendations": [],
+            "title_for_label": "<p>Punks at Gotik Treffen festival</p>",
+            "creator_credit_for_label": "",
+            "headline_credit_for_label": "<p>2007</p>",
+            "description": "",
+            "description_for_label": [],
+            "credit_line_for_label": "",
+            "details": [
+                {
+                    "label": "Curatorial section",
+                    "display_values": [
+                        "The Story of the Moving Image&nbsp;→ Moving Worlds&nbsp;→ 05. Character Design&nbsp;→ MW-05-C01&nbsp;→ MW-05-C01.01"
+                    ]
+                },
+                {
+                    "label": "Measurements",
+                    "display_values": [
+                        "115 x 162mm"
+                    ]
+                },
+                {
+                    "label": "Materials",
+                    "display_values": [
+                        "Graphic"
+                    ]
+                }
+            ],
+            "stats": {
+                "tap_count": 0
+            },
+            "links": [],
+            "creators_primary": [],
+            "creators_other": [
+                {
+                    "id": 1134534,
+                    "name": "Grant Mitchell",
+                    "creator_id": 72975,
+                    "role": "photographer",
+                    "role_id": 440,
+                    "is_primary": false
+                }
+            ],
+            "video_links": [],
+            "media_note": null,
+            "images": [
+                {
+                    "id": 13168,
+                    "image_file": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/P180537_G247.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=cccpz5HoBjG4fDc6ov4Sg%2BzxuGk%3D&Expires=1627009096",
+                    "image_file_thumbnail": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/P180537_G247.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=XW5OZo8jXcqUIQE2hwVlQFNjORo%3D&Expires=1627009096",
+                    "image_file_xs": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/P180537_G247.jpg.480x480_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=v865z%2FswOdD7yYN9DMvwA8ckN9s%3D&Expires=1627009096",
+                    "image_file_s": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/P180537_G247.jpg.960x960_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=oam8HSTH348aPZTt29082d6gaeA%3D&Expires=1627009096",
+                    "image_file_m": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/P180537_G247.jpg.1920x1920_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=AxT%2FENjOvTM3VwOeaFLfm4js76c%3D&Expires=1627009096",
+                    "image_file_l": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/P180537_G247.jpg.3840x3840_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=qp5MlrkjRzrrR4HqqhSVONu5Pw4%3D&Expires=1627009096",
+                    "caption": "",
+                    "credit_line": "",
+                    "alt_text": "",
+                    "width": 3260,
+                    "height": 2445,
+                    "access_level": "View anywhere"
+                }
+            ],
+            "videos": [],
+            "holdings": [],
+            "part_of": null,
+            "parts": [],
+            "part_siblings": [],
+            "group": {
+                "id": 100869,
+                "acmi_id": "182495",
+                "title": "Cleverman character design",
+                "title_annotation": "",
+                "slug": "cleverman-character-design",
+                "creator_credit": "Jacob Nash, Ryan Griffen and Goalpost Pictures",
+                "credit_line": "<p>Courtesy Goalpost Pictures</p>",
+                "headline_credit": "Australia, 2016-2017",
+                "thumbnail": {
+                    "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/P180542_G252.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=myXrp1mmMgBgXcKs0ZefaD9UlaQ%3D&Expires=1627009096",
+                    "has_video": false
+                },
+                "record_type": "group",
+                "type": "Object",
+                "is_on_display": true,
+                "last_on_display_place": "ACMI: Gallery 1",
+                "last_on_display_date": "2023-02-09",
+                "is_context_indigenous": false,
+                "material_description": "",
+                "unpublished": false,
+                "first_production_date": null
+            },
+            "group_works": [],
+            "group_siblings": [
+                {
+                    "id": 112115,
+                    "acmi_id": "183546",
+                    "title": "Early character concept art",
+                    "title_annotation": "",
+                    "slug": "early-character-concept-art",
+                    "creator_credit": "Jacob Nash",
+                    "credit_line": "<p>Courtesy Goalpost Pictures</p>",
+                    "headline_credit": "",
+                    "thumbnail": {
+                        "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/P180542_G252.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=myXrp1mmMgBgXcKs0ZefaD9UlaQ%3D&Expires=1627009096",
+                        "has_video": false
+                    },
+                    "record_type": "group",
+                    "type": "Film",
+                    "is_on_display": true,
+                    "last_on_display_place": "ACMI: Gallery 1",
+                    "last_on_display_date": "2023-02-09",
+                    "is_context_indigenous": false,
+                    "material_description": "",
+                    "unpublished": false,
+                    "first_production_date": null
+                },
+                {
+                    "id": 112116,
+                    "acmi_id": "183545",
+                    "title": "Character concept art with feedback from Jacob Nash",
+                    "title_annotation": "",
+                    "slug": "character-concept-art-with-feedback-from-jacob-nash",
+                    "creator_credit": "Weta Workshop",
+                    "credit_line": "<p>Courtesy Goalpost Pictures</p>",
+                    "headline_credit": "",
+                    "thumbnail": {
+                        "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/P180546_G256.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=jRucVEyZ3qKcQctIk9hLC7Ef1aE%3D&Expires=1627009096",
+                        "has_video": false
+                    },
+                    "record_type": "group",
+                    "type": "Film",
+                    "is_on_display": true,
+                    "last_on_display_place": "ACMI: Gallery 1",
+                    "last_on_display_date": "2023-02-09",
+                    "is_context_indigenous": false,
+                    "material_description": "",
+                    "unpublished": false,
+                    "first_production_date": null
+                },
+                {
+                    "id": 100737,
+                    "acmi_id": "180540",
+                    "title": "Cleverman reference images: Dingo",
+                    "title_annotation": "Facsimile",
+                    "slug": "graphic-reference-image-dingo",
+                    "creator_credit": "",
+                    "credit_line": "",
+                    "headline_credit": "2008",
+                    "thumbnail": {
+                        "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/P180540_G250.JPG.1200x1200_q85.JPG?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=h1xmk5kd8LJIXX%2FRORjwO9HZmrA%3D&Expires=1627009096",
+                        "has_video": false
+                    },
+                    "record_type": "work",
+                    "type": "Object",
+                    "is_on_display": true,
+                    "last_on_display_place": "ACMI: Gallery 1",
+                    "last_on_display_date": "2023-02-09",
+                    "is_context_indigenous": false,
+                    "material_description": "Graphic",
+                    "unpublished": false,
+                    "first_production_date": "2008-01-01T11:00:00+11:00"
+                },
+                {
+                    "id": 112102,
+                    "acmi_id": "183547",
+                    "title": "Hair pieces used during filming",
+                    "title_annotation": "",
+                    "slug": "hair-pieces-used-during-filming",
+                    "creator_credit": "Weta Workshop",
+                    "credit_line": "",
+                    "headline_credit": "",
+                    "thumbnail": {
+                        "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN176446_Cleverman_BoondeeHairSample1.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=27D8jN0omxHsi61pOqUtSf3t49A%3D&Expires=1627009096",
+                        "has_video": false
+                    },
+                    "record_type": "group",
+                    "type": "Film",
+                    "is_on_display": true,
+                    "last_on_display_place": "ACMI: Gallery 1",
+                    "last_on_display_date": "2023-02-09",
+                    "is_context_indigenous": false,
+                    "material_description": "",
+                    "unpublished": false,
+                    "first_production_date": null
+                },
+                {
+                    "id": 100736,
+                    "acmi_id": "180539",
+                    "title": "Cleverman reference images: Jason Momoa as Khal Drogo in Game of Thrones",
+                    "title_annotation": "Facsimile",
+                    "slug": "graphic-reference-image-khal-drogo",
+                    "creator_credit": "",
+                    "credit_line": "",
+                    "headline_credit": "",
+                    "thumbnail": {
+                        "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/P180539_G249.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=GxeAX%2FvWuwOnSREVygUk76%2Bi0ME%3D&Expires=1627009096",
+                        "has_video": false
+                    },
+                    "record_type": "work",
+                    "type": "Object",
+                    "is_on_display": true,
+                    "last_on_display_place": "ACMI: Gallery 1",
+                    "last_on_display_date": "2023-02-09",
+                    "is_context_indigenous": false,
+                    "material_description": "Graphic",
+                    "unpublished": false,
+                    "first_production_date": null
+                },
+                {
+                    "id": 112117,
+                    "acmi_id": "183548",
+                    "title": "Hair tests",
+                    "title_annotation": "",
+                    "slug": "hair-tests",
+                    "creator_credit": "Weta Workshop",
+                    "credit_line": "<p>Courtesy Goalpost Pictures</p>",
+                    "headline_credit": "",
+                    "thumbnail": {
+                        "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/P180554_G264.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=LxfS9grW37OGw%2B0R59bFUlWZmRk%3D&Expires=1627009096",
+                        "has_video": false
+                    },
+                    "record_type": "group",
+                    "type": "Film",
+                    "is_on_display": true,
+                    "last_on_display_place": "ACMI: Gallery 1",
+                    "last_on_display_date": "2023-02-09",
+                    "is_context_indigenous": false,
+                    "material_description": "",
+                    "unpublished": false,
+                    "first_production_date": null
+                },
+                {
+                    "id": 100735,
+                    "acmi_id": "180538",
+                    "title": "Cleverman reference images: Numbat",
+                    "title_annotation": "Facsimile",
+                    "slug": "graphic-reference-image-numbat",
+                    "creator_credit": "",
+                    "credit_line": "",
+                    "headline_credit": "2010",
+                    "thumbnail": {
+                        "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/P180538_G248.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=3Asw5EzoJj%2BVWKGuZy%2FAu8eyGYo%3D&Expires=1627009096",
+                        "has_video": false
+                    },
+                    "record_type": "work",
+                    "type": "Object",
+                    "is_on_display": true,
+                    "last_on_display_place": "ACMI: Gallery 1",
+                    "last_on_display_date": "2023-02-09",
+                    "is_context_indigenous": false,
+                    "material_description": "Graphic",
+                    "unpublished": false,
+                    "first_production_date": "2010-01-01T11:00:00+11:00"
+                },
+                {
+                    "id": 100733,
+                    "acmi_id": "180536",
+                    "title": "Cleverman reference images: Statue of Yowie near Kilcoy, Queensland",
+                    "title_annotation": "Facsimile",
+                    "slug": "graphic-reference-image-yowie-statue",
+                    "creator_credit": "",
+                    "credit_line": "",
+                    "headline_credit": "Australia, 2005",
+                    "thumbnail": {
+                        "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/P180536_G246.JPG.1200x1200_q85.JPG?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=oEayLBkz4tW7q2LLzx3Gl%2F4P30I%3D&Expires=1627009096",
+                        "has_video": false
+                    },
+                    "record_type": "work",
+                    "type": "Object",
+                    "is_on_display": true,
+                    "last_on_display_place": "ACMI: Gallery 1",
+                    "last_on_display_date": "2023-02-09",
+                    "is_context_indigenous": false,
+                    "material_description": "Graphic",
+                    "unpublished": false,
+                    "first_production_date": "2005-01-01T11:00:00+11:00"
+                }
+            ],
+            "source": {
+                "name": "Vernon",
+                "slug": "vernon"
+            },
+            "source_identifier": "180537",
+            "production_places": [],
+            "production_dates": [
+                {
+                    "date": "2007",
+                    "notes": "",
+                    "to_year": "2007"
+                }
+            ],
+            "labels": [
+                40222
+            ]
+        },
+        {
+            "id": 100733,
+            "acmi_id": "180536",
+            "title": "Cleverman reference images: Statue of Yowie near Kilcoy, Queensland",
+            "title_annotation": "Facsimile",
+            "slug": "graphic-reference-image-yowie-statue",
+            "creator_credit": "",
+            "credit_line": "",
+            "headline_credit": "Australia, 2005",
+            "thumbnail": {
+                "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/P180536_G246.JPG.1200x1200_q85.JPG?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=oEayLBkz4tW7q2LLzx3Gl%2F4P30I%3D&Expires=1627009096",
+                "has_video": false
+            },
+            "record_type": "work",
+            "type": "Object",
+            "is_on_display": true,
+            "last_on_display_place": "ACMI: Gallery 1",
+            "last_on_display_date": "2023-02-09",
+            "is_context_indigenous": false,
+            "material_description": "Graphic",
+            "unpublished": false,
+            "first_production_date": "2005-01-01T11:00:00+11:00",
+            "brief_description": "",
+            "constellations_primary": [],
+            "constellations_other": [],
+            "recommendations": [],
+            "title_for_label": "<p>Statue of Yowie near Kilcoy, Queensland</p>",
+            "creator_credit_for_label": "",
+            "headline_credit_for_label": "<p>Australia, 2005</p>",
+            "description": "",
+            "description_for_label": [],
+            "credit_line_for_label": "",
+            "details": [
+                {
+                    "label": "Curatorial section",
+                    "display_values": [
+                        "The Story of the Moving Image&nbsp;→ Moving Worlds&nbsp;→ 05. Character Design&nbsp;→ MW-05-C01&nbsp;→ MW-05-C01.01"
+                    ]
+                },
+                {
+                    "label": "Measurements",
+                    "display_values": [
+                        "162 x 115mm"
+                    ]
+                },
+                {
+                    "label": "Materials",
+                    "display_values": [
+                        "Graphic"
+                    ]
+                }
+            ],
+            "stats": {
+                "tap_count": 0
+            },
+            "links": [],
+            "creators_primary": [],
+            "creators_other": [
+                {
+                    "id": 1134533,
+                    "name": "Seo75",
+                    "creator_id": 72974,
+                    "role": "photographer",
+                    "role_id": 440,
+                    "is_primary": false
+                }
+            ],
+            "video_links": [],
+            "media_note": null,
+            "images": [
+                {
+                    "id": 13167,
+                    "image_file": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/P180536_G246.JPG?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=JWH0oERwvp3Fs3yE9hTsDs3Rf%2FA%3D&Expires=1627009096",
+                    "image_file_thumbnail": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/P180536_G246.JPG.1200x1200_q85.JPG?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=oEayLBkz4tW7q2LLzx3Gl%2F4P30I%3D&Expires=1627009096",
+                    "image_file_xs": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/P180536_G246.JPG.480x480_q85.JPG?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=y1oi0kQjO78HlN4gLKiXuVfzZRU%3D&Expires=1627009096",
+                    "image_file_s": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/P180536_G246.JPG.960x960_q85.JPG?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=bH22IC6clN%2BsnuIveIvLJHjTKTw%3D&Expires=1627009096",
+                    "image_file_m": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/P180536_G246.JPG.1920x1920_q85.JPG?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=enR3S%2FVoWYl5jdYJkII0daX7J60%3D&Expires=1627009096",
+                    "image_file_l": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/P180536_G246.JPG.3840x3840_q85.JPG?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=uszv0lCrgEIsZxQAlrFSKQuh%2BRc%3D&Expires=1627009096",
+                    "caption": "",
+                    "credit_line": "",
+                    "alt_text": "",
+                    "width": 720,
+                    "height": 960,
+                    "access_level": "View anywhere"
+                }
+            ],
+            "videos": [],
+            "holdings": [],
+            "part_of": null,
+            "parts": [],
+            "part_siblings": [],
+            "group": {
+                "id": 100869,
+                "acmi_id": "182495",
+                "title": "Cleverman character design",
+                "title_annotation": "",
+                "slug": "cleverman-character-design",
+                "creator_credit": "Jacob Nash, Ryan Griffen and Goalpost Pictures",
+                "credit_line": "<p>Courtesy Goalpost Pictures</p>",
+                "headline_credit": "Australia, 2016-2017",
+                "thumbnail": {
+                    "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/P180542_G252.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=myXrp1mmMgBgXcKs0ZefaD9UlaQ%3D&Expires=1627009096",
+                    "has_video": false
+                },
+                "record_type": "group",
+                "type": "Object",
+                "is_on_display": true,
+                "last_on_display_place": "ACMI: Gallery 1",
+                "last_on_display_date": "2023-02-09",
+                "is_context_indigenous": false,
+                "material_description": "",
+                "unpublished": false,
+                "first_production_date": null
+            },
+            "group_works": [],
+            "group_siblings": [
+                {
+                    "id": 112115,
+                    "acmi_id": "183546",
+                    "title": "Early character concept art",
+                    "title_annotation": "",
+                    "slug": "early-character-concept-art",
+                    "creator_credit": "Jacob Nash",
+                    "credit_line": "<p>Courtesy Goalpost Pictures</p>",
+                    "headline_credit": "",
+                    "thumbnail": {
+                        "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/P180542_G252.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=myXrp1mmMgBgXcKs0ZefaD9UlaQ%3D&Expires=1627009096",
+                        "has_video": false
+                    },
+                    "record_type": "group",
+                    "type": "Film",
+                    "is_on_display": true,
+                    "last_on_display_place": "ACMI: Gallery 1",
+                    "last_on_display_date": "2023-02-09",
+                    "is_context_indigenous": false,
+                    "material_description": "",
+                    "unpublished": false,
+                    "first_production_date": null
+                },
+                {
+                    "id": 112116,
+                    "acmi_id": "183545",
+                    "title": "Character concept art with feedback from Jacob Nash",
+                    "title_annotation": "",
+                    "slug": "character-concept-art-with-feedback-from-jacob-nash",
+                    "creator_credit": "Weta Workshop",
+                    "credit_line": "<p>Courtesy Goalpost Pictures</p>",
+                    "headline_credit": "",
+                    "thumbnail": {
+                        "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/P180546_G256.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=jRucVEyZ3qKcQctIk9hLC7Ef1aE%3D&Expires=1627009096",
+                        "has_video": false
+                    },
+                    "record_type": "group",
+                    "type": "Film",
+                    "is_on_display": true,
+                    "last_on_display_place": "ACMI: Gallery 1",
+                    "last_on_display_date": "2023-02-09",
+                    "is_context_indigenous": false,
+                    "material_description": "",
+                    "unpublished": false,
+                    "first_production_date": null
+                },
+                {
+                    "id": 100737,
+                    "acmi_id": "180540",
+                    "title": "Cleverman reference images: Dingo",
+                    "title_annotation": "Facsimile",
+                    "slug": "graphic-reference-image-dingo",
+                    "creator_credit": "",
+                    "credit_line": "",
+                    "headline_credit": "2008",
+                    "thumbnail": {
+                        "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/P180540_G250.JPG.1200x1200_q85.JPG?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=h1xmk5kd8LJIXX%2FRORjwO9HZmrA%3D&Expires=1627009096",
+                        "has_video": false
+                    },
+                    "record_type": "work",
+                    "type": "Object",
+                    "is_on_display": true,
+                    "last_on_display_place": "ACMI: Gallery 1",
+                    "last_on_display_date": "2023-02-09",
+                    "is_context_indigenous": false,
+                    "material_description": "Graphic",
+                    "unpublished": false,
+                    "first_production_date": "2008-01-01T11:00:00+11:00"
+                },
+                {
+                    "id": 112102,
+                    "acmi_id": "183547",
+                    "title": "Hair pieces used during filming",
+                    "title_annotation": "",
+                    "slug": "hair-pieces-used-during-filming",
+                    "creator_credit": "Weta Workshop",
+                    "credit_line": "",
+                    "headline_credit": "",
+                    "thumbnail": {
+                        "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN176446_Cleverman_BoondeeHairSample1.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=27D8jN0omxHsi61pOqUtSf3t49A%3D&Expires=1627009096",
+                        "has_video": false
+                    },
+                    "record_type": "group",
+                    "type": "Film",
+                    "is_on_display": true,
+                    "last_on_display_place": "ACMI: Gallery 1",
+                    "last_on_display_date": "2023-02-09",
+                    "is_context_indigenous": false,
+                    "material_description": "",
+                    "unpublished": false,
+                    "first_production_date": null
+                },
+                {
+                    "id": 100736,
+                    "acmi_id": "180539",
+                    "title": "Cleverman reference images: Jason Momoa as Khal Drogo in Game of Thrones",
+                    "title_annotation": "Facsimile",
+                    "slug": "graphic-reference-image-khal-drogo",
+                    "creator_credit": "",
+                    "credit_line": "",
+                    "headline_credit": "",
+                    "thumbnail": {
+                        "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/P180539_G249.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=GxeAX%2FvWuwOnSREVygUk76%2Bi0ME%3D&Expires=1627009096",
+                        "has_video": false
+                    },
+                    "record_type": "work",
+                    "type": "Object",
+                    "is_on_display": true,
+                    "last_on_display_place": "ACMI: Gallery 1",
+                    "last_on_display_date": "2023-02-09",
+                    "is_context_indigenous": false,
+                    "material_description": "Graphic",
+                    "unpublished": false,
+                    "first_production_date": null
+                },
+                {
+                    "id": 112117,
+                    "acmi_id": "183548",
+                    "title": "Hair tests",
+                    "title_annotation": "",
+                    "slug": "hair-tests",
+                    "creator_credit": "Weta Workshop",
+                    "credit_line": "<p>Courtesy Goalpost Pictures</p>",
+                    "headline_credit": "",
+                    "thumbnail": {
+                        "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/P180554_G264.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=LxfS9grW37OGw%2B0R59bFUlWZmRk%3D&Expires=1627009096",
+                        "has_video": false
+                    },
+                    "record_type": "group",
+                    "type": "Film",
+                    "is_on_display": true,
+                    "last_on_display_place": "ACMI: Gallery 1",
+                    "last_on_display_date": "2023-02-09",
+                    "is_context_indigenous": false,
+                    "material_description": "",
+                    "unpublished": false,
+                    "first_production_date": null
+                },
+                {
+                    "id": 100735,
+                    "acmi_id": "180538",
+                    "title": "Cleverman reference images: Numbat",
+                    "title_annotation": "Facsimile",
+                    "slug": "graphic-reference-image-numbat",
+                    "creator_credit": "",
+                    "credit_line": "",
+                    "headline_credit": "2010",
+                    "thumbnail": {
+                        "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/P180538_G248.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=3Asw5EzoJj%2BVWKGuZy%2FAu8eyGYo%3D&Expires=1627009096",
+                        "has_video": false
+                    },
+                    "record_type": "work",
+                    "type": "Object",
+                    "is_on_display": true,
+                    "last_on_display_place": "ACMI: Gallery 1",
+                    "last_on_display_date": "2023-02-09",
+                    "is_context_indigenous": false,
+                    "material_description": "Graphic",
+                    "unpublished": false,
+                    "first_production_date": "2010-01-01T11:00:00+11:00"
+                },
+                {
+                    "id": 100734,
+                    "acmi_id": "180537",
+                    "title": "Cleverman reference images: Punks at Gotik Treffen festival",
+                    "title_annotation": "Facsimile",
+                    "slug": "graphic-reference-image-two-goths-at-wave-gotik-treffen-2007",
+                    "creator_credit": "",
+                    "credit_line": "",
+                    "headline_credit": "2007",
+                    "thumbnail": {
+                        "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/P180537_G247.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=XW5OZo8jXcqUIQE2hwVlQFNjORo%3D&Expires=1627009096",
+                        "has_video": false
+                    },
+                    "record_type": "work",
+                    "type": "Object",
+                    "is_on_display": true,
+                    "last_on_display_place": "ACMI: Gallery 1",
+                    "last_on_display_date": "2023-02-09",
+                    "is_context_indigenous": false,
+                    "material_description": "Graphic",
+                    "unpublished": false,
+                    "first_production_date": "2007-01-01T11:00:00+11:00"
+                }
+            ],
+            "source": {
+                "name": "Vernon",
+                "slug": "vernon"
+            },
+            "source_identifier": "180536",
+            "production_places": [
+                {
+                    "id": 3,
+                    "name": "Australia",
+                    "slug": "australia"
+                }
+            ],
+            "production_dates": [
+                {
+                    "date": "2005",
+                    "notes": "",
+                    "to_year": "2005"
+                }
+            ],
+            "labels": [
+                40221
+            ]
+        },
+        {
+            "id": 100697,
+            "acmi_id": "180500",
+            "title": "Hollow Knight dressed version of a room",
+            "title_annotation": "Facsimile",
+            "slug": "graphic-dressed-version-of-room",
+            "creator_credit": "",
+            "credit_line": "<p>Courtesy Team Cherry</p>",
+            "headline_credit": "Australia",
+            "thumbnail": {
+                "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/P180500_G210.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=2kmxgblp9N0Yb%2Fcp0ZLiz5BM7b0%3D&Expires=1627009096",
+                "has_video": false
+            },
+            "record_type": "work",
+            "type": "Object",
+            "is_on_display": true,
+            "last_on_display_place": "ACMI: Gallery 1",
+            "last_on_display_date": "2023-02-09",
+            "is_context_indigenous": false,
+            "material_description": "Graphic",
+            "unpublished": false,
+            "first_production_date": null,
+            "brief_description": "",
+            "constellations_primary": [],
+            "constellations_other": [],
+            "recommendations": [],
+            "title_for_label": "<p>Early and finished versions of locations in Hallownest</p>",
+            "creator_credit_for_label": "",
+            "headline_credit_for_label": "<p>Australia</p>",
+            "description": "",
+            "description_for_label": [],
+            "credit_line_for_label": "<p>Courtesy Team Cherry</p>",
+            "details": [
+                {
+                    "label": "Curatorial section",
+                    "display_values": [
+                        "The Story of the Moving Image&nbsp;→ Moving Worlds&nbsp;→ 03. Production Design&nbsp;→ MW-03-C02&nbsp;→ MW-03-C02.01"
+                    ]
+                },
+                {
+                    "label": "Measurements",
+                    "display_values": [
+                        "120 x 300mm"
+                    ]
+                },
+                {
+                    "label": "Materials",
+                    "display_values": [
+                        "Graphic"
+                    ]
+                }
+            ],
+            "stats": {
+                "tap_count": 0
+            },
+            "links": [],
+            "creators_primary": [],
+            "creators_other": [
+                {
+                    "id": 1134532,
+                    "name": "Team Cherry",
+                    "creator_id": 72009,
+                    "role": "lender",
+                    "role_id": 626,
+                    "is_primary": false
+                }
+            ],
+            "video_links": [],
+            "media_note": null,
+            "images": [
+                {
+                    "id": 13146,
+                    "image_file": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/P180500_G210.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=vPXpxmisp0kSj87s6jt42T1ISZA%3D&Expires=1627009096",
+                    "image_file_thumbnail": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/P180500_G210.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=2kmxgblp9N0Yb%2Fcp0ZLiz5BM7b0%3D&Expires=1627009096",
+                    "image_file_xs": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/P180500_G210.jpg.480x480_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=V9p9TTNiLtOcVg%2BdhS%2BbFyq8nLI%3D&Expires=1627009096",
+                    "image_file_s": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/P180500_G210.jpg.960x960_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=kpbsbOeMk39Kc2SsRhyCGrjc0dM%3D&Expires=1627009096",
+                    "image_file_m": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/P180500_G210.jpg.1920x1920_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=IKY7xkws0KX%2FfJ1qSR%2FUHCOhVRY%3D&Expires=1627009096",
+                    "image_file_l": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/P180500_G210.jpg.3840x3840_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=y9kB2X6ehzD0qkCmDaRU77hMaCQ%3D&Expires=1627009096",
+                    "caption": "",
+                    "credit_line": "",
+                    "alt_text": "",
+                    "width": 3690,
+                    "height": 1469,
+                    "access_level": "View anywhere"
+                }
+            ],
+            "videos": [],
+            "holdings": [],
+            "part_of": null,
+            "parts": [],
+            "part_siblings": [],
+            "group": {
+                "id": 112218,
+                "acmi_id": "183571",
+                "title": "Early and finished versions of locations in Hallownest",
+                "title_annotation": "",
+                "slug": "early-and-finished-versions-of-locations-in-hallownest",
+                "creator_credit": "",
+                "credit_line": "<p>Courtesy Team Cherry</p>",
+                "headline_credit": "",
+                "thumbnail": {
+                    "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/P180498_G208.png.1200x1200_q85.png?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=eybYm0VQgvLlVjuOjGUkIee91HQ%3D&Expires=1627009096",
+                    "has_video": false
+                },
+                "record_type": "group",
+                "type": "Film",
+                "is_on_display": true,
+                "last_on_display_place": "ACMI: Gallery 1",
+                "last_on_display_date": "2023-02-09",
+                "is_context_indigenous": false,
+                "material_description": "",
+                "unpublished": false,
+                "first_production_date": null
+            },
+            "group_works": [],
+            "group_siblings": [
+                {
+                    "id": 100695,
+                    "acmi_id": "180498",
+                    "title": "Hollow Knight block/tile version of a room",
+                    "title_annotation": "Facsimile",
+                    "slug": "graphic-blocktile-version-of-room",
+                    "creator_credit": "",
+                    "credit_line": "<p>Courtesy Team Cherry</p>",
+                    "headline_credit": "Australia",
+                    "thumbnail": {
+                        "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/P180498_G208.png.1200x1200_q85.png?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=eybYm0VQgvLlVjuOjGUkIee91HQ%3D&Expires=1627009096",
+                        "has_video": false
+                    },
+                    "record_type": "work",
+                    "type": "Object",
+                    "is_on_display": true,
+                    "last_on_display_place": "ACMI: Gallery 1",
+                    "last_on_display_date": "2023-02-09",
+                    "is_context_indigenous": false,
+                    "material_description": "Graphic",
+                    "unpublished": false,
+                    "first_production_date": null
+                },
+                {
+                    "id": 100796,
+                    "acmi_id": "180600",
+                    "title": "Hollow Knight Grimm Tent image",
+                    "title_annotation": "Facsimile",
+                    "slug": "graphic-image-of-finished-game-grimm-tent",
+                    "creator_credit": "Team Cherry",
+                    "credit_line": "<p>Courtesy Team Cherry</p>",
+                    "headline_credit": "Australia",
+                    "thumbnail": {
+                        "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/P180600_G397.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=eNzL631XwvjKb71accPAZpBs0Tg%3D&Expires=1627009096",
+                        "has_video": false
+                    },
+                    "record_type": "work",
+                    "type": "Object",
+                    "is_on_display": true,
+                    "last_on_display_place": "ACMI: Gallery 1",
+                    "last_on_display_date": "2023-02-09",
+                    "is_context_indigenous": false,
+                    "material_description": "Graphic",
+                    "unpublished": false,
+                    "first_production_date": null
+                },
+                {
+                    "id": 100797,
+                    "acmi_id": "180601",
+                    "title": "Hollow Knight Lake of Unn image",
+                    "title_annotation": "Facsimile",
+                    "slug": "graphic-image-of-finished-game-lake-of-unn",
+                    "creator_credit": "Team Cherry",
+                    "credit_line": "<p>Courtesy Team Cherry</p>",
+                    "headline_credit": "Australia",
+                    "thumbnail": {
+                        "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/P180601_G398.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=5fO%2BR%2BX7n3BGGe3ToZaitjTVJTY%3D&Expires=1627009096",
+                        "has_video": false
+                    },
+                    "record_type": "work",
+                    "type": "Object",
+                    "is_on_display": true,
+                    "last_on_display_place": "ACMI: Gallery 1",
+                    "last_on_display_date": "2023-02-09",
+                    "is_context_indigenous": false,
+                    "material_description": "Graphic",
+                    "unpublished": false,
+                    "first_production_date": null
+                },
+                {
+                    "id": 100799,
+                    "acmi_id": "180603",
+                    "title": "Hollow Knight Mines image",
+                    "title_annotation": "Facsimile",
+                    "slug": "graphic-image-of-finished-game-mines",
+                    "creator_credit": "Team Cherry",
+                    "credit_line": "<p>Courtesy Team Cherry</p>",
+                    "headline_credit": "Australia",
+                    "thumbnail": {
+                        "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/P180603_G400.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=Bxlk78bYogIosMeGgm3Os6%2B7U5s%3D&Expires=1627009096",
+                        "has_video": false
+                    },
+                    "record_type": "work",
+                    "type": "Object",
+                    "is_on_display": true,
+                    "last_on_display_place": "ACMI: Gallery 1",
+                    "last_on_display_date": "2023-02-09",
+                    "is_context_indigenous": false,
+                    "material_description": "Graphic",
+                    "unpublished": false,
+                    "first_production_date": null
+                },
+                {
+                    "id": 100798,
+                    "acmi_id": "180602",
+                    "title": "Hollow Knight Paintmaster image",
+                    "title_annotation": "Facsimile",
+                    "slug": "graphic-image-of-finished-game-paintmaster",
+                    "creator_credit": "Team Cherry",
+                    "credit_line": "<p>Courtesy Team Cherry</p>",
+                    "headline_credit": "Australia",
+                    "thumbnail": {
+                        "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/P180602_G399.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=E1ebIEJvs7r1NlLLbPY2Q26sjdo%3D&Expires=1627009096",
+                        "has_video": false
+                    },
+                    "record_type": "work",
+                    "type": "Object",
+                    "is_on_display": true,
+                    "last_on_display_place": "ACMI: Gallery 1",
+                    "last_on_display_date": "2023-02-09",
+                    "is_context_indigenous": false,
+                    "material_description": "Graphic",
+                    "unpublished": false,
+                    "first_production_date": null
+                }
+            ],
+            "source": {
+                "name": "Vernon",
+                "slug": "vernon"
+            },
+            "source_identifier": "180500",
+            "production_places": [
+                {
+                    "id": 3,
+                    "name": "Australia",
+                    "slug": "australia"
+                }
+            ],
+            "production_dates": [],
+            "labels": [
+                40185
+            ]
+        },
+        {
+            "id": 100696,
+            "acmi_id": "180499",
+            "title": "Hollow Knight Unity asset library",
+            "title_annotation": "Facsimile",
+            "slug": "graphic-1-unity-asset-library",
+            "creator_credit": "",
+            "credit_line": "<p>Courtesy Team Cherry</p>",
+            "headline_credit": "Australia",
+            "thumbnail": {
+                "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/P180499_G209.png.1200x1200_q85.png?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=%2BHjoEjQykHJUygzJOrv5dsYyKv0%3D&Expires=1627009096",
+                "has_video": false
+            },
+            "record_type": "work",
+            "type": "Object",
+            "is_on_display": true,
+            "last_on_display_place": "ACMI: Gallery 1",
+            "last_on_display_date": "2023-02-09",
+            "is_context_indigenous": false,
+            "material_description": "Graphic",
+            "unpublished": false,
+            "first_production_date": null,
+            "brief_description": "",
+            "constellations_primary": [],
+            "constellations_other": [],
+            "recommendations": [],
+            "title_for_label": "<p>Screenshot of asset library</p>",
+            "creator_credit_for_label": "",
+            "headline_credit_for_label": "<p>Australia</p>",
+            "description": "",
+            "description_for_label": [],
+            "credit_line_for_label": "<p>Courtesy Team Cherry</p>",
+            "details": [
+                {
+                    "label": "Curatorial section",
+                    "display_values": [
+                        "The Story of the Moving Image&nbsp;→ Moving Worlds&nbsp;→ 03. Production Design&nbsp;→ MW-03-C02&nbsp;→ MW-03-C02.01"
+                    ]
+                },
+                {
+                    "label": "Measurements",
+                    "display_values": [
+                        "215 x 300mm"
+                    ]
+                },
+                {
+                    "label": "Materials",
+                    "display_values": [
+                        "Graphic"
+                    ]
+                }
+            ],
+            "stats": {
+                "tap_count": 0
+            },
+            "links": [],
+            "creators_primary": [],
+            "creators_other": [
+                {
+                    "id": 1134531,
+                    "name": "Team Cherry",
+                    "creator_id": 72009,
+                    "role": "lender",
+                    "role_id": 626,
+                    "is_primary": false
+                }
+            ],
+            "video_links": [],
+            "media_note": null,
+            "images": [
+                {
+                    "id": 13145,
+                    "image_file": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/P180499_G209.png?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=0roWs74abMKW5SV3oCFRND%2By2dw%3D&Expires=1627009096",
+                    "image_file_thumbnail": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/P180499_G209.png.1200x1200_q85.png?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=%2BHjoEjQykHJUygzJOrv5dsYyKv0%3D&Expires=1627009096",
+                    "image_file_xs": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/P180499_G209.png.480x480_q85.png?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=hcp2%2F60vQdddFtpqBCvJKESOc%2BM%3D&Expires=1627009096",
+                    "image_file_s": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/P180499_G209.png.960x960_q85.png?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=EsTSat%2FBOHOR0Dg%2BU%2FJDdQbdGEA%3D&Expires=1627009096",
+                    "image_file_m": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/P180499_G209.png.1920x1920_q85.png?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=zF1C3Q%2FL2tgjQPo%2Bk2ZEVvlDFes%3D&Expires=1627009096",
+                    "image_file_l": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/P180499_G209.png.3840x3840_q85.png?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=RFLwGLsmdVukmZ3HXajvAeSJeGA%3D&Expires=1627009096",
+                    "caption": "",
+                    "credit_line": "",
+                    "alt_text": "",
+                    "width": 2480,
+                    "height": 1877,
+                    "access_level": "View anywhere"
+                }
+            ],
+            "videos": [],
+            "holdings": [],
+            "part_of": null,
+            "parts": [],
+            "part_siblings": [],
+            "group": {
+                "id": 100861,
+                "acmi_id": "182484",
+                "title": "Production design in Hollow Knight",
+                "title_annotation": "",
+                "slug": "production-design-in-hollow-knight",
+                "creator_credit": "Team Cherry",
+                "credit_line": "<p>Courtesy Team Cherry</p>",
+                "headline_credit": "Australia, 2017",
+                "thumbnail": {
+                    "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN179053_HollowKnight_world_map_A3_resaved_2.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=L%2Fo0b4i8HRMBFcPg1%2BsX1VUR%2Bb0%3D&Expires=1627009096",
+                    "has_video": false
+                },
+                "record_type": "group",
+                "type": "Object",
+                "is_on_display": true,
+                "last_on_display_place": "ACMI: Gallery 1",
+                "last_on_display_date": "2023-02-09",
+                "is_context_indigenous": false,
+                "material_description": "",
+                "unpublished": false,
+                "first_production_date": "2017-01-01T11:00:00+11:00"
+            },
+            "group_works": [],
+            "group_siblings": [
+                {
+                    "id": 112216,
+                    "acmi_id": "183569",
+                    "title": "Development maps of Hallownest",
+                    "title_annotation": "",
+                    "slug": "development-maps-of-hallownest",
+                    "creator_credit": "",
+                    "credit_line": "<p>Courtesy Team Cherry</p>",
+                    "headline_credit": "",
+                    "thumbnail": {
+                        "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN179053_HollowKnight_world_map_A3_resaved_2.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=L%2Fo0b4i8HRMBFcPg1%2BsX1VUR%2Bb0%3D&Expires=1627009096",
+                        "has_video": false
+                    },
+                    "record_type": "group",
+                    "type": "Film",
+                    "is_on_display": true,
+                    "last_on_display_place": "ACMI: Gallery 1",
+                    "last_on_display_date": "2023-02-09",
+                    "is_context_indigenous": false,
+                    "material_description": "",
+                    "unpublished": false,
+                    "first_production_date": null
+                },
+                {
+                    "id": 112217,
+                    "acmi_id": "183570",
+                    "title": "Development sketchbooks",
+                    "title_annotation": "",
+                    "slug": "development-sketchbooks",
+                    "creator_credit": "Ari Gibson",
+                    "credit_line": "<p>Courtesy Team Cherry</p>",
+                    "headline_credit": "",
+                    "thumbnail": {
+                        "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN179049_RedNotebook_2.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=Piuh0vQzaR7R3KgxrIkBW8wxqEc%3D&Expires=1627009096",
+                        "has_video": false
+                    },
+                    "record_type": "group",
+                    "type": "Film",
+                    "is_on_display": true,
+                    "last_on_display_place": "ACMI: Gallery 1",
+                    "last_on_display_date": "2023-02-09",
+                    "is_context_indigenous": false,
+                    "material_description": "",
+                    "unpublished": false,
+                    "first_production_date": null
+                },
+                {
+                    "id": 112218,
+                    "acmi_id": "183571",
+                    "title": "Early and finished versions of locations in Hallownest",
+                    "title_annotation": "",
+                    "slug": "early-and-finished-versions-of-locations-in-hallownest",
+                    "creator_credit": "",
+                    "credit_line": "<p>Courtesy Team Cherry</p>",
+                    "headline_credit": "",
+                    "thumbnail": {
+                        "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/P180498_G208.png.1200x1200_q85.png?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=eybYm0VQgvLlVjuOjGUkIee91HQ%3D&Expires=1627009096",
+                        "has_video": false
+                    },
+                    "record_type": "group",
+                    "type": "Film",
+                    "is_on_display": true,
+                    "last_on_display_place": "ACMI: Gallery 1",
+                    "last_on_display_date": "2023-02-09",
+                    "is_context_indigenous": false,
+                    "material_description": "",
+                    "unpublished": false,
+                    "first_production_date": null
+                },
+                {
+                    "id": 107645,
+                    "acmi_id": "182671",
+                    "title": "Hollow Knight footage",
+                    "title_annotation": "",
+                    "slug": "hollow-knight-footage",
+                    "creator_credit": "Team Cherry",
+                    "credit_line": "<p>Courtesy Team Cherry</p>",
+                    "headline_credit": "Australia",
+                    "thumbnail": null,
+                    "record_type": "work",
+                    "type": "Film",
+                    "is_on_display": true,
+                    "last_on_display_place": "ACMI: Gallery 1",
+                    "last_on_display_date": "2023-02-09",
+                    "is_context_indigenous": false,
+                    "material_description": "",
+                    "unpublished": false,
+                    "first_production_date": null
+                }
+            ],
+            "source": {
+                "name": "Vernon",
+                "slug": "vernon"
+            },
+            "source_identifier": "180499",
+            "production_places": [
+                {
+                    "id": 3,
+                    "name": "Australia",
+                    "slug": "australia"
+                }
+            ],
+            "production_dates": [],
+            "labels": [
+                40184
+            ]
+        },
+        {
+            "id": 100695,
+            "acmi_id": "180498",
+            "title": "Hollow Knight block/tile version of a room",
+            "title_annotation": "Facsimile",
+            "slug": "graphic-blocktile-version-of-room",
+            "creator_credit": "",
+            "credit_line": "<p>Courtesy Team Cherry</p>",
+            "headline_credit": "Australia",
+            "thumbnail": {
+                "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/P180498_G208.png.1200x1200_q85.png?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=eybYm0VQgvLlVjuOjGUkIee91HQ%3D&Expires=1627009096",
+                "has_video": false
+            },
+            "record_type": "work",
+            "type": "Object",
+            "is_on_display": true,
+            "last_on_display_place": "ACMI: Gallery 1",
+            "last_on_display_date": "2023-02-09",
+            "is_context_indigenous": false,
+            "material_description": "Graphic",
+            "unpublished": false,
+            "first_production_date": null,
+            "brief_description": "",
+            "constellations_primary": [],
+            "constellations_other": [],
+            "recommendations": [],
+            "title_for_label": "<p>Early and finished versions of locations in Hallownest</p>",
+            "creator_credit_for_label": "",
+            "headline_credit_for_label": "<p>Australia</p>",
+            "description": "",
+            "description_for_label": [],
+            "credit_line_for_label": "<p>Courtesy Team Cherry</p>",
+            "details": [
+                {
+                    "label": "Curatorial section",
+                    "display_values": [
+                        "The Story of the Moving Image&nbsp;→ Moving Worlds&nbsp;→ 03. Production Design&nbsp;→ MW-03-C02&nbsp;→ MW-03-C02.01"
+                    ]
+                },
+                {
+                    "label": "Measurements",
+                    "display_values": [
+                        "120 x 300mm"
+                    ]
+                },
+                {
+                    "label": "Materials",
+                    "display_values": [
+                        "Graphic"
+                    ]
+                }
+            ],
+            "stats": {
+                "tap_count": 0
+            },
+            "links": [],
+            "creators_primary": [],
+            "creators_other": [
+                {
+                    "id": 1134530,
+                    "name": "Team Cherry",
+                    "creator_id": 72009,
+                    "role": "lender",
+                    "role_id": 626,
+                    "is_primary": false
+                }
+            ],
+            "video_links": [],
+            "media_note": null,
+            "images": [
+                {
+                    "id": 13144,
+                    "image_file": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/P180498_G208.png?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=SqLrLMmKDURcmchaKA9Aa%2Blr6jE%3D&Expires=1627009096",
+                    "image_file_thumbnail": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/P180498_G208.png.1200x1200_q85.png?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=eybYm0VQgvLlVjuOjGUkIee91HQ%3D&Expires=1627009096",
+                    "image_file_xs": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/P180498_G208.png.480x480_q85.png?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=LzUQuzQvq2K5bbEiwndMsbHhlI0%3D&Expires=1627009096",
+                    "image_file_s": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/P180498_G208.png.960x960_q85.png?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=jtoPdLzHIxtBEvXvUgJdrYFPRxs%3D&Expires=1627009096",
+                    "image_file_m": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/P180498_G208.png.1920x1920_q85.png?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=PugTNkiWrsocZKl9Kj%2Fv0Kxs%2BZ4%3D&Expires=1627009096",
+                    "image_file_l": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/P180498_G208.png.3840x3840_q85.png?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=jwXtrjLoWecaGz56zMivxMZv4pI%3D&Expires=1627009096",
+                    "caption": "",
+                    "credit_line": "",
+                    "alt_text": "",
+                    "width": 3690,
+                    "height": 1469,
+                    "access_level": "View anywhere"
+                }
+            ],
+            "videos": [],
+            "holdings": [],
+            "part_of": null,
+            "parts": [],
+            "part_siblings": [],
+            "group": {
+                "id": 112218,
+                "acmi_id": "183571",
+                "title": "Early and finished versions of locations in Hallownest",
+                "title_annotation": "",
+                "slug": "early-and-finished-versions-of-locations-in-hallownest",
+                "creator_credit": "",
+                "credit_line": "<p>Courtesy Team Cherry</p>",
+                "headline_credit": "",
+                "thumbnail": {
+                    "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/P180498_G208.png.1200x1200_q85.png?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=eybYm0VQgvLlVjuOjGUkIee91HQ%3D&Expires=1627009096",
+                    "has_video": false
+                },
+                "record_type": "group",
+                "type": "Film",
+                "is_on_display": true,
+                "last_on_display_place": "ACMI: Gallery 1",
+                "last_on_display_date": "2023-02-09",
+                "is_context_indigenous": false,
+                "material_description": "",
+                "unpublished": false,
+                "first_production_date": null
+            },
+            "group_works": [],
+            "group_siblings": [
+                {
+                    "id": 100697,
+                    "acmi_id": "180500",
+                    "title": "Hollow Knight dressed version of a room",
+                    "title_annotation": "Facsimile",
+                    "slug": "graphic-dressed-version-of-room",
+                    "creator_credit": "",
+                    "credit_line": "<p>Courtesy Team Cherry</p>",
+                    "headline_credit": "Australia",
+                    "thumbnail": {
+                        "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/P180500_G210.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=2kmxgblp9N0Yb%2Fcp0ZLiz5BM7b0%3D&Expires=1627009096",
+                        "has_video": false
+                    },
+                    "record_type": "work",
+                    "type": "Object",
+                    "is_on_display": true,
+                    "last_on_display_place": "ACMI: Gallery 1",
+                    "last_on_display_date": "2023-02-09",
+                    "is_context_indigenous": false,
+                    "material_description": "Graphic",
+                    "unpublished": false,
+                    "first_production_date": null
+                },
+                {
+                    "id": 100796,
+                    "acmi_id": "180600",
+                    "title": "Hollow Knight Grimm Tent image",
+                    "title_annotation": "Facsimile",
+                    "slug": "graphic-image-of-finished-game-grimm-tent",
+                    "creator_credit": "Team Cherry",
+                    "credit_line": "<p>Courtesy Team Cherry</p>",
+                    "headline_credit": "Australia",
+                    "thumbnail": {
+                        "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/P180600_G397.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=eNzL631XwvjKb71accPAZpBs0Tg%3D&Expires=1627009096",
+                        "has_video": false
+                    },
+                    "record_type": "work",
+                    "type": "Object",
+                    "is_on_display": true,
+                    "last_on_display_place": "ACMI: Gallery 1",
+                    "last_on_display_date": "2023-02-09",
+                    "is_context_indigenous": false,
+                    "material_description": "Graphic",
+                    "unpublished": false,
+                    "first_production_date": null
+                },
+                {
+                    "id": 100797,
+                    "acmi_id": "180601",
+                    "title": "Hollow Knight Lake of Unn image",
+                    "title_annotation": "Facsimile",
+                    "slug": "graphic-image-of-finished-game-lake-of-unn",
+                    "creator_credit": "Team Cherry",
+                    "credit_line": "<p>Courtesy Team Cherry</p>",
+                    "headline_credit": "Australia",
+                    "thumbnail": {
+                        "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/P180601_G398.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=5fO%2BR%2BX7n3BGGe3ToZaitjTVJTY%3D&Expires=1627009096",
+                        "has_video": false
+                    },
+                    "record_type": "work",
+                    "type": "Object",
+                    "is_on_display": true,
+                    "last_on_display_place": "ACMI: Gallery 1",
+                    "last_on_display_date": "2023-02-09",
+                    "is_context_indigenous": false,
+                    "material_description": "Graphic",
+                    "unpublished": false,
+                    "first_production_date": null
+                },
+                {
+                    "id": 100799,
+                    "acmi_id": "180603",
+                    "title": "Hollow Knight Mines image",
+                    "title_annotation": "Facsimile",
+                    "slug": "graphic-image-of-finished-game-mines",
+                    "creator_credit": "Team Cherry",
+                    "credit_line": "<p>Courtesy Team Cherry</p>",
+                    "headline_credit": "Australia",
+                    "thumbnail": {
+                        "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/P180603_G400.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=Bxlk78bYogIosMeGgm3Os6%2B7U5s%3D&Expires=1627009096",
+                        "has_video": false
+                    },
+                    "record_type": "work",
+                    "type": "Object",
+                    "is_on_display": true,
+                    "last_on_display_place": "ACMI: Gallery 1",
+                    "last_on_display_date": "2023-02-09",
+                    "is_context_indigenous": false,
+                    "material_description": "Graphic",
+                    "unpublished": false,
+                    "first_production_date": null
+                },
+                {
+                    "id": 100798,
+                    "acmi_id": "180602",
+                    "title": "Hollow Knight Paintmaster image",
+                    "title_annotation": "Facsimile",
+                    "slug": "graphic-image-of-finished-game-paintmaster",
+                    "creator_credit": "Team Cherry",
+                    "credit_line": "<p>Courtesy Team Cherry</p>",
+                    "headline_credit": "Australia",
+                    "thumbnail": {
+                        "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/P180602_G399.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=E1ebIEJvs7r1NlLLbPY2Q26sjdo%3D&Expires=1627009096",
+                        "has_video": false
+                    },
+                    "record_type": "work",
+                    "type": "Object",
+                    "is_on_display": true,
+                    "last_on_display_place": "ACMI: Gallery 1",
+                    "last_on_display_date": "2023-02-09",
+                    "is_context_indigenous": false,
+                    "material_description": "Graphic",
+                    "unpublished": false,
+                    "first_production_date": null
+                }
+            ],
+            "source": {
+                "name": "Vernon",
+                "slug": "vernon"
+            },
+            "source_identifier": "180498",
+            "production_places": [
+                {
+                    "id": 3,
+                    "name": "Australia",
+                    "slug": "australia"
+                }
+            ],
+            "production_dates": [],
+            "labels": [
+                40183
+            ]
+        },
+        {
+            "id": 100694,
+            "acmi_id": "180497",
+            "title": "Sweet Country costume sketch for Harry Marsh",
+            "title_annotation": "Facsimile",
+            "slug": "graphic-costume-sketch-harry",
+            "creator_credit": "Heather Wallace",
+            "credit_line": "<p>Courtesy Bunya Productions Pty Ltd</p>",
+            "headline_credit": "Australia, 2018",
+            "thumbnail": {
+                "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/P180497_G206.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=Ea0%2Fw3g9mAdKyxwopKyXrHmfikc%3D&Expires=1627009096",
+                "has_video": false
+            },
+            "record_type": "work",
+            "type": "Object",
+            "is_on_display": true,
+            "last_on_display_place": "ACMI: Gallery 1",
+            "last_on_display_date": "2023-02-09",
+            "is_context_indigenous": false,
+            "material_description": "Graphic",
+            "unpublished": false,
+            "first_production_date": "2018-01-01T11:00:00+11:00",
+            "brief_description": "",
+            "constellations_primary": [],
+            "constellations_other": [],
+            "recommendations": [],
+            "title_for_label": "<p>Costume sketch for Harry Marsh</p>",
+            "creator_credit_for_label": "<p>Heather Wallace</p>",
+            "headline_credit_for_label": "<p>Australia, 2018</p>",
+            "description": "",
+            "description_for_label": [],
+            "credit_line_for_label": "<p>Courtesy Bunya Productions Pty Ltd</p>",
+            "details": [
+                {
+                    "label": "Curatorial section",
+                    "display_values": [
+                        "The Story of the Moving Image&nbsp;→ Moving Worlds&nbsp;→ 03. Production Design&nbsp;→ MW-03-C01&nbsp;→ MW-03-C01.02"
+                    ]
+                },
+                {
+                    "label": "Measurements",
+                    "display_values": [
+                        "210 x 140mm"
+                    ]
+                },
+                {
+                    "label": "Materials",
+                    "display_values": [
+                        "Graphic"
+                    ]
+                }
+            ],
+            "stats": {
+                "tap_count": 0
+            },
+            "links": [],
+            "creators_primary": [
+                {
+                    "id": 1134529,
+                    "name": "Heather Wallace",
+                    "creator_id": 51101,
+                    "role": "costume designer",
+                    "role_id": 961,
+                    "is_primary": true
+                }
+            ],
+            "creators_other": [],
+            "video_links": [],
+            "media_note": null,
+            "images": [
+                {
+                    "id": 13143,
+                    "image_file": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/P180497_G206.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=E%2B%2B4ywZTu0miOeqBgtuzl8130xA%3D&Expires=1627009096",
+                    "image_file_thumbnail": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/P180497_G206.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=Ea0%2Fw3g9mAdKyxwopKyXrHmfikc%3D&Expires=1627009096",
+                    "image_file_xs": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/P180497_G206.jpg.480x480_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=ZPmCnsoYCmxbjvvXzLCtoqD3sls%3D&Expires=1627009096",
+                    "image_file_s": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/P180497_G206.jpg.960x960_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=xSXtjTq0HwjlkQT5%2F1XEwTJXje4%3D&Expires=1627009096",
+                    "image_file_m": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/P180497_G206.jpg.1920x1920_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=58aekHlA9Ghe7oWnjRB0VNaHbew%3D&Expires=1627009096",
+                    "image_file_l": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/P180497_G206.jpg.3840x3840_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=grNTqMlBpgv3%2BcK3psRM6s27%2FUs%3D&Expires=1627009096",
+                    "caption": "",
+                    "credit_line": "",
+                    "alt_text": "",
+                    "width": 2477,
+                    "height": 3509,
+                    "access_level": "View anywhere"
+                }
+            ],
+            "videos": [],
+            "holdings": [],
+            "part_of": null,
+            "parts": [],
+            "part_siblings": [],
+            "group": {
+                "id": 100860,
+                "acmi_id": "182483",
+                "title": "Set design in Sweet Country",
+                "title_annotation": "",
+                "slug": "set-design-in-sweet-country",
+                "creator_credit": "David Tranter and Warwick Thornton",
+                "credit_line": "<p>Courtesy Bunya Productions Pty Ltd</p>",
+                "headline_credit": "Australia, 2018",
+                "thumbnail": {
+                    "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/P180487_G196.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=2IE5sWE9b%2FYX%2B6rMAcZO5kBMyAs%3D&Expires=1627009096",
+                    "has_video": false
+                },
+                "record_type": "group",
+                "type": "Object",
+                "is_on_display": true,
+                "last_on_display_place": "ACMI: Gallery 1",
+                "last_on_display_date": "2023-02-09",
+                "is_context_indigenous": true,
+                "material_description": "",
+                "unpublished": false,
+                "first_production_date": "2018-01-01T11:00:00+11:00"
+            },
+            "group_works": [],
+            "group_siblings": [
+                {
+                    "id": 114479,
+                    "acmi_id": "183575",
+                    "title": "Hamilton Morris, Natassia Gorey-Furber and Warwick Thornton during production",
+                    "title_annotation": "",
+                    "slug": "hamilton-morris-natassia-gorey-furber-and-warwick-thornton-during-production",
+                    "creator_credit": "Mark Rogers",
+                    "credit_line": "<p>Courtesy Bunya Productions Pty Ltd</p>",
+                    "headline_credit": "",
+                    "thumbnail": {
+                        "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/P180487_G196.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=2IE5sWE9b%2FYX%2B6rMAcZO5kBMyAs%3D&Expires=1627009096",
+                        "has_video": false
+                    },
+                    "record_type": "group",
+                    "type": "Film",
+                    "is_on_display": true,
+                    "last_on_display_place": "ACMI: Gallery 1",
+                    "last_on_display_date": "2023-02-09",
+                    "is_context_indigenous": false,
+                    "material_description": "",
+                    "unpublished": false,
+                    "first_production_date": null
+                },
+                {
+                    "id": 100687,
+                    "acmi_id": "180490",
+                    "title": "Philomac costume sketch",
+                    "title_annotation": "Facsimile",
+                    "slug": "graphic-costume-sketch-philomac",
+                    "creator_credit": "Heather Wallace",
+                    "credit_line": "<p>Courtesy Bunya Productions Pty Ltd</p>",
+                    "headline_credit": "Australia, 2018",
+                    "thumbnail": {
+                        "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/P180490_G199.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=N3oiTNRxaSd%2Bvmallxl6%2F2Znkd8%3D&Expires=1627009096",
+                        "has_video": false
+                    },
+                    "record_type": "work",
+                    "type": "Object",
+                    "is_on_display": true,
+                    "last_on_display_place": "ACMI: Gallery 1",
+                    "last_on_display_date": "2023-02-09",
+                    "is_context_indigenous": false,
+                    "material_description": "Graphic",
+                    "unpublished": false,
+                    "first_production_date": "2018-01-01T11:00:00+11:00"
+                },
+                {
+                    "id": 112208,
+                    "acmi_id": "183576",
+                    "title": "Plans and colour references for set",
+                    "title_annotation": "",
+                    "slug": "plans-and-colour-references-for-set",
+                    "creator_credit": "Theo Benton and Tony Cronin",
+                    "credit_line": "",
+                    "headline_credit": "",
+                    "thumbnail": {
+                        "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/P180496_G205.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=2TDi2ghye8EjBEU3Ud23moyrSJE%3D&Expires=1627009096",
+                        "has_video": false
+                    },
+                    "record_type": "group",
+                    "type": "Film",
+                    "is_on_display": true,
+                    "last_on_display_place": "ACMI: Gallery 1",
+                    "last_on_display_date": "2023-02-09",
+                    "is_context_indigenous": false,
+                    "material_description": "",
+                    "unpublished": false,
+                    "first_production_date": null
+                },
+                {
+                    "id": 112191,
+                    "acmi_id": "183577",
+                    "title": "Pocket watch, chains, pocket knife",
+                    "title_annotation": "",
+                    "slug": "pocket-watch-chains-pocket-knife",
+                    "creator_credit": "",
+                    "credit_line": "<p>Courtesy Bunya Productions Pty Ltd</p>",
+                    "headline_credit": "",
+                    "thumbnail": {
+                        "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN179583_ArchiesKnifeSweetCountry.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=w56FJS%2BWiWwArAz%2FYzxR0Remuzw%3D&Expires=1627009096",
+                        "has_video": false
+                    },
+                    "record_type": "group",
+                    "type": "Film",
+                    "is_on_display": true,
+                    "last_on_display_place": "ACMI: Gallery 1",
+                    "last_on_display_date": "2023-02-09",
+                    "is_context_indigenous": false,
+                    "material_description": "",
+                    "unpublished": false,
+                    "first_production_date": null
+                },
+                {
+                    "id": 112207,
+                    "acmi_id": "183578",
+                    "title": "Set during contsruction",
+                    "title_annotation": "",
+                    "slug": "set-during-consruction",
+                    "creator_credit": "Theo Benton and Tony Cronin",
+                    "credit_line": "<p>Courtesy Bunya Productions</p>",
+                    "headline_credit": "",
+                    "thumbnail": {
+                        "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/P180494_G203.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=Tbe9PrafNICv7xtqMEAAw65kHXg%3D&Expires=1627009096",
+                        "has_video": false
+                    },
+                    "record_type": "group",
+                    "type": "Film",
+                    "is_on_display": true,
+                    "last_on_display_place": "ACMI: Gallery 1",
+                    "last_on_display_date": "2023-02-09",
+                    "is_context_indigenous": false,
+                    "material_description": "",
+                    "unpublished": false,
+                    "first_production_date": null
+                },
+                {
+                    "id": 112204,
+                    "acmi_id": "183579",
+                    "title": "Storyboards",
+                    "title_annotation": "",
+                    "slug": "storyboards",
+                    "creator_credit": "David Tranter",
+                    "credit_line": "<p>Courtesy Bunja Productions Pty Ltd</p>",
+                    "headline_credit": "",
+                    "thumbnail": null,
+                    "record_type": "group",
+                    "type": "Film",
+                    "is_on_display": true,
+                    "last_on_display_place": "ACMI: Gallery 1",
+                    "last_on_display_date": "2023-02-09",
+                    "is_context_indigenous": false,
+                    "material_description": "",
+                    "unpublished": false,
+                    "first_production_date": null
+                },
+                {
+                    "id": 100555,
+                    "acmi_id": "179581",
+                    "title": "Sweet Country's Harry Marsh shirt and vest costume",
+                    "title_annotation": "",
+                    "slug": "harrys-shirt-and-vest-from-sweet-country-warwick-thornton",
+                    "creator_credit": "Heather Wallace",
+                    "credit_line": "<p>Courtesy Bunya Productions Pty Ltd</p>",
+                    "headline_credit": "Australia, 2018",
+                    "thumbnail": {
+                        "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN179581_SweetCountry_HarrysRedShirt_Front.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=B5wCrKRXksavVJfUHE9g%2B07ZMTg%3D&Expires=1627009096",
+                        "has_video": false
+                    },
+                    "record_type": "work",
+                    "type": "Object",
+                    "is_on_display": true,
+                    "last_on_display_place": "ACMI: Gallery 1",
+                    "last_on_display_date": "2023-02-09",
+                    "is_context_indigenous": false,
+                    "material_description": "Linen, wool, cotton ticking, cotton calico, vintage buttons",
+                    "unpublished": false,
+                    "first_production_date": "2018-01-01T11:00:00+11:00"
+                },
+                {
+                    "id": 100685,
+                    "acmi_id": "180488",
+                    "title": "Sweet Country production photo of Shanika Cole",
+                    "title_annotation": "Facsimile",
+                    "slug": "graphic-photo-of-shanika-cole-as-lucy-p1",
+                    "creator_credit": "",
+                    "credit_line": "<p>Courtesy Bunya Productions Pty Ltd</p>",
+                    "headline_credit": "Australia, 2018",
+                    "thumbnail": {
+                        "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/P180488_G197.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=LYKFwbQtPwGtdX9%2BfDb606%2BZZ5w%3D&Expires=1627009096",
+                        "has_video": false
+                    },
+                    "record_type": "work",
+                    "type": "Object",
+                    "is_on_display": true,
+                    "last_on_display_place": "ACMI: Gallery 1",
+                    "last_on_display_date": "2023-02-09",
+                    "is_context_indigenous": false,
+                    "material_description": "Graphic",
+                    "unpublished": false,
+                    "first_production_date": "2018-01-01T11:00:00+11:00"
+                },
+                {
+                    "id": 100683,
+                    "acmi_id": "180486",
+                    "title": "Tremayne and Trevon Doolan during production of Sweet Country",
+                    "title_annotation": "Facsimile",
+                    "slug": "graphic-photo-of-tremayne-trevor-doonan-as-philomac",
+                    "creator_credit": "",
+                    "credit_line": "<p>Courtesy Bunya Productions Pty Ltd</p>",
+                    "headline_credit": "Australia, 2018",
+                    "thumbnail": {
+                        "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/P180486_G195.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=4neNmbg4nVkakmnDb0%2BcGolsTeY%3D&Expires=1627009096",
+                        "has_video": false
+                    },
+                    "record_type": "work",
+                    "type": "Object",
+                    "is_on_display": true,
+                    "last_on_display_place": "ACMI: Gallery 1",
+                    "last_on_display_date": "2023-02-09",
+                    "is_context_indigenous": false,
+                    "material_description": "Graphic",
+                    "unpublished": false,
+                    "first_production_date": "2018-01-01T11:00:00+11:00"
+                }
+            ],
+            "source": {
+                "name": "Vernon",
+                "slug": "vernon"
+            },
+            "source_identifier": "180497",
+            "production_places": [
+                {
+                    "id": 3,
+                    "name": "Australia",
+                    "slug": "australia"
+                }
+            ],
+            "production_dates": [
+                {
+                    "date": "2018",
+                    "notes": "",
+                    "to_year": "2018"
+                }
+            ],
+            "labels": [
+                40182
+            ]
+        },
+        {
+            "id": 100693,
+            "acmi_id": "180496",
+            "title": "Sweet Country homestead blueprints",
+            "title_annotation": "Facsimile",
+            "slug": "graphic-homestead-blueprints",
+            "creator_credit": "",
+            "credit_line": "<p>Courtesy Bunya Productions Pty Ltd</p>",
+            "headline_credit": "Australia, 2018",
+            "thumbnail": {
+                "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/P180496_G205.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=2TDi2ghye8EjBEU3Ud23moyrSJE%3D&Expires=1627009096",
+                "has_video": false
+            },
+            "record_type": "work",
+            "type": "Object",
+            "is_on_display": true,
+            "last_on_display_place": "ACMI: Gallery 1",
+            "last_on_display_date": "2023-02-09",
+            "is_context_indigenous": false,
+            "material_description": "Graphic",
+            "unpublished": false,
+            "first_production_date": "2018-01-01T11:00:00+11:00",
+            "brief_description": "",
+            "constellations_primary": [],
+            "constellations_other": [],
+            "recommendations": [],
+            "title_for_label": "<p>Plans and colour references for set</p>",
+            "creator_credit_for_label": "",
+            "headline_credit_for_label": "<p>Australia, 2018</p>",
+            "description": "",
+            "description_for_label": [],
+            "credit_line_for_label": "<p>Courtesy Bunya Productions Pty Ltd</p>",
+            "details": [
+                {
+                    "label": "Curatorial section",
+                    "display_values": [
+                        "The Story of the Moving Image&nbsp;→ Moving Worlds&nbsp;→ 03. Production Design&nbsp;→ MW-03-C01&nbsp;→ MW-03-C01.01"
+                    ]
+                },
+                {
+                    "label": "Measurements",
+                    "display_values": [
+                        "252 x 356mm"
+                    ]
+                },
+                {
+                    "label": "Materials",
+                    "display_values": [
+                        "Graphic"
+                    ]
+                }
+            ],
+            "stats": {
+                "tap_count": 0
+            },
+            "links": [],
+            "creators_primary": [],
+            "creators_other": [
+                {
+                    "id": 1134528,
+                    "name": "Mold Design Studio",
+                    "creator_id": 72964,
+                    "role": "designer",
+                    "role_id": 495,
+                    "is_primary": false
+                }
+            ],
+            "video_links": [],
+            "media_note": null,
+            "images": [
+                {
+                    "id": 12640,
+                    "image_file": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/P180496_G205.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=yC06CM4aJFUqGUL9%2BbaDuHHUYdw%3D&Expires=1627009096",
+                    "image_file_thumbnail": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/P180496_G205.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=2TDi2ghye8EjBEU3Ud23moyrSJE%3D&Expires=1627009096",
+                    "image_file_xs": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/P180496_G205.jpg.480x480_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=SilNWSYwnl%2BJjCZ%2F2U7OAyi6j38%3D&Expires=1627009096",
+                    "image_file_s": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/P180496_G205.jpg.960x960_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=h20z7jal7H%2B3p6NeM8bvb5FUC7g%3D&Expires=1627009096",
+                    "image_file_m": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/P180496_G205.jpg.1920x1920_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=zAqzBrIRzEJ5MxvZtDRGFKMMgAY%3D&Expires=1627009096",
+                    "image_file_l": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/P180496_G205.jpg.3840x3840_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=onDd03Z0tkCZ1CVPCZ8tRW5l8pw%3D&Expires=1627009096",
+                    "caption": "",
+                    "credit_line": "",
+                    "alt_text": "",
+                    "width": 4724,
+                    "height": 3337,
+                    "access_level": "View anywhere"
+                }
+            ],
+            "videos": [],
+            "holdings": [],
+            "part_of": null,
+            "parts": [],
+            "part_siblings": [],
+            "group": {
+                "id": 112208,
+                "acmi_id": "183576",
+                "title": "Plans and colour references for set",
+                "title_annotation": "",
+                "slug": "plans-and-colour-references-for-set",
+                "creator_credit": "Theo Benton and Tony Cronin",
+                "credit_line": "",
+                "headline_credit": "",
+                "thumbnail": {
+                    "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/P180496_G205.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=2TDi2ghye8EjBEU3Ud23moyrSJE%3D&Expires=1627009096",
+                    "has_video": false
+                },
+                "record_type": "group",
+                "type": "Film",
+                "is_on_display": true,
+                "last_on_display_place": "ACMI: Gallery 1",
+                "last_on_display_date": "2023-02-09",
+                "is_context_indigenous": false,
+                "material_description": "",
+                "unpublished": false,
+                "first_production_date": null
+            },
+            "group_works": [],
+            "group_siblings": [
+                {
+                    "id": 100692,
+                    "acmi_id": "180495",
+                    "title": "Sweet Country set colour references",
+                    "title_annotation": "Facsimile",
+                    "slug": "graphic-colour-palette",
+                    "creator_credit": "",
+                    "credit_line": "<p>Courtesy Bunya Productions Pty Ltd</p>",
+                    "headline_credit": "Australia, 2018",
+                    "thumbnail": null,
+                    "record_type": "work",
+                    "type": "Object",
+                    "is_on_display": true,
+                    "last_on_display_place": "ACMI: Gallery 1",
+                    "last_on_display_date": "2023-02-09",
+                    "is_context_indigenous": false,
+                    "material_description": "Graphic",
+                    "unpublished": false,
+                    "first_production_date": "2018-01-01T11:00:00+11:00"
+                },
+                {
+                    "id": 100795,
+                    "acmi_id": "180599",
+                    "title": "Sweet Country set design panoramic collage",
+                    "title_annotation": "Facsimile",
+                    "slug": "graphic-set-design-panoramic-collage",
+                    "creator_credit": "",
+                    "credit_line": "<p>Courtesy Bunya Productions Pty Ltd</p>",
+                    "headline_credit": "Australia, 2018",
+                    "thumbnail": {
+                        "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/P180599_G396_.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=QSZBbE6JA5GmmT%2FN2aAX8RkhdWc%3D&Expires=1627009096",
+                        "has_video": false
+                    },
+                    "record_type": "work",
+                    "type": "Object",
+                    "is_on_display": true,
+                    "last_on_display_place": "ACMI: Gallery 1",
+                    "last_on_display_date": "2023-02-09",
+                    "is_context_indigenous": false,
+                    "material_description": "Graphic",
+                    "unpublished": false,
+                    "first_production_date": "2018-01-01T11:00:00+11:00"
+                }
+            ],
+            "source": {
+                "name": "Vernon",
+                "slug": "vernon"
+            },
+            "source_identifier": "180496",
+            "production_places": [
+                {
+                    "id": 3,
+                    "name": "Australia",
+                    "slug": "australia"
+                }
+            ],
+            "production_dates": [
+                {
+                    "date": "2018",
+                    "notes": "",
+                    "to_year": "2018"
+                }
+            ],
+            "labels": [
+                40181
+            ]
+        },
+        {
+            "id": 100692,
+            "acmi_id": "180495",
+            "title": "Sweet Country set colour references",
+            "title_annotation": "Facsimile",
+            "slug": "graphic-colour-palette",
+            "creator_credit": "",
+            "credit_line": "<p>Courtesy Bunya Productions Pty Ltd</p>",
+            "headline_credit": "Australia, 2018",
+            "thumbnail": null,
+            "record_type": "work",
+            "type": "Object",
+            "is_on_display": true,
+            "last_on_display_place": "ACMI: Gallery 1",
+            "last_on_display_date": "2023-02-09",
+            "is_context_indigenous": false,
+            "material_description": "Graphic",
+            "unpublished": false,
+            "first_production_date": "2018-01-01T11:00:00+11:00",
+            "brief_description": "",
+            "constellations_primary": [],
+            "constellations_other": [],
+            "recommendations": [],
+            "title_for_label": "<p>Plans and colour references for set</p>",
+            "creator_credit_for_label": "",
+            "headline_credit_for_label": "<p>Australia, 2018</p>",
+            "description": "",
+            "description_for_label": [],
+            "credit_line_for_label": "<p>Courtesy Bunya Productions Pty Ltd</p>",
+            "details": [
+                {
+                    "label": "Curatorial section",
+                    "display_values": [
+                        "The Story of the Moving Image&nbsp;→ Moving Worlds&nbsp;→ 03. Production Design&nbsp;→ MW-03-C01&nbsp;→ MW-03-C01.01"
+                    ]
+                },
+                {
+                    "label": "Measurements",
+                    "display_values": [
+                        "148 x 210mm"
+                    ]
+                },
+                {
+                    "label": "Materials",
+                    "display_values": [
+                        "Graphic"
+                    ]
+                }
+            ],
+            "stats": {
+                "tap_count": 0
+            },
+            "links": [],
+            "creators_primary": [],
+            "creators_other": [
+                {
+                    "id": 1134527,
+                    "name": "Theo Benton",
+                    "creator_id": 72963,
+                    "role": "photographer",
+                    "role_id": 440,
+                    "is_primary": false
+                },
+                {
+                    "id": 1134526,
+                    "name": "Tony Cronin",
+                    "creator_id": 51103,
+                    "role": "photographer",
+                    "role_id": 440,
+                    "is_primary": false
+                }
+            ],
+            "video_links": [],
+            "media_note": "Sorry, we aren't able to make images or video for this item available to the public online.",
+            "images": [],
+            "videos": [],
+            "holdings": [],
+            "part_of": null,
+            "parts": [],
+            "part_siblings": [],
+            "group": {
+                "id": 112208,
+                "acmi_id": "183576",
+                "title": "Plans and colour references for set",
+                "title_annotation": "",
+                "slug": "plans-and-colour-references-for-set",
+                "creator_credit": "Theo Benton and Tony Cronin",
+                "credit_line": "",
+                "headline_credit": "",
+                "thumbnail": {
+                    "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/P180496_G205.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=2TDi2ghye8EjBEU3Ud23moyrSJE%3D&Expires=1627009096",
+                    "has_video": false
+                },
+                "record_type": "group",
+                "type": "Film",
+                "is_on_display": true,
+                "last_on_display_place": "ACMI: Gallery 1",
+                "last_on_display_date": "2023-02-09",
+                "is_context_indigenous": false,
+                "material_description": "",
+                "unpublished": false,
+                "first_production_date": null
+            },
+            "group_works": [],
+            "group_siblings": [
+                {
+                    "id": 100693,
+                    "acmi_id": "180496",
+                    "title": "Sweet Country homestead blueprints",
+                    "title_annotation": "Facsimile",
+                    "slug": "graphic-homestead-blueprints",
+                    "creator_credit": "",
+                    "credit_line": "<p>Courtesy Bunya Productions Pty Ltd</p>",
+                    "headline_credit": "Australia, 2018",
+                    "thumbnail": {
+                        "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/P180496_G205.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=2TDi2ghye8EjBEU3Ud23moyrSJE%3D&Expires=1627009096",
+                        "has_video": false
+                    },
+                    "record_type": "work",
+                    "type": "Object",
+                    "is_on_display": true,
+                    "last_on_display_place": "ACMI: Gallery 1",
+                    "last_on_display_date": "2023-02-09",
+                    "is_context_indigenous": false,
+                    "material_description": "Graphic",
+                    "unpublished": false,
+                    "first_production_date": "2018-01-01T11:00:00+11:00"
+                },
+                {
+                    "id": 100795,
+                    "acmi_id": "180599",
+                    "title": "Sweet Country set design panoramic collage",
+                    "title_annotation": "Facsimile",
+                    "slug": "graphic-set-design-panoramic-collage",
+                    "creator_credit": "",
+                    "credit_line": "<p>Courtesy Bunya Productions Pty Ltd</p>",
+                    "headline_credit": "Australia, 2018",
+                    "thumbnail": {
+                        "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/P180599_G396_.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=QSZBbE6JA5GmmT%2FN2aAX8RkhdWc%3D&Expires=1627009096",
+                        "has_video": false
+                    },
+                    "record_type": "work",
+                    "type": "Object",
+                    "is_on_display": true,
+                    "last_on_display_place": "ACMI: Gallery 1",
+                    "last_on_display_date": "2023-02-09",
+                    "is_context_indigenous": false,
+                    "material_description": "Graphic",
+                    "unpublished": false,
+                    "first_production_date": "2018-01-01T11:00:00+11:00"
+                }
+            ],
+            "source": {
+                "name": "Vernon",
+                "slug": "vernon"
+            },
+            "source_identifier": "180495",
+            "production_places": [
+                {
+                    "id": 3,
+                    "name": "Australia",
+                    "slug": "australia"
+                }
+            ],
+            "production_dates": [
+                {
+                    "date": "2018",
+                    "notes": "",
+                    "to_year": "2018"
+                }
+            ],
+            "labels": [
+                40180
+            ]
+        },
+        {
+            "id": 100691,
+            "acmi_id": "180494",
+            "title": "Sweet Country set being moved",
+            "title_annotation": "Facsimile",
+            "slug": "graphic-behind-the-scenes-photo-set-being-moved",
+            "creator_credit": "",
+            "credit_line": "<p>Courtesy Bunya Productions Pty Ltd</p>",
+            "headline_credit": "Australia, 2018",
+            "thumbnail": {
+                "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/P180494_G203.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=Tbe9PrafNICv7xtqMEAAw65kHXg%3D&Expires=1627009096",
+                "has_video": false
+            },
+            "record_type": "work",
+            "type": "Object",
+            "is_on_display": true,
+            "last_on_display_place": "ACMI: Gallery 1",
+            "last_on_display_date": "2023-02-09",
+            "is_context_indigenous": false,
+            "material_description": "Graphic",
+            "unpublished": false,
+            "first_production_date": "2018-01-01T11:00:00+11:00",
+            "brief_description": "",
+            "constellations_primary": [],
+            "constellations_other": [],
+            "recommendations": [],
+            "title_for_label": "<p>Set during construction</p>",
+            "creator_credit_for_label": "",
+            "headline_credit_for_label": "<p>Australia, 2018</p>",
+            "description": "",
+            "description_for_label": [],
+            "credit_line_for_label": "<p>Courtesy Bunya Productions Pty Ltd</p>",
+            "details": [
+                {
+                    "label": "Curatorial section",
+                    "display_values": [
+                        "The Story of the Moving Image&nbsp;→ Moving Worlds&nbsp;→ 03. Production Design&nbsp;→ MW-03-C01&nbsp;→ MW-03-C01.01"
+                    ]
+                },
+                {
+                    "label": "Measurements",
+                    "display_values": [
+                        "110 x 190mm"
+                    ]
+                },
+                {
+                    "label": "Materials",
+                    "display_values": [
+                        "Graphic"
+                    ]
+                }
+            ],
+            "stats": {
+                "tap_count": 0
+            },
+            "links": [],
+            "creators_primary": [],
+            "creators_other": [
+                {
+                    "id": 1134525,
+                    "name": "Theo Benton",
+                    "creator_id": 72963,
+                    "role": "photographer",
+                    "role_id": 440,
+                    "is_primary": false
+                },
+                {
+                    "id": 1134524,
+                    "name": "Tony Cronin",
+                    "creator_id": 51103,
+                    "role": "photographer",
+                    "role_id": 440,
+                    "is_primary": false
+                }
+            ],
+            "video_links": [],
+            "media_note": null,
+            "images": [
+                {
+                    "id": 12638,
+                    "image_file": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/P180494_G203.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=tioWAPgYyr30uCCbD9ygLYHc7tQ%3D&Expires=1627009096",
+                    "image_file_thumbnail": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/P180494_G203.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=Tbe9PrafNICv7xtqMEAAw65kHXg%3D&Expires=1627009096",
+                    "image_file_xs": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/P180494_G203.jpg.480x480_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=dL00F3vrskq%2B9pRwNtsOBBcajv4%3D&Expires=1627009096",
+                    "image_file_s": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/P180494_G203.jpg.960x960_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=O2RXw%2B8D2K0fAW1A7Zd%2B%2FtqSaxw%3D&Expires=1627009096",
+                    "image_file_m": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/P180494_G203.jpg.1920x1920_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=UcupsnD7jbIW7DeBSlCsvZYAuWQ%3D&Expires=1627009096",
+                    "image_file_l": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/P180494_G203.jpg.3840x3840_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=IX7V%2BMTxGqKhHTzx2Yxj21bZohw%3D&Expires=1627009096",
+                    "caption": "",
+                    "credit_line": "",
+                    "alt_text": "",
+                    "width": 3543,
+                    "height": 1994,
+                    "access_level": "View anywhere"
+                }
+            ],
+            "videos": [],
+            "holdings": [],
+            "part_of": null,
+            "parts": [],
+            "part_siblings": [],
+            "group": {
+                "id": 112207,
+                "acmi_id": "183578",
+                "title": "Set during contsruction",
+                "title_annotation": "",
+                "slug": "set-during-consruction",
+                "creator_credit": "Theo Benton and Tony Cronin",
+                "credit_line": "<p>Courtesy Bunya Productions</p>",
+                "headline_credit": "",
+                "thumbnail": {
+                    "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/P180494_G203.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=Tbe9PrafNICv7xtqMEAAw65kHXg%3D&Expires=1627009096",
+                    "has_video": false
+                },
+                "record_type": "group",
+                "type": "Film",
+                "is_on_display": true,
+                "last_on_display_place": "ACMI: Gallery 1",
+                "last_on_display_date": "2023-02-09",
+                "is_context_indigenous": false,
+                "material_description": "",
+                "unpublished": false,
+                "first_production_date": null
+            },
+            "group_works": [],
+            "group_siblings": [
+                {
+                    "id": 100688,
+                    "acmi_id": "180491",
+                    "title": "Sweet Country set during construction",
+                    "title_annotation": "Facsimile",
+                    "slug": "graphic-behind-the-scenes-photo-finished-humpy",
+                    "creator_credit": "",
+                    "credit_line": "<p>Courtesy Bunya Productions Pty Ltd</p>",
+                    "headline_credit": "Australia, 2018",
+                    "thumbnail": {
+                        "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/P180491_G200.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=SRCd%2Fxc%2F1EMDePnr3NJJnlwVMik%3D&Expires=1627009096",
+                        "has_video": false
+                    },
+                    "record_type": "work",
+                    "type": "Object",
+                    "is_on_display": true,
+                    "last_on_display_place": "ACMI: Gallery 1",
+                    "last_on_display_date": "2023-02-09",
+                    "is_context_indigenous": false,
+                    "material_description": "Graphic",
+                    "unpublished": false,
+                    "first_production_date": "2018-01-01T11:00:00+11:00"
+                },
+                {
+                    "id": 100690,
+                    "acmi_id": "180493",
+                    "title": "Sweet Country set homestead production photo",
+                    "title_annotation": "Facsimile",
+                    "slug": "graphic-behind-the-scenes-photo-homestead-under-construction",
+                    "creator_credit": "",
+                    "credit_line": "<p>Courtesy Bunya Productions Pty Ltd</p>",
+                    "headline_credit": "Australia, 2018",
+                    "thumbnail": {
+                        "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/P180493_G202.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=8srnF%2FhFCW3pSv1MABosHZtYiEU%3D&Expires=1627009096",
+                        "has_video": false
+                    },
+                    "record_type": "work",
+                    "type": "Object",
+                    "is_on_display": true,
+                    "last_on_display_place": "ACMI: Gallery 1",
+                    "last_on_display_date": "2023-02-09",
+                    "is_context_indigenous": false,
+                    "material_description": "Graphic",
+                    "unpublished": false,
+                    "first_production_date": "2018-01-01T11:00:00+11:00"
+                },
+                {
+                    "id": 100689,
+                    "acmi_id": "180492",
+                    "title": "Sweet Country set under construction",
+                    "title_annotation": "Facsimile",
+                    "slug": "graphic-behind-the-scenes-photo-humpy-under-construction",
+                    "creator_credit": "",
+                    "credit_line": "<p>Courtesy Bunya Productions Pty Ltd</p>",
+                    "headline_credit": "Australia, 2018",
+                    "thumbnail": {
+                        "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/P180492_G201.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=fiFqkYIlFEZs09aTxvTWo5bQA0E%3D&Expires=1627009096",
+                        "has_video": false
+                    },
+                    "record_type": "work",
+                    "type": "Object",
+                    "is_on_display": true,
+                    "last_on_display_place": "ACMI: Gallery 1",
+                    "last_on_display_date": "2023-02-09",
+                    "is_context_indigenous": false,
+                    "material_description": "Graphic",
+                    "unpublished": false,
+                    "first_production_date": "2018-01-01T11:00:00+11:00"
+                }
+            ],
+            "source": {
+                "name": "Vernon",
+                "slug": "vernon"
+            },
+            "source_identifier": "180494",
+            "production_places": [
+                {
+                    "id": 3,
+                    "name": "Australia",
+                    "slug": "australia"
+                }
+            ],
+            "production_dates": [
+                {
+                    "date": "2018",
+                    "notes": "",
+                    "to_year": "2018"
+                }
+            ],
+            "labels": [
+                40179
+            ]
+        },
+        {
+            "id": 100690,
+            "acmi_id": "180493",
+            "title": "Sweet Country set homestead production photo",
+            "title_annotation": "Facsimile",
+            "slug": "graphic-behind-the-scenes-photo-homestead-under-construction",
+            "creator_credit": "",
+            "credit_line": "<p>Courtesy Bunya Productions Pty Ltd</p>",
+            "headline_credit": "Australia, 2018",
+            "thumbnail": {
+                "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/P180493_G202.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=8srnF%2FhFCW3pSv1MABosHZtYiEU%3D&Expires=1627009096",
+                "has_video": false
+            },
+            "record_type": "work",
+            "type": "Object",
+            "is_on_display": true,
+            "last_on_display_place": "ACMI: Gallery 1",
+            "last_on_display_date": "2023-02-09",
+            "is_context_indigenous": false,
+            "material_description": "Graphic",
+            "unpublished": false,
+            "first_production_date": "2018-01-01T11:00:00+11:00",
+            "brief_description": "",
+            "constellations_primary": [],
+            "constellations_other": [],
+            "recommendations": [],
+            "title_for_label": "<p>Set during construction</p>",
+            "creator_credit_for_label": "",
+            "headline_credit_for_label": "<p>Australia, 2018</p>",
+            "description": "",
+            "description_for_label": [],
+            "credit_line_for_label": "<p>Courtesy Bunya Productions Pty Ltd</p>",
+            "details": [
+                {
+                    "label": "Curatorial section",
+                    "display_values": [
+                        "The Story of the Moving Image&nbsp;→ Moving Worlds&nbsp;→ 03. Production Design&nbsp;→ MW-03-C01&nbsp;→ MW-03-C01.01"
+                    ]
+                },
+                {
+                    "label": "Measurements",
+                    "display_values": [
+                        "110 x 190mm"
+                    ]
+                },
+                {
+                    "label": "Materials",
+                    "display_values": [
+                        "Graphic"
+                    ]
+                }
+            ],
+            "stats": {
+                "tap_count": 0
+            },
+            "links": [],
+            "creators_primary": [],
+            "creators_other": [
+                {
+                    "id": 1134523,
+                    "name": "Theo Benton",
+                    "creator_id": 72963,
+                    "role": "photographer",
+                    "role_id": 440,
+                    "is_primary": false
+                },
+                {
+                    "id": 1134522,
+                    "name": "Tony Cronin",
+                    "creator_id": 51103,
+                    "role": "photographer",
+                    "role_id": 440,
+                    "is_primary": false
+                }
+            ],
+            "video_links": [],
+            "media_note": null,
+            "images": [
+                {
+                    "id": 12637,
+                    "image_file": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/P180493_G202.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=ZfPHbyj%2FF8AkZIutYmzxaLG28q8%3D&Expires=1627009096",
+                    "image_file_thumbnail": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/P180493_G202.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=8srnF%2FhFCW3pSv1MABosHZtYiEU%3D&Expires=1627009096",
+                    "image_file_xs": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/P180493_G202.jpg.480x480_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=YELg827RgMQYXOa9sF7jwfSIrXU%3D&Expires=1627009096",
+                    "image_file_s": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/P180493_G202.jpg.960x960_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=zoMjuwNALKcB%2F7hA9ZoGiv8bOrE%3D&Expires=1627009096",
+                    "image_file_m": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/P180493_G202.jpg.1920x1920_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=Fd1YLYmwtAXc3flQkmECcFYZ6Iw%3D&Expires=1627009096",
+                    "image_file_l": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/P180493_G202.jpg.3840x3840_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=s4OkF4Yx1Jo3aKUXijfNMmgqcAY%3D&Expires=1627009096",
+                    "caption": "",
+                    "credit_line": "",
+                    "alt_text": "",
+                    "width": 1777,
+                    "height": 999,
+                    "access_level": "View anywhere"
+                }
+            ],
+            "videos": [],
+            "holdings": [],
+            "part_of": null,
+            "parts": [],
+            "part_siblings": [],
+            "group": {
+                "id": 112207,
+                "acmi_id": "183578",
+                "title": "Set during contsruction",
+                "title_annotation": "",
+                "slug": "set-during-consruction",
+                "creator_credit": "Theo Benton and Tony Cronin",
+                "credit_line": "<p>Courtesy Bunya Productions</p>",
+                "headline_credit": "",
+                "thumbnail": {
+                    "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/P180494_G203.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=Tbe9PrafNICv7xtqMEAAw65kHXg%3D&Expires=1627009096",
+                    "has_video": false
+                },
+                "record_type": "group",
+                "type": "Film",
+                "is_on_display": true,
+                "last_on_display_place": "ACMI: Gallery 1",
+                "last_on_display_date": "2023-02-09",
+                "is_context_indigenous": false,
+                "material_description": "",
+                "unpublished": false,
+                "first_production_date": null
+            },
+            "group_works": [],
+            "group_siblings": [
+                {
+                    "id": 100691,
+                    "acmi_id": "180494",
+                    "title": "Sweet Country set being moved",
+                    "title_annotation": "Facsimile",
+                    "slug": "graphic-behind-the-scenes-photo-set-being-moved",
+                    "creator_credit": "",
+                    "credit_line": "<p>Courtesy Bunya Productions Pty Ltd</p>",
+                    "headline_credit": "Australia, 2018",
+                    "thumbnail": {
+                        "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/P180494_G203.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=Tbe9PrafNICv7xtqMEAAw65kHXg%3D&Expires=1627009096",
+                        "has_video": false
+                    },
+                    "record_type": "work",
+                    "type": "Object",
+                    "is_on_display": true,
+                    "last_on_display_place": "ACMI: Gallery 1",
+                    "last_on_display_date": "2023-02-09",
+                    "is_context_indigenous": false,
+                    "material_description": "Graphic",
+                    "unpublished": false,
+                    "first_production_date": "2018-01-01T11:00:00+11:00"
+                },
+                {
+                    "id": 100688,
+                    "acmi_id": "180491",
+                    "title": "Sweet Country set during construction",
+                    "title_annotation": "Facsimile",
+                    "slug": "graphic-behind-the-scenes-photo-finished-humpy",
+                    "creator_credit": "",
+                    "credit_line": "<p>Courtesy Bunya Productions Pty Ltd</p>",
+                    "headline_credit": "Australia, 2018",
+                    "thumbnail": {
+                        "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/P180491_G200.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=SRCd%2Fxc%2F1EMDePnr3NJJnlwVMik%3D&Expires=1627009096",
+                        "has_video": false
+                    },
+                    "record_type": "work",
+                    "type": "Object",
+                    "is_on_display": true,
+                    "last_on_display_place": "ACMI: Gallery 1",
+                    "last_on_display_date": "2023-02-09",
+                    "is_context_indigenous": false,
+                    "material_description": "Graphic",
+                    "unpublished": false,
+                    "first_production_date": "2018-01-01T11:00:00+11:00"
+                },
+                {
+                    "id": 100689,
+                    "acmi_id": "180492",
+                    "title": "Sweet Country set under construction",
+                    "title_annotation": "Facsimile",
+                    "slug": "graphic-behind-the-scenes-photo-humpy-under-construction",
+                    "creator_credit": "",
+                    "credit_line": "<p>Courtesy Bunya Productions Pty Ltd</p>",
+                    "headline_credit": "Australia, 2018",
+                    "thumbnail": {
+                        "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/P180492_G201.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=fiFqkYIlFEZs09aTxvTWo5bQA0E%3D&Expires=1627009096",
+                        "has_video": false
+                    },
+                    "record_type": "work",
+                    "type": "Object",
+                    "is_on_display": true,
+                    "last_on_display_place": "ACMI: Gallery 1",
+                    "last_on_display_date": "2023-02-09",
+                    "is_context_indigenous": false,
+                    "material_description": "Graphic",
+                    "unpublished": false,
+                    "first_production_date": "2018-01-01T11:00:00+11:00"
+                }
+            ],
+            "source": {
+                "name": "Vernon",
+                "slug": "vernon"
+            },
+            "source_identifier": "180493",
+            "production_places": [
+                {
+                    "id": 3,
+                    "name": "Australia",
+                    "slug": "australia"
+                }
+            ],
+            "production_dates": [
+                {
+                    "date": "2018",
+                    "notes": "",
+                    "to_year": "2018"
+                }
+            ],
+            "labels": [
+                40178
+            ]
+        }
+    ]
+}

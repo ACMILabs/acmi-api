@@ -1,0 +1,2406 @@
+{
+    "count": 922,
+    "next": "/works/?page=19",
+    "previous": "/works/?page=17",
+    "results": [
+        {
+            "id": 100689,
+            "acmi_id": "180492",
+            "title": "Sweet Country set under construction",
+            "title_annotation": "Facsimile",
+            "slug": "graphic-behind-the-scenes-photo-humpy-under-construction",
+            "creator_credit": "",
+            "credit_line": "<p>Courtesy Bunya Productions Pty Ltd</p>",
+            "headline_credit": "Australia, 2018",
+            "thumbnail": {
+                "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/P180492_G201.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=Pg%2FmN7ADdKJ%2B76WHfERwEEpIYDk%3D&Expires=1627009102",
+                "has_video": false
+            },
+            "record_type": "work",
+            "type": "Object",
+            "is_on_display": true,
+            "last_on_display_place": "ACMI: Gallery 1",
+            "last_on_display_date": "2023-02-09",
+            "is_context_indigenous": false,
+            "material_description": "Graphic",
+            "unpublished": false,
+            "first_production_date": "2018-01-01T11:00:00+11:00",
+            "brief_description": "",
+            "constellations_primary": [],
+            "constellations_other": [],
+            "recommendations": [],
+            "title_for_label": "<p>Set during construction</p>",
+            "creator_credit_for_label": "",
+            "headline_credit_for_label": "<p>Australia, 2018</p>",
+            "description": "",
+            "description_for_label": [],
+            "credit_line_for_label": "<p>Courtesy Bunya Productions Pty Ltd</p>",
+            "details": [
+                {
+                    "label": "Curatorial section",
+                    "display_values": [
+                        "The Story of the Moving Image&nbsp;→ Moving Worlds&nbsp;→ 03. Production Design&nbsp;→ MW-03-C01&nbsp;→ MW-03-C01.01"
+                    ]
+                },
+                {
+                    "label": "Measurements",
+                    "display_values": [
+                        "110 x 190mm"
+                    ]
+                },
+                {
+                    "label": "Materials",
+                    "display_values": [
+                        "Graphic"
+                    ]
+                }
+            ],
+            "stats": {
+                "tap_count": 0
+            },
+            "links": [],
+            "creators_primary": [],
+            "creators_other": [
+                {
+                    "id": 1134521,
+                    "name": "Theo Benton",
+                    "creator_id": 72963,
+                    "role": "photographer",
+                    "role_id": 440,
+                    "is_primary": false
+                },
+                {
+                    "id": 1134520,
+                    "name": "Tony Cronin",
+                    "creator_id": 51103,
+                    "role": "photographer",
+                    "role_id": 440,
+                    "is_primary": false
+                }
+            ],
+            "video_links": [],
+            "media_note": null,
+            "images": [
+                {
+                    "id": 12636,
+                    "image_file": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/P180492_G201.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=vL2ILBT7Qg5%2BfO0rb07cX%2BN2vi4%3D&Expires=1627009102",
+                    "image_file_thumbnail": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/P180492_G201.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=Pg%2FmN7ADdKJ%2B76WHfERwEEpIYDk%3D&Expires=1627009102",
+                    "image_file_xs": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/P180492_G201.jpg.480x480_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=TZspVCbp%2FBVr%2B8tVJE6JzRq33c0%3D&Expires=1627009102",
+                    "image_file_s": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/P180492_G201.jpg.960x960_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=MnmvYzUaBrgTzG3yAfRanivxess%3D&Expires=1627009102",
+                    "image_file_m": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/P180492_G201.jpg.1920x1920_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=7poC8Cso7isFj3YNLYNMLFp4Bfg%3D&Expires=1627009102",
+                    "image_file_l": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/P180492_G201.jpg.3840x3840_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=OPE9jIapziE4iER2CO4FJDX6LwI%3D&Expires=1627009102",
+                    "caption": "",
+                    "credit_line": "",
+                    "alt_text": "",
+                    "width": 3543,
+                    "height": 1993,
+                    "access_level": "View anywhere"
+                }
+            ],
+            "videos": [],
+            "holdings": [],
+            "part_of": null,
+            "parts": [],
+            "part_siblings": [],
+            "group": {
+                "id": 112207,
+                "acmi_id": "183578",
+                "title": "Set during contsruction",
+                "title_annotation": "",
+                "slug": "set-during-consruction",
+                "creator_credit": "Theo Benton and Tony Cronin",
+                "credit_line": "<p>Courtesy Bunya Productions</p>",
+                "headline_credit": "",
+                "thumbnail": {
+                    "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/P180494_G203.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=csJgmIoRquf%2BOsZpZXaaDACVgfg%3D&Expires=1627009102",
+                    "has_video": false
+                },
+                "record_type": "group",
+                "type": "Film",
+                "is_on_display": true,
+                "last_on_display_place": "ACMI: Gallery 1",
+                "last_on_display_date": "2023-02-09",
+                "is_context_indigenous": false,
+                "material_description": "",
+                "unpublished": false,
+                "first_production_date": null
+            },
+            "group_works": [],
+            "group_siblings": [
+                {
+                    "id": 100691,
+                    "acmi_id": "180494",
+                    "title": "Sweet Country set being moved",
+                    "title_annotation": "Facsimile",
+                    "slug": "graphic-behind-the-scenes-photo-set-being-moved",
+                    "creator_credit": "",
+                    "credit_line": "<p>Courtesy Bunya Productions Pty Ltd</p>",
+                    "headline_credit": "Australia, 2018",
+                    "thumbnail": {
+                        "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/P180494_G203.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=csJgmIoRquf%2BOsZpZXaaDACVgfg%3D&Expires=1627009102",
+                        "has_video": false
+                    },
+                    "record_type": "work",
+                    "type": "Object",
+                    "is_on_display": true,
+                    "last_on_display_place": "ACMI: Gallery 1",
+                    "last_on_display_date": "2023-02-09",
+                    "is_context_indigenous": false,
+                    "material_description": "Graphic",
+                    "unpublished": false,
+                    "first_production_date": "2018-01-01T11:00:00+11:00"
+                },
+                {
+                    "id": 100688,
+                    "acmi_id": "180491",
+                    "title": "Sweet Country set during construction",
+                    "title_annotation": "Facsimile",
+                    "slug": "graphic-behind-the-scenes-photo-finished-humpy",
+                    "creator_credit": "",
+                    "credit_line": "<p>Courtesy Bunya Productions Pty Ltd</p>",
+                    "headline_credit": "Australia, 2018",
+                    "thumbnail": {
+                        "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/P180491_G200.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=OuTB%2FUDXkCmmhpm1LpXgWRAeEJQ%3D&Expires=1627009102",
+                        "has_video": false
+                    },
+                    "record_type": "work",
+                    "type": "Object",
+                    "is_on_display": true,
+                    "last_on_display_place": "ACMI: Gallery 1",
+                    "last_on_display_date": "2023-02-09",
+                    "is_context_indigenous": false,
+                    "material_description": "Graphic",
+                    "unpublished": false,
+                    "first_production_date": "2018-01-01T11:00:00+11:00"
+                },
+                {
+                    "id": 100690,
+                    "acmi_id": "180493",
+                    "title": "Sweet Country set homestead production photo",
+                    "title_annotation": "Facsimile",
+                    "slug": "graphic-behind-the-scenes-photo-homestead-under-construction",
+                    "creator_credit": "",
+                    "credit_line": "<p>Courtesy Bunya Productions Pty Ltd</p>",
+                    "headline_credit": "Australia, 2018",
+                    "thumbnail": {
+                        "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/P180493_G202.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=ZW7iUrwMFy5ZkxKD1qQlIhC4mWU%3D&Expires=1627009102",
+                        "has_video": false
+                    },
+                    "record_type": "work",
+                    "type": "Object",
+                    "is_on_display": true,
+                    "last_on_display_place": "ACMI: Gallery 1",
+                    "last_on_display_date": "2023-02-09",
+                    "is_context_indigenous": false,
+                    "material_description": "Graphic",
+                    "unpublished": false,
+                    "first_production_date": "2018-01-01T11:00:00+11:00"
+                }
+            ],
+            "source": {
+                "name": "Vernon",
+                "slug": "vernon"
+            },
+            "source_identifier": "180492",
+            "production_places": [
+                {
+                    "id": 3,
+                    "name": "Australia",
+                    "slug": "australia"
+                }
+            ],
+            "production_dates": [
+                {
+                    "date": "2018",
+                    "notes": "",
+                    "to_year": "2018"
+                }
+            ],
+            "labels": [
+                40177
+            ]
+        },
+        {
+            "id": 100688,
+            "acmi_id": "180491",
+            "title": "Sweet Country set during construction",
+            "title_annotation": "Facsimile",
+            "slug": "graphic-behind-the-scenes-photo-finished-humpy",
+            "creator_credit": "",
+            "credit_line": "<p>Courtesy Bunya Productions Pty Ltd</p>",
+            "headline_credit": "Australia, 2018",
+            "thumbnail": {
+                "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/P180491_G200.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=OuTB%2FUDXkCmmhpm1LpXgWRAeEJQ%3D&Expires=1627009102",
+                "has_video": false
+            },
+            "record_type": "work",
+            "type": "Object",
+            "is_on_display": true,
+            "last_on_display_place": "ACMI: Gallery 1",
+            "last_on_display_date": "2023-02-09",
+            "is_context_indigenous": false,
+            "material_description": "Graphic",
+            "unpublished": false,
+            "first_production_date": "2018-01-01T11:00:00+11:00",
+            "brief_description": "",
+            "constellations_primary": [],
+            "constellations_other": [],
+            "recommendations": [],
+            "title_for_label": "<p>Set during construction</p>",
+            "creator_credit_for_label": "",
+            "headline_credit_for_label": "<p>Australia, 2018</p>",
+            "description": "",
+            "description_for_label": [],
+            "credit_line_for_label": "<p>Courtesy Bunya Productions Pty Ltd</p>",
+            "details": [
+                {
+                    "label": "Curatorial section",
+                    "display_values": [
+                        "The Story of the Moving Image&nbsp;→ Moving Worlds&nbsp;→ 03. Production Design&nbsp;→ MW-03-C01&nbsp;→ MW-03-C01.01"
+                    ]
+                },
+                {
+                    "label": "Measurements",
+                    "display_values": [
+                        "110 x 190mm"
+                    ]
+                },
+                {
+                    "label": "Materials",
+                    "display_values": [
+                        "Graphic"
+                    ]
+                }
+            ],
+            "stats": {
+                "tap_count": 0
+            },
+            "links": [],
+            "creators_primary": [],
+            "creators_other": [
+                {
+                    "id": 1134519,
+                    "name": "Theo Benton",
+                    "creator_id": 72963,
+                    "role": "photographer",
+                    "role_id": 440,
+                    "is_primary": false
+                },
+                {
+                    "id": 1134518,
+                    "name": "Tony Cronin",
+                    "creator_id": 51103,
+                    "role": "photographer",
+                    "role_id": 440,
+                    "is_primary": false
+                }
+            ],
+            "video_links": [],
+            "media_note": null,
+            "images": [
+                {
+                    "id": 12635,
+                    "image_file": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/P180491_G200.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=rtpocLMdWvEK%2FscEbOz8fdAy6rw%3D&Expires=1627009102",
+                    "image_file_thumbnail": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/P180491_G200.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=OuTB%2FUDXkCmmhpm1LpXgWRAeEJQ%3D&Expires=1627009102",
+                    "image_file_xs": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/P180491_G200.jpg.480x480_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=WKPOuFVeMrmgxSsJ0DUK9b4cVKk%3D&Expires=1627009102",
+                    "image_file_s": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/P180491_G200.jpg.960x960_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=JfP6g1sVHNNie3noPygSwoxZDs0%3D&Expires=1627009102",
+                    "image_file_m": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/P180491_G200.jpg.1920x1920_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=XdvUvKNUTZpklWRM5DW%2Bb7c6E7s%3D&Expires=1627009102",
+                    "image_file_l": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/P180491_G200.jpg.3840x3840_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=3pq4xUykqE5ReMsNDn1CWaZukm4%3D&Expires=1627009102",
+                    "caption": "",
+                    "credit_line": "",
+                    "alt_text": "",
+                    "width": 3543,
+                    "height": 1994,
+                    "access_level": "View anywhere"
+                }
+            ],
+            "videos": [],
+            "holdings": [],
+            "part_of": null,
+            "parts": [],
+            "part_siblings": [],
+            "group": {
+                "id": 112207,
+                "acmi_id": "183578",
+                "title": "Set during contsruction",
+                "title_annotation": "",
+                "slug": "set-during-consruction",
+                "creator_credit": "Theo Benton and Tony Cronin",
+                "credit_line": "<p>Courtesy Bunya Productions</p>",
+                "headline_credit": "",
+                "thumbnail": {
+                    "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/P180494_G203.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=csJgmIoRquf%2BOsZpZXaaDACVgfg%3D&Expires=1627009102",
+                    "has_video": false
+                },
+                "record_type": "group",
+                "type": "Film",
+                "is_on_display": true,
+                "last_on_display_place": "ACMI: Gallery 1",
+                "last_on_display_date": "2023-02-09",
+                "is_context_indigenous": false,
+                "material_description": "",
+                "unpublished": false,
+                "first_production_date": null
+            },
+            "group_works": [],
+            "group_siblings": [
+                {
+                    "id": 100691,
+                    "acmi_id": "180494",
+                    "title": "Sweet Country set being moved",
+                    "title_annotation": "Facsimile",
+                    "slug": "graphic-behind-the-scenes-photo-set-being-moved",
+                    "creator_credit": "",
+                    "credit_line": "<p>Courtesy Bunya Productions Pty Ltd</p>",
+                    "headline_credit": "Australia, 2018",
+                    "thumbnail": {
+                        "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/P180494_G203.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=csJgmIoRquf%2BOsZpZXaaDACVgfg%3D&Expires=1627009102",
+                        "has_video": false
+                    },
+                    "record_type": "work",
+                    "type": "Object",
+                    "is_on_display": true,
+                    "last_on_display_place": "ACMI: Gallery 1",
+                    "last_on_display_date": "2023-02-09",
+                    "is_context_indigenous": false,
+                    "material_description": "Graphic",
+                    "unpublished": false,
+                    "first_production_date": "2018-01-01T11:00:00+11:00"
+                },
+                {
+                    "id": 100690,
+                    "acmi_id": "180493",
+                    "title": "Sweet Country set homestead production photo",
+                    "title_annotation": "Facsimile",
+                    "slug": "graphic-behind-the-scenes-photo-homestead-under-construction",
+                    "creator_credit": "",
+                    "credit_line": "<p>Courtesy Bunya Productions Pty Ltd</p>",
+                    "headline_credit": "Australia, 2018",
+                    "thumbnail": {
+                        "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/P180493_G202.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=ZW7iUrwMFy5ZkxKD1qQlIhC4mWU%3D&Expires=1627009102",
+                        "has_video": false
+                    },
+                    "record_type": "work",
+                    "type": "Object",
+                    "is_on_display": true,
+                    "last_on_display_place": "ACMI: Gallery 1",
+                    "last_on_display_date": "2023-02-09",
+                    "is_context_indigenous": false,
+                    "material_description": "Graphic",
+                    "unpublished": false,
+                    "first_production_date": "2018-01-01T11:00:00+11:00"
+                },
+                {
+                    "id": 100689,
+                    "acmi_id": "180492",
+                    "title": "Sweet Country set under construction",
+                    "title_annotation": "Facsimile",
+                    "slug": "graphic-behind-the-scenes-photo-humpy-under-construction",
+                    "creator_credit": "",
+                    "credit_line": "<p>Courtesy Bunya Productions Pty Ltd</p>",
+                    "headline_credit": "Australia, 2018",
+                    "thumbnail": {
+                        "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/P180492_G201.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=Pg%2FmN7ADdKJ%2B76WHfERwEEpIYDk%3D&Expires=1627009102",
+                        "has_video": false
+                    },
+                    "record_type": "work",
+                    "type": "Object",
+                    "is_on_display": true,
+                    "last_on_display_place": "ACMI: Gallery 1",
+                    "last_on_display_date": "2023-02-09",
+                    "is_context_indigenous": false,
+                    "material_description": "Graphic",
+                    "unpublished": false,
+                    "first_production_date": "2018-01-01T11:00:00+11:00"
+                }
+            ],
+            "source": {
+                "name": "Vernon",
+                "slug": "vernon"
+            },
+            "source_identifier": "180491",
+            "production_places": [
+                {
+                    "id": 3,
+                    "name": "Australia",
+                    "slug": "australia"
+                }
+            ],
+            "production_dates": [
+                {
+                    "date": "2018",
+                    "notes": "",
+                    "to_year": "2018"
+                }
+            ],
+            "labels": [
+                40176
+            ]
+        },
+        {
+            "id": 100687,
+            "acmi_id": "180490",
+            "title": "Philomac costume sketch",
+            "title_annotation": "Facsimile",
+            "slug": "graphic-costume-sketch-philomac",
+            "creator_credit": "Heather Wallace",
+            "credit_line": "<p>Courtesy Bunya Productions Pty Ltd</p>",
+            "headline_credit": "Australia, 2018",
+            "thumbnail": {
+                "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/P180490_G199.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=jDXnmsrimBMiAvKDiMSDY8VY2d8%3D&Expires=1627009102",
+                "has_video": false
+            },
+            "record_type": "work",
+            "type": "Object",
+            "is_on_display": true,
+            "last_on_display_place": "ACMI: Gallery 1",
+            "last_on_display_date": "2023-02-09",
+            "is_context_indigenous": false,
+            "material_description": "Graphic",
+            "unpublished": false,
+            "first_production_date": "2018-01-01T11:00:00+11:00",
+            "brief_description": "",
+            "constellations_primary": [],
+            "constellations_other": [],
+            "recommendations": [],
+            "title_for_label": "<p>Costume sketch for Philomac</p>",
+            "creator_credit_for_label": "<p>Heather Wallace</p>",
+            "headline_credit_for_label": "<p>Australia, 2018</p>",
+            "description": "",
+            "description_for_label": [],
+            "credit_line_for_label": "<p>Courtesy Bunya Productions Pty Ltd</p>",
+            "details": [
+                {
+                    "label": "Curatorial section",
+                    "display_values": [
+                        "The Story of the Moving Image&nbsp;→ Moving Worlds&nbsp;→ 03. Production Design&nbsp;→ MW-03-C01&nbsp;→ MW-03-C01.01"
+                    ]
+                },
+                {
+                    "label": "Measurements",
+                    "display_values": [
+                        "297 x 210mm"
+                    ]
+                },
+                {
+                    "label": "Materials",
+                    "display_values": [
+                        "Graphic"
+                    ]
+                }
+            ],
+            "stats": {
+                "tap_count": 0
+            },
+            "links": [],
+            "creators_primary": [
+                {
+                    "id": 1134517,
+                    "name": "Heather Wallace",
+                    "creator_id": 51101,
+                    "role": "costume designer",
+                    "role_id": 961,
+                    "is_primary": true
+                }
+            ],
+            "creators_other": [],
+            "video_links": [],
+            "media_note": null,
+            "images": [
+                {
+                    "id": 13142,
+                    "image_file": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/P180490_G199.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=%2Br%2BqHAP3YkmYvqWL6ZdICpTHG6Y%3D&Expires=1627009102",
+                    "image_file_thumbnail": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/P180490_G199.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=jDXnmsrimBMiAvKDiMSDY8VY2d8%3D&Expires=1627009102",
+                    "image_file_xs": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/P180490_G199.jpg.480x480_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=sNjZWaJz2OYEOJFuvQ2GW5KIUOY%3D&Expires=1627009102",
+                    "image_file_s": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/P180490_G199.jpg.960x960_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=oPXfosyDroSDRW75wRex0XPlW8s%3D&Expires=1627009102",
+                    "image_file_m": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/P180490_G199.jpg.1920x1920_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=T2fbDSoMnQ8PwyvHNoMN9T%2BK7Ck%3D&Expires=1627009102",
+                    "image_file_l": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/P180490_G199.jpg.3840x3840_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=asS%2B0FLWSTN9nBCU%2FigQQMKgCF4%3D&Expires=1627009102",
+                    "caption": "",
+                    "credit_line": "",
+                    "alt_text": "",
+                    "width": 2501,
+                    "height": 3543,
+                    "access_level": "View anywhere"
+                }
+            ],
+            "videos": [],
+            "holdings": [],
+            "part_of": null,
+            "parts": [],
+            "part_siblings": [],
+            "group": {
+                "id": 100860,
+                "acmi_id": "182483",
+                "title": "Set design in Sweet Country",
+                "title_annotation": "",
+                "slug": "set-design-in-sweet-country",
+                "creator_credit": "David Tranter and Warwick Thornton",
+                "credit_line": "<p>Courtesy Bunya Productions Pty Ltd</p>",
+                "headline_credit": "Australia, 2018",
+                "thumbnail": {
+                    "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/P180487_G196.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=3KK31Q81iI2MSP2%2B1GhUNSiHzWI%3D&Expires=1627009102",
+                    "has_video": false
+                },
+                "record_type": "group",
+                "type": "Object",
+                "is_on_display": true,
+                "last_on_display_place": "ACMI: Gallery 1",
+                "last_on_display_date": "2023-02-09",
+                "is_context_indigenous": true,
+                "material_description": "",
+                "unpublished": false,
+                "first_production_date": "2018-01-01T11:00:00+11:00"
+            },
+            "group_works": [],
+            "group_siblings": [
+                {
+                    "id": 114479,
+                    "acmi_id": "183575",
+                    "title": "Hamilton Morris, Natassia Gorey-Furber and Warwick Thornton during production",
+                    "title_annotation": "",
+                    "slug": "hamilton-morris-natassia-gorey-furber-and-warwick-thornton-during-production",
+                    "creator_credit": "Mark Rogers",
+                    "credit_line": "<p>Courtesy Bunya Productions Pty Ltd</p>",
+                    "headline_credit": "",
+                    "thumbnail": {
+                        "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/P180487_G196.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=3KK31Q81iI2MSP2%2B1GhUNSiHzWI%3D&Expires=1627009102",
+                        "has_video": false
+                    },
+                    "record_type": "group",
+                    "type": "Film",
+                    "is_on_display": true,
+                    "last_on_display_place": "ACMI: Gallery 1",
+                    "last_on_display_date": "2023-02-09",
+                    "is_context_indigenous": false,
+                    "material_description": "",
+                    "unpublished": false,
+                    "first_production_date": null
+                },
+                {
+                    "id": 112208,
+                    "acmi_id": "183576",
+                    "title": "Plans and colour references for set",
+                    "title_annotation": "",
+                    "slug": "plans-and-colour-references-for-set",
+                    "creator_credit": "Theo Benton and Tony Cronin",
+                    "credit_line": "",
+                    "headline_credit": "",
+                    "thumbnail": {
+                        "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/P180496_G205.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=ttv36ORYHm%2Fv5O0d6AFxshnn1aI%3D&Expires=1627009102",
+                        "has_video": false
+                    },
+                    "record_type": "group",
+                    "type": "Film",
+                    "is_on_display": true,
+                    "last_on_display_place": "ACMI: Gallery 1",
+                    "last_on_display_date": "2023-02-09",
+                    "is_context_indigenous": false,
+                    "material_description": "",
+                    "unpublished": false,
+                    "first_production_date": null
+                },
+                {
+                    "id": 112191,
+                    "acmi_id": "183577",
+                    "title": "Pocket watch, chains, pocket knife",
+                    "title_annotation": "",
+                    "slug": "pocket-watch-chains-pocket-knife",
+                    "creator_credit": "",
+                    "credit_line": "<p>Courtesy Bunya Productions Pty Ltd</p>",
+                    "headline_credit": "",
+                    "thumbnail": {
+                        "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN179583_ArchiesKnifeSweetCountry.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=qCry7pgjUjUIq%2BOc6mYXFUv4BFQ%3D&Expires=1627009102",
+                        "has_video": false
+                    },
+                    "record_type": "group",
+                    "type": "Film",
+                    "is_on_display": true,
+                    "last_on_display_place": "ACMI: Gallery 1",
+                    "last_on_display_date": "2023-02-09",
+                    "is_context_indigenous": false,
+                    "material_description": "",
+                    "unpublished": false,
+                    "first_production_date": null
+                },
+                {
+                    "id": 112207,
+                    "acmi_id": "183578",
+                    "title": "Set during contsruction",
+                    "title_annotation": "",
+                    "slug": "set-during-consruction",
+                    "creator_credit": "Theo Benton and Tony Cronin",
+                    "credit_line": "<p>Courtesy Bunya Productions</p>",
+                    "headline_credit": "",
+                    "thumbnail": {
+                        "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/P180494_G203.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=csJgmIoRquf%2BOsZpZXaaDACVgfg%3D&Expires=1627009102",
+                        "has_video": false
+                    },
+                    "record_type": "group",
+                    "type": "Film",
+                    "is_on_display": true,
+                    "last_on_display_place": "ACMI: Gallery 1",
+                    "last_on_display_date": "2023-02-09",
+                    "is_context_indigenous": false,
+                    "material_description": "",
+                    "unpublished": false,
+                    "first_production_date": null
+                },
+                {
+                    "id": 112204,
+                    "acmi_id": "183579",
+                    "title": "Storyboards",
+                    "title_annotation": "",
+                    "slug": "storyboards",
+                    "creator_credit": "David Tranter",
+                    "credit_line": "<p>Courtesy Bunja Productions Pty Ltd</p>",
+                    "headline_credit": "",
+                    "thumbnail": null,
+                    "record_type": "group",
+                    "type": "Film",
+                    "is_on_display": true,
+                    "last_on_display_place": "ACMI: Gallery 1",
+                    "last_on_display_date": "2023-02-09",
+                    "is_context_indigenous": false,
+                    "material_description": "",
+                    "unpublished": false,
+                    "first_production_date": null
+                },
+                {
+                    "id": 100555,
+                    "acmi_id": "179581",
+                    "title": "Sweet Country's Harry Marsh shirt and vest costume",
+                    "title_annotation": "",
+                    "slug": "harrys-shirt-and-vest-from-sweet-country-warwick-thornton",
+                    "creator_credit": "Heather Wallace",
+                    "credit_line": "<p>Courtesy Bunya Productions Pty Ltd</p>",
+                    "headline_credit": "Australia, 2018",
+                    "thumbnail": {
+                        "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN179581_SweetCountry_HarrysRedShirt_Front.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=BWkDd1ealry5ETL%2BjoOIfXkkIkA%3D&Expires=1627009102",
+                        "has_video": false
+                    },
+                    "record_type": "work",
+                    "type": "Object",
+                    "is_on_display": true,
+                    "last_on_display_place": "ACMI: Gallery 1",
+                    "last_on_display_date": "2023-02-09",
+                    "is_context_indigenous": false,
+                    "material_description": "Linen, wool, cotton ticking, cotton calico, vintage buttons",
+                    "unpublished": false,
+                    "first_production_date": "2018-01-01T11:00:00+11:00"
+                },
+                {
+                    "id": 100694,
+                    "acmi_id": "180497",
+                    "title": "Sweet Country costume sketch for Harry Marsh",
+                    "title_annotation": "Facsimile",
+                    "slug": "graphic-costume-sketch-harry",
+                    "creator_credit": "Heather Wallace",
+                    "credit_line": "<p>Courtesy Bunya Productions Pty Ltd</p>",
+                    "headline_credit": "Australia, 2018",
+                    "thumbnail": {
+                        "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/P180497_G206.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=M5%2Fi81ll4kHFaMkZOJ9M7C6x9Gk%3D&Expires=1627009102",
+                        "has_video": false
+                    },
+                    "record_type": "work",
+                    "type": "Object",
+                    "is_on_display": true,
+                    "last_on_display_place": "ACMI: Gallery 1",
+                    "last_on_display_date": "2023-02-09",
+                    "is_context_indigenous": false,
+                    "material_description": "Graphic",
+                    "unpublished": false,
+                    "first_production_date": "2018-01-01T11:00:00+11:00"
+                },
+                {
+                    "id": 100685,
+                    "acmi_id": "180488",
+                    "title": "Sweet Country production photo of Shanika Cole",
+                    "title_annotation": "Facsimile",
+                    "slug": "graphic-photo-of-shanika-cole-as-lucy-p1",
+                    "creator_credit": "",
+                    "credit_line": "<p>Courtesy Bunya Productions Pty Ltd</p>",
+                    "headline_credit": "Australia, 2018",
+                    "thumbnail": {
+                        "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/P180488_G197.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=Pz5o%2FZh1HqArRMZVbNWkt745060%3D&Expires=1627009102",
+                        "has_video": false
+                    },
+                    "record_type": "work",
+                    "type": "Object",
+                    "is_on_display": true,
+                    "last_on_display_place": "ACMI: Gallery 1",
+                    "last_on_display_date": "2023-02-09",
+                    "is_context_indigenous": false,
+                    "material_description": "Graphic",
+                    "unpublished": false,
+                    "first_production_date": "2018-01-01T11:00:00+11:00"
+                },
+                {
+                    "id": 100683,
+                    "acmi_id": "180486",
+                    "title": "Tremayne and Trevon Doolan during production of Sweet Country",
+                    "title_annotation": "Facsimile",
+                    "slug": "graphic-photo-of-tremayne-trevor-doonan-as-philomac",
+                    "creator_credit": "",
+                    "credit_line": "<p>Courtesy Bunya Productions Pty Ltd</p>",
+                    "headline_credit": "Australia, 2018",
+                    "thumbnail": {
+                        "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/P180486_G195.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=LbaARiTJTf88luORTs9Hmhp2sZc%3D&Expires=1627009102",
+                        "has_video": false
+                    },
+                    "record_type": "work",
+                    "type": "Object",
+                    "is_on_display": true,
+                    "last_on_display_place": "ACMI: Gallery 1",
+                    "last_on_display_date": "2023-02-09",
+                    "is_context_indigenous": false,
+                    "material_description": "Graphic",
+                    "unpublished": false,
+                    "first_production_date": "2018-01-01T11:00:00+11:00"
+                }
+            ],
+            "source": {
+                "name": "Vernon",
+                "slug": "vernon"
+            },
+            "source_identifier": "180490",
+            "production_places": [
+                {
+                    "id": 3,
+                    "name": "Australia",
+                    "slug": "australia"
+                }
+            ],
+            "production_dates": [
+                {
+                    "date": "2018",
+                    "notes": "",
+                    "to_year": "2018"
+                }
+            ],
+            "labels": [
+                40175
+            ]
+        },
+        {
+            "id": 100686,
+            "acmi_id": "180489",
+            "title": "Sweet Country production photo of Hamilton Morris, Natassia Gorey-Furber and Warwick Thornton",
+            "title_annotation": "Facsimile",
+            "slug": "graphic-photo-of-natassia-gorey-furber-as-lizzie-p2",
+            "creator_credit": "",
+            "credit_line": "<p>Courtesy Bunya Productions Pty Ltd</p>",
+            "headline_credit": "Australia, 2018",
+            "thumbnail": {
+                "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/P180489_G198.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=F5LIUmO1niXDySf%2Fa9tmbNw6rWg%3D&Expires=1627009102",
+                "has_video": false
+            },
+            "record_type": "work",
+            "type": "Object",
+            "is_on_display": true,
+            "last_on_display_place": "ACMI: Gallery 1",
+            "last_on_display_date": "2023-02-09",
+            "is_context_indigenous": false,
+            "material_description": "Graphic",
+            "unpublished": false,
+            "first_production_date": "2018-01-01T11:00:00+11:00",
+            "brief_description": "",
+            "constellations_primary": [],
+            "constellations_other": [],
+            "recommendations": [],
+            "title_for_label": "<p>Hamilton Morris, Natassia Gorey-Furber and Warwick Thornton during production</p>",
+            "creator_credit_for_label": "",
+            "headline_credit_for_label": "<p>Australia, 2018</p>",
+            "description": "",
+            "description_for_label": [],
+            "credit_line_for_label": "<p>Courtesy Bunya Productions Pty Ltd</p>",
+            "details": [
+                {
+                    "label": "Curatorial section",
+                    "display_values": [
+                        "The Story of the Moving Image&nbsp;→ Moving Worlds&nbsp;→ 03. Production Design&nbsp;→ MW-03-C01&nbsp;→ MW-03-C01.01"
+                    ]
+                },
+                {
+                    "label": "Measurements",
+                    "display_values": [
+                        "160 x 227mm"
+                    ]
+                },
+                {
+                    "label": "Materials",
+                    "display_values": [
+                        "Graphic"
+                    ]
+                }
+            ],
+            "stats": {
+                "tap_count": 0
+            },
+            "links": [],
+            "creators_primary": [],
+            "creators_other": [
+                {
+                    "id": 1134516,
+                    "name": "Mark Rogers",
+                    "creator_id": 72960,
+                    "role": "photographer",
+                    "role_id": 440,
+                    "is_primary": false
+                }
+            ],
+            "video_links": [],
+            "media_note": null,
+            "images": [
+                {
+                    "id": 12411,
+                    "image_file": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/P180489_G198.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=D35jXoLrbpv8fsz4%2FV7gS%2F8Ebec%3D&Expires=1627009102",
+                    "image_file_thumbnail": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/P180489_G198.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=F5LIUmO1niXDySf%2Fa9tmbNw6rWg%3D&Expires=1627009102",
+                    "image_file_xs": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/P180489_G198.jpg.480x480_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=r2eRcwPs3yaA9LdN3WnyMEa1dNw%3D&Expires=1627009102",
+                    "image_file_s": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/P180489_G198.jpg.960x960_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=3%2Bz86Jnf9jl3%2FjpwKP86sGVPviY%3D&Expires=1627009102",
+                    "image_file_m": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/P180489_G198.jpg.1920x1920_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=EZ1L01sZfUc3SIriq8vF%2FEUz8e4%3D&Expires=1627009102",
+                    "image_file_l": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/P180489_G198.jpg.3840x3840_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=kTbAiqnBQ9n6WnVdq7VRIX6jlRE%3D&Expires=1627009102",
+                    "caption": "",
+                    "credit_line": "",
+                    "alt_text": "",
+                    "width": 1969,
+                    "height": 1349,
+                    "access_level": "View anywhere"
+                }
+            ],
+            "videos": [],
+            "holdings": [],
+            "part_of": null,
+            "parts": [],
+            "part_siblings": [],
+            "group": {
+                "id": 114479,
+                "acmi_id": "183575",
+                "title": "Hamilton Morris, Natassia Gorey-Furber and Warwick Thornton during production",
+                "title_annotation": "",
+                "slug": "hamilton-morris-natassia-gorey-furber-and-warwick-thornton-during-production",
+                "creator_credit": "Mark Rogers",
+                "credit_line": "<p>Courtesy Bunya Productions Pty Ltd</p>",
+                "headline_credit": "",
+                "thumbnail": {
+                    "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/P180487_G196.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=3KK31Q81iI2MSP2%2B1GhUNSiHzWI%3D&Expires=1627009102",
+                    "has_video": false
+                },
+                "record_type": "group",
+                "type": "Film",
+                "is_on_display": true,
+                "last_on_display_place": "ACMI: Gallery 1",
+                "last_on_display_date": "2023-02-09",
+                "is_context_indigenous": false,
+                "material_description": "",
+                "unpublished": false,
+                "first_production_date": null
+            },
+            "group_works": [],
+            "group_siblings": [
+                {
+                    "id": 100684,
+                    "acmi_id": "180487",
+                    "title": "Sweet Country production photo of Hamilton Morris, Natassia Gorey-Furber and Warwick Thornton on street",
+                    "title_annotation": "Facsimile",
+                    "slug": "graphic-photo-of-warwick-thornton-on-set",
+                    "creator_credit": "",
+                    "credit_line": "<p>Courtesy Bunya Productions Pty Ltd</p>",
+                    "headline_credit": "Australia, 2018",
+                    "thumbnail": {
+                        "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/P180487_G196.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=3KK31Q81iI2MSP2%2B1GhUNSiHzWI%3D&Expires=1627009102",
+                        "has_video": false
+                    },
+                    "record_type": "work",
+                    "type": "Object",
+                    "is_on_display": true,
+                    "last_on_display_place": "ACMI: Gallery 1",
+                    "last_on_display_date": "2023-02-09",
+                    "is_context_indigenous": false,
+                    "material_description": "Graphic",
+                    "unpublished": false,
+                    "first_production_date": "2018-01-01T11:00:00+11:00"
+                },
+                {
+                    "id": 100682,
+                    "acmi_id": "180485",
+                    "title": "Hamilton Morris, Natassia Gorey-Furber and Warwick Thornton during production of Sweet Country",
+                    "title_annotation": "Facsimile",
+                    "slug": "graphic-photo-of-hamilton-morris-as-sam-kelly-and-natassia-gorey-furber-as-lizzie",
+                    "creator_credit": "",
+                    "credit_line": "<p>Courtesy Bunya Productions Pty Ltd</p>",
+                    "headline_credit": "Australia, 2018",
+                    "thumbnail": {
+                        "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/P180485_G194.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=mlUIwNNOlTeXcUU%2BxyP90px37ak%3D&Expires=1627009102",
+                        "has_video": false
+                    },
+                    "record_type": "work",
+                    "type": "Object",
+                    "is_on_display": true,
+                    "last_on_display_place": "ACMI: Gallery 1",
+                    "last_on_display_date": "2023-02-09",
+                    "is_context_indigenous": false,
+                    "material_description": "Graphic",
+                    "unpublished": false,
+                    "first_production_date": "2018-01-01T11:00:00+11:00"
+                }
+            ],
+            "source": {
+                "name": "Vernon",
+                "slug": "vernon"
+            },
+            "source_identifier": "180489",
+            "production_places": [
+                {
+                    "id": 3,
+                    "name": "Australia",
+                    "slug": "australia"
+                }
+            ],
+            "production_dates": [
+                {
+                    "date": "2018",
+                    "notes": "",
+                    "to_year": "2018"
+                }
+            ],
+            "labels": [
+                40174
+            ]
+        },
+        {
+            "id": 100685,
+            "acmi_id": "180488",
+            "title": "Sweet Country production photo of Shanika Cole",
+            "title_annotation": "Facsimile",
+            "slug": "graphic-photo-of-shanika-cole-as-lucy-p1",
+            "creator_credit": "",
+            "credit_line": "<p>Courtesy Bunya Productions Pty Ltd</p>",
+            "headline_credit": "Australia, 2018",
+            "thumbnail": {
+                "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/P180488_G197.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=Pz5o%2FZh1HqArRMZVbNWkt745060%3D&Expires=1627009102",
+                "has_video": false
+            },
+            "record_type": "work",
+            "type": "Object",
+            "is_on_display": true,
+            "last_on_display_place": "ACMI: Gallery 1",
+            "last_on_display_date": "2023-02-09",
+            "is_context_indigenous": false,
+            "material_description": "Graphic",
+            "unpublished": false,
+            "first_production_date": "2018-01-01T11:00:00+11:00",
+            "brief_description": "",
+            "constellations_primary": [],
+            "constellations_other": [],
+            "recommendations": [],
+            "title_for_label": "<p>Shanika Cole during production</p>",
+            "creator_credit_for_label": "",
+            "headline_credit_for_label": "<p>Australia, 2018</p>",
+            "description": "",
+            "description_for_label": [],
+            "credit_line_for_label": "<p>Courtesy Bunya Productions Pty Ltd</p>",
+            "details": [
+                {
+                    "label": "Curatorial section",
+                    "display_values": [
+                        "The Story of the Moving Image&nbsp;→ Moving Worlds&nbsp;→ 03. Production Design&nbsp;→ MW-03-C01&nbsp;→ MW-03-C01.01"
+                    ]
+                },
+                {
+                    "label": "Measurements",
+                    "display_values": [
+                        "160 x 227mm"
+                    ]
+                },
+                {
+                    "label": "Materials",
+                    "display_values": [
+                        "Graphic"
+                    ]
+                }
+            ],
+            "stats": {
+                "tap_count": 0
+            },
+            "links": [],
+            "creators_primary": [],
+            "creators_other": [
+                {
+                    "id": 1134515,
+                    "name": "Tamara Dean",
+                    "creator_id": 72962,
+                    "role": "photographer",
+                    "role_id": 440,
+                    "is_primary": false
+                }
+            ],
+            "video_links": [],
+            "media_note": null,
+            "images": [
+                {
+                    "id": 13141,
+                    "image_file": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/P180488_G197.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=YYgYo8N6sUDK4NSORpxZLLx9SQ0%3D&Expires=1627009102",
+                    "image_file_thumbnail": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/P180488_G197.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=Pz5o%2FZh1HqArRMZVbNWkt745060%3D&Expires=1627009102",
+                    "image_file_xs": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/P180488_G197.jpg.480x480_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=Rb5yoMZN4QaRZXmoI%2BQXEaGRyY4%3D&Expires=1627009102",
+                    "image_file_s": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/P180488_G197.jpg.960x960_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=79RH1pBDJF2uZdCI%2B9ADNSamf5A%3D&Expires=1627009103",
+                    "image_file_m": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/P180488_G197.jpg.1920x1920_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=jiZAysN51nMltjD4eMnkQigFaR4%3D&Expires=1627009103",
+                    "image_file_l": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/P180488_G197.jpg.3840x3840_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=DCtdCy83g8%2BXzga%2Fhe91HYwO1Tk%3D&Expires=1627009103",
+                    "caption": "",
+                    "credit_line": "",
+                    "alt_text": "",
+                    "width": 3543,
+                    "height": 2657,
+                    "access_level": "View anywhere"
+                }
+            ],
+            "videos": [],
+            "holdings": [],
+            "part_of": null,
+            "parts": [],
+            "part_siblings": [],
+            "group": {
+                "id": 100860,
+                "acmi_id": "182483",
+                "title": "Set design in Sweet Country",
+                "title_annotation": "",
+                "slug": "set-design-in-sweet-country",
+                "creator_credit": "David Tranter and Warwick Thornton",
+                "credit_line": "<p>Courtesy Bunya Productions Pty Ltd</p>",
+                "headline_credit": "Australia, 2018",
+                "thumbnail": {
+                    "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/P180487_G196.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=U4Hdq8GtjuUT0bK%2F%2BKKPtBm%2FtUQ%3D&Expires=1627009103",
+                    "has_video": false
+                },
+                "record_type": "group",
+                "type": "Object",
+                "is_on_display": true,
+                "last_on_display_place": "ACMI: Gallery 1",
+                "last_on_display_date": "2023-02-09",
+                "is_context_indigenous": true,
+                "material_description": "",
+                "unpublished": false,
+                "first_production_date": "2018-01-01T11:00:00+11:00"
+            },
+            "group_works": [],
+            "group_siblings": [
+                {
+                    "id": 114479,
+                    "acmi_id": "183575",
+                    "title": "Hamilton Morris, Natassia Gorey-Furber and Warwick Thornton during production",
+                    "title_annotation": "",
+                    "slug": "hamilton-morris-natassia-gorey-furber-and-warwick-thornton-during-production",
+                    "creator_credit": "Mark Rogers",
+                    "credit_line": "<p>Courtesy Bunya Productions Pty Ltd</p>",
+                    "headline_credit": "",
+                    "thumbnail": {
+                        "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/P180487_G196.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=U4Hdq8GtjuUT0bK%2F%2BKKPtBm%2FtUQ%3D&Expires=1627009103",
+                        "has_video": false
+                    },
+                    "record_type": "group",
+                    "type": "Film",
+                    "is_on_display": true,
+                    "last_on_display_place": "ACMI: Gallery 1",
+                    "last_on_display_date": "2023-02-09",
+                    "is_context_indigenous": false,
+                    "material_description": "",
+                    "unpublished": false,
+                    "first_production_date": null
+                },
+                {
+                    "id": 100687,
+                    "acmi_id": "180490",
+                    "title": "Philomac costume sketch",
+                    "title_annotation": "Facsimile",
+                    "slug": "graphic-costume-sketch-philomac",
+                    "creator_credit": "Heather Wallace",
+                    "credit_line": "<p>Courtesy Bunya Productions Pty Ltd</p>",
+                    "headline_credit": "Australia, 2018",
+                    "thumbnail": {
+                        "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/P180490_G199.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=NgccbEvkdK211vhMNxlOGquUXuM%3D&Expires=1627009103",
+                        "has_video": false
+                    },
+                    "record_type": "work",
+                    "type": "Object",
+                    "is_on_display": true,
+                    "last_on_display_place": "ACMI: Gallery 1",
+                    "last_on_display_date": "2023-02-09",
+                    "is_context_indigenous": false,
+                    "material_description": "Graphic",
+                    "unpublished": false,
+                    "first_production_date": "2018-01-01T11:00:00+11:00"
+                },
+                {
+                    "id": 112208,
+                    "acmi_id": "183576",
+                    "title": "Plans and colour references for set",
+                    "title_annotation": "",
+                    "slug": "plans-and-colour-references-for-set",
+                    "creator_credit": "Theo Benton and Tony Cronin",
+                    "credit_line": "",
+                    "headline_credit": "",
+                    "thumbnail": {
+                        "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/P180496_G205.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=zfKgWk9DfgGcqP8yfZy%2BgJW38BE%3D&Expires=1627009103",
+                        "has_video": false
+                    },
+                    "record_type": "group",
+                    "type": "Film",
+                    "is_on_display": true,
+                    "last_on_display_place": "ACMI: Gallery 1",
+                    "last_on_display_date": "2023-02-09",
+                    "is_context_indigenous": false,
+                    "material_description": "",
+                    "unpublished": false,
+                    "first_production_date": null
+                },
+                {
+                    "id": 112191,
+                    "acmi_id": "183577",
+                    "title": "Pocket watch, chains, pocket knife",
+                    "title_annotation": "",
+                    "slug": "pocket-watch-chains-pocket-knife",
+                    "creator_credit": "",
+                    "credit_line": "<p>Courtesy Bunya Productions Pty Ltd</p>",
+                    "headline_credit": "",
+                    "thumbnail": {
+                        "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN179583_ArchiesKnifeSweetCountry.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=wdftmb5r6fPvRzFYYxqbFnTj4Lw%3D&Expires=1627009103",
+                        "has_video": false
+                    },
+                    "record_type": "group",
+                    "type": "Film",
+                    "is_on_display": true,
+                    "last_on_display_place": "ACMI: Gallery 1",
+                    "last_on_display_date": "2023-02-09",
+                    "is_context_indigenous": false,
+                    "material_description": "",
+                    "unpublished": false,
+                    "first_production_date": null
+                },
+                {
+                    "id": 112207,
+                    "acmi_id": "183578",
+                    "title": "Set during contsruction",
+                    "title_annotation": "",
+                    "slug": "set-during-consruction",
+                    "creator_credit": "Theo Benton and Tony Cronin",
+                    "credit_line": "<p>Courtesy Bunya Productions</p>",
+                    "headline_credit": "",
+                    "thumbnail": {
+                        "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/P180494_G203.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=mYeYs5Qu%2BTTGmn1k8csrNpa7708%3D&Expires=1627009103",
+                        "has_video": false
+                    },
+                    "record_type": "group",
+                    "type": "Film",
+                    "is_on_display": true,
+                    "last_on_display_place": "ACMI: Gallery 1",
+                    "last_on_display_date": "2023-02-09",
+                    "is_context_indigenous": false,
+                    "material_description": "",
+                    "unpublished": false,
+                    "first_production_date": null
+                },
+                {
+                    "id": 112204,
+                    "acmi_id": "183579",
+                    "title": "Storyboards",
+                    "title_annotation": "",
+                    "slug": "storyboards",
+                    "creator_credit": "David Tranter",
+                    "credit_line": "<p>Courtesy Bunja Productions Pty Ltd</p>",
+                    "headline_credit": "",
+                    "thumbnail": null,
+                    "record_type": "group",
+                    "type": "Film",
+                    "is_on_display": true,
+                    "last_on_display_place": "ACMI: Gallery 1",
+                    "last_on_display_date": "2023-02-09",
+                    "is_context_indigenous": false,
+                    "material_description": "",
+                    "unpublished": false,
+                    "first_production_date": null
+                },
+                {
+                    "id": 100555,
+                    "acmi_id": "179581",
+                    "title": "Sweet Country's Harry Marsh shirt and vest costume",
+                    "title_annotation": "",
+                    "slug": "harrys-shirt-and-vest-from-sweet-country-warwick-thornton",
+                    "creator_credit": "Heather Wallace",
+                    "credit_line": "<p>Courtesy Bunya Productions Pty Ltd</p>",
+                    "headline_credit": "Australia, 2018",
+                    "thumbnail": {
+                        "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN179581_SweetCountry_HarrysRedShirt_Front.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=mxucCfsg%2BsfDIZDY5xvWcRkuV44%3D&Expires=1627009103",
+                        "has_video": false
+                    },
+                    "record_type": "work",
+                    "type": "Object",
+                    "is_on_display": true,
+                    "last_on_display_place": "ACMI: Gallery 1",
+                    "last_on_display_date": "2023-02-09",
+                    "is_context_indigenous": false,
+                    "material_description": "Linen, wool, cotton ticking, cotton calico, vintage buttons",
+                    "unpublished": false,
+                    "first_production_date": "2018-01-01T11:00:00+11:00"
+                },
+                {
+                    "id": 100694,
+                    "acmi_id": "180497",
+                    "title": "Sweet Country costume sketch for Harry Marsh",
+                    "title_annotation": "Facsimile",
+                    "slug": "graphic-costume-sketch-harry",
+                    "creator_credit": "Heather Wallace",
+                    "credit_line": "<p>Courtesy Bunya Productions Pty Ltd</p>",
+                    "headline_credit": "Australia, 2018",
+                    "thumbnail": {
+                        "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/P180497_G206.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=hw0j0ASw2GQF1KFb8wu12nThGJg%3D&Expires=1627009103",
+                        "has_video": false
+                    },
+                    "record_type": "work",
+                    "type": "Object",
+                    "is_on_display": true,
+                    "last_on_display_place": "ACMI: Gallery 1",
+                    "last_on_display_date": "2023-02-09",
+                    "is_context_indigenous": false,
+                    "material_description": "Graphic",
+                    "unpublished": false,
+                    "first_production_date": "2018-01-01T11:00:00+11:00"
+                },
+                {
+                    "id": 100683,
+                    "acmi_id": "180486",
+                    "title": "Tremayne and Trevon Doolan during production of Sweet Country",
+                    "title_annotation": "Facsimile",
+                    "slug": "graphic-photo-of-tremayne-trevor-doonan-as-philomac",
+                    "creator_credit": "",
+                    "credit_line": "<p>Courtesy Bunya Productions Pty Ltd</p>",
+                    "headline_credit": "Australia, 2018",
+                    "thumbnail": {
+                        "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/P180486_G195.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=dziaqRqdLCivrqzgBzkR9G20iXA%3D&Expires=1627009103",
+                        "has_video": false
+                    },
+                    "record_type": "work",
+                    "type": "Object",
+                    "is_on_display": true,
+                    "last_on_display_place": "ACMI: Gallery 1",
+                    "last_on_display_date": "2023-02-09",
+                    "is_context_indigenous": false,
+                    "material_description": "Graphic",
+                    "unpublished": false,
+                    "first_production_date": "2018-01-01T11:00:00+11:00"
+                }
+            ],
+            "source": {
+                "name": "Vernon",
+                "slug": "vernon"
+            },
+            "source_identifier": "180488",
+            "production_places": [
+                {
+                    "id": 3,
+                    "name": "Australia",
+                    "slug": "australia"
+                }
+            ],
+            "production_dates": [
+                {
+                    "date": "2018",
+                    "notes": "",
+                    "to_year": "2018"
+                }
+            ],
+            "labels": [
+                40173
+            ]
+        },
+        {
+            "id": 100684,
+            "acmi_id": "180487",
+            "title": "Sweet Country production photo of Hamilton Morris, Natassia Gorey-Furber and Warwick Thornton on street",
+            "title_annotation": "Facsimile",
+            "slug": "graphic-photo-of-warwick-thornton-on-set",
+            "creator_credit": "",
+            "credit_line": "<p>Courtesy Bunya Productions Pty Ltd</p>",
+            "headline_credit": "Australia, 2018",
+            "thumbnail": {
+                "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/P180487_G196.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=U4Hdq8GtjuUT0bK%2F%2BKKPtBm%2FtUQ%3D&Expires=1627009103",
+                "has_video": false
+            },
+            "record_type": "work",
+            "type": "Object",
+            "is_on_display": true,
+            "last_on_display_place": "ACMI: Gallery 1",
+            "last_on_display_date": "2023-02-09",
+            "is_context_indigenous": false,
+            "material_description": "Graphic",
+            "unpublished": false,
+            "first_production_date": "2018-01-01T11:00:00+11:00",
+            "brief_description": "",
+            "constellations_primary": [],
+            "constellations_other": [],
+            "recommendations": [],
+            "title_for_label": "<p>Hamilton Morris, Natassia Gorey-Furber and Warwick Thornton during production</p>",
+            "creator_credit_for_label": "",
+            "headline_credit_for_label": "<p>Australia, 2018</p>",
+            "description": "",
+            "description_for_label": [],
+            "credit_line_for_label": "<p>Courtesy Bunya Productions Pty Ltd</p>",
+            "details": [
+                {
+                    "label": "Curatorial section",
+                    "display_values": [
+                        "The Story of the Moving Image&nbsp;→ Moving Worlds&nbsp;→ 03. Production Design&nbsp;→ MW-03-C01&nbsp;→ MW-03-C01.01"
+                    ]
+                },
+                {
+                    "label": "Measurements",
+                    "display_values": [
+                        "160 x 297mm"
+                    ]
+                },
+                {
+                    "label": "Materials",
+                    "display_values": [
+                        "Graphic"
+                    ]
+                }
+            ],
+            "stats": {
+                "tap_count": 0
+            },
+            "links": [],
+            "creators_primary": [],
+            "creators_other": [
+                {
+                    "id": 1134514,
+                    "name": "Mark Rogers",
+                    "creator_id": 72960,
+                    "role": "photographer",
+                    "role_id": 440,
+                    "is_primary": false
+                }
+            ],
+            "video_links": [],
+            "media_note": null,
+            "images": [
+                {
+                    "id": 12410,
+                    "image_file": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/P180487_G196.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=JL%2B1QuEE8C46SZBK8HbuvtcrYBY%3D&Expires=1627009103",
+                    "image_file_thumbnail": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/P180487_G196.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=U4Hdq8GtjuUT0bK%2F%2BKKPtBm%2FtUQ%3D&Expires=1627009103",
+                    "image_file_xs": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/P180487_G196.jpg.480x480_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=u%2Frh5JT2wkreB6T9%2FQVjY1WCnMk%3D&Expires=1627009103",
+                    "image_file_s": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/P180487_G196.jpg.960x960_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=YIobY5W6vBAlq6MQ71PpjwDQFsg%3D&Expires=1627009103",
+                    "image_file_m": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/P180487_G196.jpg.1920x1920_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=ewbJWY0dAoOFcwlQiZ1xTDyWVhU%3D&Expires=1627009103",
+                    "image_file_l": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/P180487_G196.jpg.3840x3840_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=NYIql6%2FxX7etngEfHl9JiPnYV3c%3D&Expires=1627009103",
+                    "caption": "",
+                    "credit_line": "",
+                    "alt_text": "",
+                    "width": 1969,
+                    "height": 1108,
+                    "access_level": "View anywhere"
+                }
+            ],
+            "videos": [],
+            "holdings": [],
+            "part_of": null,
+            "parts": [],
+            "part_siblings": [],
+            "group": {
+                "id": 114479,
+                "acmi_id": "183575",
+                "title": "Hamilton Morris, Natassia Gorey-Furber and Warwick Thornton during production",
+                "title_annotation": "",
+                "slug": "hamilton-morris-natassia-gorey-furber-and-warwick-thornton-during-production",
+                "creator_credit": "Mark Rogers",
+                "credit_line": "<p>Courtesy Bunya Productions Pty Ltd</p>",
+                "headline_credit": "",
+                "thumbnail": {
+                    "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/P180487_G196.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=U4Hdq8GtjuUT0bK%2F%2BKKPtBm%2FtUQ%3D&Expires=1627009103",
+                    "has_video": false
+                },
+                "record_type": "group",
+                "type": "Film",
+                "is_on_display": true,
+                "last_on_display_place": "ACMI: Gallery 1",
+                "last_on_display_date": "2023-02-09",
+                "is_context_indigenous": false,
+                "material_description": "",
+                "unpublished": false,
+                "first_production_date": null
+            },
+            "group_works": [],
+            "group_siblings": [
+                {
+                    "id": 100682,
+                    "acmi_id": "180485",
+                    "title": "Hamilton Morris, Natassia Gorey-Furber and Warwick Thornton during production of Sweet Country",
+                    "title_annotation": "Facsimile",
+                    "slug": "graphic-photo-of-hamilton-morris-as-sam-kelly-and-natassia-gorey-furber-as-lizzie",
+                    "creator_credit": "",
+                    "credit_line": "<p>Courtesy Bunya Productions Pty Ltd</p>",
+                    "headline_credit": "Australia, 2018",
+                    "thumbnail": {
+                        "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/P180485_G194.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=vUBHJWd7M1TUWiQhtns50YSKBdY%3D&Expires=1627009103",
+                        "has_video": false
+                    },
+                    "record_type": "work",
+                    "type": "Object",
+                    "is_on_display": true,
+                    "last_on_display_place": "ACMI: Gallery 1",
+                    "last_on_display_date": "2023-02-09",
+                    "is_context_indigenous": false,
+                    "material_description": "Graphic",
+                    "unpublished": false,
+                    "first_production_date": "2018-01-01T11:00:00+11:00"
+                },
+                {
+                    "id": 100686,
+                    "acmi_id": "180489",
+                    "title": "Sweet Country production photo of Hamilton Morris, Natassia Gorey-Furber and Warwick Thornton",
+                    "title_annotation": "Facsimile",
+                    "slug": "graphic-photo-of-natassia-gorey-furber-as-lizzie-p2",
+                    "creator_credit": "",
+                    "credit_line": "<p>Courtesy Bunya Productions Pty Ltd</p>",
+                    "headline_credit": "Australia, 2018",
+                    "thumbnail": {
+                        "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/P180489_G198.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=7ENsO4125AK0RIY07X9575Vhi1Y%3D&Expires=1627009103",
+                        "has_video": false
+                    },
+                    "record_type": "work",
+                    "type": "Object",
+                    "is_on_display": true,
+                    "last_on_display_place": "ACMI: Gallery 1",
+                    "last_on_display_date": "2023-02-09",
+                    "is_context_indigenous": false,
+                    "material_description": "Graphic",
+                    "unpublished": false,
+                    "first_production_date": "2018-01-01T11:00:00+11:00"
+                }
+            ],
+            "source": {
+                "name": "Vernon",
+                "slug": "vernon"
+            },
+            "source_identifier": "180487",
+            "production_places": [
+                {
+                    "id": 3,
+                    "name": "Australia",
+                    "slug": "australia"
+                }
+            ],
+            "production_dates": [
+                {
+                    "date": "2018",
+                    "notes": "",
+                    "to_year": "2018"
+                }
+            ],
+            "labels": [
+                40172
+            ]
+        },
+        {
+            "id": 100683,
+            "acmi_id": "180486",
+            "title": "Tremayne and Trevon Doolan during production of Sweet Country",
+            "title_annotation": "Facsimile",
+            "slug": "graphic-photo-of-tremayne-trevor-doonan-as-philomac",
+            "creator_credit": "",
+            "credit_line": "<p>Courtesy Bunya Productions Pty Ltd</p>",
+            "headline_credit": "Australia, 2018",
+            "thumbnail": {
+                "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/P180486_G195.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=dziaqRqdLCivrqzgBzkR9G20iXA%3D&Expires=1627009103",
+                "has_video": false
+            },
+            "record_type": "work",
+            "type": "Object",
+            "is_on_display": true,
+            "last_on_display_place": "ACMI: Gallery 1",
+            "last_on_display_date": "2023-02-09",
+            "is_context_indigenous": false,
+            "material_description": "Graphic",
+            "unpublished": false,
+            "first_production_date": "2018-01-01T11:00:00+11:00",
+            "brief_description": "",
+            "constellations_primary": [],
+            "constellations_other": [],
+            "recommendations": [],
+            "title_for_label": "<p>Tremayne and Trevon Doolan during production</p>",
+            "creator_credit_for_label": "",
+            "headline_credit_for_label": "<p>Australia, 2018</p>",
+            "description": "",
+            "description_for_label": [],
+            "credit_line_for_label": "<p>Courtesy Bunya Productions Pty Ltd</p>",
+            "details": [
+                {
+                    "label": "Curatorial section",
+                    "display_values": [
+                        "The Story of the Moving Image&nbsp;→ Moving Worlds&nbsp;→ 03. Production Design&nbsp;→ MW-03-C01&nbsp;→ MW-03-C01.01"
+                    ]
+                },
+                {
+                    "label": "Measurements",
+                    "display_values": [
+                        "160 x 160mm"
+                    ]
+                },
+                {
+                    "label": "Materials",
+                    "display_values": [
+                        "Graphic"
+                    ]
+                }
+            ],
+            "stats": {
+                "tap_count": 0
+            },
+            "links": [],
+            "creators_primary": [],
+            "creators_other": [
+                {
+                    "id": 1134513,
+                    "name": "Michael Corridore",
+                    "creator_id": 72961,
+                    "role": "photographer",
+                    "role_id": 440,
+                    "is_primary": false
+                }
+            ],
+            "video_links": [],
+            "media_note": null,
+            "images": [
+                {
+                    "id": 13140,
+                    "image_file": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/P180486_G195.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=k%2FbRnRoc%2B49SxR%2BJtXdIRiVk8rk%3D&Expires=1627009103",
+                    "image_file_thumbnail": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/P180486_G195.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=dziaqRqdLCivrqzgBzkR9G20iXA%3D&Expires=1627009103",
+                    "image_file_xs": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/P180486_G195.jpg.480x480_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=kAysnBPSsn9zDAP9YqnwLmGvt6U%3D&Expires=1627009103",
+                    "image_file_s": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/P180486_G195.jpg.960x960_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=jWOxXUUV8G%2BWSYZWWKPFWFwI3Gw%3D&Expires=1627009103",
+                    "image_file_m": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/P180486_G195.jpg.1920x1920_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=0FjI4yqb74YWvMSvbkVMC%2FqV5pQ%3D&Expires=1627009103",
+                    "image_file_l": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/P180486_G195.jpg.3840x3840_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=mBVbsF3gtjQgFEHtWqTDmC5tuI4%3D&Expires=1627009103",
+                    "caption": "",
+                    "credit_line": "",
+                    "alt_text": "",
+                    "width": 3543,
+                    "height": 3349,
+                    "access_level": "View anywhere"
+                }
+            ],
+            "videos": [],
+            "holdings": [],
+            "part_of": null,
+            "parts": [],
+            "part_siblings": [],
+            "group": {
+                "id": 100860,
+                "acmi_id": "182483",
+                "title": "Set design in Sweet Country",
+                "title_annotation": "",
+                "slug": "set-design-in-sweet-country",
+                "creator_credit": "David Tranter and Warwick Thornton",
+                "credit_line": "<p>Courtesy Bunya Productions Pty Ltd</p>",
+                "headline_credit": "Australia, 2018",
+                "thumbnail": {
+                    "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/P180487_G196.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=U4Hdq8GtjuUT0bK%2F%2BKKPtBm%2FtUQ%3D&Expires=1627009103",
+                    "has_video": false
+                },
+                "record_type": "group",
+                "type": "Object",
+                "is_on_display": true,
+                "last_on_display_place": "ACMI: Gallery 1",
+                "last_on_display_date": "2023-02-09",
+                "is_context_indigenous": true,
+                "material_description": "",
+                "unpublished": false,
+                "first_production_date": "2018-01-01T11:00:00+11:00"
+            },
+            "group_works": [],
+            "group_siblings": [
+                {
+                    "id": 114479,
+                    "acmi_id": "183575",
+                    "title": "Hamilton Morris, Natassia Gorey-Furber and Warwick Thornton during production",
+                    "title_annotation": "",
+                    "slug": "hamilton-morris-natassia-gorey-furber-and-warwick-thornton-during-production",
+                    "creator_credit": "Mark Rogers",
+                    "credit_line": "<p>Courtesy Bunya Productions Pty Ltd</p>",
+                    "headline_credit": "",
+                    "thumbnail": {
+                        "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/P180487_G196.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=U4Hdq8GtjuUT0bK%2F%2BKKPtBm%2FtUQ%3D&Expires=1627009103",
+                        "has_video": false
+                    },
+                    "record_type": "group",
+                    "type": "Film",
+                    "is_on_display": true,
+                    "last_on_display_place": "ACMI: Gallery 1",
+                    "last_on_display_date": "2023-02-09",
+                    "is_context_indigenous": false,
+                    "material_description": "",
+                    "unpublished": false,
+                    "first_production_date": null
+                },
+                {
+                    "id": 100687,
+                    "acmi_id": "180490",
+                    "title": "Philomac costume sketch",
+                    "title_annotation": "Facsimile",
+                    "slug": "graphic-costume-sketch-philomac",
+                    "creator_credit": "Heather Wallace",
+                    "credit_line": "<p>Courtesy Bunya Productions Pty Ltd</p>",
+                    "headline_credit": "Australia, 2018",
+                    "thumbnail": {
+                        "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/P180490_G199.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=NgccbEvkdK211vhMNxlOGquUXuM%3D&Expires=1627009103",
+                        "has_video": false
+                    },
+                    "record_type": "work",
+                    "type": "Object",
+                    "is_on_display": true,
+                    "last_on_display_place": "ACMI: Gallery 1",
+                    "last_on_display_date": "2023-02-09",
+                    "is_context_indigenous": false,
+                    "material_description": "Graphic",
+                    "unpublished": false,
+                    "first_production_date": "2018-01-01T11:00:00+11:00"
+                },
+                {
+                    "id": 112208,
+                    "acmi_id": "183576",
+                    "title": "Plans and colour references for set",
+                    "title_annotation": "",
+                    "slug": "plans-and-colour-references-for-set",
+                    "creator_credit": "Theo Benton and Tony Cronin",
+                    "credit_line": "",
+                    "headline_credit": "",
+                    "thumbnail": {
+                        "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/P180496_G205.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=zfKgWk9DfgGcqP8yfZy%2BgJW38BE%3D&Expires=1627009103",
+                        "has_video": false
+                    },
+                    "record_type": "group",
+                    "type": "Film",
+                    "is_on_display": true,
+                    "last_on_display_place": "ACMI: Gallery 1",
+                    "last_on_display_date": "2023-02-09",
+                    "is_context_indigenous": false,
+                    "material_description": "",
+                    "unpublished": false,
+                    "first_production_date": null
+                },
+                {
+                    "id": 112191,
+                    "acmi_id": "183577",
+                    "title": "Pocket watch, chains, pocket knife",
+                    "title_annotation": "",
+                    "slug": "pocket-watch-chains-pocket-knife",
+                    "creator_credit": "",
+                    "credit_line": "<p>Courtesy Bunya Productions Pty Ltd</p>",
+                    "headline_credit": "",
+                    "thumbnail": {
+                        "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN179583_ArchiesKnifeSweetCountry.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=wdftmb5r6fPvRzFYYxqbFnTj4Lw%3D&Expires=1627009103",
+                        "has_video": false
+                    },
+                    "record_type": "group",
+                    "type": "Film",
+                    "is_on_display": true,
+                    "last_on_display_place": "ACMI: Gallery 1",
+                    "last_on_display_date": "2023-02-09",
+                    "is_context_indigenous": false,
+                    "material_description": "",
+                    "unpublished": false,
+                    "first_production_date": null
+                },
+                {
+                    "id": 112207,
+                    "acmi_id": "183578",
+                    "title": "Set during contsruction",
+                    "title_annotation": "",
+                    "slug": "set-during-consruction",
+                    "creator_credit": "Theo Benton and Tony Cronin",
+                    "credit_line": "<p>Courtesy Bunya Productions</p>",
+                    "headline_credit": "",
+                    "thumbnail": {
+                        "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/P180494_G203.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=mYeYs5Qu%2BTTGmn1k8csrNpa7708%3D&Expires=1627009103",
+                        "has_video": false
+                    },
+                    "record_type": "group",
+                    "type": "Film",
+                    "is_on_display": true,
+                    "last_on_display_place": "ACMI: Gallery 1",
+                    "last_on_display_date": "2023-02-09",
+                    "is_context_indigenous": false,
+                    "material_description": "",
+                    "unpublished": false,
+                    "first_production_date": null
+                },
+                {
+                    "id": 112204,
+                    "acmi_id": "183579",
+                    "title": "Storyboards",
+                    "title_annotation": "",
+                    "slug": "storyboards",
+                    "creator_credit": "David Tranter",
+                    "credit_line": "<p>Courtesy Bunja Productions Pty Ltd</p>",
+                    "headline_credit": "",
+                    "thumbnail": null,
+                    "record_type": "group",
+                    "type": "Film",
+                    "is_on_display": true,
+                    "last_on_display_place": "ACMI: Gallery 1",
+                    "last_on_display_date": "2023-02-09",
+                    "is_context_indigenous": false,
+                    "material_description": "",
+                    "unpublished": false,
+                    "first_production_date": null
+                },
+                {
+                    "id": 100555,
+                    "acmi_id": "179581",
+                    "title": "Sweet Country's Harry Marsh shirt and vest costume",
+                    "title_annotation": "",
+                    "slug": "harrys-shirt-and-vest-from-sweet-country-warwick-thornton",
+                    "creator_credit": "Heather Wallace",
+                    "credit_line": "<p>Courtesy Bunya Productions Pty Ltd</p>",
+                    "headline_credit": "Australia, 2018",
+                    "thumbnail": {
+                        "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN179581_SweetCountry_HarrysRedShirt_Front.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=mxucCfsg%2BsfDIZDY5xvWcRkuV44%3D&Expires=1627009103",
+                        "has_video": false
+                    },
+                    "record_type": "work",
+                    "type": "Object",
+                    "is_on_display": true,
+                    "last_on_display_place": "ACMI: Gallery 1",
+                    "last_on_display_date": "2023-02-09",
+                    "is_context_indigenous": false,
+                    "material_description": "Linen, wool, cotton ticking, cotton calico, vintage buttons",
+                    "unpublished": false,
+                    "first_production_date": "2018-01-01T11:00:00+11:00"
+                },
+                {
+                    "id": 100694,
+                    "acmi_id": "180497",
+                    "title": "Sweet Country costume sketch for Harry Marsh",
+                    "title_annotation": "Facsimile",
+                    "slug": "graphic-costume-sketch-harry",
+                    "creator_credit": "Heather Wallace",
+                    "credit_line": "<p>Courtesy Bunya Productions Pty Ltd</p>",
+                    "headline_credit": "Australia, 2018",
+                    "thumbnail": {
+                        "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/P180497_G206.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=hw0j0ASw2GQF1KFb8wu12nThGJg%3D&Expires=1627009103",
+                        "has_video": false
+                    },
+                    "record_type": "work",
+                    "type": "Object",
+                    "is_on_display": true,
+                    "last_on_display_place": "ACMI: Gallery 1",
+                    "last_on_display_date": "2023-02-09",
+                    "is_context_indigenous": false,
+                    "material_description": "Graphic",
+                    "unpublished": false,
+                    "first_production_date": "2018-01-01T11:00:00+11:00"
+                },
+                {
+                    "id": 100685,
+                    "acmi_id": "180488",
+                    "title": "Sweet Country production photo of Shanika Cole",
+                    "title_annotation": "Facsimile",
+                    "slug": "graphic-photo-of-shanika-cole-as-lucy-p1",
+                    "creator_credit": "",
+                    "credit_line": "<p>Courtesy Bunya Productions Pty Ltd</p>",
+                    "headline_credit": "Australia, 2018",
+                    "thumbnail": {
+                        "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/P180488_G197.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=aFCRXV4cQVuTDcvJ55YI24fLYlI%3D&Expires=1627009103",
+                        "has_video": false
+                    },
+                    "record_type": "work",
+                    "type": "Object",
+                    "is_on_display": true,
+                    "last_on_display_place": "ACMI: Gallery 1",
+                    "last_on_display_date": "2023-02-09",
+                    "is_context_indigenous": false,
+                    "material_description": "Graphic",
+                    "unpublished": false,
+                    "first_production_date": "2018-01-01T11:00:00+11:00"
+                }
+            ],
+            "source": {
+                "name": "Vernon",
+                "slug": "vernon"
+            },
+            "source_identifier": "180486",
+            "production_places": [
+                {
+                    "id": 3,
+                    "name": "Australia",
+                    "slug": "australia"
+                }
+            ],
+            "production_dates": [
+                {
+                    "date": "2018",
+                    "notes": "",
+                    "to_year": "2018"
+                }
+            ],
+            "labels": [
+                40171
+            ]
+        },
+        {
+            "id": 100682,
+            "acmi_id": "180485",
+            "title": "Hamilton Morris, Natassia Gorey-Furber and Warwick Thornton during production of Sweet Country",
+            "title_annotation": "Facsimile",
+            "slug": "graphic-photo-of-hamilton-morris-as-sam-kelly-and-natassia-gorey-furber-as-lizzie",
+            "creator_credit": "",
+            "credit_line": "<p>Courtesy Bunya Productions Pty Ltd</p>",
+            "headline_credit": "Australia, 2018",
+            "thumbnail": {
+                "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/P180485_G194.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=vUBHJWd7M1TUWiQhtns50YSKBdY%3D&Expires=1627009103",
+                "has_video": false
+            },
+            "record_type": "work",
+            "type": "Object",
+            "is_on_display": true,
+            "last_on_display_place": "ACMI: Gallery 1",
+            "last_on_display_date": "2023-02-09",
+            "is_context_indigenous": false,
+            "material_description": "Graphic",
+            "unpublished": false,
+            "first_production_date": "2018-01-01T11:00:00+11:00",
+            "brief_description": "",
+            "constellations_primary": [],
+            "constellations_other": [],
+            "recommendations": [],
+            "title_for_label": "<p>Hamilton Morris, Natassia Gorey-Furber and Warwick Thornton during production</p>",
+            "creator_credit_for_label": "",
+            "headline_credit_for_label": "<p>Australia, 2018</p>",
+            "description": "",
+            "description_for_label": [],
+            "credit_line_for_label": "<p>Courtesy Bunya Productions Pty Ltd</p>",
+            "details": [
+                {
+                    "label": "Curatorial section",
+                    "display_values": [
+                        "The Story of the Moving Image&nbsp;→ Moving Worlds&nbsp;→ 03. Production Design&nbsp;→ MW-03-C01&nbsp;→ MW-03-C01.01"
+                    ]
+                },
+                {
+                    "label": "Measurements",
+                    "display_values": [
+                        "210 x 297mm"
+                    ]
+                },
+                {
+                    "label": "Materials",
+                    "display_values": [
+                        "Graphic"
+                    ]
+                }
+            ],
+            "stats": {
+                "tap_count": 0
+            },
+            "links": [],
+            "creators_primary": [],
+            "creators_other": [
+                {
+                    "id": 1134512,
+                    "name": "Mark Rogers",
+                    "creator_id": 72960,
+                    "role": "photographer",
+                    "role_id": 440,
+                    "is_primary": false
+                }
+            ],
+            "video_links": [],
+            "media_note": null,
+            "images": [
+                {
+                    "id": 13139,
+                    "image_file": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/P180485_G194.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=EJQhKW2M6TSVKrLwnv9uTlfAMSI%3D&Expires=1627009103",
+                    "image_file_thumbnail": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/P180485_G194.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=vUBHJWd7M1TUWiQhtns50YSKBdY%3D&Expires=1627009103",
+                    "image_file_xs": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/P180485_G194.jpg.480x480_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=TqfzXTgju8H%2BpoBaznV3fYoch7I%3D&Expires=1627009103",
+                    "image_file_s": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/P180485_G194.jpg.960x960_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=pby73ngGKch1DdFrMuwqOfximzs%3D&Expires=1627009103",
+                    "image_file_m": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/P180485_G194.jpg.1920x1920_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=pzjjbaC7tKCSuTSqeb%2FELUUQxOQ%3D&Expires=1627009103",
+                    "image_file_l": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/P180485_G194.jpg.3840x3840_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=xOoXQwcVc2uRTP2FNaIIaNjETvk%3D&Expires=1627009103",
+                    "caption": "",
+                    "credit_line": "",
+                    "alt_text": "",
+                    "width": 1890,
+                    "height": 1063,
+                    "access_level": "View anywhere"
+                }
+            ],
+            "videos": [],
+            "holdings": [],
+            "part_of": null,
+            "parts": [],
+            "part_siblings": [],
+            "group": {
+                "id": 114479,
+                "acmi_id": "183575",
+                "title": "Hamilton Morris, Natassia Gorey-Furber and Warwick Thornton during production",
+                "title_annotation": "",
+                "slug": "hamilton-morris-natassia-gorey-furber-and-warwick-thornton-during-production",
+                "creator_credit": "Mark Rogers",
+                "credit_line": "<p>Courtesy Bunya Productions Pty Ltd</p>",
+                "headline_credit": "",
+                "thumbnail": {
+                    "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/P180487_G196.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=U4Hdq8GtjuUT0bK%2F%2BKKPtBm%2FtUQ%3D&Expires=1627009103",
+                    "has_video": false
+                },
+                "record_type": "group",
+                "type": "Film",
+                "is_on_display": true,
+                "last_on_display_place": "ACMI: Gallery 1",
+                "last_on_display_date": "2023-02-09",
+                "is_context_indigenous": false,
+                "material_description": "",
+                "unpublished": false,
+                "first_production_date": null
+            },
+            "group_works": [],
+            "group_siblings": [
+                {
+                    "id": 100684,
+                    "acmi_id": "180487",
+                    "title": "Sweet Country production photo of Hamilton Morris, Natassia Gorey-Furber and Warwick Thornton on street",
+                    "title_annotation": "Facsimile",
+                    "slug": "graphic-photo-of-warwick-thornton-on-set",
+                    "creator_credit": "",
+                    "credit_line": "<p>Courtesy Bunya Productions Pty Ltd</p>",
+                    "headline_credit": "Australia, 2018",
+                    "thumbnail": {
+                        "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/P180487_G196.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=U4Hdq8GtjuUT0bK%2F%2BKKPtBm%2FtUQ%3D&Expires=1627009103",
+                        "has_video": false
+                    },
+                    "record_type": "work",
+                    "type": "Object",
+                    "is_on_display": true,
+                    "last_on_display_place": "ACMI: Gallery 1",
+                    "last_on_display_date": "2023-02-09",
+                    "is_context_indigenous": false,
+                    "material_description": "Graphic",
+                    "unpublished": false,
+                    "first_production_date": "2018-01-01T11:00:00+11:00"
+                },
+                {
+                    "id": 100686,
+                    "acmi_id": "180489",
+                    "title": "Sweet Country production photo of Hamilton Morris, Natassia Gorey-Furber and Warwick Thornton",
+                    "title_annotation": "Facsimile",
+                    "slug": "graphic-photo-of-natassia-gorey-furber-as-lizzie-p2",
+                    "creator_credit": "",
+                    "credit_line": "<p>Courtesy Bunya Productions Pty Ltd</p>",
+                    "headline_credit": "Australia, 2018",
+                    "thumbnail": {
+                        "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/P180489_G198.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=7ENsO4125AK0RIY07X9575Vhi1Y%3D&Expires=1627009103",
+                        "has_video": false
+                    },
+                    "record_type": "work",
+                    "type": "Object",
+                    "is_on_display": true,
+                    "last_on_display_place": "ACMI: Gallery 1",
+                    "last_on_display_date": "2023-02-09",
+                    "is_context_indigenous": false,
+                    "material_description": "Graphic",
+                    "unpublished": false,
+                    "first_production_date": "2018-01-01T11:00:00+11:00"
+                }
+            ],
+            "source": {
+                "name": "Vernon",
+                "slug": "vernon"
+            },
+            "source_identifier": "180485",
+            "production_places": [
+                {
+                    "id": 3,
+                    "name": "Australia",
+                    "slug": "australia"
+                }
+            ],
+            "production_dates": [
+                {
+                    "date": "2018",
+                    "notes": "",
+                    "to_year": "2018"
+                }
+            ],
+            "labels": [
+                40170
+            ]
+        },
+        {
+            "id": 99875,
+            "acmi_id": "180386",
+            "title": "Loading Film At The Feinstein IMAX Theatre",
+            "title_annotation": "Facsimile",
+            "slug": "graphic-loading-film-at-the-feinstein-imax-theatre",
+            "creator_credit": "Dominic Chavez",
+            "credit_line": "<p>Courtesy Boston Globe / Getty Images</p>",
+            "headline_credit": "United States, 2001",
+            "thumbnail": {
+                "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/P180386_G096.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=QlFSmqWMsu1In%2BBk%2BRVjMvJWbN0%3D&Expires=1627009103",
+                "has_video": false
+            },
+            "record_type": "work",
+            "type": "Object",
+            "is_on_display": true,
+            "last_on_display_place": "ACMI: Gallery 1",
+            "last_on_display_date": "2031-02-16",
+            "is_context_indigenous": false,
+            "material_description": "Graphic",
+            "unpublished": false,
+            "first_production_date": "2001-01-01T11:00:00+11:00",
+            "brief_description": "",
+            "constellations_primary": [],
+            "constellations_other": [],
+            "recommendations": [],
+            "title_for_label": "<p>Loading Film At The Feinstein IMAX Theatre</p>",
+            "creator_credit_for_label": "<p>Dominic Chavez</p>",
+            "headline_credit_for_label": "<p>United States, 2001</p>",
+            "description": "",
+            "description_for_label": [],
+            "credit_line_for_label": "<p>Courtesy Boston Globe / Getty Images</p>",
+            "details": [
+                {
+                    "label": "Curatorial section",
+                    "display_values": [
+                        "The Story of the Moving Image&nbsp;→ Moving Pictures&nbsp;→ 08. Immersive Innovations&nbsp;→ MI-08-C01"
+                    ]
+                },
+                {
+                    "label": "Measurements",
+                    "display_values": [
+                        "150 x 225mm"
+                    ]
+                },
+                {
+                    "label": "Materials",
+                    "display_values": [
+                        "Graphic"
+                    ]
+                }
+            ],
+            "stats": {
+                "tap_count": 0
+            },
+            "links": [],
+            "creators_primary": [
+                {
+                    "id": 1134511,
+                    "name": "Dominic Chavez",
+                    "creator_id": 72035,
+                    "role": "creator",
+                    "role_id": 968,
+                    "is_primary": true
+                }
+            ],
+            "creators_other": [],
+            "video_links": [],
+            "media_note": null,
+            "images": [
+                {
+                    "id": 13084,
+                    "image_file": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/P180386_G096.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=DO4YiOmmsbtfJdRVee3ccIgti2c%3D&Expires=1627009103",
+                    "image_file_thumbnail": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/P180386_G096.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=QlFSmqWMsu1In%2BBk%2BRVjMvJWbN0%3D&Expires=1627009103",
+                    "image_file_xs": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/P180386_G096.jpg.480x480_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=Us9Z9HyBkeFV0eI0A7AOjQGQmXA%3D&Expires=1627009103",
+                    "image_file_s": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/P180386_G096.jpg.960x960_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=kTHwHiziGqMo3qCtq6LeXPkglFs%3D&Expires=1627009103",
+                    "image_file_m": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/P180386_G096.jpg.1920x1920_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=Nj8WYKf%2F%2Bb4vcYp1D6EgRO0FtNs%3D&Expires=1627009103",
+                    "image_file_l": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/P180386_G096.jpg.3840x3840_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=sKrQ7FmBdPRZPRvNfWfEZQ35k4U%3D&Expires=1627009103",
+                    "caption": "",
+                    "credit_line": "",
+                    "alt_text": "",
+                    "width": 2295,
+                    "height": 1576,
+                    "access_level": "View anywhere"
+                }
+            ],
+            "videos": [],
+            "holdings": [],
+            "part_of": null,
+            "parts": [],
+            "part_siblings": [],
+            "group": {
+                "id": 100550,
+                "acmi_id": "181519",
+                "title": "IMAX",
+                "title_annotation": "",
+                "slug": "imax",
+                "creator_credit": "",
+                "credit_line": "",
+                "headline_credit": "",
+                "thumbnail": {
+                    "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/P179567_Imax3DGlasses_34.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=Ew%2FN3%2FQYJoD%2FmPFGff4XDOMatYM%3D&Expires=1627009103",
+                    "has_video": false
+                },
+                "record_type": "group",
+                "type": "Film",
+                "is_on_display": true,
+                "last_on_display_place": "ACMI: Gallery 1",
+                "last_on_display_date": "2031-02-16",
+                "is_context_indigenous": false,
+                "material_description": "",
+                "unpublished": false,
+                "first_production_date": null
+            },
+            "group_works": [],
+            "group_siblings": [
+                {
+                    "id": 99570,
+                    "acmi_id": "179567",
+                    "title": "Electronic 3D glasses for domes",
+                    "title_annotation": "",
+                    "slug": "imax-fujitsu-electronic-3d-glasses-for-domes-liquid-crystal-shutters",
+                    "creator_credit": "IMAX and Fujitsu",
+                    "credit_line": "<p>Courtesy IMAX</p>",
+                    "headline_credit": "Canada",
+                    "thumbnail": {
+                        "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/P179567_Imax3DGlasses_34.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=Ew%2FN3%2FQYJoD%2FmPFGff4XDOMatYM%3D&Expires=1627009103",
+                        "has_video": false
+                    },
+                    "record_type": "work",
+                    "type": "Object",
+                    "is_on_display": true,
+                    "last_on_display_place": "ACMI: Gallery 1",
+                    "last_on_display_date": "2031-02-16",
+                    "is_context_indigenous": false,
+                    "material_description": "",
+                    "unpublished": false,
+                    "first_production_date": null
+                },
+                {
+                    "id": 99873,
+                    "acmi_id": "180384",
+                    "title": "IMAX film comparison",
+                    "title_annotation": "Facsimile",
+                    "slug": "graphic-imax",
+                    "creator_credit": "",
+                    "credit_line": "",
+                    "headline_credit": "",
+                    "thumbnail": null,
+                    "record_type": "work",
+                    "type": "Object",
+                    "is_on_display": true,
+                    "last_on_display_place": "ACMI: Gallery 1",
+                    "last_on_display_date": "2031-02-16",
+                    "is_context_indigenous": false,
+                    "material_description": "Graphic",
+                    "unpublished": false,
+                    "first_production_date": null
+                },
+                {
+                    "id": 99874,
+                    "acmi_id": "180385",
+                    "title": "Typical 3D IMAX theatre",
+                    "title_annotation": "Facsimile",
+                    "slug": "graphic-typical-3d-imax-theatre",
+                    "creator_credit": "",
+                    "credit_line": "<p>Courtesy IMAX</p>",
+                    "headline_credit": "Canada",
+                    "thumbnail": null,
+                    "record_type": "work",
+                    "type": "Object",
+                    "is_on_display": true,
+                    "last_on_display_place": "ACMI: Gallery 1",
+                    "last_on_display_date": "2031-02-16",
+                    "is_context_indigenous": false,
+                    "material_description": "Graphic",
+                    "unpublished": false,
+                    "first_production_date": null
+                }
+            ],
+            "source": {
+                "name": "Vernon",
+                "slug": "vernon"
+            },
+            "source_identifier": "180386",
+            "production_places": [
+                {
+                    "id": 2,
+                    "name": "United States",
+                    "slug": "united-states"
+                }
+            ],
+            "production_dates": [
+                {
+                    "date": "2001",
+                    "notes": "",
+                    "to_year": "2001"
+                }
+            ],
+            "labels": [
+                39370
+            ]
+        },
+        {
+            "id": 99874,
+            "acmi_id": "180385",
+            "title": "Typical 3D IMAX theatre",
+            "title_annotation": "Facsimile",
+            "slug": "graphic-typical-3d-imax-theatre",
+            "creator_credit": "",
+            "credit_line": "<p>Courtesy IMAX</p>",
+            "headline_credit": "Canada",
+            "thumbnail": null,
+            "record_type": "work",
+            "type": "Object",
+            "is_on_display": true,
+            "last_on_display_place": "ACMI: Gallery 1",
+            "last_on_display_date": "2031-02-16",
+            "is_context_indigenous": false,
+            "material_description": "Graphic",
+            "unpublished": false,
+            "first_production_date": null,
+            "brief_description": "",
+            "constellations_primary": [],
+            "constellations_other": [],
+            "recommendations": [],
+            "title_for_label": "<p>Typical 3D IMAX theatre</p>",
+            "creator_credit_for_label": "",
+            "headline_credit_for_label": "<p>Canada</p>",
+            "description": "",
+            "description_for_label": [],
+            "credit_line_for_label": "<p>Courtesy IMAX</p>",
+            "details": [
+                {
+                    "label": "Curatorial section",
+                    "display_values": [
+                        "The Story of the Moving Image&nbsp;→ Moving Pictures&nbsp;→ 08. Immersive Innovations&nbsp;→ MI-08-C01"
+                    ]
+                },
+                {
+                    "label": "Measurements",
+                    "display_values": [
+                        "195 x 180mm"
+                    ]
+                },
+                {
+                    "label": "Materials",
+                    "display_values": [
+                        "Graphic"
+                    ]
+                }
+            ],
+            "stats": {
+                "tap_count": 0
+            },
+            "links": [],
+            "creators_primary": [],
+            "creators_other": [],
+            "video_links": [],
+            "media_note": "Sorry, we aren't able to make images or video for this item available to the public online.",
+            "images": [],
+            "videos": [],
+            "holdings": [],
+            "part_of": null,
+            "parts": [],
+            "part_siblings": [],
+            "group": {
+                "id": 100550,
+                "acmi_id": "181519",
+                "title": "IMAX",
+                "title_annotation": "",
+                "slug": "imax",
+                "creator_credit": "",
+                "credit_line": "",
+                "headline_credit": "",
+                "thumbnail": {
+                    "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/P179567_Imax3DGlasses_34.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=Ew%2FN3%2FQYJoD%2FmPFGff4XDOMatYM%3D&Expires=1627009103",
+                    "has_video": false
+                },
+                "record_type": "group",
+                "type": "Film",
+                "is_on_display": true,
+                "last_on_display_place": "ACMI: Gallery 1",
+                "last_on_display_date": "2031-02-16",
+                "is_context_indigenous": false,
+                "material_description": "",
+                "unpublished": false,
+                "first_production_date": null
+            },
+            "group_works": [],
+            "group_siblings": [
+                {
+                    "id": 99570,
+                    "acmi_id": "179567",
+                    "title": "Electronic 3D glasses for domes",
+                    "title_annotation": "",
+                    "slug": "imax-fujitsu-electronic-3d-glasses-for-domes-liquid-crystal-shutters",
+                    "creator_credit": "IMAX and Fujitsu",
+                    "credit_line": "<p>Courtesy IMAX</p>",
+                    "headline_credit": "Canada",
+                    "thumbnail": {
+                        "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/P179567_Imax3DGlasses_34.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=Ew%2FN3%2FQYJoD%2FmPFGff4XDOMatYM%3D&Expires=1627009103",
+                        "has_video": false
+                    },
+                    "record_type": "work",
+                    "type": "Object",
+                    "is_on_display": true,
+                    "last_on_display_place": "ACMI: Gallery 1",
+                    "last_on_display_date": "2031-02-16",
+                    "is_context_indigenous": false,
+                    "material_description": "",
+                    "unpublished": false,
+                    "first_production_date": null
+                },
+                {
+                    "id": 99873,
+                    "acmi_id": "180384",
+                    "title": "IMAX film comparison",
+                    "title_annotation": "Facsimile",
+                    "slug": "graphic-imax",
+                    "creator_credit": "",
+                    "credit_line": "",
+                    "headline_credit": "",
+                    "thumbnail": null,
+                    "record_type": "work",
+                    "type": "Object",
+                    "is_on_display": true,
+                    "last_on_display_place": "ACMI: Gallery 1",
+                    "last_on_display_date": "2031-02-16",
+                    "is_context_indigenous": false,
+                    "material_description": "Graphic",
+                    "unpublished": false,
+                    "first_production_date": null
+                },
+                {
+                    "id": 99875,
+                    "acmi_id": "180386",
+                    "title": "Loading Film At The Feinstein IMAX Theatre",
+                    "title_annotation": "Facsimile",
+                    "slug": "graphic-loading-film-at-the-feinstein-imax-theatre",
+                    "creator_credit": "Dominic Chavez",
+                    "credit_line": "<p>Courtesy Boston Globe / Getty Images</p>",
+                    "headline_credit": "United States, 2001",
+                    "thumbnail": {
+                        "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/P180386_G096.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=QlFSmqWMsu1In%2BBk%2BRVjMvJWbN0%3D&Expires=1627009103",
+                        "has_video": false
+                    },
+                    "record_type": "work",
+                    "type": "Object",
+                    "is_on_display": true,
+                    "last_on_display_place": "ACMI: Gallery 1",
+                    "last_on_display_date": "2031-02-16",
+                    "is_context_indigenous": false,
+                    "material_description": "Graphic",
+                    "unpublished": false,
+                    "first_production_date": "2001-01-01T11:00:00+11:00"
+                }
+            ],
+            "source": {
+                "name": "Vernon",
+                "slug": "vernon"
+            },
+            "source_identifier": "180385",
+            "production_places": [
+                {
+                    "id": 36,
+                    "name": "Canada",
+                    "slug": "canada"
+                }
+            ],
+            "production_dates": [],
+            "labels": [
+                39369
+            ]
+        }
+    ]
+}

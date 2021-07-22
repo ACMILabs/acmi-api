@@ -1,0 +1,225 @@
+{
+    "id": 108717,
+    "acmi_id": "1864",
+    "title": "Human motions",
+    "title_annotation": "",
+    "slug": "human-motions",
+    "creator_credit": "Tamas Waliczky",
+    "credit_line": "",
+    "headline_credit": "Hungary, 1986-1988",
+    "thumbnail": null,
+    "record_type": "work",
+    "type": "Film",
+    "is_on_display": false,
+    "last_on_display_place": null,
+    "last_on_display_date": null,
+    "is_context_indigenous": false,
+    "material_description": "",
+    "unpublished": false,
+    "first_production_date": null,
+    "brief_description": "<p>Around 1987, Waliczky used an ATARI 520 ST to make Human Motions (or, Computer Mobiles) his first-ever animations. In these first seven works, Waliczky explored the possibility offered by the ATARI computer of storing and endlessly repeating a one to four seconds long animated sequence. The seven computer animated sequences are: &#8220;WHEEL&#8221;, &#8220;LOVE TRIANGLE&#8221;, CENTRAL SHUTTER&#8221;, &#8220;BALANCE&#8221;, WATERBIRD&#8221;, CRYING WOMAN&#8221;, &#8220;EYE&#8221;. The COMPUTER MOBILES address a number of major artistic and technical questions which are characteristic of Waliczky&#8217;s oeuvre and crop up repeatedly in subsequent works. Among these issues is the principle of colour animation, i.e., the use of changes in colour to create an impression of movement, as in the two mobiles WATERBIRD and CRYING WOMAN. In BALANCE, one of the most attractive works in the COMPUTER MOBILES series, Waliczky arranged the digitized photographs of a man and a woman into an endless vertical composition. The two figures, captured in acrobatic poses, seem to push and pull one another to and fro, as if engaged in a circus performance watched by the camera as it slowly pans upwards.</p>",
+    "constellations_primary": [],
+    "constellations_other": [],
+    "recommendations": [],
+    "title_for_label": "<p>Human motions</p>",
+    "creator_credit_for_label": "<p>Tamas Waliczky</p>",
+    "headline_credit_for_label": "<p>Hungary, 1986-1988</p>",
+    "description": "<p>Around 1987, Waliczky used an ATARI 520 ST to make Human Motions (or, Computer Mobiles) his first-ever animations. In these first seven works, Waliczky explored the possibility offered by the ATARI computer of storing and endlessly repeating a one to four seconds long animated sequence. The seven computer animated sequences are: &#8220;WHEEL&#8221;, &#8220;LOVE TRIANGLE&#8221;, CENTRAL SHUTTER&#8221;, &#8220;BALANCE&#8221;, WATERBIRD&#8221;, CRYING WOMAN&#8221;, &#8220;EYE&#8221;. The COMPUTER MOBILES address a number of major artistic and technical questions which are characteristic of Waliczky&#8217;s oeuvre and crop up repeatedly in subsequent works. Among these issues is the principle of colour animation, i.e., the use of changes in colour to create an impression of movement, as in the two mobiles WATERBIRD and CRYING WOMAN. In BALANCE, one of the most attractive works in the COMPUTER MOBILES series, Waliczky arranged the digitized photographs of a man and a woman into an endless vertical composition. The two figures, captured in acrobatic poses, seem to push and pull one another to and fro, as if engaged in a circus performance watched by the camera as it slowly pans upwards.</p>",
+    "description_for_label": [
+        "<p>Around 1987, Waliczky used an ATARI 520 ST to make Human Motions (or, Computer Mobiles) his first-ever animations. In these first seven works, Waliczky explored the possibility offered by the ATARI computer of storing and endlessly repeating a one to four seconds long animated sequence. The seven computer animated sequences are: &#8220;WHEEL&#8221;, &#8220;LOVE TRIANGLE&#8221;, CENTRAL SHUTTER&#8221;, &#8220;BALANCE&#8221;, WATERBIRD&#8221;, CRYING WOMAN&#8221;, &#8220;EYE&#8221;. The COMPUTER MOBILES address a number of major artistic and technical questions which are characteristic of Waliczky&#8217;s oeuvre and crop up repeatedly in subsequent works. Among these issues is the principle of colour animation, i.e., the use of changes in colour to create an impression of movement, as in the two mobiles WATERBIRD and CRYING WOMAN. In BALANCE, one of the most attractive works in the COMPUTER MOBILES series, Waliczky arranged the digitized photographs of a man and a woman into an endless vertical composition. The two figures, captured in acrobatic poses, seem to push and pull one another to and fro, as if engaged in a circus performance watched by the camera as it slowly pans upwards.</p>"
+    ],
+    "credit_line_for_label": "",
+    "details": [
+        {
+            "label": "Language",
+            "display_values": [
+                "No spoken word"
+            ]
+        },
+        {
+            "label": "Audience classification",
+            "display_values": [
+                "unclassified"
+            ]
+        },
+        {
+            "label": "Subject categories",
+            "display_values": [
+                "Animation",
+                "Animation&nbsp;→ Computer animation",
+                "Animation&nbsp;→ Computer animation&nbsp;→ 2-D computer animation"
+            ]
+        }
+    ],
+    "stats": {
+        "tap_count": 0
+    },
+    "links": [],
+    "creators_primary": [
+        {
+            "id": 1133681,
+            "name": "Tamas Waliczky",
+            "creator_id": 8339,
+            "role": "creator",
+            "role_id": 968,
+            "is_primary": true
+        }
+    ],
+    "creators_other": [
+        {
+            "id": 1133682,
+            "name": "Tamas Waliczky",
+            "creator_id": 8339,
+            "role": "designer",
+            "role_id": 495,
+            "is_primary": false
+        },
+        {
+            "id": 1133680,
+            "name": "Tamas Waliczky",
+            "creator_id": 8339,
+            "role": "animator",
+            "role_id": 497,
+            "is_primary": false
+        }
+    ],
+    "video_links": [],
+    "media_note": "Sorry, we don't have images or video for this item.",
+    "images": [],
+    "videos": [],
+    "holdings": [
+        {
+            "name": "Digital Betacam [PAL]; Master",
+            "identifier": "",
+            "description": ""
+        },
+        {
+            "name": "Digital Betacam [PAL]; Sub-master",
+            "identifier": "",
+            "description": ""
+        },
+        {
+            "name": "VHS [PAL]; Reference - timecoded",
+            "identifier": "",
+            "description": ""
+        },
+        {
+            "name": "MOV file ProRes4444; Digital Preservation Master - overscan",
+            "identifier": "",
+            "description": ""
+        },
+        {
+            "name": "MPEG-4 Digital File; ACMI Digital Access Copy - overscan",
+            "identifier": "",
+            "description": ""
+        }
+    ],
+    "part_of": null,
+    "parts": [],
+    "part_siblings": [],
+    "group": {
+        "id": 108543,
+        "acmi_id": "10394",
+        "title": "Tamas Waliczky compilation",
+        "title_annotation": "",
+        "slug": "tamas-waliczky-compilation",
+        "creator_credit": "Tamas Waliczky",
+        "credit_line": "",
+        "headline_credit": "1986-1998",
+        "thumbnail": null,
+        "record_type": "group",
+        "type": "Film",
+        "is_on_display": false,
+        "last_on_display_place": null,
+        "last_on_display_date": null,
+        "is_context_indigenous": false,
+        "material_description": "",
+        "unpublished": true,
+        "first_production_date": null
+    },
+    "group_works": [],
+    "group_siblings": [
+        {
+            "id": 108716,
+            "acmi_id": "1863",
+            "title": "Is there any room for me here?",
+            "title_annotation": "",
+            "slug": "is-there-any-room-for-me-here",
+            "creator_credit": "Tamas Waliczky",
+            "credit_line": "",
+            "headline_credit": "Hungary, 1988",
+            "thumbnail": null,
+            "record_type": "work",
+            "type": "Film",
+            "is_on_display": false,
+            "last_on_display_place": null,
+            "last_on_display_date": null,
+            "is_context_indigenous": false,
+            "material_description": "",
+            "unpublished": false,
+            "first_production_date": "1988-01-01T11:00:00+11:00"
+        },
+        {
+            "id": 108542,
+            "acmi_id": "1389",
+            "title": "Landscape",
+            "title_annotation": "",
+            "slug": "landscape",
+            "creator_credit": "ZKM Institut fur Bildmedien, Karlsruhe, Anna Szepesi and Tamas Waliczky",
+            "credit_line": "",
+            "headline_credit": "Hungary, 1998",
+            "thumbnail": null,
+            "record_type": "work",
+            "type": "Digital art",
+            "is_on_display": false,
+            "last_on_display_place": null,
+            "last_on_display_date": null,
+            "is_context_indigenous": false,
+            "material_description": "Single channel moving image, black and white and audio",
+            "unpublished": false,
+            "first_production_date": "1998-01-01T11:00:00+11:00"
+        },
+        {
+            "id": 108718,
+            "acmi_id": "1865",
+            "title": "Memory of Moholy-Nagy",
+            "title_annotation": "",
+            "slug": "memory-of-moholy-nagy",
+            "creator_credit": "John Halas and Tamas Waliczky",
+            "credit_line": "",
+            "headline_credit": "Hungary, 1990",
+            "thumbnail": null,
+            "record_type": "work",
+            "type": "Digital art",
+            "is_on_display": false,
+            "last_on_display_place": null,
+            "last_on_display_date": null,
+            "is_context_indigenous": false,
+            "material_description": "Single channel moving image",
+            "unpublished": false,
+            "first_production_date": "1990-01-01T11:00:00+11:00"
+        }
+    ],
+    "source": {
+        "name": "Vernon",
+        "slug": "vernon"
+    },
+    "source_identifier": "1864",
+    "production_places": [
+        {
+            "id": 25,
+            "name": "Hungary",
+            "slug": "hungary"
+        }
+    ],
+    "production_dates": [
+        {
+            "date": "1986-1988",
+            "notes": "",
+            "to_year": "1986-1988"
+        }
+    ],
+    "labels": [
+        48210
+    ]
+}

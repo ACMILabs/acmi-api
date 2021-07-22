@@ -1,0 +1,228 @@
+{
+    "id": 118268,
+    "acmi_id": "180924",
+    "title": "Pocket Cinema Camera 6K Form Prototype",
+    "title_annotation": "",
+    "slug": "pocket-cinema-camera-6k-form-prototype",
+    "creator_credit": "Blackmagic Design",
+    "credit_line": "<p>Courtesy Blackmagic Design, Major Partner of ACMI</p>",
+    "headline_credit": "",
+    "thumbnail": {
+        "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN180924_PocketCamera6K_FormPrototype.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=w6yjPsl5ZhuShnxGWNy%2BVZJRasQ%3D&Expires=1627009071",
+        "has_video": false
+    },
+    "record_type": "work",
+    "type": "Object",
+    "is_on_display": true,
+    "last_on_display_place": "ACMI: Gallery 1",
+    "last_on_display_date": "2023-02-09",
+    "is_context_indigenous": false,
+    "material_description": "full colour 3D print",
+    "unpublished": false,
+    "first_production_date": null,
+    "brief_description": "<p>This full colour 3D print is made from a powdered material solidified by an inkjet printing process over hundreds of layers. It was created using data from sophisticated 3D CAD software. Built by the Industrial Design Team, it was used during the early stages of the design process to evaluate the camera’s ergonomics and design.</p>",
+    "constellations_primary": [],
+    "constellations_other": [],
+    "recommendations": [],
+    "title_for_label": "<p>Pocket Cinema Camera 6K Form Prototype</p>",
+    "creator_credit_for_label": "<p>Blackmagic Design</p>",
+    "headline_credit_for_label": "",
+    "description": "<p>This full colour 3D print is made from a powdered material solidified by an inkjet printing process over hundreds of layers. It was created using data from sophisticated 3D CAD software. Built by the Industrial Design Team, it was used during the early stages of the design process to evaluate the camera’s ergonomics and design.</p>",
+    "description_for_label": [
+        "<p>This full colour 3D print is made from a powdered material solidified by an inkjet printing process over hundreds of layers. It was created using data from sophisticated 3D CAD software. Built by the Industrial Design Team, it was used during the early stages of the design process to evaluate the camera’s ergonomics and design.</p>"
+    ],
+    "credit_line_for_label": "<p>Courtesy Blackmagic Design, Major Partner of ACMI</p>",
+    "details": [
+        {
+            "label": "Curatorial section",
+            "display_values": [
+                "The Story of the Moving Image&nbsp;→  Foyer&nbsp;→ Entry &nbsp;→ 03. MPL exterior"
+            ]
+        },
+        {
+            "label": "Measurements",
+            "display_values": [
+                "90 x 170 x 90mm"
+            ]
+        },
+        {
+            "label": "Materials",
+            "display_values": [
+                "full colour 3D print"
+            ]
+        }
+    ],
+    "stats": {
+        "tap_count": 0
+    },
+    "links": [],
+    "creators_primary": [
+        {
+            "id": 1134580,
+            "name": "Blackmagic Design",
+            "creator_id": 73012,
+            "role": "manufacturer",
+            "role_id": 627,
+            "is_primary": true
+        }
+    ],
+    "creators_other": [
+        {
+            "id": 1134579,
+            "name": "Blackmagic Design",
+            "creator_id": 73012,
+            "role": "lender",
+            "role_id": 626,
+            "is_primary": false
+        }
+    ],
+    "video_links": [],
+    "media_note": null,
+    "images": [
+        {
+            "id": 21169,
+            "image_file": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN180924_PocketCamera6K_FormPrototype.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=7zAkH3j%2FKW3694917AACW0uTLrA%3D&Expires=1627009071",
+            "image_file_thumbnail": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN180924_PocketCamera6K_FormPrototype.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=w6yjPsl5ZhuShnxGWNy%2BVZJRasQ%3D&Expires=1627009071",
+            "image_file_xs": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN180924_PocketCamera6K_FormPrototype.jpg.480x480_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=x3NPbg%2BEZi6YVeWM%2Bc1j4gMA5lw%3D&Expires=1627009071",
+            "image_file_s": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN180924_PocketCamera6K_FormPrototype.jpg.960x960_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=F%2FRgS0LRmw3Fd6I9vcYdkaBrn%2F4%3D&Expires=1627009071",
+            "image_file_m": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN180924_PocketCamera6K_FormPrototype.jpg.1920x1920_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=WhW0variJCpcLOxg0D9MPdGwEZ0%3D&Expires=1627009071",
+            "image_file_l": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN180924_PocketCamera6K_FormPrototype.jpg.3840x3840_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=cPfus2mdZ%2F%2Fzj7Hf55azd1j3xJA%3D&Expires=1627009071",
+            "caption": "LN180924_PocketCamera6K_FormPrototype",
+            "credit_line": "Photograph by Egmont Contreras, ACMI.",
+            "alt_text": "",
+            "width": 4800,
+            "height": 3200,
+            "access_level": "View anywhere"
+        }
+    ],
+    "videos": [],
+    "holdings": [],
+    "part_of": null,
+    "parts": [],
+    "part_siblings": [],
+    "group": {
+        "id": 113857,
+        "acmi_id": "183607",
+        "title": "Pocket Cinema Camera 6K",
+        "title_annotation": "",
+        "slug": "mpl-display-group-pocket-cinema-camera-6k-prototypes",
+        "creator_credit": "Blackmagic Design",
+        "credit_line": "<p>Courtesy Blackmagic Design, Major Partner of ACMI</p>",
+        "headline_credit": "",
+        "thumbnail": {
+            "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/GROUP_PocketCamera6K_2.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=78zNqFb4ZdxhvMxbch1GPW%2Bjf2c%3D&Expires=1627009071",
+            "has_video": false
+        },
+        "record_type": "group",
+        "type": "Film",
+        "is_on_display": true,
+        "last_on_display_place": "ACMI: Gallery 1",
+        "last_on_display_date": "2023-02-09",
+        "is_context_indigenous": false,
+        "material_description": "",
+        "unpublished": false,
+        "first_production_date": null
+    },
+    "group_works": [],
+    "group_siblings": [
+        {
+            "id": 107661,
+            "acmi_id": "182853",
+            "title": "GRAPHIC: Sketches & CAD Drawings for Pocket Cinema Camera 6K",
+            "title_annotation": "Facsimile",
+            "slug": "graphic-sketches-cad-drawings-for-pocket-cinema-camera-6k",
+            "creator_credit": "Blackmagic Design",
+            "credit_line": "<p>Courtesy Blackmagic Design, Major Partner of ACMI</p>",
+            "headline_credit": "",
+            "thumbnail": null,
+            "record_type": "work",
+            "type": "Object",
+            "is_on_display": true,
+            "last_on_display_place": "ACMI: Gallery 1",
+            "last_on_display_date": "2023-02-09",
+            "is_context_indigenous": false,
+            "material_description": "digital print",
+            "unpublished": false,
+            "first_production_date": null
+        },
+        {
+            "id": 118271,
+            "acmi_id": "180927",
+            "title": "Pocket Cinema Camera 6K",
+            "title_annotation": "",
+            "slug": "pocket-cinema-camera-6k",
+            "creator_credit": "Blackmagic Design",
+            "credit_line": "<p>Courtesy Blackmagic Design, Major Partner of ACMI</p>",
+            "headline_credit": "AUG 2019",
+            "thumbnail": {
+                "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN180927_PocketCamera6K_Front.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=g%2FnZHOc76dLIfP8cofQeDfaP69k%3D&Expires=1627009071",
+                "has_video": false
+            },
+            "record_type": "work",
+            "type": "Object",
+            "is_on_display": true,
+            "last_on_display_place": "ACMI: Gallery 1",
+            "last_on_display_date": "2023-02-09",
+            "is_context_indigenous": false,
+            "material_description": "",
+            "unpublished": false,
+            "first_production_date": null
+        },
+        {
+            "id": 118269,
+            "acmi_id": "180925",
+            "title": "Pocket Cinema Camera 6K Body Panels",
+            "title_annotation": "",
+            "slug": "pocket-cinema-camera-6k-body-panels",
+            "creator_credit": "Blackmagic Design",
+            "credit_line": "<p>Courtesy Blackmagic Design, Major Partner of ACMI</p>",
+            "headline_credit": "",
+            "thumbnail": {
+                "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN180925_PocketCamera6K_BodyPanels.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=wBfZxCKic6kRWLFJamMqkibhPzg%3D&Expires=1627009071",
+                "has_video": false
+            },
+            "record_type": "work",
+            "type": "Object",
+            "is_on_display": true,
+            "last_on_display_place": "ACMI: Gallery 1",
+            "last_on_display_date": "2023-02-09",
+            "is_context_indigenous": false,
+            "material_description": "Polycarbonate reinforced with carbon fibre",
+            "unpublished": false,
+            "first_production_date": null
+        },
+        {
+            "id": 118270,
+            "acmi_id": "180926",
+            "title": "Pocket Cinema Camera 6K Partial Assembly",
+            "title_annotation": "",
+            "slug": "pocket-cinema-camera-6k-partial-assembly",
+            "creator_credit": "Blackmagic Design",
+            "credit_line": "<p>Courtesy Blackmagic Design, Major Partner of ACMI</p>",
+            "headline_credit": "",
+            "thumbnail": {
+                "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN180926_PocketCamera6K_PartialAssembly.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=jU90IOhBDGLQNAu4I3Y%2FGlse6Tc%3D&Expires=1627009071",
+                "has_video": false
+            },
+            "record_type": "work",
+            "type": "Object",
+            "is_on_display": true,
+            "last_on_display_place": "ACMI: Gallery 1",
+            "last_on_display_date": "2023-02-09",
+            "is_context_indigenous": false,
+            "material_description": "",
+            "unpublished": false,
+            "first_production_date": null
+        }
+    ],
+    "source": {
+        "name": "Vernon",
+        "slug": "vernon"
+    },
+    "source_identifier": "180924",
+    "production_places": [],
+    "production_dates": [],
+    "labels": [
+        57771
+    ]
+}

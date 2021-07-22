@@ -1,0 +1,120 @@
+{
+    "id": 99606,
+    "acmi_id": "179872",
+    "title": "European hand painted panoramic magic lantern slides",
+    "title_annotation": "",
+    "slug": "european-panoramic-slide-1112",
+    "creator_credit": "Maker not documented",
+    "credit_line": "<p>Courtesy Martyn Jolly</p>",
+    "headline_credit": "",
+    "thumbnail": {
+        "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN179872_EuropeanPanoramicSlide_11_Front.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=JqtdjfWB0Oc4yG1l345ODgd87Ok%3D&Expires=1627009139",
+        "has_video": false
+    },
+    "record_type": "work",
+    "type": "Object",
+    "is_on_display": false,
+    "last_on_display_place": "ACMI",
+    "last_on_display_date": "2022-02-10",
+    "is_context_indigenous": false,
+    "material_description": "wood, glass, pigment",
+    "unpublished": false,
+    "first_production_date": null,
+    "brief_description": "",
+    "constellations_primary": [],
+    "constellations_other": [],
+    "recommendations": [],
+    "title_for_label": "<p>European hand painted panoramic slides</p>",
+    "creator_credit_for_label": "<p>Maker not documented</p>",
+    "headline_credit_for_label": "",
+    "description": "",
+    "description_for_label": [],
+    "credit_line_for_label": "<p>Courtesy Martyn Jolly</p>",
+    "details": [
+        {
+            "label": "Curatorial section",
+            "display_values": [
+                "The Story of the Moving Image&nbsp;→ Moving Pictures&nbsp;→ 02. Play and Illusion&nbsp;→ MI-02-C01"
+            ]
+        },
+        {
+            "label": "Measurements",
+            "display_values": [
+                "88 x 350 x 6mm"
+            ]
+        },
+        {
+            "label": "Materials",
+            "display_values": [
+                "wood, glass, pigment"
+            ]
+        }
+    ],
+    "stats": {
+        "tap_count": 0
+    },
+    "links": [],
+    "creators_primary": [
+        {
+            "id": 1134471,
+            "name": "Maker not documented",
+            "creator_id": 71446,
+            "role": "creator",
+            "role_id": 968,
+            "is_primary": true
+        }
+    ],
+    "creators_other": [],
+    "video_links": [],
+    "media_note": null,
+    "images": [
+        {
+            "id": 12576,
+            "image_file": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN179872_EuropeanPanoramicSlide_11_Front.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=1Uc4IpZf%2FNOtJbCM1kgzuVNzqh4%3D&Expires=1627009139",
+            "image_file_thumbnail": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN179872_EuropeanPanoramicSlide_11_Front.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=JqtdjfWB0Oc4yG1l345ODgd87Ok%3D&Expires=1627009139",
+            "image_file_xs": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN179872_EuropeanPanoramicSlide_11_Front.jpg.480x480_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=POKn6DWtxgbIRb%2BvYk4ezR4q14E%3D&Expires=1627009139",
+            "image_file_s": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN179872_EuropeanPanoramicSlide_11_Front.jpg.960x960_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=PA6vqWIhrITSJRUMtG77Z64%2FDDw%3D&Expires=1627009139",
+            "image_file_m": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN179872_EuropeanPanoramicSlide_11_Front.jpg.1920x1920_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=Jx1nIN2XSQFAHQRtBXMNm%2Bykaig%3D&Expires=1627009139",
+            "image_file_l": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN179872_EuropeanPanoramicSlide_11_Front.jpg.3840x3840_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=TVqE%2BBXjcMorij860p4q4VnDPjE%3D&Expires=1627009139",
+            "caption": "LN179872_EuropeanPanoramicSlide_11_Front",
+            "credit_line": "Photograph by Egmont Contreras, ACMI",
+            "alt_text": "",
+            "width": 4631,
+            "height": 1538,
+            "access_level": "View anywhere"
+        },
+        {
+            "id": 12577,
+            "image_file": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN179872_EuropeanPanoramicSlide_11_Back.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=XQvoS8mjZ6sMMKrSkdFL5LuQsdk%3D&Expires=1627009139",
+            "image_file_thumbnail": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN179872_EuropeanPanoramicSlide_11_Back.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=NDHYelIRl1gMG2TbVYDYBKk90Xk%3D&Expires=1627009139",
+            "image_file_xs": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN179872_EuropeanPanoramicSlide_11_Back.jpg.480x480_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=%2BvRyMSdvlqMx7nsR%2Fn3kNMtb5Q8%3D&Expires=1627009139",
+            "image_file_s": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN179872_EuropeanPanoramicSlide_11_Back.jpg.960x960_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=jhkOMlYzaeQ1%2FaSdQ65xVuhQ7SU%3D&Expires=1627009139",
+            "image_file_m": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN179872_EuropeanPanoramicSlide_11_Back.jpg.1920x1920_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=qXiciKvtsT30ncwC3opBJ7%2BtaDk%3D&Expires=1627009139",
+            "image_file_l": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN179872_EuropeanPanoramicSlide_11_Back.jpg.3840x3840_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=Rnjz92uyfYVdjh3Pk23IPa7BYF4%3D&Expires=1627009139",
+            "caption": "LN179872_EuropeanPanoramicSlide_11_Back",
+            "credit_line": "Photograph by Egmont Contreras, ACMI",
+            "alt_text": "",
+            "width": 4644,
+            "height": 1501,
+            "access_level": "View anywhere"
+        }
+    ],
+    "videos": [],
+    "holdings": [],
+    "part_of": null,
+    "parts": [],
+    "part_siblings": [],
+    "group": null,
+    "group_works": [],
+    "group_siblings": [],
+    "source": {
+        "name": "Vernon",
+        "slug": "vernon"
+    },
+    "source_identifier": "179872",
+    "production_places": [],
+    "production_dates": [],
+    "labels": [
+        39101
+    ]
+}

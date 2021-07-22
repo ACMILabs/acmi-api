@@ -1,0 +1,107 @@
+{
+    "id": 100302,
+    "acmi_id": "180866",
+    "title": "Cleverman Jarli hairpiece",
+    "title_annotation": "",
+    "slug": "hairpiece-jarli-1",
+    "creator_credit": "Weta Workshop",
+    "credit_line": "<p>Courtesy Goalpost Pictures</p>",
+    "headline_credit": "Australia, 2016",
+    "thumbnail": {
+        "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN180866_Jarli_Chinpiece.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=4R91ahte1vqCnmb0pooiN91R02M%3D&Expires=1627009072",
+        "has_video": false
+    },
+    "record_type": "work",
+    "type": "Object",
+    "is_on_display": true,
+    "last_on_display_place": "ACMI",
+    "last_on_display_date": "2023-01-31",
+    "is_context_indigenous": false,
+    "material_description": "",
+    "unpublished": false,
+    "first_production_date": "2016-01-01T11:00:00+11:00",
+    "brief_description": "<p>Loan for Renewal</p>",
+    "constellations_primary": [],
+    "constellations_other": [],
+    "recommendations": [],
+    "title_for_label": "<p>Hair pieces used during filming</p>",
+    "creator_credit_for_label": "<p>Weta Workshop</p>",
+    "headline_credit_for_label": "<p>Australia, 2016</p>",
+    "description": "<p>Loan for Renewal</p>",
+    "description_for_label": [
+        "<p>Loan for Renewal</p>"
+    ],
+    "credit_line_for_label": "<p>Courtesy Goalpost Pictures</p>",
+    "details": [
+        {
+            "label": "Measurements",
+            "display_values": [
+                "210 x 297mm"
+            ]
+        }
+    ],
+    "stats": {
+        "tap_count": 0
+    },
+    "links": [],
+    "creators_primary": [
+        {
+            "id": 1134575,
+            "name": "Weta Workshop",
+            "creator_id": 72937,
+            "role": "creator",
+            "role_id": 968,
+            "is_primary": true
+        }
+    ],
+    "creators_other": [],
+    "video_links": [],
+    "media_note": null,
+    "images": [
+        {
+            "id": 16614,
+            "image_file": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN180866_Jarli_Chinpiece.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=sXHmP749ChImI9Sgo6RMXQN0bk0%3D&Expires=1627009072",
+            "image_file_thumbnail": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN180866_Jarli_Chinpiece.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=4R91ahte1vqCnmb0pooiN91R02M%3D&Expires=1627009072",
+            "image_file_xs": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN180866_Jarli_Chinpiece.jpg.480x480_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=o35yEdkvMZbw1nhW6%2Br75YB5Kqo%3D&Expires=1627009072",
+            "image_file_s": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN180866_Jarli_Chinpiece.jpg.960x960_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=XVoHVjnbxvuDjntRu0wwvg5EOkU%3D&Expires=1627009072",
+            "image_file_m": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN180866_Jarli_Chinpiece.jpg.1920x1920_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=UQfTZW1NrbNKz9XjJ1CvhBShEvM%3D&Expires=1627009072",
+            "image_file_l": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN180866_Jarli_Chinpiece.jpg.3840x3840_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=nHTku80NnxYUolUc47GHX8NbqeE%3D&Expires=1627009072",
+            "caption": "LN180866_Jarli_Chinpiece",
+            "credit_line": "Photograph by Egmont Contreras, ACMI.",
+            "alt_text": "",
+            "width": 2592,
+            "height": 3187,
+            "access_level": "View anywhere"
+        }
+    ],
+    "videos": [],
+    "holdings": [],
+    "part_of": null,
+    "parts": [],
+    "part_siblings": [],
+    "group": null,
+    "group_works": [],
+    "group_siblings": [],
+    "source": {
+        "name": "Vernon",
+        "slug": "vernon"
+    },
+    "source_identifier": "180866",
+    "production_places": [
+        {
+            "id": 3,
+            "name": "Australia",
+            "slug": "australia"
+        }
+    ],
+    "production_dates": [
+        {
+            "date": "2016",
+            "notes": "",
+            "to_year": "2016"
+        }
+    ],
+    "labels": [
+        39798
+    ]
+}

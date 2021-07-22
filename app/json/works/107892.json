@@ -1,0 +1,408 @@
+{
+    "id": 107892,
+    "acmi_id": "175948",
+    "title": "Hand painted chromatrope rackwork slide",
+    "title_annotation": "",
+    "slug": "hand-painted-chromatrope-rackwork-slide",
+    "creator_credit": "Maker not documented",
+    "credit_line": "",
+    "headline_credit": "France, c. 1860",
+    "thumbnail": {
+        "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AEO175948_MechanicalMLS_Chromatrope_Back.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=isrsC1FM60u0DImPT0AjsB%2BgtNc%3D&Expires=1627009217",
+        "has_video": false
+    },
+    "record_type": "work",
+    "type": "Object",
+    "is_on_display": true,
+    "last_on_display_place": "ACMI: Gallery 1",
+    "last_on_display_date": "2021-08-12",
+    "is_context_indigenous": false,
+    "material_description": "wood, glass, pigment, metal",
+    "unpublished": false,
+    "first_production_date": null,
+    "brief_description": "",
+    "constellations_primary": [],
+    "constellations_other": [],
+    "recommendations": [],
+    "title_for_label": "<p>Hand Painted Chromatrope rackwork slide</p>",
+    "creator_credit_for_label": "<p>Maker not documented</p>",
+    "headline_credit_for_label": "<p>France, c. 1860</p>",
+    "description": "",
+    "description_for_label": [],
+    "credit_line_for_label": "",
+    "details": [
+        {
+            "label": "Curatorial section",
+            "display_values": [
+                "The Story of the Moving Image&nbsp;→ Moving Pictures&nbsp;→ 02. Play and Illusion&nbsp;→ MI-02-C01"
+            ]
+        },
+        {
+            "label": "Measurements",
+            "display_values": [
+                "77 x 219 x 13mm"
+            ]
+        },
+        {
+            "label": "Materials",
+            "display_values": [
+                "wood, glass, pigment, metal"
+            ]
+        }
+    ],
+    "stats": {
+        "tap_count": 0
+    },
+    "links": [],
+    "creators_primary": [
+        {
+            "id": 1134348,
+            "name": "Maker not documented",
+            "creator_id": 71446,
+            "role": "creator",
+            "role_id": 968,
+            "is_primary": true
+        }
+    ],
+    "creators_other": [],
+    "video_links": [],
+    "media_note": null,
+    "images": [
+        {
+            "id": 11103,
+            "image_file": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AEO175948_MechanicalMLS_Chromatrope_Back.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=1Y6PwimcafmJwG1jzbkrWr91HtY%3D&Expires=1627009217",
+            "image_file_thumbnail": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AEO175948_MechanicalMLS_Chromatrope_Back.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=isrsC1FM60u0DImPT0AjsB%2BgtNc%3D&Expires=1627009217",
+            "image_file_xs": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AEO175948_MechanicalMLS_Chromatrope_Back.jpg.480x480_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=Us4kHPvgp0pbeM2OeKGlgZTTFHI%3D&Expires=1627009217",
+            "image_file_s": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AEO175948_MechanicalMLS_Chromatrope_Back.jpg.960x960_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=QidFPhAzbMxgmmfqnXIOU9aTzoM%3D&Expires=1627009217",
+            "image_file_m": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AEO175948_MechanicalMLS_Chromatrope_Back.jpg.1920x1920_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=BLIhU1QbTc7Elmy5HunUmmeWiUc%3D&Expires=1627009217",
+            "image_file_l": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AEO175948_MechanicalMLS_Chromatrope_Back.jpg.3840x3840_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=2zqCP%2FZEIcRKN3P2VbwyJ2RgWNc%3D&Expires=1627009217",
+            "caption": "AEO175948_MechanicalMLS_Chromatrope_Back",
+            "credit_line": "Photograph by Egmont Contreras, ACMI",
+            "alt_text": "",
+            "width": 5018,
+            "height": 2411,
+            "access_level": "View anywhere"
+        },
+        {
+            "id": 11104,
+            "image_file": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AEO175948_MechanicalMLS_Chromatrope_Front.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=5Xc0IEdLCY5%2F%2F%2BG0TRQHwm2i1Bw%3D&Expires=1627009217",
+            "image_file_thumbnail": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AEO175948_MechanicalMLS_Chromatrope_Front.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=2es3jHiKcNhxydaYSMjOUGMwsBc%3D&Expires=1627009217",
+            "image_file_xs": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AEO175948_MechanicalMLS_Chromatrope_Front.jpg.480x480_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=LvEDdv1rTeu%2BLKx%2BWOiGnwO35Vw%3D&Expires=1627009217",
+            "image_file_s": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AEO175948_MechanicalMLS_Chromatrope_Front.jpg.960x960_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=vXpq5uDSxpvLuaYPxE9sZPCCu1A%3D&Expires=1627009217",
+            "image_file_m": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AEO175948_MechanicalMLS_Chromatrope_Front.jpg.1920x1920_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=jZ%2FqC9ESVcdsLcl0Qrv%2B2imuPjs%3D&Expires=1627009217",
+            "image_file_l": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AEO175948_MechanicalMLS_Chromatrope_Front.jpg.3840x3840_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=Bi047keMB8SPSDD8FcLAlFxqplI%3D&Expires=1627009217",
+            "caption": "AEO175948_MechanicalMLS_Chromatrope_Front",
+            "credit_line": "Photograph by Egmont Contreras, ACMI",
+            "alt_text": "",
+            "width": 4206,
+            "height": 1853,
+            "access_level": "View anywhere"
+        }
+    ],
+    "videos": [],
+    "holdings": [],
+    "part_of": null,
+    "parts": [],
+    "part_siblings": [],
+    "group": {
+        "id": 100517,
+        "acmi_id": "181480",
+        "title": "Mechanical magic lantern slides",
+        "title_annotation": "",
+        "slug": "mechanical-magic-lantern-slides",
+        "creator_credit": "",
+        "credit_line": "",
+        "headline_credit": "",
+        "thumbnail": {
+            "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AEO175944_MechanicalML_Chromatrope_Back.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=D4k7%2FcvWCJjr7Ngm5s6tWiXAMnQ%3D&Expires=1627009217",
+            "has_video": false
+        },
+        "record_type": "group",
+        "type": "Object",
+        "is_on_display": true,
+        "last_on_display_place": "ACMI: Gallery 1",
+        "last_on_display_date": "2031-02-16",
+        "is_context_indigenous": false,
+        "material_description": "",
+        "unpublished": false,
+        "first_production_date": null
+    },
+    "group_works": [],
+    "group_siblings": [
+        {
+            "id": 59892,
+            "acmi_id": "175944",
+            "title": "Chromatrope rackwork slide",
+            "title_annotation": "",
+            "slug": "chromatrope-mechanical-magic-lantern-slide",
+            "creator_credit": "Maker not documented",
+            "credit_line": "",
+            "headline_credit": "France",
+            "thumbnail": {
+                "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AEO175944_MechanicalML_Chromatrope_Back.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=D4k7%2FcvWCJjr7Ngm5s6tWiXAMnQ%3D&Expires=1627009217",
+                "has_video": false
+            },
+            "record_type": "work",
+            "type": "Object",
+            "is_on_display": true,
+            "last_on_display_place": "ACMI: Gallery 1",
+            "last_on_display_date": "2021-08-12",
+            "is_context_indigenous": false,
+            "material_description": "wood, glass, pigment, metal",
+            "unpublished": false,
+            "first_production_date": null
+        },
+        {
+            "id": 99550,
+            "acmi_id": "179378",
+            "title": "Boy and Girl slipping slide",
+            "title_annotation": "",
+            "slug": "magic-lantern-slipping-slide-boy-girl",
+            "creator_credit": "Maker not documented",
+            "credit_line": "<p>ACMI Collection</p>",
+            "headline_credit": "United Kingdom, c. 1900",
+            "thumbnail": {
+                "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/R0007984_MLS_BoyGirl_1.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=tzyWFf2z4xt0TB7YFI6Kk1WDsY8%3D&Expires=1627009217",
+                "has_video": false
+            },
+            "record_type": "work",
+            "type": "Object",
+            "is_on_display": true,
+            "last_on_display_place": "ACMI: Gallery 1",
+            "last_on_display_date": "2021-08-12",
+            "is_context_indigenous": false,
+            "material_description": "wood, glass, ink",
+            "unpublished": false,
+            "first_production_date": null
+        },
+        {
+            "id": 99443,
+            "acmi_id": "175947",
+            "title": "Chromatrope double pulley slide",
+            "title_annotation": "",
+            "slug": "magic-lantern-double-pulley-slide-chromatrope",
+            "creator_credit": "Maker not documented",
+            "credit_line": "",
+            "headline_credit": "France, c. 1880",
+            "thumbnail": {
+                "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AEO_MechanicalML_Chromatrope_Back.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=oQ7u8y5zXxroRohqfM2wumqxBsg%3D&Expires=1627009217",
+                "has_video": false
+            },
+            "record_type": "work",
+            "type": "Object",
+            "is_on_display": true,
+            "last_on_display_place": "ACMI: Gallery 1",
+            "last_on_display_date": "2021-08-12",
+            "is_context_indigenous": false,
+            "material_description": "wood, glass, ink, pulley system",
+            "unpublished": false,
+            "first_production_date": null
+        },
+        {
+            "id": 99441,
+            "acmi_id": "175945",
+            "title": "Crocodile lever slide",
+            "title_annotation": "",
+            "slug": "magic-lantern-lever-slide-crocodile",
+            "creator_credit": "Maker not documented",
+            "credit_line": "",
+            "headline_credit": "France, c. 1860",
+            "thumbnail": {
+                "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AEO175945_MLS_Crocodile_Front.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=Tte9OKT0LgPPfvh55WgN51amo1M%3D&Expires=1627009217",
+                "has_video": false
+            },
+            "record_type": "work",
+            "type": "Object",
+            "is_on_display": true,
+            "last_on_display_place": "ACMI: Gallery 1",
+            "last_on_display_date": "2021-08-12",
+            "is_context_indigenous": false,
+            "material_description": "wood, glass, ink, metal",
+            "unpublished": false,
+            "first_production_date": null
+        },
+        {
+            "id": 99549,
+            "acmi_id": "179377",
+            "title": "Flower bloom three panel slipping slide",
+            "title_annotation": "",
+            "slug": "magic-lantern-three-panel-slipping-slide-flower-bloom",
+            "creator_credit": "Maker not documented",
+            "credit_line": "<p>ACMI Collection</p>",
+            "headline_credit": "United Kingdom, c. 1900",
+            "thumbnail": {
+                "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/R0007987_MLS_FlowerBloom_1.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=vfeiuQRXHD1TOr8oSeplMYTm4Ik%3D&Expires=1627009217",
+                "has_video": false
+            },
+            "record_type": "work",
+            "type": "Object",
+            "is_on_display": true,
+            "last_on_display_place": "ACMI: Gallery 1",
+            "last_on_display_date": "2021-08-12",
+            "is_context_indigenous": false,
+            "material_description": "wood, glass, ink",
+            "unpublished": false,
+            "first_production_date": null
+        },
+        {
+            "id": 99444,
+            "acmi_id": "175949",
+            "title": "Girl jumping rope slipping slide",
+            "title_annotation": "",
+            "slug": "magic-lantern-slipping-slide-girl-jumping-rope",
+            "creator_credit": "Maker not documented",
+            "credit_line": "",
+            "headline_credit": "France, c. 1860",
+            "thumbnail": {
+                "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AEO175949_MLS_JumpingRope_Back.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=H8vVE8XKq3d4qL0NEp%2BuFrFrNNQ%3D&Expires=1627009217",
+                "has_video": false
+            },
+            "record_type": "work",
+            "type": "Object",
+            "is_on_display": true,
+            "last_on_display_place": "ACMI: Gallery 1",
+            "last_on_display_date": "2021-08-12",
+            "is_context_indigenous": false,
+            "material_description": "wood, glass, metal, ink",
+            "unpublished": false,
+            "first_production_date": null
+        },
+        {
+            "id": 99552,
+            "acmi_id": "179385",
+            "title": "House in Summer slide",
+            "title_annotation": "",
+            "slug": "magic-lantern-slide-house-in-summer",
+            "creator_credit": "Maker not documented",
+            "credit_line": "<p>ACMI Collection</p>",
+            "headline_credit": "United Kingdom, c. 1900",
+            "thumbnail": {
+                "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/R0007983_MLS_HouseInSumme_2.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=nnqaPt730t%2BmFLoEPNKGqZzYaOM%3D&Expires=1627009217",
+                "has_video": false
+            },
+            "record_type": "work",
+            "type": "Object",
+            "is_on_display": true,
+            "last_on_display_place": "ACMI: Gallery 1",
+            "last_on_display_date": "2021-08-12",
+            "is_context_indigenous": false,
+            "material_description": "wood, glass, ink",
+            "unpublished": false,
+            "first_production_date": null
+        },
+        {
+            "id": 99442,
+            "acmi_id": "175946",
+            "title": "Jester slipping slide",
+            "title_annotation": "",
+            "slug": "magic-lantern-slipping-slide-jester",
+            "creator_credit": "Maker not documented",
+            "credit_line": "",
+            "headline_credit": "France, c. 1870",
+            "thumbnail": {
+                "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AEO175946_MLS_Jester_Front.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=ASJk4VM2vqQer6GhE7txNuNIgRo%3D&Expires=1627009217",
+                "has_video": false
+            },
+            "record_type": "work",
+            "type": "Object",
+            "is_on_display": true,
+            "last_on_display_place": "ACMI: Gallery 1",
+            "last_on_display_date": "2021-08-12",
+            "is_context_indigenous": false,
+            "material_description": "wood, glass, ink",
+            "unpublished": false,
+            "first_production_date": null
+        },
+        {
+            "id": 99551,
+            "acmi_id": "179379",
+            "title": "Knight and Princess slipping slide",
+            "title_annotation": "",
+            "slug": "magic-lantern-slipping-slide-knight-and-princess",
+            "creator_credit": "Maker not documented",
+            "credit_line": "<p>ACMI Collection</p>",
+            "headline_credit": "United Kingdom, c. 1900",
+            "thumbnail": {
+                "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/R0007985_MLS_KnightAndPrincess_3.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=NYKYzMO0advhwUUaVzTeRmHKUco%3D&Expires=1627009217",
+                "has_video": false
+            },
+            "record_type": "work",
+            "type": "Object",
+            "is_on_display": true,
+            "last_on_display_place": "ACMI: Gallery 1",
+            "last_on_display_date": "2021-08-12",
+            "is_context_indigenous": false,
+            "material_description": "wood, glass, ink",
+            "unpublished": false,
+            "first_production_date": null
+        },
+        {
+            "id": 99548,
+            "acmi_id": "179376",
+            "title": "Man and Donkey lever slide",
+            "title_annotation": "",
+            "slug": "magic-lantern-lever-slide-man-and-donkey",
+            "creator_credit": "Maker not documented",
+            "credit_line": "<p>ACMI Collection</p>",
+            "headline_credit": "United Kingdom, c. 1900",
+            "thumbnail": {
+                "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/R0007986_MLS_ManDonkey_Front_2.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=bU%2Bov8Rq5AESm23VtEssGlwDuCw%3D&Expires=1627009217",
+                "has_video": false
+            },
+            "record_type": "work",
+            "type": "Object",
+            "is_on_display": true,
+            "last_on_display_place": "ACMI: Gallery 1",
+            "last_on_display_date": "2021-08-12",
+            "is_context_indigenous": false,
+            "material_description": "wood, glass, metal, ink",
+            "unpublished": false,
+            "first_production_date": null
+        },
+        {
+            "id": 99445,
+            "acmi_id": "175950",
+            "title": "Peacock slipping slide",
+            "title_annotation": "",
+            "slug": "magic-lantern-slipping-slide-peacock",
+            "creator_credit": "Maker not documented",
+            "credit_line": "",
+            "headline_credit": "France, c. 1870",
+            "thumbnail": {
+                "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AEO175950_MLS_Peacock_Front.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=WQVpv3FufLaOMHT4zLIRwpPXkIo%3D&Expires=1627009217",
+                "has_video": false
+            },
+            "record_type": "work",
+            "type": "Object",
+            "is_on_display": true,
+            "last_on_display_place": "ACMI: Gallery 1",
+            "last_on_display_date": "2021-08-12",
+            "is_context_indigenous": false,
+            "material_description": "wood, glass, ink",
+            "unpublished": false,
+            "first_production_date": null
+        }
+    ],
+    "source": {
+        "name": "Vernon",
+        "slug": "vernon"
+    },
+    "source_identifier": "175948",
+    "production_places": [
+        {
+            "id": 17,
+            "name": "France",
+            "slug": "france"
+        }
+    ],
+    "production_dates": [
+        {
+            "date": "c. 1860",
+            "notes": "",
+            "to_year": "c. 1860"
+        }
+    ],
+    "labels": [
+        47385
+    ]
+}

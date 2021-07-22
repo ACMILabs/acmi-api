@@ -1,0 +1,3218 @@
+{
+    "count": 922,
+    "next": "/works/?page=81",
+    "previous": "/works/?page=79",
+    "results": [
+        {
+            "id": 109156,
+            "acmi_id": "2583",
+            "title": "Loopin' loops",
+            "title_annotation": "",
+            "slug": "loopin-loops",
+            "creator_credit": "Tarnagulla and Marong Primary Schools",
+            "credit_line": "",
+            "headline_credit": "Australia, 2002",
+            "thumbnail": null,
+            "record_type": "work",
+            "type": "Film",
+            "is_on_display": false,
+            "last_on_display_place": null,
+            "last_on_display_date": null,
+            "is_context_indigenous": false,
+            "material_description": "",
+            "unpublished": false,
+            "first_production_date": "2002-01-01T11:00:00+11:00",
+            "brief_description": "<p>Part of &#8216;Tale from Two Schools&#8217; 1004947</p>",
+            "constellations_primary": [],
+            "constellations_other": [],
+            "recommendations": [],
+            "title_for_label": "<p>Loopin&#8217; loops</p>",
+            "creator_credit_for_label": "<p>Tarnagulla and Marong Primary Schools</p>",
+            "headline_credit_for_label": "<p>Australia, 2002</p>",
+            "description": "<p>Part of &#8216;Tale from Two Schools&#8217; 1004947</p>",
+            "description_for_label": [
+                "<p>Part of &#8216;Tale from Two Schools&#8217; 1004947</p>"
+            ],
+            "credit_line_for_label": "",
+            "details": [
+                {
+                    "label": "Duration",
+                    "display_values": [
+                        "00:05:49:00"
+                    ]
+                },
+                {
+                    "label": "Language",
+                    "display_values": [
+                        "No spoken word"
+                    ]
+                },
+                {
+                    "label": "Audience classification",
+                    "display_values": [
+                        "Exempt"
+                    ]
+                },
+                {
+                    "label": "Subject categories",
+                    "display_values": [
+                        "Amateur & Student Films",
+                        "Amateur & Student Films&nbsp;→ Student films - Australia",
+                        "Animation",
+                        "Animation&nbsp;→ Hand drawn"
+                    ]
+                },
+                {
+                    "label": "Sound/audio",
+                    "display_values": [
+                        "Sound"
+                    ]
+                },
+                {
+                    "label": "Colour",
+                    "display_values": [
+                        "Colour"
+                    ]
+                }
+            ],
+            "stats": {
+                "tap_count": 0
+            },
+            "links": [],
+            "creators_primary": [
+                {
+                    "id": 1133418,
+                    "name": "Tarnagulla and Marong Primary Schools",
+                    "creator_id": 9202,
+                    "role": "creator",
+                    "role_id": 968,
+                    "is_primary": true
+                }
+            ],
+            "creators_other": [],
+            "video_links": [],
+            "media_note": "Sorry, we don't have images or video for this item.",
+            "images": [],
+            "videos": [],
+            "holdings": [
+                {
+                    "name": "MPEG-2 Digital File; Memory Grid Pod Full Encode",
+                    "identifier": "",
+                    "description": ""
+                },
+                {
+                    "name": "Digital Betacam; Master",
+                    "identifier": "",
+                    "description": ""
+                },
+                {
+                    "name": "Digital Betacam; Sub-master",
+                    "identifier": "",
+                    "description": ""
+                },
+                {
+                    "name": "VHS [PAL]; Reference - timecoded",
+                    "identifier": "",
+                    "description": ""
+                }
+            ],
+            "part_of": null,
+            "parts": [],
+            "part_siblings": [],
+            "group": {
+                "id": 109155,
+                "acmi_id": "2008",
+                "title": "Tales from two schools",
+                "title_annotation": "",
+                "slug": "tales-from-two-schools",
+                "creator_credit": "",
+                "credit_line": "",
+                "headline_credit": "Australia, 2002",
+                "thumbnail": null,
+                "record_type": "work",
+                "type": "Film",
+                "is_on_display": false,
+                "last_on_display_place": null,
+                "last_on_display_date": null,
+                "is_context_indigenous": false,
+                "material_description": "",
+                "unpublished": false,
+                "first_production_date": "2002-01-01T11:00:00+11:00"
+            },
+            "group_works": [],
+            "group_siblings": [
+                {
+                    "id": 109738,
+                    "acmi_id": "11693",
+                    "title": "[The Flying potato]",
+                    "title_annotation": "",
+                    "slug": "the-flying-potato",
+                    "creator_credit": "Tarnagulla and Marong Primary Schools and Paul Fletcher",
+                    "credit_line": "",
+                    "headline_credit": "Australia, 2002",
+                    "thumbnail": null,
+                    "record_type": "work",
+                    "type": "Film",
+                    "is_on_display": false,
+                    "last_on_display_place": null,
+                    "last_on_display_date": null,
+                    "is_context_indigenous": false,
+                    "material_description": "",
+                    "unpublished": false,
+                    "first_production_date": "2002-01-01T11:00:00+11:00"
+                },
+                {
+                    "id": 109157,
+                    "acmi_id": "2584",
+                    "title": "Drawing on film",
+                    "title_annotation": "",
+                    "slug": "drawing-on-film",
+                    "creator_credit": "Tarnagulla and Marong Primary Schools",
+                    "credit_line": "",
+                    "headline_credit": "Australia, 2002",
+                    "thumbnail": null,
+                    "record_type": "work",
+                    "type": "Film",
+                    "is_on_display": false,
+                    "last_on_display_place": null,
+                    "last_on_display_date": null,
+                    "is_context_indigenous": false,
+                    "material_description": "",
+                    "unpublished": false,
+                    "first_production_date": "2002-01-01T11:00:00+11:00"
+                },
+                {
+                    "id": 109154,
+                    "acmi_id": "2582",
+                    "title": "Marong's Monster Circus",
+                    "title_annotation": "",
+                    "slug": "marongs-monster-circus",
+                    "creator_credit": "Tarnagulla and Marong Primary Schools",
+                    "credit_line": "",
+                    "headline_credit": "Australia, 2002",
+                    "thumbnail": null,
+                    "record_type": "work",
+                    "type": "Film",
+                    "is_on_display": false,
+                    "last_on_display_place": null,
+                    "last_on_display_date": null,
+                    "is_context_indigenous": false,
+                    "material_description": "",
+                    "unpublished": false,
+                    "first_production_date": "2002-01-01T11:00:00+11:00"
+                }
+            ],
+            "source": {
+                "name": "Vernon",
+                "slug": "vernon"
+            },
+            "source_identifier": "2583",
+            "production_places": [
+                {
+                    "id": 3,
+                    "name": "Australia",
+                    "slug": "australia"
+                }
+            ],
+            "production_dates": [
+                {
+                    "date": "2002",
+                    "notes": "",
+                    "to_year": "2002"
+                }
+            ],
+            "labels": [
+                48649
+            ]
+        },
+        {
+            "id": 109154,
+            "acmi_id": "2582",
+            "title": "Marong's Monster Circus",
+            "title_annotation": "",
+            "slug": "marongs-monster-circus",
+            "creator_credit": "Tarnagulla and Marong Primary Schools",
+            "credit_line": "",
+            "headline_credit": "Australia, 2002",
+            "thumbnail": null,
+            "record_type": "work",
+            "type": "Film",
+            "is_on_display": false,
+            "last_on_display_place": null,
+            "last_on_display_date": null,
+            "is_context_indigenous": false,
+            "material_description": "",
+            "unpublished": false,
+            "first_production_date": "2002-01-01T11:00:00+11:00",
+            "brief_description": "<p>part of Tales from Two Schools - record 1004947</p>",
+            "constellations_primary": [],
+            "constellations_other": [],
+            "recommendations": [],
+            "title_for_label": "<p>Marong&#8217;s Monster Circus</p>",
+            "creator_credit_for_label": "<p>Tarnagulla and Marong Primary Schools</p>",
+            "headline_credit_for_label": "<p>Australia, 2002</p>",
+            "description": "<p>part of Tales from Two Schools - record 1004947</p>",
+            "description_for_label": [
+                "<p>part of Tales from Two Schools - record 1004947</p>"
+            ],
+            "credit_line_for_label": "",
+            "details": [
+                {
+                    "label": "Duration",
+                    "display_values": [
+                        "00:05:35:00"
+                    ]
+                },
+                {
+                    "label": "Language",
+                    "display_values": [
+                        "No spoken word"
+                    ]
+                },
+                {
+                    "label": "Audience classification",
+                    "display_values": [
+                        "Exempt"
+                    ]
+                },
+                {
+                    "label": "Subject categories",
+                    "display_values": [
+                        "Advertising, Film, Journalism, Mass Media & TV&nbsp;→ Interactive media",
+                        "Amateur & Student Films",
+                        "Amateur & Student Films&nbsp;→ Student films - Australia",
+                        "Animation",
+                        "Animation&nbsp;→ Animation - Juvenile films",
+                        "Animation&nbsp;→ Hand drawn"
+                    ]
+                },
+                {
+                    "label": "Sound/audio",
+                    "display_values": [
+                        "Sound"
+                    ]
+                },
+                {
+                    "label": "Colour",
+                    "display_values": [
+                        "Colour"
+                    ]
+                }
+            ],
+            "stats": {
+                "tap_count": 0
+            },
+            "links": [],
+            "creators_primary": [
+                {
+                    "id": 1133417,
+                    "name": "Tarnagulla and Marong Primary Schools",
+                    "creator_id": 9202,
+                    "role": "creator",
+                    "role_id": 968,
+                    "is_primary": true
+                }
+            ],
+            "creators_other": [
+                {
+                    "id": 1133416,
+                    "name": "Tarnagulla and Marong Primary Schools and Paul Fletcher",
+                    "creator_id": 9201,
+                    "role": "collaborator",
+                    "role_id": 536,
+                    "is_primary": false
+                }
+            ],
+            "video_links": [],
+            "media_note": "Sorry, we don't have images or video for this item.",
+            "images": [],
+            "videos": [],
+            "holdings": [
+                {
+                    "name": "MPEG-2 Digital File; Memory Grid Pod Full Encode",
+                    "identifier": "",
+                    "description": ""
+                },
+                {
+                    "name": "Digital Betacam; Master",
+                    "identifier": "",
+                    "description": ""
+                },
+                {
+                    "name": "Digital Betacam; Sub-master",
+                    "identifier": "",
+                    "description": ""
+                },
+                {
+                    "name": "VHS [PAL]; Reference - timecoded",
+                    "identifier": "",
+                    "description": ""
+                }
+            ],
+            "part_of": null,
+            "parts": [],
+            "part_siblings": [],
+            "group": {
+                "id": 109155,
+                "acmi_id": "2008",
+                "title": "Tales from two schools",
+                "title_annotation": "",
+                "slug": "tales-from-two-schools",
+                "creator_credit": "",
+                "credit_line": "",
+                "headline_credit": "Australia, 2002",
+                "thumbnail": null,
+                "record_type": "work",
+                "type": "Film",
+                "is_on_display": false,
+                "last_on_display_place": null,
+                "last_on_display_date": null,
+                "is_context_indigenous": false,
+                "material_description": "",
+                "unpublished": false,
+                "first_production_date": "2002-01-01T11:00:00+11:00"
+            },
+            "group_works": [],
+            "group_siblings": [
+                {
+                    "id": 109738,
+                    "acmi_id": "11693",
+                    "title": "[The Flying potato]",
+                    "title_annotation": "",
+                    "slug": "the-flying-potato",
+                    "creator_credit": "Tarnagulla and Marong Primary Schools and Paul Fletcher",
+                    "credit_line": "",
+                    "headline_credit": "Australia, 2002",
+                    "thumbnail": null,
+                    "record_type": "work",
+                    "type": "Film",
+                    "is_on_display": false,
+                    "last_on_display_place": null,
+                    "last_on_display_date": null,
+                    "is_context_indigenous": false,
+                    "material_description": "",
+                    "unpublished": false,
+                    "first_production_date": "2002-01-01T11:00:00+11:00"
+                },
+                {
+                    "id": 109157,
+                    "acmi_id": "2584",
+                    "title": "Drawing on film",
+                    "title_annotation": "",
+                    "slug": "drawing-on-film",
+                    "creator_credit": "Tarnagulla and Marong Primary Schools",
+                    "credit_line": "",
+                    "headline_credit": "Australia, 2002",
+                    "thumbnail": null,
+                    "record_type": "work",
+                    "type": "Film",
+                    "is_on_display": false,
+                    "last_on_display_place": null,
+                    "last_on_display_date": null,
+                    "is_context_indigenous": false,
+                    "material_description": "",
+                    "unpublished": false,
+                    "first_production_date": "2002-01-01T11:00:00+11:00"
+                },
+                {
+                    "id": 109156,
+                    "acmi_id": "2583",
+                    "title": "Loopin' loops",
+                    "title_annotation": "",
+                    "slug": "loopin-loops",
+                    "creator_credit": "Tarnagulla and Marong Primary Schools",
+                    "credit_line": "",
+                    "headline_credit": "Australia, 2002",
+                    "thumbnail": null,
+                    "record_type": "work",
+                    "type": "Film",
+                    "is_on_display": false,
+                    "last_on_display_place": null,
+                    "last_on_display_date": null,
+                    "is_context_indigenous": false,
+                    "material_description": "",
+                    "unpublished": false,
+                    "first_production_date": "2002-01-01T11:00:00+11:00"
+                }
+            ],
+            "source": {
+                "name": "Vernon",
+                "slug": "vernon"
+            },
+            "source_identifier": "2582",
+            "production_places": [
+                {
+                    "id": 3,
+                    "name": "Australia",
+                    "slug": "australia"
+                }
+            ],
+            "production_dates": [
+                {
+                    "date": "2002",
+                    "notes": "",
+                    "to_year": "2002"
+                }
+            ],
+            "labels": [
+                48647
+            ]
+        },
+        {
+            "id": 108948,
+            "acmi_id": "2297",
+            "title": "MAP - Promotional CDROM",
+            "title_annotation": "",
+            "slug": "map-promotional-cdrom",
+            "creator_credit": "Astrid Scott, Kim Montgomery and ACMI",
+            "credit_line": "",
+            "headline_credit": "VIC/Australia, 2002",
+            "thumbnail": null,
+            "record_type": "work",
+            "type": "Film",
+            "is_on_display": false,
+            "last_on_display_place": null,
+            "last_on_display_date": null,
+            "is_context_indigenous": false,
+            "material_description": "",
+            "unpublished": true,
+            "first_production_date": "2002-01-01T11:00:00+11:00",
+            "brief_description": "<p>The MAP project is a public interactive created by ACMI to collect and exhibit works that explore the visual memories associated with places. MAP sources, produces and screens archival, community and artist generated visual impressions of locations across Victoria - recording the history of places as experienced by theri inhabitants.</p>\n<p>This interactive CDROM was created to provide information to City and Regional councils , schools, community groups and individuals about:<br />\nACMI and Memory Grid; the MAP Project and how to get involved, how to submit and submission guidelines; Contains MAP sample works</p>",
+            "constellations_primary": [],
+            "constellations_other": [],
+            "recommendations": [],
+            "title_for_label": "<p>MAP - Promotional CDROM</p>",
+            "creator_credit_for_label": "<p>Astrid Scott, Kim Montgomery and ACMI</p>",
+            "headline_credit_for_label": "<p>VIC/Australia, 2002</p>",
+            "description": "<p>The MAP project is a public interactive created by ACMI to collect and exhibit works that explore the visual memories associated with places. MAP sources, produces and screens archival, community and artist generated visual impressions of locations across Victoria - recording the history of places as experienced by theri inhabitants.</p>\n<p>This interactive CDROM was created to provide information to City and Regional councils , schools, community groups and individuals about:<br />\nACMI and Memory Grid; the MAP Project and how to get involved, how to submit and submission guidelines; Contains MAP sample works</p>",
+            "description_for_label": [
+                "<p>The MAP project is a public interactive created by ACMI to collect and exhibit works that explore the visual memories associated with places. MAP sources, produces and screens archival, community and artist generated visual impressions of locations across Victoria - recording the history of places as experienced by theri inhabitants.</p>\n<p>This interactive CDROM was created to provide information to City and Regional councils , schools, community groups and individuals about:<br />\nACMI and Memory Grid; the MAP Project and how to get involved, how to submit and submission guidelines; Contains MAP sample works</p>"
+            ],
+            "credit_line_for_label": "",
+            "details": [
+                {
+                    "label": "Language",
+                    "display_values": [
+                        "English"
+                    ]
+                },
+                {
+                    "label": "Audience classification",
+                    "display_values": [
+                        "ACMI classified"
+                    ]
+                },
+                {
+                    "label": "Subject category",
+                    "display_values": [
+                        "Advertising, Film, Journalism, Mass Media & TV&nbsp;→ Interactive media"
+                    ]
+                },
+                {
+                    "label": "Sound/audio",
+                    "display_values": [
+                        "Sound"
+                    ]
+                },
+                {
+                    "label": "Colour",
+                    "display_values": [
+                        "Black and White",
+                        "Colour"
+                    ]
+                }
+            ],
+            "stats": {
+                "tap_count": 0
+            },
+            "links": [],
+            "creators_primary": [
+                {
+                    "id": 1133406,
+                    "name": "Astrid Scott",
+                    "creator_id": 9041,
+                    "role": "writer",
+                    "role_id": 939,
+                    "is_primary": true
+                },
+                {
+                    "id": 1133405,
+                    "name": "Kim Montgomery",
+                    "creator_id": 8660,
+                    "role": "producer",
+                    "role_id": 960,
+                    "is_primary": true
+                },
+                {
+                    "id": 1133401,
+                    "name": "ACMI",
+                    "creator_id": 6272,
+                    "role": "creator",
+                    "role_id": 968,
+                    "is_primary": true
+                }
+            ],
+            "creators_other": [
+                {
+                    "id": 1133404,
+                    "name": "Dean Lawry",
+                    "creator_id": 9040,
+                    "role": "composition and sound design",
+                    "role_id": 519,
+                    "is_primary": false
+                },
+                {
+                    "id": 1133403,
+                    "name": "Natasha Dwyer",
+                    "creator_id": 73524,
+                    "role": "interface design",
+                    "role_id": 574,
+                    "is_primary": false
+                },
+                {
+                    "id": 1133402,
+                    "name": "Natasha Dwyer",
+                    "creator_id": 73524,
+                    "role": "designer",
+                    "role_id": 495,
+                    "is_primary": false
+                }
+            ],
+            "video_links": [],
+            "media_note": "Sorry, we don't have images or video for this item.",
+            "images": [],
+            "videos": [],
+            "holdings": [
+                {
+                    "name": "CD ROM [PC/Mac]; Copy",
+                    "identifier": "",
+                    "description": ""
+                }
+            ],
+            "part_of": null,
+            "parts": [],
+            "part_siblings": [],
+            "group": null,
+            "group_works": [],
+            "group_siblings": [],
+            "source": {
+                "name": "Vernon",
+                "slug": "vernon"
+            },
+            "source_identifier": "2297",
+            "production_places": [
+                {
+                    "id": 40,
+                    "name": "VIC/Australia",
+                    "slug": "vicaustralia"
+                }
+            ],
+            "production_dates": [
+                {
+                    "date": "2002",
+                    "notes": "",
+                    "to_year": "2002"
+                }
+            ],
+            "labels": [
+                48441
+            ]
+        },
+        {
+            "id": 108909,
+            "acmi_id": "2218",
+            "title": "Sodaconstructor",
+            "title_annotation": "",
+            "slug": "sodaconstructor",
+            "creator_credit": "Ed Burton",
+            "credit_line": "",
+            "headline_credit": "United Kingdom, 1998",
+            "thumbnail": null,
+            "record_type": "work",
+            "type": "Digital art",
+            "is_on_display": false,
+            "last_on_display_place": null,
+            "last_on_display_date": null,
+            "is_context_indigenous": false,
+            "material_description": "Web work",
+            "unpublished": true,
+            "first_production_date": "1998-01-01T11:00:00+11:00",
+            "brief_description": "<p>Sodaconstructor is a web based work which enables users to construct two-dimesional models from lines and dots, and then add and manipulate gravity and muscle/spring tension. The resulting models move, walk, sprawl or collapse according to the laws of physics. This site has featured heavily on &#8220;best of the web&#8221; lists, and often receives 200,000 hits per day.</p>",
+            "constellations_primary": [],
+            "constellations_other": [],
+            "recommendations": [],
+            "title_for_label": "<p>Sodaconstructor</p>",
+            "creator_credit_for_label": "<p>Ed Burton</p>",
+            "headline_credit_for_label": "<p>United Kingdom, 1998</p>",
+            "description": "<p>Sodaconstructor is a web based work which enables users to construct two-dimesional models from lines and dots, and then add and manipulate gravity and muscle/spring tension. The resulting models move, walk, sprawl or collapse according to the laws of physics. This site has featured heavily on &#8220;best of the web&#8221; lists, and often receives 200,000 hits per day.</p>",
+            "description_for_label": [
+                "<p>Sodaconstructor is a web based work which enables users to construct two-dimesional models from lines and dots, and then add and manipulate gravity and muscle/spring tension. The resulting models move, walk, sprawl or collapse according to the laws of physics. This site has featured heavily on &#8220;best of the web&#8221; lists, and often receives 200,000 hits per day.</p>"
+            ],
+            "credit_line_for_label": "",
+            "details": [
+                {
+                    "label": "Language",
+                    "display_values": [
+                        "English"
+                    ]
+                },
+                {
+                    "label": "Audience classification",
+                    "display_values": [
+                        "G"
+                    ]
+                },
+                {
+                    "label": "Subject categories",
+                    "display_values": [
+                        "Animation",
+                        "Animation&nbsp;→ Computer animation&nbsp;→ 2-D computer animation",
+                        "Crafts & Visual Arts&nbsp;→ Architecture",
+                        "Crafts & Visual Arts&nbsp;→ Design",
+                        "Digital Art",
+                        "Mathematics, Science & Technology&nbsp;→ Inventions",
+                        "Mathematics, Science & Technology&nbsp;→ Mathematics"
+                    ]
+                },
+                {
+                    "label": "Materials",
+                    "display_values": [
+                        "Web work"
+                    ]
+                }
+            ],
+            "stats": {
+                "tap_count": 0
+            },
+            "links": [],
+            "creators_primary": [
+                {
+                    "id": 1133398,
+                    "name": "Ed Burton",
+                    "creator_id": 8995,
+                    "role": "creator",
+                    "role_id": 968,
+                    "is_primary": true
+                }
+            ],
+            "creators_other": [
+                {
+                    "id": 1133400,
+                    "name": "Ed Burton",
+                    "creator_id": 8995,
+                    "role": "website design",
+                    "role_id": 603,
+                    "is_primary": false
+                },
+                {
+                    "id": 1133399,
+                    "name": "Ed Burton",
+                    "creator_id": 8995,
+                    "role": "programmer",
+                    "role_id": 483,
+                    "is_primary": false
+                }
+            ],
+            "video_links": [],
+            "media_note": "Sorry, we don't have images or video for this item.",
+            "images": [],
+            "videos": [],
+            "holdings": [],
+            "part_of": null,
+            "parts": [],
+            "part_siblings": [],
+            "group": null,
+            "group_works": [],
+            "group_siblings": [],
+            "source": {
+                "name": "Vernon",
+                "slug": "vernon"
+            },
+            "source_identifier": "2218",
+            "production_places": [
+                {
+                    "id": 10,
+                    "name": "United Kingdom",
+                    "slug": "united-kingdom"
+                }
+            ],
+            "production_dates": [
+                {
+                    "date": "1998",
+                    "notes": "",
+                    "to_year": "1998"
+                }
+            ],
+            "labels": [
+                48402
+            ]
+        },
+        {
+            "id": 107319,
+            "acmi_id": "2190",
+            "title": "Memory Grid MAP Project and Collection submissions 2002",
+            "title_annotation": "",
+            "slug": "memory-grid-map-project-and-collection-submissions-2002",
+            "creator_credit": "ACMI",
+            "credit_line": "",
+            "headline_credit": "VIC/Australia, 2002",
+            "thumbnail": {
+                "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/B1005351_Billycarts.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=Y22SHgdDF6o%2Fb%2FOti56sK7kFB88%3D&Expires=1627009490",
+                "has_video": false
+            },
+            "record_type": "group",
+            "type": "Film",
+            "is_on_display": false,
+            "last_on_display_place": null,
+            "last_on_display_date": null,
+            "is_context_indigenous": false,
+            "material_description": "",
+            "unpublished": false,
+            "first_production_date": "2002-01-01T11:00:00+11:00",
+            "brief_description": "<p>A collection of audiovisual works that capture the unique &#8220;memory&#8221; of a place. In particular, screen based works that tell a personal story about a place, have a narrative that relates to the location or are collaborative projects from a community group in an area.</p>",
+            "constellations_primary": [],
+            "constellations_other": [],
+            "recommendations": [],
+            "title_for_label": "<p>Memory Grid MAP Project and Collection submissions 2002</p>",
+            "creator_credit_for_label": "<p>ACMI</p>",
+            "headline_credit_for_label": "<p>VIC/Australia, 2002</p>",
+            "description": "<p>A collection of audiovisual works that capture the unique &#8220;memory&#8221; of a place. In particular, screen based works that tell a personal story about a place, have a narrative that relates to the location or are collaborative projects from a community group in an area.</p>",
+            "description_for_label": [
+                "<p>A collection of audiovisual works that capture the unique &#8220;memory&#8221; of a place. In particular, screen based works that tell a personal story about a place, have a narrative that relates to the location or are collaborative projects from a community group in an area.</p>"
+            ],
+            "credit_line_for_label": "",
+            "details": [
+                {
+                    "label": "Duration",
+                    "display_values": [
+                        "01:51:55:00"
+                    ]
+                },
+                {
+                    "label": "Language",
+                    "display_values": [
+                        "English"
+                    ]
+                },
+                {
+                    "label": "Audience classification",
+                    "display_values": [
+                        "ACMI classified"
+                    ]
+                },
+                {
+                    "label": "Subject categories",
+                    "display_values": [
+                        "Biographical",
+                        "Economics, Philosophy, Politics, Religion & Sociology&nbsp;→ Communities"
+                    ]
+                },
+                {
+                    "label": "Sounds/audio",
+                    "display_values": [
+                        "Silent",
+                        "Sound"
+                    ]
+                },
+                {
+                    "label": "Colour",
+                    "display_values": [
+                        "Black and White",
+                        "Colour"
+                    ]
+                }
+            ],
+            "stats": {
+                "tap_count": 0
+            },
+            "links": [],
+            "creators_primary": [
+                {
+                    "id": 1133397,
+                    "name": "ACMI",
+                    "creator_id": 6272,
+                    "role": "producer",
+                    "role_id": 960,
+                    "is_primary": true
+                }
+            ],
+            "creators_other": [],
+            "video_links": [],
+            "media_note": null,
+            "images": [
+                {
+                    "id": 11237,
+                    "image_file": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/B1005351_Billycarts.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=geGo7fMXJ8sLAVC%2BC%2F%2F3TDI1%2FsU%3D&Expires=1627009490",
+                    "image_file_thumbnail": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/B1005351_Billycarts.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=Y22SHgdDF6o%2Fb%2FOti56sK7kFB88%3D&Expires=1627009490",
+                    "image_file_xs": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/B1005351_Billycarts.jpg.480x480_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=MXstyOqgOJEgkZmn6%2FYqnu0qC64%3D&Expires=1627009490",
+                    "image_file_s": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/B1005351_Billycarts.jpg.960x960_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=Fmg7txvmk7a6sdrhXLlHuySwuBU%3D&Expires=1627009490",
+                    "image_file_m": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/B1005351_Billycarts.jpg.1920x1920_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=iEqHiNj8%2Bgd%2BMv8KSy580paXwy0%3D&Expires=1627009490",
+                    "image_file_l": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/B1005351_Billycarts.jpg.3840x3840_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=dFCCxhTnbv6yMZB3jItpz8qnnKE%3D&Expires=1627009490",
+                    "caption": "Billycarts (Athol Adams) still",
+                    "credit_line": "",
+                    "alt_text": "",
+                    "width": 438,
+                    "height": 327,
+                    "access_level": "View anywhere"
+                },
+                {
+                    "id": 13743,
+                    "image_file": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/B1004709full.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=JWbVXR3PHeCxngbUMm9ge3sPp2I%3D&Expires=1627009490",
+                    "image_file_thumbnail": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/B1004709full.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=fkrvORiX09gZdlvclrkEqysT3ho%3D&Expires=1627009490",
+                    "image_file_xs": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/B1004709full.jpg.480x480_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=hKJAqZFDN%2BlIDnymu%2BbMRPwwDXI%3D&Expires=1627009490",
+                    "image_file_s": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/B1004709full.jpg.960x960_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=WKOXOp1%2BDBHSxcVI%2BiuWxMY3u0k%3D&Expires=1627009490",
+                    "image_file_m": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/B1004709full.jpg.1920x1920_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=PWbHjbh1Nn1f7uF21OvyW9vKVAw%3D&Expires=1627009490",
+                    "image_file_l": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/B1004709full.jpg.3840x3840_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=Ee2ggsg1SgGFb8%2Fsbq4of9fia%2F0%3D&Expires=1627009490",
+                    "caption": "Dandenong (Athol Adams) still",
+                    "credit_line": "",
+                    "alt_text": "",
+                    "width": 768,
+                    "height": 576,
+                    "access_level": "View anywhere"
+                },
+                {
+                    "id": 11235,
+                    "image_file": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/B1005348_MallacootaFishingTrip.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=rGcXPTHnJJFWLMdmg0TCQ%2FRZMx0%3D&Expires=1627009490",
+                    "image_file_thumbnail": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/B1005348_MallacootaFishingTrip.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=otN7Pcklc4wiaOY9K50QnfVNe%2BY%3D&Expires=1627009490",
+                    "image_file_xs": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/B1005348_MallacootaFishingTrip.jpg.480x480_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=BkVsXA1p97Q%2BY8YyNRwh%2B8mWqhA%3D&Expires=1627009490",
+                    "image_file_s": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/B1005348_MallacootaFishingTrip.jpg.960x960_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=TH0nPEQkWWhd3xWllWQj%2BYwk0jY%3D&Expires=1627009490",
+                    "image_file_m": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/B1005348_MallacootaFishingTrip.jpg.1920x1920_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=1hAPb4oY3MXJSv%2BpkDB4F4Tv2TQ%3D&Expires=1627009490",
+                    "image_file_l": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/B1005348_MallacootaFishingTrip.jpg.3840x3840_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=CCMbq2NOxuTaozszg8GsdMZH6QM%3D&Expires=1627009490",
+                    "caption": "Mallacoota fishing trip (Athol Adams) still",
+                    "credit_line": "",
+                    "alt_text": "",
+                    "width": 438,
+                    "height": 327,
+                    "access_level": "View anywhere"
+                },
+                {
+                    "id": 11236,
+                    "image_file": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/B1005349_MaroondahDam.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=qRWzmQcylfDrvbZnjBrsNfthDXg%3D&Expires=1627009490",
+                    "image_file_thumbnail": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/B1005349_MaroondahDam.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=NljpJfMVsZdv2hKOy%2BvhaDKEKMg%3D&Expires=1627009490",
+                    "image_file_xs": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/B1005349_MaroondahDam.jpg.480x480_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=l09JCPt2ridZlpO6dmPRdP91eyg%3D&Expires=1627009490",
+                    "image_file_s": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/B1005349_MaroondahDam.jpg.960x960_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=8zqPD5XGLw%2FjVUvUXjNfakifOBs%3D&Expires=1627009490",
+                    "image_file_m": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/B1005349_MaroondahDam.jpg.1920x1920_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=hOW4jwrUYxHnuilbwUQ1e%2FDHr9A%3D&Expires=1627009490",
+                    "image_file_l": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/B1005349_MaroondahDam.jpg.3840x3840_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=GmgVVhGJ9PQgchvZfVwqqtNvqJ4%3D&Expires=1627009490",
+                    "caption": "Maroondah Dam (Athol Adams) still",
+                    "credit_line": "",
+                    "alt_text": "",
+                    "width": 438,
+                    "height": 327,
+                    "access_level": "View anywhere"
+                },
+                {
+                    "id": 11234,
+                    "image_file": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/B1005347_MelbourneCityParade.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=SfXYXPq%2FjSFMdhoOjPPuJ9%2FiJ5Y%3D&Expires=1627009490",
+                    "image_file_thumbnail": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/B1005347_MelbourneCityParade.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=YOwUY1uXc6DkZOAr%2BH38ZaiVZik%3D&Expires=1627009490",
+                    "image_file_xs": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/B1005347_MelbourneCityParade.jpg.480x480_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=9POo3rfyA7%2FVzqrtI1zO2yHysa4%3D&Expires=1627009490",
+                    "image_file_s": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/B1005347_MelbourneCityParade.jpg.960x960_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=EJUoUspyEMOFVWtQ02O8wQCaMTc%3D&Expires=1627009490",
+                    "image_file_m": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/B1005347_MelbourneCityParade.jpg.1920x1920_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=3Xtbp9%2FlHMHeFCkKrEglf0xsuRI%3D&Expires=1627009490",
+                    "image_file_l": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/B1005347_MelbourneCityParade.jpg.3840x3840_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=KDpoxLo3xBJjt62%2Bg%2FhJoOGusG4%3D&Expires=1627009490",
+                    "caption": "Melbourne city parade (Athol Adams) still",
+                    "credit_line": "",
+                    "alt_text": "",
+                    "width": 438,
+                    "height": 327,
+                    "access_level": "View anywhere"
+                },
+                {
+                    "id": 11233,
+                    "image_file": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/B1005345_TheQueenMotherAtEssendonAirport.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=21hYD32Uw1qEUXaSq%2FffF42wu9g%3D&Expires=1627009490",
+                    "image_file_thumbnail": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/B1005345_TheQueenMotherAtEssendonAirport.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=fB%2FOiLAq7j5Evj8kKc6nYENHQLU%3D&Expires=1627009490",
+                    "image_file_xs": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/B1005345_TheQueenMotherAtEssendonAirport.jpg.480x480_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=k6mk9FYbMrAu31vwiAtqJS9ay6g%3D&Expires=1627009490",
+                    "image_file_s": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/B1005345_TheQueenMotherAtEssendonAirport.jpg.960x960_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=wGlC%2F3WtygbgHMZFxEk5aGs%2Bj8Q%3D&Expires=1627009490",
+                    "image_file_m": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/B1005345_TheQueenMotherAtEssendonAirport.jpg.1920x1920_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=hUa5hnkrPduKfCIwa6yd5lxLnno%3D&Expires=1627009490",
+                    "image_file_l": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/B1005345_TheQueenMotherAtEssendonAirport.jpg.3840x3840_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=WQsdyBjrzSLDJKZ5zrDNUOpuY4A%3D&Expires=1627009490",
+                    "caption": "The Queen Mother at Essendon Airport (Athol Adams) still",
+                    "credit_line": "",
+                    "alt_text": "",
+                    "width": 438,
+                    "height": 327,
+                    "access_level": "View anywhere"
+                }
+            ],
+            "videos": [],
+            "holdings": [
+                {
+                    "name": "DVCAM; Master",
+                    "identifier": "",
+                    "description": ""
+                },
+                {
+                    "name": "Digital Betacam; Master",
+                    "identifier": "",
+                    "description": ""
+                },
+                {
+                    "name": "Digital Betacam; Sub-master",
+                    "identifier": "",
+                    "description": ""
+                },
+                {
+                    "name": "VHS [PAL]; Reference - timecoded",
+                    "identifier": "",
+                    "description": ""
+                },
+                {
+                    "name": "VHS [PAL]; Copy",
+                    "identifier": "",
+                    "description": ""
+                },
+                {
+                    "name": "MOV file ProRes4444; Digital Preservation Master - overscan",
+                    "identifier": "",
+                    "description": ""
+                },
+                {
+                    "name": "MPEG-4 Digital File; ACMI Digital Access Copy - overscan",
+                    "identifier": "",
+                    "description": ""
+                }
+            ],
+            "part_of": null,
+            "parts": [],
+            "part_siblings": [],
+            "group": null,
+            "group_works": [
+                {
+                    "id": 108894,
+                    "acmi_id": "2189",
+                    "title": "Billycarts",
+                    "title_annotation": "",
+                    "slug": "billycarts",
+                    "creator_credit": "Athol Adams",
+                    "credit_line": "",
+                    "headline_credit": "Australia, 1958",
+                    "thumbnail": {
+                        "image_url": "https://xos-prod-media.s3.amazonaws.com/media/snapshot_1599_26s.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=prAIEH%2FMTNeUp1f%2Fgp5TXX2Bisg%3D&Expires=1627009490",
+                        "animated_image_url": "",
+                        "has_video": true
+                    },
+                    "record_type": "work",
+                    "type": "Film",
+                    "is_on_display": false,
+                    "last_on_display_place": "ACMI Collection iPads",
+                    "last_on_display_date": "2019-04-22",
+                    "is_context_indigenous": false,
+                    "material_description": "",
+                    "unpublished": false,
+                    "first_production_date": "1958-01-01T10:00:00+10:00"
+                },
+                {
+                    "id": 108770,
+                    "acmi_id": "1927",
+                    "title": "Dandenong",
+                    "title_annotation": "",
+                    "slug": "dandenong",
+                    "creator_credit": "",
+                    "credit_line": "",
+                    "headline_credit": "Australia, 1956-1958",
+                    "thumbnail": {
+                        "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/B1004709full.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=fkrvORiX09gZdlvclrkEqysT3ho%3D&Expires=1627009490",
+                        "has_video": false
+                    },
+                    "record_type": "work",
+                    "type": "Film",
+                    "is_on_display": false,
+                    "last_on_display_place": null,
+                    "last_on_display_date": null,
+                    "is_context_indigenous": false,
+                    "material_description": "",
+                    "unpublished": false,
+                    "first_production_date": null
+                },
+                {
+                    "id": 108893,
+                    "acmi_id": "2188",
+                    "title": "Henry Bolte speech at opening of relocated Dandenong Stock Market (1958)",
+                    "title_annotation": "",
+                    "slug": "henry-bolte-speech-at-opening-of-relocated-dandenong-stock-market-1958",
+                    "creator_credit": "Athol Adams",
+                    "credit_line": "",
+                    "headline_credit": "Australia, 1958",
+                    "thumbnail": null,
+                    "record_type": "work",
+                    "type": "Film",
+                    "is_on_display": false,
+                    "last_on_display_place": null,
+                    "last_on_display_date": null,
+                    "is_context_indigenous": false,
+                    "material_description": "",
+                    "unpublished": false,
+                    "first_production_date": "1958-01-01T10:00:00+10:00"
+                },
+                {
+                    "id": 108891,
+                    "acmi_id": "2186",
+                    "title": "Mallacoota fishing trip",
+                    "title_annotation": "",
+                    "slug": "mallacoota-fishing-trip",
+                    "creator_credit": "Athol Adams",
+                    "credit_line": "",
+                    "headline_credit": "Australia, 1958",
+                    "thumbnail": {
+                        "image_url": "https://xos-prod-media.s3.amazonaws.com/media/snapshot_1875_50s.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=MJe39f8Mz%2BGGAZ6Ut%2FpbqB9DXuM%3D&Expires=1627009490",
+                        "animated_image_url": "",
+                        "has_video": true
+                    },
+                    "record_type": "work",
+                    "type": "Film",
+                    "is_on_display": false,
+                    "last_on_display_place": "ACMI Collection iPads",
+                    "last_on_display_date": "2019-04-22",
+                    "is_context_indigenous": false,
+                    "material_description": "",
+                    "unpublished": false,
+                    "first_production_date": "1958-01-01T10:00:00+10:00"
+                },
+                {
+                    "id": 108892,
+                    "acmi_id": "2187",
+                    "title": "Maroondah Dam",
+                    "title_annotation": "",
+                    "slug": "maroondah-dam",
+                    "creator_credit": "Athol Adams",
+                    "credit_line": "",
+                    "headline_credit": "Australia, 1958",
+                    "thumbnail": {
+                        "image_url": "https://xos-prod-media.s3.amazonaws.com/media/snapshot_1468_55s.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=zYjfcTF4Sd56N60sTe5zTZhXw74%3D&Expires=1627009490",
+                        "animated_image_url": "",
+                        "has_video": true
+                    },
+                    "record_type": "work",
+                    "type": "Film",
+                    "is_on_display": false,
+                    "last_on_display_place": "ACMI Viewing Booths",
+                    "last_on_display_date": "2019-04-22",
+                    "is_context_indigenous": false,
+                    "material_description": "",
+                    "unpublished": false,
+                    "first_production_date": "1958-01-01T10:00:00+10:00"
+                },
+                {
+                    "id": 108890,
+                    "acmi_id": "2185",
+                    "title": "Melbourne city parade",
+                    "title_annotation": "",
+                    "slug": "melbourne-city-parade",
+                    "creator_credit": "Athol Adams",
+                    "credit_line": "",
+                    "headline_credit": "Australia, 1958",
+                    "thumbnail": {
+                        "image_url": "https://xos-prod-media.s3.amazonaws.com/media/snapshot_1511_53s.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=f%2BmztUXuwW4QyIeSx22%2FrxXvj6Y%3D&Expires=1627009490",
+                        "animated_image_url": "",
+                        "has_video": true
+                    },
+                    "record_type": "work",
+                    "type": "Film",
+                    "is_on_display": false,
+                    "last_on_display_place": "ACMI Viewing Booths",
+                    "last_on_display_date": "2019-04-22",
+                    "is_context_indigenous": false,
+                    "material_description": "",
+                    "unpublished": false,
+                    "first_production_date": "1958-01-01T10:00:00+10:00"
+                },
+                {
+                    "id": 108889,
+                    "acmi_id": "2184",
+                    "title": "The Queen Mother at Essendon Airport",
+                    "title_annotation": "",
+                    "slug": "the-queen-mother-at-essendon-airport",
+                    "creator_credit": "",
+                    "credit_line": "",
+                    "headline_credit": "Australia, 1958",
+                    "thumbnail": {
+                        "image_url": "https://xos-prod-media.s3.amazonaws.com/media/snapshot_1876_52s.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=Rmf46r9Aa5%2F%2BnPXvonbPInuQvGA%3D&Expires=1627009490",
+                        "animated_image_url": "",
+                        "has_video": true
+                    },
+                    "record_type": "work",
+                    "type": "Film",
+                    "is_on_display": false,
+                    "last_on_display_place": "ACMI Viewing Booths",
+                    "last_on_display_date": "2019-04-22",
+                    "is_context_indigenous": false,
+                    "material_description": "",
+                    "unpublished": false,
+                    "first_production_date": "1958-01-01T10:00:00+10:00"
+                }
+            ],
+            "group_siblings": [],
+            "source": {
+                "name": "Vernon",
+                "slug": "vernon"
+            },
+            "source_identifier": "2190",
+            "production_places": [
+                {
+                    "id": 40,
+                    "name": "VIC/Australia",
+                    "slug": "vicaustralia"
+                }
+            ],
+            "production_dates": [
+                {
+                    "date": "2002",
+                    "notes": "",
+                    "to_year": "2002"
+                }
+            ],
+            "labels": [
+                46810
+            ]
+        },
+        {
+            "id": 108889,
+            "acmi_id": "2184",
+            "title": "The Queen Mother at Essendon Airport",
+            "title_annotation": "",
+            "slug": "the-queen-mother-at-essendon-airport",
+            "creator_credit": "",
+            "credit_line": "",
+            "headline_credit": "Australia, 1958",
+            "thumbnail": {
+                "image_url": "https://xos-prod-media.s3.amazonaws.com/media/snapshot_1876_52s.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=Rmf46r9Aa5%2F%2BnPXvonbPInuQvGA%3D&Expires=1627009490",
+                "animated_image_url": "",
+                "has_video": true
+            },
+            "record_type": "work",
+            "type": "Film",
+            "is_on_display": false,
+            "last_on_display_place": "ACMI Viewing Booths",
+            "last_on_display_date": "2019-04-22",
+            "is_context_indigenous": false,
+            "material_description": "",
+            "unpublished": false,
+            "first_production_date": "1958-01-01T10:00:00+10:00",
+            "brief_description": "<p>Silent footage of the arrival on 27 February 1958 of the Queen Mother at Essendon Airport to a welcoming crowd of waving spectators, military parades and marching  bands, and government officials and dignitaries. Filmed by portrait photographer Athol Adams.<br />\nAthol Adams footage is courtesy of Jenny and Owen Peake.</p>",
+            "constellations_primary": [],
+            "constellations_other": [],
+            "recommendations": [],
+            "title_for_label": "<p>The Queen Mother at Essendon Airport</p>",
+            "creator_credit_for_label": "",
+            "headline_credit_for_label": "<p>Australia, 1958</p>",
+            "description": "<p>Silent footage of the arrival on 27 February 1958 of the Queen Mother at Essendon Airport to a welcoming crowd of waving spectators, military parades and marching  bands, and government officials and dignitaries. Filmed by portrait photographer Athol Adams.<br />\nAthol Adams footage is courtesy of Jenny and Owen Peake.</p>",
+            "description_for_label": [
+                "<p>Silent footage of the arrival on 27 February 1958 of the Queen Mother at Essendon Airport to a welcoming crowd of waving spectators, military parades and marching  bands, and government officials and dignitaries. Filmed by portrait photographer Athol Adams.<br />\nAthol Adams footage is courtesy of Jenny and Owen Peake.</p>"
+            ],
+            "credit_line_for_label": "",
+            "details": [
+                {
+                    "label": "Duration",
+                    "display_values": [
+                        "00:02:35:00"
+                    ]
+                },
+                {
+                    "label": "Audience classifications",
+                    "display_values": [
+                        "ACMI classified",
+                        "Mediatheque - all ages (ACMI classified)"
+                    ]
+                },
+                {
+                    "label": "Subject categories",
+                    "display_values": [
+                        "Amateur & Student Films&nbsp;→ Amateur films",
+                        "Documentary",
+                        "Documentary&nbsp;→ Documentary films - Australia",
+                        "History&nbsp;→ Australia - History",
+                        "Short films",
+                        "Short films&nbsp;→ Short films - Australia",
+                        "Silent films"
+                    ]
+                },
+                {
+                    "label": "Sound/audio",
+                    "display_values": [
+                        "Silent"
+                    ]
+                },
+                {
+                    "label": "Colour",
+                    "display_values": [
+                        "Colour"
+                    ]
+                }
+            ],
+            "stats": {
+                "tap_count": 0
+            },
+            "links": [],
+            "creators_primary": [],
+            "creators_other": [
+                {
+                    "id": 1133381,
+                    "name": "Athol Adams",
+                    "creator_id": 8872,
+                    "role": "film maker",
+                    "role_id": 459,
+                    "is_primary": false
+                }
+            ],
+            "video_links": [
+                {
+                    "id": 485,
+                    "name": "ACMI External Digital Access Copy",
+                    "uri": "https://youtu.be/uDNmGDOcq-U"
+                }
+            ],
+            "media_note": null,
+            "images": [
+                {
+                    "id": 11233,
+                    "image_file": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/B1005345_TheQueenMotherAtEssendonAirport.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=21hYD32Uw1qEUXaSq%2FffF42wu9g%3D&Expires=1627009490",
+                    "image_file_thumbnail": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/B1005345_TheQueenMotherAtEssendonAirport.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=fB%2FOiLAq7j5Evj8kKc6nYENHQLU%3D&Expires=1627009490",
+                    "image_file_xs": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/B1005345_TheQueenMotherAtEssendonAirport.jpg.480x480_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=k6mk9FYbMrAu31vwiAtqJS9ay6g%3D&Expires=1627009490",
+                    "image_file_s": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/B1005345_TheQueenMotherAtEssendonAirport.jpg.960x960_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=wGlC%2F3WtygbgHMZFxEk5aGs%2Bj8Q%3D&Expires=1627009490",
+                    "image_file_m": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/B1005345_TheQueenMotherAtEssendonAirport.jpg.1920x1920_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=hUa5hnkrPduKfCIwa6yd5lxLnno%3D&Expires=1627009490",
+                    "image_file_l": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/B1005345_TheQueenMotherAtEssendonAirport.jpg.3840x3840_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=WQsdyBjrzSLDJKZ5zrDNUOpuY4A%3D&Expires=1627009490",
+                    "caption": "The Queen Mother at Essendon Airport (Athol Adams) still",
+                    "credit_line": "",
+                    "alt_text": "",
+                    "width": 438,
+                    "height": 327,
+                    "access_level": "View anywhere"
+                }
+            ],
+            "videos": [
+                {
+                    "id": 1876,
+                    "title": "B1005345_TheQueenMotherAtEssendonAirport.mpg",
+                    "resource": "https://xos-prod-media.s3.amazonaws.com/media/a_B1005345_TheQueenMotherAtEssendonAirport.mp4?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=wY6BJgczWEUdH%2Fm%2FjW9sNYpweSs%3D&Expires=1627009490",
+                    "web_resource": "https://xos-prod-media.s3.amazonaws.com/media/w_B1005345_TheQueenMotherAtEssendonAirport.mp4?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=KUdCNP5CX4PWjAJD%2F6MmfL9M4ag%3D&Expires=1627009490",
+                    "duration_secs": 156.0,
+                    "subtitles": null,
+                    "master_metadata": {
+                        "title": "B1005345_TheQueenMotherAtEssendonAirport",
+                        "width": 720,
+                        "height": 576,
+                        "checksum": "6b13456b45a002eac2f4b2069d11d4f0",
+                        "filetype": "m",
+                        "mime_type": "video/mpeg",
+                        "vernon_id": "",
+                        "audio_codec": "mp2",
+                        "video_codec": "mpeg2video",
+                        "duration_hms": "00:02:36:00",
+                        "duration_secs": 156.0,
+                        "audio_bit_rate": 384000,
+                        "audio_channels": 2,
+                        "video_bit_rate": 8000000,
+                        "file_size_bytes": 169176308,
+                        "overall_bit_rate": 8675708,
+                        "video_frame_rate": 25.0,
+                        "audio_sample_rate": 48000,
+                        "creation_datetime": "2020-10-20 16:30:41.819650+11:00",
+                        "audio_max_bit_rate": null,
+                        "video_max_bit_rate": null
+                    },
+                    "access_metadata": {
+                        "title": "B1005345_TheQueenMotherAtEssendonAirport",
+                        "width": 720,
+                        "height": 576,
+                        "checksum": "2da75aef2540b292e0dda2891ce2c194",
+                        "filetype": "a",
+                        "mime_type": "video/mp4",
+                        "vernon_id": "",
+                        "audio_codec": "aac",
+                        "video_codec": "h264",
+                        "duration_hms": "00:02:36:01",
+                        "duration_secs": 156.022,
+                        "audio_bit_rate": 128361,
+                        "audio_channels": 2,
+                        "video_bit_rate": 1079205,
+                        "file_size_bytes": 23659298,
+                        "overall_bit_rate": 1213126,
+                        "video_frame_rate": 25.0,
+                        "audio_sample_rate": 48000,
+                        "creation_datetime": "2020-11-02 18:22:42.874679+11:00",
+                        "audio_max_bit_rate": 128361,
+                        "video_max_bit_rate": null
+                    },
+                    "web_metadata": {
+                        "title": "B1005345_TheQueenMotherAtEssendonAirport",
+                        "width": 720,
+                        "height": 576,
+                        "checksum": "2a3e565e8de4b598490550edf169f488",
+                        "filetype": "w",
+                        "mime_type": "video/mp4",
+                        "vernon_id": "",
+                        "audio_codec": "aac",
+                        "video_codec": "h264",
+                        "duration_hms": "00:02:36:01",
+                        "duration_secs": 156.022,
+                        "audio_bit_rate": 128361,
+                        "audio_channels": 2,
+                        "video_bit_rate": 429762,
+                        "file_size_bytes": 10995157,
+                        "overall_bit_rate": 563774,
+                        "video_frame_rate": 25.0,
+                        "audio_sample_rate": 48000,
+                        "creation_datetime": "2020-11-02 18:24:08.321230+11:00",
+                        "audio_max_bit_rate": 128361,
+                        "video_max_bit_rate": null
+                    },
+                    "access_level": "View anywhere",
+                    "snapshot": "https://xos-prod-media.s3.amazonaws.com/media/snapshot_1876_52s.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=Rmf46r9Aa5%2F%2BnPXvonbPInuQvGA%3D&Expires=1627009490",
+                    "animated_snapshot": ""
+                }
+            ],
+            "holdings": [
+                {
+                    "name": "Digital Betacam; Master",
+                    "identifier": "",
+                    "description": ""
+                },
+                {
+                    "name": "Digital Betacam; Sub-master",
+                    "identifier": "",
+                    "description": ""
+                },
+                {
+                    "name": "VHS [PAL]; Reference - timecoded",
+                    "identifier": "",
+                    "description": ""
+                },
+                {
+                    "name": "VHS [PAL]; Copy",
+                    "identifier": "",
+                    "description": ""
+                },
+                {
+                    "name": "DVCAM; Master",
+                    "identifier": "",
+                    "description": ""
+                },
+                {
+                    "name": "MPEG-2 Digital File; ACMI Digital Access Copy - presentation",
+                    "identifier": "",
+                    "description": ""
+                },
+                {
+                    "name": "DVCAM; Sub-master",
+                    "identifier": "",
+                    "description": ""
+                },
+                {
+                    "name": "MOV file H264; ACMI External Digital Access Copy",
+                    "identifier": "",
+                    "description": ""
+                }
+            ],
+            "part_of": null,
+            "parts": [],
+            "part_siblings": [],
+            "group": {
+                "id": 107319,
+                "acmi_id": "2190",
+                "title": "Memory Grid MAP Project and Collection submissions 2002",
+                "title_annotation": "",
+                "slug": "memory-grid-map-project-and-collection-submissions-2002",
+                "creator_credit": "ACMI",
+                "credit_line": "",
+                "headline_credit": "VIC/Australia, 2002",
+                "thumbnail": {
+                    "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/B1005351_Billycarts.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=Y22SHgdDF6o%2Fb%2FOti56sK7kFB88%3D&Expires=1627009490",
+                    "has_video": false
+                },
+                "record_type": "group",
+                "type": "Film",
+                "is_on_display": false,
+                "last_on_display_place": null,
+                "last_on_display_date": null,
+                "is_context_indigenous": false,
+                "material_description": "",
+                "unpublished": false,
+                "first_production_date": "2002-01-01T11:00:00+11:00"
+            },
+            "group_works": [],
+            "group_siblings": [
+                {
+                    "id": 108894,
+                    "acmi_id": "2189",
+                    "title": "Billycarts",
+                    "title_annotation": "",
+                    "slug": "billycarts",
+                    "creator_credit": "Athol Adams",
+                    "credit_line": "",
+                    "headline_credit": "Australia, 1958",
+                    "thumbnail": {
+                        "image_url": "https://xos-prod-media.s3.amazonaws.com/media/snapshot_1599_26s.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=prAIEH%2FMTNeUp1f%2Fgp5TXX2Bisg%3D&Expires=1627009490",
+                        "animated_image_url": "",
+                        "has_video": true
+                    },
+                    "record_type": "work",
+                    "type": "Film",
+                    "is_on_display": false,
+                    "last_on_display_place": "ACMI Collection iPads",
+                    "last_on_display_date": "2019-04-22",
+                    "is_context_indigenous": false,
+                    "material_description": "",
+                    "unpublished": false,
+                    "first_production_date": "1958-01-01T10:00:00+10:00"
+                },
+                {
+                    "id": 108770,
+                    "acmi_id": "1927",
+                    "title": "Dandenong",
+                    "title_annotation": "",
+                    "slug": "dandenong",
+                    "creator_credit": "",
+                    "credit_line": "",
+                    "headline_credit": "Australia, 1956-1958",
+                    "thumbnail": {
+                        "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/B1004709full.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=fkrvORiX09gZdlvclrkEqysT3ho%3D&Expires=1627009490",
+                        "has_video": false
+                    },
+                    "record_type": "work",
+                    "type": "Film",
+                    "is_on_display": false,
+                    "last_on_display_place": null,
+                    "last_on_display_date": null,
+                    "is_context_indigenous": false,
+                    "material_description": "",
+                    "unpublished": false,
+                    "first_production_date": null
+                },
+                {
+                    "id": 108893,
+                    "acmi_id": "2188",
+                    "title": "Henry Bolte speech at opening of relocated Dandenong Stock Market (1958)",
+                    "title_annotation": "",
+                    "slug": "henry-bolte-speech-at-opening-of-relocated-dandenong-stock-market-1958",
+                    "creator_credit": "Athol Adams",
+                    "credit_line": "",
+                    "headline_credit": "Australia, 1958",
+                    "thumbnail": null,
+                    "record_type": "work",
+                    "type": "Film",
+                    "is_on_display": false,
+                    "last_on_display_place": null,
+                    "last_on_display_date": null,
+                    "is_context_indigenous": false,
+                    "material_description": "",
+                    "unpublished": false,
+                    "first_production_date": "1958-01-01T10:00:00+10:00"
+                },
+                {
+                    "id": 108891,
+                    "acmi_id": "2186",
+                    "title": "Mallacoota fishing trip",
+                    "title_annotation": "",
+                    "slug": "mallacoota-fishing-trip",
+                    "creator_credit": "Athol Adams",
+                    "credit_line": "",
+                    "headline_credit": "Australia, 1958",
+                    "thumbnail": {
+                        "image_url": "https://xos-prod-media.s3.amazonaws.com/media/snapshot_1875_50s.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=MJe39f8Mz%2BGGAZ6Ut%2FpbqB9DXuM%3D&Expires=1627009490",
+                        "animated_image_url": "",
+                        "has_video": true
+                    },
+                    "record_type": "work",
+                    "type": "Film",
+                    "is_on_display": false,
+                    "last_on_display_place": "ACMI Collection iPads",
+                    "last_on_display_date": "2019-04-22",
+                    "is_context_indigenous": false,
+                    "material_description": "",
+                    "unpublished": false,
+                    "first_production_date": "1958-01-01T10:00:00+10:00"
+                },
+                {
+                    "id": 108892,
+                    "acmi_id": "2187",
+                    "title": "Maroondah Dam",
+                    "title_annotation": "",
+                    "slug": "maroondah-dam",
+                    "creator_credit": "Athol Adams",
+                    "credit_line": "",
+                    "headline_credit": "Australia, 1958",
+                    "thumbnail": {
+                        "image_url": "https://xos-prod-media.s3.amazonaws.com/media/snapshot_1468_55s.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=zYjfcTF4Sd56N60sTe5zTZhXw74%3D&Expires=1627009490",
+                        "animated_image_url": "",
+                        "has_video": true
+                    },
+                    "record_type": "work",
+                    "type": "Film",
+                    "is_on_display": false,
+                    "last_on_display_place": "ACMI Viewing Booths",
+                    "last_on_display_date": "2019-04-22",
+                    "is_context_indigenous": false,
+                    "material_description": "",
+                    "unpublished": false,
+                    "first_production_date": "1958-01-01T10:00:00+10:00"
+                },
+                {
+                    "id": 108890,
+                    "acmi_id": "2185",
+                    "title": "Melbourne city parade",
+                    "title_annotation": "",
+                    "slug": "melbourne-city-parade",
+                    "creator_credit": "Athol Adams",
+                    "credit_line": "",
+                    "headline_credit": "Australia, 1958",
+                    "thumbnail": {
+                        "image_url": "https://xos-prod-media.s3.amazonaws.com/media/snapshot_1511_53s.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=f%2BmztUXuwW4QyIeSx22%2FrxXvj6Y%3D&Expires=1627009490",
+                        "animated_image_url": "",
+                        "has_video": true
+                    },
+                    "record_type": "work",
+                    "type": "Film",
+                    "is_on_display": false,
+                    "last_on_display_place": "ACMI Viewing Booths",
+                    "last_on_display_date": "2019-04-22",
+                    "is_context_indigenous": false,
+                    "material_description": "",
+                    "unpublished": false,
+                    "first_production_date": "1958-01-01T10:00:00+10:00"
+                }
+            ],
+            "source": {
+                "name": "Vernon",
+                "slug": "vernon"
+            },
+            "source_identifier": "2184",
+            "production_places": [
+                {
+                    "id": 3,
+                    "name": "Australia",
+                    "slug": "australia"
+                }
+            ],
+            "production_dates": [
+                {
+                    "date": "1958",
+                    "notes": "",
+                    "to_year": "1958"
+                }
+            ],
+            "labels": [
+                48382
+            ]
+        },
+        {
+            "id": 108890,
+            "acmi_id": "2185",
+            "title": "Melbourne city parade",
+            "title_annotation": "",
+            "slug": "melbourne-city-parade",
+            "creator_credit": "Athol Adams",
+            "credit_line": "",
+            "headline_credit": "Australia, 1958",
+            "thumbnail": {
+                "image_url": "https://xos-prod-media.s3.amazonaws.com/media/snapshot_1511_53s.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=f%2BmztUXuwW4QyIeSx22%2FrxXvj6Y%3D&Expires=1627009490",
+                "animated_image_url": "",
+                "has_video": true
+            },
+            "record_type": "work",
+            "type": "Film",
+            "is_on_display": false,
+            "last_on_display_place": "ACMI Viewing Booths",
+            "last_on_display_date": "2019-04-22",
+            "is_context_indigenous": false,
+            "material_description": "",
+            "unpublished": false,
+            "first_production_date": "1958-01-01T10:00:00+10:00",
+            "brief_description": "<p>Silent film of the Queen Mother arriving at the Melbourne Town Hall during a Moomba parade. Includes scenes of crowds lining Swanston Street; the Lord Mayor&#8217;s welcoming speech to the Queen Mother; and her departure in an open car as she waves to the crowd. Filmed by portrait photographer Athol Adams. Athol Adams footage is courtesy of Jenny and Owen Peake.</p>",
+            "constellations_primary": [],
+            "constellations_other": [],
+            "recommendations": [],
+            "title_for_label": "<p>Melbourne city parade</p>",
+            "creator_credit_for_label": "<p>Athol Adams</p>",
+            "headline_credit_for_label": "<p>Australia, 1958</p>",
+            "description": "<p>Silent film of the Queen Mother arriving at the Melbourne Town Hall during a Moomba parade. Includes scenes of crowds lining Swanston Street; the Lord Mayor&#8217;s welcoming speech to the Queen Mother; and her departure in an open car as she waves to the crowd. Filmed by portrait photographer Athol Adams. Athol Adams footage is courtesy of Jenny and Owen Peake.</p>",
+            "description_for_label": [
+                "<p>Silent film of the Queen Mother arriving at the Melbourne Town Hall during a Moomba parade. Includes scenes of crowds lining Swanston Street; the Lord Mayor&#8217;s welcoming speech to the Queen Mother; and her departure in an open car as she waves to the crowd. Filmed by portrait photographer Athol Adams. Athol Adams footage is courtesy of Jenny and Owen Peake.</p>"
+            ],
+            "credit_line_for_label": "",
+            "details": [
+                {
+                    "label": "Duration",
+                    "display_values": [
+                        "00:02:40:00"
+                    ]
+                },
+                {
+                    "label": "Language",
+                    "display_values": [
+                        "No spoken word"
+                    ]
+                },
+                {
+                    "label": "Audience classifications",
+                    "display_values": [
+                        "ACMI classified",
+                        "Mediatheque - all ages (ACMI classified)"
+                    ]
+                },
+                {
+                    "label": "Subject categories",
+                    "display_values": [
+                        "Amateur & Student Films&nbsp;→ Amateur films",
+                        "Anthropology, Ethnology, Exploration & Travel&nbsp;→ Victoria - Description and travel",
+                        "Anthropology, Ethnology, Exploration & Travel&nbsp;→ Victoria - Social life and customs",
+                        "Documentary",
+                        "Documentary&nbsp;→ Documentary films - Australia",
+                        "History&nbsp;→ Australia - History",
+                        "Places&nbsp;→ Melbourne (Vic.)",
+                        "Short films",
+                        "Short films&nbsp;→ Short films - Australia",
+                        "Silent films"
+                    ]
+                },
+                {
+                    "label": "Sound/audio",
+                    "display_values": [
+                        "Silent"
+                    ]
+                },
+                {
+                    "label": "Colour",
+                    "display_values": [
+                        "Black and White"
+                    ]
+                }
+            ],
+            "stats": {
+                "tap_count": 0
+            },
+            "links": [],
+            "creators_primary": [
+                {
+                    "id": 1133374,
+                    "name": "Athol Adams",
+                    "creator_id": 8872,
+                    "role": "creator",
+                    "role_id": 968,
+                    "is_primary": true
+                }
+            ],
+            "creators_other": [],
+            "video_links": [
+                {
+                    "id": 486,
+                    "name": "ACMI External Digital Access Copy",
+                    "uri": "https://youtu.be/7S35xLHfOt8"
+                }
+            ],
+            "media_note": null,
+            "images": [
+                {
+                    "id": 11234,
+                    "image_file": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/B1005347_MelbourneCityParade.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=SfXYXPq%2FjSFMdhoOjPPuJ9%2FiJ5Y%3D&Expires=1627009490",
+                    "image_file_thumbnail": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/B1005347_MelbourneCityParade.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=YOwUY1uXc6DkZOAr%2BH38ZaiVZik%3D&Expires=1627009490",
+                    "image_file_xs": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/B1005347_MelbourneCityParade.jpg.480x480_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=9POo3rfyA7%2FVzqrtI1zO2yHysa4%3D&Expires=1627009490",
+                    "image_file_s": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/B1005347_MelbourneCityParade.jpg.960x960_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=EJUoUspyEMOFVWtQ02O8wQCaMTc%3D&Expires=1627009490",
+                    "image_file_m": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/B1005347_MelbourneCityParade.jpg.1920x1920_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=3Xtbp9%2FlHMHeFCkKrEglf0xsuRI%3D&Expires=1627009490",
+                    "image_file_l": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/B1005347_MelbourneCityParade.jpg.3840x3840_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=KDpoxLo3xBJjt62%2Bg%2FhJoOGusG4%3D&Expires=1627009490",
+                    "caption": "Melbourne city parade (Athol Adams) still",
+                    "credit_line": "",
+                    "alt_text": "",
+                    "width": 438,
+                    "height": 327,
+                    "access_level": "View anywhere"
+                }
+            ],
+            "videos": [
+                {
+                    "id": 1511,
+                    "title": "B1005347_MelbourneCityParade.mpg",
+                    "resource": "https://xos-prod-media.s3.amazonaws.com/media/a_B1005347_MelbourneCityParade.mp4?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=1CzZuhNuPws1tLy62qVMGpR42Fc%3D&Expires=1627009490",
+                    "web_resource": "https://xos-prod-media.s3.amazonaws.com/media/w_B1005347_MelbourneCityParade.mp4?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=fvXUku%2FvHkI7heQGZXPAv09bbc8%3D&Expires=1627009490",
+                    "duration_secs": 160.848,
+                    "subtitles": null,
+                    "master_metadata": {
+                        "title": "B1005347_MelbourneCityParade",
+                        "width": 720,
+                        "height": 576,
+                        "checksum": "2342d31890e42188ec785c547edb3bc1",
+                        "filetype": "m",
+                        "mime_type": "video/mpeg",
+                        "vernon_id": "",
+                        "audio_codec": "mp2",
+                        "video_codec": "mpeg2video",
+                        "duration_hms": "00:02:40:21",
+                        "duration_secs": 160.848,
+                        "audio_bit_rate": 384000,
+                        "audio_channels": 2,
+                        "video_bit_rate": 8000000,
+                        "file_size_bytes": 174403348,
+                        "overall_bit_rate": 8674194,
+                        "video_frame_rate": 25.0,
+                        "audio_sample_rate": 48000,
+                        "creation_datetime": "2020-10-20 16:30:41.856324+11:00",
+                        "audio_max_bit_rate": null,
+                        "video_max_bit_rate": null
+                    },
+                    "access_metadata": {
+                        "title": "B1005347_MelbourneCityParade",
+                        "width": 720,
+                        "height": 576,
+                        "checksum": "fb3177a7f742f17be613c4896ea1fa4d",
+                        "filetype": "a",
+                        "mime_type": "video/mp4",
+                        "vernon_id": "",
+                        "audio_codec": "aac",
+                        "video_codec": "h264",
+                        "duration_hms": "00:02:40:22",
+                        "duration_secs": 160.87,
+                        "audio_bit_rate": 128359,
+                        "audio_channels": 2,
+                        "video_bit_rate": 1733038,
+                        "file_size_bytes": 37538937,
+                        "overall_bit_rate": 1866796,
+                        "video_frame_rate": 25.0,
+                        "audio_sample_rate": 48000,
+                        "creation_datetime": "2020-10-24 20:45:19.597733+11:00",
+                        "audio_max_bit_rate": 128359,
+                        "video_max_bit_rate": null
+                    },
+                    "web_metadata": {
+                        "title": "B1005347_MelbourneCityParade",
+                        "width": 720,
+                        "height": 576,
+                        "checksum": "c074790ca1d68a7ae52e74472632e3cd",
+                        "filetype": "w",
+                        "mime_type": "video/mp4",
+                        "vernon_id": "",
+                        "audio_codec": "aac",
+                        "video_codec": "h264",
+                        "duration_hms": "00:02:40:22",
+                        "duration_secs": 160.87,
+                        "audio_bit_rate": 128359,
+                        "audio_channels": 2,
+                        "video_bit_rate": 813488,
+                        "file_size_bytes": 19051385,
+                        "overall_bit_rate": 947417,
+                        "video_frame_rate": 25.0,
+                        "audio_sample_rate": 48000,
+                        "creation_datetime": "2020-10-24 20:47:18.448066+11:00",
+                        "audio_max_bit_rate": 128359,
+                        "video_max_bit_rate": null
+                    },
+                    "access_level": "View anywhere",
+                    "snapshot": "https://xos-prod-media.s3.amazonaws.com/media/snapshot_1511_53s.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=f%2BmztUXuwW4QyIeSx22%2FrxXvj6Y%3D&Expires=1627009490",
+                    "animated_snapshot": ""
+                }
+            ],
+            "holdings": [
+                {
+                    "name": "Digital Betacam; Master",
+                    "identifier": "",
+                    "description": ""
+                },
+                {
+                    "name": "Digital Betacam; Sub-master",
+                    "identifier": "",
+                    "description": ""
+                },
+                {
+                    "name": "VHS [PAL]; Reference - timecoded",
+                    "identifier": "",
+                    "description": ""
+                },
+                {
+                    "name": "VHS [PAL]; Copy",
+                    "identifier": "",
+                    "description": ""
+                },
+                {
+                    "name": "DVCAM; Master",
+                    "identifier": "",
+                    "description": ""
+                },
+                {
+                    "name": "MPEG-2 Digital File; ACMI Digital Access Copy - presentation",
+                    "identifier": "",
+                    "description": ""
+                },
+                {
+                    "name": "DVCAM; Sub-master",
+                    "identifier": "",
+                    "description": ""
+                },
+                {
+                    "name": "MOV file H264; ACMI External Digital Access Copy",
+                    "identifier": "",
+                    "description": ""
+                }
+            ],
+            "part_of": null,
+            "parts": [],
+            "part_siblings": [],
+            "group": {
+                "id": 107319,
+                "acmi_id": "2190",
+                "title": "Memory Grid MAP Project and Collection submissions 2002",
+                "title_annotation": "",
+                "slug": "memory-grid-map-project-and-collection-submissions-2002",
+                "creator_credit": "ACMI",
+                "credit_line": "",
+                "headline_credit": "VIC/Australia, 2002",
+                "thumbnail": {
+                    "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/B1005351_Billycarts.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=Y22SHgdDF6o%2Fb%2FOti56sK7kFB88%3D&Expires=1627009490",
+                    "has_video": false
+                },
+                "record_type": "group",
+                "type": "Film",
+                "is_on_display": false,
+                "last_on_display_place": null,
+                "last_on_display_date": null,
+                "is_context_indigenous": false,
+                "material_description": "",
+                "unpublished": false,
+                "first_production_date": "2002-01-01T11:00:00+11:00"
+            },
+            "group_works": [],
+            "group_siblings": [
+                {
+                    "id": 108894,
+                    "acmi_id": "2189",
+                    "title": "Billycarts",
+                    "title_annotation": "",
+                    "slug": "billycarts",
+                    "creator_credit": "Athol Adams",
+                    "credit_line": "",
+                    "headline_credit": "Australia, 1958",
+                    "thumbnail": {
+                        "image_url": "https://xos-prod-media.s3.amazonaws.com/media/snapshot_1599_26s.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=prAIEH%2FMTNeUp1f%2Fgp5TXX2Bisg%3D&Expires=1627009490",
+                        "animated_image_url": "",
+                        "has_video": true
+                    },
+                    "record_type": "work",
+                    "type": "Film",
+                    "is_on_display": false,
+                    "last_on_display_place": "ACMI Collection iPads",
+                    "last_on_display_date": "2019-04-22",
+                    "is_context_indigenous": false,
+                    "material_description": "",
+                    "unpublished": false,
+                    "first_production_date": "1958-01-01T10:00:00+10:00"
+                },
+                {
+                    "id": 108770,
+                    "acmi_id": "1927",
+                    "title": "Dandenong",
+                    "title_annotation": "",
+                    "slug": "dandenong",
+                    "creator_credit": "",
+                    "credit_line": "",
+                    "headline_credit": "Australia, 1956-1958",
+                    "thumbnail": {
+                        "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/B1004709full.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=fkrvORiX09gZdlvclrkEqysT3ho%3D&Expires=1627009490",
+                        "has_video": false
+                    },
+                    "record_type": "work",
+                    "type": "Film",
+                    "is_on_display": false,
+                    "last_on_display_place": null,
+                    "last_on_display_date": null,
+                    "is_context_indigenous": false,
+                    "material_description": "",
+                    "unpublished": false,
+                    "first_production_date": null
+                },
+                {
+                    "id": 108893,
+                    "acmi_id": "2188",
+                    "title": "Henry Bolte speech at opening of relocated Dandenong Stock Market (1958)",
+                    "title_annotation": "",
+                    "slug": "henry-bolte-speech-at-opening-of-relocated-dandenong-stock-market-1958",
+                    "creator_credit": "Athol Adams",
+                    "credit_line": "",
+                    "headline_credit": "Australia, 1958",
+                    "thumbnail": null,
+                    "record_type": "work",
+                    "type": "Film",
+                    "is_on_display": false,
+                    "last_on_display_place": null,
+                    "last_on_display_date": null,
+                    "is_context_indigenous": false,
+                    "material_description": "",
+                    "unpublished": false,
+                    "first_production_date": "1958-01-01T10:00:00+10:00"
+                },
+                {
+                    "id": 108891,
+                    "acmi_id": "2186",
+                    "title": "Mallacoota fishing trip",
+                    "title_annotation": "",
+                    "slug": "mallacoota-fishing-trip",
+                    "creator_credit": "Athol Adams",
+                    "credit_line": "",
+                    "headline_credit": "Australia, 1958",
+                    "thumbnail": {
+                        "image_url": "https://xos-prod-media.s3.amazonaws.com/media/snapshot_1875_50s.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=MJe39f8Mz%2BGGAZ6Ut%2FpbqB9DXuM%3D&Expires=1627009490",
+                        "animated_image_url": "",
+                        "has_video": true
+                    },
+                    "record_type": "work",
+                    "type": "Film",
+                    "is_on_display": false,
+                    "last_on_display_place": "ACMI Collection iPads",
+                    "last_on_display_date": "2019-04-22",
+                    "is_context_indigenous": false,
+                    "material_description": "",
+                    "unpublished": false,
+                    "first_production_date": "1958-01-01T10:00:00+10:00"
+                },
+                {
+                    "id": 108892,
+                    "acmi_id": "2187",
+                    "title": "Maroondah Dam",
+                    "title_annotation": "",
+                    "slug": "maroondah-dam",
+                    "creator_credit": "Athol Adams",
+                    "credit_line": "",
+                    "headline_credit": "Australia, 1958",
+                    "thumbnail": {
+                        "image_url": "https://xos-prod-media.s3.amazonaws.com/media/snapshot_1468_55s.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=zYjfcTF4Sd56N60sTe5zTZhXw74%3D&Expires=1627009490",
+                        "animated_image_url": "",
+                        "has_video": true
+                    },
+                    "record_type": "work",
+                    "type": "Film",
+                    "is_on_display": false,
+                    "last_on_display_place": "ACMI Viewing Booths",
+                    "last_on_display_date": "2019-04-22",
+                    "is_context_indigenous": false,
+                    "material_description": "",
+                    "unpublished": false,
+                    "first_production_date": "1958-01-01T10:00:00+10:00"
+                },
+                {
+                    "id": 108889,
+                    "acmi_id": "2184",
+                    "title": "The Queen Mother at Essendon Airport",
+                    "title_annotation": "",
+                    "slug": "the-queen-mother-at-essendon-airport",
+                    "creator_credit": "",
+                    "credit_line": "",
+                    "headline_credit": "Australia, 1958",
+                    "thumbnail": {
+                        "image_url": "https://xos-prod-media.s3.amazonaws.com/media/snapshot_1876_52s.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=Rmf46r9Aa5%2F%2BnPXvonbPInuQvGA%3D&Expires=1627009490",
+                        "animated_image_url": "",
+                        "has_video": true
+                    },
+                    "record_type": "work",
+                    "type": "Film",
+                    "is_on_display": false,
+                    "last_on_display_place": "ACMI Viewing Booths",
+                    "last_on_display_date": "2019-04-22",
+                    "is_context_indigenous": false,
+                    "material_description": "",
+                    "unpublished": false,
+                    "first_production_date": "1958-01-01T10:00:00+10:00"
+                }
+            ],
+            "source": {
+                "name": "Vernon",
+                "slug": "vernon"
+            },
+            "source_identifier": "2185",
+            "production_places": [
+                {
+                    "id": 3,
+                    "name": "Australia",
+                    "slug": "australia"
+                }
+            ],
+            "production_dates": [
+                {
+                    "date": "1958",
+                    "notes": "1958 Royal visit?",
+                    "to_year": "1958"
+                }
+            ],
+            "labels": [
+                48383
+            ]
+        },
+        {
+            "id": 108892,
+            "acmi_id": "2187",
+            "title": "Maroondah Dam",
+            "title_annotation": "",
+            "slug": "maroondah-dam",
+            "creator_credit": "Athol Adams",
+            "credit_line": "",
+            "headline_credit": "Australia, 1958",
+            "thumbnail": {
+                "image_url": "https://xos-prod-media.s3.amazonaws.com/media/snapshot_1468_55s.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=zYjfcTF4Sd56N60sTe5zTZhXw74%3D&Expires=1627009490",
+                "animated_image_url": "",
+                "has_video": true
+            },
+            "record_type": "work",
+            "type": "Film",
+            "is_on_display": false,
+            "last_on_display_place": "ACMI Viewing Booths",
+            "last_on_display_date": "2019-04-22",
+            "is_context_indigenous": false,
+            "material_description": "",
+            "unpublished": false,
+            "first_production_date": "1958-01-01T10:00:00+10:00",
+            "brief_description": "<p>Silent 1950s home movie footage of a family outing to the Maroondah Dam in the Upper Yarra Valley. Includes images of the landscape and boating facilities. Filmed by portrait photographer Athol Adams.<br />\nAthol Adams footage is courtesy of Jenny and Owen Peake.</p>",
+            "constellations_primary": [],
+            "constellations_other": [],
+            "recommendations": [],
+            "title_for_label": "<p>Maroondah Dam</p>",
+            "creator_credit_for_label": "<p>Athol Adams</p>",
+            "headline_credit_for_label": "<p>Australia, 1958</p>",
+            "description": "<p>Silent 1950s home movie footage of a family outing to the Maroondah Dam in the Upper Yarra Valley. Includes images of the landscape and boating facilities. Filmed by portrait photographer Athol Adams.<br />\nAthol Adams footage is courtesy of Jenny and Owen Peake.</p>",
+            "description_for_label": [
+                "<p>Silent 1950s home movie footage of a family outing to the Maroondah Dam in the Upper Yarra Valley. Includes images of the landscape and boating facilities. Filmed by portrait photographer Athol Adams.<br />\nAthol Adams footage is courtesy of Jenny and Owen Peake.</p>"
+            ],
+            "credit_line_for_label": "",
+            "details": [
+                {
+                    "label": "Duration",
+                    "display_values": [
+                        "00:02:47:00"
+                    ]
+                },
+                {
+                    "label": "Audience classifications",
+                    "display_values": [
+                        "ACMI classified",
+                        "Mediatheque - all ages (ACMI classified)"
+                    ]
+                },
+                {
+                    "label": "Subject categories",
+                    "display_values": [
+                        "Amateur & Student Films&nbsp;→ Amateur films",
+                        "Anthropology, Ethnology, Exploration & Travel&nbsp;→ Victoria - Description and travel",
+                        "Anthropology, Ethnology, Exploration & Travel&nbsp;→ Victoria - Social life and customs",
+                        "Documentary",
+                        "Documentary&nbsp;→ Documentary films - Australia",
+                        "Short films",
+                        "Short films&nbsp;→ Short films - Australia",
+                        "Silent films"
+                    ]
+                },
+                {
+                    "label": "Sound/audio",
+                    "display_values": [
+                        "Silent"
+                    ]
+                },
+                {
+                    "label": "Colour",
+                    "display_values": [
+                        "Black and White"
+                    ]
+                }
+            ],
+            "stats": {
+                "tap_count": 0
+            },
+            "links": [],
+            "creators_primary": [
+                {
+                    "id": 1133373,
+                    "name": "Athol Adams",
+                    "creator_id": 8872,
+                    "role": "creator",
+                    "role_id": 968,
+                    "is_primary": true
+                }
+            ],
+            "creators_other": [],
+            "video_links": [
+                {
+                    "id": 488,
+                    "name": "ACMI External Digital Access Copy",
+                    "uri": "https://youtu.be/cgfXAz50Pwo"
+                }
+            ],
+            "media_note": null,
+            "images": [
+                {
+                    "id": 11236,
+                    "image_file": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/B1005349_MaroondahDam.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=qRWzmQcylfDrvbZnjBrsNfthDXg%3D&Expires=1627009490",
+                    "image_file_thumbnail": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/B1005349_MaroondahDam.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=NljpJfMVsZdv2hKOy%2BvhaDKEKMg%3D&Expires=1627009490",
+                    "image_file_xs": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/B1005349_MaroondahDam.jpg.480x480_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=l09JCPt2ridZlpO6dmPRdP91eyg%3D&Expires=1627009490",
+                    "image_file_s": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/B1005349_MaroondahDam.jpg.960x960_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=8zqPD5XGLw%2FjVUvUXjNfakifOBs%3D&Expires=1627009490",
+                    "image_file_m": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/B1005349_MaroondahDam.jpg.1920x1920_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=hOW4jwrUYxHnuilbwUQ1e%2FDHr9A%3D&Expires=1627009490",
+                    "image_file_l": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/B1005349_MaroondahDam.jpg.3840x3840_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=GmgVVhGJ9PQgchvZfVwqqtNvqJ4%3D&Expires=1627009490",
+                    "caption": "Maroondah Dam (Athol Adams) still",
+                    "credit_line": "",
+                    "alt_text": "",
+                    "width": 438,
+                    "height": 327,
+                    "access_level": "View anywhere"
+                }
+            ],
+            "videos": [
+                {
+                    "id": 1468,
+                    "title": "B1005349_MaroondahDam.mpg",
+                    "resource": "https://xos-prod-media.s3.amazonaws.com/media/a_B1005349_MaroondahDam.mp4?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=RcYSYWSjfLKTBajX%2Fx4qnYjUnck%3D&Expires=1627009490",
+                    "web_resource": "https://xos-prod-media.s3.amazonaws.com/media/w_B1005349_MaroondahDam.mp4?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=YSh2t6qdn3wjwj2XgFtB%2BXXQDEQ%3D&Expires=1627009490",
+                    "duration_secs": 167.48,
+                    "subtitles": null,
+                    "master_metadata": {
+                        "title": "B1005349_MaroondahDam",
+                        "width": 720,
+                        "height": 576,
+                        "checksum": "929ef34d79c7dfc4c0150a84ee8474ca",
+                        "filetype": "m",
+                        "mime_type": "video/mpeg",
+                        "vernon_id": "",
+                        "audio_codec": "mp2",
+                        "video_codec": "mpeg2video",
+                        "duration_hms": "00:02:47:12",
+                        "duration_secs": 167.48,
+                        "audio_bit_rate": 384000,
+                        "audio_channels": 2,
+                        "video_bit_rate": 8000000,
+                        "file_size_bytes": 181629852,
+                        "overall_bit_rate": 8675894,
+                        "video_frame_rate": 25.0,
+                        "audio_sample_rate": 48000,
+                        "creation_datetime": "2020-10-20 16:30:41.914870+11:00",
+                        "audio_max_bit_rate": null,
+                        "video_max_bit_rate": null
+                    },
+                    "access_metadata": {
+                        "title": "B1005349_MaroondahDam",
+                        "width": 720,
+                        "height": 576,
+                        "checksum": "c137a23e2afef777887d380be2a5b282",
+                        "filetype": "a",
+                        "mime_type": "video/mp4",
+                        "vernon_id": "",
+                        "audio_codec": "aac",
+                        "video_codec": "h264",
+                        "duration_hms": "00:02:47:12",
+                        "duration_secs": 167.494,
+                        "audio_bit_rate": 128355,
+                        "audio_channels": 2,
+                        "video_bit_rate": 747562,
+                        "file_size_bytes": 18456062,
+                        "overall_bit_rate": 881515,
+                        "video_frame_rate": 25.0,
+                        "audio_sample_rate": 48000,
+                        "creation_datetime": "2020-10-23 17:19:06.116280+11:00",
+                        "audio_max_bit_rate": 128355,
+                        "video_max_bit_rate": null
+                    },
+                    "web_metadata": {
+                        "title": "B1005349_MaroondahDam",
+                        "width": 720,
+                        "height": 576,
+                        "checksum": "ed163943f99be6c9cd21a90d9c550008",
+                        "filetype": "w",
+                        "mime_type": "video/mp4",
+                        "vernon_id": "",
+                        "audio_codec": "aac",
+                        "video_codec": "h264",
+                        "duration_hms": "00:02:47:12",
+                        "duration_secs": 167.494,
+                        "audio_bit_rate": 128355,
+                        "audio_channels": 2,
+                        "video_bit_rate": 290160,
+                        "file_size_bytes": 8880348,
+                        "overall_bit_rate": 424151,
+                        "video_frame_rate": 25.0,
+                        "audio_sample_rate": 48000,
+                        "creation_datetime": "2020-10-23 17:20:38.716738+11:00",
+                        "audio_max_bit_rate": 128355,
+                        "video_max_bit_rate": null
+                    },
+                    "access_level": "View anywhere",
+                    "snapshot": "https://xos-prod-media.s3.amazonaws.com/media/snapshot_1468_55s.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=zYjfcTF4Sd56N60sTe5zTZhXw74%3D&Expires=1627009490",
+                    "animated_snapshot": ""
+                }
+            ],
+            "holdings": [
+                {
+                    "name": "Digital Betacam; Master",
+                    "identifier": "",
+                    "description": ""
+                },
+                {
+                    "name": "Digital Betacam; Sub-master",
+                    "identifier": "",
+                    "description": ""
+                },
+                {
+                    "name": "VHS [PAL]; Reference - timecoded",
+                    "identifier": "",
+                    "description": ""
+                },
+                {
+                    "name": "VHS [PAL]; Copy",
+                    "identifier": "",
+                    "description": ""
+                },
+                {
+                    "name": "DVCAM; Master",
+                    "identifier": "",
+                    "description": ""
+                },
+                {
+                    "name": "MPEG-2 Digital File; ACMI Digital Access Copy - presentation",
+                    "identifier": "",
+                    "description": ""
+                },
+                {
+                    "name": "DVCAM; Sub-master",
+                    "identifier": "",
+                    "description": ""
+                },
+                {
+                    "name": "MOV file H264; ACMI External Digital Access Copy",
+                    "identifier": "",
+                    "description": ""
+                }
+            ],
+            "part_of": null,
+            "parts": [],
+            "part_siblings": [],
+            "group": {
+                "id": 107319,
+                "acmi_id": "2190",
+                "title": "Memory Grid MAP Project and Collection submissions 2002",
+                "title_annotation": "",
+                "slug": "memory-grid-map-project-and-collection-submissions-2002",
+                "creator_credit": "ACMI",
+                "credit_line": "",
+                "headline_credit": "VIC/Australia, 2002",
+                "thumbnail": {
+                    "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/B1005351_Billycarts.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=Y22SHgdDF6o%2Fb%2FOti56sK7kFB88%3D&Expires=1627009490",
+                    "has_video": false
+                },
+                "record_type": "group",
+                "type": "Film",
+                "is_on_display": false,
+                "last_on_display_place": null,
+                "last_on_display_date": null,
+                "is_context_indigenous": false,
+                "material_description": "",
+                "unpublished": false,
+                "first_production_date": "2002-01-01T11:00:00+11:00"
+            },
+            "group_works": [],
+            "group_siblings": [
+                {
+                    "id": 108894,
+                    "acmi_id": "2189",
+                    "title": "Billycarts",
+                    "title_annotation": "",
+                    "slug": "billycarts",
+                    "creator_credit": "Athol Adams",
+                    "credit_line": "",
+                    "headline_credit": "Australia, 1958",
+                    "thumbnail": {
+                        "image_url": "https://xos-prod-media.s3.amazonaws.com/media/snapshot_1599_26s.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=prAIEH%2FMTNeUp1f%2Fgp5TXX2Bisg%3D&Expires=1627009490",
+                        "animated_image_url": "",
+                        "has_video": true
+                    },
+                    "record_type": "work",
+                    "type": "Film",
+                    "is_on_display": false,
+                    "last_on_display_place": "ACMI Collection iPads",
+                    "last_on_display_date": "2019-04-22",
+                    "is_context_indigenous": false,
+                    "material_description": "",
+                    "unpublished": false,
+                    "first_production_date": "1958-01-01T10:00:00+10:00"
+                },
+                {
+                    "id": 108770,
+                    "acmi_id": "1927",
+                    "title": "Dandenong",
+                    "title_annotation": "",
+                    "slug": "dandenong",
+                    "creator_credit": "",
+                    "credit_line": "",
+                    "headline_credit": "Australia, 1956-1958",
+                    "thumbnail": {
+                        "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/B1004709full.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=fkrvORiX09gZdlvclrkEqysT3ho%3D&Expires=1627009490",
+                        "has_video": false
+                    },
+                    "record_type": "work",
+                    "type": "Film",
+                    "is_on_display": false,
+                    "last_on_display_place": null,
+                    "last_on_display_date": null,
+                    "is_context_indigenous": false,
+                    "material_description": "",
+                    "unpublished": false,
+                    "first_production_date": null
+                },
+                {
+                    "id": 108893,
+                    "acmi_id": "2188",
+                    "title": "Henry Bolte speech at opening of relocated Dandenong Stock Market (1958)",
+                    "title_annotation": "",
+                    "slug": "henry-bolte-speech-at-opening-of-relocated-dandenong-stock-market-1958",
+                    "creator_credit": "Athol Adams",
+                    "credit_line": "",
+                    "headline_credit": "Australia, 1958",
+                    "thumbnail": null,
+                    "record_type": "work",
+                    "type": "Film",
+                    "is_on_display": false,
+                    "last_on_display_place": null,
+                    "last_on_display_date": null,
+                    "is_context_indigenous": false,
+                    "material_description": "",
+                    "unpublished": false,
+                    "first_production_date": "1958-01-01T10:00:00+10:00"
+                },
+                {
+                    "id": 108891,
+                    "acmi_id": "2186",
+                    "title": "Mallacoota fishing trip",
+                    "title_annotation": "",
+                    "slug": "mallacoota-fishing-trip",
+                    "creator_credit": "Athol Adams",
+                    "credit_line": "",
+                    "headline_credit": "Australia, 1958",
+                    "thumbnail": {
+                        "image_url": "https://xos-prod-media.s3.amazonaws.com/media/snapshot_1875_50s.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=MJe39f8Mz%2BGGAZ6Ut%2FpbqB9DXuM%3D&Expires=1627009490",
+                        "animated_image_url": "",
+                        "has_video": true
+                    },
+                    "record_type": "work",
+                    "type": "Film",
+                    "is_on_display": false,
+                    "last_on_display_place": "ACMI Collection iPads",
+                    "last_on_display_date": "2019-04-22",
+                    "is_context_indigenous": false,
+                    "material_description": "",
+                    "unpublished": false,
+                    "first_production_date": "1958-01-01T10:00:00+10:00"
+                },
+                {
+                    "id": 108890,
+                    "acmi_id": "2185",
+                    "title": "Melbourne city parade",
+                    "title_annotation": "",
+                    "slug": "melbourne-city-parade",
+                    "creator_credit": "Athol Adams",
+                    "credit_line": "",
+                    "headline_credit": "Australia, 1958",
+                    "thumbnail": {
+                        "image_url": "https://xos-prod-media.s3.amazonaws.com/media/snapshot_1511_53s.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=f%2BmztUXuwW4QyIeSx22%2FrxXvj6Y%3D&Expires=1627009490",
+                        "animated_image_url": "",
+                        "has_video": true
+                    },
+                    "record_type": "work",
+                    "type": "Film",
+                    "is_on_display": false,
+                    "last_on_display_place": "ACMI Viewing Booths",
+                    "last_on_display_date": "2019-04-22",
+                    "is_context_indigenous": false,
+                    "material_description": "",
+                    "unpublished": false,
+                    "first_production_date": "1958-01-01T10:00:00+10:00"
+                },
+                {
+                    "id": 108889,
+                    "acmi_id": "2184",
+                    "title": "The Queen Mother at Essendon Airport",
+                    "title_annotation": "",
+                    "slug": "the-queen-mother-at-essendon-airport",
+                    "creator_credit": "",
+                    "credit_line": "",
+                    "headline_credit": "Australia, 1958",
+                    "thumbnail": {
+                        "image_url": "https://xos-prod-media.s3.amazonaws.com/media/snapshot_1876_52s.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=Rmf46r9Aa5%2F%2BnPXvonbPInuQvGA%3D&Expires=1627009490",
+                        "animated_image_url": "",
+                        "has_video": true
+                    },
+                    "record_type": "work",
+                    "type": "Film",
+                    "is_on_display": false,
+                    "last_on_display_place": "ACMI Viewing Booths",
+                    "last_on_display_date": "2019-04-22",
+                    "is_context_indigenous": false,
+                    "material_description": "",
+                    "unpublished": false,
+                    "first_production_date": "1958-01-01T10:00:00+10:00"
+                }
+            ],
+            "source": {
+                "name": "Vernon",
+                "slug": "vernon"
+            },
+            "source_identifier": "2187",
+            "production_places": [
+                {
+                    "id": 3,
+                    "name": "Australia",
+                    "slug": "australia"
+                }
+            ],
+            "production_dates": [
+                {
+                    "date": "1958",
+                    "notes": "",
+                    "to_year": "1958"
+                }
+            ],
+            "labels": [
+                48385
+            ]
+        },
+        {
+            "id": 108891,
+            "acmi_id": "2186",
+            "title": "Mallacoota fishing trip",
+            "title_annotation": "",
+            "slug": "mallacoota-fishing-trip",
+            "creator_credit": "Athol Adams",
+            "credit_line": "",
+            "headline_credit": "Australia, 1958",
+            "thumbnail": {
+                "image_url": "https://xos-prod-media.s3.amazonaws.com/media/snapshot_1875_50s.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=MJe39f8Mz%2BGGAZ6Ut%2FpbqB9DXuM%3D&Expires=1627009490",
+                "animated_image_url": "",
+                "has_video": true
+            },
+            "record_type": "work",
+            "type": "Film",
+            "is_on_display": false,
+            "last_on_display_place": "ACMI Collection iPads",
+            "last_on_display_date": "2019-04-22",
+            "is_context_indigenous": false,
+            "material_description": "",
+            "unpublished": false,
+            "first_production_date": "1958-01-01T10:00:00+10:00",
+            "brief_description": "<p>Mallacoota - There is boatloads of nostalgic charm in this short black and white 1950s film of men taking a fishing trip at Mallacoota. Photographer Athol Adams has captured a sense of fun in this footage, made more entertaining to modern eyes because of the formal clothes the fishermen are wearing. A wonderful glimpse of a different generation at play.<br />\nAthol Adams footage is courtesy of Jenny and Owen Peake.</p>",
+            "constellations_primary": [],
+            "constellations_other": [],
+            "recommendations": [],
+            "title_for_label": "<p>Mallacoota fishing trip</p>",
+            "creator_credit_for_label": "<p>Athol Adams</p>",
+            "headline_credit_for_label": "<p>Australia, 1958</p>",
+            "description": "<p>Mallacoota - There is boatloads of nostalgic charm in this short black and white 1950s film of men taking a fishing trip at Mallacoota. Photographer Athol Adams has captured a sense of fun in this footage, made more entertaining to modern eyes because of the formal clothes the fishermen are wearing. A wonderful glimpse of a different generation at play.<br />\nAthol Adams footage is courtesy of Jenny and Owen Peake.</p>",
+            "description_for_label": [
+                "<p>Mallacoota - There is boatloads of nostalgic charm in this short black and white 1950s film of men taking a fishing trip at Mallacoota. Photographer Athol Adams has captured a sense of fun in this footage, made more entertaining to modern eyes because of the formal clothes the fishermen are wearing. A wonderful glimpse of a different generation at play.<br />\nAthol Adams footage is courtesy of Jenny and Owen Peake.</p>"
+            ],
+            "credit_line_for_label": "",
+            "details": [
+                {
+                    "label": "Duration",
+                    "display_values": [
+                        "00:02:30:00"
+                    ]
+                },
+                {
+                    "label": "Audience classifications",
+                    "display_values": [
+                        "ACMI classified",
+                        "Mediatheque - all ages (ACMI classified)"
+                    ]
+                },
+                {
+                    "label": "Subject categories",
+                    "display_values": [
+                        "Amateur & Student Films&nbsp;→ Amateur films",
+                        "Anthropology, Ethnology, Exploration & Travel&nbsp;→ Cities and towns",
+                        "Anthropology, Ethnology, Exploration & Travel&nbsp;→ Victoria - Description and travel",
+                        "Anthropology, Ethnology, Exploration & Travel&nbsp;→ Victoria - Social life and customs",
+                        "Documentary",
+                        "Documentary&nbsp;→ Documentary films - Australia",
+                        "Food, Health, Lifestyle, Medicine, Psychology & Safety&nbsp;→ Memory",
+                        "Short films",
+                        "Short films&nbsp;→ Short films - Australia",
+                        "Silent films"
+                    ]
+                },
+                {
+                    "label": "Sound/audio",
+                    "display_values": [
+                        "Silent"
+                    ]
+                },
+                {
+                    "label": "Colour",
+                    "display_values": [
+                        "Black and White"
+                    ]
+                }
+            ],
+            "stats": {
+                "tap_count": 0
+            },
+            "links": [],
+            "creators_primary": [
+                {
+                    "id": 1133372,
+                    "name": "Athol Adams",
+                    "creator_id": 8872,
+                    "role": "creator",
+                    "role_id": 968,
+                    "is_primary": true
+                }
+            ],
+            "creators_other": [],
+            "video_links": [
+                {
+                    "id": 487,
+                    "name": "ACMI External Digital Access Copy",
+                    "uri": "https://youtu.be/Ky2afbvZUGI"
+                }
+            ],
+            "media_note": null,
+            "images": [
+                {
+                    "id": 11235,
+                    "image_file": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/B1005348_MallacootaFishingTrip.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=rGcXPTHnJJFWLMdmg0TCQ%2FRZMx0%3D&Expires=1627009490",
+                    "image_file_thumbnail": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/B1005348_MallacootaFishingTrip.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=otN7Pcklc4wiaOY9K50QnfVNe%2BY%3D&Expires=1627009490",
+                    "image_file_xs": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/B1005348_MallacootaFishingTrip.jpg.480x480_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=BkVsXA1p97Q%2BY8YyNRwh%2B8mWqhA%3D&Expires=1627009490",
+                    "image_file_s": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/B1005348_MallacootaFishingTrip.jpg.960x960_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=TH0nPEQkWWhd3xWllWQj%2BYwk0jY%3D&Expires=1627009490",
+                    "image_file_m": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/B1005348_MallacootaFishingTrip.jpg.1920x1920_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=1hAPb4oY3MXJSv%2BpkDB4F4Tv2TQ%3D&Expires=1627009490",
+                    "image_file_l": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/B1005348_MallacootaFishingTrip.jpg.3840x3840_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=CCMbq2NOxuTaozszg8GsdMZH6QM%3D&Expires=1627009490",
+                    "caption": "Mallacoota fishing trip (Athol Adams) still",
+                    "credit_line": "",
+                    "alt_text": "",
+                    "width": 438,
+                    "height": 327,
+                    "access_level": "View anywhere"
+                }
+            ],
+            "videos": [
+                {
+                    "id": 1875,
+                    "title": "B1005348_MallacootaFishingTrip.mpg",
+                    "resource": "https://xos-prod-media.s3.amazonaws.com/media/a_B1005348_MallacootaFishingTrip.mp4?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=IShHBVyPzplE%2BChdlOHFxyIqK%2FI%3D&Expires=1627009490",
+                    "web_resource": "https://xos-prod-media.s3.amazonaws.com/media/w_B1005348_MallacootaFishingTrip.mp4?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=H1SlCmHZM5Q6iRyT1q0VNktAZws%3D&Expires=1627009490",
+                    "duration_secs": 150.048,
+                    "subtitles": null,
+                    "master_metadata": {
+                        "title": "B1005348_MallacootaFishingTrip",
+                        "width": 720,
+                        "height": 576,
+                        "checksum": "9e40a957b52eefeebca9d17b44ae9e49",
+                        "filetype": "m",
+                        "mime_type": "video/mpeg",
+                        "vernon_id": "",
+                        "audio_codec": "mp2",
+                        "video_codec": "mpeg2video",
+                        "duration_hms": "00:02:30:01",
+                        "duration_secs": 150.048,
+                        "audio_bit_rate": 384000,
+                        "audio_channels": 2,
+                        "video_bit_rate": 8000000,
+                        "file_size_bytes": 162701968,
+                        "overall_bit_rate": 8674662,
+                        "video_frame_rate": 25.0,
+                        "audio_sample_rate": 48000,
+                        "creation_datetime": "2020-10-20 16:30:41.884433+11:00",
+                        "audio_max_bit_rate": null,
+                        "video_max_bit_rate": null
+                    },
+                    "access_metadata": {
+                        "title": "B1005348_MallacootaFishingTrip",
+                        "width": 720,
+                        "height": 576,
+                        "checksum": "c5608989587e26a0c4fbdc3546c0a645",
+                        "filetype": "a",
+                        "mime_type": "video/mp4",
+                        "vernon_id": "",
+                        "audio_codec": "aac",
+                        "video_codec": "h264",
+                        "duration_hms": "00:02:30:02",
+                        "duration_secs": 150.07,
+                        "audio_bit_rate": 128372,
+                        "audio_channels": 2,
+                        "video_bit_rate": 1313613,
+                        "file_size_bytes": 27152148,
+                        "overall_bit_rate": 1447439,
+                        "video_frame_rate": 25.0,
+                        "audio_sample_rate": 48000,
+                        "creation_datetime": "2020-11-02 18:19:09.323111+11:00",
+                        "audio_max_bit_rate": 128372,
+                        "video_max_bit_rate": null
+                    },
+                    "web_metadata": {
+                        "title": "B1005348_MallacootaFishingTrip",
+                        "width": 720,
+                        "height": 576,
+                        "checksum": "db0e8a5cd7cc7aa042a6281f64a8cf6a",
+                        "filetype": "w",
+                        "mime_type": "video/mp4",
+                        "vernon_id": "",
+                        "audio_codec": "aac",
+                        "video_codec": "h264",
+                        "duration_hms": "00:02:30:02",
+                        "duration_secs": 150.07,
+                        "audio_bit_rate": 128372,
+                        "audio_channels": 2,
+                        "video_bit_rate": 581365,
+                        "file_size_bytes": 13418832,
+                        "overall_bit_rate": 715337,
+                        "video_frame_rate": 25.0,
+                        "audio_sample_rate": 48000,
+                        "creation_datetime": "2020-11-02 18:20:38.090139+11:00",
+                        "audio_max_bit_rate": 128372,
+                        "video_max_bit_rate": null
+                    },
+                    "access_level": "View anywhere",
+                    "snapshot": "https://xos-prod-media.s3.amazonaws.com/media/snapshot_1875_50s.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=MJe39f8Mz%2BGGAZ6Ut%2FpbqB9DXuM%3D&Expires=1627009490",
+                    "animated_snapshot": ""
+                }
+            ],
+            "holdings": [
+                {
+                    "name": "Digital Betacam; Master",
+                    "identifier": "",
+                    "description": ""
+                },
+                {
+                    "name": "Digital Betacam; Sub-master",
+                    "identifier": "",
+                    "description": ""
+                },
+                {
+                    "name": "VHS [PAL]; Reference - timecoded",
+                    "identifier": "",
+                    "description": ""
+                },
+                {
+                    "name": "VHS [PAL]; Copy",
+                    "identifier": "",
+                    "description": ""
+                },
+                {
+                    "name": "DVCAM; Master",
+                    "identifier": "",
+                    "description": ""
+                },
+                {
+                    "name": "MPEG-2 Digital File; ACMI Digital Access Copy - presentation",
+                    "identifier": "",
+                    "description": ""
+                },
+                {
+                    "name": "DVCAM; Sub-master",
+                    "identifier": "",
+                    "description": ""
+                },
+                {
+                    "name": "MOV file H264; ACMI External Digital Access Copy",
+                    "identifier": "",
+                    "description": ""
+                }
+            ],
+            "part_of": null,
+            "parts": [],
+            "part_siblings": [],
+            "group": {
+                "id": 107319,
+                "acmi_id": "2190",
+                "title": "Memory Grid MAP Project and Collection submissions 2002",
+                "title_annotation": "",
+                "slug": "memory-grid-map-project-and-collection-submissions-2002",
+                "creator_credit": "ACMI",
+                "credit_line": "",
+                "headline_credit": "VIC/Australia, 2002",
+                "thumbnail": {
+                    "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/B1005351_Billycarts.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=Y22SHgdDF6o%2Fb%2FOti56sK7kFB88%3D&Expires=1627009490",
+                    "has_video": false
+                },
+                "record_type": "group",
+                "type": "Film",
+                "is_on_display": false,
+                "last_on_display_place": null,
+                "last_on_display_date": null,
+                "is_context_indigenous": false,
+                "material_description": "",
+                "unpublished": false,
+                "first_production_date": "2002-01-01T11:00:00+11:00"
+            },
+            "group_works": [],
+            "group_siblings": [
+                {
+                    "id": 108894,
+                    "acmi_id": "2189",
+                    "title": "Billycarts",
+                    "title_annotation": "",
+                    "slug": "billycarts",
+                    "creator_credit": "Athol Adams",
+                    "credit_line": "",
+                    "headline_credit": "Australia, 1958",
+                    "thumbnail": {
+                        "image_url": "https://xos-prod-media.s3.amazonaws.com/media/snapshot_1599_26s.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=prAIEH%2FMTNeUp1f%2Fgp5TXX2Bisg%3D&Expires=1627009490",
+                        "animated_image_url": "",
+                        "has_video": true
+                    },
+                    "record_type": "work",
+                    "type": "Film",
+                    "is_on_display": false,
+                    "last_on_display_place": "ACMI Collection iPads",
+                    "last_on_display_date": "2019-04-22",
+                    "is_context_indigenous": false,
+                    "material_description": "",
+                    "unpublished": false,
+                    "first_production_date": "1958-01-01T10:00:00+10:00"
+                },
+                {
+                    "id": 108770,
+                    "acmi_id": "1927",
+                    "title": "Dandenong",
+                    "title_annotation": "",
+                    "slug": "dandenong",
+                    "creator_credit": "",
+                    "credit_line": "",
+                    "headline_credit": "Australia, 1956-1958",
+                    "thumbnail": {
+                        "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/B1004709full.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=fkrvORiX09gZdlvclrkEqysT3ho%3D&Expires=1627009490",
+                        "has_video": false
+                    },
+                    "record_type": "work",
+                    "type": "Film",
+                    "is_on_display": false,
+                    "last_on_display_place": null,
+                    "last_on_display_date": null,
+                    "is_context_indigenous": false,
+                    "material_description": "",
+                    "unpublished": false,
+                    "first_production_date": null
+                },
+                {
+                    "id": 108893,
+                    "acmi_id": "2188",
+                    "title": "Henry Bolte speech at opening of relocated Dandenong Stock Market (1958)",
+                    "title_annotation": "",
+                    "slug": "henry-bolte-speech-at-opening-of-relocated-dandenong-stock-market-1958",
+                    "creator_credit": "Athol Adams",
+                    "credit_line": "",
+                    "headline_credit": "Australia, 1958",
+                    "thumbnail": null,
+                    "record_type": "work",
+                    "type": "Film",
+                    "is_on_display": false,
+                    "last_on_display_place": null,
+                    "last_on_display_date": null,
+                    "is_context_indigenous": false,
+                    "material_description": "",
+                    "unpublished": false,
+                    "first_production_date": "1958-01-01T10:00:00+10:00"
+                },
+                {
+                    "id": 108892,
+                    "acmi_id": "2187",
+                    "title": "Maroondah Dam",
+                    "title_annotation": "",
+                    "slug": "maroondah-dam",
+                    "creator_credit": "Athol Adams",
+                    "credit_line": "",
+                    "headline_credit": "Australia, 1958",
+                    "thumbnail": {
+                        "image_url": "https://xos-prod-media.s3.amazonaws.com/media/snapshot_1468_55s.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=zYjfcTF4Sd56N60sTe5zTZhXw74%3D&Expires=1627009490",
+                        "animated_image_url": "",
+                        "has_video": true
+                    },
+                    "record_type": "work",
+                    "type": "Film",
+                    "is_on_display": false,
+                    "last_on_display_place": "ACMI Viewing Booths",
+                    "last_on_display_date": "2019-04-22",
+                    "is_context_indigenous": false,
+                    "material_description": "",
+                    "unpublished": false,
+                    "first_production_date": "1958-01-01T10:00:00+10:00"
+                },
+                {
+                    "id": 108890,
+                    "acmi_id": "2185",
+                    "title": "Melbourne city parade",
+                    "title_annotation": "",
+                    "slug": "melbourne-city-parade",
+                    "creator_credit": "Athol Adams",
+                    "credit_line": "",
+                    "headline_credit": "Australia, 1958",
+                    "thumbnail": {
+                        "image_url": "https://xos-prod-media.s3.amazonaws.com/media/snapshot_1511_53s.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=f%2BmztUXuwW4QyIeSx22%2FrxXvj6Y%3D&Expires=1627009490",
+                        "animated_image_url": "",
+                        "has_video": true
+                    },
+                    "record_type": "work",
+                    "type": "Film",
+                    "is_on_display": false,
+                    "last_on_display_place": "ACMI Viewing Booths",
+                    "last_on_display_date": "2019-04-22",
+                    "is_context_indigenous": false,
+                    "material_description": "",
+                    "unpublished": false,
+                    "first_production_date": "1958-01-01T10:00:00+10:00"
+                },
+                {
+                    "id": 108889,
+                    "acmi_id": "2184",
+                    "title": "The Queen Mother at Essendon Airport",
+                    "title_annotation": "",
+                    "slug": "the-queen-mother-at-essendon-airport",
+                    "creator_credit": "",
+                    "credit_line": "",
+                    "headline_credit": "Australia, 1958",
+                    "thumbnail": {
+                        "image_url": "https://xos-prod-media.s3.amazonaws.com/media/snapshot_1876_52s.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=Rmf46r9Aa5%2F%2BnPXvonbPInuQvGA%3D&Expires=1627009490",
+                        "animated_image_url": "",
+                        "has_video": true
+                    },
+                    "record_type": "work",
+                    "type": "Film",
+                    "is_on_display": false,
+                    "last_on_display_place": "ACMI Viewing Booths",
+                    "last_on_display_date": "2019-04-22",
+                    "is_context_indigenous": false,
+                    "material_description": "",
+                    "unpublished": false,
+                    "first_production_date": "1958-01-01T10:00:00+10:00"
+                }
+            ],
+            "source": {
+                "name": "Vernon",
+                "slug": "vernon"
+            },
+            "source_identifier": "2186",
+            "production_places": [
+                {
+                    "id": 3,
+                    "name": "Australia",
+                    "slug": "australia"
+                }
+            ],
+            "production_dates": [
+                {
+                    "date": "1958",
+                    "notes": "",
+                    "to_year": "1958"
+                }
+            ],
+            "labels": [
+                48384
+            ]
+        },
+        {
+            "id": 108893,
+            "acmi_id": "2188",
+            "title": "Henry Bolte speech at opening of relocated Dandenong Stock Market (1958)",
+            "title_annotation": "",
+            "slug": "henry-bolte-speech-at-opening-of-relocated-dandenong-stock-market-1958",
+            "creator_credit": "Athol Adams",
+            "credit_line": "",
+            "headline_credit": "Australia, 1958",
+            "thumbnail": null,
+            "record_type": "work",
+            "type": "Film",
+            "is_on_display": false,
+            "last_on_display_place": null,
+            "last_on_display_date": null,
+            "is_context_indigenous": false,
+            "material_description": "",
+            "unpublished": false,
+            "first_production_date": "1958-01-01T10:00:00+10:00",
+            "brief_description": "<p>Silent film footage of the then Premier of Victoria, Henry Bolte, presenting his speech at the opening of the Dandenong Stock Market at its new location in Cheltenham Road (1958). Includes scenes of dignitaries and spectators, and a tour of the stockyards.<br />\nAthol Adams footage is courtesy of Jenny and Owen Peake.<br />\nTHIS FILM IS SILENT</p>",
+            "constellations_primary": [],
+            "constellations_other": [],
+            "recommendations": [],
+            "title_for_label": "<p>Henry Bolte speech at opening of relocated Dandenong Stock Market (1958)</p>",
+            "creator_credit_for_label": "<p>Athol Adams</p>",
+            "headline_credit_for_label": "<p>Australia, 1958</p>",
+            "description": "<p>Silent film footage of the then Premier of Victoria, Henry Bolte, presenting his speech at the opening of the Dandenong Stock Market at its new location in Cheltenham Road (1958). Includes scenes of dignitaries and spectators, and a tour of the stockyards.<br />\nAthol Adams footage is courtesy of Jenny and Owen Peake.<br />\nTHIS FILM IS SILENT</p>",
+            "description_for_label": [
+                "<p>Silent film footage of the then Premier of Victoria, Henry Bolte, presenting his speech at the opening of the Dandenong Stock Market at its new location in Cheltenham Road (1958). Includes scenes of dignitaries and spectators, and a tour of the stockyards.<br />\nAthol Adams footage is courtesy of Jenny and Owen Peake.<br />\nTHIS FILM IS SILENT</p>"
+            ],
+            "credit_line_for_label": "",
+            "details": [
+                {
+                    "label": "Duration",
+                    "display_values": [
+                        "00:01:28:00"
+                    ]
+                },
+                {
+                    "label": "Language",
+                    "display_values": [
+                        "Silent"
+                    ]
+                },
+                {
+                    "label": "Audience classification",
+                    "display_values": [
+                        "ACMI classified"
+                    ]
+                },
+                {
+                    "label": "Subject categories",
+                    "display_values": [
+                        "Anthropology, Ethnology, Exploration & Travel&nbsp;→ Victoria - Description and travel",
+                        "Anthropology, Ethnology, Exploration & Travel&nbsp;→ Victoria - Social life and customs",
+                        "Archival, Cinemagazines & Newsreels",
+                        "Archival, Cinemagazines & Newsreels&nbsp;→ Speeches, addresses, etc.",
+                        "Documentary",
+                        "Documentary&nbsp;→ Documentary films - Australia",
+                        "History&nbsp;→ Australia - History",
+                        "Short films",
+                        "Short films&nbsp;→ Short films - Australia"
+                    ]
+                },
+                {
+                    "label": "Sound/audio",
+                    "display_values": [
+                        "Silent"
+                    ]
+                },
+                {
+                    "label": "Colour",
+                    "display_values": [
+                        "Colour"
+                    ]
+                }
+            ],
+            "stats": {
+                "tap_count": 0
+            },
+            "links": [],
+            "creators_primary": [
+                {
+                    "id": 1133369,
+                    "name": "Athol Adams",
+                    "creator_id": 8872,
+                    "role": "creator",
+                    "role_id": 968,
+                    "is_primary": true
+                }
+            ],
+            "creators_other": [],
+            "video_links": [],
+            "media_note": "Sorry, we don't have images or video for this item.",
+            "images": [],
+            "videos": [],
+            "holdings": [
+                {
+                    "name": "Digital Betacam; Master",
+                    "identifier": "",
+                    "description": ""
+                },
+                {
+                    "name": "Digital Betacam; Sub-master",
+                    "identifier": "",
+                    "description": ""
+                },
+                {
+                    "name": "VHS [PAL]; Reference - timecoded",
+                    "identifier": "",
+                    "description": ""
+                },
+                {
+                    "name": "VHS [PAL]; Copy",
+                    "identifier": "",
+                    "description": ""
+                },
+                {
+                    "name": "DVCAM; Master",
+                    "identifier": "",
+                    "description": ""
+                },
+                {
+                    "name": "DVCAM; Sub-master",
+                    "identifier": "",
+                    "description": ""
+                }
+            ],
+            "part_of": null,
+            "parts": [],
+            "part_siblings": [],
+            "group": {
+                "id": 107319,
+                "acmi_id": "2190",
+                "title": "Memory Grid MAP Project and Collection submissions 2002",
+                "title_annotation": "",
+                "slug": "memory-grid-map-project-and-collection-submissions-2002",
+                "creator_credit": "ACMI",
+                "credit_line": "",
+                "headline_credit": "VIC/Australia, 2002",
+                "thumbnail": {
+                    "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/B1005351_Billycarts.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=Y22SHgdDF6o%2Fb%2FOti56sK7kFB88%3D&Expires=1627009490",
+                    "has_video": false
+                },
+                "record_type": "group",
+                "type": "Film",
+                "is_on_display": false,
+                "last_on_display_place": null,
+                "last_on_display_date": null,
+                "is_context_indigenous": false,
+                "material_description": "",
+                "unpublished": false,
+                "first_production_date": "2002-01-01T11:00:00+11:00"
+            },
+            "group_works": [],
+            "group_siblings": [
+                {
+                    "id": 108894,
+                    "acmi_id": "2189",
+                    "title": "Billycarts",
+                    "title_annotation": "",
+                    "slug": "billycarts",
+                    "creator_credit": "Athol Adams",
+                    "credit_line": "",
+                    "headline_credit": "Australia, 1958",
+                    "thumbnail": {
+                        "image_url": "https://xos-prod-media.s3.amazonaws.com/media/snapshot_1599_26s.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=prAIEH%2FMTNeUp1f%2Fgp5TXX2Bisg%3D&Expires=1627009490",
+                        "animated_image_url": "",
+                        "has_video": true
+                    },
+                    "record_type": "work",
+                    "type": "Film",
+                    "is_on_display": false,
+                    "last_on_display_place": "ACMI Collection iPads",
+                    "last_on_display_date": "2019-04-22",
+                    "is_context_indigenous": false,
+                    "material_description": "",
+                    "unpublished": false,
+                    "first_production_date": "1958-01-01T10:00:00+10:00"
+                },
+                {
+                    "id": 108770,
+                    "acmi_id": "1927",
+                    "title": "Dandenong",
+                    "title_annotation": "",
+                    "slug": "dandenong",
+                    "creator_credit": "",
+                    "credit_line": "",
+                    "headline_credit": "Australia, 1956-1958",
+                    "thumbnail": {
+                        "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/B1004709full.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=fkrvORiX09gZdlvclrkEqysT3ho%3D&Expires=1627009490",
+                        "has_video": false
+                    },
+                    "record_type": "work",
+                    "type": "Film",
+                    "is_on_display": false,
+                    "last_on_display_place": null,
+                    "last_on_display_date": null,
+                    "is_context_indigenous": false,
+                    "material_description": "",
+                    "unpublished": false,
+                    "first_production_date": null
+                },
+                {
+                    "id": 108891,
+                    "acmi_id": "2186",
+                    "title": "Mallacoota fishing trip",
+                    "title_annotation": "",
+                    "slug": "mallacoota-fishing-trip",
+                    "creator_credit": "Athol Adams",
+                    "credit_line": "",
+                    "headline_credit": "Australia, 1958",
+                    "thumbnail": {
+                        "image_url": "https://xos-prod-media.s3.amazonaws.com/media/snapshot_1875_50s.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=MJe39f8Mz%2BGGAZ6Ut%2FpbqB9DXuM%3D&Expires=1627009490",
+                        "animated_image_url": "",
+                        "has_video": true
+                    },
+                    "record_type": "work",
+                    "type": "Film",
+                    "is_on_display": false,
+                    "last_on_display_place": "ACMI Collection iPads",
+                    "last_on_display_date": "2019-04-22",
+                    "is_context_indigenous": false,
+                    "material_description": "",
+                    "unpublished": false,
+                    "first_production_date": "1958-01-01T10:00:00+10:00"
+                },
+                {
+                    "id": 108892,
+                    "acmi_id": "2187",
+                    "title": "Maroondah Dam",
+                    "title_annotation": "",
+                    "slug": "maroondah-dam",
+                    "creator_credit": "Athol Adams",
+                    "credit_line": "",
+                    "headline_credit": "Australia, 1958",
+                    "thumbnail": {
+                        "image_url": "https://xos-prod-media.s3.amazonaws.com/media/snapshot_1468_55s.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=zYjfcTF4Sd56N60sTe5zTZhXw74%3D&Expires=1627009490",
+                        "animated_image_url": "",
+                        "has_video": true
+                    },
+                    "record_type": "work",
+                    "type": "Film",
+                    "is_on_display": false,
+                    "last_on_display_place": "ACMI Viewing Booths",
+                    "last_on_display_date": "2019-04-22",
+                    "is_context_indigenous": false,
+                    "material_description": "",
+                    "unpublished": false,
+                    "first_production_date": "1958-01-01T10:00:00+10:00"
+                },
+                {
+                    "id": 108890,
+                    "acmi_id": "2185",
+                    "title": "Melbourne city parade",
+                    "title_annotation": "",
+                    "slug": "melbourne-city-parade",
+                    "creator_credit": "Athol Adams",
+                    "credit_line": "",
+                    "headline_credit": "Australia, 1958",
+                    "thumbnail": {
+                        "image_url": "https://xos-prod-media.s3.amazonaws.com/media/snapshot_1511_53s.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=f%2BmztUXuwW4QyIeSx22%2FrxXvj6Y%3D&Expires=1627009490",
+                        "animated_image_url": "",
+                        "has_video": true
+                    },
+                    "record_type": "work",
+                    "type": "Film",
+                    "is_on_display": false,
+                    "last_on_display_place": "ACMI Viewing Booths",
+                    "last_on_display_date": "2019-04-22",
+                    "is_context_indigenous": false,
+                    "material_description": "",
+                    "unpublished": false,
+                    "first_production_date": "1958-01-01T10:00:00+10:00"
+                },
+                {
+                    "id": 108889,
+                    "acmi_id": "2184",
+                    "title": "The Queen Mother at Essendon Airport",
+                    "title_annotation": "",
+                    "slug": "the-queen-mother-at-essendon-airport",
+                    "creator_credit": "",
+                    "credit_line": "",
+                    "headline_credit": "Australia, 1958",
+                    "thumbnail": {
+                        "image_url": "https://xos-prod-media.s3.amazonaws.com/media/snapshot_1876_52s.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=Rmf46r9Aa5%2F%2BnPXvonbPInuQvGA%3D&Expires=1627009490",
+                        "animated_image_url": "",
+                        "has_video": true
+                    },
+                    "record_type": "work",
+                    "type": "Film",
+                    "is_on_display": false,
+                    "last_on_display_place": "ACMI Viewing Booths",
+                    "last_on_display_date": "2019-04-22",
+                    "is_context_indigenous": false,
+                    "material_description": "",
+                    "unpublished": false,
+                    "first_production_date": "1958-01-01T10:00:00+10:00"
+                }
+            ],
+            "source": {
+                "name": "Vernon",
+                "slug": "vernon"
+            },
+            "source_identifier": "2188",
+            "production_places": [
+                {
+                    "id": 3,
+                    "name": "Australia",
+                    "slug": "australia"
+                }
+            ],
+            "production_dates": [
+                {
+                    "date": "1958",
+                    "notes": "",
+                    "to_year": "1958"
+                }
+            ],
+            "labels": [
+                48386
+            ]
+        }
+    ]
+}

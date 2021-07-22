@@ -1,0 +1,382 @@
+{
+    "id": 114342,
+    "acmi_id": "15217",
+    "title": "A Fishy problem",
+    "title_annotation": "",
+    "slug": "a-fishy-problem",
+    "creator_credit": "Astrid Silberman, ACMI Digital Storytelling and ACMI",
+    "credit_line": "",
+    "headline_credit": "Australia, 2007",
+    "thumbnail": null,
+    "record_type": "work",
+    "type": "Film",
+    "is_on_display": false,
+    "last_on_display_place": null,
+    "last_on_display_date": null,
+    "is_context_indigenous": false,
+    "material_description": "",
+    "unpublished": false,
+    "first_production_date": "2007-01-01T11:00:00+11:00",
+    "brief_description": "<p>Astrid Silberman attempts to recreate her family recipe for Gefilte fish. She has trouble deciding whether to follow the traditional recipe or to come up with a new interpretation on the old tradition. This Digital Storytelling project was created in partnership with the Jewish Museum of Australia.</p>",
+    "constellations_primary": [],
+    "constellations_other": [],
+    "recommendations": [],
+    "title_for_label": "<p>A Fishy problem</p>",
+    "creator_credit_for_label": "<p>Astrid Silberman, ACMI Digital Storytelling and ACMI</p>",
+    "headline_credit_for_label": "<p>Australia, 2007</p>",
+    "description": "<p>Astrid Silberman attempts to recreate her family recipe for Gefilte fish. She has trouble deciding whether to follow the traditional recipe or to come up with a new interpretation on the old tradition. This Digital Storytelling project was created in partnership with the Jewish Museum of Australia.</p>",
+    "description_for_label": [
+        "<p>Astrid Silberman attempts to recreate her family recipe for Gefilte fish. She has trouble deciding whether to follow the traditional recipe or to come up with a new interpretation on the old tradition. This Digital Storytelling project was created in partnership with the Jewish Museum of Australia.</p>"
+    ],
+    "credit_line_for_label": "",
+    "details": [
+        {
+            "label": "Duration",
+            "display_values": [
+                "00:02:54:00"
+            ]
+        },
+        {
+            "label": "Language",
+            "display_values": [
+                "English"
+            ]
+        },
+        {
+            "label": "Subject categories",
+            "display_values": [
+                "Anthropology, Ethnology, Exploration & Travel&nbsp;→ Australia",
+                "Anthropology, Ethnology, Exploration & Travel&nbsp;→ Australia - Civilization",
+                "Anthropology, Ethnology, Exploration & Travel&nbsp;→ Australia - Social life and customs",
+                "Anthropology, Ethnology, Exploration & Travel&nbsp;→ Culture",
+                "Anthropology, Ethnology, Exploration & Travel&nbsp;→ Jewish families",
+                "Anthropology, Ethnology, Exploration & Travel&nbsp;→ Jews - Australia",
+                "Anthropology, Ethnology, Exploration & Travel&nbsp;→ Jews - Migrations",
+                "Anthropology, Ethnology, Exploration & Travel&nbsp;→ Jews - Social life and customs",
+                "Biographical",
+                "Documentary",
+                "Documentary&nbsp;→ Documentary films - Australia",
+                "Economics, Philosophy, Politics, Religion & Sociology&nbsp;→ Australia - Emigration and immigration",
+                "Economics, Philosophy, Politics, Religion & Sociology&nbsp;→ Cross-cultural studies",
+                "Economics, Philosophy, Politics, Religion & Sociology&nbsp;→ Ethnology - Australia",
+                "Economics, Philosophy, Politics, Religion & Sociology&nbsp;→ Immigrants - Australia",
+                "Economics, Philosophy, Politics, Religion & Sociology&nbsp;→ Jewish families",
+                "Economics, Philosophy, Politics, Religion & Sociology&nbsp;→ Jews - Migrations",
+                "Economics, Philosophy, Politics, Religion & Sociology&nbsp;→ Minorities - Australia",
+                "Family, Gender Identity, Relationships & Sexuality&nbsp;→ Family",
+                "Family, Gender Identity, Relationships & Sexuality&nbsp;→ Family - Australia",
+                "Food, Health, Lifestyle, Medicine, Psychology & Safety&nbsp;→ Cookery",
+                "Food, Health, Lifestyle, Medicine, Psychology & Safety&nbsp;→ Cookery (Fish)",
+                "History&nbsp;→ Jews - Australia",
+                "History&nbsp;→ Jews - Migrations",
+                "Places&nbsp;→ Australia",
+                "Short films",
+                "Short films&nbsp;→ Short films - Australia"
+            ]
+        },
+        {
+            "label": "Sound/audio",
+            "display_values": [
+                "Sound"
+            ]
+        },
+        {
+            "label": "Colour",
+            "display_values": [
+                "Colour"
+            ]
+        }
+    ],
+    "stats": {
+        "tap_count": 0
+    },
+    "links": [],
+    "creators_primary": [
+        {
+            "id": 1134037,
+            "name": "Astrid Silberman",
+            "creator_id": 11770,
+            "role": "creator",
+            "role_id": 968,
+            "is_primary": true
+        },
+        {
+            "id": 1134036,
+            "name": "ACMI Digital Storytelling",
+            "creator_id": 10590,
+            "role": "producer",
+            "role_id": 960,
+            "is_primary": true
+        },
+        {
+            "id": 1134033,
+            "name": "ACMI",
+            "creator_id": 6272,
+            "role": "production company",
+            "role_id": 941,
+            "is_primary": true
+        }
+    ],
+    "creators_other": [
+        {
+            "id": 1134035,
+            "name": "Jewish Museum of Australia",
+            "creator_id": 81943,
+            "role": "partner",
+            "role_id": 575,
+            "is_primary": false
+        },
+        {
+            "id": 1134034,
+            "name": "Arts Victoria",
+            "creator_id": 11250,
+            "role": "partner",
+            "role_id": 575,
+            "is_primary": false
+        }
+    ],
+    "video_links": [],
+    "media_note": "Sorry, we aren't able to make images or video for this item available to the public online.",
+    "images": [],
+    "videos": [],
+    "holdings": [
+        {
+            "name": "DVCAM; Master",
+            "identifier": "",
+            "description": ""
+        },
+        {
+            "name": "MPEG-4 Digital File; ACMI Digital Access Copy - overscan",
+            "identifier": "",
+            "description": ""
+        }
+    ],
+    "part_of": null,
+    "parts": [],
+    "part_siblings": [],
+    "group": {
+        "id": 114340,
+        "acmi_id": "15210",
+        "title": "Stories from the Jewish Community",
+        "title_annotation": "",
+        "slug": "stories-from-the-jewish-community",
+        "creator_credit": "Adriana Gomberg, Idit Benjamin, Alain Herz, Adam Barolsky, Adam Nudelman, Emma Levy, Sheiny New, Jenni Klempfner, Ximena Silberman, Astrid Silberman, ACMI and ACMI Digital Storytelling",
+        "credit_line": "",
+        "headline_credit": "Australia, 2007",
+        "thumbnail": null,
+        "record_type": "group",
+        "type": "Film",
+        "is_on_display": false,
+        "last_on_display_place": null,
+        "last_on_display_date": null,
+        "is_context_indigenous": false,
+        "material_description": "",
+        "unpublished": false,
+        "first_production_date": "2007-01-01T11:00:00+11:00"
+    },
+    "group_works": [],
+    "group_siblings": [
+        {
+            "id": 114341,
+            "acmi_id": "15220",
+            "title": "Fate makes all the moves",
+            "title_annotation": "",
+            "slug": "fate-makes-all-the-moves",
+            "creator_credit": "Idit Benjamin, ACMI Digital Storytelling and ACMI",
+            "credit_line": "",
+            "headline_credit": "Australia, 2007",
+            "thumbnail": null,
+            "record_type": "work",
+            "type": "Film",
+            "is_on_display": false,
+            "last_on_display_place": null,
+            "last_on_display_date": null,
+            "is_context_indigenous": false,
+            "material_description": "",
+            "unpublished": false,
+            "first_production_date": "2007-01-01T11:00:00+11:00"
+        },
+        {
+            "id": 114343,
+            "acmi_id": "15215",
+            "title": "I'm not French",
+            "title_annotation": "",
+            "slug": "im-not-french",
+            "creator_credit": "Alain Herz, ACMI Digital Storytelling and ACMI",
+            "credit_line": "",
+            "headline_credit": "Australia, 2007",
+            "thumbnail": null,
+            "record_type": "work",
+            "type": "Film",
+            "is_on_display": false,
+            "last_on_display_place": null,
+            "last_on_display_date": null,
+            "is_context_indigenous": false,
+            "material_description": "",
+            "unpublished": false,
+            "first_production_date": "2007-01-01T11:00:00+11:00"
+        },
+        {
+            "id": 114344,
+            "acmi_id": "15216",
+            "title": "Ingredients of love",
+            "title_annotation": "",
+            "slug": "ingredients-of-love",
+            "creator_credit": "Jenni Klempfner, ACMI Digital Storytelling and ACMI",
+            "credit_line": "",
+            "headline_credit": "Australia, 2007",
+            "thumbnail": null,
+            "record_type": "work",
+            "type": "Film",
+            "is_on_display": false,
+            "last_on_display_place": null,
+            "last_on_display_date": null,
+            "is_context_indigenous": false,
+            "material_description": "",
+            "unpublished": false,
+            "first_production_date": "2007-01-01T11:00:00+11:00"
+        },
+        {
+            "id": 114345,
+            "acmi_id": "15223",
+            "title": "Journeys",
+            "title_annotation": "",
+            "slug": "journeys",
+            "creator_credit": "Sheiny New, ACMI Digital Storytelling and ACMI",
+            "credit_line": "",
+            "headline_credit": "Australia, 2007",
+            "thumbnail": null,
+            "record_type": "work",
+            "type": "Film",
+            "is_on_display": false,
+            "last_on_display_place": null,
+            "last_on_display_date": null,
+            "is_context_indigenous": false,
+            "material_description": "",
+            "unpublished": false,
+            "first_production_date": "2007-01-01T11:00:00+11:00"
+        },
+        {
+            "id": 114339,
+            "acmi_id": "15211",
+            "title": "My beautiful shwesters",
+            "title_annotation": "",
+            "slug": "my-beautiful-shwesters",
+            "creator_credit": "Adam Barolsky, ACMI Digital Storytelling and ACMI",
+            "credit_line": "",
+            "headline_credit": "Australia, 2007",
+            "thumbnail": null,
+            "record_type": "work",
+            "type": "Film",
+            "is_on_display": false,
+            "last_on_display_place": null,
+            "last_on_display_date": null,
+            "is_context_indigenous": false,
+            "material_description": "",
+            "unpublished": false,
+            "first_production_date": "2007-01-01T11:00:00+11:00"
+        },
+        {
+            "id": 114346,
+            "acmi_id": "15221",
+            "title": "One wedding and several migrations",
+            "title_annotation": "",
+            "slug": "one-wedding-and-several-migrations",
+            "creator_credit": "Adriana Gomberg, ACMI Digital Storytelling and ACMI",
+            "credit_line": "",
+            "headline_credit": "Australia, 2007",
+            "thumbnail": null,
+            "record_type": "work",
+            "type": "Film",
+            "is_on_display": false,
+            "last_on_display_place": null,
+            "last_on_display_date": null,
+            "is_context_indigenous": false,
+            "material_description": "",
+            "unpublished": false,
+            "first_production_date": "2007-01-01T11:00:00+11:00"
+        },
+        {
+            "id": 114347,
+            "acmi_id": "15214",
+            "title": "Second life",
+            "title_annotation": "",
+            "slug": "second-life",
+            "creator_credit": "Ximena Silberman, ACMI Digital Storytelling and ACMI",
+            "credit_line": "",
+            "headline_credit": "Australia, 2007",
+            "thumbnail": null,
+            "record_type": "work",
+            "type": "Film",
+            "is_on_display": false,
+            "last_on_display_place": null,
+            "last_on_display_date": null,
+            "is_context_indigenous": false,
+            "material_description": "",
+            "unpublished": false,
+            "first_production_date": "2007-01-01T11:00:00+11:00"
+        },
+        {
+            "id": 114349,
+            "acmi_id": "15222",
+            "title": "Small town girl",
+            "title_annotation": "",
+            "slug": "small-town-girl",
+            "creator_credit": "Emma Levy, ACMI Digital Storytelling and ACMI",
+            "credit_line": "",
+            "headline_credit": "Australia, 2007",
+            "thumbnail": null,
+            "record_type": "work",
+            "type": "Film",
+            "is_on_display": false,
+            "last_on_display_place": null,
+            "last_on_display_date": null,
+            "is_context_indigenous": false,
+            "material_description": "",
+            "unpublished": false,
+            "first_production_date": "2007-01-01T11:00:00+11:00"
+        },
+        {
+            "id": 114348,
+            "acmi_id": "15212",
+            "title": "The Shoemaker",
+            "title_annotation": "",
+            "slug": "the-shoemaker",
+            "creator_credit": "Adam Nudelman, ACMI Digital Storytelling and ACMI",
+            "credit_line": "",
+            "headline_credit": "Australia, 2007",
+            "thumbnail": null,
+            "record_type": "work",
+            "type": "Film",
+            "is_on_display": false,
+            "last_on_display_place": null,
+            "last_on_display_date": null,
+            "is_context_indigenous": false,
+            "material_description": "",
+            "unpublished": false,
+            "first_production_date": "2007-01-01T11:00:00+11:00"
+        }
+    ],
+    "source": {
+        "name": "Vernon",
+        "slug": "vernon"
+    },
+    "source_identifier": "15217",
+    "production_places": [
+        {
+            "id": 3,
+            "name": "Australia",
+            "slug": "australia"
+        }
+    ],
+    "production_dates": [
+        {
+            "date": "2007",
+            "notes": "June 2007",
+            "to_year": "2007"
+        }
+    ],
+    "labels": [
+        53834
+    ]
+}

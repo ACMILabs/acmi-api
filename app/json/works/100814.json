@@ -1,0 +1,273 @@
+{
+    "id": 100814,
+    "acmi_id": "180802",
+    "title": "Dan Kelly armour from True History of the Kelly Gang",
+    "title_annotation": "",
+    "slug": "dan-kelly-helmet-costume-from-true-history-of-the-kelly-gang-2019",
+    "creator_credit": "Jetty Distribution Pty Limited and Alice Babidge",
+    "credit_line": "<p>Courtesy Jetty Distribution Pty Limited</p>",
+    "headline_credit": "Australia, 2020",
+    "thumbnail": {
+        "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN176073_DanKellyArmour_Front.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=e0BwlA2y0X%2BT6A3UBBWWyHq3Zq0%3D&Expires=1627009078",
+        "has_video": false
+    },
+    "record_type": "work",
+    "type": "Object",
+    "is_on_display": true,
+    "last_on_display_place": "ACMI: Gallery 1",
+    "last_on_display_date": "2022-02-10",
+    "is_context_indigenous": false,
+    "material_description": "sheet metal",
+    "unpublished": false,
+    "first_production_date": "2020-01-01T11:00:00+11:00",
+    "brief_description": "",
+    "constellations_primary": [],
+    "constellations_other": [],
+    "recommendations": [],
+    "title_for_label": "<p>Dan Kelly armour</p>",
+    "creator_credit_for_label": "<p>Alice Babidge</p>",
+    "headline_credit_for_label": "<p>Australia, 2020</p>",
+    "description": "",
+    "description_for_label": [],
+    "credit_line_for_label": "<p>Courtesy Jetty Distribution Pty Limited</p>",
+    "details": [
+        {
+            "label": "Curatorial section",
+            "display_values": [
+                "The Story of the Moving Image&nbsp;→ Moving Worlds&nbsp;→ 04. Costume Design&nbsp;→ MW-04-C01.02"
+            ]
+        },
+        {
+            "label": "Measurements",
+            "display_values": [
+                "540 x 360 x 120mm",
+                "440 x 310 x 260mm",
+                "950 x 370 x 80mm"
+            ]
+        },
+        {
+            "label": "Materials",
+            "display_values": [
+                "sheet metal"
+            ]
+        }
+    ],
+    "stats": {
+        "tap_count": 0
+    },
+    "links": [],
+    "creators_primary": [
+        {
+            "id": 1134561,
+            "name": "Jetty Distribution Pty Limited",
+            "creator_id": 84347,
+            "role": "production company",
+            "role_id": 941,
+            "is_primary": true
+        },
+        {
+            "id": 1134559,
+            "name": "Alice Babidge",
+            "creator_id": 58272,
+            "role": "costume designer",
+            "role_id": 961,
+            "is_primary": true
+        }
+    ],
+    "creators_other": [
+        {
+            "id": 1134562,
+            "name": "Jetty Distribution Pty Limited",
+            "creator_id": 84347,
+            "role": "lender",
+            "role_id": 626,
+            "is_primary": false
+        },
+        {
+            "id": 1134560,
+            "name": "Guido Gouverneur",
+            "creator_id": 72998,
+            "role": "costume production",
+            "role_id": 991,
+            "is_primary": false
+        }
+    ],
+    "video_links": [],
+    "media_note": null,
+    "images": [
+        {
+            "id": 16105,
+            "image_file": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN176073_DanKellyArmour_Front.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=pVmSBrC5XHePBnYZ6AGWPVU8dEM%3D&Expires=1627009078",
+            "image_file_thumbnail": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN176073_DanKellyArmour_Front.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=e0BwlA2y0X%2BT6A3UBBWWyHq3Zq0%3D&Expires=1627009078",
+            "image_file_xs": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN176073_DanKellyArmour_Front.jpg.480x480_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=l1Z8GUBdIGl%2FEr8lfHIjuaknRb0%3D&Expires=1627009078",
+            "image_file_s": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN176073_DanKellyArmour_Front.jpg.960x960_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=7yrvt6UsM9xhyzvt0DfnrLufQ%2B8%3D&Expires=1627009078",
+            "image_file_m": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN176073_DanKellyArmour_Front.jpg.1920x1920_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=3IphKYSYbfFSCAagaUVNF8u1GKM%3D&Expires=1627009078",
+            "image_file_l": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN176073_DanKellyArmour_Front.jpg.3840x3840_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=zTHNukQKsJrDAIIUlma8c74Nbs8%3D&Expires=1627009078",
+            "caption": "LN176073.2-4_DanKellyArmour_Front",
+            "credit_line": "Photograph by Egmont Contreras, ACMI.",
+            "alt_text": "",
+            "width": 3200,
+            "height": 4731,
+            "access_level": "View anywhere"
+        },
+        {
+            "id": 16106,
+            "image_file": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN176073_DanKellyArmour_Back.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=paBMPaJd3hdC12ItIWBYXxZdYTk%3D&Expires=1627009078",
+            "image_file_thumbnail": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN176073_DanKellyArmour_Back.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=gAAeterTM9BMr4SR4EZx5zf7sH4%3D&Expires=1627009078",
+            "image_file_xs": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN176073_DanKellyArmour_Back.jpg.480x480_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=B1f%2BfHnubhld%2BdkD4qdT3r0qOoQ%3D&Expires=1627009078",
+            "image_file_s": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN176073_DanKellyArmour_Back.jpg.960x960_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=hjeHzevD0YJHtrk36exddxueUcI%3D&Expires=1627009078",
+            "image_file_m": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN176073_DanKellyArmour_Back.jpg.1920x1920_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=qXYkpT0oTnAaCjUA8lQLMOtk2GE%3D&Expires=1627009078",
+            "image_file_l": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN176073_DanKellyArmour_Back.jpg.3840x3840_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=Jg%2Fmd2g2dCX1WCL9FHI1vcLUHeA%3D&Expires=1627009078",
+            "caption": "LN176073.2-4_DanKellyArmour_Back",
+            "credit_line": "Photograph by Egmont Contreras, ACMI.",
+            "alt_text": "",
+            "width": 3200,
+            "height": 4800,
+            "access_level": "View anywhere"
+        },
+        {
+            "id": 12167,
+            "image_file": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN-176073-3_DanKellyFrontArmour_Inside_Complete.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=IL9rGn4J4EglkalUA6k0Bb2t0tE%3D&Expires=1627009078",
+            "image_file_thumbnail": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN-176073-3_DanKellyFrontArmour_Inside_Complete.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=QVPHvlqfLO0R0PdHApdgj56Xu3k%3D&Expires=1627009078",
+            "image_file_xs": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN-176073-3_DanKellyFrontArmour_Inside_Complete.jpg.480x480_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=bAKKKKmGAf4P3rDs6V%2BTnxUc99k%3D&Expires=1627009078",
+            "image_file_s": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN-176073-3_DanKellyFrontArmour_Inside_Complete.jpg.960x960_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=aZiWZHl78xw2eYH45ot0458KhHY%3D&Expires=1627009078",
+            "image_file_m": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN-176073-3_DanKellyFrontArmour_Inside_Complete.jpg.1920x1920_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=EZ8yDTmEoGcoIIIZxKRwUOpvt4Y%3D&Expires=1627009078",
+            "image_file_l": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN-176073-3_DanKellyFrontArmour_Inside_Complete.jpg.3840x3840_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=Gq3Yh7OM1F6m9bEf5utLhtMDA8g%3D&Expires=1627009078",
+            "caption": "LN-176073-3_DanKellyFrontArmour_Inside",
+            "credit_line": "Photograph by Egmont Contreras, ACMI",
+            "alt_text": "",
+            "width": 3250,
+            "height": 3250,
+            "access_level": "View anywhere"
+        },
+        {
+            "id": 12168,
+            "image_file": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN-176073-3_DanKellyFrontArmour_Inside_Detail.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=KyEeT6RORk3pcBEH48ydR2HZCkY%3D&Expires=1627009078",
+            "image_file_thumbnail": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN-176073-3_DanKellyFrontArmour_Inside_Detail.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=yiZkc3J%2FOIx6fyCa6Pk24p1ncPI%3D&Expires=1627009078",
+            "image_file_xs": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN-176073-3_DanKellyFrontArmour_Inside_Detail.jpg.480x480_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=W20NTwiEuB5ytRaiE7XxYQjJWXw%3D&Expires=1627009078",
+            "image_file_s": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN-176073-3_DanKellyFrontArmour_Inside_Detail.jpg.960x960_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=ElPycfnd%2ByiEWAfAq7pPI0KiGH0%3D&Expires=1627009078",
+            "image_file_m": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN-176073-3_DanKellyFrontArmour_Inside_Detail.jpg.1920x1920_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=uk6%2Fm2lO9xwRDGTaDeRlzmI%2B7Eo%3D&Expires=1627009078",
+            "image_file_l": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN-176073-3_DanKellyFrontArmour_Inside_Detail.jpg.3840x3840_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=1CASExLGFjyDd%2FRuBpuDtfR4aJc%3D&Expires=1627009078",
+            "caption": "LN-176073-3_DanKellyFrontArmour_Inside_Detail",
+            "credit_line": "Photograph by Egmont Contreras, ACMI",
+            "alt_text": "",
+            "width": 4928,
+            "height": 3264,
+            "access_level": "View anywhere"
+        },
+        {
+            "id": 12169,
+            "image_file": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN-176073-3_DanKellyFrontArmour_Inside_Detail2.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=upItaAfciq9019XmTm%2FmEm7ovKk%3D&Expires=1627009078",
+            "image_file_thumbnail": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN-176073-3_DanKellyFrontArmour_Inside_Detail2.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=EF62DHAwcDJwWUGiiYBbL29DK6I%3D&Expires=1627009078",
+            "image_file_xs": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN-176073-3_DanKellyFrontArmour_Inside_Detail2.jpg.480x480_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=O%2FXvziZs6uRUnBN%2B%2FNdruXOUOBc%3D&Expires=1627009078",
+            "image_file_s": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN-176073-3_DanKellyFrontArmour_Inside_Detail2.jpg.960x960_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=BiWL3hPt9G3mLgp0bAxKxmD3%2Bas%3D&Expires=1627009078",
+            "image_file_m": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN-176073-3_DanKellyFrontArmour_Inside_Detail2.jpg.1920x1920_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=hKm%2FtOWYq2Kw7jvpQJUUo1MlFjQ%3D&Expires=1627009078",
+            "image_file_l": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN-176073-3_DanKellyFrontArmour_Inside_Detail2.jpg.3840x3840_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=ZnCi7Z2%2Bq%2FZZVBO8Ptwlnh3HGF0%3D&Expires=1627009078",
+            "caption": "LN-176073-3_DanKellyFrontArmour_Inside_Detail2",
+            "credit_line": "Photograph by Egmont Contreras, ACMI",
+            "alt_text": "",
+            "width": 4928,
+            "height": 3264,
+            "access_level": "View anywhere"
+        }
+    ],
+    "videos": [],
+    "holdings": [],
+    "part_of": null,
+    "parts": [],
+    "part_siblings": [],
+    "group": {
+        "id": 100864,
+        "acmi_id": "182487",
+        "title": "True History of the Kelly Gang armour",
+        "title_annotation": "",
+        "slug": "true-history-of-the-kelly-gang-armour",
+        "creator_credit": "",
+        "credit_line": "",
+        "headline_credit": "",
+        "thumbnail": {
+            "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/GROUP_KellyGangArmour.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=OcnA06lnUVtXFEsPwILgYwXrNJc%3D&Expires=1627009078",
+            "has_video": false
+        },
+        "record_type": "group",
+        "type": "Object",
+        "is_on_display": true,
+        "last_on_display_place": "ACMI: Gallery 1",
+        "last_on_display_date": "2022-02-10",
+        "is_context_indigenous": false,
+        "material_description": "",
+        "unpublished": false,
+        "first_production_date": null
+    },
+    "group_works": [],
+    "group_siblings": [
+        {
+            "id": 100816,
+            "acmi_id": "180804",
+            "title": "Joe Byrne armour from True History of the Kelly Gang",
+            "title_annotation": "",
+            "slug": "joe-byrne-helmet-costume-from-true-history-of-the-kelly-gang-2019",
+            "creator_credit": "Jetty Distribution Pty Limited and Alice Babidge",
+            "credit_line": "<p>Courtesy Jetty Distribution Pty Limited</p>",
+            "headline_credit": "Australia, 2020",
+            "thumbnail": {
+                "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN176075_JoeByrneArmour_Front.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=g56UB4BY1JxbekvQwDOMY2kOkyY%3D&Expires=1627009078",
+                "has_video": false
+            },
+            "record_type": "work",
+            "type": "Object",
+            "is_on_display": true,
+            "last_on_display_place": "ACMI: Gallery 1",
+            "last_on_display_date": "2022-02-10",
+            "is_context_indigenous": false,
+            "material_description": "sheet metal",
+            "unpublished": false,
+            "first_production_date": "2020-01-01T11:00:00+11:00"
+        },
+        {
+            "id": 100819,
+            "acmi_id": "180807",
+            "title": "Ned Kelly armour from True History of the Kelly Gang",
+            "title_annotation": "",
+            "slug": "ned-kelly-helmet-costume-from-true-history-of-the-kelly-gang-2019",
+            "creator_credit": "Jetty Distribution Pty Limited and Alice Babidge",
+            "credit_line": "<p>Courtesy Jetty Distribution Pty Limited</p>",
+            "headline_credit": "Australia, 2020",
+            "thumbnail": {
+                "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN176076_NedKellyArmour_Front.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=MyOvN8Gu7iqTwPthaReK2UTdd%2BE%3D&Expires=1627009078",
+                "has_video": false
+            },
+            "record_type": "work",
+            "type": "Object",
+            "is_on_display": true,
+            "last_on_display_place": "ACMI: Gallery 1",
+            "last_on_display_date": "2022-02-10",
+            "is_context_indigenous": false,
+            "material_description": "sheet metal",
+            "unpublished": false,
+            "first_production_date": "2020-01-01T11:00:00+11:00"
+        }
+    ],
+    "source": {
+        "name": "Vernon",
+        "slug": "vernon"
+    },
+    "source_identifier": "180802",
+    "production_places": [
+        {
+            "id": 3,
+            "name": "Australia",
+            "slug": "australia"
+        }
+    ],
+    "production_dates": [
+        {
+            "date": "2020",
+            "notes": "",
+            "to_year": "2020"
+        }
+    ],
+    "labels": [
+        40302
+    ]
+}

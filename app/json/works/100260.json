@@ -1,0 +1,143 @@
+{
+    "id": 100260,
+    "acmi_id": "179679",
+    "title": "Magic Lantern Set Effects Slide [Tying Shoelaces]",
+    "title_annotation": "",
+    "slug": "magic-lantern-set-effects-slide-tying-shoelaces",
+    "creator_credit": "",
+    "credit_line": "",
+    "headline_credit": "United Kingdom, c. 1880",
+    "thumbnail": {
+        "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AEO179679_MLS_TyingShoes_1.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=ngzCC2SEODp0PQU2TrMjfrth8MY%3D&Expires=1627009157",
+        "has_video": false
+    },
+    "record_type": "work",
+    "type": "Object",
+    "is_on_display": false,
+    "last_on_display_place": "ACMI",
+    "last_on_display_date": "2022-02-10",
+    "is_context_indigenous": false,
+    "material_description": "glass, wood, ink",
+    "unpublished": true,
+    "first_production_date": null,
+    "brief_description": "<p>Hand painted magic lantern slipping slide in a wooden frame. Newton &amp; Co&#8217;s maker&#8217;s mark is stamped in to the wooden frame.</p>",
+    "constellations_primary": [],
+    "constellations_other": [],
+    "recommendations": [],
+    "title_for_label": "<p>Magic Lantern Set Effects Slide [Tying Shoelaces]</p>",
+    "creator_credit_for_label": "",
+    "headline_credit_for_label": "<p>United Kingdom, c. 1880</p>",
+    "description": "<p>Hand painted magic lantern slipping slide in a wooden frame. Newton &amp; Co&#8217;s maker&#8217;s mark is stamped in to the wooden frame.</p>",
+    "description_for_label": [
+        "<p>Hand painted magic lantern slipping slide in a wooden frame. Newton &amp; Co&#8217;s maker&#8217;s mark is stamped in to the wooden frame.</p>"
+    ],
+    "credit_line_for_label": "",
+    "details": [
+        {
+            "label": "Curatorial section",
+            "display_values": [
+                "The Story of the Moving Image&nbsp;→ Moving Pictures&nbsp;→ 02. Play and Illusion&nbsp;→ MI-02-C01"
+            ]
+        },
+        {
+            "label": "Materials",
+            "display_values": [
+                "glass, wood, ink"
+            ]
+        }
+    ],
+    "stats": {
+        "tap_count": 0
+    },
+    "links": [],
+    "creators_primary": [],
+    "creators_other": [
+        {
+            "id": 1134440,
+            "name": "Newton & Co",
+            "creator_id": 72947,
+            "role": "maker",
+            "role_id": 657,
+            "is_primary": false
+        }
+    ],
+    "video_links": [],
+    "media_note": null,
+    "images": [
+        {
+            "id": 28192,
+            "image_file": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AEO179679_MLS_TyingShoes_1.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=2v9Mrn0dIvHawo5rgD2DQE3kOnQ%3D&Expires=1627009157",
+            "image_file_thumbnail": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AEO179679_MLS_TyingShoes_1.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=ngzCC2SEODp0PQU2TrMjfrth8MY%3D&Expires=1627009157",
+            "image_file_xs": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AEO179679_MLS_TyingShoes_1.jpg.480x480_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=JmfUX6fcmv9e2hSMIo%2BKyPXcCHk%3D&Expires=1627009157",
+            "image_file_s": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AEO179679_MLS_TyingShoes_1.jpg.960x960_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=st10GcLWWhuiHgQUoRzO1N6mSAk%3D&Expires=1627009157",
+            "image_file_m": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AEO179679_MLS_TyingShoes_1.jpg.1920x1920_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=ri533M6ubgK%2FPA1gpOIJrHvbEm4%3D&Expires=1627009157",
+            "image_file_l": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AEO179679_MLS_TyingShoes_1.jpg.3840x3840_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=hkAuIeoowdOFH1Ab6pZSBQjGDGI%3D&Expires=1627009157",
+            "caption": "AEO179679_MLS_TyingShoes_1",
+            "credit_line": "Photograph by Egmont Contreras, ACMI",
+            "alt_text": "",
+            "width": 7360,
+            "height": 4912,
+            "access_level": "View anywhere"
+        },
+        {
+            "id": 28193,
+            "image_file": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AEO179679_MLS_TyingShoes_2.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=ByNcrl7gxBxqV2WtD8XBrpXybR4%3D&Expires=1627009157",
+            "image_file_thumbnail": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AEO179679_MLS_TyingShoes_2.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=QMyRsQJkgo28fQb1ik8O0%2FyjjoQ%3D&Expires=1627009157",
+            "image_file_xs": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AEO179679_MLS_TyingShoes_2.jpg.480x480_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=i6DpGBlrJVJ5oMUKlVVEHrdZ2Rg%3D&Expires=1627009157",
+            "image_file_s": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AEO179679_MLS_TyingShoes_2.jpg.960x960_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=NvYEPy39S3YvMgxbxmbEjzV3WtI%3D&Expires=1627009157",
+            "image_file_m": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AEO179679_MLS_TyingShoes_2.jpg.1920x1920_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=PyspGl%2B92Q%2FXqKxUC1%2FIbuoJ1tc%3D&Expires=1627009157",
+            "image_file_l": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AEO179679_MLS_TyingShoes_2.jpg.3840x3840_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=Q95LnwEsu447jWe%2BP8K4iMA7aJ8%3D&Expires=1627009157",
+            "caption": "AEO179679_MLS_TyingShoes_2",
+            "credit_line": "Photograph by Egmont Contreras, ACMI",
+            "alt_text": "",
+            "width": 7360,
+            "height": 4912,
+            "access_level": "View anywhere"
+        },
+        {
+            "id": 28194,
+            "image_file": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AEO179679_MLS_TyingShoes_Back.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=mF48UH2ux75VJum8xcCPxwVw4Y0%3D&Expires=1627009157",
+            "image_file_thumbnail": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AEO179679_MLS_TyingShoes_Back.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=nUKp%2F1zX4dhfoZvOJCXxwfmrwPA%3D&Expires=1627009157",
+            "image_file_xs": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AEO179679_MLS_TyingShoes_Back.jpg.480x480_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=oIBO2EEa8rTeCIh7g1TvPnrDcNs%3D&Expires=1627009157",
+            "image_file_s": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AEO179679_MLS_TyingShoes_Back.jpg.960x960_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=%2BAcwJmv1jlRzrpQCJ2CzZhfZJD0%3D&Expires=1627009157",
+            "image_file_m": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AEO179679_MLS_TyingShoes_Back.jpg.1920x1920_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=EGnjXQEJ4pn8U03WOYV%2BJrKjBf4%3D&Expires=1627009157",
+            "image_file_l": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AEO179679_MLS_TyingShoes_Back.jpg.3840x3840_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=R8hz5AGaPHhJgBwjdlbvDdDSJB8%3D&Expires=1627009157",
+            "caption": "AEO179679_MLS_TyingShoes_Back",
+            "credit_line": "Photograph by Egmont Contreras, ACMI",
+            "alt_text": "",
+            "width": 7360,
+            "height": 4912,
+            "access_level": "View anywhere"
+        }
+    ],
+    "videos": [],
+    "holdings": [],
+    "part_of": null,
+    "parts": [],
+    "part_siblings": [],
+    "group": null,
+    "group_works": [],
+    "group_siblings": [],
+    "source": {
+        "name": "Vernon",
+        "slug": "vernon"
+    },
+    "source_identifier": "179679",
+    "production_places": [
+        {
+            "id": 10,
+            "name": "United Kingdom",
+            "slug": "united-kingdom"
+        }
+    ],
+    "production_dates": [
+        {
+            "date": "c. 1880",
+            "notes": "",
+            "to_year": "c. 1880"
+        }
+    ],
+    "labels": [
+        39756
+    ]
+}

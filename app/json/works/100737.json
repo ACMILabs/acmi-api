@@ -1,0 +1,318 @@
+{
+    "id": 100737,
+    "acmi_id": "180540",
+    "title": "Cleverman reference images: Dingo",
+    "title_annotation": "Facsimile",
+    "slug": "graphic-reference-image-dingo",
+    "creator_credit": "",
+    "credit_line": "",
+    "headline_credit": "2008",
+    "thumbnail": {
+        "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/P180540_G250.JPG.1200x1200_q85.JPG?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=%2FKR9NguItdMtMVrq%2BnLZ5wxw2LY%3D&Expires=1627009093",
+        "has_video": false
+    },
+    "record_type": "work",
+    "type": "Object",
+    "is_on_display": true,
+    "last_on_display_place": "ACMI: Gallery 1",
+    "last_on_display_date": "2023-02-09",
+    "is_context_indigenous": false,
+    "material_description": "Graphic",
+    "unpublished": false,
+    "first_production_date": "2008-01-01T11:00:00+11:00",
+    "brief_description": "",
+    "constellations_primary": [],
+    "constellations_other": [],
+    "recommendations": [],
+    "title_for_label": "<p>Dingo</p>",
+    "creator_credit_for_label": "",
+    "headline_credit_for_label": "<p>2008</p>",
+    "description": "",
+    "description_for_label": [],
+    "credit_line_for_label": "",
+    "details": [
+        {
+            "label": "Curatorial section",
+            "display_values": [
+                "The Story of the Moving Image&nbsp;→ Moving Worlds&nbsp;→ 05. Character Design&nbsp;→ MW-05-C01&nbsp;→ MW-05-C01.01"
+            ]
+        },
+        {
+            "label": "Measurements",
+            "display_values": [
+                "115 x 162mm"
+            ]
+        },
+        {
+            "label": "Materials",
+            "display_values": [
+                "Graphic"
+            ]
+        }
+    ],
+    "stats": {
+        "tap_count": 0
+    },
+    "links": [],
+    "creators_primary": [],
+    "creators_other": [
+        {
+            "id": 1134537,
+            "name": "Peripitus",
+            "creator_id": 72977,
+            "role": "photographer",
+            "role_id": 440,
+            "is_primary": false
+        }
+    ],
+    "video_links": [],
+    "media_note": null,
+    "images": [
+        {
+            "id": 13171,
+            "image_file": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/P180540_G250.JPG?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=Mkf%2BWaqvR78rVUD%2BJo0F67MA3lE%3D&Expires=1627009093",
+            "image_file_thumbnail": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/P180540_G250.JPG.1200x1200_q85.JPG?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=%2FKR9NguItdMtMVrq%2BnLZ5wxw2LY%3D&Expires=1627009093",
+            "image_file_xs": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/P180540_G250.JPG.480x480_q85.JPG?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=0PRXTcg3%2BX496NIRh%2FRPhyQbelg%3D&Expires=1627009093",
+            "image_file_s": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/P180540_G250.JPG.960x960_q85.JPG?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=lVezfnnS%2BZ8IoJSyWWgYCntuUeU%3D&Expires=1627009093",
+            "image_file_m": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/P180540_G250.JPG.1920x1920_q85.JPG?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=c9OLx8DtwKjDkiJILlgou62HhKo%3D&Expires=1627009093",
+            "image_file_l": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/P180540_G250.JPG.3840x3840_q85.JPG?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=cxZwNHojtfOXvpkTT8oO5avzVsU%3D&Expires=1627009093",
+            "caption": "",
+            "credit_line": "",
+            "alt_text": "",
+            "width": 2000,
+            "height": 1332,
+            "access_level": "View anywhere"
+        }
+    ],
+    "videos": [],
+    "holdings": [],
+    "part_of": null,
+    "parts": [],
+    "part_siblings": [],
+    "group": {
+        "id": 100869,
+        "acmi_id": "182495",
+        "title": "Cleverman character design",
+        "title_annotation": "",
+        "slug": "cleverman-character-design",
+        "creator_credit": "Jacob Nash, Ryan Griffen and Goalpost Pictures",
+        "credit_line": "<p>Courtesy Goalpost Pictures</p>",
+        "headline_credit": "Australia, 2016-2017",
+        "thumbnail": {
+            "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/P180542_G252.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=HWh6uKzLFWpC2T6G9G%2FZyEcmic8%3D&Expires=1627009093",
+            "has_video": false
+        },
+        "record_type": "group",
+        "type": "Object",
+        "is_on_display": true,
+        "last_on_display_place": "ACMI: Gallery 1",
+        "last_on_display_date": "2023-02-09",
+        "is_context_indigenous": false,
+        "material_description": "",
+        "unpublished": false,
+        "first_production_date": null
+    },
+    "group_works": [],
+    "group_siblings": [
+        {
+            "id": 112115,
+            "acmi_id": "183546",
+            "title": "Early character concept art",
+            "title_annotation": "",
+            "slug": "early-character-concept-art",
+            "creator_credit": "Jacob Nash",
+            "credit_line": "<p>Courtesy Goalpost Pictures</p>",
+            "headline_credit": "",
+            "thumbnail": {
+                "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/P180542_G252.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=HWh6uKzLFWpC2T6G9G%2FZyEcmic8%3D&Expires=1627009093",
+                "has_video": false
+            },
+            "record_type": "group",
+            "type": "Film",
+            "is_on_display": true,
+            "last_on_display_place": "ACMI: Gallery 1",
+            "last_on_display_date": "2023-02-09",
+            "is_context_indigenous": false,
+            "material_description": "",
+            "unpublished": false,
+            "first_production_date": null
+        },
+        {
+            "id": 112116,
+            "acmi_id": "183545",
+            "title": "Character concept art with feedback from Jacob Nash",
+            "title_annotation": "",
+            "slug": "character-concept-art-with-feedback-from-jacob-nash",
+            "creator_credit": "Weta Workshop",
+            "credit_line": "<p>Courtesy Goalpost Pictures</p>",
+            "headline_credit": "",
+            "thumbnail": {
+                "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/P180546_G256.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=ivV10hwlVx7Yhj996wWVjXwvF94%3D&Expires=1627009093",
+                "has_video": false
+            },
+            "record_type": "group",
+            "type": "Film",
+            "is_on_display": true,
+            "last_on_display_place": "ACMI: Gallery 1",
+            "last_on_display_date": "2023-02-09",
+            "is_context_indigenous": false,
+            "material_description": "",
+            "unpublished": false,
+            "first_production_date": null
+        },
+        {
+            "id": 112102,
+            "acmi_id": "183547",
+            "title": "Hair pieces used during filming",
+            "title_annotation": "",
+            "slug": "hair-pieces-used-during-filming",
+            "creator_credit": "Weta Workshop",
+            "credit_line": "",
+            "headline_credit": "",
+            "thumbnail": {
+                "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN176446_Cleverman_BoondeeHairSample1.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=akMTHw3n4apZuJmq3PuXNkALz6w%3D&Expires=1627009093",
+                "has_video": false
+            },
+            "record_type": "group",
+            "type": "Film",
+            "is_on_display": true,
+            "last_on_display_place": "ACMI: Gallery 1",
+            "last_on_display_date": "2023-02-09",
+            "is_context_indigenous": false,
+            "material_description": "",
+            "unpublished": false,
+            "first_production_date": null
+        },
+        {
+            "id": 100736,
+            "acmi_id": "180539",
+            "title": "Cleverman reference images: Jason Momoa as Khal Drogo in Game of Thrones",
+            "title_annotation": "Facsimile",
+            "slug": "graphic-reference-image-khal-drogo",
+            "creator_credit": "",
+            "credit_line": "",
+            "headline_credit": "",
+            "thumbnail": {
+                "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/P180539_G249.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=Ylh4Ny%2BGqUrIgG5bJdES8%2FNjISY%3D&Expires=1627009093",
+                "has_video": false
+            },
+            "record_type": "work",
+            "type": "Object",
+            "is_on_display": true,
+            "last_on_display_place": "ACMI: Gallery 1",
+            "last_on_display_date": "2023-02-09",
+            "is_context_indigenous": false,
+            "material_description": "Graphic",
+            "unpublished": false,
+            "first_production_date": null
+        },
+        {
+            "id": 112117,
+            "acmi_id": "183548",
+            "title": "Hair tests",
+            "title_annotation": "",
+            "slug": "hair-tests",
+            "creator_credit": "Weta Workshop",
+            "credit_line": "<p>Courtesy Goalpost Pictures</p>",
+            "headline_credit": "",
+            "thumbnail": {
+                "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/P180554_G264.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=H%2B%2FF%2BgPTeNdIjN1TpthXxmiexxY%3D&Expires=1627009093",
+                "has_video": false
+            },
+            "record_type": "group",
+            "type": "Film",
+            "is_on_display": true,
+            "last_on_display_place": "ACMI: Gallery 1",
+            "last_on_display_date": "2023-02-09",
+            "is_context_indigenous": false,
+            "material_description": "",
+            "unpublished": false,
+            "first_production_date": null
+        },
+        {
+            "id": 100735,
+            "acmi_id": "180538",
+            "title": "Cleverman reference images: Numbat",
+            "title_annotation": "Facsimile",
+            "slug": "graphic-reference-image-numbat",
+            "creator_credit": "",
+            "credit_line": "",
+            "headline_credit": "2010",
+            "thumbnail": {
+                "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/P180538_G248.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=Gt%2FW%2BH%2FzLmZ7bCBjrYxsFEMaczs%3D&Expires=1627009093",
+                "has_video": false
+            },
+            "record_type": "work",
+            "type": "Object",
+            "is_on_display": true,
+            "last_on_display_place": "ACMI: Gallery 1",
+            "last_on_display_date": "2023-02-09",
+            "is_context_indigenous": false,
+            "material_description": "Graphic",
+            "unpublished": false,
+            "first_production_date": "2010-01-01T11:00:00+11:00"
+        },
+        {
+            "id": 100733,
+            "acmi_id": "180536",
+            "title": "Cleverman reference images: Statue of Yowie near Kilcoy, Queensland",
+            "title_annotation": "Facsimile",
+            "slug": "graphic-reference-image-yowie-statue",
+            "creator_credit": "",
+            "credit_line": "",
+            "headline_credit": "Australia, 2005",
+            "thumbnail": {
+                "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/P180536_G246.JPG.1200x1200_q85.JPG?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=iMobqIcxXyPD4qzW1nbpMyXw%2B50%3D&Expires=1627009093",
+                "has_video": false
+            },
+            "record_type": "work",
+            "type": "Object",
+            "is_on_display": true,
+            "last_on_display_place": "ACMI: Gallery 1",
+            "last_on_display_date": "2023-02-09",
+            "is_context_indigenous": false,
+            "material_description": "Graphic",
+            "unpublished": false,
+            "first_production_date": "2005-01-01T11:00:00+11:00"
+        },
+        {
+            "id": 100734,
+            "acmi_id": "180537",
+            "title": "Cleverman reference images: Punks at Gotik Treffen festival",
+            "title_annotation": "Facsimile",
+            "slug": "graphic-reference-image-two-goths-at-wave-gotik-treffen-2007",
+            "creator_credit": "",
+            "credit_line": "",
+            "headline_credit": "2007",
+            "thumbnail": {
+                "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/P180537_G247.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=P57iXQ75m9K8VeSBii8r62W1gbA%3D&Expires=1627009093",
+                "has_video": false
+            },
+            "record_type": "work",
+            "type": "Object",
+            "is_on_display": true,
+            "last_on_display_place": "ACMI: Gallery 1",
+            "last_on_display_date": "2023-02-09",
+            "is_context_indigenous": false,
+            "material_description": "Graphic",
+            "unpublished": false,
+            "first_production_date": "2007-01-01T11:00:00+11:00"
+        }
+    ],
+    "source": {
+        "name": "Vernon",
+        "slug": "vernon"
+    },
+    "source_identifier": "180540",
+    "production_places": [],
+    "production_dates": [
+        {
+            "date": "2008",
+            "notes": "",
+            "to_year": "2008"
+        }
+    ],
+    "labels": [
+        40225
+    ]
+}

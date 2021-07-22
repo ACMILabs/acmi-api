@@ -1,0 +1,187 @@
+{
+    "id": 108408,
+    "acmi_id": "907",
+    "title": "Passionless moments",
+    "title_annotation": "",
+    "slug": "passionless-moments",
+    "creator_credit": "Jane Campion",
+    "credit_line": "",
+    "headline_credit": "Australia, 1984",
+    "thumbnail": null,
+    "record_type": "work",
+    "type": "Film",
+    "is_on_display": false,
+    "last_on_display_place": null,
+    "last_on_display_date": null,
+    "is_context_indigenous": false,
+    "material_description": "",
+    "unpublished": false,
+    "first_production_date": "1984-01-01T11:00:00+11:00",
+    "brief_description": "<p>A series of suburban vignettes dealing with everyday eccentricities. Filmed in black and white, this is an early work by renowned New Zealand filmmaker Jane Campion. Through a series of alternately ironic and bizarre vignettes, the filmmaker composes a joyful celebration to the beauty of the mundane and the ordinary.</p>",
+    "constellations_primary": [],
+    "constellations_other": [],
+    "recommendations": [],
+    "title_for_label": "<p>Passionless moments</p>",
+    "creator_credit_for_label": "<p>Jane Campion</p>",
+    "headline_credit_for_label": "<p>Australia, 1984</p>",
+    "description": "<p>A series of suburban vignettes dealing with everyday eccentricities. Filmed in black and white, this is an early work by renowned New Zealand filmmaker Jane Campion. Through a series of alternately ironic and bizarre vignettes, the filmmaker composes a joyful celebration to the beauty of the mundane and the ordinary.</p>",
+    "description_for_label": [
+        "<p>A series of suburban vignettes dealing with everyday eccentricities. Filmed in black and white, this is an early work by renowned New Zealand filmmaker Jane Campion. Through a series of alternately ironic and bizarre vignettes, the filmmaker composes a joyful celebration to the beauty of the mundane and the ordinary.</p>"
+    ],
+    "credit_line_for_label": "",
+    "details": [
+        {
+            "label": "Duration",
+            "display_values": [
+                "00:12:00:00"
+            ]
+        },
+        {
+            "label": "Language",
+            "display_values": [
+                "English"
+            ]
+        },
+        {
+            "label": "Subject categories",
+            "display_values": [
+                "Drama",
+                "Short films",
+                "Short films&nbsp;→ Short films - Australia"
+            ]
+        }
+    ],
+    "stats": {
+        "tap_count": 0
+    },
+    "links": [],
+    "creators_primary": [
+        {
+            "id": 1133583,
+            "name": "Jane Campion",
+            "creator_id": 4416,
+            "role": "creator",
+            "role_id": 968,
+            "is_primary": true
+        }
+    ],
+    "creators_other": [],
+    "video_links": [],
+    "media_note": "Sorry, we don't have images or video for this item.",
+    "images": [],
+    "videos": [],
+    "holdings": [
+        {
+            "name": "Digital Betacam [PAL]; Master",
+            "identifier": "",
+            "description": ""
+        },
+        {
+            "name": "Digital Betacam [PAL]; Sub-master",
+            "identifier": "",
+            "description": ""
+        },
+        {
+            "name": "VHS [PAL]; Reference - timecoded",
+            "identifier": "",
+            "description": ""
+        }
+    ],
+    "part_of": null,
+    "parts": [],
+    "part_siblings": [],
+    "group": {
+        "id": 108409,
+        "acmi_id": "10292",
+        "title": "Jane Campion trilogy (Girl's own story. Passionless moments. Peel)",
+        "title_annotation": "",
+        "slug": "jane-campion-trilogy-girls-own-story-passionless-moments-peel",
+        "creator_credit": "Jane Campion",
+        "credit_line": "",
+        "headline_credit": "1982-1984",
+        "thumbnail": {
+            "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/B1006979_AGirlsOwnStory.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=r9Z44zqd3oJ%2Btd1qVV%2FBNC92b8A%3D&Expires=1627009451",
+            "has_video": false
+        },
+        "record_type": "group",
+        "type": "Film",
+        "is_on_display": false,
+        "last_on_display_place": null,
+        "last_on_display_date": null,
+        "is_context_indigenous": false,
+        "material_description": "",
+        "unpublished": true,
+        "first_production_date": null
+    },
+    "group_works": [],
+    "group_siblings": [
+        {
+            "id": 114195,
+            "acmi_id": "13288",
+            "title": "A Girl's own story",
+            "title_annotation": "",
+            "slug": "a-girls-own-story",
+            "creator_credit": "AFTRS and Jane Campion",
+            "credit_line": "",
+            "headline_credit": "Australia, 1984",
+            "thumbnail": {
+                "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/B1006979_AGirlsOwnStory.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=r9Z44zqd3oJ%2Btd1qVV%2FBNC92b8A%3D&Expires=1627009451",
+                "has_video": false
+            },
+            "record_type": "work",
+            "type": "Film",
+            "is_on_display": false,
+            "last_on_display_place": null,
+            "last_on_display_date": null,
+            "is_context_indigenous": false,
+            "material_description": "",
+            "unpublished": false,
+            "first_production_date": "1984-01-01T11:00:00+11:00"
+        },
+        {
+            "id": 110213,
+            "acmi_id": "13279",
+            "title": "Peel",
+            "title_annotation": "",
+            "slug": "peel",
+            "creator_credit": "AFTRS and Jane Campion",
+            "credit_line": "",
+            "headline_credit": "Australia, 1982",
+            "thumbnail": {
+                "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/B1006978_Peel.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=U6YJm5TbXCcdWzKGrD50nUhdCbU%3D&Expires=1627009451",
+                "has_video": false
+            },
+            "record_type": "work",
+            "type": "Film",
+            "is_on_display": false,
+            "last_on_display_place": null,
+            "last_on_display_date": null,
+            "is_context_indigenous": false,
+            "material_description": "",
+            "unpublished": false,
+            "first_production_date": "1982-01-01T11:00:00+11:00"
+        }
+    ],
+    "source": {
+        "name": "Vernon",
+        "slug": "vernon"
+    },
+    "source_identifier": "907",
+    "production_places": [
+        {
+            "id": 3,
+            "name": "Australia",
+            "slug": "australia"
+        }
+    ],
+    "production_dates": [
+        {
+            "date": "1984",
+            "notes": "",
+            "to_year": "1984"
+        }
+    ],
+    "labels": [
+        47901
+    ]
+}

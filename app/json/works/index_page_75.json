@@ -1,0 +1,1957 @@
+{
+    "count": 922,
+    "next": "/works/?page=76",
+    "previous": "/works/?page=74",
+    "results": [
+        {
+            "id": 108534,
+            "acmi_id": "1382",
+            "title": "The Darra dogs",
+            "title_annotation": "",
+            "slug": "the-darra-dogs",
+            "creator_credit": "Dennis Tupicoff",
+            "credit_line": "",
+            "headline_credit": "1993",
+            "thumbnail": null,
+            "record_type": "work",
+            "type": "Film",
+            "is_on_display": false,
+            "last_on_display_place": null,
+            "last_on_display_date": null,
+            "is_context_indigenous": false,
+            "material_description": "",
+            "unpublished": false,
+            "first_production_date": "1993-01-01T11:00:00+11:00",
+            "brief_description": "<p>Haunted by the dogs of his childhood, Dennis Tupicoff tries to explain his feelings about dogs to his 4 year old daughter. Dennis and his brothers grew up in Darra, then an industrial suburb of Brisbane where every household seemed to have a dog. Some were friends who shared their lives and explorations while others were &#8220;hounds from hell&#8221; prowling though the neighbourhood. The Darra Dogs is a memorial to the mortal terrors of childhood, the sadness of death and loss and, of course, to the dogs themselves.</p>",
+            "constellations_primary": [],
+            "constellations_other": [],
+            "recommendations": [],
+            "title_for_label": "<p>The Darra dogs</p>",
+            "creator_credit_for_label": "<p>Dennis Tupicoff</p>",
+            "headline_credit_for_label": "<p>1993</p>",
+            "description": "<p>Haunted by the dogs of his childhood, Dennis Tupicoff tries to explain his feelings about dogs to his 4 year old daughter. Dennis and his brothers grew up in Darra, then an industrial suburb of Brisbane where every household seemed to have a dog. Some were friends who shared their lives and explorations while others were &#8220;hounds from hell&#8221; prowling though the neighbourhood. The Darra Dogs is a memorial to the mortal terrors of childhood, the sadness of death and loss and, of course, to the dogs themselves.</p>",
+            "description_for_label": [
+                "<p>Haunted by the dogs of his childhood, Dennis Tupicoff tries to explain his feelings about dogs to his 4 year old daughter. Dennis and his brothers grew up in Darra, then an industrial suburb of Brisbane where every household seemed to have a dog. Some were friends who shared their lives and explorations while others were &#8220;hounds from hell&#8221; prowling though the neighbourhood. The Darra Dogs is a memorial to the mortal terrors of childhood, the sadness of death and loss and, of course, to the dogs themselves.</p>"
+            ],
+            "credit_line_for_label": "",
+            "details": [
+                {
+                    "label": "Duration",
+                    "display_values": [
+                        "00:10:00:00"
+                    ]
+                },
+                {
+                    "label": "Language",
+                    "display_values": [
+                        "English"
+                    ]
+                },
+                {
+                    "label": "Sound/audio",
+                    "display_values": [
+                        "Sound"
+                    ]
+                },
+                {
+                    "label": "Colour",
+                    "display_values": [
+                        "Colour"
+                    ]
+                }
+            ],
+            "stats": {
+                "tap_count": 0
+            },
+            "links": [],
+            "creators_primary": [
+                {
+                    "id": 1133553,
+                    "name": "Dennis Tupicoff",
+                    "creator_id": 7230,
+                    "role": "creator",
+                    "role_id": 968,
+                    "is_primary": true
+                },
+                {
+                    "id": 1133552,
+                    "name": "Dennis Tupicoff",
+                    "creator_id": 7230,
+                    "role": "producer",
+                    "role_id": 960,
+                    "is_primary": true
+                },
+                {
+                    "id": 1133551,
+                    "name": "Dennis Tupicoff",
+                    "creator_id": 7230,
+                    "role": "director",
+                    "role_id": 938,
+                    "is_primary": true
+                }
+            ],
+            "creators_other": [],
+            "video_links": [],
+            "media_note": "Sorry, we don't have images or video for this item.",
+            "images": [],
+            "videos": [],
+            "holdings": [
+                {
+                    "name": "MPEG-2 Digital File; Memory Grid Pod Full Encode",
+                    "identifier": "",
+                    "description": ""
+                },
+                {
+                    "name": "Digital Betacam; Master",
+                    "identifier": "",
+                    "description": ""
+                },
+                {
+                    "name": "VHS [PAL]; Reference - timecoded",
+                    "identifier": "",
+                    "description": ""
+                },
+                {
+                    "name": "Digital Betacam [PAL]; Sub-master",
+                    "identifier": "",
+                    "description": ""
+                }
+            ],
+            "part_of": null,
+            "parts": [],
+            "part_siblings": [],
+            "group": {
+                "id": 108211,
+                "acmi_id": "10284",
+                "title": "AFI Collection: a selection of tertiary student films. Tape 1",
+                "title_annotation": "",
+                "slug": "afi-collection-a-selection-of-tertiary-student-films-tape-1",
+                "creator_credit": "",
+                "credit_line": "",
+                "headline_credit": "Australia, 1993-1998",
+                "thumbnail": {
+                    "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/B1003010_Ashputtle.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=DWEI1qG8nDQ%2FkI%2FOYJM%2BoUUN6Ok%3D&Expires=1627009456",
+                    "has_video": false
+                },
+                "record_type": "group",
+                "type": "Film",
+                "is_on_display": false,
+                "last_on_display_place": null,
+                "last_on_display_date": null,
+                "is_context_indigenous": false,
+                "material_description": "",
+                "unpublished": false,
+                "first_production_date": null
+            },
+            "group_works": [],
+            "group_siblings": [
+                {
+                    "id": 108596,
+                    "acmi_id": "1437",
+                    "title": "A Saucer of water for the birds",
+                    "title_annotation": "",
+                    "slug": "a-saucer-of-water-for-the-birds",
+                    "creator_credit": "Ann Shenfield",
+                    "credit_line": "",
+                    "headline_credit": "1993",
+                    "thumbnail": null,
+                    "record_type": "work",
+                    "type": "Film",
+                    "is_on_display": false,
+                    "last_on_display_place": null,
+                    "last_on_display_date": null,
+                    "is_context_indigenous": false,
+                    "material_description": "",
+                    "unpublished": false,
+                    "first_production_date": "1993-01-01T11:00:00+11:00"
+                },
+                {
+                    "id": 108441,
+                    "acmi_id": "1087",
+                    "title": "Ashputtle: or the mother's ghost",
+                    "title_annotation": "",
+                    "slug": "ashputtle-or-the-mothers-ghost",
+                    "creator_credit": "Nag Vladermersky and Susi Allender",
+                    "credit_line": "",
+                    "headline_credit": "Australia, 1998",
+                    "thumbnail": {
+                        "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/B1003010_Ashputtle.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=DWEI1qG8nDQ%2FkI%2FOYJM%2BoUUN6Ok%3D&Expires=1627009456",
+                        "has_video": false
+                    },
+                    "record_type": "work",
+                    "type": "Digital art",
+                    "is_on_display": false,
+                    "last_on_display_place": null,
+                    "last_on_display_date": null,
+                    "is_context_indigenous": false,
+                    "material_description": "Single channel moving image",
+                    "unpublished": false,
+                    "first_production_date": "1998-01-01T11:00:00+11:00"
+                },
+                {
+                    "id": 108210,
+                    "acmi_id": "426",
+                    "title": "Food (for) thought",
+                    "title_annotation": "",
+                    "slug": "food-for-thought",
+                    "creator_credit": "VCA and Daniel Crooks",
+                    "credit_line": "",
+                    "headline_credit": "1994",
+                    "thumbnail": null,
+                    "record_type": "work",
+                    "type": "Film",
+                    "is_on_display": false,
+                    "last_on_display_place": null,
+                    "last_on_display_date": null,
+                    "is_context_indigenous": false,
+                    "material_description": "",
+                    "unpublished": false,
+                    "first_production_date": "1994-01-01T11:00:00+11:00"
+                },
+                {
+                    "id": 108563,
+                    "acmi_id": "1408",
+                    "title": "Has beans",
+                    "title_annotation": "",
+                    "slug": "has-beans",
+                    "creator_credit": "AFTRS, Miriam Stein and Andrew Tamandl",
+                    "credit_line": "",
+                    "headline_credit": "Australia, 1998",
+                    "thumbnail": null,
+                    "record_type": "work",
+                    "type": "Film",
+                    "is_on_display": false,
+                    "last_on_display_place": null,
+                    "last_on_display_date": null,
+                    "is_context_indigenous": false,
+                    "material_description": "",
+                    "unpublished": false,
+                    "first_production_date": "1998-01-01T11:00:00+11:00"
+                },
+                {
+                    "id": 108275,
+                    "acmi_id": "589",
+                    "title": "His mother's voice",
+                    "title_annotation": "",
+                    "slug": "his-mothers-voice",
+                    "creator_credit": "Dennis Tupicoff",
+                    "credit_line": "",
+                    "headline_credit": "Australia, 1996",
+                    "thumbnail": null,
+                    "record_type": "work",
+                    "type": "Film",
+                    "is_on_display": false,
+                    "last_on_display_place": "ACMI Screen Lounge",
+                    "last_on_display_date": "2004-12-31",
+                    "is_context_indigenous": false,
+                    "material_description": "",
+                    "unpublished": false,
+                    "first_production_date": "1996-01-01T11:00:00+11:00"
+                },
+                {
+                    "id": 108629,
+                    "acmi_id": "1470",
+                    "title": "Small treasures",
+                    "title_annotation": "",
+                    "slug": "small-treasures",
+                    "creator_credit": "Sarah Watt",
+                    "credit_line": "",
+                    "headline_credit": "Australia, 1995",
+                    "thumbnail": {
+                        "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/B1003616_SmallTreasures.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=8yLBFYRE43rIVi2LmRXZ5ZYs5RI%3D&Expires=1627009456",
+                        "has_video": false
+                    },
+                    "record_type": "work",
+                    "type": "Film",
+                    "is_on_display": false,
+                    "last_on_display_place": null,
+                    "last_on_display_date": null,
+                    "is_context_indigenous": false,
+                    "material_description": "",
+                    "unpublished": false,
+                    "first_production_date": "1995-01-01T11:00:00+11:00"
+                },
+                {
+                    "id": 108547,
+                    "acmi_id": "1392",
+                    "title": "The Drive home",
+                    "title_annotation": "",
+                    "slug": "the-drive-home",
+                    "creator_credit": "VCA and Annette Trevitt",
+                    "credit_line": "",
+                    "headline_credit": "1993",
+                    "thumbnail": null,
+                    "record_type": "work",
+                    "type": "Film",
+                    "is_on_display": false,
+                    "last_on_display_place": null,
+                    "last_on_display_date": null,
+                    "is_context_indigenous": false,
+                    "material_description": "",
+                    "unpublished": false,
+                    "first_production_date": "1993-01-01T11:00:00+11:00"
+                },
+                {
+                    "id": 114035,
+                    "acmi_id": "588",
+                    "title": "Uncle",
+                    "title_annotation": "",
+                    "slug": "uncle",
+                    "creator_credit": "VCA Film and Television School, University of Melbourne and Adam Elliot",
+                    "credit_line": "",
+                    "headline_credit": "Australia, 1996",
+                    "thumbnail": {
+                        "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/B1002064_Uncle.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=kvf2FrTXoci4G5Ped15sKXHAEtU%3D&Expires=1627009456",
+                        "has_video": false
+                    },
+                    "record_type": "work",
+                    "type": "Film",
+                    "is_on_display": false,
+                    "last_on_display_place": "ACMI Screen Lounge",
+                    "last_on_display_date": "2004-12-31",
+                    "is_context_indigenous": false,
+                    "material_description": "",
+                    "unpublished": false,
+                    "first_production_date": "1996-01-01T11:00:00+11:00"
+                }
+            ],
+            "source": {
+                "name": "Vernon",
+                "slug": "vernon"
+            },
+            "source_identifier": "1382",
+            "production_places": [],
+            "production_dates": [
+                {
+                    "date": "1993",
+                    "notes": "",
+                    "to_year": "1993"
+                }
+            ],
+            "labels": [
+                48027
+            ]
+        },
+        {
+            "id": 108441,
+            "acmi_id": "1087",
+            "title": "Ashputtle: or the mother's ghost",
+            "title_annotation": "",
+            "slug": "ashputtle-or-the-mothers-ghost",
+            "creator_credit": "Nag Vladermersky and Susi Allender",
+            "credit_line": "",
+            "headline_credit": "Australia, 1998",
+            "thumbnail": {
+                "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/B1003010_Ashputtle.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=DWEI1qG8nDQ%2FkI%2FOYJM%2BoUUN6Ok%3D&Expires=1627009456",
+                "has_video": false
+            },
+            "record_type": "work",
+            "type": "Digital art",
+            "is_on_display": false,
+            "last_on_display_place": null,
+            "last_on_display_date": null,
+            "is_context_indigenous": false,
+            "material_description": "Single channel moving image",
+            "unpublished": false,
+            "first_production_date": "1998-01-01T11:00:00+11:00",
+            "brief_description": "<p>A mother does what has to be done to help her daughter - even if it means returning from the grave. A retelling of a traditional folktale (Grimm&#8217;s &#8216;Ashputtle&#8217; as reworked by Angela Carter). Ashputtle is an unloved, uncared for and barely human child until her dead mother rises from the grave to look after her. It is a beautifully cut-out animation that explores themes of identity, responsibility, disintegration and transformation, in a bold and vibrant visual style.</p>",
+            "constellations_primary": [],
+            "constellations_other": [],
+            "recommendations": [],
+            "title_for_label": "<p>Ashputtle: or the mother&#8217;s ghost</p>",
+            "creator_credit_for_label": "<p>Nag Vladermersky and Susi Allender</p>",
+            "headline_credit_for_label": "<p>Australia, 1998</p>",
+            "description": "<p>A mother does what has to be done to help her daughter - even if it means returning from the grave. A retelling of a traditional folktale (Grimm&#8217;s &#8216;Ashputtle&#8217; as reworked by Angela Carter). Ashputtle is an unloved, uncared for and barely human child until her dead mother rises from the grave to look after her. It is a beautifully cut-out animation that explores themes of identity, responsibility, disintegration and transformation, in a bold and vibrant visual style.</p>",
+            "description_for_label": [
+                "<p>A mother does what has to be done to help her daughter - even if it means returning from the grave. A retelling of a traditional folktale (Grimm&#8217;s &#8216;Ashputtle&#8217; as reworked by Angela Carter). Ashputtle is an unloved, uncared for and barely human child until her dead mother rises from the grave to look after her. It is a beautifully cut-out animation that explores themes of identity, responsibility, disintegration and transformation, in a bold and vibrant visual style.</p>"
+            ],
+            "credit_line_for_label": "",
+            "details": [
+                {
+                    "label": "Duration",
+                    "display_values": [
+                        "00:10:29:00"
+                    ]
+                },
+                {
+                    "label": "Language",
+                    "display_values": [
+                        "English"
+                    ]
+                },
+                {
+                    "label": "Audience classification",
+                    "display_values": [
+                        "Mediatheque - not for children (ACMI classified)"
+                    ]
+                },
+                {
+                    "label": "Subject categories",
+                    "display_values": [
+                        "Adaptations",
+                        "Animation",
+                        "Animation&nbsp;→ Cutout animation",
+                        "Digital Art",
+                        "Family, Gender Identity, Relationships & Sexuality&nbsp;→ Mothers and daughters",
+                        "Literature&nbsp;→ Fairy tales",
+                        "Literature&nbsp;→ Fairy tales - Film and video adaptations",
+                        "Literature&nbsp;→ Literature - Film and video adaptations",
+                        "Magic, Occult & Supernatural&nbsp;→ Fairy tales",
+                        "Short films",
+                        "Short films&nbsp;→ Short films - Australia"
+                    ]
+                },
+                {
+                    "label": "Sound/audio",
+                    "display_values": [
+                        "Sound"
+                    ]
+                },
+                {
+                    "label": "Colour",
+                    "display_values": [
+                        "Colour"
+                    ]
+                },
+                {
+                    "label": "Materials",
+                    "display_values": [
+                        "Single channel moving image"
+                    ]
+                }
+            ],
+            "stats": {
+                "tap_count": 0
+            },
+            "links": [],
+            "creators_primary": [
+                {
+                    "id": 1133550,
+                    "name": "Nag Vladermersky",
+                    "creator_id": 8055,
+                    "role": "writer",
+                    "role_id": 939,
+                    "is_primary": true
+                },
+                {
+                    "id": 1133549,
+                    "name": "Nag Vladermersky",
+                    "creator_id": 8055,
+                    "role": "producer/director",
+                    "role_id": 31,
+                    "is_primary": true
+                },
+                {
+                    "id": 1133548,
+                    "name": "Susi Allender",
+                    "creator_id": 8054,
+                    "role": "writer",
+                    "role_id": 939,
+                    "is_primary": true
+                },
+                {
+                    "id": 1133547,
+                    "name": "Susi Allender",
+                    "creator_id": 8054,
+                    "role": "producer/director",
+                    "role_id": 31,
+                    "is_primary": true
+                }
+            ],
+            "creators_other": [],
+            "video_links": [],
+            "media_note": null,
+            "images": [
+                {
+                    "id": 11207,
+                    "image_file": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/B1003010_Ashputtle.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=fyI3QDGjL4uyz3xNWQ0ZXTB8MAg%3D&Expires=1627009456",
+                    "image_file_thumbnail": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/B1003010_Ashputtle.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=DWEI1qG8nDQ%2FkI%2FOYJM%2BoUUN6Ok%3D&Expires=1627009456",
+                    "image_file_xs": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/B1003010_Ashputtle.jpg.480x480_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=%2F%2FA9TA17zN0ljf1Cwe9yX4%2FIri4%3D&Expires=1627009456",
+                    "image_file_s": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/B1003010_Ashputtle.jpg.960x960_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=lUvbV5g1ydC0067mgJt9voE1KuE%3D&Expires=1627009456",
+                    "image_file_m": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/B1003010_Ashputtle.jpg.1920x1920_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=KH9TM3%2BRsjrx9dAs2SpcEqqPddM%3D&Expires=1627009456",
+                    "image_file_l": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/B1003010_Ashputtle.jpg.3840x3840_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=frBJJ%2BmhK%2FpCC352eWBCoNvmlF4%3D&Expires=1627009456",
+                    "caption": "Ashputtle (Susi Allender) still",
+                    "credit_line": "",
+                    "alt_text": "",
+                    "width": 438,
+                    "height": 327,
+                    "access_level": "View anywhere"
+                }
+            ],
+            "videos": [],
+            "holdings": [
+                {
+                    "name": "MPEG-4 Digital File; ACMI Digital Access Copy - presentation",
+                    "identifier": "",
+                    "description": ""
+                },
+                {
+                    "name": "Digital Betacam; Master",
+                    "identifier": "",
+                    "description": ""
+                },
+                {
+                    "name": "VHS [PAL]; Reference - timecoded",
+                    "identifier": "",
+                    "description": ""
+                },
+                {
+                    "name": "Digital Betacam [PAL]; Sub-master",
+                    "identifier": "",
+                    "description": ""
+                },
+                {
+                    "name": "MPEG-2 Digital File; Memory Grid Pod Full Encode",
+                    "identifier": "",
+                    "description": ""
+                }
+            ],
+            "part_of": null,
+            "parts": [],
+            "part_siblings": [],
+            "group": {
+                "id": 108211,
+                "acmi_id": "10284",
+                "title": "AFI Collection: a selection of tertiary student films. Tape 1",
+                "title_annotation": "",
+                "slug": "afi-collection-a-selection-of-tertiary-student-films-tape-1",
+                "creator_credit": "",
+                "credit_line": "",
+                "headline_credit": "Australia, 1993-1998",
+                "thumbnail": {
+                    "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/B1003010_Ashputtle.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=DWEI1qG8nDQ%2FkI%2FOYJM%2BoUUN6Ok%3D&Expires=1627009456",
+                    "has_video": false
+                },
+                "record_type": "group",
+                "type": "Film",
+                "is_on_display": false,
+                "last_on_display_place": null,
+                "last_on_display_date": null,
+                "is_context_indigenous": false,
+                "material_description": "",
+                "unpublished": false,
+                "first_production_date": null
+            },
+            "group_works": [],
+            "group_siblings": [
+                {
+                    "id": 108596,
+                    "acmi_id": "1437",
+                    "title": "A Saucer of water for the birds",
+                    "title_annotation": "",
+                    "slug": "a-saucer-of-water-for-the-birds",
+                    "creator_credit": "Ann Shenfield",
+                    "credit_line": "",
+                    "headline_credit": "1993",
+                    "thumbnail": null,
+                    "record_type": "work",
+                    "type": "Film",
+                    "is_on_display": false,
+                    "last_on_display_place": null,
+                    "last_on_display_date": null,
+                    "is_context_indigenous": false,
+                    "material_description": "",
+                    "unpublished": false,
+                    "first_production_date": "1993-01-01T11:00:00+11:00"
+                },
+                {
+                    "id": 108210,
+                    "acmi_id": "426",
+                    "title": "Food (for) thought",
+                    "title_annotation": "",
+                    "slug": "food-for-thought",
+                    "creator_credit": "VCA and Daniel Crooks",
+                    "credit_line": "",
+                    "headline_credit": "1994",
+                    "thumbnail": null,
+                    "record_type": "work",
+                    "type": "Film",
+                    "is_on_display": false,
+                    "last_on_display_place": null,
+                    "last_on_display_date": null,
+                    "is_context_indigenous": false,
+                    "material_description": "",
+                    "unpublished": false,
+                    "first_production_date": "1994-01-01T11:00:00+11:00"
+                },
+                {
+                    "id": 108563,
+                    "acmi_id": "1408",
+                    "title": "Has beans",
+                    "title_annotation": "",
+                    "slug": "has-beans",
+                    "creator_credit": "AFTRS, Miriam Stein and Andrew Tamandl",
+                    "credit_line": "",
+                    "headline_credit": "Australia, 1998",
+                    "thumbnail": null,
+                    "record_type": "work",
+                    "type": "Film",
+                    "is_on_display": false,
+                    "last_on_display_place": null,
+                    "last_on_display_date": null,
+                    "is_context_indigenous": false,
+                    "material_description": "",
+                    "unpublished": false,
+                    "first_production_date": "1998-01-01T11:00:00+11:00"
+                },
+                {
+                    "id": 108275,
+                    "acmi_id": "589",
+                    "title": "His mother's voice",
+                    "title_annotation": "",
+                    "slug": "his-mothers-voice",
+                    "creator_credit": "Dennis Tupicoff",
+                    "credit_line": "",
+                    "headline_credit": "Australia, 1996",
+                    "thumbnail": null,
+                    "record_type": "work",
+                    "type": "Film",
+                    "is_on_display": false,
+                    "last_on_display_place": "ACMI Screen Lounge",
+                    "last_on_display_date": "2004-12-31",
+                    "is_context_indigenous": false,
+                    "material_description": "",
+                    "unpublished": false,
+                    "first_production_date": "1996-01-01T11:00:00+11:00"
+                },
+                {
+                    "id": 108629,
+                    "acmi_id": "1470",
+                    "title": "Small treasures",
+                    "title_annotation": "",
+                    "slug": "small-treasures",
+                    "creator_credit": "Sarah Watt",
+                    "credit_line": "",
+                    "headline_credit": "Australia, 1995",
+                    "thumbnail": {
+                        "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/B1003616_SmallTreasures.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=8yLBFYRE43rIVi2LmRXZ5ZYs5RI%3D&Expires=1627009456",
+                        "has_video": false
+                    },
+                    "record_type": "work",
+                    "type": "Film",
+                    "is_on_display": false,
+                    "last_on_display_place": null,
+                    "last_on_display_date": null,
+                    "is_context_indigenous": false,
+                    "material_description": "",
+                    "unpublished": false,
+                    "first_production_date": "1995-01-01T11:00:00+11:00"
+                },
+                {
+                    "id": 108534,
+                    "acmi_id": "1382",
+                    "title": "The Darra dogs",
+                    "title_annotation": "",
+                    "slug": "the-darra-dogs",
+                    "creator_credit": "Dennis Tupicoff",
+                    "credit_line": "",
+                    "headline_credit": "1993",
+                    "thumbnail": null,
+                    "record_type": "work",
+                    "type": "Film",
+                    "is_on_display": false,
+                    "last_on_display_place": null,
+                    "last_on_display_date": null,
+                    "is_context_indigenous": false,
+                    "material_description": "",
+                    "unpublished": false,
+                    "first_production_date": "1993-01-01T11:00:00+11:00"
+                },
+                {
+                    "id": 108547,
+                    "acmi_id": "1392",
+                    "title": "The Drive home",
+                    "title_annotation": "",
+                    "slug": "the-drive-home",
+                    "creator_credit": "VCA and Annette Trevitt",
+                    "credit_line": "",
+                    "headline_credit": "1993",
+                    "thumbnail": null,
+                    "record_type": "work",
+                    "type": "Film",
+                    "is_on_display": false,
+                    "last_on_display_place": null,
+                    "last_on_display_date": null,
+                    "is_context_indigenous": false,
+                    "material_description": "",
+                    "unpublished": false,
+                    "first_production_date": "1993-01-01T11:00:00+11:00"
+                },
+                {
+                    "id": 114035,
+                    "acmi_id": "588",
+                    "title": "Uncle",
+                    "title_annotation": "",
+                    "slug": "uncle",
+                    "creator_credit": "VCA Film and Television School, University of Melbourne and Adam Elliot",
+                    "credit_line": "",
+                    "headline_credit": "Australia, 1996",
+                    "thumbnail": {
+                        "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/B1002064_Uncle.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=kvf2FrTXoci4G5Ped15sKXHAEtU%3D&Expires=1627009456",
+                        "has_video": false
+                    },
+                    "record_type": "work",
+                    "type": "Film",
+                    "is_on_display": false,
+                    "last_on_display_place": "ACMI Screen Lounge",
+                    "last_on_display_date": "2004-12-31",
+                    "is_context_indigenous": false,
+                    "material_description": "",
+                    "unpublished": false,
+                    "first_production_date": "1996-01-01T11:00:00+11:00"
+                }
+            ],
+            "source": {
+                "name": "Vernon",
+                "slug": "vernon"
+            },
+            "source_identifier": "1087",
+            "production_places": [
+                {
+                    "id": 3,
+                    "name": "Australia",
+                    "slug": "australia"
+                }
+            ],
+            "production_dates": [
+                {
+                    "date": "1998",
+                    "notes": "",
+                    "to_year": "1998"
+                }
+            ],
+            "labels": [
+                47934
+            ]
+        },
+        {
+            "id": 108198,
+            "acmi_id": "10278",
+            "title": "Robert Arnold compilation",
+            "title_annotation": "",
+            "slug": "robert-arnold-compilation",
+            "creator_credit": "",
+            "credit_line": "",
+            "headline_credit": "1998-2000",
+            "thumbnail": null,
+            "record_type": "group",
+            "type": "Film",
+            "is_on_display": false,
+            "last_on_display_place": null,
+            "last_on_display_date": null,
+            "is_context_indigenous": false,
+            "material_description": "",
+            "unpublished": true,
+            "first_production_date": null,
+            "brief_description": "",
+            "constellations_primary": [],
+            "constellations_other": [],
+            "recommendations": [],
+            "title_for_label": "<p>Robert Arnold compilation</p>",
+            "creator_credit_for_label": "",
+            "headline_credit_for_label": "<p>1998-2000</p>",
+            "description": "",
+            "description_for_label": [],
+            "credit_line_for_label": "",
+            "details": [],
+            "stats": {
+                "tap_count": 0
+            },
+            "links": [],
+            "creators_primary": [],
+            "creators_other": [
+                {
+                    "id": 1133546,
+                    "name": "Robert Arnold",
+                    "creator_id": 73333,
+                    "role": "",
+                    "role_id": 604,
+                    "is_primary": false
+                }
+            ],
+            "video_links": [],
+            "media_note": "Sorry, we don't have images or video for this item.",
+            "images": [],
+            "videos": [],
+            "holdings": [
+                {
+                    "name": "Digital Betacam [PAL]; Master",
+                    "identifier": "",
+                    "description": ""
+                },
+                {
+                    "name": "Digital Betacam [PAL]; Sub-master",
+                    "identifier": "",
+                    "description": ""
+                }
+            ],
+            "part_of": null,
+            "parts": [],
+            "part_siblings": [],
+            "group": null,
+            "group_works": [
+                {
+                    "id": 108199,
+                    "acmi_id": "410",
+                    "title": "The Morphology of desire",
+                    "title_annotation": "",
+                    "slug": "the-morphology-of-desire",
+                    "creator_credit": "Robert Arnold",
+                    "credit_line": "",
+                    "headline_credit": "United States, 1998",
+                    "thumbnail": null,
+                    "record_type": "work",
+                    "type": "Digital art",
+                    "is_on_display": false,
+                    "last_on_display_place": null,
+                    "last_on_display_date": null,
+                    "is_context_indigenous": false,
+                    "material_description": "",
+                    "unpublished": false,
+                    "first_production_date": "1998-01-01T11:00:00+11:00"
+                },
+                {
+                    "id": 108197,
+                    "acmi_id": "409",
+                    "title": "Triptych",
+                    "title_annotation": "",
+                    "slug": "triptych",
+                    "creator_credit": "Robert Arnold",
+                    "credit_line": "",
+                    "headline_credit": "Poland and United States, 1999-2000",
+                    "thumbnail": null,
+                    "record_type": "work",
+                    "type": "Digital art",
+                    "is_on_display": false,
+                    "last_on_display_place": "ACMI Screen Gallery",
+                    "last_on_display_date": "2003-08-31",
+                    "is_context_indigenous": false,
+                    "material_description": "",
+                    "unpublished": false,
+                    "first_production_date": null
+                }
+            ],
+            "group_siblings": [],
+            "source": {
+                "name": "Vernon",
+                "slug": "vernon"
+            },
+            "source_identifier": "10278",
+            "production_places": [],
+            "production_dates": [
+                {
+                    "date": "1998-2000",
+                    "notes": "",
+                    "to_year": "1998-2000"
+                }
+            ],
+            "labels": [
+                47691
+            ]
+        },
+        {
+            "id": 108199,
+            "acmi_id": "410",
+            "title": "The Morphology of desire",
+            "title_annotation": "",
+            "slug": "the-morphology-of-desire",
+            "creator_credit": "Robert Arnold",
+            "credit_line": "",
+            "headline_credit": "United States, 1998",
+            "thumbnail": null,
+            "record_type": "work",
+            "type": "Digital art",
+            "is_on_display": false,
+            "last_on_display_place": null,
+            "last_on_display_date": null,
+            "is_context_indigenous": false,
+            "material_description": "",
+            "unpublished": false,
+            "first_production_date": "1998-01-01T11:00:00+11:00",
+            "brief_description": "<p>The hot breath&#8230;the heaving bosom&#8230;the smouldering stares&#8230;the sweet surrender. It&#8217;s all here, and it&#8217;s all for sale on the torrid covers of romance novels - brought to stirring life in Robert Arnold&#8217;s lush, pulsating trash-culture montage which combines digital film processes to morph an eternal series of wanton glances.</p>\n<p>Using digital morphing to animate romance book cover illustrations, The &#8216;Morphology of Desire&#8217; conveys something about the basic illusion of cinematic motion - the tensions and contradictions between reality and illusion, the still and moving image, surface and depth. The transitions from one book cover to another intensify the viewer&#8217;s awareness of the power of the gaze. The heroine pivots and turns, knowing she is watched by the predator male (always lurking behind her), as she also seduces the paperback consumer. The viewer&#8217;s gaze is held captive as she beckons, sashaying from left to right, right to left, with every gesture emphasising the formulaic signifiers of beauty: the button nose, the downcast eyes, and the lips - poised, pensive, tremulous, waiting.</p>\n<p>Always the waiting. This &#8216;waiting&#8217; is the basic form - the topic requiring a morphology - of romantic desire. The lover waits for the return of a half-hallucinated, half-remembered state when all existence seemed to be suffused in unconditional devotion and satisfaction. Perhaps this perfect state is remembered from infancy or from an interlude before a crushing betrayal or disappointment, when bliss seemed real and within reach. Anyone with the slightest romantic inclination (and isn&#8217;t that just about everyone?) is forever lured on by this fantasy that feels like a neverending quest to capture a memory.</p>\n<p>Robert Arnold completed a Bachelor of Fine Arts in Sculpture at the University of Illinois in 1977, and attained his Master of Arts in Sculpture at the University of Iowa in 1980. It was then that he began his foray into experimental films and videos, and ever since he has combined an academic career with experimental work.</p>",
+            "constellations_primary": [],
+            "constellations_other": [],
+            "recommendations": [],
+            "title_for_label": "<p>The Morphology of desire</p>",
+            "creator_credit_for_label": "<p>Robert Arnold</p>",
+            "headline_credit_for_label": "<p>United States, 1998</p>",
+            "description": "<p>The hot breath&#8230;the heaving bosom&#8230;the smouldering stares&#8230;the sweet surrender. It&#8217;s all here, and it&#8217;s all for sale on the torrid covers of romance novels - brought to stirring life in Robert Arnold&#8217;s lush, pulsating trash-culture montage which combines digital film processes to morph an eternal series of wanton glances.</p>\n<p>Using digital morphing to animate romance book cover illustrations, The &#8216;Morphology of Desire&#8217; conveys something about the basic illusion of cinematic motion - the tensions and contradictions between reality and illusion, the still and moving image, surface and depth. The transitions from one book cover to another intensify the viewer&#8217;s awareness of the power of the gaze. The heroine pivots and turns, knowing she is watched by the predator male (always lurking behind her), as she also seduces the paperback consumer. The viewer&#8217;s gaze is held captive as she beckons, sashaying from left to right, right to left, with every gesture emphasising the formulaic signifiers of beauty: the button nose, the downcast eyes, and the lips - poised, pensive, tremulous, waiting.</p>\n<p>Always the waiting. This &#8216;waiting&#8217; is the basic form - the topic requiring a morphology - of romantic desire. The lover waits for the return of a half-hallucinated, half-remembered state when all existence seemed to be suffused in unconditional devotion and satisfaction. Perhaps this perfect state is remembered from infancy or from an interlude before a crushing betrayal or disappointment, when bliss seemed real and within reach. Anyone with the slightest romantic inclination (and isn&#8217;t that just about everyone?) is forever lured on by this fantasy that feels like a neverending quest to capture a memory.</p>\n<p>Robert Arnold completed a Bachelor of Fine Arts in Sculpture at the University of Illinois in 1977, and attained his Master of Arts in Sculpture at the University of Iowa in 1980. It was then that he began his foray into experimental films and videos, and ever since he has combined an academic career with experimental work.</p>",
+            "description_for_label": [
+                "<p>The hot breath&#8230;the heaving bosom&#8230;the smouldering stares&#8230;the sweet surrender. It&#8217;s all here, and it&#8217;s all for sale on the torrid covers of romance novels - brought to stirring life in Robert Arnold&#8217;s lush, pulsating trash-culture montage which combines digital film processes to morph an eternal series of wanton glances.</p>\n<p>Using digital morphing to animate romance book cover illustrations, The &#8216;Morphology of Desire&#8217; conveys something about the basic illusion of cinematic motion - the tensions and contradictions between reality and illusion, the still and moving image, surface and depth. The transitions from one book cover to another intensify the viewer&#8217;s awareness of the power of the gaze. The heroine pivots and turns, knowing she is watched by the predator male (always lurking behind her), as she also seduces the paperback consumer. The viewer&#8217;s gaze is held captive as she beckons, sashaying from left to right, right to left, with every gesture emphasising the formulaic signifiers of beauty: the button nose, the downcast eyes, and the lips - poised, pensive, tremulous, waiting.</p>\n<p>Always the waiting. This &#8216;waiting&#8217; is the basic form - the topic requiring a morphology - of romantic desire. The lover waits for the return of a half-hallucinated, half-remembered state when all existence seemed to be suffused in unconditional devotion and satisfaction. Perhaps this perfect state is remembered from infancy or from an interlude before a crushing betrayal or disappointment, when bliss seemed real and within reach. Anyone with the slightest romantic inclination (and isn&#8217;t that just about everyone?) is forever lured on by this fantasy that feels like a neverending quest to capture a memory.</p>\n<p>Robert Arnold completed a Bachelor of Fine Arts in Sculpture at the University of Illinois in 1977, and attained his Master of Arts in Sculpture at the University of Iowa in 1980. It was then that he began his foray into experimental films and videos, and ever since he has combined an academic career with experimental work.</p>"
+            ],
+            "credit_line_for_label": "",
+            "details": [
+                {
+                    "label": "Language",
+                    "display_values": [
+                        "English"
+                    ]
+                },
+                {
+                    "label": "Audience classifications",
+                    "display_values": [
+                        "PG",
+                        "unclassified"
+                    ]
+                },
+                {
+                    "label": "Subject category",
+                    "display_values": [
+                        "Digital Art"
+                    ]
+                }
+            ],
+            "stats": {
+                "tap_count": 0
+            },
+            "links": [],
+            "creators_primary": [
+                {
+                    "id": 1133544,
+                    "name": "Robert Arnold",
+                    "creator_id": 73333,
+                    "role": "producer",
+                    "role_id": 960,
+                    "is_primary": true
+                },
+                {
+                    "id": 1133543,
+                    "name": "Robert Arnold",
+                    "creator_id": 73333,
+                    "role": "director",
+                    "role_id": 938,
+                    "is_primary": true
+                },
+                {
+                    "id": 1133542,
+                    "name": "Robert Arnold",
+                    "creator_id": 73333,
+                    "role": "creator",
+                    "role_id": 968,
+                    "is_primary": true
+                }
+            ],
+            "creators_other": [
+                {
+                    "id": 1133545,
+                    "name": "Rhys Graham",
+                    "creator_id": 6398,
+                    "role": "research manager",
+                    "role_id": 456,
+                    "is_primary": false
+                }
+            ],
+            "video_links": [],
+            "media_note": "Sorry, we don't have images or video for this item.",
+            "images": [],
+            "videos": [],
+            "holdings": [
+                {
+                    "name": "VHS [PAL]; Reference - timecoded",
+                    "identifier": "",
+                    "description": ""
+                },
+                {
+                    "name": "DVD [PAL]; Exhibition Copy",
+                    "identifier": "",
+                    "description": ""
+                },
+                {
+                    "name": "VHS [NTSC]; Preview Copy",
+                    "identifier": "",
+                    "description": ""
+                },
+                {
+                    "name": "DVD [PAL]; Copy",
+                    "identifier": "",
+                    "description": ""
+                },
+                {
+                    "name": "Digital Betacam [PAL]; Master",
+                    "identifier": "",
+                    "description": ""
+                },
+                {
+                    "name": "Digital Betacam [PAL]; Sub-master",
+                    "identifier": "",
+                    "description": ""
+                }
+            ],
+            "part_of": null,
+            "parts": [],
+            "part_siblings": [],
+            "group": {
+                "id": 108198,
+                "acmi_id": "10278",
+                "title": "Robert Arnold compilation",
+                "title_annotation": "",
+                "slug": "robert-arnold-compilation",
+                "creator_credit": "",
+                "credit_line": "",
+                "headline_credit": "1998-2000",
+                "thumbnail": null,
+                "record_type": "group",
+                "type": "Film",
+                "is_on_display": false,
+                "last_on_display_place": null,
+                "last_on_display_date": null,
+                "is_context_indigenous": false,
+                "material_description": "",
+                "unpublished": true,
+                "first_production_date": null
+            },
+            "group_works": [],
+            "group_siblings": [
+                {
+                    "id": 108197,
+                    "acmi_id": "409",
+                    "title": "Triptych",
+                    "title_annotation": "",
+                    "slug": "triptych",
+                    "creator_credit": "Robert Arnold",
+                    "credit_line": "",
+                    "headline_credit": "Poland and United States, 1999-2000",
+                    "thumbnail": null,
+                    "record_type": "work",
+                    "type": "Digital art",
+                    "is_on_display": false,
+                    "last_on_display_place": "ACMI Screen Gallery",
+                    "last_on_display_date": "2003-08-31",
+                    "is_context_indigenous": false,
+                    "material_description": "",
+                    "unpublished": false,
+                    "first_production_date": null
+                }
+            ],
+            "source": {
+                "name": "Vernon",
+                "slug": "vernon"
+            },
+            "source_identifier": "410",
+            "production_places": [
+                {
+                    "id": 2,
+                    "name": "United States",
+                    "slug": "united-states"
+                }
+            ],
+            "production_dates": [
+                {
+                    "date": "1998",
+                    "notes": "",
+                    "to_year": "1998"
+                }
+            ],
+            "labels": [
+                47692
+            ]
+        },
+        {
+            "id": 108197,
+            "acmi_id": "409",
+            "title": "Triptych",
+            "title_annotation": "",
+            "slug": "triptych",
+            "creator_credit": "Robert Arnold",
+            "credit_line": "",
+            "headline_credit": "Poland and United States, 1999-2000",
+            "thumbnail": null,
+            "record_type": "work",
+            "type": "Digital art",
+            "is_on_display": false,
+            "last_on_display_place": "ACMI Screen Gallery",
+            "last_on_display_date": "2003-08-31",
+            "is_context_indigenous": false,
+            "material_description": "",
+            "unpublished": false,
+            "first_production_date": null,
+            "brief_description": "<p>This is the view overlooking Plac Wielkapolski (Great Poland Square), a busy intersection of pedestrian, tram, and other vehicle traffic adjacent to an open-air market. A meditation on an unfamiliar environment by an outside observer, and a response to the work of Zbignew Rybczynski and other members of the Lodz Film Form Workshop of the 1970&#8217;s.<br />\nIn memory of Antoni Mikolajczyk, head of the studio of video and installation, who passed away last spring, a year after this material was shot in his studio. Shot over a twenty four hour period in early Spring 1999, during my stay as a visiting professor at the Poznan&#8217; Academy of Fine Arts Studio of Video and Installation.</p>",
+            "constellations_primary": [],
+            "constellations_other": [],
+            "recommendations": [],
+            "title_for_label": "<p>Triptych</p>",
+            "creator_credit_for_label": "<p>Robert Arnold</p>",
+            "headline_credit_for_label": "<p>Poland and United States, 1999-2000</p>",
+            "description": "<p>This is the view overlooking Plac Wielkapolski (Great Poland Square), a busy intersection of pedestrian, tram, and other vehicle traffic adjacent to an open-air market. A meditation on an unfamiliar environment by an outside observer, and a response to the work of Zbignew Rybczynski and other members of the Lodz Film Form Workshop of the 1970&#8217;s.<br />\nIn memory of Antoni Mikolajczyk, head of the studio of video and installation, who passed away last spring, a year after this material was shot in his studio. Shot over a twenty four hour period in early Spring 1999, during my stay as a visiting professor at the Poznan&#8217; Academy of Fine Arts Studio of Video and Installation.</p>",
+            "description_for_label": [
+                "<p>This is the view overlooking Plac Wielkapolski (Great Poland Square), a busy intersection of pedestrian, tram, and other vehicle traffic adjacent to an open-air market. A meditation on an unfamiliar environment by an outside observer, and a response to the work of Zbignew Rybczynski and other members of the Lodz Film Form Workshop of the 1970&#8217;s.<br />\nIn memory of Antoni Mikolajczyk, head of the studio of video and installation, who passed away last spring, a year after this material was shot in his studio. Shot over a twenty four hour period in early Spring 1999, during my stay as a visiting professor at the Poznan&#8217; Academy of Fine Arts Studio of Video and Installation.</p>"
+            ],
+            "credit_line_for_label": "",
+            "details": [
+                {
+                    "label": "Language",
+                    "display_values": [
+                        "English"
+                    ]
+                },
+                {
+                    "label": "Audience classifications",
+                    "display_values": [
+                        "G",
+                        "unclassified"
+                    ]
+                },
+                {
+                    "label": "Subject category",
+                    "display_values": [
+                        "Digital Art"
+                    ]
+                }
+            ],
+            "stats": {
+                "tap_count": 0
+            },
+            "links": [],
+            "creators_primary": [
+                {
+                    "id": 1133540,
+                    "name": "Robert Arnold",
+                    "creator_id": 73333,
+                    "role": "creator",
+                    "role_id": 968,
+                    "is_primary": true
+                }
+            ],
+            "creators_other": [
+                {
+                    "id": 1133541,
+                    "name": "Rhys Graham",
+                    "creator_id": 6398,
+                    "role": "research manager",
+                    "role_id": 456,
+                    "is_primary": false
+                }
+            ],
+            "video_links": [],
+            "media_note": "Sorry, we don't have images or video for this item.",
+            "images": [],
+            "videos": [],
+            "holdings": [
+                {
+                    "name": "VHS [PAL]; Reference - timecoded",
+                    "identifier": "",
+                    "description": ""
+                },
+                {
+                    "name": "DVD [PAL]; Exhibition Copy",
+                    "identifier": "",
+                    "description": ""
+                },
+                {
+                    "name": "Digital Betacam [PAL]; Master",
+                    "identifier": "",
+                    "description": ""
+                },
+                {
+                    "name": "Digital Betacam [PAL]; Sub-master",
+                    "identifier": "",
+                    "description": ""
+                }
+            ],
+            "part_of": null,
+            "parts": [],
+            "part_siblings": [],
+            "group": {
+                "id": 108198,
+                "acmi_id": "10278",
+                "title": "Robert Arnold compilation",
+                "title_annotation": "",
+                "slug": "robert-arnold-compilation",
+                "creator_credit": "",
+                "credit_line": "",
+                "headline_credit": "1998-2000",
+                "thumbnail": null,
+                "record_type": "group",
+                "type": "Film",
+                "is_on_display": false,
+                "last_on_display_place": null,
+                "last_on_display_date": null,
+                "is_context_indigenous": false,
+                "material_description": "",
+                "unpublished": true,
+                "first_production_date": null
+            },
+            "group_works": [],
+            "group_siblings": [
+                {
+                    "id": 108199,
+                    "acmi_id": "410",
+                    "title": "The Morphology of desire",
+                    "title_annotation": "",
+                    "slug": "the-morphology-of-desire",
+                    "creator_credit": "Robert Arnold",
+                    "credit_line": "",
+                    "headline_credit": "United States, 1998",
+                    "thumbnail": null,
+                    "record_type": "work",
+                    "type": "Digital art",
+                    "is_on_display": false,
+                    "last_on_display_place": null,
+                    "last_on_display_date": null,
+                    "is_context_indigenous": false,
+                    "material_description": "",
+                    "unpublished": false,
+                    "first_production_date": "1998-01-01T11:00:00+11:00"
+                }
+            ],
+            "source": {
+                "name": "Vernon",
+                "slug": "vernon"
+            },
+            "source_identifier": "409",
+            "production_places": [
+                {
+                    "id": 44,
+                    "name": "Poland",
+                    "slug": "poland"
+                },
+                {
+                    "id": 2,
+                    "name": "United States",
+                    "slug": "united-states"
+                }
+            ],
+            "production_dates": [
+                {
+                    "date": "1999-2000",
+                    "notes": "Shot in Spring, 1999. Copyrighted 2000.",
+                    "to_year": "1999-2000"
+                }
+            ],
+            "labels": [
+                47690
+            ]
+        },
+        {
+            "id": 114032,
+            "acmi_id": "10276",
+            "title": "Video Data Bank. New releases. Volume 10 (Winter 2000 - 2001)",
+            "title_annotation": "",
+            "slug": "video-data-bank-new-releases-volume-10-winter-2000-2001",
+            "creator_credit": "",
+            "credit_line": "",
+            "headline_credit": "(2000-2001)",
+            "thumbnail": null,
+            "record_type": "group",
+            "type": "Film",
+            "is_on_display": false,
+            "last_on_display_place": null,
+            "last_on_display_date": null,
+            "is_context_indigenous": false,
+            "material_description": "",
+            "unpublished": true,
+            "first_production_date": null,
+            "brief_description": "",
+            "constellations_primary": [],
+            "constellations_other": [],
+            "recommendations": [],
+            "title_for_label": "<p>Video Data Bank. New releases. Volume 10 (Winter 2000 - 2001)</p>",
+            "creator_credit_for_label": "",
+            "headline_credit_for_label": "<p>(2000-2001)</p>",
+            "description": "",
+            "description_for_label": [],
+            "credit_line_for_label": "",
+            "details": [],
+            "stats": {
+                "tap_count": 0
+            },
+            "links": [],
+            "creators_primary": [],
+            "creators_other": [],
+            "video_links": [],
+            "media_note": "Sorry, we don't have images or video for this item.",
+            "images": [],
+            "videos": [],
+            "holdings": [],
+            "part_of": null,
+            "parts": [],
+            "part_siblings": [],
+            "group": null,
+            "group_works": [
+                {
+                    "id": 114033,
+                    "acmi_id": "11053",
+                    "title": "BIT Plane",
+                    "title_annotation": "",
+                    "slug": "bit-plane",
+                    "creator_credit": "Bureau of Inverse Technology (B.I.T.)",
+                    "credit_line": "",
+                    "headline_credit": "Cayman Islands, 1999",
+                    "thumbnail": null,
+                    "record_type": "work",
+                    "type": "Film",
+                    "is_on_display": false,
+                    "last_on_display_place": "ACMI Screen Gallery",
+                    "last_on_display_date": "2005-02-13",
+                    "is_context_indigenous": false,
+                    "material_description": "",
+                    "unpublished": false,
+                    "first_production_date": "1999-01-01T11:00:00+11:00"
+                }
+            ],
+            "group_siblings": [],
+            "source": {
+                "name": "Vernon",
+                "slug": "vernon"
+            },
+            "source_identifier": "10276",
+            "production_places": [],
+            "production_dates": [
+                {
+                    "date": "(2000-2001)",
+                    "notes": "",
+                    "to_year": "(2000-2001)"
+                }
+            ],
+            "labels": [
+                53524
+            ]
+        },
+        {
+            "id": 114033,
+            "acmi_id": "11053",
+            "title": "BIT Plane",
+            "title_annotation": "",
+            "slug": "bit-plane",
+            "creator_credit": "Bureau of Inverse Technology (B.I.T.)",
+            "credit_line": "",
+            "headline_credit": "Cayman Islands, 1999",
+            "thumbnail": null,
+            "record_type": "work",
+            "type": "Film",
+            "is_on_display": false,
+            "last_on_display_place": "ACMI Screen Gallery",
+            "last_on_display_date": "2005-02-13",
+            "is_context_indigenous": false,
+            "material_description": "",
+            "unpublished": false,
+            "first_production_date": "1999-01-01T11:00:00+11:00",
+            "brief_description": "<p>The Bitplane video captures an aero-portrait of a richly mythologised territory - the Silicon Valley in California, home to the largest concentration of wealth in California since the Gold Rush. The Bitplane&#8217;s mission takes it deep into the heart of the Valley, to view the source and progress of the Information Age. Due to its tiny dimensions, the Bitplane is able to enter territory inaccessible to other aircraft.</p>\n<p>One of the issues the Bitplane engages with on this reconnaissance flight is the threat of the camera to information space. Cameras are not permitted into the corporate research parks in teh Valley, according to the logic that visitors could steal intellectual property by taking photographs. This reveals an assumption that information is something you can photograph, a thing - not the product of a community or expertise or a social network of shared discourse but something you could steal with a camera.</p>\n<p>From the Artist Statement provided for PROOF exhibition, Dec 2004.</p>",
+            "constellations_primary": [],
+            "constellations_other": [],
+            "recommendations": [],
+            "title_for_label": "<p>BIT Plane</p>",
+            "creator_credit_for_label": "<p>Bureau of Inverse Technology (B.I.T.)</p>",
+            "headline_credit_for_label": "<p>Cayman Islands, 1999</p>",
+            "description": "<p>The Bitplane video captures an aero-portrait of a richly mythologised territory - the Silicon Valley in California, home to the largest concentration of wealth in California since the Gold Rush. The Bitplane&#8217;s mission takes it deep into the heart of the Valley, to view the source and progress of the Information Age. Due to its tiny dimensions, the Bitplane is able to enter territory inaccessible to other aircraft.</p>\n<p>One of the issues the Bitplane engages with on this reconnaissance flight is the threat of the camera to information space. Cameras are not permitted into the corporate research parks in teh Valley, according to the logic that visitors could steal intellectual property by taking photographs. This reveals an assumption that information is something you can photograph, a thing - not the product of a community or expertise or a social network of shared discourse but something you could steal with a camera.</p>\n<p>From the Artist Statement provided for PROOF exhibition, Dec 2004.</p>",
+            "description_for_label": [
+                "<p>The Bitplane video captures an aero-portrait of a richly mythologised territory - the Silicon Valley in California, home to the largest concentration of wealth in California since the Gold Rush. The Bitplane&#8217;s mission takes it deep into the heart of the Valley, to view the source and progress of the Information Age. Due to its tiny dimensions, the Bitplane is able to enter territory inaccessible to other aircraft.</p>\n<p>One of the issues the Bitplane engages with on this reconnaissance flight is the threat of the camera to information space. Cameras are not permitted into the corporate research parks in teh Valley, according to the logic that visitors could steal intellectual property by taking photographs. This reveals an assumption that information is something you can photograph, a thing - not the product of a community or expertise or a social network of shared discourse but something you could steal with a camera.</p>\n<p>From the Artist Statement provided for PROOF exhibition, Dec 2004.</p>"
+            ],
+            "credit_line_for_label": "",
+            "details": [
+                {
+                    "label": "Duration",
+                    "display_values": [
+                        "00:14:00:00"
+                    ]
+                },
+                {
+                    "label": "Language",
+                    "display_values": [
+                        "English"
+                    ]
+                },
+                {
+                    "label": "Subject categories",
+                    "display_values": [
+                        "Documentary",
+                        "Short films"
+                    ]
+                },
+                {
+                    "label": "Sound/audio",
+                    "display_values": [
+                        "Audio Format/Stereo"
+                    ]
+                },
+                {
+                    "label": "Colour",
+                    "display_values": [
+                        "Black and White"
+                    ]
+                }
+            ],
+            "stats": {
+                "tap_count": 0
+            },
+            "links": [],
+            "creators_primary": [
+                {
+                    "id": 1133536,
+                    "name": "Bureau of Inverse Technology (B.I.T.)",
+                    "creator_id": 6292,
+                    "role": "creator",
+                    "role_id": 968,
+                    "is_primary": true
+                }
+            ],
+            "creators_other": [],
+            "video_links": [],
+            "media_note": "Sorry, we don't have images or video for this item.",
+            "images": [],
+            "videos": [],
+            "holdings": [
+                {
+                    "name": "Digital Betacam; Sub-master",
+                    "identifier": "",
+                    "description": ""
+                },
+                {
+                    "name": "Digital Betacam; Master",
+                    "identifier": "",
+                    "description": ""
+                },
+                {
+                    "name": "DVD [PAL]; Exhibition Copy",
+                    "identifier": "",
+                    "description": ""
+                },
+                {
+                    "name": "VHS [PAL]; Reference - timecoded",
+                    "identifier": "",
+                    "description": ""
+                },
+                {
+                    "name": "VHS [NTSC]; Preview Copy",
+                    "identifier": "",
+                    "description": ""
+                }
+            ],
+            "part_of": null,
+            "parts": [],
+            "part_siblings": [],
+            "group": {
+                "id": 114032,
+                "acmi_id": "10276",
+                "title": "Video Data Bank. New releases. Volume 10 (Winter 2000 - 2001)",
+                "title_annotation": "",
+                "slug": "video-data-bank-new-releases-volume-10-winter-2000-2001",
+                "creator_credit": "",
+                "credit_line": "",
+                "headline_credit": "(2000-2001)",
+                "thumbnail": null,
+                "record_type": "group",
+                "type": "Film",
+                "is_on_display": false,
+                "last_on_display_place": null,
+                "last_on_display_date": null,
+                "is_context_indigenous": false,
+                "material_description": "",
+                "unpublished": true,
+                "first_production_date": null
+            },
+            "group_works": [],
+            "group_siblings": [],
+            "source": {
+                "name": "Vernon",
+                "slug": "vernon"
+            },
+            "source_identifier": "11053",
+            "production_places": [
+                {
+                    "id": 170,
+                    "name": "Cayman Islands",
+                    "slug": "cayman-islands"
+                }
+            ],
+            "production_dates": [
+                {
+                    "date": "1999",
+                    "notes": "",
+                    "to_year": "1999"
+                }
+            ],
+            "labels": [
+                53525
+            ]
+        },
+        {
+            "id": 114028,
+            "acmi_id": "10272",
+            "title": "Video Data Bank. New releases. Volume 8 (Summer 2000)",
+            "title_annotation": "",
+            "slug": "video-data-bank-new-releases-volume-8-summer-2000",
+            "creator_credit": "",
+            "credit_line": "",
+            "headline_credit": "1999-2000",
+            "thumbnail": null,
+            "record_type": "group",
+            "type": "Film",
+            "is_on_display": false,
+            "last_on_display_place": null,
+            "last_on_display_date": null,
+            "is_context_indigenous": false,
+            "material_description": "",
+            "unpublished": true,
+            "first_production_date": null,
+            "brief_description": "",
+            "constellations_primary": [],
+            "constellations_other": [],
+            "recommendations": [],
+            "title_for_label": "<p>Video Data Bank. New releases. Volume 8 (Summer 2000)</p>",
+            "creator_credit_for_label": "",
+            "headline_credit_for_label": "<p>1999-2000</p>",
+            "description": "",
+            "description_for_label": [],
+            "credit_line_for_label": "",
+            "details": [
+                {
+                    "label": "Duration",
+                    "display_values": [
+                        "01:00:50:00"
+                    ]
+                }
+            ],
+            "stats": {
+                "tap_count": 0
+            },
+            "links": [],
+            "creators_primary": [],
+            "creators_other": [],
+            "video_links": [],
+            "media_note": "Sorry, we don't have images or video for this item.",
+            "images": [],
+            "videos": [],
+            "holdings": [],
+            "part_of": null,
+            "parts": [],
+            "part_siblings": [],
+            "group": null,
+            "group_works": [
+                {
+                    "id": 114027,
+                    "acmi_id": "398",
+                    "title": "Beyond the screams: a US Latino hardcore punk documentary",
+                    "title_annotation": "",
+                    "slug": "beyond-the-screams-a-us-latino-hardcore-punk-documentary",
+                    "creator_credit": "Martin Sorrondeguy",
+                    "credit_line": "",
+                    "headline_credit": "United States, 1999",
+                    "thumbnail": null,
+                    "record_type": "work",
+                    "type": "Film",
+                    "is_on_display": false,
+                    "last_on_display_place": null,
+                    "last_on_display_date": null,
+                    "is_context_indigenous": false,
+                    "material_description": "",
+                    "unpublished": false,
+                    "first_production_date": "1999-01-01T11:00:00+11:00"
+                }
+            ],
+            "group_siblings": [],
+            "source": {
+                "name": "Vernon",
+                "slug": "vernon"
+            },
+            "source_identifier": "10272",
+            "production_places": [],
+            "production_dates": [
+                {
+                    "date": "1999-2000",
+                    "notes": "",
+                    "to_year": "1999-2000"
+                }
+            ],
+            "labels": [
+                53520
+            ]
+        },
+        {
+            "id": 114027,
+            "acmi_id": "398",
+            "title": "Beyond the screams: a US Latino hardcore punk documentary",
+            "title_annotation": "",
+            "slug": "beyond-the-screams-a-us-latino-hardcore-punk-documentary",
+            "creator_credit": "Martin Sorrondeguy",
+            "credit_line": "",
+            "headline_credit": "United States, 1999",
+            "thumbnail": null,
+            "record_type": "work",
+            "type": "Film",
+            "is_on_display": false,
+            "last_on_display_place": null,
+            "last_on_display_date": null,
+            "is_context_indigenous": false,
+            "material_description": "",
+            "unpublished": false,
+            "first_production_date": "1999-01-01T11:00:00+11:00",
+            "brief_description": "<p>Martin Sorrondeguy, former vocalist for Los Crudos, is the producer of this powerful and uplifting documentary about the U.S. Latino punk scene and the DIY movement. The video features live performances by bands, including Huasinpungo, Los Crudos, Subsistencia, Sbitch, and many more.<br />\n&#8220;Beyond The Screams is also beyond the stereotypes. Latino punk bands? Writing from here in Gringolandia, I never knew of such a thing. Wasn&#8217;t punk the exclusive property of hardcore white guys from the proletariat? Martin Sorrondeguy, lead singer of the Chicago-based band Los Crudos, takes us on a musical history tour, from the roots in the L.A. renaissance circa 1976 and bands like The Zeros, Plugz, and The Brats, to the latter nineties and the post-nihilism of Youth Against, Bread and Circuits, Kontra Attaque, and others. There&#8217;s a DIY attitude to Beyond The Screams and a galvanizing energy that echoes many of the performances, songs delivered like shrapnel. The bands featured from El Paso, Mexico City, Los Angeles, Chicago, and Berkeley testify to the intent of their music as political resistance. This isn&#8217;t just chunky chords and crackling vocals. Beyond The Screams is the sound of hope mixed with rage.&#8221; - Steve Seid, Pacific Film Archive.</p>",
+            "constellations_primary": [],
+            "constellations_other": [],
+            "recommendations": [],
+            "title_for_label": "<p>Beyond the screams: a US Latino hardcore punk documentary</p>",
+            "creator_credit_for_label": "<p>Martin Sorrondeguy</p>",
+            "headline_credit_for_label": "<p>United States, 1999</p>",
+            "description": "<p>Martin Sorrondeguy, former vocalist for Los Crudos, is the producer of this powerful and uplifting documentary about the U.S. Latino punk scene and the DIY movement. The video features live performances by bands, including Huasinpungo, Los Crudos, Subsistencia, Sbitch, and many more.<br />\n&#8220;Beyond The Screams is also beyond the stereotypes. Latino punk bands? Writing from here in Gringolandia, I never knew of such a thing. Wasn&#8217;t punk the exclusive property of hardcore white guys from the proletariat? Martin Sorrondeguy, lead singer of the Chicago-based band Los Crudos, takes us on a musical history tour, from the roots in the L.A. renaissance circa 1976 and bands like The Zeros, Plugz, and The Brats, to the latter nineties and the post-nihilism of Youth Against, Bread and Circuits, Kontra Attaque, and others. There&#8217;s a DIY attitude to Beyond The Screams and a galvanizing energy that echoes many of the performances, songs delivered like shrapnel. The bands featured from El Paso, Mexico City, Los Angeles, Chicago, and Berkeley testify to the intent of their music as political resistance. This isn&#8217;t just chunky chords and crackling vocals. Beyond The Screams is the sound of hope mixed with rage.&#8221; - Steve Seid, Pacific Film Archive.</p>",
+            "description_for_label": [
+                "<p>Martin Sorrondeguy, former vocalist for Los Crudos, is the producer of this powerful and uplifting documentary about the U.S. Latino punk scene and the DIY movement. The video features live performances by bands, including Huasinpungo, Los Crudos, Subsistencia, Sbitch, and many more.<br />\n&#8220;Beyond The Screams is also beyond the stereotypes. Latino punk bands? Writing from here in Gringolandia, I never knew of such a thing. Wasn&#8217;t punk the exclusive property of hardcore white guys from the proletariat? Martin Sorrondeguy, lead singer of the Chicago-based band Los Crudos, takes us on a musical history tour, from the roots in the L.A. renaissance circa 1976 and bands like The Zeros, Plugz, and The Brats, to the latter nineties and the post-nihilism of Youth Against, Bread and Circuits, Kontra Attaque, and others. There&#8217;s a DIY attitude to Beyond The Screams and a galvanizing energy that echoes many of the performances, songs delivered like shrapnel. The bands featured from El Paso, Mexico City, Los Angeles, Chicago, and Berkeley testify to the intent of their music as political resistance. This isn&#8217;t just chunky chords and crackling vocals. Beyond The Screams is the sound of hope mixed with rage.&#8221; - Steve Seid, Pacific Film Archive.</p>"
+            ],
+            "credit_line_for_label": "",
+            "details": [
+                {
+                    "label": "Duration",
+                    "display_values": [
+                        "00:27:56:00"
+                    ]
+                },
+                {
+                    "label": "Languages",
+                    "display_values": [
+                        "English",
+                        "English",
+                        "Spanish"
+                    ]
+                },
+                {
+                    "label": "Audience classification",
+                    "display_values": [
+                        "unclassified"
+                    ]
+                },
+                {
+                    "label": "Subject categories",
+                    "display_values": [
+                        "Documentary",
+                        "Economics, Philosophy, Politics, Religion & Sociology&nbsp;→ Reality",
+                        "Economics, Philosophy, Politics, Religion & Sociology&nbsp;→ Youth",
+                        "Family, Gender Identity, Relationships & Sexuality&nbsp;→ Youth",
+                        "Food, Health, Lifestyle, Medicine, Psychology & Safety&nbsp;→ Youth",
+                        "Foreign language films"
+                    ]
+                }
+            ],
+            "stats": {
+                "tap_count": 0
+            },
+            "links": [],
+            "creators_primary": [
+                {
+                    "id": 1133535,
+                    "name": "Martin Sorrondeguy",
+                    "creator_id": 6804,
+                    "role": "creator",
+                    "role_id": 968,
+                    "is_primary": true
+                }
+            ],
+            "creators_other": [
+                {
+                    "id": 1133534,
+                    "name": "Martin Sorrondeguy",
+                    "creator_id": 6804,
+                    "role": "film maker",
+                    "role_id": 459,
+                    "is_primary": false
+                }
+            ],
+            "video_links": [],
+            "media_note": "Sorry, we don't have images or video for this item.",
+            "images": [],
+            "videos": [],
+            "holdings": [
+                {
+                    "name": "Digital Betacam [NTSC]; Master",
+                    "identifier": "",
+                    "description": ""
+                },
+                {
+                    "name": "Digital Betacam [PAL]; Sub-master",
+                    "identifier": "",
+                    "description": ""
+                },
+                {
+                    "name": "VHS [PAL]; Reference - timecoded",
+                    "identifier": "",
+                    "description": ""
+                }
+            ],
+            "part_of": null,
+            "parts": [],
+            "part_siblings": [],
+            "group": {
+                "id": 114028,
+                "acmi_id": "10272",
+                "title": "Video Data Bank. New releases. Volume 8 (Summer 2000)",
+                "title_annotation": "",
+                "slug": "video-data-bank-new-releases-volume-8-summer-2000",
+                "creator_credit": "",
+                "credit_line": "",
+                "headline_credit": "1999-2000",
+                "thumbnail": null,
+                "record_type": "group",
+                "type": "Film",
+                "is_on_display": false,
+                "last_on_display_place": null,
+                "last_on_display_date": null,
+                "is_context_indigenous": false,
+                "material_description": "",
+                "unpublished": true,
+                "first_production_date": null
+            },
+            "group_works": [],
+            "group_siblings": [],
+            "source": {
+                "name": "Vernon",
+                "slug": "vernon"
+            },
+            "source_identifier": "398",
+            "production_places": [
+                {
+                    "id": 2,
+                    "name": "United States",
+                    "slug": "united-states"
+                }
+            ],
+            "production_dates": [
+                {
+                    "date": "1999",
+                    "notes": "Both English and Spanish are spoken throughout film.",
+                    "to_year": "1999"
+                }
+            ],
+            "labels": [
+                53519
+            ]
+        },
+        {
+            "id": 107987,
+            "acmi_id": "10242",
+            "title": "Peter Tscherkassky films (Outerspace. L'Arrivee. Liebesfilm)",
+            "title_annotation": "",
+            "slug": "peter-tscherkassky-films-outerspace-larrivee-liebesfilm",
+            "creator_credit": "Peter Tscherkassky",
+            "credit_line": "",
+            "headline_credit": "Austria, 1981-1999",
+            "thumbnail": {
+                "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/B1000565_TheArrival.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=3y7Ga0U0X2SuxsHYAbdJqM%2BZv3Q%3D&Expires=1627009456",
+                "has_video": false
+            },
+            "record_type": "group",
+            "type": "Digital art",
+            "is_on_display": false,
+            "last_on_display_place": null,
+            "last_on_display_date": null,
+            "is_context_indigenous": false,
+            "material_description": "",
+            "unpublished": true,
+            "first_production_date": null,
+            "brief_description": "",
+            "constellations_primary": [],
+            "constellations_other": [],
+            "recommendations": [],
+            "title_for_label": "<p>Peter Tscherkassky films (Outerspace. L&#8217;Arrivee. Liebesfilm)</p>",
+            "creator_credit_for_label": "<p>Peter Tscherkassky</p>",
+            "headline_credit_for_label": "<p>Austria, 1981-1999</p>",
+            "description": "",
+            "description_for_label": [],
+            "credit_line_for_label": "",
+            "details": [
+                {
+                    "label": "Duration",
+                    "display_values": [
+                        "00:20:00:00"
+                    ]
+                },
+                {
+                    "label": "Subject categories",
+                    "display_values": [
+                        "Digital Art",
+                        "Experimental",
+                        "Short films",
+                        "Short films&nbsp;→ Short films - Austria"
+                    ]
+                }
+            ],
+            "stats": {
+                "tap_count": 0
+            },
+            "links": [],
+            "creators_primary": [
+                {
+                    "id": 1133533,
+                    "name": "Peter Tscherkassky",
+                    "creator_id": 6510,
+                    "role": "creator",
+                    "role_id": 968,
+                    "is_primary": true
+                }
+            ],
+            "creators_other": [],
+            "video_links": [],
+            "media_note": null,
+            "images": [
+                {
+                    "id": 13390,
+                    "image_file": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/B1000565_TheArrival.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=kMN5TgpRLxdNrwfGXuUCVl1FZqA%3D&Expires=1627009456",
+                    "image_file_thumbnail": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/B1000565_TheArrival.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=3y7Ga0U0X2SuxsHYAbdJqM%2BZv3Q%3D&Expires=1627009456",
+                    "image_file_xs": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/B1000565_TheArrival.jpg.480x480_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=zWR1onY00bsQrjd71dMmKKvWQc8%3D&Expires=1627009456",
+                    "image_file_s": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/B1000565_TheArrival.jpg.960x960_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=iqzZJm16FnRUqKW7AS%2BRKw3lsuw%3D&Expires=1627009456",
+                    "image_file_m": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/B1000565_TheArrival.jpg.1920x1920_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=N3LerqXgpfqg0tH%2BIibDEmkAa7Q%3D&Expires=1627009456",
+                    "image_file_l": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/B1000565_TheArrival.jpg.3840x3840_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=RjlZ0oyT1A%2BbrT4fptTWKemCaiY%3D&Expires=1627009456",
+                    "caption": "L'Arrivee = The Arrival (Peter Tscherkassky) still",
+                    "credit_line": "",
+                    "alt_text": "",
+                    "width": 438,
+                    "height": 327,
+                    "access_level": "View anywhere"
+                },
+                {
+                    "id": 13391,
+                    "image_file": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/pettsclar002.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=VffCGq11TiCfAoHnTnUtLZKkDRU%3D&Expires=1627009456",
+                    "image_file_thumbnail": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/pettsclar002.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=Z1ZdRHNpp%2BDnDS3aU3%2F6fQlFThQ%3D&Expires=1627009456",
+                    "image_file_xs": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/pettsclar002.jpg.480x480_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=mkl6GKIbF220kcuXYEiztOpOXmQ%3D&Expires=1627009456",
+                    "image_file_s": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/pettsclar002.jpg.960x960_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=0AjlU%2B7MtbAG3jzfd3jeZ%2FEKBVU%3D&Expires=1627009456",
+                    "image_file_m": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/pettsclar002.jpg.1920x1920_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=QMl4xLrtmg1anPbjfX%2FgmZOBevA%3D&Expires=1627009456",
+                    "image_file_l": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/pettsclar002.jpg.3840x3840_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=%2B7%2FxzYCH9%2BCq7gfrSBYj6V3lPAI%3D&Expires=1627009456",
+                    "caption": "Still #2 from L'Arrivee",
+                    "credit_line": "",
+                    "alt_text": "",
+                    "width": 640,
+                    "height": 480,
+                    "access_level": "View anywhere"
+                },
+                {
+                    "id": 13392,
+                    "image_file": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/pettsclar003.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=HFSPxHSD%2Bqqayg0c8mwa9DTcuxU%3D&Expires=1627009456",
+                    "image_file_thumbnail": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/pettsclar003.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=qszf2h%2BGmAP%2B%2BnY9jskHB4mV8t0%3D&Expires=1627009456",
+                    "image_file_xs": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/pettsclar003.jpg.480x480_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=PJtcdnmgyg6GE115V1dmSUU2z40%3D&Expires=1627009456",
+                    "image_file_s": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/pettsclar003.jpg.960x960_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=xI4zzytRHVxAc6eRixjwKmvKXhU%3D&Expires=1627009456",
+                    "image_file_m": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/pettsclar003.jpg.1920x1920_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=0XHf6eyDgptzLMxMGy907zP3St8%3D&Expires=1627009456",
+                    "image_file_l": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/pettsclar003.jpg.3840x3840_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=Lp3nMF71pmE%2BAQ0n2gBJATaprsA%3D&Expires=1627009456",
+                    "caption": "Still #3 from L'Arrivee",
+                    "credit_line": "",
+                    "alt_text": "",
+                    "width": 640,
+                    "height": 480,
+                    "access_level": "View anywhere"
+                }
+            ],
+            "videos": [],
+            "holdings": [
+                {
+                    "name": "DVD [PAL]; Copy",
+                    "identifier": "",
+                    "description": ""
+                },
+                {
+                    "name": "Digital Betacam [PAL]; Master",
+                    "identifier": "",
+                    "description": ""
+                }
+            ],
+            "part_of": null,
+            "parts": [],
+            "part_siblings": [],
+            "group": null,
+            "group_works": [
+                {
+                    "id": 107988,
+                    "acmi_id": "192",
+                    "title": "[Musterrolle: a compilation of short films by Peter Tscherkassky]",
+                    "title_annotation": "",
+                    "slug": "musterrolle-a-compilation-of-short-films-by-peter-tscherkassky",
+                    "creator_credit": "Peter Tscherkassky",
+                    "credit_line": "",
+                    "headline_credit": "Austria, 1981-1999",
+                    "thumbnail": null,
+                    "record_type": "group",
+                    "type": "Film",
+                    "is_on_display": false,
+                    "last_on_display_place": null,
+                    "last_on_display_date": null,
+                    "is_context_indigenous": false,
+                    "material_description": "",
+                    "unpublished": false,
+                    "first_production_date": null
+                },
+                {
+                    "id": 113998,
+                    "acmi_id": "194",
+                    "title": "L'Arrivee = The Arrival",
+                    "title_annotation": "",
+                    "slug": "larrivee-the-arrival",
+                    "creator_credit": "Peter Tscherkassky",
+                    "credit_line": "",
+                    "headline_credit": "Austria, 1997-1998",
+                    "thumbnail": {
+                        "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/B1000565_TheArrival.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=3y7Ga0U0X2SuxsHYAbdJqM%2BZv3Q%3D&Expires=1627009456",
+                        "has_video": false
+                    },
+                    "record_type": "work",
+                    "type": "Digital art",
+                    "is_on_display": false,
+                    "last_on_display_place": "ACMI Viewing Booths",
+                    "last_on_display_date": "2019-04-22",
+                    "is_context_indigenous": false,
+                    "material_description": "Single channel moving image, black and white and audio",
+                    "unpublished": false,
+                    "first_production_date": null
+                },
+                {
+                    "id": 107990,
+                    "acmi_id": "195",
+                    "title": "Liebesfilm = Film of love",
+                    "title_annotation": "",
+                    "slug": "liebesfilm-film-of-love",
+                    "creator_credit": "Peter Tscherkassky",
+                    "credit_line": "",
+                    "headline_credit": "Austria, 1982",
+                    "thumbnail": null,
+                    "record_type": "work",
+                    "type": "Digital art",
+                    "is_on_display": false,
+                    "last_on_display_place": null,
+                    "last_on_display_date": null,
+                    "is_context_indigenous": false,
+                    "material_description": "Single channel moving image, tinted, silent",
+                    "unpublished": false,
+                    "first_production_date": "1982-01-01T11:00:00+11:00"
+                },
+                {
+                    "id": 107986,
+                    "acmi_id": "193",
+                    "title": "Outer space",
+                    "title_annotation": "",
+                    "slug": "outer-space",
+                    "creator_credit": "Peter Tscherkassky",
+                    "credit_line": "",
+                    "headline_credit": "Austria, 1999",
+                    "thumbnail": null,
+                    "record_type": "work",
+                    "type": "Digital art",
+                    "is_on_display": false,
+                    "last_on_display_place": "ACMI Screen Lounge",
+                    "last_on_display_date": "2004-12-31",
+                    "is_context_indigenous": false,
+                    "material_description": "Single channel moving image, black and white and audio",
+                    "unpublished": false,
+                    "first_production_date": "1999-01-01T11:00:00+11:00"
+                }
+            ],
+            "group_siblings": [],
+            "source": {
+                "name": "Vernon",
+                "slug": "vernon"
+            },
+            "source_identifier": "10242",
+            "production_places": [
+                {
+                    "id": 39,
+                    "name": "Austria",
+                    "slug": "austria"
+                }
+            ],
+            "production_dates": [
+                {
+                    "date": "1981-1999",
+                    "notes": "",
+                    "to_year": "1981-1999"
+                }
+            ],
+            "labels": [
+                47480
+            ]
+        }
+    ]
+}

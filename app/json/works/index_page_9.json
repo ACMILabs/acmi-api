@@ -1,0 +1,1418 @@
+{
+    "count": 922,
+    "next": "/works/?page=10",
+    "previous": "/works/?page=8",
+    "results": [
+        {
+            "id": 117920,
+            "acmi_id": "183875",
+            "title": "Spotlights: Jan Chapman",
+            "title_annotation": "",
+            "slug": "spotlights-jan-chapman",
+            "creator_credit": "",
+            "credit_line": "",
+            "headline_credit": "",
+            "thumbnail": {
+                "image_url": "https://xos-prod-media.s3.amazonaws.com/media/snapshot_2317_61s.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=ETlJWpHyL8KEhh37zzvA6SDjV58%3D&Expires=1627009037",
+                "animated_image_url": "",
+                "has_video": true
+            },
+            "record_type": "work",
+            "type": "Film",
+            "is_on_display": true,
+            "last_on_display_place": "ACMI: Gallery 1",
+            "last_on_display_date": "2031-02-16",
+            "is_context_indigenous": false,
+            "material_description": "",
+            "unpublished": false,
+            "first_production_date": null,
+            "brief_description": "<p>Jan Chapman is an Australian film producer, who has produced some of our most beloved and critically acclaimed films, including The Last Days of Chez Nous (1992), The Piano (1993), Love Serenade (1996), Holy Smoke! (1999) and Lantana (2001).</p>",
+            "constellations_primary": [
+                {
+                    "id": 270,
+                    "name": "Jan Chapman",
+                    "description": "From an independent Sydney cinema to the world's stage, Jan Chapman's work has many connections to the Australian film scene and Hollywood."
+                }
+            ],
+            "constellations_other": [],
+            "recommendations": [],
+            "title_for_label": "<p>Jan Chapman</p>",
+            "creator_credit_for_label": "",
+            "headline_credit_for_label": "<p>Producer</p>",
+            "description": "<p>Jan Chapman is an Australian film producer, who has produced some of our most beloved and critically acclaimed films, including <i>The Last Days of Chez Nous</i> (1992), <i>The Piano</i> (1993), <i>Love Serenade</i> (1996), <i>Holy Smoke!</i> (1999) and <i>Lantana</i> (2001).</p>",
+            "description_for_label": [
+                "<p>Jan Chapman is an Australian film producer, who has produced some of our most beloved and critically acclaimed films, including <i>The Last Days of Chez Nous</i> (1992), <i>The Piano</i> (1993), <i>Love Serenade</i> (1996), <i>Holy Smoke!</i> (1999) and <i>Lantana</i> (2001).</p>"
+            ],
+            "credit_line_for_label": "",
+            "details": [
+                {
+                    "label": "Curatorial section",
+                    "display_values": [
+                        "The Story of the Moving Image&nbsp;→ Moving Australia&nbsp;→ 09. Spotlights"
+                    ]
+                }
+            ],
+            "stats": {
+                "tap_count": 2983
+            },
+            "links": [],
+            "creators_primary": [],
+            "creators_other": [],
+            "video_links": [],
+            "media_note": null,
+            "images": [
+                {
+                    "id": 17151,
+                    "image_file": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/B2004328_JanChapman_portrait.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=k1UgiTP2cvRWImVRO7lwzHoD48E%3D&Expires=1627009037",
+                    "image_file_thumbnail": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/B2004328_JanChapman_portrait.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=2LGR0vC9MeXbieZJQ1yfmmvRs2A%3D&Expires=1627009037",
+                    "image_file_xs": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/B2004328_JanChapman_portrait.jpg.480x480_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=hCMfzh1N9JLXqlxNZwTx2xtXV4s%3D&Expires=1627009037",
+                    "image_file_s": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/B2004328_JanChapman_portrait.jpg.960x960_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=kvkjtF7UNNW4AdBfP5QCwjUW78w%3D&Expires=1627009037",
+                    "image_file_m": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/B2004328_JanChapman_portrait.jpg.1920x1920_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=x%2F0ss%2Fkd7r%2BhAi%2BVEDpWB927Vjc%3D&Expires=1627009037",
+                    "image_file_l": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/B2004328_JanChapman_portrait.jpg.3840x3840_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=IIcN1hpkXDR09SQzSaFyx3KTM1I%3D&Expires=1627009037",
+                    "caption": "[Interview with Jan Chapman] (Created by Tess Hall, Australia 2020, Commissioned by ACMI) still",
+                    "credit_line": "",
+                    "alt_text": "",
+                    "width": 2201,
+                    "height": 2999,
+                    "access_level": "View anywhere"
+                },
+                {
+                    "id": 16636,
+                    "image_file": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/Jan_Chapman_portrait.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=boamqsJHcKnulx7Ru5KUAn9KrUg%3D&Expires=1627009037",
+                    "image_file_thumbnail": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/Jan_Chapman_portrait.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=T9J0QU478Mpj53%2BVGdaz7G9IyGk%3D&Expires=1627009037",
+                    "image_file_xs": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/Jan_Chapman_portrait.jpg.480x480_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=BHlzyAT12FKrnnP38vfyL3Dzfp0%3D&Expires=1627009037",
+                    "image_file_s": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/Jan_Chapman_portrait.jpg.960x960_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=FiY%2BUi6LiSa7gyeJa%2FtHEZLQeZQ%3D&Expires=1627009037",
+                    "image_file_m": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/Jan_Chapman_portrait.jpg.1920x1920_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=PNSVEPr56QNr0l0e0I2ytclRPsY%3D&Expires=1627009037",
+                    "image_file_l": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/Jan_Chapman_portrait.jpg.3840x3840_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=UUHu4t79N%2F9jbn%2BfY6OOTNf%2BI2Y%3D&Expires=1627009037",
+                    "caption": "",
+                    "credit_line": "Photo by Tess Hall, 2020.",
+                    "alt_text": "",
+                    "width": 2201,
+                    "height": 2999,
+                    "access_level": "View anywhere"
+                }
+            ],
+            "videos": [
+                {
+                    "id": 2317,
+                    "title": "MA-09-AV01G-Spotlights-Jan-Chapman_H264_25fps_20210201",
+                    "resource": "https://xos-prod-media.s3.amazonaws.com/media/MA-09-AV01G-Spotlights-Jan-Chapman_H264_25fps_20210201.mp4?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=mg%2FHyOEgduDEWZ6aXHwNe9x%2BUyU%3D&Expires=1627009037",
+                    "web_resource": "https://xos-prod-media.s3.amazonaws.com/media/web_MA-09-AV01G-Spotlights-Jan-Chapman_H264_25fps_20210201.mp4?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=1%2FMv8vStGLGSYjP8vafAeX3jzQQ%3D&Expires=1627009037",
+                    "duration_secs": 185.28,
+                    "subtitles": "https://xos-prod-media.s3.amazonaws.com/media/MA-09-AV01G-Spotlights-Jan-Chapman_H264_25fps_20210201.srt?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=CumCV36PK5mtLZhTqjmk4uDDeIc%3D&Expires=1627009037",
+                    "master_metadata": null,
+                    "access_metadata": null,
+                    "web_metadata": {
+                        "width": 1080,
+                        "height": 1520,
+                        "checksum": "a3324d47eeb47119b8cbabe5ce5f13d5",
+                        "mime_type": "video/mp4",
+                        "audio_codec": "aac",
+                        "video_codec": "h264",
+                        "duration_hms": "03:05",
+                        "duration_secs": 185.28,
+                        "audio_bit_rate": 128436,
+                        "audio_channels": 2,
+                        "video_bit_rate": 469460,
+                        "file_size_bytes": 13987505,
+                        "overall_bit_rate": 603950,
+                        "video_frame_rate": 25.0,
+                        "audio_sample_rate": 48000,
+                        "creation_datetime": "2021-02-08 11:55:46.386098",
+                        "audio_max_bit_rate": 128436,
+                        "video_max_bit_rate": null
+                    },
+                    "access_level": "View anywhere",
+                    "snapshot": "https://xos-prod-media.s3.amazonaws.com/media/snapshot_2317_61s.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=ETlJWpHyL8KEhh37zzvA6SDjV58%3D&Expires=1627009037",
+                    "animated_snapshot": ""
+                }
+            ],
+            "holdings": [],
+            "part_of": null,
+            "parts": [],
+            "part_siblings": [],
+            "group": null,
+            "group_works": [],
+            "group_siblings": [],
+            "source": {
+                "name": "Vernon",
+                "slug": "vernon"
+            },
+            "source_identifier": "183875",
+            "production_places": [],
+            "production_dates": [],
+            "labels": [
+                57414
+            ]
+        },
+        {
+            "id": 117919,
+            "acmi_id": "183874",
+            "title": "Spotlights: Nadia Tass",
+            "title_annotation": "",
+            "slug": "spotlights-nadia-tass",
+            "creator_credit": "",
+            "credit_line": "",
+            "headline_credit": "",
+            "thumbnail": {
+                "image_url": "https://xos-prod-media.s3.amazonaws.com/media/snapshot_2319_54s.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=DT00emEprkSQLhIhKKz54bYVVtU%3D&Expires=1627009037",
+                "animated_image_url": "",
+                "has_video": true
+            },
+            "record_type": "work",
+            "type": "Film",
+            "is_on_display": true,
+            "last_on_display_place": "ACMI: Gallery 1",
+            "last_on_display_date": "2031-02-16",
+            "is_context_indigenous": false,
+            "material_description": "",
+            "unpublished": false,
+            "first_production_date": null,
+            "brief_description": "<p>A film director, producer and actress, originally from Florina, Macedonia, northern Greece, who moved to Australia in the 1960s. She began her career as an actress appearing in the television series Prisoner (1979–86) Her first feature film was the now iconic Malcolm (1986).</p>",
+            "constellations_primary": [
+                {
+                    "id": 271,
+                    "name": "Nadia Tass",
+                    "description": "Comedic and cult classics take centre stage in Nadia Tass' career."
+                }
+            ],
+            "constellations_other": [],
+            "recommendations": [],
+            "title_for_label": "<p>Nadia Tass</p>",
+            "creator_credit_for_label": "",
+            "headline_credit_for_label": "<p>Filmmaker</p>",
+            "description": "<p>Nadia Tass is a director, producer and actress, originally from Florina, Macedonia, northern Greece, who moved to Australia in the 1960s. She began her career as an actress appearing in the television series <i>Prisoner</i> (1979–86) Her first feature film was the now iconic <i>Malcolm</i> (1986), which she co-wrote.</p>",
+            "description_for_label": [
+                "<p>Nadia Tass is a director, producer and actress, originally from Florina, Macedonia, northern Greece, who moved to Australia in the 1960s. She began her career as an actress appearing in the television series <i>Prisoner</i> (1979–86) Her first feature film was the now iconic <i>Malcolm</i> (1986), which she co-wrote.</p>"
+            ],
+            "credit_line_for_label": "",
+            "details": [
+                {
+                    "label": "Curatorial section",
+                    "display_values": [
+                        "The Story of the Moving Image&nbsp;→ Moving Australia&nbsp;→ 09. Spotlights"
+                    ]
+                }
+            ],
+            "stats": {
+                "tap_count": 2593
+            },
+            "links": [],
+            "creators_primary": [],
+            "creators_other": [],
+            "video_links": [],
+            "media_note": null,
+            "images": [
+                {
+                    "id": 17150,
+                    "image_file": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/B2004331_NadiaTass_portrait.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=vSDi99BlnHKGfydmhwJYdc6lnZ4%3D&Expires=1627009037",
+                    "image_file_thumbnail": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/B2004331_NadiaTass_portrait.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=2esBxrFdeDu%2F0AjXzIxzC3pnxQE%3D&Expires=1627009037",
+                    "image_file_xs": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/B2004331_NadiaTass_portrait.jpg.480x480_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=F39edx9ZO2DSQRD0D%2BHx5kwox9Q%3D&Expires=1627009037",
+                    "image_file_s": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/B2004331_NadiaTass_portrait.jpg.960x960_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=ytF88Wuta6JhQoytkoRrUpdwxwA%3D&Expires=1627009037",
+                    "image_file_m": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/B2004331_NadiaTass_portrait.jpg.1920x1920_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=S911UTVAVjlTeps0xga%2FQ0Ql88o%3D&Expires=1627009037",
+                    "image_file_l": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/B2004331_NadiaTass_portrait.jpg.3840x3840_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=OXh4aGvpo38Fjhyw7ImzBu7nSCo%3D&Expires=1627009037",
+                    "caption": "[Interview with Nadia Tass] (Created by Tess Hall, Australia 2020, Commissioned by ACMI) still",
+                    "credit_line": "",
+                    "alt_text": "",
+                    "width": 2176,
+                    "height": 3079,
+                    "access_level": "View anywhere"
+                },
+                {
+                    "id": 16635,
+                    "image_file": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/Nadia_Tass_portrait.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=An6kO0obMS7isqGzzbPHfmy0jPo%3D&Expires=1627009037",
+                    "image_file_thumbnail": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/Nadia_Tass_portrait.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=BnyELg9maHOZh8MrW9f8nHx7pCA%3D&Expires=1627009037",
+                    "image_file_xs": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/Nadia_Tass_portrait.jpg.480x480_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=YMXbPEx1PL2bv53EfaJ%2F1xPhJ4c%3D&Expires=1627009037",
+                    "image_file_s": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/Nadia_Tass_portrait.jpg.960x960_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=11fvcQXXrr9xMmyaoeUdMDcJdsg%3D&Expires=1627009037",
+                    "image_file_m": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/Nadia_Tass_portrait.jpg.1920x1920_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=dolx00Imgdo1cAnPwbpM5fe9S4U%3D&Expires=1627009037",
+                    "image_file_l": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/Nadia_Tass_portrait.jpg.3840x3840_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=8Hd4NQ1TCOlOOOcyMXxaehZbpyA%3D&Expires=1627009037",
+                    "caption": "",
+                    "credit_line": "Photo by Tess Hall, 2020",
+                    "alt_text": "A black and white portrait of producer Nadia Tass",
+                    "width": 2176,
+                    "height": 3079,
+                    "access_level": "View anywhere"
+                }
+            ],
+            "videos": [
+                {
+                    "id": 2319,
+                    "title": "MA-09-AV01I-Spotlights-Nadia-Tass_H264_25fps_20210201",
+                    "resource": "https://xos-prod-media.s3.amazonaws.com/media/MA-09-AV01I-Spotlights-Nadia-Tass_H264_25fps_20210201.mp4?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=KzF3unNpbWADzVbV%2B5uHTgj2FLI%3D&Expires=1627009037",
+                    "web_resource": "https://xos-prod-media.s3.amazonaws.com/media/web_MA-09-AV01I-Spotlights-Nadia-Tass_H264_25fps_20210201.mp4?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=k%2BvGmJHvXwsia0n4uE%2BVsCsiFdY%3D&Expires=1627009037",
+                    "duration_secs": 162.582,
+                    "subtitles": "https://xos-prod-media.s3.amazonaws.com/media/MA-09-AV01I-Spotlights-Nadia-Tass_H264_25fps_20210201.srt?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=zlDFT7mo9aTNQCjWgM0zUDoVYhw%3D&Expires=1627009037",
+                    "master_metadata": null,
+                    "access_metadata": null,
+                    "web_metadata": {
+                        "width": 1080,
+                        "height": 1520,
+                        "checksum": "2e7f4bc8c1f79afc37e8de439349e86c",
+                        "mime_type": "video/mp4",
+                        "audio_codec": "aac",
+                        "video_codec": "h264",
+                        "duration_hms": "02:43",
+                        "duration_secs": 162.582,
+                        "audio_bit_rate": 128222,
+                        "audio_channels": 2,
+                        "video_bit_rate": 619567,
+                        "file_size_bytes": 15320768,
+                        "overall_bit_rate": 753872,
+                        "video_frame_rate": 25.0,
+                        "audio_sample_rate": 48000,
+                        "creation_datetime": "2021-02-01 12:31:36.514399",
+                        "audio_max_bit_rate": 128222,
+                        "video_max_bit_rate": null
+                    },
+                    "access_level": "View anywhere",
+                    "snapshot": "https://xos-prod-media.s3.amazonaws.com/media/snapshot_2319_54s.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=DT00emEprkSQLhIhKKz54bYVVtU%3D&Expires=1627009037",
+                    "animated_snapshot": ""
+                }
+            ],
+            "holdings": [],
+            "part_of": null,
+            "parts": [],
+            "part_siblings": [],
+            "group": null,
+            "group_works": [],
+            "group_siblings": [],
+            "source": {
+                "name": "Vernon",
+                "slug": "vernon"
+            },
+            "source_identifier": "183874",
+            "production_places": [],
+            "production_dates": [],
+            "labels": [
+                57413
+            ]
+        },
+        {
+            "id": 117918,
+            "acmi_id": "183873",
+            "title": "Spotlights: Gillian Armstrong",
+            "title_annotation": "",
+            "slug": "spotlights-gillian-armstrong",
+            "creator_credit": "",
+            "credit_line": "",
+            "headline_credit": "",
+            "thumbnail": {
+                "image_url": "https://xos-prod-media.s3.amazonaws.com/media/snapshot_2316_60s.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=ixfDe8JWH6LeqgbpAKFb5R3tcb8%3D&Expires=1627009037",
+                "animated_image_url": "",
+                "has_video": true
+            },
+            "record_type": "work",
+            "type": "Film",
+            "is_on_display": true,
+            "last_on_display_place": "ACMI: Gallery 1",
+            "last_on_display_date": "2031-02-16",
+            "is_context_indigenous": false,
+            "material_description": "",
+            "unpublished": false,
+            "first_production_date": null,
+            "brief_description": "<p>An Australian feature film and documentary director who specialises in period drama. Her films often feature female perspectives and protagonists. Gillian discusses female directors and also mentions My Brilliant Career (1979), which features in the New Wave section of Moving Australia.</p>",
+            "constellations_primary": [
+                {
+                    "id": 279,
+                    "name": "Brilliant careers (Gillian Armstrong)",
+                    "description": "Gillian Armstrong's feature film debut not only helped launch her own acclaimed career, but those of the actors as well."
+                }
+            ],
+            "constellations_other": [],
+            "recommendations": [],
+            "title_for_label": "<p>Gillian Armstrong</p>",
+            "creator_credit_for_label": "",
+            "headline_credit_for_label": "<p>Filmmaker</p>",
+            "description": "<p>An Australian feature film and documentary director who specialises in period drama, Gillian Armstrong&#8217;s work often features female perspectives and protagonists. Gillian discusses female directors as well as her groundbreaking debut <i>My Brilliant Career</i> (1979), which features in Moving Australia.</p>",
+            "description_for_label": [
+                "<p>An Australian feature film and documentary director who specialises in period drama, Gillian Armstrong&#8217;s work often features female perspectives and protagonists. Gillian discusses female directors as well as her groundbreaking debut <i>My Brilliant Career</i> (1979), which features in Moving Australia.</p>"
+            ],
+            "credit_line_for_label": "",
+            "details": [
+                {
+                    "label": "Curatorial section",
+                    "display_values": [
+                        "The Story of the Moving Image&nbsp;→ Moving Australia&nbsp;→ 09. Spotlights"
+                    ]
+                }
+            ],
+            "stats": {
+                "tap_count": 2537
+            },
+            "links": [],
+            "creators_primary": [],
+            "creators_other": [],
+            "video_links": [],
+            "media_note": null,
+            "images": [
+                {
+                    "id": 17149,
+                    "image_file": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/B2004334_GillianArmstrong_portrait.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=SkcGjHQIQlqu%2BO0miCTFhgSRWWw%3D&Expires=1627009037",
+                    "image_file_thumbnail": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/B2004334_GillianArmstrong_portrait.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=YRHQ7J%2FaOU0Kk1D%2FK%2BQAFRYPwg4%3D&Expires=1627009037",
+                    "image_file_xs": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/B2004334_GillianArmstrong_portrait.jpg.480x480_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=hIl%2BhQkCgC0qXHVhy3CbEMgx0EY%3D&Expires=1627009037",
+                    "image_file_s": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/B2004334_GillianArmstrong_portrait.jpg.960x960_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=DWF22awBy35vl%2FgQFaKLTJ%2BrwOk%3D&Expires=1627009037",
+                    "image_file_m": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/B2004334_GillianArmstrong_portrait.jpg.1920x1920_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=zh9R1OtDjGVNqWcOfga5GlMJ8Pk%3D&Expires=1627009037",
+                    "image_file_l": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/B2004334_GillianArmstrong_portrait.jpg.3840x3840_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=G2qjRdHkHrxOFgAblox0xFnC3WU%3D&Expires=1627009037",
+                    "caption": "[Interview with Gillian Armstrong] (Created by Tess Hall, Australia 2020, Commissioned by ACMI) still",
+                    "credit_line": "",
+                    "alt_text": "",
+                    "width": 2205,
+                    "height": 3005,
+                    "access_level": "View anywhere"
+                },
+                {
+                    "id": 16638,
+                    "image_file": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/Gillian_Armstrong_portrait.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=qETXpfZ3M0%2FyPsJ6SEWVotMISCY%3D&Expires=1627009037",
+                    "image_file_thumbnail": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/Gillian_Armstrong_portrait.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=rxlt3KPu8Bc3%2FdnjxvSRm88nGrU%3D&Expires=1627009037",
+                    "image_file_xs": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/Gillian_Armstrong_portrait.jpg.480x480_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=hCS%2Ba6r7%2FxKRGfgwHrB9GU7ASM4%3D&Expires=1627009037",
+                    "image_file_s": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/Gillian_Armstrong_portrait.jpg.960x960_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=1rYBRfGR%2FiBMS5q3Q2ySoTVca4o%3D&Expires=1627009037",
+                    "image_file_m": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/Gillian_Armstrong_portrait.jpg.1920x1920_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=r3aL%2Fcy6zKsAezY0OIeaTtzgr6g%3D&Expires=1627009037",
+                    "image_file_l": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/Gillian_Armstrong_portrait.jpg.3840x3840_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=%2FwA8RUFurrZpbx%2F%2FA0KZD2IuIdM%3D&Expires=1627009037",
+                    "caption": "",
+                    "credit_line": "Photo by Tess Hall, 2020.",
+                    "alt_text": "A black and white portrait of director Gillian Armstrong",
+                    "width": 2205,
+                    "height": 3005,
+                    "access_level": "View anywhere"
+                }
+            ],
+            "videos": [
+                {
+                    "id": 2316,
+                    "title": "MA-09-AV01F-Spotlights-Gillian-Armstrong_H264_25fps_20210201",
+                    "resource": "https://xos-prod-media.s3.amazonaws.com/media/MA-09-AV01F-Spotlights-Gillian-Armstrong_H264_25fps.mp4?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=aILrWI3ObRtIsc3QKMW74cwaKPw%3D&Expires=1627009037",
+                    "web_resource": "https://xos-prod-media.s3.amazonaws.com/media/web_MA-09-AV01F-Spotlights-Gillian-Armstrong_H264_25fps.mp4?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=TtBGLrqOqU6CNQAXX0DoYJYZX8U%3D&Expires=1627009037",
+                    "duration_secs": 182.742,
+                    "subtitles": "https://xos-prod-media.s3.amazonaws.com/media/MA-09-AV01F-Spotlights-Gillian-Armstrong_H264_25fps.srt?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=pT%2F6151x9WIGjlde2wepqavLxu0%3D&Expires=1627009037",
+                    "master_metadata": null,
+                    "access_metadata": null,
+                    "web_metadata": {
+                        "width": 1080,
+                        "height": 1520,
+                        "checksum": "c4b9b1a7d43162767c414d07187415ec",
+                        "mime_type": "video/mp4",
+                        "audio_codec": "aac",
+                        "video_codec": "h264",
+                        "duration_hms": "03:03",
+                        "duration_secs": 182.742,
+                        "audio_bit_rate": 128570,
+                        "audio_channels": 2,
+                        "video_bit_rate": 934644,
+                        "file_size_bytes": 24424639,
+                        "overall_bit_rate": 1069251,
+                        "video_frame_rate": 25.0,
+                        "audio_sample_rate": 48000,
+                        "creation_datetime": "2021-02-04 16:12:57.330630",
+                        "audio_max_bit_rate": 128570,
+                        "video_max_bit_rate": null
+                    },
+                    "access_level": "View anywhere",
+                    "snapshot": "https://xos-prod-media.s3.amazonaws.com/media/snapshot_2316_60s.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=ixfDe8JWH6LeqgbpAKFb5R3tcb8%3D&Expires=1627009037",
+                    "animated_snapshot": ""
+                }
+            ],
+            "holdings": [],
+            "part_of": null,
+            "parts": [],
+            "part_siblings": [],
+            "group": null,
+            "group_works": [],
+            "group_siblings": [],
+            "source": {
+                "name": "Vernon",
+                "slug": "vernon"
+            },
+            "source_identifier": "183873",
+            "production_places": [],
+            "production_dates": [],
+            "labels": [
+                57412
+            ]
+        },
+        {
+            "id": 117914,
+            "acmi_id": "183871",
+            "title": "Spotlights: Tony Ayres",
+            "title_annotation": "",
+            "slug": "spotlights-tony-ayres",
+            "creator_credit": "",
+            "credit_line": "",
+            "headline_credit": "",
+            "thumbnail": {
+                "image_url": "https://xos-prod-media.s3.amazonaws.com/media/snapshot_2321_63s.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=YfXQu1AiBczDurLmcNyT0LQLiKk%3D&Expires=1627009037",
+                "animated_image_url": "",
+                "has_video": true
+            },
+            "record_type": "work",
+            "type": "Film",
+            "is_on_display": true,
+            "last_on_display_place": "ACMI: Gallery 1",
+            "last_on_display_date": "2031-02-16",
+            "is_context_indigenous": false,
+            "material_description": "",
+            "unpublished": false,
+            "first_production_date": null,
+            "brief_description": "<p>A Portuguese Macau-born Australian showrunner, screenwriter, director in television and feature film. He is most notable for his films Walking on Water (2002) and The Home Song Stories (2007) as well his work in television.</p>",
+            "constellations_primary": [
+                {
+                    "id": 275,
+                    "name": "Tony Ayres",
+                    "description": "Charts the acclaimed career of Tony Ayres through his work in film and TV."
+                }
+            ],
+            "constellations_other": [],
+            "recommendations": [],
+            "title_for_label": "<p>Tony Ayres</p>",
+            "creator_credit_for_label": "",
+            "headline_credit_for_label": "<p>Filmmaker</p>",
+            "description": "<p>A Portuguese Macau-born Australian showrunner, screenwriter, film and TV director, Tony Ayres is most notable for his films <i>Walking on Water</i> (2002) and <i>The Home Song Stories</i> (2007), as well his work in TV, including working as the showrunner on <i>The Slap</i> (2011) and teen adventure series <i>Nowhere Boys</i> (2013–18). Tony discusses the influence of pop culture, particularly comics.</p>",
+            "description_for_label": [
+                "<p>A Portuguese Macau-born Australian showrunner, screenwriter, film and TV director, Tony Ayres is most notable for his films <i>Walking on Water</i> (2002) and <i>The Home Song Stories</i> (2007), as well his work in TV, including working as the showrunner on <i>The Slap</i> (2011) and teen adventure series <i>Nowhere Boys</i> (2013–18). Tony discusses the influence of pop culture, particularly comics.</p>"
+            ],
+            "credit_line_for_label": "",
+            "details": [
+                {
+                    "label": "Curatorial section",
+                    "display_values": [
+                        "The Story of the Moving Image&nbsp;→ Moving Australia&nbsp;→ 09. Spotlights"
+                    ]
+                }
+            ],
+            "stats": {
+                "tap_count": 3130
+            },
+            "links": [],
+            "creators_primary": [],
+            "creators_other": [],
+            "video_links": [],
+            "media_note": null,
+            "images": [
+                {
+                    "id": 17148,
+                    "image_file": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/B2004327_TonyAyres_portrait.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=Qy54foOfUbl1a6JFUPSSR7bM9Hw%3D&Expires=1627009037",
+                    "image_file_thumbnail": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/B2004327_TonyAyres_portrait.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=h44KQ3qD11gpsCVvbgTkPU1rydM%3D&Expires=1627009037",
+                    "image_file_xs": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/B2004327_TonyAyres_portrait.jpg.480x480_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=YXkSIeS2CYLKtvs1AZTT4PIiWSA%3D&Expires=1627009037",
+                    "image_file_s": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/B2004327_TonyAyres_portrait.jpg.960x960_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=cuI91abTRIfyc43O3bXwdm3HpK0%3D&Expires=1627009037",
+                    "image_file_m": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/B2004327_TonyAyres_portrait.jpg.1920x1920_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=xsTyqqQgrzHYk3v4q0x5bwVJ6T4%3D&Expires=1627009037",
+                    "image_file_l": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/B2004327_TonyAyres_portrait.jpg.3840x3840_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=9%2Fge5aRgLhsVKfcdbbBq8ZD3Dlo%3D&Expires=1627009037",
+                    "caption": "[Interview with Tony Ayres] (Created by Tess Hall, Australia 2020, Commissioned by ACMI) still",
+                    "credit_line": "",
+                    "alt_text": "",
+                    "width": 2165,
+                    "height": 3063,
+                    "access_level": "View anywhere"
+                },
+                {
+                    "id": 16631,
+                    "image_file": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/Tony_Ayres_portrait.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=7X4ThxPGfI2JwgQxxu6ddn4aYIQ%3D&Expires=1627009037",
+                    "image_file_thumbnail": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/Tony_Ayres_portrait.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=7OefscXQcpttAdccVXkDbBXbQVY%3D&Expires=1627009037",
+                    "image_file_xs": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/Tony_Ayres_portrait.jpg.480x480_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=ZMo0EiCrlU8ZvWMqWsCw%2Bvxv0TI%3D&Expires=1627009037",
+                    "image_file_s": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/Tony_Ayres_portrait.jpg.960x960_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=mu%2F0LYovwI2C0u1bpSHUqpquEoU%3D&Expires=1627009037",
+                    "image_file_m": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/Tony_Ayres_portrait.jpg.1920x1920_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=0hM9vwgyaQfziRRkIxn4HxgKpOo%3D&Expires=1627009037",
+                    "image_file_l": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/Tony_Ayres_portrait.jpg.3840x3840_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=IdiSGwa1UAnPkw9Msx1oJrxKS4Q%3D&Expires=1627009037",
+                    "caption": "",
+                    "credit_line": "Photo by Tess Hall, 2020.",
+                    "alt_text": "A black and white portrait of Tony Ayres",
+                    "width": 2165,
+                    "height": 3063,
+                    "access_level": "View anywhere"
+                }
+            ],
+            "videos": [
+                {
+                    "id": 2321,
+                    "title": "MA-09-AV01K-Spotlights-Tony-Ayres_H264_25fps_20210201",
+                    "resource": "https://xos-prod-media.s3.amazonaws.com/media/MA-09-AV01K-Spotlights-Tony-Ayres_H264_25fps_20210201.mp4?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=5LRufs9GvuxonfF%2B59sAbpPp0Y8%3D&Expires=1627009037",
+                    "web_resource": "https://xos-prod-media.s3.amazonaws.com/media/web_MA-09-AV01K-Spotlights-Tony-Ayres_H264_25fps_20210201.mp4?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=9lqlm2nqM35Gd0%2FV6X1Kosx%2F16k%3D&Expires=1627009037",
+                    "duration_secs": 190.187,
+                    "subtitles": "https://xos-prod-media.s3.amazonaws.com/media/MA-09-AV01K-Spotlights-Tony-Ayres_H264_25fps_20210201.srt?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=N2io5SaJ%2FohATVeOPnIaU%2FElQ8g%3D&Expires=1627009037",
+                    "master_metadata": null,
+                    "access_metadata": null,
+                    "web_metadata": {
+                        "width": 1080,
+                        "height": 1520,
+                        "checksum": "6869fb99b5e2d78f52650fbf849b5b33",
+                        "mime_type": "video/mp4",
+                        "audio_codec": "aac",
+                        "video_codec": "h264",
+                        "duration_hms": "03:10",
+                        "duration_secs": 190.187,
+                        "audio_bit_rate": 127806,
+                        "audio_channels": 2,
+                        "video_bit_rate": 556534,
+                        "file_size_bytes": 16413212,
+                        "overall_bit_rate": 690403,
+                        "video_frame_rate": 25.0,
+                        "audio_sample_rate": 48000,
+                        "creation_datetime": "2021-02-02 15:54:08.966689",
+                        "audio_max_bit_rate": 128000,
+                        "video_max_bit_rate": null
+                    },
+                    "access_level": "View anywhere",
+                    "snapshot": "https://xos-prod-media.s3.amazonaws.com/media/snapshot_2321_63s.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=YfXQu1AiBczDurLmcNyT0LQLiKk%3D&Expires=1627009037",
+                    "animated_snapshot": ""
+                }
+            ],
+            "holdings": [],
+            "part_of": null,
+            "parts": [],
+            "part_siblings": [],
+            "group": null,
+            "group_works": [],
+            "group_siblings": [],
+            "source": {
+                "name": "Vernon",
+                "slug": "vernon"
+            },
+            "source_identifier": "183871",
+            "production_places": [],
+            "production_dates": [],
+            "labels": [
+                57408
+            ]
+        },
+        {
+            "id": 117913,
+            "acmi_id": "183870",
+            "title": "Spotlights: Jill Bilcock",
+            "title_annotation": "",
+            "slug": "spotlights-jill-bilcock",
+            "creator_credit": "",
+            "credit_line": "",
+            "headline_credit": "",
+            "thumbnail": {
+                "image_url": "https://xos-prod-media.s3.amazonaws.com/media/snapshot_2318_67s.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=d7y54p4jZQgBEMRPPia9%2FkbL0L8%3D&Expires=1627009037",
+                "animated_image_url": "",
+                "has_video": true
+            },
+            "record_type": "work",
+            "type": "Film",
+            "is_on_display": true,
+            "last_on_display_place": "ACMI: Gallery 1",
+            "last_on_display_date": "2031-02-16",
+            "is_context_indigenous": false,
+            "material_description": "",
+            "unpublished": false,
+            "first_production_date": null,
+            "brief_description": "<p>An Australian film editor, a member of the Australian Screen Editors guild, as well as the American Cinema Editors society, who has edited films such as Romeo + Juliet (1996), Moulin Rouge! (2001) and Road to Perdition (2002).</p>",
+            "constellations_primary": [
+                {
+                    "id": 269,
+                    "name": "Jill Bilcock",
+                    "description": "An editor’s work often goes unnoticed, but they’re scene-stitching not only brings the director’s vision to life but sometimes steals the show. One of Australia’s greatest editors, Jill Bilcock, has shaped some of the country’s most memorable screen stories."
+                }
+            ],
+            "constellations_other": [
+                {
+                    "id": 266,
+                    "name": "Ana Kokkinos",
+                    "description": "The films and TV works of Ana Kokkinos often explore the experiences of second-generation Australians, queer identities and class. Since beginning her career in the early 90s, those stories have started to appear more frequently on Australian screens."
+                }
+            ],
+            "recommendations": [],
+            "title_for_label": "<p>Jill Bilcock</p>",
+            "creator_credit_for_label": "",
+            "headline_credit_for_label": "<p>Film editor</p>",
+            "description": "<p>Jill Bilcock is an Australian film editor, a member of the Australian Screen Editors guild, as well as the American Cinema Editors society, who has edited films such as <i>Romeo + Juliet</i> (1996), <i>Moulin Rouge!</i> (2001) and <i>Road to Perdition</i> (2002). Jill discusses the editing process and the physicality of rushes, now lost in the digital age.</p>\n<p><b>To find our more about Jill Bilcock, <a href=\"https://cinema3.acmi.net.au/film/jill-bilcock-dancing-the-invisible/\">rent <I>Jill Bilcock: Dancing the Invisible</i> on our streaming platform, Cinema 3</a>.</b></p>",
+            "description_for_label": [
+                "<p>Jill Bilcock is an Australian film editor, a member of the Australian Screen Editors guild, as well as the American Cinema Editors society, who has edited films such as <i>Romeo + Juliet</i> (1996), <i>Moulin Rouge!</i> (2001) and <i>Road to Perdition</i> (2002). Jill discusses the editing process and the physicality of rushes, now lost in the digital age.</p>"
+            ],
+            "credit_line_for_label": "",
+            "details": [
+                {
+                    "label": "Curatorial section",
+                    "display_values": [
+                        "The Story of the Moving Image&nbsp;→ Moving Australia&nbsp;→ 09. Spotlights"
+                    ]
+                }
+            ],
+            "stats": {
+                "tap_count": 3455
+            },
+            "links": [],
+            "creators_primary": [],
+            "creators_other": [],
+            "video_links": [],
+            "media_note": null,
+            "images": [
+                {
+                    "id": 17147,
+                    "image_file": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/B2004326_JillBilcock_portrait.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=yfulepUnGy1p1ti%2BJwJXvJL740Q%3D&Expires=1627009037",
+                    "image_file_thumbnail": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/B2004326_JillBilcock_portrait.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=%2Fhsepm%2FparBnQd%2BrliFY8sHhqEw%3D&Expires=1627009037",
+                    "image_file_xs": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/B2004326_JillBilcock_portrait.jpg.480x480_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=TOxqd9sUYWhqE%2FaxJvDR5eu%2B%2BDk%3D&Expires=1627009037",
+                    "image_file_s": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/B2004326_JillBilcock_portrait.jpg.960x960_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=ZNZHCtqzrjzSqM3%2BK5qfRoLprwc%3D&Expires=1627009037",
+                    "image_file_m": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/B2004326_JillBilcock_portrait.jpg.1920x1920_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=ZD6LrQKl8Z%2FImyHxzYr7cdzKIg8%3D&Expires=1627009037",
+                    "image_file_l": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/B2004326_JillBilcock_portrait.jpg.3840x3840_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=bsK6dVkq7jwzfhsFDDRGMmsLFFU%3D&Expires=1627009037",
+                    "caption": "[Interview with Jill Bilcock] (Created by Tess Hall, Australia 2020, Commissioned by ACMI) still",
+                    "credit_line": "",
+                    "alt_text": "",
+                    "width": 2181,
+                    "height": 2972,
+                    "access_level": "View anywhere"
+                }
+            ],
+            "videos": [
+                {
+                    "id": 2318,
+                    "title": "MA-09-AV01H-Spotlights-Jill-Bilcock_H264_25fps_20210201",
+                    "resource": "https://xos-prod-media.s3.amazonaws.com/media/MA-09-AV01H-Spotlights-Jill-Bilcock_H264_25fps_20210201.mp4?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=lAJ1M%2FluCxa8561AyaL7ZV7rTPY%3D&Expires=1627009037",
+                    "web_resource": "https://xos-prod-media.s3.amazonaws.com/media/web_MA-09-AV01H-Spotlights-Jill-Bilcock_H264_25fps_20210201.mp4?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=Tt84erCRfHr6KeHejdc8jgyx4Kk%3D&Expires=1627009037",
+                    "duration_secs": 202.39,
+                    "subtitles": "https://xos-prod-media.s3.amazonaws.com/media/MA-09-AV01H-Spotlights-Jill-Bilcock_H264_25fps_20210201.srt?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=WEW9KxE7zS4CY%2BLcaYUiKQvlCpQ%3D&Expires=1627009037",
+                    "master_metadata": null,
+                    "access_metadata": null,
+                    "web_metadata": {
+                        "width": 1080,
+                        "height": 1520,
+                        "checksum": "81e3011a2573efda9e25d3d8ab5daa95",
+                        "mime_type": "video/mp4",
+                        "audio_codec": "aac",
+                        "video_codec": "h264",
+                        "duration_hms": "03:22",
+                        "duration_secs": 202.39,
+                        "audio_bit_rate": 128315,
+                        "audio_channels": 2,
+                        "video_bit_rate": 826807,
+                        "file_size_bytes": 24315444,
+                        "overall_bit_rate": 961132,
+                        "video_frame_rate": 25.0,
+                        "audio_sample_rate": 48000,
+                        "creation_datetime": "2021-02-02 15:32:11.328665",
+                        "audio_max_bit_rate": 128315,
+                        "video_max_bit_rate": null
+                    },
+                    "access_level": "View anywhere",
+                    "snapshot": "https://xos-prod-media.s3.amazonaws.com/media/snapshot_2318_67s.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=d7y54p4jZQgBEMRPPia9%2FkbL0L8%3D&Expires=1627009037",
+                    "animated_snapshot": ""
+                }
+            ],
+            "holdings": [],
+            "part_of": null,
+            "parts": [],
+            "part_siblings": [],
+            "group": null,
+            "group_works": [],
+            "group_siblings": [],
+            "source": {
+                "name": "Vernon",
+                "slug": "vernon"
+            },
+            "source_identifier": "183870",
+            "production_places": [],
+            "production_dates": [],
+            "labels": [
+                57407
+            ]
+        },
+        {
+            "id": 117911,
+            "acmi_id": "183867",
+            "title": "Spotlights: Fred Schepisi",
+            "title_annotation": "",
+            "slug": "spotlights-fred-schepisi",
+            "creator_credit": "",
+            "credit_line": "",
+            "headline_credit": "",
+            "thumbnail": {
+                "image_url": "https://xos-prod-media.s3.amazonaws.com/media/snapshot_2314_69s.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=1BZ6OVYXCu0%2FBWQLu10kZKIouTI%3D&Expires=1627009037",
+                "animated_image_url": "",
+                "has_video": true
+            },
+            "record_type": "work",
+            "type": "Film",
+            "is_on_display": true,
+            "last_on_display_place": "ACMI: Gallery 1",
+            "last_on_display_date": "2031-02-16",
+            "is_context_indigenous": false,
+            "material_description": "",
+            "unpublished": false,
+            "first_production_date": null,
+            "brief_description": "<p>An Australian film director, producer and screenwriter. His credits include The Chant of Jimmie Blacksmith (1978), Plenty (1985), Roxanne (1987), Six Degrees of Separation (1993), Mr. Baseball (1992) and Last Orders (2001). Fred talks about his love for the craft and offers a perspective on violence.</p>",
+            "constellations_primary": [
+                {
+                    "id": 272,
+                    "name": "Fred Schepisi",
+                    "description": "Fred Schepisi's diverse body of work connects to acclaimed local productions, westerns and Hollywood favourites."
+                }
+            ],
+            "constellations_other": [],
+            "recommendations": [],
+            "title_for_label": "<p>Fred Schepisi</p>",
+            "creator_credit_for_label": "",
+            "headline_credit_for_label": "<p>Filmmaker</p>",
+            "description": "<p>Fred Schepisi is an Australian director, producer and screenwriter. His credits include <i>The Chant of Jimmie Blacksmith</i> (1978), <i>Plenty</i> (1985), <i>Roxanne</i> (1987), <i>Six Degrees of Separation</i> (1993), <i>Mr. Baseball</i> (1992) and <i>Last Orders</i> (2001). Fred talks about his love for the craft and offers a perspective on violence.</p>",
+            "description_for_label": [
+                "<p>Fred Schepisi is an Australian director, producer and screenwriter. His credits include <i>The Chant of Jimmie Blacksmith</i> (1978), <i>Plenty</i> (1985), <i>Roxanne</i> (1987), <i>Six Degrees of Separation</i> (1993), <i>Mr. Baseball</i> (1992) and <i>Last Orders</i> (2001). Fred talks about his love for the craft and offers a perspective on violence.</p>"
+            ],
+            "credit_line_for_label": "",
+            "details": [
+                {
+                    "label": "Curatorial section",
+                    "display_values": [
+                        "The Story of the Moving Image&nbsp;→ Moving Australia&nbsp;→ 09. Spotlights"
+                    ]
+                }
+            ],
+            "stats": {
+                "tap_count": 3597
+            },
+            "links": [],
+            "creators_primary": [],
+            "creators_other": [],
+            "video_links": [],
+            "media_note": null,
+            "images": [
+                {
+                    "id": 17146,
+                    "image_file": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/B2004329_FredSchepisi_portrait.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=tKGFir3OzKJ2SS8Xwo0l9L%2Bg3cc%3D&Expires=1627009037",
+                    "image_file_thumbnail": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/B2004329_FredSchepisi_portrait.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=Wry2P6xd0fHA6F2Rw%2BTKd1deQ3g%3D&Expires=1627009037",
+                    "image_file_xs": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/B2004329_FredSchepisi_portrait.jpg.480x480_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=FT4ghhocPC242%2F%2BIECytDiFC%2F78%3D&Expires=1627009037",
+                    "image_file_s": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/B2004329_FredSchepisi_portrait.jpg.960x960_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=MDqM67lyzzEdxRIBlBq1lpwMLb0%3D&Expires=1627009037",
+                    "image_file_m": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/B2004329_FredSchepisi_portrait.jpg.1920x1920_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=T6vgoa28C23X9OG7dnUkUaL5dfI%3D&Expires=1627009037",
+                    "image_file_l": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/B2004329_FredSchepisi_portrait.jpg.3840x3840_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=bgUSTPDBStiZGT%2BPb1VINg33Faw%3D&Expires=1627009037",
+                    "caption": "[Interview with Fred Schepisi] (Created by Tess Hall, Australia 2020, Commissioned by ACMI) still",
+                    "credit_line": "",
+                    "alt_text": "",
+                    "width": 2211,
+                    "height": 3013,
+                    "access_level": "View anywhere"
+                },
+                {
+                    "id": 16639,
+                    "image_file": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/Fred_Schepisi.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=gRxTdrrf6Ycx4iyXnv7E3PtTtcQ%3D&Expires=1627009037",
+                    "image_file_thumbnail": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/Fred_Schepisi.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=%2FHAWdM3han%2Brb11M4Rjnt41wsQo%3D&Expires=1627009037",
+                    "image_file_xs": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/Fred_Schepisi.jpg.480x480_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=EmIf7T82TL7oSHLOn8UmgdxJB40%3D&Expires=1627009037",
+                    "image_file_s": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/Fred_Schepisi.jpg.960x960_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=XssfMAlvCUchYNP8Gmw2uRpKc3w%3D&Expires=1627009037",
+                    "image_file_m": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/Fred_Schepisi.jpg.1920x1920_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=LgB0GoyeW84sVLRNJvXF8Lqk%2BW8%3D&Expires=1627009037",
+                    "image_file_l": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/Fred_Schepisi.jpg.3840x3840_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=kdi3dJBUS3FV6jiAL3D7D2%2F7fF0%3D&Expires=1627009037",
+                    "caption": "",
+                    "credit_line": "Photo by Tess Hall, 2020.",
+                    "alt_text": "A black and white portrait of director Fred Schepisi",
+                    "width": 2211,
+                    "height": 3013,
+                    "access_level": "View anywhere"
+                }
+            ],
+            "videos": [
+                {
+                    "id": 2314,
+                    "title": "MA-09-AV01D-Spotlights-Fred-Schepisi_H264_25fps_20210201",
+                    "resource": "https://xos-prod-media.s3.amazonaws.com/media/MA-09-AV01D-Spotlights-Fred-Schepisi_H264_25fps_20210201.mp4?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=06WHn6RDXMsYmJDqMROPZucsfGI%3D&Expires=1627009037",
+                    "web_resource": "https://xos-prod-media.s3.amazonaws.com/media/web_MA-09-AV01D-Spotlights-Fred-Schepisi_H264_25fps_20210201.mp4?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=Pkagr%2F2wm7phQ0vSFY152xTAAYY%3D&Expires=1627009037",
+                    "duration_secs": 209.707,
+                    "subtitles": "https://xos-prod-media.s3.amazonaws.com/media/MA-09-AV01D-Spotlights-Fred-Schepisi_H264_25fps_20210201.srt?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=dkjaslIcqz3d%2BHJH6ZOadaHdHJ8%3D&Expires=1627009037",
+                    "master_metadata": null,
+                    "access_metadata": null,
+                    "web_metadata": {
+                        "width": 1080,
+                        "height": 1520,
+                        "checksum": "9dfe03ea310246157e25f8a83b6d4b5a",
+                        "mime_type": "video/mp4",
+                        "audio_codec": "aac",
+                        "video_codec": "h264",
+                        "duration_hms": "03:30",
+                        "duration_secs": 209.707,
+                        "audio_bit_rate": 128360,
+                        "audio_channels": 2,
+                        "video_bit_rate": 561897,
+                        "file_size_bytes": 18253188,
+                        "overall_bit_rate": 696331,
+                        "video_frame_rate": 25.0,
+                        "audio_sample_rate": 48000,
+                        "creation_datetime": "2021-02-01 12:24:44.567873",
+                        "audio_max_bit_rate": 128360,
+                        "video_max_bit_rate": null
+                    },
+                    "access_level": "View anywhere",
+                    "snapshot": "https://xos-prod-media.s3.amazonaws.com/media/snapshot_2314_69s.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=1BZ6OVYXCu0%2FBWQLu10kZKIouTI%3D&Expires=1627009037",
+                    "animated_snapshot": ""
+                }
+            ],
+            "holdings": [],
+            "part_of": null,
+            "parts": [],
+            "part_siblings": [],
+            "group": null,
+            "group_works": [],
+            "group_siblings": [],
+            "source": {
+                "name": "Vernon",
+                "slug": "vernon"
+            },
+            "source_identifier": "183867",
+            "production_places": [],
+            "production_dates": [],
+            "labels": [
+                57405
+            ]
+        },
+        {
+            "id": 117910,
+            "acmi_id": "183866",
+            "title": "Spotlights: Warwick Thornton",
+            "title_annotation": "",
+            "slug": "spotlights-warwick-thornton",
+            "creator_credit": "",
+            "credit_line": "",
+            "headline_credit": "",
+            "thumbnail": {
+                "image_url": "https://xos-prod-media.s3.amazonaws.com/media/snapshot_2322_74s.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=cgoPFPH6qaccC3V2lxL5AIeZnDM%3D&Expires=1627009037",
+                "animated_image_url": "",
+                "has_video": true
+            },
+            "record_type": "work",
+            "type": "Film",
+            "is_on_display": true,
+            "last_on_display_place": "ACMI: Gallery 1",
+            "last_on_display_date": "2031-02-16",
+            "is_context_indigenous": false,
+            "material_description": "",
+            "unpublished": false,
+            "first_production_date": null,
+            "brief_description": "<p>A Kaytetye man born and raised in Alice Springs. A film director, screenwriter and cinematographer, his debut feature film Samson and Delilah won the Caméra d&#8217;Or at the 2009 Cannes Film Festival. He also won the Asia Pacific Screen Award for Best Film in 2017 for Sweet Country.</p>",
+            "constellations_primary": [
+                {
+                    "id": 268,
+                    "name": "Warwick Thornton",
+                    "description": "Brimming with Shakespearean undertones and pathos, Kaytetye filmmaker Warwick Thornton's debut feature <i>Samson and Delilah</i> is both a universal tale and one intrinsically tied to the experience of First Peoples in Central Australia."
+                }
+            ],
+            "constellations_other": [],
+            "recommendations": [],
+            "title_for_label": "<p>Warwick Thornton</p>",
+            "creator_credit_for_label": "",
+            "headline_credit_for_label": "<p>Filmmaker</p>",
+            "description": "<p>Warwick Thornton is a Kaytetye man born and raised in Alice Springs. A film director, screenwriter and cinematographer, his debut feature film <i>Samson and Delilah</i> won the Caméra d&#8217;Or at the 2009 Cannes Film Festival. He also won the Asia Pacific Screen Award for Best Film in 2017 for <i>Sweet Country</i>.</p>",
+            "description_for_label": [
+                "<p>Warwick Thornton is a Kaytetye man born and raised in Alice Springs. A film director, screenwriter and cinematographer, his debut feature film <i>Samson and Delilah</i> won the Caméra d&#8217;Or at the 2009 Cannes Film Festival. He also won the Asia Pacific Screen Award for Best Film in 2017 for <i>Sweet Country</i>.</p>"
+            ],
+            "credit_line_for_label": "",
+            "details": [
+                {
+                    "label": "Curatorial section",
+                    "display_values": [
+                        "The Story of the Moving Image&nbsp;→ Moving Australia&nbsp;→ 09. Spotlights"
+                    ]
+                }
+            ],
+            "stats": {
+                "tap_count": 3896
+            },
+            "links": [],
+            "creators_primary": [],
+            "creators_other": [],
+            "video_links": [],
+            "media_note": null,
+            "images": [
+                {
+                    "id": 17145,
+                    "image_file": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/B2004325_WarwickThronton_portrait.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=FvFgwsIW7tPDZoJJwqlZQPN8hk8%3D&Expires=1627009037",
+                    "image_file_thumbnail": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/B2004325_WarwickThronton_portrait.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=VFfLf6Ubc%2FOHqS5pkTptggZpLnw%3D&Expires=1627009037",
+                    "image_file_xs": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/B2004325_WarwickThronton_portrait.jpg.480x480_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=oZ5uI%2B3EuaOs%2BmRsWYDZ4uIkVto%3D&Expires=1627009037",
+                    "image_file_s": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/B2004325_WarwickThronton_portrait.jpg.960x960_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=EabWMaQNGZlnbAqgL5ui1VuFf6U%3D&Expires=1627009037",
+                    "image_file_m": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/B2004325_WarwickThronton_portrait.jpg.1920x1920_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=9QlYFvJGzCekAs%2BhqyKgEBvqAmE%3D&Expires=1627009037",
+                    "image_file_l": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/B2004325_WarwickThronton_portrait.jpg.3840x3840_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=SDJYonPz6wg0bznBubTSpNa9ItU%3D&Expires=1627009037",
+                    "caption": "[Interview with Warwick Thornton] (Created by Tess Hall, Australia 2020, Commissioned by ACMI) still",
+                    "credit_line": "",
+                    "alt_text": "",
+                    "width": 2152,
+                    "height": 3046,
+                    "access_level": "View anywhere"
+                },
+                {
+                    "id": 16629,
+                    "image_file": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/Warwick_Thronton_portrait.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=4HD1HIpMHfFpM3qFLLOjWdvLVwM%3D&Expires=1627009037",
+                    "image_file_thumbnail": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/Warwick_Thronton_portrait.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=iSFZoyiaIGm%2BFuDOvevr7HyJYQU%3D&Expires=1627009037",
+                    "image_file_xs": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/Warwick_Thronton_portrait.jpg.480x480_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=A344XKHKnYCNJym0Tztihq65D9Y%3D&Expires=1627009037",
+                    "image_file_s": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/Warwick_Thronton_portrait.jpg.960x960_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=Wrep4cnxdnuyTKLbgMI1CdA1V6Y%3D&Expires=1627009037",
+                    "image_file_m": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/Warwick_Thronton_portrait.jpg.1920x1920_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=3wuglBsXQPftPQjAEh1i8FomuRo%3D&Expires=1627009037",
+                    "image_file_l": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/Warwick_Thronton_portrait.jpg.3840x3840_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=KvXYtr1pGLb9kgcNNpt8MCCBQSQ%3D&Expires=1627009037",
+                    "caption": "Warwick Thornton",
+                    "credit_line": "Photo by Tess Hall, 2020.",
+                    "alt_text": "A black and white picture of the filmmaker Warwick Thornton",
+                    "width": 2152,
+                    "height": 3046,
+                    "access_level": "View anywhere"
+                }
+            ],
+            "videos": [
+                {
+                    "id": 2322,
+                    "title": "MA-09-AV01L-Spotlights-Warwick-Thornton_H264_25fps_20210201",
+                    "resource": "https://xos-prod-media.s3.amazonaws.com/media/MA-09-AV01L-Spotlights-Warwick-Thornton_H264_25fps_20210201.mp4?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=QGGKKXNCQSry0GlDKgB%2FcscC9gk%3D&Expires=1627009037",
+                    "web_resource": "https://xos-prod-media.s3.amazonaws.com/media/web_MA-09-AV01L-Spotlights-Warwick-Thornton_H264_25fps_20210201.mp4?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=nrZMuS0uMYJxNJHY5UUBK71rvac%3D&Expires=1627009037",
+                    "duration_secs": 222.678,
+                    "subtitles": "https://xos-prod-media.s3.amazonaws.com/media/MA-09-AV01L-Spotlights-Warwick-Thornton_H264_25fps_20210201.srt?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=Wq5PDtkUVFOx9ErS%2FFjWXGYJnE0%3D&Expires=1627009037",
+                    "master_metadata": null,
+                    "access_metadata": null,
+                    "web_metadata": {
+                        "width": 1080,
+                        "height": 1520,
+                        "checksum": "b4da577851798e8fb79c76dbe20cd0fa",
+                        "mime_type": "video/mp4",
+                        "audio_codec": "aac",
+                        "video_codec": "h264",
+                        "duration_hms": "03:43",
+                        "duration_secs": 222.678,
+                        "audio_bit_rate": 342599,
+                        "audio_channels": 6,
+                        "video_bit_rate": 892778,
+                        "file_size_bytes": 34553227,
+                        "overall_bit_rate": 1241370,
+                        "video_frame_rate": 25.0,
+                        "audio_sample_rate": 48000,
+                        "creation_datetime": "2021-02-01 12:40:19.643931",
+                        "audio_max_bit_rate": 342599,
+                        "video_max_bit_rate": null
+                    },
+                    "access_level": "View anywhere",
+                    "snapshot": "https://xos-prod-media.s3.amazonaws.com/media/snapshot_2322_74s.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=cgoPFPH6qaccC3V2lxL5AIeZnDM%3D&Expires=1627009037",
+                    "animated_snapshot": ""
+                }
+            ],
+            "holdings": [],
+            "part_of": null,
+            "parts": [],
+            "part_siblings": [],
+            "group": null,
+            "group_works": [],
+            "group_siblings": [],
+            "source": {
+                "name": "Vernon",
+                "slug": "vernon"
+            },
+            "source_identifier": "183866",
+            "production_places": [],
+            "production_dates": [],
+            "labels": [
+                57404
+            ]
+        },
+        {
+            "id": 117909,
+            "acmi_id": "183864",
+            "title": "Spotlights: Rachel Perkins",
+            "title_annotation": "",
+            "slug": "spotlights-rachel-perkins",
+            "creator_credit": "",
+            "credit_line": "",
+            "headline_credit": "",
+            "thumbnail": {
+                "image_url": "https://xos-prod-media.s3.amazonaws.com/media/Rachel_Perkins_portrait.jpg.1920x1920_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=fStGM89SrPWvwH%2Fg3mKpzMWt3Nc%3D&Expires=1627009037",
+                "animated_image_url": "",
+                "has_video": true
+            },
+            "record_type": "work",
+            "type": "Film",
+            "is_on_display": true,
+            "last_on_display_place": "ACMI: Gallery 1",
+            "last_on_display_date": "2031-02-16",
+            "is_context_indigenous": false,
+            "material_description": "",
+            "unpublished": false,
+            "first_production_date": null,
+            "brief_description": "<p>An Australian film and television director, producer, and screenwriter. She is known for her films Radiance (1998), One Night the Moon (2001), Bran Nue Dae (2009) and Jasper Jones (2017). Rachel discusses the merits of film and television from an Indigenous perspective, particularly in relation to audience.</p>",
+            "constellations_primary": [
+                {
+                    "id": 222,
+                    "name": "Rachel Perkins",
+                    "description": "The moving image has helped tell First Peoples stories through documentary, films and TV shows, with acclaimed director, producer and screenwriter Rachel Perkins contributing significantly to these stories."
+                }
+            ],
+            "constellations_other": [],
+            "recommendations": [],
+            "title_for_label": "<p>Rachel Perkins</p>",
+            "creator_credit_for_label": "",
+            "headline_credit_for_label": "<p>Filmmaker</p>",
+            "description": "<p>Rachel Perkins is an Australian film and TV director, producer and screenwriter. She&#8217;s known for her films <i>Radiance</i> (1998), <i>One Night the Moon</i> (2001), <i>Bran Nue Dae</i> (2009) and <i>Jasper Jones</i> (2017), and is co-director of landmark TV series <I>First Australians</i>. Rachel discusses the merits of film and TV from an Indigenous perspective, particularly in relation to the audience.</p>",
+            "description_for_label": [
+                "<p>Rachel Perkins is an Australian film and TV director, producer and screenwriter. She&#8217;s known for her films <i>Radiance</i> (1998), <i>One Night the Moon</i> (2001), <i>Bran Nue Dae</i> (2009) and <i>Jasper Jones</i> (2017), and is co-director of landmark TV series <I>First Australians</i>. Rachel discusses the merits of film and TV from an Indigenous perspective, particularly in relation to the audience.</p>"
+            ],
+            "credit_line_for_label": "",
+            "details": [
+                {
+                    "label": "Curatorial section",
+                    "display_values": [
+                        "The Story of the Moving Image&nbsp;→ Moving Australia&nbsp;→ 09. Spotlights"
+                    ]
+                }
+            ],
+            "stats": {
+                "tap_count": 2943
+            },
+            "links": [],
+            "creators_primary": [],
+            "creators_other": [],
+            "video_links": [],
+            "media_note": null,
+            "images": [
+                {
+                    "id": 17144,
+                    "image_file": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/B2004324_RachelPerkins_portrait.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=VRmPzUP%2BljfBAEas5jBRlwWet00%3D&Expires=1627009037",
+                    "image_file_thumbnail": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/B2004324_RachelPerkins_portrait.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=1Q1VjpJM%2FwMEiful%2BaC8oXCyLL0%3D&Expires=1627009037",
+                    "image_file_xs": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/B2004324_RachelPerkins_portrait.jpg.480x480_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=6lUV8DVpZ72mbkbghX96Ja48wWc%3D&Expires=1627009037",
+                    "image_file_s": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/B2004324_RachelPerkins_portrait.jpg.960x960_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=U6J6Hb2abgcE0q22EQ2vpFsAX7w%3D&Expires=1627009037",
+                    "image_file_m": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/B2004324_RachelPerkins_portrait.jpg.1920x1920_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=Jvs%2BKGDrqHOmzxjnOEvL0Uw90%2FU%3D&Expires=1627009037",
+                    "image_file_l": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/B2004324_RachelPerkins_portrait.jpg.3840x3840_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=m1Ikh%2B54s1rUyXnMNrZ11dLGbGQ%3D&Expires=1627009037",
+                    "caption": "[Interview with Rachel Perkins] (Created by Tess Hall, Australia 2020, Commissioned by ACMI) still",
+                    "credit_line": "",
+                    "alt_text": "",
+                    "width": 2170,
+                    "height": 3071,
+                    "access_level": "View anywhere"
+                },
+                {
+                    "id": 16634,
+                    "image_file": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/Rachel_Perkins_portrait.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=L6bxmrh8WngIGBv2lBoP1E9uRyY%3D&Expires=1627009037",
+                    "image_file_thumbnail": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/Rachel_Perkins_portrait.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=N6QLSgJ2QANkIphFwxGDnJ%2BOQbg%3D&Expires=1627009037",
+                    "image_file_xs": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/Rachel_Perkins_portrait.jpg.480x480_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=NwlgV72vZ8nF6Sbcn8RlzbRlC08%3D&Expires=1627009037",
+                    "image_file_s": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/Rachel_Perkins_portrait.jpg.960x960_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=ojyKdCjs7D2TecreCVbybEBPYCg%3D&Expires=1627009037",
+                    "image_file_m": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/Rachel_Perkins_portrait.jpg.1920x1920_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=wGLbhDi1waIdeUrGrk57SmllyXw%3D&Expires=1627009037",
+                    "image_file_l": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/Rachel_Perkins_portrait.jpg.3840x3840_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=UHGboH%2FH0djc5XsoPa9sgrvMo6s%3D&Expires=1627009037",
+                    "caption": "",
+                    "credit_line": "Photo by Tess Hall, 2020",
+                    "alt_text": "A black and white portrait of Rachel Perkins",
+                    "width": 2170,
+                    "height": 3071,
+                    "access_level": "View anywhere"
+                }
+            ],
+            "videos": [
+                {
+                    "id": 2320,
+                    "title": "MA-09-AV01J-Spotlights-Rachel-Perkins_H264_25fps_20210201",
+                    "resource": "https://xos-prod-media.s3.amazonaws.com/media/MA-09-AV01J-Spotlights-Rachel-Perkins_H264_25fps_20210201.mp4?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=PqCWVM6WI7Hh2s5u9EI4ocGAE%2Fg%3D&Expires=1627009037",
+                    "web_resource": "https://xos-prod-media.s3.amazonaws.com/media/web_MA-09-AV01J-Spotlights-Rachel-Perkins_H264_25fps_20210201.mp4?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=gcdLru9upOOF2hycYqBZQr55gag%3D&Expires=1627009037",
+                    "duration_secs": 170.07,
+                    "subtitles": "https://xos-prod-media.s3.amazonaws.com/media/MA-09-AV01J-Spotlights-Rachel-Perkins_H264_25fps_20210201.srt?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=T1fJhPlnQOL4q81zPoquyMJjsB4%3D&Expires=1627009037",
+                    "master_metadata": null,
+                    "access_metadata": null,
+                    "web_metadata": {
+                        "width": 1080,
+                        "height": 1520,
+                        "checksum": "05fadb3c7c2d99e5e0f77d68167a4900",
+                        "mime_type": "video/mp4",
+                        "audio_codec": "aac",
+                        "video_codec": "h264",
+                        "duration_hms": "02:50",
+                        "duration_secs": 170.07,
+                        "audio_bit_rate": 128492,
+                        "audio_channels": 2,
+                        "video_bit_rate": 1013356,
+                        "file_size_bytes": 24401320,
+                        "overall_bit_rate": 1147824,
+                        "video_frame_rate": 25.0,
+                        "audio_sample_rate": 48000,
+                        "creation_datetime": "2021-03-22 13:07:38.619458",
+                        "audio_max_bit_rate": 128492,
+                        "video_max_bit_rate": null
+                    },
+                    "access_level": "View anywhere",
+                    "snapshot": "https://xos-prod-media.s3.amazonaws.com/media/Rachel_Perkins_portrait.jpg.1920x1920_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=fStGM89SrPWvwH%2Fg3mKpzMWt3Nc%3D&Expires=1627009037",
+                    "animated_snapshot": ""
+                }
+            ],
+            "holdings": [],
+            "part_of": null,
+            "parts": [],
+            "part_siblings": [],
+            "group": null,
+            "group_works": [],
+            "group_siblings": [],
+            "source": {
+                "name": "Vernon",
+                "slug": "vernon"
+            },
+            "source_identifier": "183864",
+            "production_places": [],
+            "production_dates": [],
+            "labels": [
+                57403
+            ]
+        },
+        {
+            "id": 117908,
+            "acmi_id": "183863",
+            "title": "Spotlights: Bob Connolly",
+            "title_annotation": "",
+            "slug": "spotlights-bob-connolly",
+            "creator_credit": "",
+            "credit_line": "",
+            "headline_credit": "",
+            "thumbnail": {
+                "image_url": "https://xos-prod-media.s3.amazonaws.com/media/snapshot_2312_63s.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=4aRMcnzLxrG0BW4amKCzLTFLR3I%3D&Expires=1627009037",
+                "animated_image_url": "",
+                "has_video": true
+            },
+            "record_type": "work",
+            "type": "Film",
+            "is_on_display": true,
+            "last_on_display_place": "ACMI: Gallery 1",
+            "last_on_display_date": "2031-02-16",
+            "is_context_indigenous": false,
+            "material_description": "",
+            "unpublished": false,
+            "first_production_date": null,
+            "brief_description": "<p>An Australian film director, cinematographer and author. He is best known for his documentaries produced over the past 30 years, including The Highlands Trilogy (1983) and Rats in the Ranks (1996). More recent films include Facing the Music (2001) and Mrs Carey&#8217;s Concert (2011).</p>",
+            "constellations_primary": [
+                {
+                    "id": 273,
+                    "name": "Bob Connolly",
+                    "description": "Australian audiences just can't seem to get enough of exploring local governments, bureaucracy and politics, whether that's through documentaries or biting social satire."
+                }
+            ],
+            "constellations_other": [],
+            "recommendations": [],
+            "title_for_label": "<p>Bob Connolly</p>",
+            "creator_credit_for_label": "",
+            "headline_credit_for_label": "<p>Filmmaker</p>",
+            "description": "<p>Bob Connolly is an Australian director, cinematographer and author. He&#8217;s best known for his documentaries, produced over the past 30 years, including <i>The Highlands Trilogy</i> (1983) and <i>Rats in the Ranks</i> (1996). More recent films include <i>Facing the Music</i> (2001) and <i>Mrs Carey&#8217;s Concert</i> (2011). Bob discusses the art of documentary making and acknowledging unconscious bias.</p>",
+            "description_for_label": [
+                "<p>Bob Connolly is an Australian director, cinematographer and author. He&#8217;s best known for his documentaries, produced over the past 30 years, including <i>The Highlands Trilogy</i> (1983) and <i>Rats in the Ranks</i> (1996). More recent films include <i>Facing the Music</i> (2001) and <i>Mrs Carey&#8217;s Concert</i> (2011). Bob discusses the art of documentary making and acknowledging unconscious bias.</p>"
+            ],
+            "credit_line_for_label": "",
+            "details": [
+                {
+                    "label": "Curatorial section",
+                    "display_values": [
+                        "The Story of the Moving Image&nbsp;→ Moving Australia&nbsp;→ 09. Spotlights"
+                    ]
+                }
+            ],
+            "stats": {
+                "tap_count": 2945
+            },
+            "links": [],
+            "creators_primary": [],
+            "creators_other": [],
+            "video_links": [],
+            "media_note": null,
+            "images": [
+                {
+                    "id": 17143,
+                    "image_file": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/B2004332_BobConnolly_portrait.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=VDv62AL%2Fbvib4HtAkzyM45nqqts%3D&Expires=1627009037",
+                    "image_file_thumbnail": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/B2004332_BobConnolly_portrait.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=4lBsqjFjoIoW3xHO61xx3z5HT48%3D&Expires=1627009037",
+                    "image_file_xs": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/B2004332_BobConnolly_portrait.jpg.480x480_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=e%2Fq74KgaJxMhlr5tuHkSv%2FeMZpU%3D&Expires=1627009037",
+                    "image_file_s": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/B2004332_BobConnolly_portrait.jpg.960x960_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=FbnQHtV5w7QjCzbbeBo3QfiAnqg%3D&Expires=1627009037",
+                    "image_file_m": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/B2004332_BobConnolly_portrait.jpg.1920x1920_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=WEMX4Abrz7JT4x5%2BTdyXA3bNhlk%3D&Expires=1627009037",
+                    "image_file_l": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/B2004332_BobConnolly_portrait.jpg.3840x3840_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=YfwYjDl39ssxfTMrk9TVDckVlJ4%3D&Expires=1627009037",
+                    "caption": "[Interview with Bob Connolly] (Created by Tess Hall, Australia 2020, Commissioned by ACMI) still",
+                    "credit_line": "",
+                    "alt_text": "",
+                    "width": 2193,
+                    "height": 2987,
+                    "access_level": "View anywhere"
+                },
+                {
+                    "id": 16640,
+                    "image_file": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/Bob_Connolly.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=hE563SmexfLrf%2FWCreCHMzq%2BnkE%3D&Expires=1627009037",
+                    "image_file_thumbnail": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/Bob_Connolly.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=gZBfhL7oj%2FBM6d%2F3Vsr8eMEScOE%3D&Expires=1627009037",
+                    "image_file_xs": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/Bob_Connolly.jpg.480x480_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=%2Byun44PYlc355gywj8BpaeNG4og%3D&Expires=1627009037",
+                    "image_file_s": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/Bob_Connolly.jpg.960x960_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=pv20lcuBzZ3OeHDraF7iPcYaSP8%3D&Expires=1627009037",
+                    "image_file_m": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/Bob_Connolly.jpg.1920x1920_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=hZzzu%2BLLuv06cPcFML15qAMfCEs%3D&Expires=1627009037",
+                    "image_file_l": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/Bob_Connolly.jpg.3840x3840_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=V%2BNQPqgy95LLWIprhbnseCwPHBQ%3D&Expires=1627009037",
+                    "caption": "",
+                    "credit_line": "Photo by Tess Hall, 2020.",
+                    "alt_text": "A black and white portrait of filmmaker bob Connolly",
+                    "width": 2193,
+                    "height": 2987,
+                    "access_level": "View anywhere"
+                }
+            ],
+            "videos": [
+                {
+                    "id": 2312,
+                    "title": "MA-09-AV01B-Spotlights-Bob-Connolly_H264_25fps_20210201",
+                    "resource": "https://xos-prod-media.s3.amazonaws.com/media/MA-09-AV01B-Spotlights-Bob-Connolly_H264_25fps_20210201.mp4?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=HsOTVcyOXYP16Pn1H%2Fi9dMewb40%3D&Expires=1627009037",
+                    "web_resource": "https://xos-prod-media.s3.amazonaws.com/media/web_MA-09-AV01B-Spotlights-Bob-Connolly_H264_25fps_20210201.mp4?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=RhopE%2FB3p8UIXCy9GvLL8A94EB4%3D&Expires=1627009037",
+                    "duration_secs": 191.232,
+                    "subtitles": "https://xos-prod-media.s3.amazonaws.com/media/MA-09-AV01B-Spotlights-Bob-Connolly_H264_25fps_20210201.srt?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=uhhEENLs62InUQ6rsyOUo5%2BaFJw%3D&Expires=1627009037",
+                    "master_metadata": null,
+                    "access_metadata": null,
+                    "web_metadata": {
+                        "width": 1080,
+                        "height": 1520,
+                        "checksum": "a68775ac27233602c05de28a98521e5f",
+                        "mime_type": "video/mp4",
+                        "audio_codec": "aac",
+                        "video_codec": "h264",
+                        "duration_hms": "03:11",
+                        "duration_secs": 191.232,
+                        "audio_bit_rate": 128464,
+                        "audio_channels": 2,
+                        "video_bit_rate": 577664,
+                        "file_size_bytes": 17024132,
+                        "overall_bit_rate": 712187,
+                        "video_frame_rate": 25.0,
+                        "audio_sample_rate": 48000,
+                        "creation_datetime": "2021-02-01 16:28:56.984103",
+                        "audio_max_bit_rate": 128464,
+                        "video_max_bit_rate": null
+                    },
+                    "access_level": "View anywhere",
+                    "snapshot": "https://xos-prod-media.s3.amazonaws.com/media/snapshot_2312_63s.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=4aRMcnzLxrG0BW4amKCzLTFLR3I%3D&Expires=1627009037",
+                    "animated_snapshot": ""
+                }
+            ],
+            "holdings": [],
+            "part_of": null,
+            "parts": [],
+            "part_siblings": [],
+            "group": null,
+            "group_works": [],
+            "group_siblings": [],
+            "source": {
+                "name": "Vernon",
+                "slug": "vernon"
+            },
+            "source_identifier": "183863",
+            "production_places": [],
+            "production_dates": [],
+            "labels": [
+                57402
+            ]
+        },
+        {
+            "id": 117907,
+            "acmi_id": "183856",
+            "title": "Spotlights: George Miller",
+            "title_annotation": "",
+            "slug": "spotlights-george-miller",
+            "creator_credit": "",
+            "credit_line": "",
+            "headline_credit": "",
+            "thumbnail": {
+                "image_url": "https://xos-prod-media.s3.amazonaws.com/media/snapshot_2315_57s.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=RGOZ7rYG8edWlWsKtEMiZ5Qi%2BNU%3D&Expires=1627009037",
+                "animated_image_url": "",
+                "has_video": true
+            },
+            "record_type": "work",
+            "type": "Film",
+            "is_on_display": true,
+            "last_on_display_place": "ACMI: Gallery 1",
+            "last_on_display_date": "2031-02-16",
+            "is_context_indigenous": false,
+            "material_description": "",
+            "unpublished": false,
+            "first_production_date": null,
+            "brief_description": "<p>An Australian filmmaker and former physician. He is best known for his Mad Max franchise, whose second instalment, Mad Max 2 (1981), and fourth, Fury Road (2015), have been hailed as among the greatest action films of all time.</p>",
+            "constellations_primary": [
+                {
+                    "id": 274,
+                    "name": "George Miller",
+                    "description": "For a guy who started his career as a physician, George Miller sure is a diverse filmmaker."
+                }
+            ],
+            "constellations_other": [],
+            "recommendations": [],
+            "title_for_label": "<p>George Miller</p>",
+            "creator_credit_for_label": "",
+            "headline_credit_for_label": "<p>Filmmaker</p>",
+            "description": "<p>An Australian filmmaker and former physician, George Miller is best known for his <i>Mad Max</i> franchise, whose second instalment, <i>Mad Max 2</i> (1981), and fourth, <i>Fury Road</i> (2015), have been hailed as among the greatest action films of all time. George discusses storytelling and how it helps us make our way through the world.</p>",
+            "description_for_label": [
+                "<p>An Australian filmmaker and former physician, George Miller is best known for his <i>Mad Max</i> franchise, whose second instalment, <i>Mad Max 2</i> (1981), and fourth, <i>Fury Road</i> (2015), have been hailed as among the greatest action films of all time. George discusses storytelling and how it helps us make our way through the world.</p>"
+            ],
+            "credit_line_for_label": "",
+            "details": [
+                {
+                    "label": "Curatorial section",
+                    "display_values": [
+                        "The Story of the Moving Image&nbsp;→ Moving Australia&nbsp;→ 09. Spotlights"
+                    ]
+                }
+            ],
+            "stats": {
+                "tap_count": 3329
+            },
+            "links": [],
+            "creators_primary": [],
+            "creators_other": [],
+            "video_links": [],
+            "media_note": null,
+            "images": [
+                {
+                    "id": 17142,
+                    "image_file": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/B2004333_GeorgeMiller_portrait.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=fsA1MeXN1L3ouBn7uga0PcXOt6A%3D&Expires=1627009037",
+                    "image_file_thumbnail": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/B2004333_GeorgeMiller_portrait.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=d6Eh5bbqgY4eybsP8rJ02kQQqAA%3D&Expires=1627009037",
+                    "image_file_xs": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/B2004333_GeorgeMiller_portrait.jpg.480x480_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=9NRe67jz0%2B%2Bk12MSDUlV681oLcs%3D&Expires=1627009037",
+                    "image_file_s": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/B2004333_GeorgeMiller_portrait.jpg.960x960_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=IjZey5LHiJa3wIMucNU7y06pMHA%3D&Expires=1627009037",
+                    "image_file_m": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/B2004333_GeorgeMiller_portrait.jpg.1920x1920_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=q2qELD3Yk1GSJFOWKV9%2BTKZAcow%3D&Expires=1627009037",
+                    "image_file_l": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/B2004333_GeorgeMiller_portrait.jpg.3840x3840_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=yPpZ9D0jfSMfX9suywuiEcNv8Is%3D&Expires=1627009037",
+                    "caption": "[Interview with George Miller] (Created by Tess Hall, Australia 2020, Commissioned by ACMI) still",
+                    "credit_line": "",
+                    "alt_text": "",
+                    "width": 2220,
+                    "height": 3025,
+                    "access_level": "View anywhere"
+                },
+                {
+                    "id": 16633,
+                    "image_file": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/Spotlights_PDF-12.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=TWBdfOdKBmAqad5HSrnGjxD%2FexA%3D&Expires=1627009037",
+                    "image_file_thumbnail": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/Spotlights_PDF-12.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=Jlr17VLVStO4c%2BywNh08%2BxM9Rwk%3D&Expires=1627009037",
+                    "image_file_xs": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/Spotlights_PDF-12.jpg.480x480_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=3B1vB6RyO%2Fy4el%2Btu5WUfOQFC90%3D&Expires=1627009037",
+                    "image_file_s": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/Spotlights_PDF-12.jpg.960x960_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=oene9tLpCtubapzPGiCj5qpCiVw%3D&Expires=1627009037",
+                    "image_file_m": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/Spotlights_PDF-12.jpg.1920x1920_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=Qr1G7cxX34SWTDVvVFkCFKZ%2FfXE%3D&Expires=1627009037",
+                    "image_file_l": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/Spotlights_PDF-12.jpg.3840x3840_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=SHxPzfMuSLDkkFfEZu58Qi4jCTA%3D&Expires=1627009037",
+                    "caption": "",
+                    "credit_line": "Photo by Tess Hall, 2020.",
+                    "alt_text": "A black and white image of George Miller",
+                    "width": 2220,
+                    "height": 3025,
+                    "access_level": "View anywhere"
+                }
+            ],
+            "videos": [
+                {
+                    "id": 2315,
+                    "title": "MA-09-AV01E-Spotlights-George-Miller_H264_25fps_20210201",
+                    "resource": "https://xos-prod-media.s3.amazonaws.com/media/MA-09-AV01E-Spotlights-George-Miller_H264_25fps_20210201.mp4?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=uErDlC7eGtkazyPrOdG8sOXqaPU%3D&Expires=1627009037",
+                    "web_resource": "https://xos-prod-media.s3.amazonaws.com/media/web_MA-09-AV01E-Spotlights-George-Miller_H264_25fps_20210201.mp4?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=eRQHsIL1jVFyzHD0JxA1JiKky0c%3D&Expires=1627009037",
+                    "duration_secs": 173.952,
+                    "subtitles": "https://xos-prod-media.s3.amazonaws.com/media/MA-09-AV01E-Spotlights-George-Miller_H264_25fps_20210201.srt?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=ah95OdNqKUYVgcqsl0P9FacS30U%3D&Expires=1627009037",
+                    "master_metadata": null,
+                    "access_metadata": null,
+                    "web_metadata": {
+                        "width": 1080,
+                        "height": 1520,
+                        "checksum": "c429c3779c382bc8ba159592e494f141",
+                        "mime_type": "video/mp4",
+                        "audio_codec": "aac",
+                        "video_codec": "h264",
+                        "duration_hms": "02:54",
+                        "duration_secs": 173.952,
+                        "audio_bit_rate": 128140,
+                        "audio_channels": 2,
+                        "video_bit_rate": 785768,
+                        "file_size_bytes": 20002431,
+                        "overall_bit_rate": 919905,
+                        "video_frame_rate": 25.0,
+                        "audio_sample_rate": 48000,
+                        "creation_datetime": "2021-02-05 12:09:12.998688",
+                        "audio_max_bit_rate": 128140,
+                        "video_max_bit_rate": null
+                    },
+                    "access_level": "View anywhere",
+                    "snapshot": "https://xos-prod-media.s3.amazonaws.com/media/snapshot_2315_57s.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=RGOZ7rYG8edWlWsKtEMiZ5Qi%2BNU%3D&Expires=1627009037",
+                    "animated_snapshot": ""
+                }
+            ],
+            "holdings": [],
+            "part_of": null,
+            "parts": [],
+            "part_siblings": [],
+            "group": null,
+            "group_works": [],
+            "group_siblings": [],
+            "source": {
+                "name": "Vernon",
+                "slug": "vernon"
+            },
+            "source_identifier": "183856",
+            "production_places": [],
+            "production_dates": [],
+            "labels": [
+                57401
+            ]
+        }
+    ]
+}

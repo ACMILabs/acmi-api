@@ -1,0 +1,99 @@
+{
+    "id": 114496,
+    "acmi_id": "181256",
+    "title": "Sawyer's View Master Viewing Reel - Hansel and Gretel",
+    "title_annotation": "",
+    "slug": "sawyers-view-master-viewing-reel-hansel-and-gretal",
+    "creator_credit": "",
+    "credit_line": "",
+    "headline_credit": "",
+    "thumbnail": {
+        "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/P179116_SawyersViewMasterViewingReels.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=VZPNZJNY01VHc1XC1h2PnIEqXUo%3D&Expires=1627009064",
+        "has_video": false
+    },
+    "record_type": "work",
+    "type": "Object",
+    "is_on_display": false,
+    "last_on_display_place": null,
+    "last_on_display_date": null,
+    "is_context_indigenous": false,
+    "material_description": "View Master viewing reel in paper envelope",
+    "unpublished": false,
+    "first_production_date": null,
+    "brief_description": "<p>View Master Viewing Reels from Sawyer&#8217;s, Inc.<br />\nFT-2 Hansel and gretel.<br />\nOriginally Part 7 of P179116, individual record made for location tracking/ XOS purposes while on display (BUT it is on display in MI-08-C01 with the other reels from P179116? fmm 1/4/21)</p>",
+    "constellations_primary": [],
+    "constellations_other": [],
+    "recommendations": [],
+    "title_for_label": "<p>Sawyer&#8217;s View Master Viewing Reel - Hansel and Gretel</p>",
+    "creator_credit_for_label": "",
+    "headline_credit_for_label": "",
+    "description": "<p>View Master Viewing Reels from Sawyer&#8217;s, Inc.<br />\nFT-2 Hansel and gretel.<br />\nOriginally Part 7 of P179116, individual record made for location tracking/ XOS purposes while on display (BUT it is on display in MI-08-C01 with the other reels from P179116? fmm 1/4/21)</p>",
+    "description_for_label": [
+        "<p>View Master Viewing Reels from Sawyer&#8217;s, Inc.<br />\nFT-2 Hansel and gretel.<br />\nOriginally Part 7 of P179116, individual record made for location tracking/ XOS purposes while on display (BUT it is on display in MI-08-C01 with the other reels from P179116? fmm 1/4/21)</p>"
+    ],
+    "credit_line_for_label": "",
+    "details": [
+        {
+            "label": "Curatorial section",
+            "display_values": [
+                "The Story of the Moving Image&nbsp;→ Moving Pictures&nbsp;→ 08. Immersive Innovations&nbsp;→ MI-08-C01"
+            ]
+        },
+        {
+            "label": "Measurements",
+            "display_values": [
+                "90mm",
+                "94 x 92mm"
+            ]
+        },
+        {
+            "label": "Materials",
+            "display_values": [
+                "View Master viewing reel in paper envelope"
+            ]
+        }
+    ],
+    "stats": {
+        "tap_count": 0
+    },
+    "links": [],
+    "creators_primary": [],
+    "creators_other": [],
+    "video_links": [],
+    "media_note": null,
+    "images": [
+        {
+            "id": 12876,
+            "image_file": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/P179116_SawyersViewMasterViewingReels.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=PEayLbHCeSkkce4jfFaxd437rJg%3D&Expires=1627009064",
+            "image_file_thumbnail": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/P179116_SawyersViewMasterViewingReels.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=VZPNZJNY01VHc1XC1h2PnIEqXUo%3D&Expires=1627009064",
+            "image_file_xs": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/P179116_SawyersViewMasterViewingReels.jpg.480x480_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=S2YS7WSFWqVHaNzD7sj0T7wDupo%3D&Expires=1627009064",
+            "image_file_s": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/P179116_SawyersViewMasterViewingReels.jpg.960x960_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=crtq%2BjvheA0YkrBrV94SFZIEDXc%3D&Expires=1627009064",
+            "image_file_m": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/P179116_SawyersViewMasterViewingReels.jpg.1920x1920_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=u8IlgvNjdJqa3nZDpun0vJrrQfs%3D&Expires=1627009064",
+            "image_file_l": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/P179116_SawyersViewMasterViewingReels.jpg.3840x3840_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=MWsQTs1SgtnOQAfIm%2Bh5ARR1vkU%3D&Expires=1627009064",
+            "caption": "P179116_SawyersViewMasterViewingReels",
+            "credit_line": "Photograph by Egmont Contreras, ACMI",
+            "alt_text": "",
+            "width": 4800,
+            "height": 3200,
+            "access_level": "View anywhere"
+        }
+    ],
+    "videos": [],
+    "holdings": [],
+    "part_of": null,
+    "parts": [],
+    "part_siblings": [],
+    "group": null,
+    "group_works": [],
+    "group_siblings": [],
+    "source": {
+        "name": "Vernon",
+        "slug": "vernon"
+    },
+    "source_identifier": "181256",
+    "production_places": [],
+    "production_dates": [],
+    "labels": [
+        53988
+    ]
+}

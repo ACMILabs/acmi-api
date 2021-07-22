@@ -1,0 +1,2920 @@
+{
+    "count": 922,
+    "next": "/works/?page=21",
+    "previous": "/works/?page=19",
+    "results": [
+        {
+            "id": 99810,
+            "acmi_id": "180308",
+            "title": "Sequential photographs\nMotion Studies: Horse",
+            "title_annotation": "Facsimile",
+            "slug": "graphic-motion-studies-horse-image-1887",
+            "creator_credit": "Eadweard Muybridge",
+            "credit_line": "<p>Courtesy Heritage Image Partnership Ltd / World History Archive / Welcome Collection / Alamy</p>",
+            "headline_credit": "United Kingdom, 1887",
+            "thumbnail": {
+                "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/P180308_G016_resaved_2.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=NnorS2NmIyGub5D1cisdVuRYXQg%3D&Expires=1627009116",
+                "has_video": false
+            },
+            "record_type": "work",
+            "type": "Object",
+            "is_on_display": true,
+            "last_on_display_place": "ACMI: Gallery 1",
+            "last_on_display_date": "2031-02-16",
+            "is_context_indigenous": false,
+            "material_description": "Digital print",
+            "unpublished": false,
+            "first_production_date": "1887-01-01T09:40:00+09:40",
+            "brief_description": "<p>British American photographer Eadweard Muybridge laid the foundation of the moving image. Using multiple cameras triggered by trip wires, he captured a galloping horse in sequential images, reproduced them in a zoetrope and created the world’s first moving photographs.</p>",
+            "constellations_primary": [],
+            "constellations_other": [],
+            "recommendations": [],
+            "title_for_label": "<p>Sequential photographs</p>",
+            "creator_credit_for_label": "<p>Eadweard Muybridge</p>",
+            "headline_credit_for_label": "<p>United Kingdom, 1887</p>",
+            "description": "",
+            "description_for_label": [],
+            "credit_line_for_label": "<p>Courtesy Heritage Image Partnership Ltd / World History Archive / Welcome Collection / Alamy</p>",
+            "details": [
+                {
+                    "label": "Curatorial sections",
+                    "display_values": [
+                        "The Story of the Moving Image&nbsp;→ Moving Pictures&nbsp;→ 03. Time and Movement",
+                        "The Story of the Moving Image&nbsp;→ Moving Pictures&nbsp;→ 03. Time and Movement&nbsp;→ MI-03-Splitting Time"
+                    ]
+                },
+                {
+                    "label": "Measurements",
+                    "display_values": [
+                        "380 x 500mm"
+                    ]
+                },
+                {
+                    "label": "Materials",
+                    "display_values": [
+                        "Digital print"
+                    ]
+                }
+            ],
+            "stats": {
+                "tap_count": 0
+            },
+            "links": [],
+            "creators_primary": [
+                {
+                    "id": 1134500,
+                    "name": "Eadweard Muybridge",
+                    "creator_id": 72028,
+                    "role": "creator",
+                    "role_id": 968,
+                    "is_primary": true
+                }
+            ],
+            "creators_other": [],
+            "video_links": [],
+            "media_note": null,
+            "images": [
+                {
+                    "id": 12377,
+                    "image_file": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/P180308_G016_resaved_2.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=nB0wBcVFomuXrQUuPm%2Fpq1pPnck%3D&Expires=1627009116",
+                    "image_file_thumbnail": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/P180308_G016_resaved_2.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=NnorS2NmIyGub5D1cisdVuRYXQg%3D&Expires=1627009116",
+                    "image_file_xs": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/P180308_G016_resaved_2.jpg.480x480_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=wfyNysyUErwpVD3pllvkK7jdZBc%3D&Expires=1627009116",
+                    "image_file_s": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/P180308_G016_resaved_2.jpg.960x960_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=zfNAgh58WynOyAO1P02%2FZoaxmME%3D&Expires=1627009116",
+                    "image_file_m": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/P180308_G016_resaved_2.jpg.1920x1920_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=SiIrbJor%2BnLaQ4cbN3kFDNvPe04%3D&Expires=1627009116",
+                    "image_file_l": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/P180308_G016_resaved_2.jpg.3840x3840_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=OZy7516r8eWkzURyxPR6%2F0qg03Q%3D&Expires=1627009116",
+                    "caption": "",
+                    "credit_line": "",
+                    "alt_text": "",
+                    "width": 8000,
+                    "height": 6340,
+                    "access_level": "View anywhere"
+                }
+            ],
+            "videos": [],
+            "holdings": [],
+            "part_of": null,
+            "parts": [],
+            "part_siblings": [],
+            "group": {
+                "id": 112094,
+                "acmi_id": "183537",
+                "title": "Sequential photographs",
+                "title_annotation": "",
+                "slug": "sequential-photographs",
+                "creator_credit": "Eadweard Muybridge",
+                "credit_line": "<p>Courtesy Heritage Image Partnership Ltd / World History Archive / Welcome Collection / Alamy</p>",
+                "headline_credit": "1887",
+                "thumbnail": {
+                    "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/P180308_G016_resaved_2.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=NnorS2NmIyGub5D1cisdVuRYXQg%3D&Expires=1627009116",
+                    "has_video": false
+                },
+                "record_type": "group",
+                "type": "Film",
+                "is_on_display": true,
+                "last_on_display_place": "ACMI: Gallery 1",
+                "last_on_display_date": "2031-02-16",
+                "is_context_indigenous": false,
+                "material_description": "",
+                "unpublished": false,
+                "first_production_date": "1887-01-01T09:40:00+09:40"
+            },
+            "group_works": [],
+            "group_siblings": [
+                {
+                    "id": 99812,
+                    "acmi_id": "180310",
+                    "title": "Sequential photographs\nMotion Studies: A man standing on his hands from a lying down position",
+                    "title_annotation": "Facsimile",
+                    "slug": "graphic-a-man-standing-on-his-hands-from-a-lying-down-position",
+                    "creator_credit": "Eadweard Muybridge",
+                    "credit_line": "<p>Courtesy Heritage Image Partnership Ltd / World History Archive / Welcome Collection / Alamy</p>",
+                    "headline_credit": "United Kingdom, 1887",
+                    "thumbnail": null,
+                    "record_type": "work",
+                    "type": "Object",
+                    "is_on_display": true,
+                    "last_on_display_place": "ACMI: Gallery 1",
+                    "last_on_display_date": "2031-02-16",
+                    "is_context_indigenous": false,
+                    "material_description": "Digital print",
+                    "unpublished": false,
+                    "first_production_date": "1887-01-01T09:40:00+09:40"
+                },
+                {
+                    "id": 99814,
+                    "acmi_id": "180312",
+                    "title": "Sequential photographs\nMotion Studies: Man with Hat",
+                    "title_annotation": "Facsimile",
+                    "slug": "graphic-motion-studies-man-with-hat-1987",
+                    "creator_credit": "Eadweard Muybridge",
+                    "credit_line": "<p>Courtesy Heritage Image Partnership Ltd / World History Archive / Welcome Collection / Alamy</p>",
+                    "headline_credit": "United Kingdom, 1887",
+                    "thumbnail": {
+                        "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/P180312_G020.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=vp%2B1GjFK9Nxu9hx9lL%2FGcHu%2BAM4%3D&Expires=1627009116",
+                        "has_video": false
+                    },
+                    "record_type": "work",
+                    "type": "Object",
+                    "is_on_display": true,
+                    "last_on_display_place": "ACMI: Gallery 1",
+                    "last_on_display_date": "2031-02-16",
+                    "is_context_indigenous": false,
+                    "material_description": "Digital print",
+                    "unpublished": false,
+                    "first_production_date": "1887-01-01T09:40:00+09:40"
+                },
+                {
+                    "id": 99815,
+                    "acmi_id": "180313",
+                    "title": "Sequential photographs\nMotion Studies: Straight High Jump",
+                    "title_annotation": "Facsimile",
+                    "slug": "graphic-woman-jumping-running-straight-high-jump",
+                    "creator_credit": "Eadweard Muybridge",
+                    "credit_line": "<p>Courtesy Heritage Image Partnership Ltd / World History Archive / Welcome Collection / Alamy</p>",
+                    "headline_credit": "United Kingdom, 1887",
+                    "thumbnail": {
+                        "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/P180313_G021.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=DldTDpj8DmMnfY5Imj7%2F%2FzEcPKo%3D&Expires=1627009116",
+                        "has_video": false
+                    },
+                    "record_type": "work",
+                    "type": "Object",
+                    "is_on_display": true,
+                    "last_on_display_place": "ACMI: Gallery 1",
+                    "last_on_display_date": "2031-02-16",
+                    "is_context_indigenous": false,
+                    "material_description": "Digital print",
+                    "unpublished": false,
+                    "first_production_date": "1887-01-01T09:40:00+09:40"
+                }
+            ],
+            "source": {
+                "name": "Vernon",
+                "slug": "vernon"
+            },
+            "source_identifier": "180308",
+            "production_places": [
+                {
+                    "id": 10,
+                    "name": "United Kingdom",
+                    "slug": "united-kingdom"
+                }
+            ],
+            "production_dates": [
+                {
+                    "date": "1887",
+                    "notes": "",
+                    "to_year": "1887"
+                }
+            ],
+            "labels": [
+                39305
+            ]
+        },
+        {
+            "id": 99809,
+            "acmi_id": "180307",
+            "title": "Gelatin silver print\nMoving Skip Rope",
+            "title_annotation": "Facsimile",
+            "slug": "graphic-moving-skip-rope-1952",
+            "creator_credit": "Harold Edgerton",
+            "credit_line": "<p>Courtesy ©2010 MIT Museum</p>",
+            "headline_credit": "United States, c. 1938-1957",
+            "thumbnail": {
+                "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/P180307_G015.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=9XPrhFjK2c9tlQ3%2Bpb3PtAR4CuA%3D&Expires=1627009116",
+                "has_video": false
+            },
+            "record_type": "work",
+            "type": "Object",
+            "is_on_display": true,
+            "last_on_display_place": "ACMI: Gallery 1",
+            "last_on_display_date": "2031-02-16",
+            "is_context_indigenous": false,
+            "material_description": "Digital print",
+            "unpublished": false,
+            "first_production_date": null,
+            "brief_description": "<p>American professor Harold ‘Doc’ Edgerton’s pioneering development of the electric stroboscopic flash suspended movement, stopping skipping ropes mid-swing – and even speeding bullets.</p>",
+            "constellations_primary": [],
+            "constellations_other": [],
+            "recommendations": [],
+            "title_for_label": "<p>Gelatin silver prints</p>",
+            "creator_credit_for_label": "<p>Harold Edgerton</p>",
+            "headline_credit_for_label": "<p>United States, c. 1938-1957</p>",
+            "description": "",
+            "description_for_label": [],
+            "credit_line_for_label": "<p>Courtesy ©2010 MIT Museum</p>",
+            "details": [
+                {
+                    "label": "Curatorial sections",
+                    "display_values": [
+                        "The Story of the Moving Image&nbsp;→ Moving Pictures&nbsp;→ 03. Time and Movement",
+                        "The Story of the Moving Image&nbsp;→ Moving Pictures&nbsp;→ 03. Time and Movement&nbsp;→ MI-03-Splitting Time"
+                    ]
+                },
+                {
+                    "label": "Measurements",
+                    "display_values": [
+                        "520 x 750mm"
+                    ]
+                },
+                {
+                    "label": "Materials",
+                    "display_values": [
+                        "Digital print"
+                    ]
+                }
+            ],
+            "stats": {
+                "tap_count": 0
+            },
+            "links": [],
+            "creators_primary": [
+                {
+                    "id": 1134499,
+                    "name": "Harold Edgerton",
+                    "creator_id": 71431,
+                    "role": "creator",
+                    "role_id": 968,
+                    "is_primary": true
+                }
+            ],
+            "creators_other": [],
+            "video_links": [],
+            "media_note": null,
+            "images": [
+                {
+                    "id": 12376,
+                    "image_file": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/P180307_G015.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=wffXVKwzFUD%2BdnppXJk102uDUQs%3D&Expires=1627009116",
+                    "image_file_thumbnail": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/P180307_G015.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=9XPrhFjK2c9tlQ3%2Bpb3PtAR4CuA%3D&Expires=1627009116",
+                    "image_file_xs": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/P180307_G015.jpg.480x480_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=PYehw2E0t9XTRURXJgf5KqxkFV0%3D&Expires=1627009116",
+                    "image_file_s": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/P180307_G015.jpg.960x960_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=0dP%2BbqQiJ423lOqPnJjKq8auGiA%3D&Expires=1627009116",
+                    "image_file_m": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/P180307_G015.jpg.1920x1920_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=loGRH3Z7UJ3YgTCk9peooj20kaQ%3D&Expires=1627009116",
+                    "image_file_l": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/P180307_G015.jpg.3840x3840_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=pzv43gxqadMqPVIpkx98dt50xYk%3D&Expires=1627009116",
+                    "caption": "",
+                    "credit_line": "",
+                    "alt_text": "",
+                    "width": 6000,
+                    "height": 4114,
+                    "access_level": "View anywhere"
+                }
+            ],
+            "videos": [],
+            "holdings": [],
+            "part_of": null,
+            "parts": [],
+            "part_siblings": [],
+            "group": {
+                "id": 112093,
+                "acmi_id": "183536",
+                "title": "Gelatin silver prints",
+                "title_annotation": "",
+                "slug": "gelatin-silver-prints",
+                "creator_credit": "Harold Edgerton",
+                "credit_line": "<p>Courtesy ©2010 MIT Museum</p>",
+                "headline_credit": "1938-1957",
+                "thumbnail": {
+                    "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/P180309_G017.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=NTfHIicugqnA4diKl84Sre4EJKI%3D&Expires=1627009116",
+                    "has_video": false
+                },
+                "record_type": "group",
+                "type": "Film",
+                "is_on_display": true,
+                "last_on_display_place": "ACMI: Gallery 1",
+                "last_on_display_date": "2031-02-16",
+                "is_context_indigenous": false,
+                "material_description": "",
+                "unpublished": false,
+                "first_production_date": null
+            },
+            "group_works": [],
+            "group_siblings": [
+                {
+                    "id": 99811,
+                    "acmi_id": "180309",
+                    "title": "Gelatin silver print\nBob running",
+                    "title_annotation": "Facsimile",
+                    "slug": "graphic-bob-running-1939",
+                    "creator_credit": "Harold Edgerton",
+                    "credit_line": "<p>Courtesy ©2010 MIT Museum</p>",
+                    "headline_credit": "United States, c. 1938-1957",
+                    "thumbnail": {
+                        "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/P180309_G017.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=NTfHIicugqnA4diKl84Sre4EJKI%3D&Expires=1627009116",
+                        "has_video": false
+                    },
+                    "record_type": "work",
+                    "type": "Object",
+                    "is_on_display": true,
+                    "last_on_display_place": "ACMI: Gallery 1",
+                    "last_on_display_date": "2031-02-16",
+                    "is_context_indigenous": false,
+                    "material_description": "Digital print",
+                    "unpublished": false,
+                    "first_production_date": null
+                },
+                {
+                    "id": 99813,
+                    "acmi_id": "180311",
+                    "title": "Gelatin silver print\nGolfer",
+                    "title_annotation": "Facsimile",
+                    "slug": "graphic-golfer",
+                    "creator_credit": "Harold Edgerton",
+                    "credit_line": "<p>Courtesy ©2010 MIT Museum</p>",
+                    "headline_credit": "United States, c. 1938-1957",
+                    "thumbnail": {
+                        "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/P180311_G019.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=QTEiWpMLK1ldUCy%2FPRZ3JRlInj0%3D&Expires=1627009116",
+                        "has_video": false
+                    },
+                    "record_type": "work",
+                    "type": "Object",
+                    "is_on_display": true,
+                    "last_on_display_place": "ACMI: Gallery 1",
+                    "last_on_display_date": "2031-02-16",
+                    "is_context_indigenous": false,
+                    "material_description": "Digital print",
+                    "unpublished": false,
+                    "first_production_date": null
+                }
+            ],
+            "source": {
+                "name": "Vernon",
+                "slug": "vernon"
+            },
+            "source_identifier": "180307",
+            "production_places": [
+                {
+                    "id": 2,
+                    "name": "United States",
+                    "slug": "united-states"
+                }
+            ],
+            "production_dates": [
+                {
+                    "date": "c. 1938-1957",
+                    "notes": "",
+                    "to_year": "c. 1938-1957"
+                }
+            ],
+            "labels": [
+                39304
+            ]
+        },
+        {
+            "id": 118266,
+            "acmi_id": "180283",
+            "title": "URSA Mini Pro 4.6K G2 Partial Assembly",
+            "title_annotation": "",
+            "slug": "ursa-mini-pro-46k-g2-partial-assembly",
+            "creator_credit": "Blackmagic Design",
+            "credit_line": "<p>Courtesy Blackmagic Design, Major Partner of ACMI</p>",
+            "headline_credit": "",
+            "thumbnail": {
+                "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN180283_UrsaMiniPro_PartialAssembly_34.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=Hf1HB5o3zhE%2F3QEJK%2FSGcq158Xo%3D&Expires=1627009116",
+                "has_video": false
+            },
+            "record_type": "work",
+            "type": "Object",
+            "is_on_display": true,
+            "last_on_display_place": "ACMI: Gallery 1",
+            "last_on_display_date": "2023-02-09",
+            "is_context_indigenous": false,
+            "material_description": "",
+            "unpublished": false,
+            "first_production_date": null,
+            "brief_description": "<p>This partially assembled camera shows the many tightly packed components, including thermal management, circuit boards, microphones, image sensor and light filters hidden inside the camera’s body.</p>",
+            "constellations_primary": [],
+            "constellations_other": [],
+            "recommendations": [],
+            "title_for_label": "<p>URSA Mini Pro 4.6K G2 Partial Assembly</p>",
+            "creator_credit_for_label": "<p>Blackmagic Design</p>",
+            "headline_credit_for_label": "",
+            "description": "<p>This partially assembled camera shows the many tightly packed components, including thermal management, circuit boards, microphones, image sensor and light filters hidden inside the camera’s body.</p>",
+            "description_for_label": [
+                "<p>This partially assembled camera shows the many tightly packed components, including thermal management, circuit boards, microphones, image sensor and light filters hidden inside the camera’s body.</p>"
+            ],
+            "credit_line_for_label": "<p>Courtesy Blackmagic Design, Major Partner of ACMI</p>",
+            "details": [
+                {
+                    "label": "Curatorial section",
+                    "display_values": [
+                        "The Story of the Moving Image&nbsp;→  Foyer&nbsp;→ Entry &nbsp;→ 03. MPL exterior"
+                    ]
+                },
+                {
+                    "label": "Measurements",
+                    "display_values": [
+                        "145 x 130 x 220mm"
+                    ]
+                }
+            ],
+            "stats": {
+                "tap_count": 0
+            },
+            "links": [],
+            "creators_primary": [
+                {
+                    "id": 1134498,
+                    "name": "Blackmagic Design",
+                    "creator_id": 73012,
+                    "role": "manufacturer",
+                    "role_id": 627,
+                    "is_primary": true
+                }
+            ],
+            "creators_other": [
+                {
+                    "id": 1134497,
+                    "name": "Blackmagic Design",
+                    "creator_id": 73012,
+                    "role": "lender",
+                    "role_id": 626,
+                    "is_primary": false
+                }
+            ],
+            "video_links": [],
+            "media_note": null,
+            "images": [
+                {
+                    "id": 21162,
+                    "image_file": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN180283_UrsaMiniPro_PartialAssembly_34.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=wLqdT4p%2FGKhOkdSNXwoUEwKYZug%3D&Expires=1627009116",
+                    "image_file_thumbnail": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN180283_UrsaMiniPro_PartialAssembly_34.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=Hf1HB5o3zhE%2F3QEJK%2FSGcq158Xo%3D&Expires=1627009116",
+                    "image_file_xs": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN180283_UrsaMiniPro_PartialAssembly_34.jpg.480x480_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=obTcKm%2BcLilJR6%2FGDx9R7M10hJY%3D&Expires=1627009116",
+                    "image_file_s": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN180283_UrsaMiniPro_PartialAssembly_34.jpg.960x960_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=TbliYJsABBGUhg%2FjX9Tn%2BrKGlIw%3D&Expires=1627009116",
+                    "image_file_m": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN180283_UrsaMiniPro_PartialAssembly_34.jpg.1920x1920_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=%2BOKo%2BxpQVEaj4Cwn1cgceYD7DI4%3D&Expires=1627009116",
+                    "image_file_l": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN180283_UrsaMiniPro_PartialAssembly_34.jpg.3840x3840_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=eomI3lGySUZOkiRY%2F8kA8TXcquk%3D&Expires=1627009116",
+                    "caption": "LN180283_UrsaMiniPro_PartialAssembly_34",
+                    "credit_line": "Photograph by Egmont Contreras, ACMI.",
+                    "alt_text": "",
+                    "width": 4800,
+                    "height": 3200,
+                    "access_level": "View anywhere"
+                },
+                {
+                    "id": 21163,
+                    "image_file": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN180283_UrsaMiniPro_PartialAssembly_Left.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=Gw5byUOeqN%2FtOPjWl8%2B3uBJX0sU%3D&Expires=1627009116",
+                    "image_file_thumbnail": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN180283_UrsaMiniPro_PartialAssembly_Left.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=OV7c9rjZEytCqfDg4lAmkY9%2F9TE%3D&Expires=1627009116",
+                    "image_file_xs": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN180283_UrsaMiniPro_PartialAssembly_Left.jpg.480x480_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=cLrTl02xBuKAHJafAeSYcFGSRws%3D&Expires=1627009116",
+                    "image_file_s": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN180283_UrsaMiniPro_PartialAssembly_Left.jpg.960x960_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=LNwG1sCTPvdMrf%2BuBfKDnMZqgZk%3D&Expires=1627009116",
+                    "image_file_m": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN180283_UrsaMiniPro_PartialAssembly_Left.jpg.1920x1920_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=Us1YZsn3%2FOQ28Xnqewvgwr8F5WU%3D&Expires=1627009116",
+                    "image_file_l": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN180283_UrsaMiniPro_PartialAssembly_Left.jpg.3840x3840_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=bKIArREodN3w2KQPmH88gUcFGLo%3D&Expires=1627009116",
+                    "caption": "LN180283_UrsaMiniPro_PartialAssembly_Left",
+                    "credit_line": "Photograph by Egmont Contreras, ACMI.",
+                    "alt_text": "",
+                    "width": 4671,
+                    "height": 3114,
+                    "access_level": "View anywhere"
+                },
+                {
+                    "id": 21164,
+                    "image_file": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN180283_UrsaMiniPro_PartialAssembly_Right.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=fJYcEknA6FrThKu0PrP3Uk6c2zU%3D&Expires=1627009116",
+                    "image_file_thumbnail": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN180283_UrsaMiniPro_PartialAssembly_Right.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=bqlocNx7NYp9JmaVyXYv1BFBjmk%3D&Expires=1627009116",
+                    "image_file_xs": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN180283_UrsaMiniPro_PartialAssembly_Right.jpg.480x480_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=3ddfmSawJN7jUT9f0DFPmpHMg%2B0%3D&Expires=1627009116",
+                    "image_file_s": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN180283_UrsaMiniPro_PartialAssembly_Right.jpg.960x960_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=rYTViMw5f03r4Ct8DSX6Om6jO5s%3D&Expires=1627009116",
+                    "image_file_m": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN180283_UrsaMiniPro_PartialAssembly_Right.jpg.1920x1920_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=DNbaIPxE525dKprX7sI2ar1C6A8%3D&Expires=1627009116",
+                    "image_file_l": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN180283_UrsaMiniPro_PartialAssembly_Right.jpg.3840x3840_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=k5rPRnukoIusN5F3%2Bffuk%2B9XQ4E%3D&Expires=1627009116",
+                    "caption": "LN180283_UrsaMiniPro_PartialAssembly_Right",
+                    "credit_line": "Photograph by Egmont Contreras, ACMI.",
+                    "alt_text": "",
+                    "width": 4718,
+                    "height": 3145,
+                    "access_level": "View anywhere"
+                }
+            ],
+            "videos": [],
+            "holdings": [],
+            "part_of": null,
+            "parts": [],
+            "part_siblings": [],
+            "group": {
+                "id": 114498,
+                "acmi_id": "183613",
+                "title": "URSA Mini Pro 4.6K G2",
+                "title_annotation": "",
+                "slug": "mpl-display-group-ursa-mini-pro-46k-g2-prototypes",
+                "creator_credit": "Blackmagic Design",
+                "credit_line": "<p>Courtesy Blackmagic Design, Major Partner of ACMI</p>",
+                "headline_credit": "",
+                "thumbnail": {
+                    "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/GROUP_UrsaMiniPro.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=HMvxkISabXXHQTnJ2kGQCgvMFmQ%3D&Expires=1627009116",
+                    "has_video": false
+                },
+                "record_type": "group",
+                "type": "Film",
+                "is_on_display": true,
+                "last_on_display_place": "ACMI: Gallery 1",
+                "last_on_display_date": "2023-02-09",
+                "is_context_indigenous": false,
+                "material_description": "",
+                "unpublished": false,
+                "first_production_date": null
+            },
+            "group_works": [],
+            "group_siblings": [
+                {
+                    "id": 107662,
+                    "acmi_id": "182854",
+                    "title": "GRAPHIC: Sketches & CAD Drawings for Ursa Mini Pro 4.6k G2",
+                    "title_annotation": "Facsimile",
+                    "slug": "graphic-sketches-cad-drawings-for-ursa-mini-pro-46k-g2",
+                    "creator_credit": "Blackmagic Design",
+                    "credit_line": "<p>Courtesy Blackmagic Design, Major Partner of ACMI</p>",
+                    "headline_credit": "",
+                    "thumbnail": null,
+                    "record_type": "work",
+                    "type": "Object",
+                    "is_on_display": true,
+                    "last_on_display_place": "ACMI: Gallery 1",
+                    "last_on_display_date": "2023-02-09",
+                    "is_context_indigenous": false,
+                    "material_description": "digital print",
+                    "unpublished": false,
+                    "first_production_date": null
+                },
+                {
+                    "id": 118267,
+                    "acmi_id": "180923",
+                    "title": "URSA Mini Pro 4.6K G2",
+                    "title_annotation": "",
+                    "slug": "ursa-mini-pro-46k-g2",
+                    "creator_credit": "Blackmagic Design",
+                    "credit_line": "<p>Courtesy Blackmagic Design, Major Partner of ACMI</p>",
+                    "headline_credit": "MAR 2019",
+                    "thumbnail": {
+                        "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN180923_UrsaMiniPro_34.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=Yjs7Zboks7K1mfZf4BcdJi96gq4%3D&Expires=1627009116",
+                        "has_video": false
+                    },
+                    "record_type": "work",
+                    "type": "Object",
+                    "is_on_display": true,
+                    "last_on_display_place": "ACMI: Gallery 1",
+                    "last_on_display_date": "2023-02-09",
+                    "is_context_indigenous": false,
+                    "material_description": "",
+                    "unpublished": false,
+                    "first_production_date": null
+                },
+                {
+                    "id": 118264,
+                    "acmi_id": "180281",
+                    "title": "URSA Mini Pro 4.6K G2 Form Prototype",
+                    "title_annotation": "",
+                    "slug": "ursa-mini-pro-46k-g2-form-prototype",
+                    "creator_credit": "Blackmagic Design",
+                    "credit_line": "<p>Courtesy Blackmagic Design, Major Partner of ACMI</p>",
+                    "headline_credit": "",
+                    "thumbnail": {
+                        "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN180281_UrsaMiniPro_FormPrototype_34.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=syQrTvJze0xjR5qBxvFn95DQu%2FE%3D&Expires=1627009116",
+                        "has_video": false
+                    },
+                    "record_type": "work",
+                    "type": "Object",
+                    "is_on_display": true,
+                    "last_on_display_place": "ACMI: Gallery 1",
+                    "last_on_display_date": "2023-02-09",
+                    "is_context_indigenous": false,
+                    "material_description": "full colour 3D print",
+                    "unpublished": false,
+                    "first_production_date": null
+                },
+                {
+                    "id": 118265,
+                    "acmi_id": "180282",
+                    "title": "URSA Mini Pro 4.6K G2 Image Sensor Assembly and Chassis",
+                    "title_annotation": "",
+                    "slug": "ursa-mini-pro-46k-g2-image-sensor-assembly-and-chassis",
+                    "creator_credit": "Blackmagic Design",
+                    "credit_line": "<p>Courtesy Blackmagic Design, Major Partner of ACMI</p>",
+                    "headline_credit": "",
+                    "thumbnail": {
+                        "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN180282_UrsaMiniPro_ImageSensorAssembly_34.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=zH0%2BXbbNl0OIB%2FQUlpEo87Nz3CE%3D&Expires=1627009116",
+                        "has_video": false
+                    },
+                    "record_type": "work",
+                    "type": "Object",
+                    "is_on_display": true,
+                    "last_on_display_place": "ACMI: Gallery 1",
+                    "last_on_display_date": "2023-02-09",
+                    "is_context_indigenous": false,
+                    "material_description": "magnesium alloy (chassis)",
+                    "unpublished": false,
+                    "first_production_date": null
+                }
+            ],
+            "source": {
+                "name": "Vernon",
+                "slug": "vernon"
+            },
+            "source_identifier": "180283",
+            "production_places": [],
+            "production_dates": [],
+            "labels": [
+                57769
+            ]
+        },
+        {
+            "id": 118265,
+            "acmi_id": "180282",
+            "title": "URSA Mini Pro 4.6K G2 Image Sensor Assembly and Chassis",
+            "title_annotation": "",
+            "slug": "ursa-mini-pro-46k-g2-image-sensor-assembly-and-chassis",
+            "creator_credit": "Blackmagic Design",
+            "credit_line": "<p>Courtesy Blackmagic Design, Major Partner of ACMI</p>",
+            "headline_credit": "",
+            "thumbnail": {
+                "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN180282_UrsaMiniPro_ImageSensorAssembly_34.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=zH0%2BXbbNl0OIB%2FQUlpEo87Nz3CE%3D&Expires=1627009116",
+                "has_video": false
+            },
+            "record_type": "work",
+            "type": "Object",
+            "is_on_display": true,
+            "last_on_display_place": "ACMI: Gallery 1",
+            "last_on_display_date": "2023-02-09",
+            "is_context_indigenous": false,
+            "material_description": "magnesium alloy (chassis)",
+            "unpublished": false,
+            "first_production_date": null,
+            "brief_description": "<p>The chassis is the main structural element of the camera, and is die-cast with a magnesium alloy that is very light and strong.</p>\n<p>The image sensor assembly with its large liquid cooled radiator is shown here mounted to the front of the chassis.</p>",
+            "constellations_primary": [],
+            "constellations_other": [],
+            "recommendations": [],
+            "title_for_label": "<p>URSA Mini Pro 4.6K G2 Image Sensor Assembly and Chassis</p>",
+            "creator_credit_for_label": "<p>Blackmagic Design</p>",
+            "headline_credit_for_label": "",
+            "description": "<p>The chassis is the main structural element of the camera, and is die-cast with a magnesium alloy that is very light and strong.</p>\n<p>The image sensor assembly with its large liquid cooled radiator is shown here mounted to the front of the chassis.</p>",
+            "description_for_label": [
+                "<p>The chassis is the main structural element of the camera, and is die-cast with a magnesium alloy that is very light and strong.</p>\n<p>The image sensor assembly with its large liquid cooled radiator is shown here mounted to the front of the chassis.</p>"
+            ],
+            "credit_line_for_label": "<p>Courtesy Blackmagic Design, Major Partner of ACMI</p>",
+            "details": [
+                {
+                    "label": "Curatorial section",
+                    "display_values": [
+                        "The Story of the Moving Image&nbsp;→  Foyer&nbsp;→ Entry &nbsp;→ 03. MPL exterior"
+                    ]
+                },
+                {
+                    "label": "Measurements",
+                    "display_values": [
+                        "132 x 95 x 195mm"
+                    ]
+                },
+                {
+                    "label": "Materials",
+                    "display_values": [
+                        "magnesium alloy (chassis)"
+                    ]
+                }
+            ],
+            "stats": {
+                "tap_count": 0
+            },
+            "links": [],
+            "creators_primary": [
+                {
+                    "id": 1134496,
+                    "name": "Blackmagic Design",
+                    "creator_id": 73012,
+                    "role": "manufacturer",
+                    "role_id": 627,
+                    "is_primary": true
+                }
+            ],
+            "creators_other": [
+                {
+                    "id": 1134495,
+                    "name": "Blackmagic Design",
+                    "creator_id": 73012,
+                    "role": "lender",
+                    "role_id": 626,
+                    "is_primary": false
+                }
+            ],
+            "video_links": [],
+            "media_note": null,
+            "images": [
+                {
+                    "id": 21160,
+                    "image_file": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN180282_UrsaMiniPro_ImageSensorAssembly_34.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=MXXGnlPEPRcYwIYXia4XZS1%2FRqc%3D&Expires=1627009116",
+                    "image_file_thumbnail": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN180282_UrsaMiniPro_ImageSensorAssembly_34.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=zH0%2BXbbNl0OIB%2FQUlpEo87Nz3CE%3D&Expires=1627009116",
+                    "image_file_xs": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN180282_UrsaMiniPro_ImageSensorAssembly_34.jpg.480x480_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=bCy7GV47TYG9fsfYt5MpNFAScok%3D&Expires=1627009116",
+                    "image_file_s": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN180282_UrsaMiniPro_ImageSensorAssembly_34.jpg.960x960_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=cVJJMLhU%2BZZeXa5GDmWPm50MVEo%3D&Expires=1627009116",
+                    "image_file_m": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN180282_UrsaMiniPro_ImageSensorAssembly_34.jpg.1920x1920_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=PW%2B1pbnBAGOkWh24RoratDEzs%2BI%3D&Expires=1627009116",
+                    "image_file_l": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN180282_UrsaMiniPro_ImageSensorAssembly_34.jpg.3840x3840_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=VaAwE6A9s8ywDpjy%2Fy%2FUj9UNzmw%3D&Expires=1627009116",
+                    "caption": "LN180282_UrsaMiniPro_ImageSensorAssembly_34",
+                    "credit_line": "Photograph by Egmont Contreras, ACMI.",
+                    "alt_text": "",
+                    "width": 4800,
+                    "height": 3200,
+                    "access_level": "View anywhere"
+                },
+                {
+                    "id": 21161,
+                    "image_file": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN180282_UrsaMiniPro_ImageSensorAssembly_Left.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=%2BvbhPH6F%2BDn2bhZ%2FoCa0zWuePQE%3D&Expires=1627009116",
+                    "image_file_thumbnail": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN180282_UrsaMiniPro_ImageSensorAssembly_Left.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=xR4AotPLPIhQVubrK2258PZha2Q%3D&Expires=1627009116",
+                    "image_file_xs": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN180282_UrsaMiniPro_ImageSensorAssembly_Left.jpg.480x480_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=NOSul2wmphd88rbdwSyyjK2665U%3D&Expires=1627009116",
+                    "image_file_s": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN180282_UrsaMiniPro_ImageSensorAssembly_Left.jpg.960x960_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=fLup%2F15Um%2BYRUf0SEK4N1PfFwfs%3D&Expires=1627009116",
+                    "image_file_m": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN180282_UrsaMiniPro_ImageSensorAssembly_Left.jpg.1920x1920_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=Y3a0FhgqJ45CnxhZNebCgBu6Jf4%3D&Expires=1627009116",
+                    "image_file_l": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN180282_UrsaMiniPro_ImageSensorAssembly_Left.jpg.3840x3840_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=I4OnWRvpAkLI4%2BdAU1pG84TrsEA%3D&Expires=1627009116",
+                    "caption": "LN180282_UrsaMiniPro_ImageSensorAssembly_Left",
+                    "credit_line": "Photograph by Egmont Contreras, ACMI.",
+                    "alt_text": "",
+                    "width": 4828,
+                    "height": 3242,
+                    "access_level": "View anywhere"
+                }
+            ],
+            "videos": [],
+            "holdings": [],
+            "part_of": null,
+            "parts": [],
+            "part_siblings": [],
+            "group": {
+                "id": 114498,
+                "acmi_id": "183613",
+                "title": "URSA Mini Pro 4.6K G2",
+                "title_annotation": "",
+                "slug": "mpl-display-group-ursa-mini-pro-46k-g2-prototypes",
+                "creator_credit": "Blackmagic Design",
+                "credit_line": "<p>Courtesy Blackmagic Design, Major Partner of ACMI</p>",
+                "headline_credit": "",
+                "thumbnail": {
+                    "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/GROUP_UrsaMiniPro.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=HMvxkISabXXHQTnJ2kGQCgvMFmQ%3D&Expires=1627009116",
+                    "has_video": false
+                },
+                "record_type": "group",
+                "type": "Film",
+                "is_on_display": true,
+                "last_on_display_place": "ACMI: Gallery 1",
+                "last_on_display_date": "2023-02-09",
+                "is_context_indigenous": false,
+                "material_description": "",
+                "unpublished": false,
+                "first_production_date": null
+            },
+            "group_works": [],
+            "group_siblings": [
+                {
+                    "id": 107662,
+                    "acmi_id": "182854",
+                    "title": "GRAPHIC: Sketches & CAD Drawings for Ursa Mini Pro 4.6k G2",
+                    "title_annotation": "Facsimile",
+                    "slug": "graphic-sketches-cad-drawings-for-ursa-mini-pro-46k-g2",
+                    "creator_credit": "Blackmagic Design",
+                    "credit_line": "<p>Courtesy Blackmagic Design, Major Partner of ACMI</p>",
+                    "headline_credit": "",
+                    "thumbnail": null,
+                    "record_type": "work",
+                    "type": "Object",
+                    "is_on_display": true,
+                    "last_on_display_place": "ACMI: Gallery 1",
+                    "last_on_display_date": "2023-02-09",
+                    "is_context_indigenous": false,
+                    "material_description": "digital print",
+                    "unpublished": false,
+                    "first_production_date": null
+                },
+                {
+                    "id": 118267,
+                    "acmi_id": "180923",
+                    "title": "URSA Mini Pro 4.6K G2",
+                    "title_annotation": "",
+                    "slug": "ursa-mini-pro-46k-g2",
+                    "creator_credit": "Blackmagic Design",
+                    "credit_line": "<p>Courtesy Blackmagic Design, Major Partner of ACMI</p>",
+                    "headline_credit": "MAR 2019",
+                    "thumbnail": {
+                        "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN180923_UrsaMiniPro_34.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=Yjs7Zboks7K1mfZf4BcdJi96gq4%3D&Expires=1627009116",
+                        "has_video": false
+                    },
+                    "record_type": "work",
+                    "type": "Object",
+                    "is_on_display": true,
+                    "last_on_display_place": "ACMI: Gallery 1",
+                    "last_on_display_date": "2023-02-09",
+                    "is_context_indigenous": false,
+                    "material_description": "",
+                    "unpublished": false,
+                    "first_production_date": null
+                },
+                {
+                    "id": 118264,
+                    "acmi_id": "180281",
+                    "title": "URSA Mini Pro 4.6K G2 Form Prototype",
+                    "title_annotation": "",
+                    "slug": "ursa-mini-pro-46k-g2-form-prototype",
+                    "creator_credit": "Blackmagic Design",
+                    "credit_line": "<p>Courtesy Blackmagic Design, Major Partner of ACMI</p>",
+                    "headline_credit": "",
+                    "thumbnail": {
+                        "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN180281_UrsaMiniPro_FormPrototype_34.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=syQrTvJze0xjR5qBxvFn95DQu%2FE%3D&Expires=1627009116",
+                        "has_video": false
+                    },
+                    "record_type": "work",
+                    "type": "Object",
+                    "is_on_display": true,
+                    "last_on_display_place": "ACMI: Gallery 1",
+                    "last_on_display_date": "2023-02-09",
+                    "is_context_indigenous": false,
+                    "material_description": "full colour 3D print",
+                    "unpublished": false,
+                    "first_production_date": null
+                },
+                {
+                    "id": 118266,
+                    "acmi_id": "180283",
+                    "title": "URSA Mini Pro 4.6K G2 Partial Assembly",
+                    "title_annotation": "",
+                    "slug": "ursa-mini-pro-46k-g2-partial-assembly",
+                    "creator_credit": "Blackmagic Design",
+                    "credit_line": "<p>Courtesy Blackmagic Design, Major Partner of ACMI</p>",
+                    "headline_credit": "",
+                    "thumbnail": {
+                        "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN180283_UrsaMiniPro_PartialAssembly_34.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=Hf1HB5o3zhE%2F3QEJK%2FSGcq158Xo%3D&Expires=1627009116",
+                        "has_video": false
+                    },
+                    "record_type": "work",
+                    "type": "Object",
+                    "is_on_display": true,
+                    "last_on_display_place": "ACMI: Gallery 1",
+                    "last_on_display_date": "2023-02-09",
+                    "is_context_indigenous": false,
+                    "material_description": "",
+                    "unpublished": false,
+                    "first_production_date": null
+                }
+            ],
+            "source": {
+                "name": "Vernon",
+                "slug": "vernon"
+            },
+            "source_identifier": "180282",
+            "production_places": [],
+            "production_dates": [],
+            "labels": [
+                57768
+            ]
+        },
+        {
+            "id": 118264,
+            "acmi_id": "180281",
+            "title": "URSA Mini Pro 4.6K G2 Form Prototype",
+            "title_annotation": "",
+            "slug": "ursa-mini-pro-46k-g2-form-prototype",
+            "creator_credit": "Blackmagic Design",
+            "credit_line": "<p>Courtesy Blackmagic Design, Major Partner of ACMI</p>",
+            "headline_credit": "",
+            "thumbnail": {
+                "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN180281_UrsaMiniPro_FormPrototype_34.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=syQrTvJze0xjR5qBxvFn95DQu%2FE%3D&Expires=1627009116",
+                "has_video": false
+            },
+            "record_type": "work",
+            "type": "Object",
+            "is_on_display": true,
+            "last_on_display_place": "ACMI: Gallery 1",
+            "last_on_display_date": "2023-02-09",
+            "is_context_indigenous": false,
+            "material_description": "full colour 3D print",
+            "unpublished": false,
+            "first_production_date": null,
+            "brief_description": "<p>This prototype was built using a combination of stereolithography (SLA) and full colour 3D printed parts, which were made from a powdered material solidified by an inkjet printing process over hundreds of layers. It was used by the Blackmagic Industrial Design team during the early stages of design process to evaluate the camera&#8217;s design and functionality.</p>",
+            "constellations_primary": [],
+            "constellations_other": [],
+            "recommendations": [],
+            "title_for_label": "<p>URSA Mini Pro 4.6K G2 Form Prototype</p>",
+            "creator_credit_for_label": "<p>Blackmagic Design</p>",
+            "headline_credit_for_label": "",
+            "description": "<p>This prototype was built using a combination of stereolithography (SLA) and full colour 3D printed parts, which were made from a powdered material solidified by an inkjet printing process over hundreds of layers. It was used by the Blackmagic Industrial Design team during the early stages of design process to evaluate the camera&#8217;s design and functionality.</p>",
+            "description_for_label": [
+                "<p>This prototype was built using a combination of stereolithography (SLA) and full colour 3D printed parts, which were made from a powdered material solidified by an inkjet printing process over hundreds of layers. It was used by the Blackmagic Industrial Design team during the early stages of design process to evaluate the camera&#8217;s design and functionality.</p>"
+            ],
+            "credit_line_for_label": "<p>Courtesy Blackmagic Design, Major Partner of ACMI</p>",
+            "details": [
+                {
+                    "label": "Curatorial section",
+                    "display_values": [
+                        "The Story of the Moving Image&nbsp;→  Foyer&nbsp;→ Entry &nbsp;→ 03. MPL exterior"
+                    ]
+                },
+                {
+                    "label": "Measurements",
+                    "display_values": [
+                        "145 x 240 x 202mm"
+                    ]
+                },
+                {
+                    "label": "Materials",
+                    "display_values": [
+                        "full colour 3D print"
+                    ]
+                }
+            ],
+            "stats": {
+                "tap_count": 0
+            },
+            "links": [],
+            "creators_primary": [
+                {
+                    "id": 1134494,
+                    "name": "Blackmagic Design",
+                    "creator_id": 73012,
+                    "role": "manufacturer",
+                    "role_id": 627,
+                    "is_primary": true
+                }
+            ],
+            "creators_other": [
+                {
+                    "id": 1134493,
+                    "name": "Blackmagic Design",
+                    "creator_id": 73012,
+                    "role": "lender",
+                    "role_id": 626,
+                    "is_primary": false
+                }
+            ],
+            "video_links": [],
+            "media_note": null,
+            "images": [
+                {
+                    "id": 21158,
+                    "image_file": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN180281_UrsaMiniPro_FormPrototype_34.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=JEUlNyFOllaDg1NsKB5yiOABLYQ%3D&Expires=1627009116",
+                    "image_file_thumbnail": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN180281_UrsaMiniPro_FormPrototype_34.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=syQrTvJze0xjR5qBxvFn95DQu%2FE%3D&Expires=1627009116",
+                    "image_file_xs": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN180281_UrsaMiniPro_FormPrototype_34.jpg.480x480_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=puMgjWrVv%2BaxPYrPuAerZsPJKns%3D&Expires=1627009116",
+                    "image_file_s": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN180281_UrsaMiniPro_FormPrototype_34.jpg.960x960_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=VvIxjOP4RZjmhKLVsu5x%2Fl%2FE3hk%3D&Expires=1627009116",
+                    "image_file_m": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN180281_UrsaMiniPro_FormPrototype_34.jpg.1920x1920_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=Nr1W%2B7KEl1DBkiaNR2zaV%2Fz6mvg%3D&Expires=1627009116",
+                    "image_file_l": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN180281_UrsaMiniPro_FormPrototype_34.jpg.3840x3840_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=D46eNYzdh%2FPGJysA%2BmqkTdtAFvw%3D&Expires=1627009116",
+                    "caption": "LN180281_UrsaMiniPro_FormPrototype_34",
+                    "credit_line": "Photograph by Egmont Contreras, ACMI.",
+                    "alt_text": "",
+                    "width": 4800,
+                    "height": 3200,
+                    "access_level": "View anywhere"
+                },
+                {
+                    "id": 21159,
+                    "image_file": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN180281_UrsaMiniPro_FormPrototype_LeftBack.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=qHcEHJiSPrR48yPvXbExxiZP104%3D&Expires=1627009116",
+                    "image_file_thumbnail": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN180281_UrsaMiniPro_FormPrototype_LeftBack.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=3xHJ0NL4vAASsUL%2BvWMGV2OqpJA%3D&Expires=1627009116",
+                    "image_file_xs": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN180281_UrsaMiniPro_FormPrototype_LeftBack.jpg.480x480_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=OAVA0ZzeY08Pyx248j6cPyNOUZs%3D&Expires=1627009116",
+                    "image_file_s": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN180281_UrsaMiniPro_FormPrototype_LeftBack.jpg.960x960_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=kINrK2RqLQvYWpnNb7p7JE3Npsc%3D&Expires=1627009116",
+                    "image_file_m": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN180281_UrsaMiniPro_FormPrototype_LeftBack.jpg.1920x1920_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=uOhpCRHhKv6%2BZCfx5H8Xn%2FA5iuo%3D&Expires=1627009116",
+                    "image_file_l": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN180281_UrsaMiniPro_FormPrototype_LeftBack.jpg.3840x3840_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=BA%2B0cXcFVt3ek96r7qTW9WIrDhE%3D&Expires=1627009116",
+                    "caption": "LN180281_UrsaMiniPro_FormPrototype_LeftBack",
+                    "credit_line": "Photograph by Egmont Contreras, ACMI.",
+                    "alt_text": "",
+                    "width": 4800,
+                    "height": 3200,
+                    "access_level": "View anywhere"
+                }
+            ],
+            "videos": [],
+            "holdings": [],
+            "part_of": null,
+            "parts": [],
+            "part_siblings": [],
+            "group": {
+                "id": 114498,
+                "acmi_id": "183613",
+                "title": "URSA Mini Pro 4.6K G2",
+                "title_annotation": "",
+                "slug": "mpl-display-group-ursa-mini-pro-46k-g2-prototypes",
+                "creator_credit": "Blackmagic Design",
+                "credit_line": "<p>Courtesy Blackmagic Design, Major Partner of ACMI</p>",
+                "headline_credit": "",
+                "thumbnail": {
+                    "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/GROUP_UrsaMiniPro.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=HMvxkISabXXHQTnJ2kGQCgvMFmQ%3D&Expires=1627009116",
+                    "has_video": false
+                },
+                "record_type": "group",
+                "type": "Film",
+                "is_on_display": true,
+                "last_on_display_place": "ACMI: Gallery 1",
+                "last_on_display_date": "2023-02-09",
+                "is_context_indigenous": false,
+                "material_description": "",
+                "unpublished": false,
+                "first_production_date": null
+            },
+            "group_works": [],
+            "group_siblings": [
+                {
+                    "id": 107662,
+                    "acmi_id": "182854",
+                    "title": "GRAPHIC: Sketches & CAD Drawings for Ursa Mini Pro 4.6k G2",
+                    "title_annotation": "Facsimile",
+                    "slug": "graphic-sketches-cad-drawings-for-ursa-mini-pro-46k-g2",
+                    "creator_credit": "Blackmagic Design",
+                    "credit_line": "<p>Courtesy Blackmagic Design, Major Partner of ACMI</p>",
+                    "headline_credit": "",
+                    "thumbnail": null,
+                    "record_type": "work",
+                    "type": "Object",
+                    "is_on_display": true,
+                    "last_on_display_place": "ACMI: Gallery 1",
+                    "last_on_display_date": "2023-02-09",
+                    "is_context_indigenous": false,
+                    "material_description": "digital print",
+                    "unpublished": false,
+                    "first_production_date": null
+                },
+                {
+                    "id": 118267,
+                    "acmi_id": "180923",
+                    "title": "URSA Mini Pro 4.6K G2",
+                    "title_annotation": "",
+                    "slug": "ursa-mini-pro-46k-g2",
+                    "creator_credit": "Blackmagic Design",
+                    "credit_line": "<p>Courtesy Blackmagic Design, Major Partner of ACMI</p>",
+                    "headline_credit": "MAR 2019",
+                    "thumbnail": {
+                        "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN180923_UrsaMiniPro_34.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=Yjs7Zboks7K1mfZf4BcdJi96gq4%3D&Expires=1627009116",
+                        "has_video": false
+                    },
+                    "record_type": "work",
+                    "type": "Object",
+                    "is_on_display": true,
+                    "last_on_display_place": "ACMI: Gallery 1",
+                    "last_on_display_date": "2023-02-09",
+                    "is_context_indigenous": false,
+                    "material_description": "",
+                    "unpublished": false,
+                    "first_production_date": null
+                },
+                {
+                    "id": 118265,
+                    "acmi_id": "180282",
+                    "title": "URSA Mini Pro 4.6K G2 Image Sensor Assembly and Chassis",
+                    "title_annotation": "",
+                    "slug": "ursa-mini-pro-46k-g2-image-sensor-assembly-and-chassis",
+                    "creator_credit": "Blackmagic Design",
+                    "credit_line": "<p>Courtesy Blackmagic Design, Major Partner of ACMI</p>",
+                    "headline_credit": "",
+                    "thumbnail": {
+                        "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN180282_UrsaMiniPro_ImageSensorAssembly_34.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=zH0%2BXbbNl0OIB%2FQUlpEo87Nz3CE%3D&Expires=1627009116",
+                        "has_video": false
+                    },
+                    "record_type": "work",
+                    "type": "Object",
+                    "is_on_display": true,
+                    "last_on_display_place": "ACMI: Gallery 1",
+                    "last_on_display_date": "2023-02-09",
+                    "is_context_indigenous": false,
+                    "material_description": "magnesium alloy (chassis)",
+                    "unpublished": false,
+                    "first_production_date": null
+                },
+                {
+                    "id": 118266,
+                    "acmi_id": "180283",
+                    "title": "URSA Mini Pro 4.6K G2 Partial Assembly",
+                    "title_annotation": "",
+                    "slug": "ursa-mini-pro-46k-g2-partial-assembly",
+                    "creator_credit": "Blackmagic Design",
+                    "credit_line": "<p>Courtesy Blackmagic Design, Major Partner of ACMI</p>",
+                    "headline_credit": "",
+                    "thumbnail": {
+                        "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN180283_UrsaMiniPro_PartialAssembly_34.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=Hf1HB5o3zhE%2F3QEJK%2FSGcq158Xo%3D&Expires=1627009116",
+                        "has_video": false
+                    },
+                    "record_type": "work",
+                    "type": "Object",
+                    "is_on_display": true,
+                    "last_on_display_place": "ACMI: Gallery 1",
+                    "last_on_display_date": "2023-02-09",
+                    "is_context_indigenous": false,
+                    "material_description": "",
+                    "unpublished": false,
+                    "first_production_date": null
+                }
+            ],
+            "source": {
+                "name": "Vernon",
+                "slug": "vernon"
+            },
+            "source_identifier": "180281",
+            "production_places": [],
+            "production_dates": [],
+            "labels": [
+                57767
+            ]
+        },
+        {
+            "id": 99793,
+            "acmi_id": "180278",
+            "title": "The Family Law Ben Law (Trystan Go) Hawaiian shirt",
+            "title_annotation": "",
+            "slug": "bens-hawaiian-shirt",
+            "creator_credit": "Monica O'Brien",
+            "credit_line": "<p>Courtesy Matchbox Pictures Pty Ltd</p>",
+            "headline_credit": "Australia, 2016",
+            "thumbnail": {
+                "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN1800278_BenHawaiianShirt_Front.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=ZZiSn2oVaQLz04KBufjGPUwjonw%3D&Expires=1627009116",
+                "has_video": false
+            },
+            "record_type": "work",
+            "type": "Object",
+            "is_on_display": true,
+            "last_on_display_place": "ACMI: Gallery 1",
+            "last_on_display_date": "2022-02-10",
+            "is_context_indigenous": false,
+            "material_description": "",
+            "unpublished": false,
+            "first_production_date": "2016-01-01T11:00:00+11:00",
+            "brief_description": "<p>Based on Benjamin Law’s 2010 book, The Family Law was the first Australian TV show to focus on an Asian Australian family. While it explores familiar stories about an everyday family, it offers a unique perspective on what it means to be Australian today.</p>",
+            "constellations_primary": [],
+            "constellations_other": [],
+            "recommendations": [],
+            "title_for_label": "<p>Ben Law (Trystan Go) Hawaiian shirt</p>",
+            "creator_credit_for_label": "<p>Monica O&#8217;Brien</p>",
+            "headline_credit_for_label": "<p>Australia, 2016</p>",
+            "description": "<p>From Season One of Family Law<br />\nWorn by Trystan Goh playing Benjamin Law</p>",
+            "description_for_label": [
+                "<p>From Season One of Family Law<br />\nWorn by Trystan Goh playing Benjamin Law</p>"
+            ],
+            "credit_line_for_label": "<p>Courtesy Matchbox Pictures Pty Ltd</p>",
+            "details": [
+                {
+                    "label": "Curatorial section",
+                    "display_values": [
+                        "The Story of the Moving Image&nbsp;→ Moving Australia&nbsp;→ 11. Screen Australia Showcase&nbsp;→ MA-11-C01"
+                    ]
+                },
+                {
+                    "label": "Measurements",
+                    "display_values": [
+                        "720 x 700mm"
+                    ]
+                }
+            ],
+            "stats": {
+                "tap_count": 0
+            },
+            "links": [],
+            "creators_primary": [
+                {
+                    "id": 1134492,
+                    "name": "Monica O'Brien",
+                    "creator_id": 73045,
+                    "role": "costume designer",
+                    "role_id": 961,
+                    "is_primary": true
+                }
+            ],
+            "creators_other": [],
+            "video_links": [],
+            "media_note": null,
+            "images": [
+                {
+                    "id": 12585,
+                    "image_file": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN1800278_BenHawaiianShirt_Front.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=rr0RO8%2FWOGzw%2FD49aWWD5SMKQiU%3D&Expires=1627009116",
+                    "image_file_thumbnail": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN1800278_BenHawaiianShirt_Front.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=ZZiSn2oVaQLz04KBufjGPUwjonw%3D&Expires=1627009116",
+                    "image_file_xs": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN1800278_BenHawaiianShirt_Front.jpg.480x480_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=Z0ax9IxTuj5oCA6qs5skOdwLo%2BQ%3D&Expires=1627009116",
+                    "image_file_s": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN1800278_BenHawaiianShirt_Front.jpg.960x960_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=FINHFscD%2F5OokFz2v2aM5OTZygk%3D&Expires=1627009116",
+                    "image_file_m": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN1800278_BenHawaiianShirt_Front.jpg.1920x1920_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=z6gTuAoYZ1VgdD5L4%2Bwz3rjIlOU%3D&Expires=1627009116",
+                    "image_file_l": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN1800278_BenHawaiianShirt_Front.jpg.3840x3840_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=oNfd%2FLkEMVntjUtGIabF7LDDtr4%3D&Expires=1627009116",
+                    "caption": "LN1800278_BenHawaiianShirt_Front",
+                    "credit_line": "Photograph by Egmont Contreras, ACMI.",
+                    "alt_text": "",
+                    "width": 3200,
+                    "height": 4054,
+                    "access_level": "View anywhere"
+                },
+                {
+                    "id": 12586,
+                    "image_file": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN1800278_BenHawaiianShirt_Back.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=Pze00qE6ycNyaHvbYxczeB%2BaZG8%3D&Expires=1627009116",
+                    "image_file_thumbnail": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN1800278_BenHawaiianShirt_Back.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=KCzPYC31w527RLnZmPR0PTdqd7k%3D&Expires=1627009116",
+                    "image_file_xs": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN1800278_BenHawaiianShirt_Back.jpg.480x480_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=%2B0AS4MS9PMagBaFzOZhf0zuHlp0%3D&Expires=1627009116",
+                    "image_file_s": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN1800278_BenHawaiianShirt_Back.jpg.960x960_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=jjB5TXokwmZIDK3LaqyQWOgbQKw%3D&Expires=1627009116",
+                    "image_file_m": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN1800278_BenHawaiianShirt_Back.jpg.1920x1920_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=khwp%2FAHyfI8mRV9DAQ2v7JAc434%3D&Expires=1627009116",
+                    "image_file_l": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN1800278_BenHawaiianShirt_Back.jpg.3840x3840_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=xVms1IbHXM7yUuSANt0oOEQ61GE%3D&Expires=1627009116",
+                    "caption": "LN1800278_BenHawaiianShirt_Back",
+                    "credit_line": "Photograph by Egmont Contreras, ACMI.",
+                    "alt_text": "",
+                    "width": 3200,
+                    "height": 4087,
+                    "access_level": "View anywhere"
+                }
+            ],
+            "videos": [],
+            "holdings": [],
+            "part_of": null,
+            "parts": [],
+            "part_siblings": [],
+            "group": {
+                "id": 107695,
+                "acmi_id": "182859",
+                "title": "The Family Law",
+                "title_annotation": "",
+                "slug": "the-family-law",
+                "creator_credit": "SBS and Matchbox Pictures",
+                "credit_line": "<p>Courtesy Matchbox Pictures Pty Ltd / SBS</p>",
+                "headline_credit": "Australia, 2016-2019",
+                "thumbnail": {
+                    "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/FC180217_FC111.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=EN%2FoYU15ElBXiWglxZNI04zpySI%3D&Expires=1627009116",
+                    "has_video": false
+                },
+                "record_type": "group",
+                "type": "Object",
+                "is_on_display": true,
+                "last_on_display_place": "ACMI: Gallery 1",
+                "last_on_display_date": "2022-02-10",
+                "is_context_indigenous": false,
+                "material_description": "",
+                "unpublished": false,
+                "first_production_date": null
+            },
+            "group_works": [],
+            "group_siblings": [
+                {
+                    "id": 113817,
+                    "acmi_id": "183595",
+                    "title": "Production stills",
+                    "title_annotation": "",
+                    "slug": "production-stills",
+                    "creator_credit": "Vincent Valitutti",
+                    "credit_line": "<p>Courtesy Matchbox Pictures Pty Ltd / SBS</p>",
+                    "headline_credit": "2019",
+                    "thumbnail": {
+                        "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/FC180217_FC111.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=EN%2FoYU15ElBXiWglxZNI04zpySI%3D&Expires=1627009116",
+                        "has_video": false
+                    },
+                    "record_type": "group",
+                    "type": "Image",
+                    "is_on_display": true,
+                    "last_on_display_place": "ACMI: Gallery 1",
+                    "last_on_display_date": "2031-02-16",
+                    "is_context_indigenous": false,
+                    "material_description": "",
+                    "unpublished": false,
+                    "first_production_date": "2019-01-01T11:00:00+11:00"
+                },
+                {
+                    "id": 117990,
+                    "acmi_id": "183852",
+                    "title": "The Family Law exhibition footage",
+                    "title_annotation": "",
+                    "slug": "the-family-law",
+                    "creator_credit": "Matchbox Pictures",
+                    "credit_line": "<p>Courtesy Matchbox Pictures Pty Ltd</p>",
+                    "headline_credit": "Australia, 2016-2019",
+                    "thumbnail": {
+                        "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/183852_FamilyLaw_videocapture.png.1200x1200_q85.png?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=AQZq6TINqyo9Fm%2FF2Aru4Gi4qck%3D&Expires=1627009116",
+                        "has_video": false
+                    },
+                    "record_type": "work",
+                    "type": "Film",
+                    "is_on_display": true,
+                    "last_on_display_place": "ACMI: Gallery 1",
+                    "last_on_display_date": "2022-02-10",
+                    "is_context_indigenous": false,
+                    "material_description": "",
+                    "unpublished": false,
+                    "first_production_date": null
+                },
+                {
+                    "id": 99792,
+                    "acmi_id": "180277",
+                    "title": "The Family Law Danny Law (Anthony Brandon Wong) Asian Alley cap",
+                    "title_annotation": "",
+                    "slug": "asian-alley-cap-with-danny-embroidered-on-the-front",
+                    "creator_credit": "Monica O'Brien",
+                    "credit_line": "<p>Courtesy Matchbox Pictures Pty Ltd</p>",
+                    "headline_credit": "Australia, 2017",
+                    "thumbnail": {
+                        "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN180277_AsianAlleyCapDanny_34.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=Uuy%2Fsfgcn8nyAUCrr2hAfgSXuaY%3D&Expires=1627009116",
+                        "has_video": false
+                    },
+                    "record_type": "work",
+                    "type": "Object",
+                    "is_on_display": true,
+                    "last_on_display_place": "ACMI: Gallery 1",
+                    "last_on_display_date": "2022-02-10",
+                    "is_context_indigenous": false,
+                    "material_description": "",
+                    "unpublished": false,
+                    "first_production_date": "2017-01-01T11:00:00+11:00"
+                },
+                {
+                    "id": 99743,
+                    "acmi_id": "180220",
+                    "title": "The Family Law\nscript from season one, episode one, 2016",
+                    "title_annotation": "Facsimile",
+                    "slug": "facsimile-script-the-family-law",
+                    "creator_credit": "Benjamin Law",
+                    "credit_line": "<p>Courtesy Matchbox Pictures Pty Ltd</p>",
+                    "headline_credit": "Australia, 2016",
+                    "thumbnail": null,
+                    "record_type": "work",
+                    "type": "Object",
+                    "is_on_display": true,
+                    "last_on_display_place": "ACMI: Gallery 1",
+                    "last_on_display_date": "2022-02-10",
+                    "is_context_indigenous": false,
+                    "material_description": "Digital print on paper",
+                    "unpublished": false,
+                    "first_production_date": "2016-01-01T11:00:00+11:00"
+                }
+            ],
+            "source": {
+                "name": "Vernon",
+                "slug": "vernon"
+            },
+            "source_identifier": "180278",
+            "production_places": [
+                {
+                    "id": 3,
+                    "name": "Australia",
+                    "slug": "australia"
+                }
+            ],
+            "production_dates": [
+                {
+                    "date": "2016",
+                    "notes": "",
+                    "to_year": "2016"
+                }
+            ],
+            "labels": [
+                39288
+            ]
+        },
+        {
+            "id": 99792,
+            "acmi_id": "180277",
+            "title": "The Family Law Danny Law (Anthony Brandon Wong) Asian Alley cap",
+            "title_annotation": "",
+            "slug": "asian-alley-cap-with-danny-embroidered-on-the-front",
+            "creator_credit": "Monica O'Brien",
+            "credit_line": "<p>Courtesy Matchbox Pictures Pty Ltd</p>",
+            "headline_credit": "Australia, 2017",
+            "thumbnail": {
+                "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN180277_AsianAlleyCapDanny_34.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=Uuy%2Fsfgcn8nyAUCrr2hAfgSXuaY%3D&Expires=1627009116",
+                "has_video": false
+            },
+            "record_type": "work",
+            "type": "Object",
+            "is_on_display": true,
+            "last_on_display_place": "ACMI: Gallery 1",
+            "last_on_display_date": "2022-02-10",
+            "is_context_indigenous": false,
+            "material_description": "",
+            "unpublished": false,
+            "first_production_date": "2017-01-01T11:00:00+11:00",
+            "brief_description": "<p>Based on Benjamin Law’s 2010 book, The Family Law was the first Australian TV show to focus on an Asian Australian family. While it explores familiar stories about an everyday family, it offers a unique perspective on what it means to be Australian today.</p>",
+            "constellations_primary": [],
+            "constellations_other": [],
+            "recommendations": [],
+            "title_for_label": "<p>Danny Law (Anthony Brandon Wong) Asian Alley cap</p>",
+            "creator_credit_for_label": "<p>Monica O&#8217;Brien</p>",
+            "headline_credit_for_label": "<p>Australia, 2017</p>",
+            "description": "",
+            "description_for_label": [],
+            "credit_line_for_label": "<p>Courtesy Matchbox Pictures Pty Ltd</p>",
+            "details": [
+                {
+                    "label": "Curatorial section",
+                    "display_values": [
+                        "The Story of the Moving Image&nbsp;→ Moving Australia&nbsp;→ 11. Screen Australia Showcase&nbsp;→ MA-11-C01"
+                    ]
+                },
+                {
+                    "label": "Measurements",
+                    "display_values": [
+                        "260 x 220mm"
+                    ]
+                }
+            ],
+            "stats": {
+                "tap_count": 0
+            },
+            "links": [],
+            "creators_primary": [
+                {
+                    "id": 1134491,
+                    "name": "Monica O'Brien",
+                    "creator_id": 73045,
+                    "role": "costume designer",
+                    "role_id": 961,
+                    "is_primary": true
+                }
+            ],
+            "creators_other": [],
+            "video_links": [],
+            "media_note": null,
+            "images": [
+                {
+                    "id": 12582,
+                    "image_file": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN180277_AsianAlleyCapDanny_34.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=fQAwzt8%2BLkHnbtRgP7ZQ3LWjxFk%3D&Expires=1627009116",
+                    "image_file_thumbnail": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN180277_AsianAlleyCapDanny_34.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=Uuy%2Fsfgcn8nyAUCrr2hAfgSXuaY%3D&Expires=1627009116",
+                    "image_file_xs": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN180277_AsianAlleyCapDanny_34.jpg.480x480_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=Vmuhku66TGie5CmtTqlaSYpZUB0%3D&Expires=1627009116",
+                    "image_file_s": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN180277_AsianAlleyCapDanny_34.jpg.960x960_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=GmAC7Oy%2BGAGE8JK3qbm08hzKIAY%3D&Expires=1627009116",
+                    "image_file_m": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN180277_AsianAlleyCapDanny_34.jpg.1920x1920_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=wLzkyTAkr%2BGgq0O8w1QY5Mfo%2Fu8%3D&Expires=1627009116",
+                    "image_file_l": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN180277_AsianAlleyCapDanny_34.jpg.3840x3840_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=wgut1pCWm4AJxaec7Y7xADkSNUQ%3D&Expires=1627009116",
+                    "caption": "LN180277_AsianAlleyCapDanny_34",
+                    "credit_line": "Photograph by Egmont Contreras, ACMI.",
+                    "alt_text": "",
+                    "width": 4800,
+                    "height": 3200,
+                    "access_level": "View anywhere"
+                },
+                {
+                    "id": 12583,
+                    "image_file": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN180277_AsianAlleyCapDanny_Front.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=pEPduFY9kYqCasGhjWxH%2B%2BcnZt8%3D&Expires=1627009116",
+                    "image_file_thumbnail": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN180277_AsianAlleyCapDanny_Front.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=Wrv5ud%2BIfvg%2BOfNt%2Bu%2F39eVkWCQ%3D&Expires=1627009116",
+                    "image_file_xs": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN180277_AsianAlleyCapDanny_Front.jpg.480x480_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=rzytR1hpmyO%2FB3Sj3Ucydd2Ymnc%3D&Expires=1627009116",
+                    "image_file_s": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN180277_AsianAlleyCapDanny_Front.jpg.960x960_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=xXo%2BA%2FuUAGg3%2BcE%2BkgRwcSrtmS0%3D&Expires=1627009116",
+                    "image_file_m": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN180277_AsianAlleyCapDanny_Front.jpg.1920x1920_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=zi3DU33vdXXg%2B81moKOX7r%2B%2FvIs%3D&Expires=1627009116",
+                    "image_file_l": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN180277_AsianAlleyCapDanny_Front.jpg.3840x3840_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=%2FBghtl6WXigfGflWkyI8ZPAUlds%3D&Expires=1627009116",
+                    "caption": "LN180277_AsianAlleyCapDanny_Front",
+                    "credit_line": "Photograph by Egmont Contreras, ACMI.",
+                    "alt_text": "",
+                    "width": 4800,
+                    "height": 3200,
+                    "access_level": "View anywhere"
+                },
+                {
+                    "id": 12584,
+                    "image_file": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN180277_AsianAlleyCapDanny_Side.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=wMRkp2QAjiCZk1zHJ264XxHqS7Q%3D&Expires=1627009116",
+                    "image_file_thumbnail": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN180277_AsianAlleyCapDanny_Side.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=43u2uDzjQAVddrkt5AuK2h3QUeA%3D&Expires=1627009116",
+                    "image_file_xs": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN180277_AsianAlleyCapDanny_Side.jpg.480x480_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=3HY3XIjp2FG4MhQ1K8Dn4ruPSVg%3D&Expires=1627009116",
+                    "image_file_s": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN180277_AsianAlleyCapDanny_Side.jpg.960x960_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=pzGRkpO0hiOzX56sGqrs2mZKq6Y%3D&Expires=1627009116",
+                    "image_file_m": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN180277_AsianAlleyCapDanny_Side.jpg.1920x1920_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=kKBIo%2BojjYBoA0hAMxRWEVP2qGA%3D&Expires=1627009116",
+                    "image_file_l": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN180277_AsianAlleyCapDanny_Side.jpg.3840x3840_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=gBxWQXCEXwoeo8XUpRRAVcM8kKQ%3D&Expires=1627009116",
+                    "caption": "LN180277_AsianAlleyCapDanny_Side",
+                    "credit_line": "Photograph by Egmont Contreras, ACMI.",
+                    "alt_text": "",
+                    "width": 4800,
+                    "height": 3200,
+                    "access_level": "View anywhere"
+                }
+            ],
+            "videos": [],
+            "holdings": [],
+            "part_of": null,
+            "parts": [],
+            "part_siblings": [],
+            "group": {
+                "id": 107695,
+                "acmi_id": "182859",
+                "title": "The Family Law",
+                "title_annotation": "",
+                "slug": "the-family-law",
+                "creator_credit": "SBS and Matchbox Pictures",
+                "credit_line": "<p>Courtesy Matchbox Pictures Pty Ltd / SBS</p>",
+                "headline_credit": "Australia, 2016-2019",
+                "thumbnail": {
+                    "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/FC180217_FC111.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=EN%2FoYU15ElBXiWglxZNI04zpySI%3D&Expires=1627009116",
+                    "has_video": false
+                },
+                "record_type": "group",
+                "type": "Object",
+                "is_on_display": true,
+                "last_on_display_place": "ACMI: Gallery 1",
+                "last_on_display_date": "2022-02-10",
+                "is_context_indigenous": false,
+                "material_description": "",
+                "unpublished": false,
+                "first_production_date": null
+            },
+            "group_works": [],
+            "group_siblings": [
+                {
+                    "id": 113817,
+                    "acmi_id": "183595",
+                    "title": "Production stills",
+                    "title_annotation": "",
+                    "slug": "production-stills",
+                    "creator_credit": "Vincent Valitutti",
+                    "credit_line": "<p>Courtesy Matchbox Pictures Pty Ltd / SBS</p>",
+                    "headline_credit": "2019",
+                    "thumbnail": {
+                        "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/FC180217_FC111.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=EN%2FoYU15ElBXiWglxZNI04zpySI%3D&Expires=1627009116",
+                        "has_video": false
+                    },
+                    "record_type": "group",
+                    "type": "Image",
+                    "is_on_display": true,
+                    "last_on_display_place": "ACMI: Gallery 1",
+                    "last_on_display_date": "2031-02-16",
+                    "is_context_indigenous": false,
+                    "material_description": "",
+                    "unpublished": false,
+                    "first_production_date": "2019-01-01T11:00:00+11:00"
+                },
+                {
+                    "id": 117990,
+                    "acmi_id": "183852",
+                    "title": "The Family Law exhibition footage",
+                    "title_annotation": "",
+                    "slug": "the-family-law",
+                    "creator_credit": "Matchbox Pictures",
+                    "credit_line": "<p>Courtesy Matchbox Pictures Pty Ltd</p>",
+                    "headline_credit": "Australia, 2016-2019",
+                    "thumbnail": {
+                        "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/183852_FamilyLaw_videocapture.png.1200x1200_q85.png?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=AQZq6TINqyo9Fm%2FF2Aru4Gi4qck%3D&Expires=1627009116",
+                        "has_video": false
+                    },
+                    "record_type": "work",
+                    "type": "Film",
+                    "is_on_display": true,
+                    "last_on_display_place": "ACMI: Gallery 1",
+                    "last_on_display_date": "2022-02-10",
+                    "is_context_indigenous": false,
+                    "material_description": "",
+                    "unpublished": false,
+                    "first_production_date": null
+                },
+                {
+                    "id": 99793,
+                    "acmi_id": "180278",
+                    "title": "The Family Law Ben Law (Trystan Go) Hawaiian shirt",
+                    "title_annotation": "",
+                    "slug": "bens-hawaiian-shirt",
+                    "creator_credit": "Monica O'Brien",
+                    "credit_line": "<p>Courtesy Matchbox Pictures Pty Ltd</p>",
+                    "headline_credit": "Australia, 2016",
+                    "thumbnail": {
+                        "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN1800278_BenHawaiianShirt_Front.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=ZZiSn2oVaQLz04KBufjGPUwjonw%3D&Expires=1627009116",
+                        "has_video": false
+                    },
+                    "record_type": "work",
+                    "type": "Object",
+                    "is_on_display": true,
+                    "last_on_display_place": "ACMI: Gallery 1",
+                    "last_on_display_date": "2022-02-10",
+                    "is_context_indigenous": false,
+                    "material_description": "",
+                    "unpublished": false,
+                    "first_production_date": "2016-01-01T11:00:00+11:00"
+                },
+                {
+                    "id": 99743,
+                    "acmi_id": "180220",
+                    "title": "The Family Law\nscript from season one, episode one, 2016",
+                    "title_annotation": "Facsimile",
+                    "slug": "facsimile-script-the-family-law",
+                    "creator_credit": "Benjamin Law",
+                    "credit_line": "<p>Courtesy Matchbox Pictures Pty Ltd</p>",
+                    "headline_credit": "Australia, 2016",
+                    "thumbnail": null,
+                    "record_type": "work",
+                    "type": "Object",
+                    "is_on_display": true,
+                    "last_on_display_place": "ACMI: Gallery 1",
+                    "last_on_display_date": "2022-02-10",
+                    "is_context_indigenous": false,
+                    "material_description": "Digital print on paper",
+                    "unpublished": false,
+                    "first_production_date": "2016-01-01T11:00:00+11:00"
+                }
+            ],
+            "source": {
+                "name": "Vernon",
+                "slug": "vernon"
+            },
+            "source_identifier": "180277",
+            "production_places": [
+                {
+                    "id": 3,
+                    "name": "Australia",
+                    "slug": "australia"
+                }
+            ],
+            "production_dates": [
+                {
+                    "date": "2017",
+                    "notes": "",
+                    "to_year": "2017"
+                }
+            ],
+            "labels": [
+                39287
+            ]
+        },
+        {
+            "id": 99791,
+            "acmi_id": "180274",
+            "title": "Sayon Toch Youm soundtrack",
+            "title_annotation": "Facsimile",
+            "slug": "facsimile-record-cover-soundtrack-to-sayon-toch-youm",
+            "creator_credit": "Sovann Kiry Film",
+            "credit_line": "<p>Bophana Audiovisual Resource Center</p>",
+            "headline_credit": "Cambodia, c. 1960s",
+            "thumbnail": {
+                "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/FC180274_FC168a.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=N8gAIfq8by6JMd%2F22Czt%2FjepT48%3D&Expires=1627009116",
+                "has_video": false
+            },
+            "record_type": "work",
+            "type": "Object",
+            "is_on_display": true,
+            "last_on_display_place": "ACMI: Gallery 1",
+            "last_on_display_date": "2024-02-08",
+            "is_context_indigenous": false,
+            "material_description": "Digital print on paper",
+            "unpublished": false,
+            "first_production_date": null,
+            "brief_description": "",
+            "constellations_primary": [],
+            "constellations_other": [],
+            "recommendations": [],
+            "title_for_label": "<p>Sayon Toch Youm soundtrack</p>",
+            "creator_credit_for_label": "<p>Sovann Kiry Film</p>",
+            "headline_credit_for_label": "<p>Cambodia, c. 1960s</p>",
+            "description": "",
+            "description_for_label": [],
+            "credit_line_for_label": "<p>Bophana Audiovisual Resource Center</p>",
+            "details": [
+                {
+                    "label": "Curatorial section",
+                    "display_values": [
+                        "The Story of the Moving Image&nbsp;→ Moving Minds&nbsp;→ 07. Bophana&nbsp;→ MM-07-C01"
+                    ]
+                },
+                {
+                    "label": "Measurements",
+                    "display_values": [
+                        "180 x 180mm"
+                    ]
+                },
+                {
+                    "label": "Materials",
+                    "display_values": [
+                        "Digital print on paper"
+                    ]
+                }
+            ],
+            "stats": {
+                "tap_count": 0
+            },
+            "links": [],
+            "creators_primary": [
+                {
+                    "id": 1134490,
+                    "name": "Sovann Kiry Film",
+                    "creator_id": 84376,
+                    "role": "creator",
+                    "role_id": 968,
+                    "is_primary": true
+                }
+            ],
+            "creators_other": [],
+            "video_links": [],
+            "media_note": null,
+            "images": [
+                {
+                    "id": 12165,
+                    "image_file": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/FC180274_FC168a.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=IbHSG%2FpG4tUdwPmRHY4zOPHw0ms%3D&Expires=1627009116",
+                    "image_file_thumbnail": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/FC180274_FC168a.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=N8gAIfq8by6JMd%2F22Czt%2FjepT48%3D&Expires=1627009116",
+                    "image_file_xs": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/FC180274_FC168a.jpg.480x480_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=3EQh76r%2FdomCnJMLVyB3Ldx2w%2BM%3D&Expires=1627009116",
+                    "image_file_s": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/FC180274_FC168a.jpg.960x960_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=xWkkvZ6n8uJAH0guk22x36RHy%2FU%3D&Expires=1627009116",
+                    "image_file_m": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/FC180274_FC168a.jpg.1920x1920_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=JW9O6lwxEuNFn9dGPSW3XDPf3Y4%3D&Expires=1627009116",
+                    "image_file_l": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/FC180274_FC168a.jpg.3840x3840_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=6adlJFCTt0ee6KMST%2BpVNijO0kw%3D&Expires=1627009116",
+                    "caption": "",
+                    "credit_line": "",
+                    "alt_text": "",
+                    "width": 1428,
+                    "height": 1417,
+                    "access_level": "View anywhere"
+                },
+                {
+                    "id": 12166,
+                    "image_file": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/FC180274_FC168b.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=PwPzKU2FDAHl7Wqq%2BM%2Bj3ta0hRg%3D&Expires=1627009116",
+                    "image_file_thumbnail": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/FC180274_FC168b.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=FX3OQ1%2Bk%2FEm7js0noDOYr%2FLY0z8%3D&Expires=1627009116",
+                    "image_file_xs": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/FC180274_FC168b.jpg.480x480_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=NkH67PbQcEAx9tdOvcZYGMnpnYU%3D&Expires=1627009116",
+                    "image_file_s": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/FC180274_FC168b.jpg.960x960_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=s3uAVVmMskU5m4omaNzHwy441zg%3D&Expires=1627009116",
+                    "image_file_m": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/FC180274_FC168b.jpg.1920x1920_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=ggLBCrfp3nZWMR6UeVz1SGKp6GE%3D&Expires=1627009116",
+                    "image_file_l": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/FC180274_FC168b.jpg.3840x3840_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=MmqMltnLeL%2BycKlLIVBduwIQ0v0%3D&Expires=1627009116",
+                    "caption": "",
+                    "credit_line": "",
+                    "alt_text": "",
+                    "width": 1406,
+                    "height": 1417,
+                    "access_level": "View anywhere"
+                }
+            ],
+            "videos": [],
+            "holdings": [],
+            "part_of": null,
+            "parts": [],
+            "part_siblings": [],
+            "group": {
+                "id": 117971,
+                "acmi_id": "183948",
+                "title": "Bophana",
+                "title_annotation": "",
+                "slug": "bophana",
+                "creator_credit": "",
+                "credit_line": "",
+                "headline_credit": "",
+                "thumbnail": {
+                    "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/FC180272_FC166a.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=XJ0sj%2BCxR4H9xdB%2Fy3HlgU5xwvs%3D&Expires=1627009116",
+                    "has_video": false
+                },
+                "record_type": "group",
+                "type": "Object",
+                "is_on_display": true,
+                "last_on_display_place": "ACMI: Gallery 1",
+                "last_on_display_date": "2024-02-08",
+                "is_context_indigenous": false,
+                "material_description": "",
+                "unpublished": false,
+                "first_production_date": null
+            },
+            "group_works": [],
+            "group_siblings": [
+                {
+                    "id": 99789,
+                    "acmi_id": "180272",
+                    "title": "Abolkasem soundtrack",
+                    "title_annotation": "Facsimile",
+                    "slug": "facsimile-record-cover-soundtrack-to-abulkasem",
+                    "creator_credit": "Baksey Than Suor",
+                    "credit_line": "<p>Bophana Audiovisual Resource Center.</p>",
+                    "headline_credit": "Cambodia, c. 1960s",
+                    "thumbnail": {
+                        "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/FC180272_FC166a.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=XJ0sj%2BCxR4H9xdB%2Fy3HlgU5xwvs%3D&Expires=1627009116",
+                        "has_video": false
+                    },
+                    "record_type": "work",
+                    "type": "Object",
+                    "is_on_display": true,
+                    "last_on_display_place": "ACMI: Gallery 1",
+                    "last_on_display_date": "2024-02-08",
+                    "is_context_indigenous": false,
+                    "material_description": "Digital print on paper",
+                    "unpublished": false,
+                    "first_production_date": null
+                },
+                {
+                    "id": 107562,
+                    "acmi_id": "180670",
+                    "title": "Cinema d'Etat known as Chenla Theatre, Phnom Penh",
+                    "title_annotation": "",
+                    "slug": "graphic-newly-built-theatre-cinema-detat-known-as-chenla-theatre-phnom-penh-cambodia-1969",
+                    "creator_credit": "Adolf Scherl",
+                    "credit_line": "<p>Bophana Audiovisual Resource Center</p>",
+                    "headline_credit": "Cambodia, 1969",
+                    "thumbnail": {
+                        "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/P180670_G365.JPG.1200x1200_q85.JPG?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=UQAfPevTz4WSxdAmYKBw4nrqdmY%3D&Expires=1627009116",
+                        "has_video": false
+                    },
+                    "record_type": "work",
+                    "type": "Object",
+                    "is_on_display": true,
+                    "last_on_display_place": "ACMI: Gallery 1",
+                    "last_on_display_date": "2024-02-08",
+                    "is_context_indigenous": false,
+                    "material_description": "Graphic",
+                    "unpublished": false,
+                    "first_production_date": "1969-01-01T10:00:00+10:00"
+                },
+                {
+                    "id": 107561,
+                    "acmi_id": "180669",
+                    "title": "Cinema Eden in Phnom Penh",
+                    "title_annotation": "",
+                    "slug": "graphic-cinema-eden-on-khemarak-phonim-street-phnom-penh-cambodia-1968-69",
+                    "creator_credit": "Adolf Scherl",
+                    "credit_line": "<p>Bophana Audiovisual Resource Center</p>",
+                    "headline_credit": "Cambodia, c. 1968-c. 1969",
+                    "thumbnail": {
+                        "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/P180669_G364.JPG.1200x1200_q85.JPG?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=1IjLwYIsGzOjCmMpv70aRh2OA0E%3D&Expires=1627009116",
+                        "has_video": false
+                    },
+                    "record_type": "work",
+                    "type": "Object",
+                    "is_on_display": true,
+                    "last_on_display_place": "ACMI: Gallery 1",
+                    "last_on_display_date": "2024-02-08",
+                    "is_context_indigenous": false,
+                    "material_description": "Graphic",
+                    "unpublished": false,
+                    "first_production_date": null
+                },
+                {
+                    "id": 107559,
+                    "acmi_id": "180667",
+                    "title": "Cinema in Phnom Penh",
+                    "title_annotation": "",
+                    "slug": "graphic-cinema-near-small-market-phnom-penh-cambodia-1968",
+                    "creator_credit": "Adolf Scherl",
+                    "credit_line": "<p>Bophana Audiovisual Resource Center</p>",
+                    "headline_credit": "Cambodia, 1968",
+                    "thumbnail": {
+                        "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/P180667_G362.JPG.1200x1200_q85.JPG?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=Xa0kAZUJotxpPL0wlUlPE2nTxHw%3D&Expires=1627009116",
+                        "has_video": false
+                    },
+                    "record_type": "work",
+                    "type": "Object",
+                    "is_on_display": true,
+                    "last_on_display_place": "ACMI: Gallery 1",
+                    "last_on_display_date": "2024-02-08",
+                    "is_context_indigenous": false,
+                    "material_description": "Graphic",
+                    "unpublished": false,
+                    "first_production_date": "1968-01-01T10:00:00+10:00"
+                },
+                {
+                    "id": 107560,
+                    "acmi_id": "180668",
+                    "title": "Cinema Trung Quoc in Phnom Penh",
+                    "title_annotation": "",
+                    "slug": "graphic-cinema-trung-quoc-on-ang-eng-street-phnom-penh-cambodia-1968-1969",
+                    "creator_credit": "Adolf Scherl",
+                    "credit_line": "<p>Bophana Audiovisual Resource Center</p>",
+                    "headline_credit": "Cambodia, c. 1968-c. 1969",
+                    "thumbnail": {
+                        "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/P180668_G363.JPG.1200x1200_q85.JPG?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=sMJHthCT%2BGTzNGLpuuuWvsD%2FAqE%3D&Expires=1627009116",
+                        "has_video": false
+                    },
+                    "record_type": "work",
+                    "type": "Object",
+                    "is_on_display": true,
+                    "last_on_display_place": "ACMI: Gallery 1",
+                    "last_on_display_date": "2024-02-08",
+                    "is_context_indigenous": false,
+                    "material_description": "Graphic",
+                    "unpublished": false,
+                    "first_production_date": null
+                },
+                {
+                    "id": 107564,
+                    "acmi_id": "180672",
+                    "title": "Director Yvon Hem",
+                    "title_annotation": "",
+                    "slug": "graphic-yvon-hem-cambodia",
+                    "creator_credit": "",
+                    "credit_line": "<p>Yvon Hem / Bophana Audiovisual Resource Center</p>",
+                    "headline_credit": "Cambodia, c. 1970s",
+                    "thumbnail": {
+                        "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/P180672_G367.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=T2%2F%2FeGQCDzn%2BVm4egPg1AUUW%2Bno%3D&Expires=1627009116",
+                        "has_video": false
+                    },
+                    "record_type": "work",
+                    "type": "Object",
+                    "is_on_display": true,
+                    "last_on_display_place": "ACMI: Gallery 1",
+                    "last_on_display_date": "2024-02-08",
+                    "is_context_indigenous": false,
+                    "material_description": "Graphic",
+                    "unpublished": false,
+                    "first_production_date": null
+                },
+                {
+                    "id": 107565,
+                    "acmi_id": "180673",
+                    "title": "Film stars Hem Narie and Mab Noya",
+                    "title_annotation": "",
+                    "slug": "graphic-hem-narie-and-mab-noya-cambodia",
+                    "creator_credit": "",
+                    "credit_line": "<p>Yvon Hem / Bophana Audiovisual Resource Center</p>",
+                    "headline_credit": "Cambodia, c. 1970s",
+                    "thumbnail": {
+                        "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/P180673_G368.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=ii6iKcMnycwiSyLu4SdoIoJ7vfk%3D&Expires=1627009116",
+                        "has_video": false
+                    },
+                    "record_type": "work",
+                    "type": "Object",
+                    "is_on_display": true,
+                    "last_on_display_place": "ACMI: Gallery 1",
+                    "last_on_display_date": "2024-02-08",
+                    "is_context_indigenous": false,
+                    "material_description": "Graphic",
+                    "unpublished": false,
+                    "first_production_date": null
+                },
+                {
+                    "id": 107563,
+                    "acmi_id": "180671",
+                    "title": "Kiosks near Cinema d'Etat, Phnom Penh",
+                    "title_annotation": "",
+                    "slug": "graphic-new-kiosks-near-cinema-detat-phnom-penh-cambodia-1969",
+                    "creator_credit": "Adolf Scherl",
+                    "credit_line": "<p>Bophana Audiovisual Resource Center</p>",
+                    "headline_credit": "Cambodia, 1969",
+                    "thumbnail": {
+                        "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/P180671_G366.JPG.1200x1200_q85.JPG?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=QmMKzbGleNx53nxcXOJpDECD%2Fs4%3D&Expires=1627009116",
+                        "has_video": false
+                    },
+                    "record_type": "work",
+                    "type": "Object",
+                    "is_on_display": true,
+                    "last_on_display_place": "ACMI: Gallery 1",
+                    "last_on_display_date": "2024-02-08",
+                    "is_context_indigenous": false,
+                    "material_description": "Graphic",
+                    "unpublished": false,
+                    "first_production_date": "1969-01-01T10:00:00+10:00"
+                },
+                {
+                    "id": 99790,
+                    "acmi_id": "180273",
+                    "title": "L'Oiseau de Paradis (Bird of Paradise) soundtrack",
+                    "title_annotation": "Facsimile",
+                    "slug": "facsimile-record-cover-soundtrack-to-bird-of-paradise",
+                    "creator_credit": "Cine Alliance and Speva Films",
+                    "credit_line": "<p>Bophana Audiovisual Resource Center.</p>",
+                    "headline_credit": "Cambodia and France, 1962",
+                    "thumbnail": {
+                        "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/FC180273_FC167a.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=pvtOjJr7XDOdtR46cPSwnuLxQuw%3D&Expires=1627009116",
+                        "has_video": false
+                    },
+                    "record_type": "work",
+                    "type": "Object",
+                    "is_on_display": true,
+                    "last_on_display_place": "ACMI: Gallery 1",
+                    "last_on_display_date": "2024-02-08",
+                    "is_context_indigenous": false,
+                    "material_description": "Digital print on paper",
+                    "unpublished": false,
+                    "first_production_date": "1962-01-01T10:00:00+10:00"
+                },
+                {
+                    "id": 107557,
+                    "acmi_id": "180665",
+                    "title": "Lobby card from Marcel Camus’ L'Oiseau de Paradis (Bird of Paradise)",
+                    "title_annotation": "",
+                    "slug": "graphic-lobby-card-for-bird-of-paradise",
+                    "creator_credit": "",
+                    "credit_line": "",
+                    "headline_credit": "Cambodia and France, 1962",
+                    "thumbnail": null,
+                    "record_type": "work",
+                    "type": "Object",
+                    "is_on_display": true,
+                    "last_on_display_place": "ACMI: Gallery 1",
+                    "last_on_display_date": "2024-02-08",
+                    "is_context_indigenous": false,
+                    "material_description": "Graphic",
+                    "unpublished": false,
+                    "first_production_date": "1962-01-01T10:00:00+10:00"
+                },
+                {
+                    "id": 107558,
+                    "acmi_id": "180666",
+                    "title": "Lobby card from Marcel Camus’ L'Oiseau de Paradis (Bird of Paradise)",
+                    "title_annotation": "",
+                    "slug": "graphic-lobby-card-for-bird-of-paradise",
+                    "creator_credit": "",
+                    "credit_line": "",
+                    "headline_credit": "Cambodia and France, 1962",
+                    "thumbnail": null,
+                    "record_type": "work",
+                    "type": "Object",
+                    "is_on_display": true,
+                    "last_on_display_place": "ACMI: Gallery 1",
+                    "last_on_display_date": "2024-02-08",
+                    "is_context_indigenous": false,
+                    "material_description": "Graphic",
+                    "unpublished": false,
+                    "first_production_date": "1962-01-01T10:00:00+10:00"
+                },
+                {
+                    "id": 107566,
+                    "acmi_id": "180674",
+                    "title": "Surprise party",
+                    "title_annotation": "",
+                    "slug": "graphic-surprise-party-cambodia-1975",
+                    "creator_credit": "",
+                    "credit_line": "<p>Yvon Hem / Bophana Audiovisual Resource Center</p>",
+                    "headline_credit": "Cambodia, 1975",
+                    "thumbnail": {
+                        "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/P180674_G369.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=4Faf5DTF1J1XrBgeLsrIvMH025I%3D&Expires=1627009116",
+                        "has_video": false
+                    },
+                    "record_type": "work",
+                    "type": "Object",
+                    "is_on_display": true,
+                    "last_on_display_place": "ACMI: Gallery 1",
+                    "last_on_display_date": "2024-02-08",
+                    "is_context_indigenous": false,
+                    "material_description": "Graphic",
+                    "unpublished": false,
+                    "first_production_date": "1975-01-01T11:00:00+11:00"
+                }
+            ],
+            "source": {
+                "name": "Vernon",
+                "slug": "vernon"
+            },
+            "source_identifier": "180274",
+            "production_places": [
+                {
+                    "id": 5,
+                    "name": "Cambodia",
+                    "slug": "cambodia"
+                }
+            ],
+            "production_dates": [
+                {
+                    "date": "c. 1960s",
+                    "notes": "",
+                    "to_year": "c. 1960s"
+                }
+            ],
+            "labels": [
+                39286
+            ]
+        },
+        {
+            "id": 99790,
+            "acmi_id": "180273",
+            "title": "L'Oiseau de Paradis (Bird of Paradise) soundtrack",
+            "title_annotation": "Facsimile",
+            "slug": "facsimile-record-cover-soundtrack-to-bird-of-paradise",
+            "creator_credit": "Cine Alliance and Speva Films",
+            "credit_line": "<p>Bophana Audiovisual Resource Center.</p>",
+            "headline_credit": "Cambodia and France, 1962",
+            "thumbnail": {
+                "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/FC180273_FC167a.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=pvtOjJr7XDOdtR46cPSwnuLxQuw%3D&Expires=1627009116",
+                "has_video": false
+            },
+            "record_type": "work",
+            "type": "Object",
+            "is_on_display": true,
+            "last_on_display_place": "ACMI: Gallery 1",
+            "last_on_display_date": "2024-02-08",
+            "is_context_indigenous": false,
+            "material_description": "Digital print on paper",
+            "unpublished": false,
+            "first_production_date": "1962-01-01T10:00:00+10:00",
+            "brief_description": "",
+            "constellations_primary": [],
+            "constellations_other": [],
+            "recommendations": [],
+            "title_for_label": "<p>L&#8217;Oiseau de Paradis (Bird of Paradise) soundtrack</p>",
+            "creator_credit_for_label": "<p>Cine Alliance and Speva Films</p>",
+            "headline_credit_for_label": "<p>Cambodia and France, 1962</p>",
+            "description": "",
+            "description_for_label": [],
+            "credit_line_for_label": "<p>Bophana Audiovisual Resource Center.</p>",
+            "details": [
+                {
+                    "label": "Curatorial section",
+                    "display_values": [
+                        "The Story of the Moving Image&nbsp;→ Moving Minds&nbsp;→ 07. Bophana&nbsp;→ MM-07-C01"
+                    ]
+                },
+                {
+                    "label": "Measurements",
+                    "display_values": [
+                        "180 x 180mm"
+                    ]
+                },
+                {
+                    "label": "Materials",
+                    "display_values": [
+                        "Digital print on paper"
+                    ]
+                }
+            ],
+            "stats": {
+                "tap_count": 0
+            },
+            "links": [],
+            "creators_primary": [
+                {
+                    "id": 1134489,
+                    "name": "Cine Alliance",
+                    "creator_id": 24552,
+                    "role": "creator",
+                    "role_id": 968,
+                    "is_primary": true
+                },
+                {
+                    "id": 1134488,
+                    "name": "Speva Films",
+                    "creator_id": 77433,
+                    "role": "creator",
+                    "role_id": 968,
+                    "is_primary": true
+                }
+            ],
+            "creators_other": [],
+            "video_links": [],
+            "media_note": null,
+            "images": [
+                {
+                    "id": 12163,
+                    "image_file": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/FC180273_FC167a.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=HOw4gusSrnFgK0jZXfWbG4umsHA%3D&Expires=1627009116",
+                    "image_file_thumbnail": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/FC180273_FC167a.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=pvtOjJr7XDOdtR46cPSwnuLxQuw%3D&Expires=1627009116",
+                    "image_file_xs": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/FC180273_FC167a.jpg.480x480_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=xd7J96UO03qLh68IZGv2WwhlRvc%3D&Expires=1627009116",
+                    "image_file_s": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/FC180273_FC167a.jpg.960x960_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=a1dJdWqrdnv8WZac63dAkXsTWKY%3D&Expires=1627009116",
+                    "image_file_m": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/FC180273_FC167a.jpg.1920x1920_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=lERoNM2bnmsgQ5xZdeO7WHXUfh0%3D&Expires=1627009116",
+                    "image_file_l": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/FC180273_FC167a.jpg.3840x3840_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=RfbOHhyhRlLtlKlgJc8mlcbG24I%3D&Expires=1627009116",
+                    "caption": "",
+                    "credit_line": "",
+                    "alt_text": "",
+                    "width": 1419,
+                    "height": 1417,
+                    "access_level": "View anywhere"
+                },
+                {
+                    "id": 12164,
+                    "image_file": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/FC180273_FC167b.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=qxVPUdlawgmdra78JXTi0ZSCvxA%3D&Expires=1627009116",
+                    "image_file_thumbnail": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/FC180273_FC167b.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=DhIpEm4smWBxuaX0x90boP%2F8ZT4%3D&Expires=1627009116",
+                    "image_file_xs": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/FC180273_FC167b.jpg.480x480_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=7nXBij%2BDHpS%2FMCkemoB2zowsRgg%3D&Expires=1627009116",
+                    "image_file_s": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/FC180273_FC167b.jpg.960x960_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=8uiqRJsB5TX5G4Wv1tB%2B6eoKhAA%3D&Expires=1627009116",
+                    "image_file_m": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/FC180273_FC167b.jpg.1920x1920_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=1m5Jl%2B%2F930azHWKmVwHT%2FyCZ%2FmQ%3D&Expires=1627009116",
+                    "image_file_l": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/FC180273_FC167b.jpg.3840x3840_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=A3sdLDxCuJrwjcPhKggElpBHeAM%3D&Expires=1627009116",
+                    "caption": "",
+                    "credit_line": "",
+                    "alt_text": "",
+                    "width": 1442,
+                    "height": 1417,
+                    "access_level": "View anywhere"
+                }
+            ],
+            "videos": [],
+            "holdings": [],
+            "part_of": null,
+            "parts": [],
+            "part_siblings": [],
+            "group": {
+                "id": 117971,
+                "acmi_id": "183948",
+                "title": "Bophana",
+                "title_annotation": "",
+                "slug": "bophana",
+                "creator_credit": "",
+                "credit_line": "",
+                "headline_credit": "",
+                "thumbnail": {
+                    "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/FC180272_FC166a.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=XJ0sj%2BCxR4H9xdB%2Fy3HlgU5xwvs%3D&Expires=1627009116",
+                    "has_video": false
+                },
+                "record_type": "group",
+                "type": "Object",
+                "is_on_display": true,
+                "last_on_display_place": "ACMI: Gallery 1",
+                "last_on_display_date": "2024-02-08",
+                "is_context_indigenous": false,
+                "material_description": "",
+                "unpublished": false,
+                "first_production_date": null
+            },
+            "group_works": [],
+            "group_siblings": [
+                {
+                    "id": 99789,
+                    "acmi_id": "180272",
+                    "title": "Abolkasem soundtrack",
+                    "title_annotation": "Facsimile",
+                    "slug": "facsimile-record-cover-soundtrack-to-abulkasem",
+                    "creator_credit": "Baksey Than Suor",
+                    "credit_line": "<p>Bophana Audiovisual Resource Center.</p>",
+                    "headline_credit": "Cambodia, c. 1960s",
+                    "thumbnail": {
+                        "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/FC180272_FC166a.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=XJ0sj%2BCxR4H9xdB%2Fy3HlgU5xwvs%3D&Expires=1627009116",
+                        "has_video": false
+                    },
+                    "record_type": "work",
+                    "type": "Object",
+                    "is_on_display": true,
+                    "last_on_display_place": "ACMI: Gallery 1",
+                    "last_on_display_date": "2024-02-08",
+                    "is_context_indigenous": false,
+                    "material_description": "Digital print on paper",
+                    "unpublished": false,
+                    "first_production_date": null
+                },
+                {
+                    "id": 107562,
+                    "acmi_id": "180670",
+                    "title": "Cinema d'Etat known as Chenla Theatre, Phnom Penh",
+                    "title_annotation": "",
+                    "slug": "graphic-newly-built-theatre-cinema-detat-known-as-chenla-theatre-phnom-penh-cambodia-1969",
+                    "creator_credit": "Adolf Scherl",
+                    "credit_line": "<p>Bophana Audiovisual Resource Center</p>",
+                    "headline_credit": "Cambodia, 1969",
+                    "thumbnail": {
+                        "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/P180670_G365.JPG.1200x1200_q85.JPG?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=UQAfPevTz4WSxdAmYKBw4nrqdmY%3D&Expires=1627009116",
+                        "has_video": false
+                    },
+                    "record_type": "work",
+                    "type": "Object",
+                    "is_on_display": true,
+                    "last_on_display_place": "ACMI: Gallery 1",
+                    "last_on_display_date": "2024-02-08",
+                    "is_context_indigenous": false,
+                    "material_description": "Graphic",
+                    "unpublished": false,
+                    "first_production_date": "1969-01-01T10:00:00+10:00"
+                },
+                {
+                    "id": 107561,
+                    "acmi_id": "180669",
+                    "title": "Cinema Eden in Phnom Penh",
+                    "title_annotation": "",
+                    "slug": "graphic-cinema-eden-on-khemarak-phonim-street-phnom-penh-cambodia-1968-69",
+                    "creator_credit": "Adolf Scherl",
+                    "credit_line": "<p>Bophana Audiovisual Resource Center</p>",
+                    "headline_credit": "Cambodia, c. 1968-c. 1969",
+                    "thumbnail": {
+                        "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/P180669_G364.JPG.1200x1200_q85.JPG?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=1IjLwYIsGzOjCmMpv70aRh2OA0E%3D&Expires=1627009116",
+                        "has_video": false
+                    },
+                    "record_type": "work",
+                    "type": "Object",
+                    "is_on_display": true,
+                    "last_on_display_place": "ACMI: Gallery 1",
+                    "last_on_display_date": "2024-02-08",
+                    "is_context_indigenous": false,
+                    "material_description": "Graphic",
+                    "unpublished": false,
+                    "first_production_date": null
+                },
+                {
+                    "id": 107559,
+                    "acmi_id": "180667",
+                    "title": "Cinema in Phnom Penh",
+                    "title_annotation": "",
+                    "slug": "graphic-cinema-near-small-market-phnom-penh-cambodia-1968",
+                    "creator_credit": "Adolf Scherl",
+                    "credit_line": "<p>Bophana Audiovisual Resource Center</p>",
+                    "headline_credit": "Cambodia, 1968",
+                    "thumbnail": {
+                        "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/P180667_G362.JPG.1200x1200_q85.JPG?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=Xa0kAZUJotxpPL0wlUlPE2nTxHw%3D&Expires=1627009116",
+                        "has_video": false
+                    },
+                    "record_type": "work",
+                    "type": "Object",
+                    "is_on_display": true,
+                    "last_on_display_place": "ACMI: Gallery 1",
+                    "last_on_display_date": "2024-02-08",
+                    "is_context_indigenous": false,
+                    "material_description": "Graphic",
+                    "unpublished": false,
+                    "first_production_date": "1968-01-01T10:00:00+10:00"
+                },
+                {
+                    "id": 107560,
+                    "acmi_id": "180668",
+                    "title": "Cinema Trung Quoc in Phnom Penh",
+                    "title_annotation": "",
+                    "slug": "graphic-cinema-trung-quoc-on-ang-eng-street-phnom-penh-cambodia-1968-1969",
+                    "creator_credit": "Adolf Scherl",
+                    "credit_line": "<p>Bophana Audiovisual Resource Center</p>",
+                    "headline_credit": "Cambodia, c. 1968-c. 1969",
+                    "thumbnail": {
+                        "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/P180668_G363.JPG.1200x1200_q85.JPG?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=sMJHthCT%2BGTzNGLpuuuWvsD%2FAqE%3D&Expires=1627009116",
+                        "has_video": false
+                    },
+                    "record_type": "work",
+                    "type": "Object",
+                    "is_on_display": true,
+                    "last_on_display_place": "ACMI: Gallery 1",
+                    "last_on_display_date": "2024-02-08",
+                    "is_context_indigenous": false,
+                    "material_description": "Graphic",
+                    "unpublished": false,
+                    "first_production_date": null
+                },
+                {
+                    "id": 107564,
+                    "acmi_id": "180672",
+                    "title": "Director Yvon Hem",
+                    "title_annotation": "",
+                    "slug": "graphic-yvon-hem-cambodia",
+                    "creator_credit": "",
+                    "credit_line": "<p>Yvon Hem / Bophana Audiovisual Resource Center</p>",
+                    "headline_credit": "Cambodia, c. 1970s",
+                    "thumbnail": {
+                        "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/P180672_G367.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=T2%2F%2FeGQCDzn%2BVm4egPg1AUUW%2Bno%3D&Expires=1627009116",
+                        "has_video": false
+                    },
+                    "record_type": "work",
+                    "type": "Object",
+                    "is_on_display": true,
+                    "last_on_display_place": "ACMI: Gallery 1",
+                    "last_on_display_date": "2024-02-08",
+                    "is_context_indigenous": false,
+                    "material_description": "Graphic",
+                    "unpublished": false,
+                    "first_production_date": null
+                },
+                {
+                    "id": 107565,
+                    "acmi_id": "180673",
+                    "title": "Film stars Hem Narie and Mab Noya",
+                    "title_annotation": "",
+                    "slug": "graphic-hem-narie-and-mab-noya-cambodia",
+                    "creator_credit": "",
+                    "credit_line": "<p>Yvon Hem / Bophana Audiovisual Resource Center</p>",
+                    "headline_credit": "Cambodia, c. 1970s",
+                    "thumbnail": {
+                        "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/P180673_G368.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=ii6iKcMnycwiSyLu4SdoIoJ7vfk%3D&Expires=1627009116",
+                        "has_video": false
+                    },
+                    "record_type": "work",
+                    "type": "Object",
+                    "is_on_display": true,
+                    "last_on_display_place": "ACMI: Gallery 1",
+                    "last_on_display_date": "2024-02-08",
+                    "is_context_indigenous": false,
+                    "material_description": "Graphic",
+                    "unpublished": false,
+                    "first_production_date": null
+                },
+                {
+                    "id": 107563,
+                    "acmi_id": "180671",
+                    "title": "Kiosks near Cinema d'Etat, Phnom Penh",
+                    "title_annotation": "",
+                    "slug": "graphic-new-kiosks-near-cinema-detat-phnom-penh-cambodia-1969",
+                    "creator_credit": "Adolf Scherl",
+                    "credit_line": "<p>Bophana Audiovisual Resource Center</p>",
+                    "headline_credit": "Cambodia, 1969",
+                    "thumbnail": {
+                        "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/P180671_G366.JPG.1200x1200_q85.JPG?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=QmMKzbGleNx53nxcXOJpDECD%2Fs4%3D&Expires=1627009116",
+                        "has_video": false
+                    },
+                    "record_type": "work",
+                    "type": "Object",
+                    "is_on_display": true,
+                    "last_on_display_place": "ACMI: Gallery 1",
+                    "last_on_display_date": "2024-02-08",
+                    "is_context_indigenous": false,
+                    "material_description": "Graphic",
+                    "unpublished": false,
+                    "first_production_date": "1969-01-01T10:00:00+10:00"
+                },
+                {
+                    "id": 107557,
+                    "acmi_id": "180665",
+                    "title": "Lobby card from Marcel Camus’ L'Oiseau de Paradis (Bird of Paradise)",
+                    "title_annotation": "",
+                    "slug": "graphic-lobby-card-for-bird-of-paradise",
+                    "creator_credit": "",
+                    "credit_line": "",
+                    "headline_credit": "Cambodia and France, 1962",
+                    "thumbnail": null,
+                    "record_type": "work",
+                    "type": "Object",
+                    "is_on_display": true,
+                    "last_on_display_place": "ACMI: Gallery 1",
+                    "last_on_display_date": "2024-02-08",
+                    "is_context_indigenous": false,
+                    "material_description": "Graphic",
+                    "unpublished": false,
+                    "first_production_date": "1962-01-01T10:00:00+10:00"
+                },
+                {
+                    "id": 107558,
+                    "acmi_id": "180666",
+                    "title": "Lobby card from Marcel Camus’ L'Oiseau de Paradis (Bird of Paradise)",
+                    "title_annotation": "",
+                    "slug": "graphic-lobby-card-for-bird-of-paradise",
+                    "creator_credit": "",
+                    "credit_line": "",
+                    "headline_credit": "Cambodia and France, 1962",
+                    "thumbnail": null,
+                    "record_type": "work",
+                    "type": "Object",
+                    "is_on_display": true,
+                    "last_on_display_place": "ACMI: Gallery 1",
+                    "last_on_display_date": "2024-02-08",
+                    "is_context_indigenous": false,
+                    "material_description": "Graphic",
+                    "unpublished": false,
+                    "first_production_date": "1962-01-01T10:00:00+10:00"
+                },
+                {
+                    "id": 99791,
+                    "acmi_id": "180274",
+                    "title": "Sayon Toch Youm soundtrack",
+                    "title_annotation": "Facsimile",
+                    "slug": "facsimile-record-cover-soundtrack-to-sayon-toch-youm",
+                    "creator_credit": "Sovann Kiry Film",
+                    "credit_line": "<p>Bophana Audiovisual Resource Center</p>",
+                    "headline_credit": "Cambodia, c. 1960s",
+                    "thumbnail": {
+                        "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/FC180274_FC168a.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=N8gAIfq8by6JMd%2F22Czt%2FjepT48%3D&Expires=1627009116",
+                        "has_video": false
+                    },
+                    "record_type": "work",
+                    "type": "Object",
+                    "is_on_display": true,
+                    "last_on_display_place": "ACMI: Gallery 1",
+                    "last_on_display_date": "2024-02-08",
+                    "is_context_indigenous": false,
+                    "material_description": "Digital print on paper",
+                    "unpublished": false,
+                    "first_production_date": null
+                },
+                {
+                    "id": 107566,
+                    "acmi_id": "180674",
+                    "title": "Surprise party",
+                    "title_annotation": "",
+                    "slug": "graphic-surprise-party-cambodia-1975",
+                    "creator_credit": "",
+                    "credit_line": "<p>Yvon Hem / Bophana Audiovisual Resource Center</p>",
+                    "headline_credit": "Cambodia, 1975",
+                    "thumbnail": {
+                        "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/P180674_G369.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=4Faf5DTF1J1XrBgeLsrIvMH025I%3D&Expires=1627009116",
+                        "has_video": false
+                    },
+                    "record_type": "work",
+                    "type": "Object",
+                    "is_on_display": true,
+                    "last_on_display_place": "ACMI: Gallery 1",
+                    "last_on_display_date": "2024-02-08",
+                    "is_context_indigenous": false,
+                    "material_description": "Graphic",
+                    "unpublished": false,
+                    "first_production_date": "1975-01-01T11:00:00+11:00"
+                }
+            ],
+            "source": {
+                "name": "Vernon",
+                "slug": "vernon"
+            },
+            "source_identifier": "180273",
+            "production_places": [
+                {
+                    "id": 5,
+                    "name": "Cambodia",
+                    "slug": "cambodia"
+                },
+                {
+                    "id": 17,
+                    "name": "France",
+                    "slug": "france"
+                }
+            ],
+            "production_dates": [
+                {
+                    "date": "1962",
+                    "notes": "",
+                    "to_year": "1962"
+                }
+            ],
+            "labels": [
+                39285
+            ]
+        },
+        {
+            "id": 99789,
+            "acmi_id": "180272",
+            "title": "Abolkasem soundtrack",
+            "title_annotation": "Facsimile",
+            "slug": "facsimile-record-cover-soundtrack-to-abulkasem",
+            "creator_credit": "Baksey Than Suor",
+            "credit_line": "<p>Bophana Audiovisual Resource Center.</p>",
+            "headline_credit": "Cambodia, c. 1960s",
+            "thumbnail": {
+                "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/FC180272_FC166a.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=XJ0sj%2BCxR4H9xdB%2Fy3HlgU5xwvs%3D&Expires=1627009116",
+                "has_video": false
+            },
+            "record_type": "work",
+            "type": "Object",
+            "is_on_display": true,
+            "last_on_display_place": "ACMI: Gallery 1",
+            "last_on_display_date": "2024-02-08",
+            "is_context_indigenous": false,
+            "material_description": "Digital print on paper",
+            "unpublished": false,
+            "first_production_date": null,
+            "brief_description": "",
+            "constellations_primary": [],
+            "constellations_other": [],
+            "recommendations": [],
+            "title_for_label": "<p>Abolkasem soundtrack</p>",
+            "creator_credit_for_label": "<p>Baksey Than Suor</p>",
+            "headline_credit_for_label": "<p>Cambodia, c. 1960s</p>",
+            "description": "",
+            "description_for_label": [],
+            "credit_line_for_label": "<p>Bophana Audiovisual Resource Center.</p>",
+            "details": [
+                {
+                    "label": "Curatorial section",
+                    "display_values": [
+                        "The Story of the Moving Image&nbsp;→ Moving Minds&nbsp;→ 07. Bophana&nbsp;→ MM-07-C01"
+                    ]
+                },
+                {
+                    "label": "Measurements",
+                    "display_values": [
+                        "180 x 180mm"
+                    ]
+                },
+                {
+                    "label": "Materials",
+                    "display_values": [
+                        "Digital print on paper"
+                    ]
+                }
+            ],
+            "stats": {
+                "tap_count": 0
+            },
+            "links": [],
+            "creators_primary": [
+                {
+                    "id": 1134487,
+                    "name": "Baksey Than Suor",
+                    "creator_id": 84375,
+                    "role": "creator",
+                    "role_id": 968,
+                    "is_primary": true
+                }
+            ],
+            "creators_other": [],
+            "video_links": [],
+            "media_note": null,
+            "images": [
+                {
+                    "id": 12161,
+                    "image_file": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/FC180272_FC166a.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=EWV3BTQq4bRGSFoHizOmAx3vWaE%3D&Expires=1627009116",
+                    "image_file_thumbnail": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/FC180272_FC166a.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=XJ0sj%2BCxR4H9xdB%2Fy3HlgU5xwvs%3D&Expires=1627009116",
+                    "image_file_xs": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/FC180272_FC166a.jpg.480x480_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=up%2F8lmDNbB%2FuFDLSTjc7PVO280M%3D&Expires=1627009116",
+                    "image_file_s": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/FC180272_FC166a.jpg.960x960_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=R%2BWrNl%2B7OjwMetCmYnteh%2FkKf64%3D&Expires=1627009116",
+                    "image_file_m": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/FC180272_FC166a.jpg.1920x1920_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=bg%2FrS%2Fk64xPC2CILKyKH1cdyP04%3D&Expires=1627009116",
+                    "image_file_l": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/FC180272_FC166a.jpg.3840x3840_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=P0PptSb6HQWGpIjDRR03wZm7wl0%3D&Expires=1627009116",
+                    "caption": "",
+                    "credit_line": "",
+                    "alt_text": "",
+                    "width": 1439,
+                    "height": 1417,
+                    "access_level": "View anywhere"
+                },
+                {
+                    "id": 12162,
+                    "image_file": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/FC180272_FC166b.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=IwN6Ljiq5cspJ6Ed5ua55RvTT90%3D&Expires=1627009116",
+                    "image_file_thumbnail": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/FC180272_FC166b.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=ysPb2OQTErBywdzC%2BsaWb3T9uqI%3D&Expires=1627009116",
+                    "image_file_xs": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/FC180272_FC166b.jpg.480x480_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=QNyY9nK49uktMU1nW6jkzvpUkXE%3D&Expires=1627009116",
+                    "image_file_s": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/FC180272_FC166b.jpg.960x960_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=qMH6U45H3wUTr64576Nf8TAesjM%3D&Expires=1627009116",
+                    "image_file_m": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/FC180272_FC166b.jpg.1920x1920_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=95zI%2B0DDqRQldYfBGeXG0y%2F9k%2Bw%3D&Expires=1627009116",
+                    "image_file_l": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/FC180272_FC166b.jpg.3840x3840_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=K3vqUTYCPKxFReE1d9pskhe%2Fb%2Bg%3D&Expires=1627009116",
+                    "caption": "",
+                    "credit_line": "",
+                    "alt_text": "",
+                    "width": 1444,
+                    "height": 1417,
+                    "access_level": "View anywhere"
+                }
+            ],
+            "videos": [],
+            "holdings": [],
+            "part_of": null,
+            "parts": [],
+            "part_siblings": [],
+            "group": {
+                "id": 117971,
+                "acmi_id": "183948",
+                "title": "Bophana",
+                "title_annotation": "",
+                "slug": "bophana",
+                "creator_credit": "",
+                "credit_line": "",
+                "headline_credit": "",
+                "thumbnail": {
+                    "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/FC180272_FC166a.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=XJ0sj%2BCxR4H9xdB%2Fy3HlgU5xwvs%3D&Expires=1627009116",
+                    "has_video": false
+                },
+                "record_type": "group",
+                "type": "Object",
+                "is_on_display": true,
+                "last_on_display_place": "ACMI: Gallery 1",
+                "last_on_display_date": "2024-02-08",
+                "is_context_indigenous": false,
+                "material_description": "",
+                "unpublished": false,
+                "first_production_date": null
+            },
+            "group_works": [],
+            "group_siblings": [
+                {
+                    "id": 107562,
+                    "acmi_id": "180670",
+                    "title": "Cinema d'Etat known as Chenla Theatre, Phnom Penh",
+                    "title_annotation": "",
+                    "slug": "graphic-newly-built-theatre-cinema-detat-known-as-chenla-theatre-phnom-penh-cambodia-1969",
+                    "creator_credit": "Adolf Scherl",
+                    "credit_line": "<p>Bophana Audiovisual Resource Center</p>",
+                    "headline_credit": "Cambodia, 1969",
+                    "thumbnail": {
+                        "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/P180670_G365.JPG.1200x1200_q85.JPG?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=UQAfPevTz4WSxdAmYKBw4nrqdmY%3D&Expires=1627009116",
+                        "has_video": false
+                    },
+                    "record_type": "work",
+                    "type": "Object",
+                    "is_on_display": true,
+                    "last_on_display_place": "ACMI: Gallery 1",
+                    "last_on_display_date": "2024-02-08",
+                    "is_context_indigenous": false,
+                    "material_description": "Graphic",
+                    "unpublished": false,
+                    "first_production_date": "1969-01-01T10:00:00+10:00"
+                },
+                {
+                    "id": 107561,
+                    "acmi_id": "180669",
+                    "title": "Cinema Eden in Phnom Penh",
+                    "title_annotation": "",
+                    "slug": "graphic-cinema-eden-on-khemarak-phonim-street-phnom-penh-cambodia-1968-69",
+                    "creator_credit": "Adolf Scherl",
+                    "credit_line": "<p>Bophana Audiovisual Resource Center</p>",
+                    "headline_credit": "Cambodia, c. 1968-c. 1969",
+                    "thumbnail": {
+                        "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/P180669_G364.JPG.1200x1200_q85.JPG?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=1IjLwYIsGzOjCmMpv70aRh2OA0E%3D&Expires=1627009116",
+                        "has_video": false
+                    },
+                    "record_type": "work",
+                    "type": "Object",
+                    "is_on_display": true,
+                    "last_on_display_place": "ACMI: Gallery 1",
+                    "last_on_display_date": "2024-02-08",
+                    "is_context_indigenous": false,
+                    "material_description": "Graphic",
+                    "unpublished": false,
+                    "first_production_date": null
+                },
+                {
+                    "id": 107559,
+                    "acmi_id": "180667",
+                    "title": "Cinema in Phnom Penh",
+                    "title_annotation": "",
+                    "slug": "graphic-cinema-near-small-market-phnom-penh-cambodia-1968",
+                    "creator_credit": "Adolf Scherl",
+                    "credit_line": "<p>Bophana Audiovisual Resource Center</p>",
+                    "headline_credit": "Cambodia, 1968",
+                    "thumbnail": {
+                        "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/P180667_G362.JPG.1200x1200_q85.JPG?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=Xa0kAZUJotxpPL0wlUlPE2nTxHw%3D&Expires=1627009116",
+                        "has_video": false
+                    },
+                    "record_type": "work",
+                    "type": "Object",
+                    "is_on_display": true,
+                    "last_on_display_place": "ACMI: Gallery 1",
+                    "last_on_display_date": "2024-02-08",
+                    "is_context_indigenous": false,
+                    "material_description": "Graphic",
+                    "unpublished": false,
+                    "first_production_date": "1968-01-01T10:00:00+10:00"
+                },
+                {
+                    "id": 107560,
+                    "acmi_id": "180668",
+                    "title": "Cinema Trung Quoc in Phnom Penh",
+                    "title_annotation": "",
+                    "slug": "graphic-cinema-trung-quoc-on-ang-eng-street-phnom-penh-cambodia-1968-1969",
+                    "creator_credit": "Adolf Scherl",
+                    "credit_line": "<p>Bophana Audiovisual Resource Center</p>",
+                    "headline_credit": "Cambodia, c. 1968-c. 1969",
+                    "thumbnail": {
+                        "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/P180668_G363.JPG.1200x1200_q85.JPG?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=sMJHthCT%2BGTzNGLpuuuWvsD%2FAqE%3D&Expires=1627009116",
+                        "has_video": false
+                    },
+                    "record_type": "work",
+                    "type": "Object",
+                    "is_on_display": true,
+                    "last_on_display_place": "ACMI: Gallery 1",
+                    "last_on_display_date": "2024-02-08",
+                    "is_context_indigenous": false,
+                    "material_description": "Graphic",
+                    "unpublished": false,
+                    "first_production_date": null
+                },
+                {
+                    "id": 107564,
+                    "acmi_id": "180672",
+                    "title": "Director Yvon Hem",
+                    "title_annotation": "",
+                    "slug": "graphic-yvon-hem-cambodia",
+                    "creator_credit": "",
+                    "credit_line": "<p>Yvon Hem / Bophana Audiovisual Resource Center</p>",
+                    "headline_credit": "Cambodia, c. 1970s",
+                    "thumbnail": {
+                        "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/P180672_G367.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=T2%2F%2FeGQCDzn%2BVm4egPg1AUUW%2Bno%3D&Expires=1627009116",
+                        "has_video": false
+                    },
+                    "record_type": "work",
+                    "type": "Object",
+                    "is_on_display": true,
+                    "last_on_display_place": "ACMI: Gallery 1",
+                    "last_on_display_date": "2024-02-08",
+                    "is_context_indigenous": false,
+                    "material_description": "Graphic",
+                    "unpublished": false,
+                    "first_production_date": null
+                },
+                {
+                    "id": 107565,
+                    "acmi_id": "180673",
+                    "title": "Film stars Hem Narie and Mab Noya",
+                    "title_annotation": "",
+                    "slug": "graphic-hem-narie-and-mab-noya-cambodia",
+                    "creator_credit": "",
+                    "credit_line": "<p>Yvon Hem / Bophana Audiovisual Resource Center</p>",
+                    "headline_credit": "Cambodia, c. 1970s",
+                    "thumbnail": {
+                        "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/P180673_G368.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=ii6iKcMnycwiSyLu4SdoIoJ7vfk%3D&Expires=1627009116",
+                        "has_video": false
+                    },
+                    "record_type": "work",
+                    "type": "Object",
+                    "is_on_display": true,
+                    "last_on_display_place": "ACMI: Gallery 1",
+                    "last_on_display_date": "2024-02-08",
+                    "is_context_indigenous": false,
+                    "material_description": "Graphic",
+                    "unpublished": false,
+                    "first_production_date": null
+                },
+                {
+                    "id": 107563,
+                    "acmi_id": "180671",
+                    "title": "Kiosks near Cinema d'Etat, Phnom Penh",
+                    "title_annotation": "",
+                    "slug": "graphic-new-kiosks-near-cinema-detat-phnom-penh-cambodia-1969",
+                    "creator_credit": "Adolf Scherl",
+                    "credit_line": "<p>Bophana Audiovisual Resource Center</p>",
+                    "headline_credit": "Cambodia, 1969",
+                    "thumbnail": {
+                        "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/P180671_G366.JPG.1200x1200_q85.JPG?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=QmMKzbGleNx53nxcXOJpDECD%2Fs4%3D&Expires=1627009116",
+                        "has_video": false
+                    },
+                    "record_type": "work",
+                    "type": "Object",
+                    "is_on_display": true,
+                    "last_on_display_place": "ACMI: Gallery 1",
+                    "last_on_display_date": "2024-02-08",
+                    "is_context_indigenous": false,
+                    "material_description": "Graphic",
+                    "unpublished": false,
+                    "first_production_date": "1969-01-01T10:00:00+10:00"
+                },
+                {
+                    "id": 99790,
+                    "acmi_id": "180273",
+                    "title": "L'Oiseau de Paradis (Bird of Paradise) soundtrack",
+                    "title_annotation": "Facsimile",
+                    "slug": "facsimile-record-cover-soundtrack-to-bird-of-paradise",
+                    "creator_credit": "Cine Alliance and Speva Films",
+                    "credit_line": "<p>Bophana Audiovisual Resource Center.</p>",
+                    "headline_credit": "Cambodia and France, 1962",
+                    "thumbnail": {
+                        "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/FC180273_FC167a.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=pvtOjJr7XDOdtR46cPSwnuLxQuw%3D&Expires=1627009116",
+                        "has_video": false
+                    },
+                    "record_type": "work",
+                    "type": "Object",
+                    "is_on_display": true,
+                    "last_on_display_place": "ACMI: Gallery 1",
+                    "last_on_display_date": "2024-02-08",
+                    "is_context_indigenous": false,
+                    "material_description": "Digital print on paper",
+                    "unpublished": false,
+                    "first_production_date": "1962-01-01T10:00:00+10:00"
+                },
+                {
+                    "id": 107557,
+                    "acmi_id": "180665",
+                    "title": "Lobby card from Marcel Camus’ L'Oiseau de Paradis (Bird of Paradise)",
+                    "title_annotation": "",
+                    "slug": "graphic-lobby-card-for-bird-of-paradise",
+                    "creator_credit": "",
+                    "credit_line": "",
+                    "headline_credit": "Cambodia and France, 1962",
+                    "thumbnail": null,
+                    "record_type": "work",
+                    "type": "Object",
+                    "is_on_display": true,
+                    "last_on_display_place": "ACMI: Gallery 1",
+                    "last_on_display_date": "2024-02-08",
+                    "is_context_indigenous": false,
+                    "material_description": "Graphic",
+                    "unpublished": false,
+                    "first_production_date": "1962-01-01T10:00:00+10:00"
+                },
+                {
+                    "id": 107558,
+                    "acmi_id": "180666",
+                    "title": "Lobby card from Marcel Camus’ L'Oiseau de Paradis (Bird of Paradise)",
+                    "title_annotation": "",
+                    "slug": "graphic-lobby-card-for-bird-of-paradise",
+                    "creator_credit": "",
+                    "credit_line": "",
+                    "headline_credit": "Cambodia and France, 1962",
+                    "thumbnail": null,
+                    "record_type": "work",
+                    "type": "Object",
+                    "is_on_display": true,
+                    "last_on_display_place": "ACMI: Gallery 1",
+                    "last_on_display_date": "2024-02-08",
+                    "is_context_indigenous": false,
+                    "material_description": "Graphic",
+                    "unpublished": false,
+                    "first_production_date": "1962-01-01T10:00:00+10:00"
+                },
+                {
+                    "id": 99791,
+                    "acmi_id": "180274",
+                    "title": "Sayon Toch Youm soundtrack",
+                    "title_annotation": "Facsimile",
+                    "slug": "facsimile-record-cover-soundtrack-to-sayon-toch-youm",
+                    "creator_credit": "Sovann Kiry Film",
+                    "credit_line": "<p>Bophana Audiovisual Resource Center</p>",
+                    "headline_credit": "Cambodia, c. 1960s",
+                    "thumbnail": {
+                        "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/FC180274_FC168a.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=N8gAIfq8by6JMd%2F22Czt%2FjepT48%3D&Expires=1627009116",
+                        "has_video": false
+                    },
+                    "record_type": "work",
+                    "type": "Object",
+                    "is_on_display": true,
+                    "last_on_display_place": "ACMI: Gallery 1",
+                    "last_on_display_date": "2024-02-08",
+                    "is_context_indigenous": false,
+                    "material_description": "Digital print on paper",
+                    "unpublished": false,
+                    "first_production_date": null
+                },
+                {
+                    "id": 107566,
+                    "acmi_id": "180674",
+                    "title": "Surprise party",
+                    "title_annotation": "",
+                    "slug": "graphic-surprise-party-cambodia-1975",
+                    "creator_credit": "",
+                    "credit_line": "<p>Yvon Hem / Bophana Audiovisual Resource Center</p>",
+                    "headline_credit": "Cambodia, 1975",
+                    "thumbnail": {
+                        "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/P180674_G369.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=4Faf5DTF1J1XrBgeLsrIvMH025I%3D&Expires=1627009116",
+                        "has_video": false
+                    },
+                    "record_type": "work",
+                    "type": "Object",
+                    "is_on_display": true,
+                    "last_on_display_place": "ACMI: Gallery 1",
+                    "last_on_display_date": "2024-02-08",
+                    "is_context_indigenous": false,
+                    "material_description": "Graphic",
+                    "unpublished": false,
+                    "first_production_date": "1975-01-01T11:00:00+11:00"
+                }
+            ],
+            "source": {
+                "name": "Vernon",
+                "slug": "vernon"
+            },
+            "source_identifier": "180272",
+            "production_places": [
+                {
+                    "id": 5,
+                    "name": "Cambodia",
+                    "slug": "cambodia"
+                }
+            ],
+            "production_dates": [
+                {
+                    "date": "c. 1960s",
+                    "notes": "",
+                    "to_year": "c. 1960s"
+                }
+            ],
+            "labels": [
+                39284
+            ]
+        }
+    ]
+}

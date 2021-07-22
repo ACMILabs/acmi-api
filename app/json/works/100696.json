@@ -1,0 +1,223 @@
+{
+    "id": 100696,
+    "acmi_id": "180499",
+    "title": "Hollow Knight Unity asset library",
+    "title_annotation": "Facsimile",
+    "slug": "graphic-1-unity-asset-library",
+    "creator_credit": "",
+    "credit_line": "<p>Courtesy Team Cherry</p>",
+    "headline_credit": "Australia",
+    "thumbnail": {
+        "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/P180499_G209.png.1200x1200_q85.png?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=QgY2cWhirkUcfiRkk9AaOc2TC4k%3D&Expires=1627009099",
+        "has_video": false
+    },
+    "record_type": "work",
+    "type": "Object",
+    "is_on_display": true,
+    "last_on_display_place": "ACMI: Gallery 1",
+    "last_on_display_date": "2023-02-09",
+    "is_context_indigenous": false,
+    "material_description": "Graphic",
+    "unpublished": false,
+    "first_production_date": null,
+    "brief_description": "",
+    "constellations_primary": [],
+    "constellations_other": [],
+    "recommendations": [],
+    "title_for_label": "<p>Screenshot of asset library</p>",
+    "creator_credit_for_label": "",
+    "headline_credit_for_label": "<p>Australia</p>",
+    "description": "",
+    "description_for_label": [],
+    "credit_line_for_label": "<p>Courtesy Team Cherry</p>",
+    "details": [
+        {
+            "label": "Curatorial section",
+            "display_values": [
+                "The Story of the Moving Image&nbsp;→ Moving Worlds&nbsp;→ 03. Production Design&nbsp;→ MW-03-C02&nbsp;→ MW-03-C02.01"
+            ]
+        },
+        {
+            "label": "Measurements",
+            "display_values": [
+                "215 x 300mm"
+            ]
+        },
+        {
+            "label": "Materials",
+            "display_values": [
+                "Graphic"
+            ]
+        }
+    ],
+    "stats": {
+        "tap_count": 0
+    },
+    "links": [],
+    "creators_primary": [],
+    "creators_other": [
+        {
+            "id": 1134531,
+            "name": "Team Cherry",
+            "creator_id": 72009,
+            "role": "lender",
+            "role_id": 626,
+            "is_primary": false
+        }
+    ],
+    "video_links": [],
+    "media_note": null,
+    "images": [
+        {
+            "id": 13145,
+            "image_file": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/P180499_G209.png?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=bFEDwY8CeV40LbU1krDBCdPcrtM%3D&Expires=1627009099",
+            "image_file_thumbnail": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/P180499_G209.png.1200x1200_q85.png?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=QgY2cWhirkUcfiRkk9AaOc2TC4k%3D&Expires=1627009099",
+            "image_file_xs": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/P180499_G209.png.480x480_q85.png?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=Yw1nJ5sUICnfoc2BqKKWbH70uy8%3D&Expires=1627009099",
+            "image_file_s": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/P180499_G209.png.960x960_q85.png?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=F7c7uspJSYf4D69Te%2BPy0r9wa9g%3D&Expires=1627009099",
+            "image_file_m": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/P180499_G209.png.1920x1920_q85.png?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=1jrsRBbWfCNPO3ZStBPTBi6MRHk%3D&Expires=1627009099",
+            "image_file_l": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/P180499_G209.png.3840x3840_q85.png?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=T7NycThI4sATAY4VpJVoy%2BPfab4%3D&Expires=1627009099",
+            "caption": "",
+            "credit_line": "",
+            "alt_text": "",
+            "width": 2480,
+            "height": 1877,
+            "access_level": "View anywhere"
+        }
+    ],
+    "videos": [],
+    "holdings": [],
+    "part_of": null,
+    "parts": [],
+    "part_siblings": [],
+    "group": {
+        "id": 100861,
+        "acmi_id": "182484",
+        "title": "Production design in Hollow Knight",
+        "title_annotation": "",
+        "slug": "production-design-in-hollow-knight",
+        "creator_credit": "Team Cherry",
+        "credit_line": "<p>Courtesy Team Cherry</p>",
+        "headline_credit": "Australia, 2017",
+        "thumbnail": {
+            "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN179053_HollowKnight_world_map_A3_resaved_2.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=RXs4BbD4bTMhBPyn%2BvE2nCVbyU4%3D&Expires=1627009099",
+            "has_video": false
+        },
+        "record_type": "group",
+        "type": "Object",
+        "is_on_display": true,
+        "last_on_display_place": "ACMI: Gallery 1",
+        "last_on_display_date": "2023-02-09",
+        "is_context_indigenous": false,
+        "material_description": "",
+        "unpublished": false,
+        "first_production_date": "2017-01-01T11:00:00+11:00"
+    },
+    "group_works": [],
+    "group_siblings": [
+        {
+            "id": 112216,
+            "acmi_id": "183569",
+            "title": "Development maps of Hallownest",
+            "title_annotation": "",
+            "slug": "development-maps-of-hallownest",
+            "creator_credit": "",
+            "credit_line": "<p>Courtesy Team Cherry</p>",
+            "headline_credit": "",
+            "thumbnail": {
+                "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN179053_HollowKnight_world_map_A3_resaved_2.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=RXs4BbD4bTMhBPyn%2BvE2nCVbyU4%3D&Expires=1627009099",
+                "has_video": false
+            },
+            "record_type": "group",
+            "type": "Film",
+            "is_on_display": true,
+            "last_on_display_place": "ACMI: Gallery 1",
+            "last_on_display_date": "2023-02-09",
+            "is_context_indigenous": false,
+            "material_description": "",
+            "unpublished": false,
+            "first_production_date": null
+        },
+        {
+            "id": 112217,
+            "acmi_id": "183570",
+            "title": "Development sketchbooks",
+            "title_annotation": "",
+            "slug": "development-sketchbooks",
+            "creator_credit": "Ari Gibson",
+            "credit_line": "<p>Courtesy Team Cherry</p>",
+            "headline_credit": "",
+            "thumbnail": {
+                "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN179049_RedNotebook_2.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=vHu3WUXuViFwKvE%2BN6PlUVG2Hlw%3D&Expires=1627009099",
+                "has_video": false
+            },
+            "record_type": "group",
+            "type": "Film",
+            "is_on_display": true,
+            "last_on_display_place": "ACMI: Gallery 1",
+            "last_on_display_date": "2023-02-09",
+            "is_context_indigenous": false,
+            "material_description": "",
+            "unpublished": false,
+            "first_production_date": null
+        },
+        {
+            "id": 112218,
+            "acmi_id": "183571",
+            "title": "Early and finished versions of locations in Hallownest",
+            "title_annotation": "",
+            "slug": "early-and-finished-versions-of-locations-in-hallownest",
+            "creator_credit": "",
+            "credit_line": "<p>Courtesy Team Cherry</p>",
+            "headline_credit": "",
+            "thumbnail": {
+                "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/P180498_G208.png.1200x1200_q85.png?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=rZSleLnbFAUWavHkqSwjmFFm41o%3D&Expires=1627009099",
+                "has_video": false
+            },
+            "record_type": "group",
+            "type": "Film",
+            "is_on_display": true,
+            "last_on_display_place": "ACMI: Gallery 1",
+            "last_on_display_date": "2023-02-09",
+            "is_context_indigenous": false,
+            "material_description": "",
+            "unpublished": false,
+            "first_production_date": null
+        },
+        {
+            "id": 107645,
+            "acmi_id": "182671",
+            "title": "Hollow Knight footage",
+            "title_annotation": "",
+            "slug": "hollow-knight-footage",
+            "creator_credit": "Team Cherry",
+            "credit_line": "<p>Courtesy Team Cherry</p>",
+            "headline_credit": "Australia",
+            "thumbnail": null,
+            "record_type": "work",
+            "type": "Film",
+            "is_on_display": true,
+            "last_on_display_place": "ACMI: Gallery 1",
+            "last_on_display_date": "2023-02-09",
+            "is_context_indigenous": false,
+            "material_description": "",
+            "unpublished": false,
+            "first_production_date": null
+        }
+    ],
+    "source": {
+        "name": "Vernon",
+        "slug": "vernon"
+    },
+    "source_identifier": "180499",
+    "production_places": [
+        {
+            "id": 3,
+            "name": "Australia",
+            "slug": "australia"
+        }
+    ],
+    "production_dates": [],
+    "labels": [
+        40184
+    ]
+}

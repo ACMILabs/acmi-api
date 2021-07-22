@@ -1,0 +1,1816 @@
+{
+    "count": 922,
+    "next": "/works/?page=14",
+    "previous": "/works/?page=12",
+    "results": [
+        {
+            "id": 118269,
+            "acmi_id": "180925",
+            "title": "Pocket Cinema Camera 6K Body Panels",
+            "title_annotation": "",
+            "slug": "pocket-cinema-camera-6k-body-panels",
+            "creator_credit": "Blackmagic Design",
+            "credit_line": "<p>Courtesy Blackmagic Design, Major Partner of ACMI</p>",
+            "headline_credit": "",
+            "thumbnail": {
+                "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN180925_PocketCamera6K_BodyPanels.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=bz5yA99XizkkNmE3rBG%2BB8IFsH0%3D&Expires=1627009069",
+                "has_video": false
+            },
+            "record_type": "work",
+            "type": "Object",
+            "is_on_display": true,
+            "last_on_display_place": "ACMI: Gallery 1",
+            "last_on_display_date": "2023-02-09",
+            "is_context_indigenous": false,
+            "material_description": "Polycarbonate reinforced with carbon fibre",
+            "unpublished": false,
+            "first_production_date": null,
+            "brief_description": "<p>The carbon fibre/polycarbonate composite material used in the manufacture of these parts enables the camera body to be incredibly strong and rigid, but also very lightweight.</p>",
+            "constellations_primary": [],
+            "constellations_other": [],
+            "recommendations": [],
+            "title_for_label": "<p>Pocket Cinema Camera 6K Body Panels</p>",
+            "creator_credit_for_label": "<p>Blackmagic Design</p>",
+            "headline_credit_for_label": "",
+            "description": "<p>The carbon fibre/polycarbonate composite material used in the manufacture of these parts enables the camera body to be incredibly strong and rigid, but also very lightweight.</p>",
+            "description_for_label": [
+                "<p>The carbon fibre/polycarbonate composite material used in the manufacture of these parts enables the camera body to be incredibly strong and rigid, but also very lightweight.</p>"
+            ],
+            "credit_line_for_label": "<p>Courtesy Blackmagic Design, Major Partner of ACMI</p>",
+            "details": [
+                {
+                    "label": "Curatorial section",
+                    "display_values": [
+                        "The Story of the Moving Image&nbsp;→  Foyer&nbsp;→ Entry &nbsp;→ 03. MPL exterior"
+                    ]
+                },
+                {
+                    "label": "Measurements",
+                    "display_values": [
+                        "85 x 170 x 90mm"
+                    ]
+                },
+                {
+                    "label": "Materials",
+                    "display_values": [
+                        "Polycarbonate reinforced with carbon fibre"
+                    ]
+                }
+            ],
+            "stats": {
+                "tap_count": 0
+            },
+            "links": [],
+            "creators_primary": [
+                {
+                    "id": 1134582,
+                    "name": "Blackmagic Design",
+                    "creator_id": 73012,
+                    "role": "manufacturer",
+                    "role_id": 627,
+                    "is_primary": true
+                }
+            ],
+            "creators_other": [
+                {
+                    "id": 1134581,
+                    "name": "Blackmagic Design",
+                    "creator_id": 73012,
+                    "role": "lender",
+                    "role_id": 626,
+                    "is_primary": false
+                }
+            ],
+            "video_links": [],
+            "media_note": null,
+            "images": [
+                {
+                    "id": 21170,
+                    "image_file": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN180925_PocketCamera6K_BodyPanels.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=NwWo70ddiTVyI%2Bs1IighdR7Mhec%3D&Expires=1627009069",
+                    "image_file_thumbnail": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN180925_PocketCamera6K_BodyPanels.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=bz5yA99XizkkNmE3rBG%2BB8IFsH0%3D&Expires=1627009069",
+                    "image_file_xs": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN180925_PocketCamera6K_BodyPanels.jpg.480x480_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=7LJ%2Fy53UHhgy1ikvYqwJR2u6LsA%3D&Expires=1627009069",
+                    "image_file_s": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN180925_PocketCamera6K_BodyPanels.jpg.960x960_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=Z7Lu5tdzt75X3qH561Ypu38ik7A%3D&Expires=1627009069",
+                    "image_file_m": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN180925_PocketCamera6K_BodyPanels.jpg.1920x1920_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=mg07YiHSGbX%2B2opDCUmzGMZTkg4%3D&Expires=1627009069",
+                    "image_file_l": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN180925_PocketCamera6K_BodyPanels.jpg.3840x3840_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=MrWy6i0WlUXxgQK37J3LnV%2F7NG4%3D&Expires=1627009069",
+                    "caption": "LN180925_PocketCamera6K_BodyPanels",
+                    "credit_line": "Photograph by Egmont Contreras, ACMI.",
+                    "alt_text": "",
+                    "width": 4856,
+                    "height": 3284,
+                    "access_level": "View anywhere"
+                }
+            ],
+            "videos": [],
+            "holdings": [],
+            "part_of": null,
+            "parts": [],
+            "part_siblings": [],
+            "group": {
+                "id": 113857,
+                "acmi_id": "183607",
+                "title": "Pocket Cinema Camera 6K",
+                "title_annotation": "",
+                "slug": "mpl-display-group-pocket-cinema-camera-6k-prototypes",
+                "creator_credit": "Blackmagic Design",
+                "credit_line": "<p>Courtesy Blackmagic Design, Major Partner of ACMI</p>",
+                "headline_credit": "",
+                "thumbnail": {
+                    "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/GROUP_PocketCamera6K_2.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=eQosRtYNfIYw1KojJyQV2HSOeBQ%3D&Expires=1627009069",
+                    "has_video": false
+                },
+                "record_type": "group",
+                "type": "Film",
+                "is_on_display": true,
+                "last_on_display_place": "ACMI: Gallery 1",
+                "last_on_display_date": "2023-02-09",
+                "is_context_indigenous": false,
+                "material_description": "",
+                "unpublished": false,
+                "first_production_date": null
+            },
+            "group_works": [],
+            "group_siblings": [
+                {
+                    "id": 107661,
+                    "acmi_id": "182853",
+                    "title": "GRAPHIC: Sketches & CAD Drawings for Pocket Cinema Camera 6K",
+                    "title_annotation": "Facsimile",
+                    "slug": "graphic-sketches-cad-drawings-for-pocket-cinema-camera-6k",
+                    "creator_credit": "Blackmagic Design",
+                    "credit_line": "<p>Courtesy Blackmagic Design, Major Partner of ACMI</p>",
+                    "headline_credit": "",
+                    "thumbnail": null,
+                    "record_type": "work",
+                    "type": "Object",
+                    "is_on_display": true,
+                    "last_on_display_place": "ACMI: Gallery 1",
+                    "last_on_display_date": "2023-02-09",
+                    "is_context_indigenous": false,
+                    "material_description": "digital print",
+                    "unpublished": false,
+                    "first_production_date": null
+                },
+                {
+                    "id": 118271,
+                    "acmi_id": "180927",
+                    "title": "Pocket Cinema Camera 6K",
+                    "title_annotation": "",
+                    "slug": "pocket-cinema-camera-6k",
+                    "creator_credit": "Blackmagic Design",
+                    "credit_line": "<p>Courtesy Blackmagic Design, Major Partner of ACMI</p>",
+                    "headline_credit": "AUG 2019",
+                    "thumbnail": {
+                        "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN180927_PocketCamera6K_Front.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=9q%2BIZ04vyjdy598Jizch0A1rDDM%3D&Expires=1627009069",
+                        "has_video": false
+                    },
+                    "record_type": "work",
+                    "type": "Object",
+                    "is_on_display": true,
+                    "last_on_display_place": "ACMI: Gallery 1",
+                    "last_on_display_date": "2023-02-09",
+                    "is_context_indigenous": false,
+                    "material_description": "",
+                    "unpublished": false,
+                    "first_production_date": null
+                },
+                {
+                    "id": 118268,
+                    "acmi_id": "180924",
+                    "title": "Pocket Cinema Camera 6K Form Prototype",
+                    "title_annotation": "",
+                    "slug": "pocket-cinema-camera-6k-form-prototype",
+                    "creator_credit": "Blackmagic Design",
+                    "credit_line": "<p>Courtesy Blackmagic Design, Major Partner of ACMI</p>",
+                    "headline_credit": "",
+                    "thumbnail": {
+                        "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN180924_PocketCamera6K_FormPrototype.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=QyL6qNgOIJ%2BBtIn75uxKOnwabg0%3D&Expires=1627009069",
+                        "has_video": false
+                    },
+                    "record_type": "work",
+                    "type": "Object",
+                    "is_on_display": true,
+                    "last_on_display_place": "ACMI: Gallery 1",
+                    "last_on_display_date": "2023-02-09",
+                    "is_context_indigenous": false,
+                    "material_description": "full colour 3D print",
+                    "unpublished": false,
+                    "first_production_date": null
+                },
+                {
+                    "id": 118270,
+                    "acmi_id": "180926",
+                    "title": "Pocket Cinema Camera 6K Partial Assembly",
+                    "title_annotation": "",
+                    "slug": "pocket-cinema-camera-6k-partial-assembly",
+                    "creator_credit": "Blackmagic Design",
+                    "credit_line": "<p>Courtesy Blackmagic Design, Major Partner of ACMI</p>",
+                    "headline_credit": "",
+                    "thumbnail": {
+                        "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN180926_PocketCamera6K_PartialAssembly.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=V%2FHNIN9bDG2wuzL7pqQTGbiv8hs%3D&Expires=1627009069",
+                        "has_video": false
+                    },
+                    "record_type": "work",
+                    "type": "Object",
+                    "is_on_display": true,
+                    "last_on_display_place": "ACMI: Gallery 1",
+                    "last_on_display_date": "2023-02-09",
+                    "is_context_indigenous": false,
+                    "material_description": "",
+                    "unpublished": false,
+                    "first_production_date": null
+                }
+            ],
+            "source": {
+                "name": "Vernon",
+                "slug": "vernon"
+            },
+            "source_identifier": "180925",
+            "production_places": [],
+            "production_dates": [],
+            "labels": [
+                57772
+            ]
+        },
+        {
+            "id": 118268,
+            "acmi_id": "180924",
+            "title": "Pocket Cinema Camera 6K Form Prototype",
+            "title_annotation": "",
+            "slug": "pocket-cinema-camera-6k-form-prototype",
+            "creator_credit": "Blackmagic Design",
+            "credit_line": "<p>Courtesy Blackmagic Design, Major Partner of ACMI</p>",
+            "headline_credit": "",
+            "thumbnail": {
+                "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN180924_PocketCamera6K_FormPrototype.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=QyL6qNgOIJ%2BBtIn75uxKOnwabg0%3D&Expires=1627009069",
+                "has_video": false
+            },
+            "record_type": "work",
+            "type": "Object",
+            "is_on_display": true,
+            "last_on_display_place": "ACMI: Gallery 1",
+            "last_on_display_date": "2023-02-09",
+            "is_context_indigenous": false,
+            "material_description": "full colour 3D print",
+            "unpublished": false,
+            "first_production_date": null,
+            "brief_description": "<p>This full colour 3D print is made from a powdered material solidified by an inkjet printing process over hundreds of layers. It was created using data from sophisticated 3D CAD software. Built by the Industrial Design Team, it was used during the early stages of the design process to evaluate the camera’s ergonomics and design.</p>",
+            "constellations_primary": [],
+            "constellations_other": [],
+            "recommendations": [],
+            "title_for_label": "<p>Pocket Cinema Camera 6K Form Prototype</p>",
+            "creator_credit_for_label": "<p>Blackmagic Design</p>",
+            "headline_credit_for_label": "",
+            "description": "<p>This full colour 3D print is made from a powdered material solidified by an inkjet printing process over hundreds of layers. It was created using data from sophisticated 3D CAD software. Built by the Industrial Design Team, it was used during the early stages of the design process to evaluate the camera’s ergonomics and design.</p>",
+            "description_for_label": [
+                "<p>This full colour 3D print is made from a powdered material solidified by an inkjet printing process over hundreds of layers. It was created using data from sophisticated 3D CAD software. Built by the Industrial Design Team, it was used during the early stages of the design process to evaluate the camera’s ergonomics and design.</p>"
+            ],
+            "credit_line_for_label": "<p>Courtesy Blackmagic Design, Major Partner of ACMI</p>",
+            "details": [
+                {
+                    "label": "Curatorial section",
+                    "display_values": [
+                        "The Story of the Moving Image&nbsp;→  Foyer&nbsp;→ Entry &nbsp;→ 03. MPL exterior"
+                    ]
+                },
+                {
+                    "label": "Measurements",
+                    "display_values": [
+                        "90 x 170 x 90mm"
+                    ]
+                },
+                {
+                    "label": "Materials",
+                    "display_values": [
+                        "full colour 3D print"
+                    ]
+                }
+            ],
+            "stats": {
+                "tap_count": 0
+            },
+            "links": [],
+            "creators_primary": [
+                {
+                    "id": 1134580,
+                    "name": "Blackmagic Design",
+                    "creator_id": 73012,
+                    "role": "manufacturer",
+                    "role_id": 627,
+                    "is_primary": true
+                }
+            ],
+            "creators_other": [
+                {
+                    "id": 1134579,
+                    "name": "Blackmagic Design",
+                    "creator_id": 73012,
+                    "role": "lender",
+                    "role_id": 626,
+                    "is_primary": false
+                }
+            ],
+            "video_links": [],
+            "media_note": null,
+            "images": [
+                {
+                    "id": 21169,
+                    "image_file": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN180924_PocketCamera6K_FormPrototype.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=UF1vBwL9YLa%2ByzJEt0wL39ZfVKw%3D&Expires=1627009069",
+                    "image_file_thumbnail": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN180924_PocketCamera6K_FormPrototype.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=QyL6qNgOIJ%2BBtIn75uxKOnwabg0%3D&Expires=1627009069",
+                    "image_file_xs": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN180924_PocketCamera6K_FormPrototype.jpg.480x480_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=GCVdMEOqLLqBVnKBmuqAniyJlKk%3D&Expires=1627009069",
+                    "image_file_s": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN180924_PocketCamera6K_FormPrototype.jpg.960x960_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=gbNQYdOQrXvuhspRpTUAt7AR0J0%3D&Expires=1627009069",
+                    "image_file_m": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN180924_PocketCamera6K_FormPrototype.jpg.1920x1920_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=2zOVmGo0N50Q18qxNwF1mMRcFn4%3D&Expires=1627009069",
+                    "image_file_l": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN180924_PocketCamera6K_FormPrototype.jpg.3840x3840_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=nOsqpL522Ai7yGGh%2B70p%2BWfO9uM%3D&Expires=1627009069",
+                    "caption": "LN180924_PocketCamera6K_FormPrototype",
+                    "credit_line": "Photograph by Egmont Contreras, ACMI.",
+                    "alt_text": "",
+                    "width": 4800,
+                    "height": 3200,
+                    "access_level": "View anywhere"
+                }
+            ],
+            "videos": [],
+            "holdings": [],
+            "part_of": null,
+            "parts": [],
+            "part_siblings": [],
+            "group": {
+                "id": 113857,
+                "acmi_id": "183607",
+                "title": "Pocket Cinema Camera 6K",
+                "title_annotation": "",
+                "slug": "mpl-display-group-pocket-cinema-camera-6k-prototypes",
+                "creator_credit": "Blackmagic Design",
+                "credit_line": "<p>Courtesy Blackmagic Design, Major Partner of ACMI</p>",
+                "headline_credit": "",
+                "thumbnail": {
+                    "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/GROUP_PocketCamera6K_2.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=eQosRtYNfIYw1KojJyQV2HSOeBQ%3D&Expires=1627009069",
+                    "has_video": false
+                },
+                "record_type": "group",
+                "type": "Film",
+                "is_on_display": true,
+                "last_on_display_place": "ACMI: Gallery 1",
+                "last_on_display_date": "2023-02-09",
+                "is_context_indigenous": false,
+                "material_description": "",
+                "unpublished": false,
+                "first_production_date": null
+            },
+            "group_works": [],
+            "group_siblings": [
+                {
+                    "id": 107661,
+                    "acmi_id": "182853",
+                    "title": "GRAPHIC: Sketches & CAD Drawings for Pocket Cinema Camera 6K",
+                    "title_annotation": "Facsimile",
+                    "slug": "graphic-sketches-cad-drawings-for-pocket-cinema-camera-6k",
+                    "creator_credit": "Blackmagic Design",
+                    "credit_line": "<p>Courtesy Blackmagic Design, Major Partner of ACMI</p>",
+                    "headline_credit": "",
+                    "thumbnail": null,
+                    "record_type": "work",
+                    "type": "Object",
+                    "is_on_display": true,
+                    "last_on_display_place": "ACMI: Gallery 1",
+                    "last_on_display_date": "2023-02-09",
+                    "is_context_indigenous": false,
+                    "material_description": "digital print",
+                    "unpublished": false,
+                    "first_production_date": null
+                },
+                {
+                    "id": 118271,
+                    "acmi_id": "180927",
+                    "title": "Pocket Cinema Camera 6K",
+                    "title_annotation": "",
+                    "slug": "pocket-cinema-camera-6k",
+                    "creator_credit": "Blackmagic Design",
+                    "credit_line": "<p>Courtesy Blackmagic Design, Major Partner of ACMI</p>",
+                    "headline_credit": "AUG 2019",
+                    "thumbnail": {
+                        "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN180927_PocketCamera6K_Front.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=9q%2BIZ04vyjdy598Jizch0A1rDDM%3D&Expires=1627009069",
+                        "has_video": false
+                    },
+                    "record_type": "work",
+                    "type": "Object",
+                    "is_on_display": true,
+                    "last_on_display_place": "ACMI: Gallery 1",
+                    "last_on_display_date": "2023-02-09",
+                    "is_context_indigenous": false,
+                    "material_description": "",
+                    "unpublished": false,
+                    "first_production_date": null
+                },
+                {
+                    "id": 118269,
+                    "acmi_id": "180925",
+                    "title": "Pocket Cinema Camera 6K Body Panels",
+                    "title_annotation": "",
+                    "slug": "pocket-cinema-camera-6k-body-panels",
+                    "creator_credit": "Blackmagic Design",
+                    "credit_line": "<p>Courtesy Blackmagic Design, Major Partner of ACMI</p>",
+                    "headline_credit": "",
+                    "thumbnail": {
+                        "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN180925_PocketCamera6K_BodyPanels.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=bz5yA99XizkkNmE3rBG%2BB8IFsH0%3D&Expires=1627009069",
+                        "has_video": false
+                    },
+                    "record_type": "work",
+                    "type": "Object",
+                    "is_on_display": true,
+                    "last_on_display_place": "ACMI: Gallery 1",
+                    "last_on_display_date": "2023-02-09",
+                    "is_context_indigenous": false,
+                    "material_description": "Polycarbonate reinforced with carbon fibre",
+                    "unpublished": false,
+                    "first_production_date": null
+                },
+                {
+                    "id": 118270,
+                    "acmi_id": "180926",
+                    "title": "Pocket Cinema Camera 6K Partial Assembly",
+                    "title_annotation": "",
+                    "slug": "pocket-cinema-camera-6k-partial-assembly",
+                    "creator_credit": "Blackmagic Design",
+                    "credit_line": "<p>Courtesy Blackmagic Design, Major Partner of ACMI</p>",
+                    "headline_credit": "",
+                    "thumbnail": {
+                        "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN180926_PocketCamera6K_PartialAssembly.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=V%2FHNIN9bDG2wuzL7pqQTGbiv8hs%3D&Expires=1627009069",
+                        "has_video": false
+                    },
+                    "record_type": "work",
+                    "type": "Object",
+                    "is_on_display": true,
+                    "last_on_display_place": "ACMI: Gallery 1",
+                    "last_on_display_date": "2023-02-09",
+                    "is_context_indigenous": false,
+                    "material_description": "",
+                    "unpublished": false,
+                    "first_production_date": null
+                }
+            ],
+            "source": {
+                "name": "Vernon",
+                "slug": "vernon"
+            },
+            "source_identifier": "180924",
+            "production_places": [],
+            "production_dates": [],
+            "labels": [
+                57771
+            ]
+        },
+        {
+            "id": 118267,
+            "acmi_id": "180923",
+            "title": "URSA Mini Pro 4.6K G2",
+            "title_annotation": "",
+            "slug": "ursa-mini-pro-46k-g2",
+            "creator_credit": "Blackmagic Design",
+            "credit_line": "<p>Courtesy Blackmagic Design, Major Partner of ACMI</p>",
+            "headline_credit": "MAR 2019",
+            "thumbnail": {
+                "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN180923_UrsaMiniPro_34.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=Kl040EKqXQ4LJvPuTHhTHd4CHIo%3D&Expires=1627009069",
+                "has_video": false
+            },
+            "record_type": "work",
+            "type": "Object",
+            "is_on_display": true,
+            "last_on_display_place": "ACMI: Gallery 1",
+            "last_on_display_date": "2023-02-09",
+            "is_context_indigenous": false,
+            "material_description": "",
+            "unpublished": false,
+            "first_production_date": null,
+            "brief_description": "<p>URSA Mini Pro is a professional digital film camera that combines high resolution<br />\nimage quality with the features and controls of a traditional broadcast camera.<br />\nA highly versatile camera format, it’s been used in the creation of a number of<br />\nHollywood productions, television and streaming series as well as studio and<br />\nlive production events.</p>",
+            "constellations_primary": [],
+            "constellations_other": [],
+            "recommendations": [],
+            "title_for_label": "<p>URSA Mini Pro 4.6K G2</p>",
+            "creator_credit_for_label": "<p>Blackmagic Design</p>",
+            "headline_credit_for_label": "<p>MAR 2019</p>",
+            "description": "<p>URSA Mini Pro is a professional digital film camera that combines high resolution<br />\nimage quality with the features and controls of a traditional broadcast camera.<br />\nA highly versatile camera format, it’s been used in the creation of a number of<br />\nHollywood productions, television and streaming series as well as studio and<br />\nlive production events.</p>",
+            "description_for_label": [
+                "<p>URSA Mini Pro is a professional digital film camera that combines high resolution<br />\nimage quality with the features and controls of a traditional broadcast camera.<br />\nA highly versatile camera format, it’s been used in the creation of a number of<br />\nHollywood productions, television and streaming series as well as studio and<br />\nlive production events.</p>"
+            ],
+            "credit_line_for_label": "<p>Courtesy Blackmagic Design, Major Partner of ACMI</p>",
+            "details": [
+                {
+                    "label": "Curatorial section",
+                    "display_values": [
+                        "The Story of the Moving Image&nbsp;→  Foyer&nbsp;→ Entry &nbsp;→ 03. MPL exterior"
+                    ]
+                },
+                {
+                    "label": "Measurements",
+                    "display_values": [
+                        "145 x 130 x 220mm"
+                    ]
+                }
+            ],
+            "stats": {
+                "tap_count": 0
+            },
+            "links": [],
+            "creators_primary": [
+                {
+                    "id": 1134578,
+                    "name": "Blackmagic Design",
+                    "creator_id": 73012,
+                    "role": "manufacturer",
+                    "role_id": 627,
+                    "is_primary": true
+                }
+            ],
+            "creators_other": [
+                {
+                    "id": 1134577,
+                    "name": "Blackmagic Design",
+                    "creator_id": 73012,
+                    "role": "lender",
+                    "role_id": 626,
+                    "is_primary": false
+                }
+            ],
+            "video_links": [],
+            "media_note": null,
+            "images": [
+                {
+                    "id": 21165,
+                    "image_file": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN180923_UrsaMiniPro_34.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=CPBjKzRvSE841WtUV%2F15aUKKuKQ%3D&Expires=1627009069",
+                    "image_file_thumbnail": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN180923_UrsaMiniPro_34.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=Kl040EKqXQ4LJvPuTHhTHd4CHIo%3D&Expires=1627009069",
+                    "image_file_xs": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN180923_UrsaMiniPro_34.jpg.480x480_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=hx0zWGSa4XdcF4HqV1so4ztuExU%3D&Expires=1627009069",
+                    "image_file_s": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN180923_UrsaMiniPro_34.jpg.960x960_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=0Zwon%2FBJVDB%2FBexeGjkOxA4mT9I%3D&Expires=1627009069",
+                    "image_file_m": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN180923_UrsaMiniPro_34.jpg.1920x1920_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=%2FgyRcMQQvZmOgnAXxWhGVsGwmi8%3D&Expires=1627009069",
+                    "image_file_l": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN180923_UrsaMiniPro_34.jpg.3840x3840_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=cBu5Bsrqrd7IXPUvlLvqJHAY3Gk%3D&Expires=1627009069",
+                    "caption": "LN180923_UrsaMiniPro_34",
+                    "credit_line": "Photograph by Egmont Contreras, ACMI.",
+                    "alt_text": "",
+                    "width": 4800,
+                    "height": 3200,
+                    "access_level": "View anywhere"
+                },
+                {
+                    "id": 21166,
+                    "image_file": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN180923_UrsaMiniPro_34Detail.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=3xJ1JeH3pl7iclIsKLLwnbPMoL4%3D&Expires=1627009069",
+                    "image_file_thumbnail": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN180923_UrsaMiniPro_34Detail.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=hJ0yDqySzYB8CdqNTYNrjWcXnBc%3D&Expires=1627009069",
+                    "image_file_xs": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN180923_UrsaMiniPro_34Detail.jpg.480x480_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=sGb1S1awzDdAiMYnCng0DRhRGYg%3D&Expires=1627009069",
+                    "image_file_s": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN180923_UrsaMiniPro_34Detail.jpg.960x960_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=4Bd5KTqXK3VGOx%2B%2F34kEYOD%2FYIk%3D&Expires=1627009069",
+                    "image_file_m": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN180923_UrsaMiniPro_34Detail.jpg.1920x1920_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=UrmDSxIo%2Fy3BkouIFSBxXzRsggQ%3D&Expires=1627009069",
+                    "image_file_l": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN180923_UrsaMiniPro_34Detail.jpg.3840x3840_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=lMr9rHKqEz3KMMORdaH%2BmQgKUkU%3D&Expires=1627009069",
+                    "caption": "LN180923_UrsaMiniPro_34Detail",
+                    "credit_line": "Photograph by Egmont Contreras, ACMI.",
+                    "alt_text": "",
+                    "width": 4800,
+                    "height": 3200,
+                    "access_level": "View anywhere"
+                },
+                {
+                    "id": 21167,
+                    "image_file": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN180923_UrsaMiniPro_Front.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=Dyd7tWdKTLVQz679uGd8pUJq5FU%3D&Expires=1627009069",
+                    "image_file_thumbnail": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN180923_UrsaMiniPro_Front.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=D6SXFxhN27LE3lZuage4WrkaMHw%3D&Expires=1627009069",
+                    "image_file_xs": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN180923_UrsaMiniPro_Front.jpg.480x480_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=CtyF%2FXQ0vk640yYBo2FYymoBJV8%3D&Expires=1627009069",
+                    "image_file_s": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN180923_UrsaMiniPro_Front.jpg.960x960_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=jnIKQZ%2BDp%2B6HErDHOkSJqBgVD8w%3D&Expires=1627009069",
+                    "image_file_m": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN180923_UrsaMiniPro_Front.jpg.1920x1920_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=x5lEe0luOJpdbH4HJ9gN%2BG0ClHY%3D&Expires=1627009069",
+                    "image_file_l": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN180923_UrsaMiniPro_Front.jpg.3840x3840_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=8119L0mQlpK21sODilBY9TuJ9gk%3D&Expires=1627009069",
+                    "caption": "LN180923_UrsaMiniPro_Front",
+                    "credit_line": "Photograph by Egmont Contreras, ACMI.",
+                    "alt_text": "",
+                    "width": 4800,
+                    "height": 3200,
+                    "access_level": "View anywhere"
+                },
+                {
+                    "id": 21168,
+                    "image_file": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN180923_UrsaMiniPro_Right.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=pI654lNooCnO9Lim926qBv%2FtRt0%3D&Expires=1627009069",
+                    "image_file_thumbnail": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN180923_UrsaMiniPro_Right.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=OaYdrIV0gKfin4GDF77mrDSiUDs%3D&Expires=1627009069",
+                    "image_file_xs": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN180923_UrsaMiniPro_Right.jpg.480x480_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=V4%2BpHnn1EWZMIO%2BJMBRPTeNlUVI%3D&Expires=1627009069",
+                    "image_file_s": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN180923_UrsaMiniPro_Right.jpg.960x960_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=Mx%2BVDs6hM1kfdjHq6g%2Bg9yQ5kDo%3D&Expires=1627009069",
+                    "image_file_m": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN180923_UrsaMiniPro_Right.jpg.1920x1920_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=I%2BgkJugwzSSotYdBRGXH1%2BaAlmw%3D&Expires=1627009069",
+                    "image_file_l": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN180923_UrsaMiniPro_Right.jpg.3840x3840_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=%2Bwe3lfmmU%2FKxGvsfLwY6AsMQkus%3D&Expires=1627009069",
+                    "caption": "LN180923_UrsaMiniPro_Right",
+                    "credit_line": "Photograph by Egmont Contreras, ACMI.",
+                    "alt_text": "",
+                    "width": 4800,
+                    "height": 3200,
+                    "access_level": "View anywhere"
+                }
+            ],
+            "videos": [],
+            "holdings": [],
+            "part_of": null,
+            "parts": [],
+            "part_siblings": [],
+            "group": {
+                "id": 114498,
+                "acmi_id": "183613",
+                "title": "URSA Mini Pro 4.6K G2",
+                "title_annotation": "",
+                "slug": "mpl-display-group-ursa-mini-pro-46k-g2-prototypes",
+                "creator_credit": "Blackmagic Design",
+                "credit_line": "<p>Courtesy Blackmagic Design, Major Partner of ACMI</p>",
+                "headline_credit": "",
+                "thumbnail": {
+                    "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/GROUP_UrsaMiniPro.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=lJXQQNL8T9Jruifdwetw9jU6eL0%3D&Expires=1627009069",
+                    "has_video": false
+                },
+                "record_type": "group",
+                "type": "Film",
+                "is_on_display": true,
+                "last_on_display_place": "ACMI: Gallery 1",
+                "last_on_display_date": "2023-02-09",
+                "is_context_indigenous": false,
+                "material_description": "",
+                "unpublished": false,
+                "first_production_date": null
+            },
+            "group_works": [],
+            "group_siblings": [
+                {
+                    "id": 107662,
+                    "acmi_id": "182854",
+                    "title": "GRAPHIC: Sketches & CAD Drawings for Ursa Mini Pro 4.6k G2",
+                    "title_annotation": "Facsimile",
+                    "slug": "graphic-sketches-cad-drawings-for-ursa-mini-pro-46k-g2",
+                    "creator_credit": "Blackmagic Design",
+                    "credit_line": "<p>Courtesy Blackmagic Design, Major Partner of ACMI</p>",
+                    "headline_credit": "",
+                    "thumbnail": null,
+                    "record_type": "work",
+                    "type": "Object",
+                    "is_on_display": true,
+                    "last_on_display_place": "ACMI: Gallery 1",
+                    "last_on_display_date": "2023-02-09",
+                    "is_context_indigenous": false,
+                    "material_description": "digital print",
+                    "unpublished": false,
+                    "first_production_date": null
+                },
+                {
+                    "id": 118264,
+                    "acmi_id": "180281",
+                    "title": "URSA Mini Pro 4.6K G2 Form Prototype",
+                    "title_annotation": "",
+                    "slug": "ursa-mini-pro-46k-g2-form-prototype",
+                    "creator_credit": "Blackmagic Design",
+                    "credit_line": "<p>Courtesy Blackmagic Design, Major Partner of ACMI</p>",
+                    "headline_credit": "",
+                    "thumbnail": {
+                        "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN180281_UrsaMiniPro_FormPrototype_34.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=Gmn4XwKNVK1rC85R0ElYQhZ%2Bv7g%3D&Expires=1627009069",
+                        "has_video": false
+                    },
+                    "record_type": "work",
+                    "type": "Object",
+                    "is_on_display": true,
+                    "last_on_display_place": "ACMI: Gallery 1",
+                    "last_on_display_date": "2023-02-09",
+                    "is_context_indigenous": false,
+                    "material_description": "full colour 3D print",
+                    "unpublished": false,
+                    "first_production_date": null
+                },
+                {
+                    "id": 118265,
+                    "acmi_id": "180282",
+                    "title": "URSA Mini Pro 4.6K G2 Image Sensor Assembly and Chassis",
+                    "title_annotation": "",
+                    "slug": "ursa-mini-pro-46k-g2-image-sensor-assembly-and-chassis",
+                    "creator_credit": "Blackmagic Design",
+                    "credit_line": "<p>Courtesy Blackmagic Design, Major Partner of ACMI</p>",
+                    "headline_credit": "",
+                    "thumbnail": {
+                        "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN180282_UrsaMiniPro_ImageSensorAssembly_34.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=xV7Wnod6jodN5%2B%2FsKaw5H975SWU%3D&Expires=1627009069",
+                        "has_video": false
+                    },
+                    "record_type": "work",
+                    "type": "Object",
+                    "is_on_display": true,
+                    "last_on_display_place": "ACMI: Gallery 1",
+                    "last_on_display_date": "2023-02-09",
+                    "is_context_indigenous": false,
+                    "material_description": "magnesium alloy (chassis)",
+                    "unpublished": false,
+                    "first_production_date": null
+                },
+                {
+                    "id": 118266,
+                    "acmi_id": "180283",
+                    "title": "URSA Mini Pro 4.6K G2 Partial Assembly",
+                    "title_annotation": "",
+                    "slug": "ursa-mini-pro-46k-g2-partial-assembly",
+                    "creator_credit": "Blackmagic Design",
+                    "credit_line": "<p>Courtesy Blackmagic Design, Major Partner of ACMI</p>",
+                    "headline_credit": "",
+                    "thumbnail": {
+                        "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN180283_UrsaMiniPro_PartialAssembly_34.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=Wgyuu6N78I7KPMNdRNr6zVQ9CNE%3D&Expires=1627009069",
+                        "has_video": false
+                    },
+                    "record_type": "work",
+                    "type": "Object",
+                    "is_on_display": true,
+                    "last_on_display_place": "ACMI: Gallery 1",
+                    "last_on_display_date": "2023-02-09",
+                    "is_context_indigenous": false,
+                    "material_description": "",
+                    "unpublished": false,
+                    "first_production_date": null
+                }
+            ],
+            "source": {
+                "name": "Vernon",
+                "slug": "vernon"
+            },
+            "source_identifier": "180923",
+            "production_places": [],
+            "production_dates": [
+                {
+                    "date": "MAR 2019",
+                    "notes": "launched",
+                    "to_year": "MAR 2019"
+                }
+            ],
+            "labels": [
+                57770
+            ]
+        },
+        {
+            "id": 100303,
+            "acmi_id": "180867",
+            "title": "Cleverman Jarli hairpiece",
+            "title_annotation": "",
+            "slug": "hairpiece-jarli-2",
+            "creator_credit": "Weta Workshop",
+            "credit_line": "<p>Courtesy Goalpost Pictures</p>",
+            "headline_credit": "Australia, 2016",
+            "thumbnail": {
+                "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN180867_Cleverman_HairSamples_JarliRed.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=ScKRqK8g5OGIQpLJato3FidV3o8%3D&Expires=1627009070",
+                "has_video": false
+            },
+            "record_type": "work",
+            "type": "Object",
+            "is_on_display": true,
+            "last_on_display_place": "ACMI",
+            "last_on_display_date": "2023-01-31",
+            "is_context_indigenous": false,
+            "material_description": "",
+            "unpublished": false,
+            "first_production_date": "2016-01-01T11:00:00+11:00",
+            "brief_description": "<p>Loan for Renewal</p>",
+            "constellations_primary": [],
+            "constellations_other": [],
+            "recommendations": [],
+            "title_for_label": "<p>Hair pieces used during filming</p>",
+            "creator_credit_for_label": "<p>Weta Workshop</p>",
+            "headline_credit_for_label": "<p>Australia, 2016</p>",
+            "description": "<p>Loan for Renewal</p>",
+            "description_for_label": [
+                "<p>Loan for Renewal</p>"
+            ],
+            "credit_line_for_label": "<p>Courtesy Goalpost Pictures</p>",
+            "details": [
+                {
+                    "label": "Measurements",
+                    "display_values": [
+                        "210 x 297mm"
+                    ]
+                }
+            ],
+            "stats": {
+                "tap_count": 0
+            },
+            "links": [],
+            "creators_primary": [
+                {
+                    "id": 1134576,
+                    "name": "Weta Workshop",
+                    "creator_id": 72937,
+                    "role": "creator",
+                    "role_id": 968,
+                    "is_primary": true
+                }
+            ],
+            "creators_other": [],
+            "video_links": [],
+            "media_note": null,
+            "images": [
+                {
+                    "id": 16615,
+                    "image_file": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN180867_Cleverman_HairSamples_JarliRed.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=uogcCOfgiGxRIshxwYrzO85pNek%3D&Expires=1627009070",
+                    "image_file_thumbnail": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN180867_Cleverman_HairSamples_JarliRed.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=ScKRqK8g5OGIQpLJato3FidV3o8%3D&Expires=1627009070",
+                    "image_file_xs": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN180867_Cleverman_HairSamples_JarliRed.jpg.480x480_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=nkCg%2FuJJoZnnsXxCVBshWQq15eE%3D&Expires=1627009070",
+                    "image_file_s": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN180867_Cleverman_HairSamples_JarliRed.jpg.960x960_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=ILw7WFiLu3RicHhcTGiR3WZfi1c%3D&Expires=1627009070",
+                    "image_file_m": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN180867_Cleverman_HairSamples_JarliRed.jpg.1920x1920_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=bNaYgaaFEtHtxixY7W9Jggz%2FgKc%3D&Expires=1627009070",
+                    "image_file_l": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN180867_Cleverman_HairSamples_JarliRed.jpg.3840x3840_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=7ieIDQv5oS%2FAymms5H8F1%2F9Hhfk%3D&Expires=1627009070",
+                    "caption": "LN180867_Cleverman_HairSamples_JarliRed",
+                    "credit_line": "Photograph by Egmont Contreras, ACMI.",
+                    "alt_text": "",
+                    "width": 2712,
+                    "height": 3200,
+                    "access_level": "View anywhere"
+                }
+            ],
+            "videos": [],
+            "holdings": [],
+            "part_of": null,
+            "parts": [],
+            "part_siblings": [],
+            "group": null,
+            "group_works": [],
+            "group_siblings": [],
+            "source": {
+                "name": "Vernon",
+                "slug": "vernon"
+            },
+            "source_identifier": "180867",
+            "production_places": [
+                {
+                    "id": 3,
+                    "name": "Australia",
+                    "slug": "australia"
+                }
+            ],
+            "production_dates": [
+                {
+                    "date": "2016",
+                    "notes": "",
+                    "to_year": "2016"
+                }
+            ],
+            "labels": [
+                39799
+            ]
+        },
+        {
+            "id": 100302,
+            "acmi_id": "180866",
+            "title": "Cleverman Jarli hairpiece",
+            "title_annotation": "",
+            "slug": "hairpiece-jarli-1",
+            "creator_credit": "Weta Workshop",
+            "credit_line": "<p>Courtesy Goalpost Pictures</p>",
+            "headline_credit": "Australia, 2016",
+            "thumbnail": {
+                "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN180866_Jarli_Chinpiece.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=czZM6H%2BtWgFFzjGFogct4ePNsDA%3D&Expires=1627009070",
+                "has_video": false
+            },
+            "record_type": "work",
+            "type": "Object",
+            "is_on_display": true,
+            "last_on_display_place": "ACMI",
+            "last_on_display_date": "2023-01-31",
+            "is_context_indigenous": false,
+            "material_description": "",
+            "unpublished": false,
+            "first_production_date": "2016-01-01T11:00:00+11:00",
+            "brief_description": "<p>Loan for Renewal</p>",
+            "constellations_primary": [],
+            "constellations_other": [],
+            "recommendations": [],
+            "title_for_label": "<p>Hair pieces used during filming</p>",
+            "creator_credit_for_label": "<p>Weta Workshop</p>",
+            "headline_credit_for_label": "<p>Australia, 2016</p>",
+            "description": "<p>Loan for Renewal</p>",
+            "description_for_label": [
+                "<p>Loan for Renewal</p>"
+            ],
+            "credit_line_for_label": "<p>Courtesy Goalpost Pictures</p>",
+            "details": [
+                {
+                    "label": "Measurements",
+                    "display_values": [
+                        "210 x 297mm"
+                    ]
+                }
+            ],
+            "stats": {
+                "tap_count": 0
+            },
+            "links": [],
+            "creators_primary": [
+                {
+                    "id": 1134575,
+                    "name": "Weta Workshop",
+                    "creator_id": 72937,
+                    "role": "creator",
+                    "role_id": 968,
+                    "is_primary": true
+                }
+            ],
+            "creators_other": [],
+            "video_links": [],
+            "media_note": null,
+            "images": [
+                {
+                    "id": 16614,
+                    "image_file": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN180866_Jarli_Chinpiece.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=v2Y9tTgQDRJPr5yF3nigzFO5Vew%3D&Expires=1627009070",
+                    "image_file_thumbnail": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN180866_Jarli_Chinpiece.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=czZM6H%2BtWgFFzjGFogct4ePNsDA%3D&Expires=1627009070",
+                    "image_file_xs": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN180866_Jarli_Chinpiece.jpg.480x480_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=RpSsxxP%2BhKlYQ1xj1E96sNlAD3Q%3D&Expires=1627009070",
+                    "image_file_s": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN180866_Jarli_Chinpiece.jpg.960x960_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=oBEEC%2F6iT3BZhG8yuUE1%2F9oSm9o%3D&Expires=1627009070",
+                    "image_file_m": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN180866_Jarli_Chinpiece.jpg.1920x1920_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=KAQLNbSFXo2z%2BDHcziMyBFAPPhA%3D&Expires=1627009070",
+                    "image_file_l": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN180866_Jarli_Chinpiece.jpg.3840x3840_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=T08%2F6w%2BjW0mYoGCqvCctNOzfB00%3D&Expires=1627009070",
+                    "caption": "LN180866_Jarli_Chinpiece",
+                    "credit_line": "Photograph by Egmont Contreras, ACMI.",
+                    "alt_text": "",
+                    "width": 2592,
+                    "height": 3187,
+                    "access_level": "View anywhere"
+                }
+            ],
+            "videos": [],
+            "holdings": [],
+            "part_of": null,
+            "parts": [],
+            "part_siblings": [],
+            "group": null,
+            "group_works": [],
+            "group_siblings": [],
+            "source": {
+                "name": "Vernon",
+                "slug": "vernon"
+            },
+            "source_identifier": "180866",
+            "production_places": [
+                {
+                    "id": 3,
+                    "name": "Australia",
+                    "slug": "australia"
+                }
+            ],
+            "production_dates": [
+                {
+                    "date": "2016",
+                    "notes": "",
+                    "to_year": "2016"
+                }
+            ],
+            "labels": [
+                39798
+            ]
+        },
+        {
+            "id": 99989,
+            "acmi_id": "180864",
+            "title": "Cleverman hairy chest shirt used during filming",
+            "title_annotation": "",
+            "slug": "cleverman-hair-shirt",
+            "creator_credit": "Weta Workshop",
+            "credit_line": "<p>Courtesy Goalpost Pictures</p>",
+            "headline_credit": "Australia, 2016",
+            "thumbnail": {
+                "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN180864_Cleverman_HairyChest.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=9cDKBYACjHt5Ccl5vNGIS3%2BGhR0%3D&Expires=1627009070",
+                "has_video": false
+            },
+            "record_type": "work",
+            "type": "Object",
+            "is_on_display": true,
+            "last_on_display_place": "ACMI: Gallery 1",
+            "last_on_display_date": "2023-02-09",
+            "is_context_indigenous": false,
+            "material_description": "",
+            "unpublished": false,
+            "first_production_date": "2016-01-01T11:00:00+11:00",
+            "brief_description": "<p>Loan for Renewal</p>",
+            "constellations_primary": [],
+            "constellations_other": [],
+            "recommendations": [],
+            "title_for_label": "<p>Hair pieces used during filming</p>",
+            "creator_credit_for_label": "<p>Weta Workshop</p>",
+            "headline_credit_for_label": "<p>Australia, 2016</p>",
+            "description": "<p>Loan for Renewal</p>",
+            "description_for_label": [
+                "<p>Loan for Renewal</p>"
+            ],
+            "credit_line_for_label": "<p>Courtesy Goalpost Pictures</p>",
+            "details": [
+                {
+                    "label": "Curatorial section",
+                    "display_values": [
+                        "The Story of the Moving Image&nbsp;→ Moving Worlds&nbsp;→ 05. Character Design&nbsp;→ MW-05-C01&nbsp;→ MW-05-C01.02"
+                    ]
+                },
+                {
+                    "label": "Measurements",
+                    "display_values": [
+                        "720 x 500mm"
+                    ]
+                }
+            ],
+            "stats": {
+                "tap_count": 0
+            },
+            "links": [],
+            "creators_primary": [
+                {
+                    "id": 1134574,
+                    "name": "Weta Workshop",
+                    "creator_id": 72937,
+                    "role": "creator",
+                    "role_id": 968,
+                    "is_primary": true
+                }
+            ],
+            "creators_other": [],
+            "video_links": [],
+            "media_note": null,
+            "images": [
+                {
+                    "id": 16083,
+                    "image_file": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN180864_Cleverman_HairyChest.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=8enP8ZjTNGaT2RS1AdB9CgITnmc%3D&Expires=1627009070",
+                    "image_file_thumbnail": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN180864_Cleverman_HairyChest.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=9cDKBYACjHt5Ccl5vNGIS3%2BGhR0%3D&Expires=1627009070",
+                    "image_file_xs": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN180864_Cleverman_HairyChest.jpg.480x480_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=MkKQI1Xrt4i6uvB%2Fv8RW3Y%2BAp1Y%3D&Expires=1627009070",
+                    "image_file_s": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN180864_Cleverman_HairyChest.jpg.960x960_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=KAg46qP20Ga8KcSksNCvHs268IY%3D&Expires=1627009070",
+                    "image_file_m": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN180864_Cleverman_HairyChest.jpg.1920x1920_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=lM35ONIo6wyz4X1rHaaOFjUF9wM%3D&Expires=1627009070",
+                    "image_file_l": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN180864_Cleverman_HairyChest.jpg.3840x3840_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=G%2B%2BdcPC2Npcisg%2BguFSirKRk%2F%2Bw%3D&Expires=1627009070",
+                    "caption": "LN180864_Cleverman_HairyChest",
+                    "credit_line": "Photograph by Egmont Contreras, ACMI.",
+                    "alt_text": "",
+                    "width": 3200,
+                    "height": 4256,
+                    "access_level": "View anywhere"
+                }
+            ],
+            "videos": [],
+            "holdings": [],
+            "part_of": null,
+            "parts": [],
+            "part_siblings": [],
+            "group": {
+                "id": 112102,
+                "acmi_id": "183547",
+                "title": "Hair pieces used during filming",
+                "title_annotation": "",
+                "slug": "hair-pieces-used-during-filming",
+                "creator_credit": "Weta Workshop",
+                "credit_line": "",
+                "headline_credit": "",
+                "thumbnail": {
+                    "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN176446_Cleverman_BoondeeHairSample1.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=T%2FavsEpVbSGrjqGaZ5XTuj6HKCM%3D&Expires=1627009070",
+                    "has_video": false
+                },
+                "record_type": "group",
+                "type": "Film",
+                "is_on_display": true,
+                "last_on_display_place": "ACMI: Gallery 1",
+                "last_on_display_date": "2023-02-09",
+                "is_context_indigenous": false,
+                "material_description": "",
+                "unpublished": false,
+                "first_production_date": null
+            },
+            "group_works": [],
+            "group_siblings": [
+                {
+                    "id": 100296,
+                    "acmi_id": "176446",
+                    "title": "Cleverman Boondee hairpiece",
+                    "title_annotation": "",
+                    "slug": "cleverman-boondee-hair-sample-1",
+                    "creator_credit": "Weta Workshop",
+                    "credit_line": "<p>Courtesy Goalpost Pictures</p>",
+                    "headline_credit": "Australia, 2016",
+                    "thumbnail": {
+                        "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN176446_Cleverman_BoondeeHairSample1.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=T%2FavsEpVbSGrjqGaZ5XTuj6HKCM%3D&Expires=1627009070",
+                        "has_video": false
+                    },
+                    "record_type": "work",
+                    "type": "Object",
+                    "is_on_display": true,
+                    "last_on_display_place": "ACMI: Gallery 1",
+                    "last_on_display_date": "2023-02-09",
+                    "is_context_indigenous": false,
+                    "material_description": "",
+                    "unpublished": false,
+                    "first_production_date": "2016-01-01T11:00:00+11:00"
+                },
+                {
+                    "id": 99980,
+                    "acmi_id": "175985",
+                    "title": "Cleverman hair samples",
+                    "title_annotation": "",
+                    "slug": "cleverman-hair-samples",
+                    "creator_credit": "Weta Workshop",
+                    "credit_line": "<p>Courtesy Goalpost Pictures</p>",
+                    "headline_credit": "Australia, 2016",
+                    "thumbnail": null,
+                    "record_type": "work",
+                    "type": "Object",
+                    "is_on_display": true,
+                    "last_on_display_place": "ACMI: Gallery 1",
+                    "last_on_display_date": "2023-02-09",
+                    "is_context_indigenous": false,
+                    "material_description": "",
+                    "unpublished": false,
+                    "first_production_date": "2016-01-01T11:00:00+11:00"
+                },
+                {
+                    "id": 100298,
+                    "acmi_id": "178320",
+                    "title": "Cleverman Latani hairpiece",
+                    "title_annotation": "",
+                    "slug": "cleverman-latani-hair-samples",
+                    "creator_credit": "Weta Workshop",
+                    "credit_line": "<p>Courtesy Goalpost Pictures</p>",
+                    "headline_credit": "Australia, 2016",
+                    "thumbnail": {
+                        "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN178320_Part1_Cleverman_LataniHairSample.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=%2BL5kJ2fY4M1lgw36c4h4aN5229c%3D&Expires=1627009070",
+                        "has_video": false
+                    },
+                    "record_type": "work",
+                    "type": "Object",
+                    "is_on_display": true,
+                    "last_on_display_place": "ACMI",
+                    "last_on_display_date": "2023-02-09",
+                    "is_context_indigenous": false,
+                    "material_description": "",
+                    "unpublished": false,
+                    "first_production_date": "2016-01-01T11:00:00+11:00"
+                }
+            ],
+            "source": {
+                "name": "Vernon",
+                "slug": "vernon"
+            },
+            "source_identifier": "180864",
+            "production_places": [
+                {
+                    "id": 3,
+                    "name": "Australia",
+                    "slug": "australia"
+                }
+            ],
+            "production_dates": [
+                {
+                    "date": "2016",
+                    "notes": "",
+                    "to_year": "2016"
+                }
+            ],
+            "labels": [
+                39485
+            ]
+        },
+        {
+            "id": 118031,
+            "acmi_id": "180843",
+            "title": "CATARACT (concrete)",
+            "title_annotation": "",
+            "slug": "cataract-concrete",
+            "creator_credit": "Daniel von Sturmer",
+            "credit_line": "<p>Daniel von Sturmer. Aotearoa New Zealand</p>\n<p>Aluminum structure, LCD screens, HD video. Indefinite loop</p>\n<p>Commissioned by ACMI</p>",
+            "headline_credit": "Australia, 2020",
+            "thumbnail": {
+                "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/Z000134_Cataract_DanielvonSturmer.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=T7lMXajbEYKgr21FkAkvLsVJfS0%3D&Expires=1627009070",
+                "has_video": false
+            },
+            "record_type": "work",
+            "type": "Digital art",
+            "is_on_display": true,
+            "last_on_display_place": "ACMI: Gallery 1",
+            "last_on_display_date": "2031-02-16",
+            "is_context_indigenous": false,
+            "material_description": "Aluminum structure, LCD screens, HD video.",
+            "unpublished": false,
+            "first_production_date": "2020-01-01T11:00:00+11:00",
+            "brief_description": "<p>Everyday moments of existence are presented across 60 screens as a complex cacophony of events in CATARACT (concrete). This dynamic and overwhelming assemblage reflects the abundance of moments and messages we encounter in the world, which is represented as a complex and synthesised totality.</p>",
+            "constellations_primary": [
+                {
+                    "id": 180,
+                    "name": "Now watch this",
+                    "description": "In a video-saturated world, how do you keep focus? Do you keep a close eye on one thing, or step back and watch the parade of images go by, to see the whole thing?"
+                }
+            ],
+            "constellations_other": [],
+            "recommendations": [],
+            "title_for_label": "<p>CATARACT (concrete)</p>",
+            "creator_credit_for_label": "<p>Daniel von Sturmer. Aotearoa New Zealand.</p>",
+            "headline_credit_for_label": "<p>Australia, 2020</p>\n<p>Aluminum structure, LCD screens, HD video. Indefinite loop.</p>",
+            "description": "<p>Exploding fireworks, bubbles in the atmosphere, an untouched swimming pool.</p>\n<p>Small everyday moments of existence are presented across 60 screens as a complex cacophony of events in <i>CATARACT (concrete)</i>. This dynamic and overwhelming assemblage of images reflects the abundance of moments and messages we encounter in the world, which is represented as a complex and synthesised totality. But with so much happening, how do we focus on a singular experience and create meaning?</p>\n<p>That is the central question von Sturmer raises in this multi-screen work, which uses impromptu recordings and tabletop experiments to invite the viewer to negotiate between singular moments and discordant fragments of experience.</p>",
+            "description_for_label": [
+                "<p>Exploding fireworks, bubbles in the atmosphere, an untouched swimming pool.</p>\n<p>Small everyday moments of existence are presented across 60 screens as a complex cacophony of events in <i>CATARACT (concrete)</i>. This dynamic and overwhelming assemblage of images reflects the abundance of moments and messages we encounter in the world, which is represented as a complex and synthesised totality. But with so much happening, how do we focus on a singular experience and create meaning?</p>\n<p>That is the central question von Sturmer raises in this multi-screen work, which uses impromptu recordings and tabletop experiments to invite the viewer to negotiate between singular moments and discordant fragments of experience.</p>"
+            ],
+            "credit_line_for_label": "<p>Daniel von Sturmer. Aotearoa New Zealand</p>\n<p>Aluminum structure, LCD screens, HD video. Indefinite loop</p>\n<p>Commissioned by ACMI</p>",
+            "details": [
+                {
+                    "label": "Duration",
+                    "display_values": [
+                        "00:23:43:00"
+                    ]
+                },
+                {
+                    "label": "Subject category",
+                    "display_values": [
+                        "Digital Art"
+                    ]
+                },
+                {
+                    "label": "Curatorial section",
+                    "display_values": [
+                        "The Story of the Moving Image&nbsp;→  Foyer&nbsp;→ Entry &nbsp;→ 04. Daniel Von Sturmer"
+                    ]
+                },
+                {
+                    "label": "Sound/audio",
+                    "display_values": [
+                        "Sound"
+                    ]
+                },
+                {
+                    "label": "Colour",
+                    "display_values": [
+                        "Colour"
+                    ]
+                },
+                {
+                    "label": "Materials",
+                    "display_values": [
+                        "Aluminum structure, LCD screens, HD video."
+                    ]
+                }
+            ],
+            "stats": {
+                "tap_count": 1206
+            },
+            "links": [],
+            "creators_primary": [
+                {
+                    "id": 1134573,
+                    "name": "Daniel von Sturmer",
+                    "creator_id": 84851,
+                    "role": "artist",
+                    "role_id": 505,
+                    "is_primary": true
+                }
+            ],
+            "creators_other": [],
+            "video_links": [],
+            "media_note": null,
+            "images": [
+                {
+                    "id": 21004,
+                    "image_file": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/Z000134_Cataract_DanielvonSturmer.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=iU%2F79z2sYGCuB32vm7io2KxQGLk%3D&Expires=1627009070",
+                    "image_file_thumbnail": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/Z000134_Cataract_DanielvonSturmer.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=T7lMXajbEYKgr21FkAkvLsVJfS0%3D&Expires=1627009070",
+                    "image_file_xs": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/Z000134_Cataract_DanielvonSturmer.jpg.480x480_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=l59efkiKX7wAFvoBsEF57DpLd0o%3D&Expires=1627009070",
+                    "image_file_s": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/Z000134_Cataract_DanielvonSturmer.jpg.960x960_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=DX5IEVgzdb7jtm3bAQfFx5es6Ok%3D&Expires=1627009070",
+                    "image_file_m": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/Z000134_Cataract_DanielvonSturmer.jpg.1920x1920_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=YIkPNF8rc3oalVK%2BJiqap%2F6chYM%3D&Expires=1627009070",
+                    "image_file_l": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/Z000134_Cataract_DanielvonSturmer.jpg.3840x3840_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=YOZtgVDuq5LT3R%2B%2Bv5jG2fogKlo%3D&Expires=1627009070",
+                    "caption": "Z000134_Cataract_DanielvonSturmer",
+                    "credit_line": "Photograph by Egmont Contreras",
+                    "alt_text": "",
+                    "width": 4800,
+                    "height": 3200,
+                    "access_level": "View anywhere"
+                },
+                {
+                    "id": 21003,
+                    "image_file": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/Z000134_Cataract_DanielvonSturmer.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=iU%2F79z2sYGCuB32vm7io2KxQGLk%3D&Expires=1627009070",
+                    "image_file_thumbnail": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/Z000134_Cataract_DanielvonSturmer.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=T7lMXajbEYKgr21FkAkvLsVJfS0%3D&Expires=1627009070",
+                    "image_file_xs": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/Z000134_Cataract_DanielvonSturmer.jpg.480x480_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=l59efkiKX7wAFvoBsEF57DpLd0o%3D&Expires=1627009070",
+                    "image_file_s": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/Z000134_Cataract_DanielvonSturmer.jpg.960x960_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=DX5IEVgzdb7jtm3bAQfFx5es6Ok%3D&Expires=1627009070",
+                    "image_file_m": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/Z000134_Cataract_DanielvonSturmer.jpg.1920x1920_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=YIkPNF8rc3oalVK%2BJiqap%2F6chYM%3D&Expires=1627009070",
+                    "image_file_l": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/Z000134_Cataract_DanielvonSturmer.jpg.3840x3840_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=YOZtgVDuq5LT3R%2B%2Bv5jG2fogKlo%3D&Expires=1627009070",
+                    "caption": "",
+                    "credit_line": "",
+                    "alt_text": "A bank of 60 screens all playing small moments of everyday life",
+                    "width": 4800,
+                    "height": 3200,
+                    "access_level": "View anywhere"
+                }
+            ],
+            "videos": [],
+            "holdings": [],
+            "part_of": null,
+            "parts": [],
+            "part_siblings": [],
+            "group": null,
+            "group_works": [],
+            "group_siblings": [],
+            "source": {
+                "name": "Vernon",
+                "slug": "vernon"
+            },
+            "source_identifier": "180843",
+            "production_places": [
+                {
+                    "id": 3,
+                    "name": "Australia",
+                    "slug": "australia"
+                }
+            ],
+            "production_dates": [
+                {
+                    "date": "2020",
+                    "notes": "",
+                    "to_year": "2020"
+                }
+            ],
+            "labels": [
+                57533
+            ]
+        },
+        {
+            "id": 107635,
+            "acmi_id": "180835",
+            "title": "Mitchell Newsreel Camera",
+            "title_annotation": "",
+            "slug": "mitchell-nc-no-8-35mm-camera-and-accessories",
+            "creator_credit": "Mitchell Camera Corporation",
+            "credit_line": "<p>Lent by the Museum of Applied Arts and Sciences, Sydney. Gift of Ross Wood Productions, 1995.</p>",
+            "headline_credit": "United States, c. 1930",
+            "thumbnail": {
+                "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN180835_MitchellNewsreelCamera_Front.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=K13azd1LUGq8vLWRsfbS4rNrbaE%3D&Expires=1627009070",
+                "has_video": false
+            },
+            "record_type": "work",
+            "type": "Object",
+            "is_on_display": true,
+            "last_on_display_place": "ACMI: Gallery 1",
+            "last_on_display_date": "2023-02-09",
+            "is_context_indigenous": false,
+            "material_description": "",
+            "unpublished": false,
+            "first_production_date": null,
+            "brief_description": "<p>Newsreel footage was captured on large, bulky 35mm cameras like the Mitchell Newsreel Camera by operators in the field. This model was an improved design on the earlier Mitchell cameras, which were widely used by film production companies as well as for news.</p>",
+            "constellations_primary": [
+                {
+                    "id": 234,
+                    "name": "Princesses, rom-coms and sit-coms",
+                    "description": "Newsreel footage was captured on large, bulky 35mm cameras like the Mitchell Newsreel Camera by operators in the field, but they were also used by film production companies and on TV shows, with some of those involved going on to define different genres."
+                }
+            ],
+            "constellations_other": [],
+            "recommendations": [],
+            "title_for_label": "<p>Mitchell Newsreel Camera</p>",
+            "creator_credit_for_label": "<p>Mitchell Camera Corporation</p>",
+            "headline_credit_for_label": "<p>United States, c. 1930</p>",
+            "description": "<p>Newsreel footage was captured on large, bulky 35mm cameras like the Mitchell Newsreel Camera by operators in the field. Three-legged tripods made from firm materials like steel and wood helped steady the kind of image that was collected in production vans for Cinesound Productions and Movietone News. Designed and manufactured in Los Angeles, this model was an improved design on the earlier Mitchell cameras, which were widely used by film production companies like those at Pagewood Studios in Sydney, Australia. The Mitchell Newsreel Camera was a quieter alternative, making it less invasive on sets and in the field.</p>",
+            "description_for_label": [
+                "<p>Newsreel footage was captured on large, bulky 35mm cameras like the Mitchell Newsreel Camera by operators in the field. Three-legged tripods made from firm materials like steel and wood helped steady the kind of image that was collected in production vans for Cinesound Productions and Movietone News. Designed and manufactured in Los Angeles, this model was an improved design on the earlier Mitchell cameras, which were widely used by film production companies like those at Pagewood Studios in Sydney, Australia. The Mitchell Newsreel Camera was a quieter alternative, making it less invasive on sets and in the field.</p>"
+            ],
+            "credit_line_for_label": "<p>Lent by the Museum of Applied Arts and Sciences, Sydney. Gift of Ross Wood Productions, 1995.</p>",
+            "details": [
+                {
+                    "label": "Curatorial section",
+                    "display_values": [
+                        "The Story of the Moving Image&nbsp;→ Moving Minds&nbsp;→ 05. Camera Tech&nbsp;→ MM-05-C01"
+                    ]
+                },
+                {
+                    "label": "Measurements",
+                    "display_values": [
+                        "1650 x 800 x 900mm"
+                    ]
+                }
+            ],
+            "stats": {
+                "tap_count": 2555
+            },
+            "links": [],
+            "creators_primary": [
+                {
+                    "id": 1134572,
+                    "name": "Mitchell Camera Corporation",
+                    "creator_id": 82116,
+                    "role": "creator",
+                    "role_id": 968,
+                    "is_primary": true
+                }
+            ],
+            "creators_other": [],
+            "video_links": [],
+            "media_note": null,
+            "images": [
+                {
+                    "id": 20986,
+                    "image_file": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN180835_MitchellNewsreelCamera_Front.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=4tJbdGOOp59E%2FLpdyDWpCMbioQY%3D&Expires=1627009070",
+                    "image_file_thumbnail": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN180835_MitchellNewsreelCamera_Front.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=K13azd1LUGq8vLWRsfbS4rNrbaE%3D&Expires=1627009070",
+                    "image_file_xs": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN180835_MitchellNewsreelCamera_Front.jpg.480x480_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=KR%2B9B8laOJgFV8HFSMLpwsRwGfg%3D&Expires=1627009070",
+                    "image_file_s": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN180835_MitchellNewsreelCamera_Front.jpg.960x960_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=kvQkJy1suLHRGyR4XTznpCzX%2FJ4%3D&Expires=1627009070",
+                    "image_file_m": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN180835_MitchellNewsreelCamera_Front.jpg.1920x1920_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=9YMHYWiuoIxHiVlIFmgDJp19mpk%3D&Expires=1627009070",
+                    "image_file_l": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN180835_MitchellNewsreelCamera_Front.jpg.3840x3840_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=mIRElhR%2FP04gc6x6Texw9SHKVM0%3D&Expires=1627009070",
+                    "caption": "LN180835_MitchellNewsreelCamera_Front",
+                    "credit_line": "Photograph by Egmont Contreras",
+                    "alt_text": "",
+                    "width": 4499,
+                    "height": 3000,
+                    "access_level": "View anywhere"
+                }
+            ],
+            "videos": [],
+            "holdings": [],
+            "part_of": null,
+            "parts": [],
+            "part_siblings": [],
+            "group": null,
+            "group_works": [],
+            "group_siblings": [],
+            "source": {
+                "name": "Vernon",
+                "slug": "vernon"
+            },
+            "source_identifier": "180835",
+            "production_places": [
+                {
+                    "id": 2,
+                    "name": "United States",
+                    "slug": "united-states"
+                }
+            ],
+            "production_dates": [
+                {
+                    "date": "c. 1930",
+                    "notes": "",
+                    "to_year": "c. 1930"
+                }
+            ],
+            "labels": [
+                47128
+            ]
+        },
+        {
+            "id": 99889,
+            "acmi_id": "180834",
+            "title": "We Dream of Networks",
+            "title_annotation": "",
+            "slug": "we-dream-of-networks",
+            "creator_credit": "Jess Johnson",
+            "credit_line": "<p>ACMI Collection</p>",
+            "headline_credit": "New York/NY/United States, 2016",
+            "thumbnail": {
+                "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/R0008008_WeDreamOfNetworksDrawing.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=psHguCn4y5I19vmkexIBhfnBS%2B0%3D&Expires=1627009070",
+                "has_video": false
+            },
+            "record_type": "work",
+            "type": "Object",
+            "is_on_display": true,
+            "last_on_display_place": "ACMI: Gallery 1",
+            "last_on_display_date": "2021-08-12",
+            "is_context_indigenous": false,
+            "material_description": "fibre-tipped pen, fibre-tipped markers and gouache on paper",
+            "unpublished": false,
+            "first_production_date": "2016-01-01T11:00:00+11:00",
+            "brief_description": "<p>Jess Johnson was born in Aotearoa/New Zealand in 1979, and lives and works in New York. Her drawing and installation practice is influenced by science fiction, language, culture and technology. In her drawings she depicts complex worlds that combine densely layered patterns, objects and figures within architectural settings. Johnson’s drawings are often displayed within constructed environments that act as physical portals into her speculative worlds. Her video collaborations with Simon Ward have involved translating her drawings into animated Virtual Reality, thus enabling her audience to have the simulated experience of entering the hypnotic realms depicted in her drawings. Jess Johnson’s work has been exhibited Internationally in solo exhibitions at; Jack Hanley Gallery, New York; Art Basel, Hong Kong; Nanzuka Gallery, Tokyo; Talbot Rice Gallery, Edinburgh; National Gallery of Australia; Museum of Contemporary Art, Australia; Auckland Art Gallery and Christchurch Art Gallery, New Zealand.</p>\n<p>Jess Johnson is represented by Darren Knight Gallery, Sydney; Ivan Anthony Gallery, Auckland and Jack Hanley Gallery, New York</p>",
+            "constellations_primary": [],
+            "constellations_other": [],
+            "recommendations": [],
+            "title_for_label": "<p>We Dream of Networks</p>",
+            "creator_credit_for_label": "<p>Jess Johnson</p>",
+            "headline_credit_for_label": "<p>New York/NY/United States, 2016</p>",
+            "description": "<p>Jess Johnson was born in Aotearoa/New Zealand in 1979, and lives and works in New York. Her drawing and installation practice is influenced by science fiction, language, culture and technology. In her drawings she depicts complex worlds that combine densely layered patterns, objects and figures within architectural settings. Johnson’s drawings are often displayed within constructed environments that act as physical portals into her speculative worlds. Her video collaborations with Simon Ward have involved translating her drawings into animated Virtual Reality, thus enabling her audience to have the simulated experience of entering the hypnotic realms depicted in her drawings. Jess Johnson’s work has been exhibited Internationally in solo exhibitions at; Jack Hanley Gallery, New York; Art Basel, Hong Kong; Nanzuka Gallery, Tokyo; Talbot Rice Gallery, Edinburgh; National Gallery of Australia; Museum of Contemporary Art, Australia; Auckland Art Gallery and Christchurch Art Gallery, New Zealand.</p>\n<p>Jess Johnson is represented by Darren Knight Gallery, Sydney; Ivan Anthony Gallery, Auckland and Jack Hanley Gallery, New York</p>",
+            "description_for_label": [
+                "<p>Jess Johnson was born in Aotearoa/New Zealand in 1979, and lives and works in New York. Her drawing and installation practice is influenced by science fiction, language, culture and technology. In her drawings she depicts complex worlds that combine densely layered patterns, objects and figures within architectural settings. Johnson’s drawings are often displayed within constructed environments that act as physical portals into her speculative worlds. Her video collaborations with Simon Ward have involved translating her drawings into animated Virtual Reality, thus enabling her audience to have the simulated experience of entering the hypnotic realms depicted in her drawings. Jess Johnson’s work has been exhibited Internationally in solo exhibitions at; Jack Hanley Gallery, New York; Art Basel, Hong Kong; Nanzuka Gallery, Tokyo; Talbot Rice Gallery, Edinburgh; National Gallery of Australia; Museum of Contemporary Art, Australia; Auckland Art Gallery and Christchurch Art Gallery, New Zealand.</p>\n<p>Jess Johnson is represented by Darren Knight Gallery, Sydney; Ivan Anthony Gallery, Auckland and Jack Hanley Gallery, New York</p>"
+            ],
+            "credit_line_for_label": "<p>ACMI Collection</p>",
+            "details": [
+                {
+                    "label": "Subject category",
+                    "display_values": [
+                        "object&nbsp;→ 3D artefact"
+                    ]
+                },
+                {
+                    "label": "Curatorial section",
+                    "display_values": [
+                        "The Story of the Moving Image&nbsp;→ Moving Pictures&nbsp;→ 08. Immersive Innovations&nbsp;→ MI-08-C01"
+                    ]
+                },
+                {
+                    "label": "Measurements",
+                    "display_values": [
+                        "760 x 560mm"
+                    ]
+                },
+                {
+                    "label": "Materials",
+                    "display_values": [
+                        "fibre-tipped pen, fibre-tipped markers and gouache on paper"
+                    ]
+                }
+            ],
+            "stats": {
+                "tap_count": 0
+            },
+            "links": [],
+            "creators_primary": [
+                {
+                    "id": 1134571,
+                    "name": "Jess Johnson",
+                    "creator_id": 70589,
+                    "role": "artist",
+                    "role_id": 505,
+                    "is_primary": true
+                }
+            ],
+            "creators_other": [],
+            "video_links": [],
+            "media_note": null,
+            "images": [
+                {
+                    "id": 20911,
+                    "image_file": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/R0008008_WeDreamOfNetworksDrawing.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=Hvrxb8s7LxMjRRVbep5vJP5M%2Ba4%3D&Expires=1627009070",
+                    "image_file_thumbnail": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/R0008008_WeDreamOfNetworksDrawing.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=psHguCn4y5I19vmkexIBhfnBS%2B0%3D&Expires=1627009070",
+                    "image_file_xs": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/R0008008_WeDreamOfNetworksDrawing.jpg.480x480_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=700wKHTiGHZU7EWp7%2BHHUIYqnMQ%3D&Expires=1627009070",
+                    "image_file_s": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/R0008008_WeDreamOfNetworksDrawing.jpg.960x960_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=1a3odiHEm8Bqch0p0NOhV39VWPg%3D&Expires=1627009070",
+                    "image_file_m": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/R0008008_WeDreamOfNetworksDrawing.jpg.1920x1920_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=qij0cFn81%2BbwCAU1kgRs4qDEYm4%3D&Expires=1627009070",
+                    "image_file_l": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/R0008008_WeDreamOfNetworksDrawing.jpg.3840x3840_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=tJ1m6305%2F9nqWAft0%2Bsa0PRMfxk%3D&Expires=1627009070",
+                    "caption": "R0008008_WeDreamOfNetworksDrawing",
+                    "credit_line": "Photograph by Egmont Contreras",
+                    "alt_text": "",
+                    "width": 3226,
+                    "height": 4228,
+                    "access_level": "View anywhere"
+                },
+                {
+                    "id": 16596,
+                    "image_file": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/R0008008_JessJohnson_WeDreamOfNetworks_ID.jpeg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=jqsvUM0K2fK0qTw%2FePn6JHMdRrU%3D&Expires=1627009070",
+                    "image_file_thumbnail": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/R0008008_JessJohnson_WeDreamOfNetworks_ID.jpeg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=yunFVg7kb2RsQJuXNbriiNAOlpA%3D&Expires=1627009070",
+                    "image_file_xs": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/R0008008_JessJohnson_WeDreamOfNetworks_ID.jpeg.480x480_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=IRlu9o%2Bcd5tptDvlV9UUttPZ3Fo%3D&Expires=1627009070",
+                    "image_file_s": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/R0008008_JessJohnson_WeDreamOfNetworks_ID.jpeg.960x960_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=NOfwhclfj7CUPrKtoGlp7Pp%2FXpo%3D&Expires=1627009070",
+                    "image_file_m": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/R0008008_JessJohnson_WeDreamOfNetworks_ID.jpeg.1920x1920_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=v62aDgMhWiZFkNsCoPiXA0zqd9U%3D&Expires=1627009070",
+                    "image_file_l": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/R0008008_JessJohnson_WeDreamOfNetworks_ID.jpeg.3840x3840_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=usjitbPtsDHb8z326ZM%2FJF6vyHg%3D&Expires=1627009070",
+                    "caption": "R0008008_JessJohnson_WeDreamOfNetworks_ID",
+                    "credit_line": "",
+                    "alt_text": "",
+                    "width": 427,
+                    "height": 580,
+                    "access_level": "View anywhere"
+                }
+            ],
+            "videos": [],
+            "holdings": [],
+            "part_of": null,
+            "parts": [],
+            "part_siblings": [],
+            "group": {
+                "id": 100542,
+                "acmi_id": "181525",
+                "title": "Webwurld",
+                "title_annotation": "",
+                "slug": "jess-johnson-and-simon-ward",
+                "creator_credit": "Simon Ward and Jess Johnson",
+                "credit_line": "<p>Single-channel video work</p>\n<p>ACMI Collection</p>",
+                "headline_credit": "New Zealand and United States, 2017",
+                "thumbnail": {
+                    "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/Z000133_Webwurld_Still2_ACMI.tif.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=%2BNk3TkHTO3IEfxVxBrxKMjCYh%2B8%3D&Expires=1627009070",
+                    "has_video": false
+                },
+                "record_type": "group",
+                "type": "Digital art",
+                "is_on_display": true,
+                "last_on_display_place": "ACMI: Gallery 1",
+                "last_on_display_date": "2031-02-16",
+                "is_context_indigenous": false,
+                "material_description": "Soundtrack by Andrew Clarke. video, colour and audio",
+                "unpublished": false,
+                "first_production_date": "2017-01-01T11:00:00+11:00"
+            },
+            "group_works": [],
+            "group_siblings": [],
+            "source": {
+                "name": "Vernon",
+                "slug": "vernon"
+            },
+            "source_identifier": "180834",
+            "production_places": [
+                {
+                    "id": 31,
+                    "name": "New York/NY/United States",
+                    "slug": "new-yorknyunited-states"
+                }
+            ],
+            "production_dates": [
+                {
+                    "date": "2016",
+                    "notes": "",
+                    "to_year": "2016"
+                }
+            ],
+            "labels": [
+                39384
+            ]
+        },
+        {
+            "id": 107634,
+            "acmi_id": "180829",
+            "title": "Acropolis Now promotional coffee cup, saucer and side plate",
+            "title_annotation": "",
+            "slug": "acropolis-now-promotional-coffee-cup-and-saucer-and-side-plate-with-logos",
+            "creator_credit": "",
+            "credit_line": "<p>Courtesy the National Film and Sound Archive of Australia</p>",
+            "headline_credit": "Australia, 1991",
+            "thumbnail": {
+                "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN180829_AcropolisNow_CupAndSaucer.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=fyP6gNQq8tNmzlS4r9KicLKts9U%3D&Expires=1627009070",
+                "has_video": false
+            },
+            "record_type": "work",
+            "type": "Object",
+            "is_on_display": true,
+            "last_on_display_place": "ACMI: Gallery 1",
+            "last_on_display_date": "2023-02-09",
+            "is_context_indigenous": false,
+            "material_description": "",
+            "unpublished": false,
+            "first_production_date": "1991-01-01T11:00:00+11:00",
+            "brief_description": "<p>Acropolis Now: Promotional coffee cup and saucer and side plate with logos</p>",
+            "constellations_primary": [],
+            "constellations_other": [],
+            "recommendations": [],
+            "title_for_label": "<p>Promotional coffee cup, saucer and side plate</p>",
+            "creator_credit_for_label": "",
+            "headline_credit_for_label": "<p>Australia, 1991</p>",
+            "description": "<p>Acropolis Now: Promotional coffee cup and saucer and side plate with logos</p>",
+            "description_for_label": [
+                "<p>Acropolis Now: Promotional coffee cup and saucer and side plate with logos</p>"
+            ],
+            "credit_line_for_label": "<p>Courtesy the National Film and Sound Archive of Australia</p>",
+            "details": [
+                {
+                    "label": "Curatorial section",
+                    "display_values": [
+                        "The Story of the Moving Image&nbsp;→ Moving Australia&nbsp;→ 10. Ahead of their time&nbsp;→ MA-10-C03"
+                    ]
+                },
+                {
+                    "label": "Measurements",
+                    "display_values": [
+                        "140 x 140 x 20mm",
+                        "180 x 180 x 15mm",
+                        "55 x 110 x 90mm"
+                    ]
+                }
+            ],
+            "stats": {
+                "tap_count": 0
+            },
+            "links": [],
+            "creators_primary": [],
+            "creators_other": [],
+            "video_links": [],
+            "media_note": null,
+            "images": [
+                {
+                    "id": 21145,
+                    "image_file": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN180829_AcropolisNow_CupAndSaucer.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=KEEK1IIcjhBSuJp5ahrxbcfmmw0%3D&Expires=1627009070",
+                    "image_file_thumbnail": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN180829_AcropolisNow_CupAndSaucer.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=fyP6gNQq8tNmzlS4r9KicLKts9U%3D&Expires=1627009070",
+                    "image_file_xs": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN180829_AcropolisNow_CupAndSaucer.jpg.480x480_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=1dBTXR4dkCq%2BpZAcrUSULFExCf8%3D&Expires=1627009070",
+                    "image_file_s": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN180829_AcropolisNow_CupAndSaucer.jpg.960x960_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=OouQCIasGQrybmfg1NFF2U%2BAbEM%3D&Expires=1627009070",
+                    "image_file_m": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN180829_AcropolisNow_CupAndSaucer.jpg.1920x1920_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=u3GpCnS%2FIxg8TiSpLiWM1zEcv3c%3D&Expires=1627009070",
+                    "image_file_l": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN180829_AcropolisNow_CupAndSaucer.jpg.3840x3840_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=XMLCI4%2FyDUcC7valVwRis7toyTw%3D&Expires=1627009070",
+                    "caption": "LN180829_AcropolisNow_CupandSaucer",
+                    "credit_line": "Photograph by Egmont Contreras",
+                    "alt_text": "",
+                    "width": 4800,
+                    "height": 3200,
+                    "access_level": "View anywhere"
+                },
+                {
+                    "id": 21144,
+                    "image_file": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN180829_AcropolisNow_Cup.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=tMxdfbLEuINE4DNFf71x2x851r8%3D&Expires=1627009070",
+                    "image_file_thumbnail": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN180829_AcropolisNow_Cup.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=AxTSdn7iZIPiDv7O7ZorgA5CQ1c%3D&Expires=1627009070",
+                    "image_file_xs": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN180829_AcropolisNow_Cup.jpg.480x480_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=DECOUx6Iz2jUR0d6egmYPZbrZqo%3D&Expires=1627009070",
+                    "image_file_s": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN180829_AcropolisNow_Cup.jpg.960x960_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=cJUOe8rg6FQQDUxzo8l%2Bj%2F1L5ls%3D&Expires=1627009070",
+                    "image_file_m": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN180829_AcropolisNow_Cup.jpg.1920x1920_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=Q28aNJCaklJdCW%2F2CHMdLua4nd0%3D&Expires=1627009070",
+                    "image_file_l": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN180829_AcropolisNow_Cup.jpg.3840x3840_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=AIADB7SD5EuasdJSzcNfEr%2FBvJY%3D&Expires=1627009070",
+                    "caption": "LN180829_AcropolisNow_Cup",
+                    "credit_line": "Photograph by Egmont Contreras",
+                    "alt_text": "",
+                    "width": 4520,
+                    "height": 3013,
+                    "access_level": "View anywhere"
+                },
+                {
+                    "id": 21146,
+                    "image_file": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN180829_AcropolisNow_Saucer.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=jubRhQztQtXyG0IbMPYLReYuMzk%3D&Expires=1627009070",
+                    "image_file_thumbnail": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN180829_AcropolisNow_Saucer.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=vSOF3e1U5ghxKlIYa34Q%2BRi%2B8uQ%3D&Expires=1627009070",
+                    "image_file_xs": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN180829_AcropolisNow_Saucer.jpg.480x480_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=kKRMS9ZXd0szaltBKJ%2FqUgf9fvc%3D&Expires=1627009070",
+                    "image_file_s": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN180829_AcropolisNow_Saucer.jpg.960x960_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=KpVMcNZ7%2Fj6%2FRy15nbrPStf3vAI%3D&Expires=1627009070",
+                    "image_file_m": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN180829_AcropolisNow_Saucer.jpg.1920x1920_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=01KBMGNzCOyF8atzY%2Fw2bT43FkU%3D&Expires=1627009070",
+                    "image_file_l": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/LN180829_AcropolisNow_Saucer.jpg.3840x3840_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=rG4hHAO2myA%2B0VMySFUL0pzEv9g%3D&Expires=1627009070",
+                    "caption": "LN180829_AcropolisNow_Saucer",
+                    "credit_line": "Photograph by Egmont Contreras",
+                    "alt_text": "",
+                    "width": 4649,
+                    "height": 3099,
+                    "access_level": "View anywhere"
+                }
+            ],
+            "videos": [],
+            "holdings": [],
+            "part_of": null,
+            "parts": [],
+            "part_siblings": [],
+            "group": {
+                "id": 107714,
+                "acmi_id": "183231",
+                "title": "Acropolis Now",
+                "title_annotation": "",
+                "slug": "acropolis-now",
+                "creator_credit": "Crawford Productions",
+                "credit_line": "<p>Courtesy Crawford DVD</p>\n<p><i>Acropolis Now</i> is held in the collection of the National Film and Sound Archive of Australia</p>",
+                "headline_credit": "Australia, 1989-1992",
+                "thumbnail": {
+                    "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/183231_AcropolisNow_CrawfordProductions.png.1200x1200_q85.png?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=MI6a4ybFtyeighw0mPyFaqvY1dQ%3D&Expires=1627009070",
+                    "has_video": false
+                },
+                "record_type": "group",
+                "type": "TV show",
+                "is_on_display": true,
+                "last_on_display_place": "ACMI: Gallery 1",
+                "last_on_display_date": "2023-02-09",
+                "is_context_indigenous": false,
+                "material_description": "",
+                "unpublished": false,
+                "first_production_date": null
+            },
+            "group_works": [],
+            "group_siblings": [
+                {
+                    "id": 113813,
+                    "acmi_id": "183590",
+                    "title": "Publicity stills",
+                    "title_annotation": "",
+                    "slug": "publicity-stills",
+                    "creator_credit": "",
+                    "credit_line": "<p>Courtesy Crawford Productions Pty Ltd</p>",
+                    "headline_credit": "",
+                    "thumbnail": {
+                        "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/P180425_G130.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=eVBXKreP9UcwDqCpVB1a8djS8Uw%3D&Expires=1627009070",
+                        "has_video": false
+                    },
+                    "record_type": "group",
+                    "type": "Film",
+                    "is_on_display": true,
+                    "last_on_display_place": "ACMI: Gallery 1",
+                    "last_on_display_date": "2023-02-09",
+                    "is_context_indigenous": false,
+                    "material_description": "",
+                    "unpublished": false,
+                    "first_production_date": null
+                },
+                {
+                    "id": 99744,
+                    "acmi_id": "180222",
+                    "title": "Diplopennies (Dancing the Sirtaki) poster",
+                    "title_annotation": "Facsimile",
+                    "slug": "facsimile-film-poster-diplopennies",
+                    "creator_credit": "George Skalenakis",
+                    "credit_line": "<p>ACMI Collection</p>",
+                    "headline_credit": "Greece, 1966",
+                    "thumbnail": null,
+                    "record_type": "work",
+                    "type": "Object",
+                    "is_on_display": true,
+                    "last_on_display_place": "ACMI: Gallery 1",
+                    "last_on_display_date": "2023-02-09",
+                    "is_context_indigenous": false,
+                    "material_description": "Digital print on paper",
+                    "unpublished": false,
+                    "first_production_date": "1966-01-01T10:00:00+10:00"
+                },
+                {
+                    "id": 99745,
+                    "acmi_id": "180223",
+                    "title": "Head On poster",
+                    "title_annotation": "Facsimile",
+                    "slug": "facsimile-film-poster-head-on",
+                    "creator_credit": "Ana Kokkinos",
+                    "credit_line": "<p>ACMI Collection<br />\nCourtesy Head On Productions Pty Ltd.</p>",
+                    "headline_credit": "Australia, 1998",
+                    "thumbnail": {
+                        "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/FC180223_FC117.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=naiX%2Bj6P%2F2M6NsETavAzMMWhEys%3D&Expires=1627009070",
+                        "has_video": false
+                    },
+                    "record_type": "work",
+                    "type": "Object",
+                    "is_on_display": true,
+                    "last_on_display_place": "ACMI: Gallery 1",
+                    "last_on_display_date": "2023-02-09",
+                    "is_context_indigenous": false,
+                    "material_description": "Digital print on paper",
+                    "unpublished": false,
+                    "first_production_date": "1998-01-01T11:00:00+11:00"
+                }
+            ],
+            "source": {
+                "name": "Vernon",
+                "slug": "vernon"
+            },
+            "source_identifier": "180829",
+            "production_places": [
+                {
+                    "id": 3,
+                    "name": "Australia",
+                    "slug": "australia"
+                }
+            ],
+            "production_dates": [
+                {
+                    "date": "1991",
+                    "notes": "",
+                    "to_year": "1991"
+                }
+            ],
+            "labels": [
+                47127
+            ]
+        }
+    ]
+}

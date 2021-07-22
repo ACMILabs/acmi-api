@@ -1,0 +1,93 @@
+{
+    "id": 100037,
+    "acmi_id": "13255",
+    "title": "Molly Meldrum's hat",
+    "title_annotation": "",
+    "slug": "molly-meldrums-hat",
+    "creator_credit": "",
+    "credit_line": "",
+    "headline_credit": "",
+    "thumbnail": {
+        "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/B2000401_TVWorldCollection_E000053_001.JPG.1200x1200_q85.JPG?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=rgn2iaXYb0coSfhP62%2B1ptxyvp4%3D&Expires=1627009319",
+        "has_video": false
+    },
+    "record_type": "work",
+    "type": "Object",
+    "is_on_display": false,
+    "last_on_display_place": "ACMI Ground Floor",
+    "last_on_display_date": "2019-04-22",
+    "is_context_indigenous": false,
+    "material_description": "",
+    "unpublished": false,
+    "first_production_date": null,
+    "brief_description": "<p>Molly Meldrum&#8217;s Hat, genuine.</p>",
+    "constellations_primary": [],
+    "constellations_other": [],
+    "recommendations": [],
+    "title_for_label": "<p>Molly Meldrum&#8217;s hat</p>",
+    "creator_credit_for_label": "",
+    "headline_credit_for_label": "",
+    "description": "<p>Molly Meldrum&#8217;s Hat, genuine.</p>",
+    "description_for_label": [
+        "<p>Molly Meldrum&#8217;s Hat, genuine.</p>"
+    ],
+    "credit_line_for_label": "",
+    "details": [
+        {
+            "label": "Curatorial section",
+            "display_values": [
+                "Screen Worlds&nbsp;→ Emergence"
+            ]
+        },
+        {
+            "label": "Measurements",
+            "display_values": [
+                "1kg",
+                "20 x 30 x 40cm"
+            ]
+        }
+    ],
+    "stats": {
+        "tap_count": 0
+    },
+    "links": [],
+    "creators_primary": [],
+    "creators_other": [],
+    "video_links": [],
+    "media_note": null,
+    "images": [
+        {
+            "id": 14784,
+            "image_file": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/B2000401_TVWorldCollection_E000053_001.JPG?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=VrPVEUjywnA95pQejo%2F4ski18tQ%3D&Expires=1627009319",
+            "image_file_thumbnail": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/B2000401_TVWorldCollection_E000053_001.JPG.1200x1200_q85.JPG?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=rgn2iaXYb0coSfhP62%2B1ptxyvp4%3D&Expires=1627009319",
+            "image_file_xs": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/B2000401_TVWorldCollection_E000053_001.JPG.480x480_q85.JPG?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=1hGJAydkOoCHMoEUjbm7qB%2FCApA%3D&Expires=1627009319",
+            "image_file_s": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/B2000401_TVWorldCollection_E000053_001.JPG.960x960_q85.JPG?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=bdgVuY4jIXtqlQExEoWARCcJrj8%3D&Expires=1627009319",
+            "image_file_m": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/B2000401_TVWorldCollection_E000053_001.JPG.1920x1920_q85.JPG?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=FsYr8fhvoFNpc2hfWCfLRpDnF9s%3D&Expires=1627009319",
+            "image_file_l": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/B2000401_TVWorldCollection_E000053_001.JPG.3840x3840_q85.JPG?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=Pomnrql8ZHcrHngFJSvxXaMWfHk%3D&Expires=1627009319",
+            "caption": "E000053 - Image01",
+            "credit_line": "",
+            "alt_text": "",
+            "width": 1600,
+            "height": 1200,
+            "access_level": "View anywhere"
+        }
+    ],
+    "videos": [],
+    "holdings": [],
+    "part_of": null,
+    "parts": [],
+    "part_siblings": [],
+    "group": null,
+    "group_works": [],
+    "group_siblings": [],
+    "source": {
+        "name": "Vernon",
+        "slug": "vernon"
+    },
+    "source_identifier": "13255",
+    "production_places": [],
+    "production_dates": [],
+    "labels": [
+        39533
+    ]
+}

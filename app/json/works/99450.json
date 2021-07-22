@@ -1,0 +1,287 @@
+{
+    "id": 99450,
+    "acmi_id": "175966",
+    "title": "Early Bakelite model",
+    "title_annotation": "",
+    "slug": "view-master-black",
+    "creator_credit": "Sawyer's Inc.",
+    "credit_line": "",
+    "headline_credit": "United States, c. 1950s",
+    "thumbnail": {
+        "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AEO175966_ViewMastersSawyerUSABakelite_34.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=LuEscFOye1bu17hkqxthTFVYJSA%3D&Expires=1627009215",
+        "has_video": false
+    },
+    "record_type": "work",
+    "type": "Object",
+    "is_on_display": true,
+    "last_on_display_place": "ACMI: Gallery 1",
+    "last_on_display_date": "2031-02-16",
+    "is_context_indigenous": false,
+    "material_description": "Bakelite",
+    "unpublished": false,
+    "first_production_date": null,
+    "brief_description": "<p>c.50&#8217;s Sawyer&#8217;s USA early bakelite model</p>",
+    "constellations_primary": [],
+    "constellations_other": [],
+    "recommendations": [],
+    "title_for_label": "<p>Early Bakelite model</p>",
+    "creator_credit_for_label": "<p>Sawyer&#8217;s Inc.</p>",
+    "headline_credit_for_label": "<p>United States, c. 1950s</p>",
+    "description": "<p>c.50&#8217;s Sawyer&#8217;s USA early bakelite model</p>",
+    "description_for_label": [
+        "<p>c.50&#8217;s Sawyer&#8217;s USA early bakelite model</p>"
+    ],
+    "credit_line_for_label": "<p>c.1950s</p>",
+    "details": [
+        {
+            "label": "Curatorial section",
+            "display_values": [
+                "The Story of the Moving Image&nbsp;→ Moving Pictures&nbsp;→ 08. Immersive Innovations&nbsp;→ MI-08-C01"
+            ]
+        },
+        {
+            "label": "Measurements",
+            "display_values": [
+                "95 x 115 x 75mm"
+            ]
+        },
+        {
+            "label": "Materials",
+            "display_values": [
+                "Bakelite"
+            ]
+        }
+    ],
+    "stats": {
+        "tap_count": 0
+    },
+    "links": [],
+    "creators_primary": [
+        {
+            "id": 1134351,
+            "name": "Sawyer's Inc.",
+            "creator_id": 71463,
+            "role": "creator",
+            "role_id": 968,
+            "is_primary": true
+        }
+    ],
+    "creators_other": [],
+    "video_links": [],
+    "media_note": null,
+    "images": [
+        {
+            "id": 12416,
+            "image_file": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AEO175966_ViewMastersSawyerUSABakelite_34.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=i9OUnT%2FTKJEjwZsrJ6X3IEenI8I%3D&Expires=1627009215",
+            "image_file_thumbnail": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AEO175966_ViewMastersSawyerUSABakelite_34.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=LuEscFOye1bu17hkqxthTFVYJSA%3D&Expires=1627009215",
+            "image_file_xs": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AEO175966_ViewMastersSawyerUSABakelite_34.jpg.480x480_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=9P%2FW06k%2Fn50Ax53k6Ym9xwYnhrg%3D&Expires=1627009215",
+            "image_file_s": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AEO175966_ViewMastersSawyerUSABakelite_34.jpg.960x960_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=BuB74%2F6ARJmCuJ1TnDHdVr%2BqSeA%3D&Expires=1627009215",
+            "image_file_m": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AEO175966_ViewMastersSawyerUSABakelite_34.jpg.1920x1920_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=1FvW9OybzaBOA0a3UGBxgkHsKNU%3D&Expires=1627009215",
+            "image_file_l": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AEO175966_ViewMastersSawyerUSABakelite_34.jpg.3840x3840_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=hS8meJqruoX89t1%2B58sMrGwIzJM%3D&Expires=1627009215",
+            "caption": "AEO175966_ViewMastersSawyerUSABakelite_34",
+            "credit_line": "Photograph by Egmont Contreras, ACMI",
+            "alt_text": "",
+            "width": 4800,
+            "height": 3200,
+            "access_level": "View anywhere"
+        },
+        {
+            "id": 12417,
+            "image_file": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AEO175966_ViewMastersSawyerUSABakelite_Front.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=0NpyxPb85zJ%2BOTFw3oOCW7PeyMk%3D&Expires=1627009215",
+            "image_file_thumbnail": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AEO175966_ViewMastersSawyerUSABakelite_Front.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=OeMmsxUlpTmcpzMB2CHp6e1%2F6a0%3D&Expires=1627009215",
+            "image_file_xs": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AEO175966_ViewMastersSawyerUSABakelite_Front.jpg.480x480_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=C2u6Vs09kr5OiMjgStqtpCdJLjI%3D&Expires=1627009215",
+            "image_file_s": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AEO175966_ViewMastersSawyerUSABakelite_Front.jpg.960x960_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=he6GraSGnQs8Ch0ohcATbMK7d4o%3D&Expires=1627009215",
+            "image_file_m": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AEO175966_ViewMastersSawyerUSABakelite_Front.jpg.1920x1920_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=k6%2BhGIqBKLBeXwUCP9KP71GENMs%3D&Expires=1627009215",
+            "image_file_l": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AEO175966_ViewMastersSawyerUSABakelite_Front.jpg.3840x3840_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=WxnkfxXbCZsxF42xt6Pi1FcD9jI%3D&Expires=1627009215",
+            "caption": "AEO175966_ViewMastersSawyerUSABakelite_Front",
+            "credit_line": "Photograph by Egmont Contreras, ACMI",
+            "alt_text": "",
+            "width": 4255,
+            "height": 3011,
+            "access_level": "View anywhere"
+        },
+        {
+            "id": 13970,
+            "image_file": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/GROUP_ViewMasters.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=rInzTdo7GHwr%2Fk6%2FRi9WA%2FQ9M7E%3D&Expires=1627009215",
+            "image_file_thumbnail": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/GROUP_ViewMasters.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=gLSgdeSxuusnKgCAdAD8x%2FQyY2E%3D&Expires=1627009215",
+            "image_file_xs": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/GROUP_ViewMasters.jpg.480x480_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=zDAAW0P%2FJES%2FxcO%2Be9QOuzNiAe4%3D&Expires=1627009215",
+            "image_file_s": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/GROUP_ViewMasters.jpg.960x960_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=DTWciNiy7Uyh9iI8%2FH4xofTSAhE%3D&Expires=1627009215",
+            "image_file_m": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/GROUP_ViewMasters.jpg.1920x1920_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=TuuevwC4iaffOrMzkorbqAkV7o0%3D&Expires=1627009215",
+            "image_file_l": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/GROUP_ViewMasters.jpg.3840x3840_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=ElX5yt2%2FXLHj4TLYaDfesGUtDqU%3D&Expires=1627009215",
+            "caption": "GROUP_ViewMasters",
+            "credit_line": "Photograph by Egmont Contreras, ACMI.",
+            "alt_text": "",
+            "width": 11811,
+            "height": 7705,
+            "access_level": "View anywhere"
+        }
+    ],
+    "videos": [],
+    "holdings": [],
+    "part_of": null,
+    "parts": [],
+    "part_siblings": [],
+    "group": {
+        "id": 112101,
+        "acmi_id": "183543",
+        "title": "View Masters",
+        "title_annotation": "",
+        "slug": "view-masters",
+        "creator_credit": "Sawyer's Inc.",
+        "credit_line": "",
+        "headline_credit": "United States",
+        "thumbnail": {
+            "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AEO175971_ViewmasterTycoToysBlue_34.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=AwkV7ttD%2F4PnmcNlLcy%2Fg1ADsxg%3D&Expires=1627009215",
+            "has_video": false
+        },
+        "record_type": "group",
+        "type": "Film",
+        "is_on_display": true,
+        "last_on_display_place": "ACMI: Gallery 1",
+        "last_on_display_date": "2031-02-16",
+        "is_context_indigenous": false,
+        "material_description": "",
+        "unpublished": false,
+        "first_production_date": null
+    },
+    "group_works": [],
+    "group_siblings": [
+        {
+            "id": 99452,
+            "acmi_id": "175971",
+            "title": "Tyco Toys model",
+            "title_annotation": "",
+            "slug": "view-master-rare-blue",
+            "creator_credit": "Tyco Toys and Sawyer's Inc.",
+            "credit_line": "",
+            "headline_credit": "United States, c. 1980s",
+            "thumbnail": {
+                "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AEO175971_ViewmasterTycoToysBlue_34.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=AwkV7ttD%2F4PnmcNlLcy%2Fg1ADsxg%3D&Expires=1627009215",
+                "has_video": false
+            },
+            "record_type": "work",
+            "type": "Object",
+            "is_on_display": true,
+            "last_on_display_place": "ACMI: Gallery 1",
+            "last_on_display_date": "2031-02-16",
+            "is_context_indigenous": false,
+            "material_description": "",
+            "unpublished": false,
+            "first_production_date": null
+        },
+        {
+            "id": 99449,
+            "acmi_id": "175965",
+            "title": "European model",
+            "title_annotation": "",
+            "slug": "view-master-red",
+            "creator_credit": "Sawyer's Inc.",
+            "credit_line": "",
+            "headline_credit": "Belgium, c. 1960-1970s",
+            "thumbnail": {
+                "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AEO175965_ViewMasterSawyerEuropeanModel_34.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=uxctEGlXywR3375DOEvs2Qs6MQU%3D&Expires=1627009215",
+                "has_video": false
+            },
+            "record_type": "work",
+            "type": "Object",
+            "is_on_display": true,
+            "last_on_display_place": "ACMI: Gallery 1",
+            "last_on_display_date": "2031-02-16",
+            "is_context_indigenous": false,
+            "material_description": "",
+            "unpublished": false,
+            "first_production_date": null
+        },
+        {
+            "id": 99448,
+            "acmi_id": "175964",
+            "title": "European model",
+            "title_annotation": "",
+            "slug": "view-master-grey",
+            "creator_credit": "Sawyer's Inc.",
+            "credit_line": "",
+            "headline_credit": "Belgium, c. 1960s-1970s",
+            "thumbnail": {
+                "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AEO175964_ViewmasterSawyerEuropeanModel_34.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=g5trMZF6uIL9mJ3qlWfqp1gDYO4%3D&Expires=1627009215",
+                "has_video": false
+            },
+            "record_type": "work",
+            "type": "Object",
+            "is_on_display": true,
+            "last_on_display_place": "ACMI: Gallery 1",
+            "last_on_display_date": "2031-02-16",
+            "is_context_indigenous": false,
+            "material_description": "",
+            "unpublished": false,
+            "first_production_date": null
+        },
+        {
+            "id": 99451,
+            "acmi_id": "175969",
+            "title": "GAF USA model",
+            "title_annotation": "",
+            "slug": "view-master-white-red-blue",
+            "creator_credit": "Sawyer's Inc.",
+            "credit_line": "",
+            "headline_credit": "United States, c. 1960s-1970s",
+            "thumbnail": {
+                "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AEO175969_ViewMasterGAFUSA_34.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=od4PU6UeFY5FpieAef9vKrTBY1Y%3D&Expires=1627009215",
+                "has_video": false
+            },
+            "record_type": "work",
+            "type": "Object",
+            "is_on_display": true,
+            "last_on_display_place": "ACMI: Gallery 1",
+            "last_on_display_date": "2031-02-16",
+            "is_context_indigenous": false,
+            "material_description": "",
+            "unpublished": false,
+            "first_production_date": null
+        },
+        {
+            "id": 99453,
+            "acmi_id": "175972",
+            "title": "Tyco Toys model classic red",
+            "title_annotation": "",
+            "slug": "view-master-classic-red-model",
+            "creator_credit": "Tyco Toys and Sawyer's Inc.",
+            "credit_line": "",
+            "headline_credit": "United States, c. 1980s",
+            "thumbnail": {
+                "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/AEO175972_ViewmasterTycoToysClassicRed_34.jpg.1200x1200_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=H636l8oi4z8vEK6oZ2tgqiLqhqw%3D&Expires=1627009215",
+                "has_video": false
+            },
+            "record_type": "work",
+            "type": "Object",
+            "is_on_display": true,
+            "last_on_display_place": "ACMI: Gallery 1",
+            "last_on_display_date": "2031-02-16",
+            "is_context_indigenous": false,
+            "material_description": "",
+            "unpublished": false,
+            "first_production_date": null
+        }
+    ],
+    "source": {
+        "name": "Vernon",
+        "slug": "vernon"
+    },
+    "source_identifier": "175966",
+    "production_places": [
+        {
+            "id": 2,
+            "name": "United States",
+            "slug": "united-states"
+        }
+    ],
+    "production_dates": [
+        {
+            "date": "c. 1950s",
+            "notes": "",
+            "to_year": "c. 1950s"
+        }
+    ],
+    "labels": [
+        38945
+    ]
+}
