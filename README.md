@@ -4,6 +4,8 @@ A public API for ACMI's collection data.
 
 ![ACMI API CI](https://github.com/ACMILabs/acmi-api/workflows/ACMI%20API%20CI/badge.svg)
 
+Documentation can be found here: https://kb.acmi.net.au/display/OPS/XOS+Public+API
+
 ## Development
 
 To run the Flask development server:

@@ -1,0 +1,92 @@
+apiVersion: v1
+kind: Service
+metadata:
+  name: xos-api-svc
+spec:
+  ports:
+  - port: 80
+    targetPort: 8081
+    protocol: TCP
+    name: http
+  selector:
+    app: acmi-api-app
+---
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: xos-api
+  labels:
+    app: acmi-api-app
+spec:
+  replicas: 2
+  selector:
+    matchLabels:
+      app: acmi-api-app
+  template:
+    metadata:
+      labels:
+        app: acmi-api-app
+    spec:
+      containers:
+      - name: flask
+        image: acmilabs/acmi-api:BUILD_NUMBER
+        ports:
+          - containerPort: 8081
+        args: ['scripts/entrypoint.sh']
+        command:
+          - scripts/entrypoint.sh
+        readinessProbe:
+          httpGet:
+            path: /
+            port: 8081
+            httpHeaders:
+              - name: Host
+                value: local.acmi.net.au
+          initialDelaySeconds: 10
+          periodSeconds: 5
+        resources:
+          requests:
+            memory: 600Mi
+            cpu: 400m
+          limits:
+            memory: 1400Mi
+            cpu: 1000m
+        env:
+          - name: AWS_ACCESS_KEY_ID
+            valueFrom:
+              secretKeyRef:
+                key: AWS_ACCESS_KEY_ID
+                name: amazon-s3-creds-xos
+          - name: AWS_SECRET_ACCESS_KEY
+            valueFrom:
+              secretKeyRef:
+                key: AWS_SECRET_ACCESS_KEY
+                name: amazon-s3-creds-xos
+          - name: AWS_STORAGE_BUCKET_NAME
+            valueFrom:
+              secretKeyRef:
+                key: AWS_STORAGE_BUCKET_NAME
+                name: amazon-s3-creds-xos
+          - name: AWS_LOCATION
+            value: "static"
+      imagePullSecrets:
+      - name: docker-cred
+---
+apiVersion: autoscaling/v2beta2
+kind: HorizontalPodAutoscaler
+metadata:
+  name: xos-api
+spec:
+  scaleTargetRef:
+    apiVersion: apps/v1
+    kind: Deployment
+    name: xos-api
+  minReplicas: 1
+  maxReplicas: 2
+  metrics:
+  - type: Resource
+    resource:
+      name: cpu
+      target:
+        type: Utilization
+        averageUtilization: 70
