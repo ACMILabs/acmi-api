@@ -4,6 +4,7 @@ help:
 	@echo '                    have been sorted correctly'
 	@echo ' test             - Run tests'
 	@echo ' speed            - Run a speed test against api.acmi.net.au'
+	@echo ' load             - Run a load test against api.acmi.net.au'
 	@echo ''
 	@echo 'Grouped commands:'
 	@echo ' linttest         - Run lint and test'
