@@ -18,4 +18,7 @@ test:
 speed:
 	# Run speed test
 	python3 app/speed_test.py
+load:
+	# Run load test
+	k6 run tests/load_test.js
 linttest: lint test

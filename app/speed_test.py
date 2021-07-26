@@ -34,9 +34,9 @@ class SpeedTest(XOSAPI):
             end = datetime.datetime.now()
             average_times.append((end - start).total_seconds())
             self.next_page = works_json.get('next')
-        average_request_time = statistics.mean(average_times)
+        average_request_time = round(statistics.mean(average_times) * 1000)
         print(
-            f'Speed test finished.\nAverage time: {average_request_time} seconds\n'
+            f'Speed test finished.\nAverage time: {average_request_time} milliseconds\n'
             f'Requests: {len(average_times)}/{total_requests}'
         )
         return average_request_time
