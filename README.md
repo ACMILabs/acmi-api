@@ -46,9 +46,9 @@ To run a speed test against `ACMI_API_ENDPOINT` (defaults to https://api.acmi.ne
 
 To run a load test against https://api.acmi.net.au `/`, `/works/` and `/works/<ID>`:
 
-* Install k6: `brew install k6`
 * Modify the `load_test.js` file if needed
-* Run the load test `make load`
+* Run `cd development` and `docker-compose up --build`
+* In another terminal tab run `docker exec -it api make load`
 
 ## TODO
 
