@@ -39,6 +39,17 @@ To run linting and tests:
 * Run `cd development` and `docker-compose up --build`
 * In another terminal tab run `docker exec -it api make linttest`
 
+To run a speed test against `ACMI_API_ENDPOINT` (defaults to https://api.acmi.net.au):
+
+* Run `cd development` and `docker-compose up --build`
+* In another terminal tab run `docker exec -it api make speed`
+
+To run a load test against https://api.acmi.net.au `/`, `/works/` and `/works/<ID>`:
+
+* Modify the `load_test.js` file if needed
+* Run `cd development` and `docker-compose up --build`
+* In another terminal tab run `docker exec -it api make load`
+
 ## TODO
 
 **Spike**: deploy this setup and see how it performs.
@@ -46,7 +57,7 @@ To run linting and tests:
 - [x] Create Flask app
 - [x] Add an XOS API interface to save `json` data
 - [x] Setup a production server (gunicorn/nginx)
-- [ ] Deploy it for evaluation
+- [x] Deploy it for evaluation
 
 ## Architecture
 
