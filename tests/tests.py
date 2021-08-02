@@ -1,7 +1,41 @@
-from unittest.mock import mock_open, patch
+import json
+import os
+from unittest.mock import MagicMock, mock_open, patch
 
 import app.api as acmi_api
-from app.api import API
+from app.api import API, XOSAPI
+
+
+class MockResponse:
+    def __init__(self, json_data, status_code):
+        self.content = json.loads(json_data)
+        self.status_code = status_code
+
+    def json(self):
+        return self.content
+
+    def raise_for_status(self):
+        return None
+
+
+def mocked_requests_get(*args, **kwargs):
+    if kwargs['url'] == 'https://xos.acmi.net.au/api/works/':
+        if kwargs['params'].get('page') == '2':
+            if kwargs['params'].get('unpublished'):
+                with open('tests/data/index_page_2_unpublished.json', 'r') as json_file:
+                    return MockResponse(json_file.read(), 200)
+            with open('tests/data/index_page_2.json', 'r') as json_file:
+                return MockResponse(json_file.read(), 200)
+        with open('tests/data/index.json', 'r') as json_file:
+            return MockResponse(json_file.read(), 200)
+    if kwargs['url'] == 'https://xos.acmi.net.au/api/works/1/':
+        with open('tests/data/1.json', 'r') as json_file:
+            return MockResponse(json_file.read(), 200)
+    if kwargs['url'] == 'https://xos.acmi.net.au/api/works/2/':
+        with open('tests/data/2.json', 'r') as json_file:
+            return MockResponse(json_file.read(), 200)
+
+    raise Exception("No mocked sample data for request: " + kwargs['url'])
 
 
 def mock_index():
@@ -95,3 +129,57 @@ def test_work_api_404():
         )
         assert response.status_code == 404
         assert response.json['message'] == 'Work 2 doesn\'t exist, sorry.'
+
+
+@patch('requests.get', MagicMock(side_effect=mocked_requests_get))
+def test_get_works(tmp_path):
+    """
+    Test get and save XOS works saves expected JSON files.
+    """
+    acmi_api.JSON_ROOT = tmp_path
+    xos_private_api = XOSAPI()
+    xos_private_api.get_works()
+    with open(acmi_api.JSON_ROOT / 'works/index.json') as index_page_1:
+        index_page_1_json = json.load(index_page_1)
+        assert index_page_1_json['next'] == 'https://api.acmi.net.au/works/?page=2'
+        assert not index_page_1_json['previous']
+        assert index_page_1_json['results']
+        assert index_page_1_json['count']
+
+    with open(acmi_api.JSON_ROOT / 'works/index_page_2.json') as index_page_2:
+        index_page_2_json = json.load(index_page_2)
+        assert not index_page_2_json['next']
+        assert index_page_2_json['previous'] == 'https://api.acmi.net.au/works/?page=1'
+        assert index_page_2_json['results']
+        assert index_page_2_json['count']
+
+    with open(acmi_api.JSON_ROOT / 'works/1.json') as work:
+        work_json = json.load(work)
+        assert work_json['id'] == 1
+        assert work_json['description'] == 'Work data returned from the filesystem.'
+
+    with open(acmi_api.JSON_ROOT / 'works/2.json') as work:
+        work_json = json.load(work)
+        assert work_json['id'] == 2
+        assert work_json['description'] == 'Work data 2 returned from the filesystem.'
+
+    assert not os.path.isfile(acmi_api.JSON_ROOT / 'works/3.json')
+
+
+@patch('requests.get', MagicMock(side_effect=mocked_requests_get))
+def test_delete_works(tmp_path):
+    """
+    Test delete XOS works removes expected JSON files.
+    """
+    acmi_api.JSON_ROOT = tmp_path
+    xos_private_api = XOSAPI()
+    xos_private_api.get_works()
+    assert os.path.isfile(acmi_api.JSON_ROOT / 'works/index.json')
+    assert os.path.isfile(acmi_api.JSON_ROOT / 'works/index_page_2.json')
+    assert os.path.isfile(acmi_api.JSON_ROOT / 'works/1.json')
+    assert os.path.isfile(acmi_api.JSON_ROOT / 'works/2.json')
+    xos_private_api.delete_works()
+    assert os.path.isfile(acmi_api.JSON_ROOT / 'works/index.json')
+    assert os.path.isfile(acmi_api.JSON_ROOT / 'works/index_page_2.json')
+    assert os.path.isfile(acmi_api.JSON_ROOT / 'works/1.json')
+    assert not os.path.isfile(acmi_api.JSON_ROOT / 'works/2.json')

@@ -1,0 +1,12 @@
+{
+    "count": 2,
+    "next": null,
+    "previous": "https://api.acmi.net.au/works/?page=1",
+    "results": [
+        {
+            "id": 2,
+            "unpublished": true,
+            "result": "Results from XOS appear here..."
+        }
+    ]
+}

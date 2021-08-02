@@ -1,5 +1,6 @@
 flask
 flask_restful
 furl
+pytz
 requests
 sentry-sdk[flask]

@@ -1,9 +1,10 @@
 import datetime
 import json
 import os
-from threading import Thread
+from pathlib import Path
 from urllib.parse import urljoin
 
+import pytz
 import requests
 from flask import Flask, request
 from flask_restful import Api, Resource, abort
@@ -16,6 +17,8 @@ ACMI_API_ENDPOINT = os.getenv('ACMI_API_ENDPOINT', 'https://api.acmi.net.au')
 XOS_API_ENDPOINT = os.getenv('XOS_API_ENDPOINT', None)
 SITE_ROOT = os.path.realpath(os.path.dirname(__file__))
 JSON_ROOT = os.path.join(SITE_ROOT, 'json/')
+TIMEZONE = pytz.timezone('Australia/Melbourne')
+UPDATE_FROM_DATETIME = datetime.datetime.now(TIMEZONE) - datetime.timedelta(days=1)
 
 application = Flask(__name__)
 api = Api(application)
@@ -115,31 +118,34 @@ class XOSAPI():
         resource = 'works'
         params = {
             'page_size': 10,
+            'unpublished': False,
         }
         if ALL_WORKS:
             print('Downloading all XOS Works... this will take a while')
         else:
-            print('Updating XOS Works from the last day...')
-            params['date_modified__gte'] = datetime.datetime.now() - datetime.timedelta(days=1)
+            print(f'Updating XOS Works since {UPDATE_FROM_DATETIME.isoformat()}...')
+            params['date_modified__gte'] = UPDATE_FROM_DATETIME
         works_json = self.get(resource, params).json()
-        print(f'{works_json["count"]} Works to update...')
         self.next_page = works_json.get('next')
-        self.save_works_list(resource, works_json)
+        if ALL_WORKS:
+            self.save_works_list(resource, works_json)
         works_saved = 0
         works_saved += self.save_works(resource, works_json)
         while self.next_page:
-            params = furl(self.next_page).args
+            params['page'] = furl(self.next_page).args.get('page')
             works_json = self.get(resource, params).json()
             self.next_page = works_json.get('next')
-            self.save_works_list(resource, works_json, params.get('page'))
+            if ALL_WORKS:
+                self.save_works_list(resource, works_json, params.get('page'))
             works_saved += self.save_works(resource, works_json)
-
         print(f'Finished downloading {works_saved} {resource}.')
-        self.delete_works()
+
+        if not ALL_WORKS:
+            self.save_works_lists(resource)
 
     def save_works_list(self, resource, works_json, page=None):
         """
-        Save list json.
+        Save a list of Works page from XOS.
         """
         endpoint = urljoin(ACMI_API_ENDPOINT, f'/{resource}/')
         if page:
@@ -151,21 +157,25 @@ class XOSAPI():
             works_json['next'] = f'{endpoint}?page=2'
             works_json['previous'] = None
             page = ''
-        json_file_path = os.path.join(JSON_ROOT, resource, f'index{page}.json')
+        json_directory = os.path.join(JSON_ROOT, resource)
+        Path(json_directory).mkdir(parents=True, exist_ok=True)
+        json_file_path = os.path.join(json_directory, f'index{page}.json')
         with open(json_file_path, 'w', encoding='utf-8') as json_file:
             json.dump(works_json, json_file, ensure_ascii=False, indent=4)
             print(f'Saved {resource} index to {json_file_path}')
 
     def save_works(self, resource, works_json):
         """
-        Download and save this Work from XOS.
+        Download and save these individual Works from XOS.
         """
         works_saved = 0
         for result in works_json.get('results'):
             work_id = str(result.get('id'))
             work_resource = os.path.join(f'{resource}/', work_id)
             work_json = self.get(resource=work_resource).json()
-            json_file_path = os.path.join(JSON_ROOT, resource, f'{work_id}.json')
+            json_directory = os.path.join(JSON_ROOT, resource)
+            Path(json_directory).mkdir(parents=True, exist_ok=True)
+            json_file_path = os.path.join(json_directory, f'{work_id}.json')
             work_json = self.update_assets(work_json)
             with open(json_file_path, 'w', encoding='utf-8') as json_file:
                 json.dump(work_json, json_file, ensure_ascii=False, indent=4)
@@ -174,9 +184,63 @@ class XOSAPI():
 
     def delete_works(self):
         """
-        Delete unpublished/deleted Works.
+        Delete unpublished Works from the file system.
         """
-        # TODO: Handle unpublished/deleted Works calling the Works API with a token? # pylint: disable=fixme
+        resource = 'works'
+        params = {
+            'page_size': 10,
+            'unpublished': True,
+        }
+        if ALL_WORKS:
+            print('Deleting all unpublished XOS Works...')
+        else:
+            print(f'Deleting unpublished XOS Works since {UPDATE_FROM_DATETIME.isoformat()}...')
+            params['date_modified__gte'] = UPDATE_FROM_DATETIME
+        work_ids_to_delete = []
+        works_deleted = 0
+        works_json = self.get(resource, params).json()
+        self.next_page = works_json.get('next')
+        for result in works_json['results']:
+            if result.get('unpublished'):
+                work_ids_to_delete.append(str(result.get('id')))
+        while self.next_page:
+            params['page'] = furl(self.next_page).args.get('page')
+            works_json = self.get(resource, params).json()
+            self.next_page = works_json.get('next')
+            for result in works_json['results']:
+                if result.get('unpublished'):
+                    work_ids_to_delete.append(str(result.get('id')))
+
+        for work_id in work_ids_to_delete:
+            json_file_path = os.path.join(JSON_ROOT, resource, f'{work_id}.json')
+            try:
+                os.remove(json_file_path)
+                works_deleted += 1
+            except OSError as exception:
+                print(
+                    f'Error: couldn\'t delete {exception.filename} '
+                    f'with error: {exception.strerror}'
+                )
+
+        print(f'Finished deleting {works_deleted}/{len(work_ids_to_delete)} {resource}.')
+
+    def save_works_lists(self, resource):
+        """
+        Download and save all Works list pages from XOS.
+        """
+        print(f'Saving all {resource} list index files...')
+        params = {
+            'page_size': 10,
+            'unpublished': False,
+        }
+        works_json = self.get(resource, params).json()
+        self.next_page = works_json.get('next')
+        self.save_works_list(resource, works_json)
+        while self.next_page:
+            params['page'] = furl(self.next_page).args.get('page')
+            works_json = self.get(resource, params).json()
+            self.next_page = works_json.get('next')
+            self.save_works_list(resource, works_json, params.get('page'))
 
     def update_assets(self, work_json):
         """
@@ -196,7 +260,8 @@ if __name__ == '__main__':
         print('===============================================')
         print('Starting thread to update Works API from XOS...')
         xos_private_api = XOSAPI()
-        Thread(target=xos_private_api.get_works()).start()
+        xos_private_api.get_works()
+        xos_private_api.delete_works()
         print('===============================================')
     application.run(
         host='0.0.0.0',
