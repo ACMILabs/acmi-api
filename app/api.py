@@ -18,7 +18,8 @@ XOS_API_ENDPOINT = os.getenv('XOS_API_ENDPOINT', None)
 SITE_ROOT = os.path.realpath(os.path.dirname(__file__))
 JSON_ROOT = os.path.join(SITE_ROOT, 'json/')
 TIMEZONE = pytz.timezone('Australia/Melbourne')
-UPDATE_FROM_DATETIME = datetime.datetime.now(TIMEZONE) - datetime.timedelta(days=1)
+YESTERDAY = datetime.datetime.now(TIMEZONE) - datetime.timedelta(days=1)
+UPDATE_FROM_DATE = os.getenv('UPDATE_FROM_DATE', YESTERDAY.date())
 
 application = Flask(__name__)
 api = Api(application)
@@ -123,25 +124,25 @@ class XOSAPI():
         if ALL_WORKS:
             print('Downloading all XOS Works... this will take a while')
         else:
-            print(f'Updating XOS Works since {UPDATE_FROM_DATETIME.isoformat()}...')
-            params['date_modified__gte'] = UPDATE_FROM_DATETIME
+            print(f'Updating XOS Works since {UPDATE_FROM_DATE}...')
+            params['date_modified__gte'] = UPDATE_FROM_DATE
         works_json = self.get(resource, params).json()
         self.next_page = works_json.get('next')
-        if ALL_WORKS:
-            self.save_works_list(resource, works_json)
+        self.save_works_list(resource, works_json)
         works_saved = 0
         works_saved += self.save_works(resource, works_json)
         while self.next_page:
             params['page'] = furl(self.next_page).args.get('page')
             works_json = self.get(resource, params).json()
             self.next_page = works_json.get('next')
-            if ALL_WORKS:
-                self.save_works_list(resource, works_json, params.get('page'))
+            self.save_works_list(resource, works_json, params.get('page'))
             works_saved += self.save_works(resource, works_json)
         print(f'Finished downloading {works_saved} {resource}.')
 
         if not ALL_WORKS:
-            self.save_works_lists(resource)
+            # TODO: Enable this once we're live # pylint: disable=fixme
+            # self.save_works_lists(resource)
+            pass
 
     def save_works_list(self, resource, works_json, page=None):
         """
@@ -194,8 +195,8 @@ class XOSAPI():
         if ALL_WORKS:
             print('Deleting all unpublished XOS Works...')
         else:
-            print(f'Deleting unpublished XOS Works since {UPDATE_FROM_DATETIME.isoformat()}...')
-            params['date_modified__gte'] = UPDATE_FROM_DATETIME
+            print(f'Deleting unpublished XOS Works since {UPDATE_FROM_DATE}...')
+            params['date_modified__gte'] = UPDATE_FROM_DATE
         work_ids_to_delete = []
         works_deleted = 0
         works_json = self.get(resource, params).json()
