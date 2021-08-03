@@ -18,6 +18,10 @@ class SpeedTest(XOSAPI):
         """
         Get each page of index json files and return the average response time.
         """
+        params = {
+            'page_size': 10,
+            'unpublished': False,
+        }
         average_times = []
         total_requests = 0
         start = datetime.datetime.now()
@@ -25,15 +29,15 @@ class SpeedTest(XOSAPI):
         works_json = self.get(resource).json()
         end = datetime.datetime.now()
         average_times.append((end - start).total_seconds())
-        self.next_page = works_json.get('next')
-        while self.next_page:
-            params = furl(self.next_page).args
+        while True:
             start = datetime.datetime.now()
             total_requests += 1
             works_json = self.get(resource, params).json()
             end = datetime.datetime.now()
             average_times.append((end - start).total_seconds())
-            self.next_page = works_json.get('next')
+            if not works_json.get('next'):
+                break
+            params['page'] = furl(works_json.get('next')).args.get('page')
         average_request_time = round(statistics.mean(average_times) * 1000)
         print(
             f'Speed test finished.\nAverage time: {average_request_time} milliseconds\n'
