@@ -93,7 +93,6 @@ class XOSAPI():
     """
     def __init__(self):
         self.uri = XOS_API_ENDPOINT
-        self.next_page = None
 
     def get(self, resource, params=None):
         """
@@ -126,17 +125,15 @@ class XOSAPI():
         else:
             print(f'Updating XOS Works since {UPDATE_FROM_DATE}...')
             params['date_modified__gte'] = UPDATE_FROM_DATE
-        works_json = self.get(resource, params).json()
-        self.next_page = works_json.get('next')
-        self.save_works_list(resource, works_json)
+        params['page'] = 1
         works_saved = 0
-        works_saved += self.save_works(resource, works_json)
-        while self.next_page:
-            params['page'] = furl(self.next_page).args.get('page')
+        while True:
             works_json = self.get(resource, params).json()
-            self.next_page = works_json.get('next')
             self.save_works_list(resource, works_json, params.get('page'))
             works_saved += self.save_works(resource, works_json)
+            if not works_json.get('next'):
+                break
+            params['page'] = furl(works_json.get('next')).args.get('page')
         print(f'Finished downloading {works_saved} {resource}.')
 
         if not ALL_WORKS:
@@ -149,7 +146,7 @@ class XOSAPI():
         Save a list of Works page from XOS.
         """
         endpoint = urljoin(ACMI_API_ENDPOINT, f'/{resource}/')
-        if page:
+        if page and not page == 1:
             if works_json.get('next'):
                 works_json['next'] = f'{endpoint}?page={int(page) + 1}'
             works_json['previous'] = f'{endpoint}?page={int(page) - 1}'
@@ -199,18 +196,15 @@ class XOSAPI():
             params['date_modified__gte'] = UPDATE_FROM_DATE
         work_ids_to_delete = []
         works_deleted = 0
-        works_json = self.get(resource, params).json()
-        self.next_page = works_json.get('next')
-        for result in works_json['results']:
-            if result.get('unpublished'):
-                work_ids_to_delete.append(str(result.get('id')))
-        while self.next_page:
-            params['page'] = furl(self.next_page).args.get('page')
+        params['page'] = 1
+        while True:
             works_json = self.get(resource, params).json()
-            self.next_page = works_json.get('next')
             for result in works_json['results']:
                 if result.get('unpublished'):
                     work_ids_to_delete.append(str(result.get('id')))
+            if not works_json.get('next'):
+                break
+            params['page'] = furl(works_json.get('next')).args.get('page')
 
         for work_id in work_ids_to_delete:
             json_file_path = os.path.join(JSON_ROOT, resource, f'{work_id}.json')
@@ -234,14 +228,13 @@ class XOSAPI():
             'page_size': 10,
             'unpublished': False,
         }
-        works_json = self.get(resource, params).json()
-        self.next_page = works_json.get('next')
-        self.save_works_list(resource, works_json)
-        while self.next_page:
-            params['page'] = furl(self.next_page).args.get('page')
+        params['page'] = 1
+        while True:
             works_json = self.get(resource, params).json()
-            self.next_page = works_json.get('next')
             self.save_works_list(resource, works_json, params.get('page'))
+            if not works_json.get('next'):
+                break
+            params['page'] = furl(works_json.get('next')).args.get('page')
 
     def update_assets(self, work_json):
         """
