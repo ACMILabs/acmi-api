@@ -1,9 +1,12 @@
 import datetime
 import json
 import os
+import re
 from pathlib import Path
 from urllib.parse import urljoin
 
+import boto3
+import botocore
 import pytz
 import requests
 from flask import Flask, request
@@ -20,9 +23,18 @@ JSON_ROOT = os.path.join(SITE_ROOT, 'json/')
 TIMEZONE = pytz.timezone('Australia/Melbourne')
 YESTERDAY = datetime.datetime.now(TIMEZONE) - datetime.timedelta(days=1)
 UPDATE_FROM_DATE = os.getenv('UPDATE_FROM_DATE', YESTERDAY.date())
+AWS_ACCESS_KEY_ID = os.getenv('AWS_ACCESS_KEY_ID')
+AWS_SECRET_ACCESS_KEY = os.getenv('AWS_SECRET_ACCESS_KEY')
+AWS_STORAGE_BUCKET_NAME = os.getenv('AWS_STORAGE_BUCKET_NAME')
 
 application = Flask(__name__)
 api = Api(application)
+s3_resource = boto3.resource(
+    's3',
+    aws_access_key_id=AWS_ACCESS_KEY_ID,
+    aws_secret_access_key=AWS_SECRET_ACCESS_KEY,
+)
+destination_bucket = s3_resource.Bucket(AWS_STORAGE_BUCKET_NAME)
 
 
 class API(Resource):
@@ -171,10 +183,10 @@ class XOSAPI():
             work_id = str(result.get('id'))
             work_resource = os.path.join(f'{resource}/', work_id)
             work_json = self.get(resource=work_resource).json()
+            work_json = self.update_assets(work_json)
             json_directory = os.path.join(JSON_ROOT, resource)
             Path(json_directory).mkdir(parents=True, exist_ok=True)
             json_file_path = os.path.join(json_directory, f'{work_id}.json')
-            work_json = self.update_assets(work_json)
             with open(json_file_path, 'w', encoding='utf-8') as json_file:
                 json.dump(work_json, json_file, ensure_ascii=False, indent=4)
             works_saved += 1
@@ -240,8 +252,36 @@ class XOSAPI():
         """
         Upload images/videos to a public bucket, and update the links in the json.
         """
-        # TODO: Upload images/videos to public bucket # pylint: disable=fixme
-        # TODO: Rename image/video links to public bucket # pylint: disable=fixme
+        # Upload assets to ACMI public API bucket
+        asset_regex = r'(https:\/\/.*?amazonaws\.com.*?)\?'
+        assets = re.findall(asset_regex, str(work_json))
+        for asset in assets:
+            source = re.findall(r'https:\/\/(.*?)\.s3', asset)[0]
+            key = re.findall(r'\.com/(.*?)$', asset)[0]
+            destination_key = re.findall(r'\.com\/media\/[a-z]+\/(.*?)$', asset)[0]
+            try:
+                s3_resource.Object(AWS_STORAGE_BUCKET_NAME, destination_key).load()
+            except botocore.exceptions.ClientError as exception:
+                if exception.response['Error']['Code'] == '404':
+                    copy_source = {
+                        'Bucket': source,
+                        'Key': key
+                    }
+                    print(f'Copying {copy_source} to {AWS_STORAGE_BUCKET_NAME}/{destination_key}')
+                    destination_bucket.copy(copy_source, destination_key)
+
+                    # Replace image/video links with public API bucket links
+                    work_json_string = re.sub(
+                        rf'"({asset})\?.*?"',
+                        f'"https://{AWS_STORAGE_BUCKET_NAME}.s3.amazonaws.com/{destination_key}"',
+                        json.dumps(work_json),
+                    )
+                    work_json = json.loads(work_json_string)
+                else:
+                    print(f'ERROR accessing asset: {key}, {exception}')
+            else:
+                print(f'{destination_key} exists...')
+
         return work_json
 
 
