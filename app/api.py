@@ -25,7 +25,7 @@ YESTERDAY = datetime.datetime.now(TIMEZONE) - datetime.timedelta(days=1)
 UPDATE_FROM_DATE = os.getenv('UPDATE_FROM_DATE', YESTERDAY.date())
 AWS_ACCESS_KEY_ID = os.getenv('AWS_ACCESS_KEY_ID')
 AWS_SECRET_ACCESS_KEY = os.getenv('AWS_SECRET_ACCESS_KEY')
-AWS_STORAGE_BUCKET_NAME = os.getenv('AWS_STORAGE_BUCKET_NAME')
+AWS_STORAGE_BUCKET_NAME = os.getenv('AWS_STORAGE_BUCKET_NAME', 'acmi-public-api')
 
 application = Flask(__name__)
 api = Api(application)
@@ -141,6 +141,7 @@ class XOSAPI():
         works_saved = 0
         while True:
             works_json = self.get(resource, params).json()
+            works_json = self.update_assets(works_json)
             self.save_works_list(resource, works_json, params.get('page'))
             works_saved += self.save_works(resource, works_json)
             if not works_json.get('next'):
@@ -214,6 +215,7 @@ class XOSAPI():
             for result in works_json['results']:
                 if result.get('unpublished'):
                     work_ids_to_delete.append(str(result.get('id')))
+                    self.update_assets(result, delete=True)
             if not works_json.get('next'):
                 break
             params['page'] = furl(works_json.get('next')).args.get('page')
@@ -243,46 +245,68 @@ class XOSAPI():
         params['page'] = 1
         while True:
             works_json = self.get(resource, params).json()
+            works_json = self.update_assets(works_json)
             self.save_works_list(resource, works_json, params.get('page'))
             if not works_json.get('next'):
                 break
             params['page'] = furl(works_json.get('next')).args.get('page')
 
-    def update_assets(self, work_json):
+    def update_assets(self, work_json, delete=False):
         """
         Upload images/videos to a public bucket, and update the links in the json.
         """
         # Upload assets to ACMI public API bucket
-        asset_regex = r'(https:\/\/.*?amazonaws\.com.*?)\?'
+        asset_regex = r'(https:\/\/[a-z0-9\-]+\.s3\.amazonaws\.com.*?)\?'
         assets = re.findall(asset_regex, str(work_json))
         for asset in assets:
             source = re.findall(r'https:\/\/(.*?)\.s3', asset)[0]
             key = re.findall(r'\.com/(.*?)$', asset)[0]
-            destination_key = re.findall(r'\.com\/media\/[a-z]+\/(.*?)$', asset)[0]
-            try:
-                s3_resource.Object(AWS_STORAGE_BUCKET_NAME, destination_key).load()
-            except botocore.exceptions.ClientError as exception:
-                if exception.response['Error']['Code'] == '404':
+            destination_key = re.findall(r'\.com\/media\/(.*?)$', asset)[0]
+            if 'collection/' in destination_key:
+                destination_key = destination_key.replace('collection/', '')
+            else:
+                destination_key = f'video/{destination_key}'
+
+            if delete:
+                if self.asset_exists(destination_key):
+                    print(f'Deleting {AWS_STORAGE_BUCKET_NAME}/{destination_key}...')
+                    s3_resource.Object(AWS_STORAGE_BUCKET_NAME, destination_key).delete()
+            else:
+                if self.asset_exists(destination_key):
+                    print(f'{destination_key} exists...')
+                else:
                     copy_source = {
                         'Bucket': source,
                         'Key': key
                     }
                     print(f'Copying {copy_source} to {AWS_STORAGE_BUCKET_NAME}/{destination_key}')
-                    destination_bucket.copy(copy_source, destination_key)
-
-                    # Replace image/video links with public API bucket links
-                    work_json_string = re.sub(
-                        rf'"({asset})\?.*?"',
-                        f'"https://{AWS_STORAGE_BUCKET_NAME}.s3.amazonaws.com/{destination_key}"',
-                        json.dumps(work_json),
+                    destination_bucket.copy(
+                        copy_source,
+                        destination_key,
+                        ExtraArgs={'ACL': 'public-read'},
                     )
-                    work_json = json.loads(work_json_string)
-                else:
-                    print(f'ERROR accessing asset: {key}, {exception}')
-            else:
-                print(f'{destination_key} exists...')
+                # Replace image/video links with public API bucket links
+                work_json_string = re.sub(
+                    rf'"({asset})\?.*?"',
+                    f'"https://{AWS_STORAGE_BUCKET_NAME}.s3.amazonaws.com/{destination_key}"',
+                    json.dumps(work_json),
+                )
+                work_json = json.loads(work_json_string)
 
         return work_json
+
+    def asset_exists(self, key):
+        """
+        Check the destination bucket to see if the asset exists.
+        """
+        try:
+            s3_resource.Object(AWS_STORAGE_BUCKET_NAME, key).load()
+        except botocore.exceptions.ClientError as exception:
+            if exception.response['Error']['Code'] == '404':
+                return False
+            print(f'ERROR accessing asset: {key}, {exception}')
+            return False
+        return True
 
 
 api.add_resource(API, '/')
