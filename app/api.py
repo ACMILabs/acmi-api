@@ -150,6 +150,7 @@ class XOSAPI():
         print(f'Finished downloading {works_saved} {resource}.')
 
         if not ALL_WORKS:
+            # TODO: Delete old works lists # pylint: disable=fixme
             # TODO: Enable this once we're live # pylint: disable=fixme
             # self.save_works_lists(resource)
             pass
@@ -321,8 +322,9 @@ if __name__ == '__main__':
         xos_private_api.get_works()
         xos_private_api.delete_works()
         print('===============================================')
-    application.run(
-        host='0.0.0.0',
-        port=8081,
-        debug=DEBUG,
-    )
+    else:
+        application.run(
+            host='0.0.0.0',
+            port=8081,
+            debug=DEBUG,
+        )
