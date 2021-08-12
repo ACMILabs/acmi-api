@@ -3,7 +3,7 @@ import json
 import os
 import re
 from pathlib import Path
-from urllib.parse import urljoin
+from urllib.parse import unquote, urljoin
 
 import boto3
 import botocore
@@ -12,6 +12,7 @@ import requests
 from flask import Flask, request
 from flask_restful import Api, Resource, abort
 from furl import furl
+from requests.utils import requote_uri
 
 DEBUG = os.getenv('DEBUG', 'false').lower() == 'true'
 UPDATE_WORKS = os.getenv('UPDATE_WORKS', 'false').lower() == 'true'
@@ -173,7 +174,7 @@ class XOSAPI():
         Path(json_directory).mkdir(parents=True, exist_ok=True)
         json_file_path = os.path.join(json_directory, f'index{page}.json')
         with open(json_file_path, 'w', encoding='utf-8') as json_file:
-            json.dump(works_json, json_file, ensure_ascii=False, indent=4)
+            json.dump(works_json, json_file, ensure_ascii=False, indent=None)
             print(f'Saved {resource} index to {json_file_path}')
 
     def save_works(self, resource, works_json):
@@ -190,7 +191,7 @@ class XOSAPI():
             Path(json_directory).mkdir(parents=True, exist_ok=True)
             json_file_path = os.path.join(json_directory, f'{work_id}.json')
             with open(json_file_path, 'w', encoding='utf-8') as json_file:
-                json.dump(work_json, json_file, ensure_ascii=False, indent=4)
+                json.dump(work_json, json_file, ensure_ascii=False, indent=None)
             works_saved += 1
         return works_saved
 
@@ -263,6 +264,11 @@ class XOSAPI():
             source = re.findall(r'https:\/\/(.*?)\.s3', asset)[0]
             key = re.findall(r'\.com/(.*?)$', asset)[0]
             destination_key = re.findall(r'\.com\/media\/(.*?)$', asset)[0]
+
+            # Unquote URL quoted filenames
+            key = unquote(key)
+            destination_key = unquote(destination_key)
+
             if 'collection/' in destination_key:
                 destination_key = destination_key.replace('collection/', '')
             else:
@@ -287,6 +293,7 @@ class XOSAPI():
                         ExtraArgs={'ACL': 'public-read'},
                     )
                 # Replace image/video links with public API bucket links
+                destination_key = requote_uri(destination_key)
                 work_json_string = re.sub(
                     rf'"({asset})\?.*?"',
                     f'"https://{AWS_STORAGE_BUCKET_NAME}.s3.amazonaws.com/{destination_key}"',
