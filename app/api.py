@@ -257,8 +257,9 @@ if __name__ == '__main__':
         xos_private_api.get_works()
         xos_private_api.delete_works()
         print('===============================================')
-    application.run(
-        host='0.0.0.0',
-        port=8081,
-        debug=DEBUG,
-    )
+    else:
+        application.run(
+            host='0.0.0.0',
+            port=8081,
+            debug=DEBUG,
+        )
