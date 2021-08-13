@@ -5,19 +5,6 @@ if [ "$CRON_UPDATER" = "true" ]; then
 
     echo "Starting ACMI public API updater..."
 
-    # Avoid `git: Argument list too long` when running git add on lots of files
-    ulimit -s 65536
-
-    # Setup git
-    git config --global user.email "$GIT_EMAIL"
-    git config --global user.name "$GIT_NAME"
-
-    # Create deploy key for access to the acmi-api repo
-    mkdir -p ~/.ssh
-    echo "$SSH_PRIVATE_KEY" > ~/.ssh/id_rsa
-    echo "$SSH_KNOWN_HOSTS" > ~/.ssh/known_hosts
-    chmod 600 ~/.ssh/id_rsa
-
     # Use update branch for API updates
     cd /code/
     if [ "$DRY_RUN" = "true" ]; then
