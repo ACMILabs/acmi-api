@@ -25,9 +25,6 @@ if [ "$CRON_UPDATER" = "true" ]; then
     git checkout update
     git merge main
 
-    # Install requirements
-    pip install -Ur requirements/base.txt
-
     # Update API
     DEBUG=true && UPDATE_WORKS=true && python -u -m app.api
 
