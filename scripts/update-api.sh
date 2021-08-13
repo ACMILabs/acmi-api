@@ -20,10 +20,14 @@ if [ "$CRON_UPDATER" = "true" ]; then
 
     # Use update branch for API updates
     cd /code/
-    git checkout main
-    git pull
-    git checkout update
-    git merge main
+    if [ "$DRY_RUN" = "true" ]; then
+        echo "DRY_RUN Not checking out update branch..."
+    else
+        git checkout main
+        git pull
+        git checkout update
+        git merge main
+    fi
 
     # Update API
     DEBUG=true && UPDATE_WORKS=true && python -u -m app.api
