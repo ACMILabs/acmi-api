@@ -1,5 +1,9 @@
 #!/bin/bash
 
+if [ "$CRON_UPDATER" = "true" ]; then
+    service cron start
+fi
+
 if [ "$DEBUG" = "true" ]; then
     echo "Starting Flask server..."
     python -u -m app.api
