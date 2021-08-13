@@ -1,7 +1,7 @@
-#!/bin/bash
+#!/bin/ash
 
 if [ "$CRON_UPDATER" = "true" ]; then
-    service cron start
+    crond
 fi
 
 if [ "$DEBUG" = "true" ]; then
@@ -10,7 +10,7 @@ if [ "$DEBUG" = "true" ]; then
 else
     echo "Starting gunicorn server..."
     PYTHON_PATH=`python -c "import sys; print(sys.path[-1])"`
-    gunicorn3 app.api \
+    gunicorn app.api \
         --log-level DEBUG \
         --pythonpath $PYTHON_PATH \
         --workers 2 \

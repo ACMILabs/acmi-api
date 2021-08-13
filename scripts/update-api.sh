@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/bin/ash
 
 if [ "$CRON_UPDATER" = "true" ]; then
     set -e
