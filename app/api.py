@@ -1,14 +1,18 @@
 import datetime
 import json
 import os
+import re
 from pathlib import Path
-from urllib.parse import urljoin
+from urllib.parse import unquote, urljoin
 
+import boto3
+import botocore
 import pytz
 import requests
 from flask import Flask, request
 from flask_restful import Api, Resource, abort
 from furl import furl
+from requests.utils import requote_uri
 
 DEBUG = os.getenv('DEBUG', 'false').lower() == 'true'
 UPDATE_WORKS = os.getenv('UPDATE_WORKS', 'false').lower() == 'true'
@@ -20,9 +24,18 @@ JSON_ROOT = os.path.join(SITE_ROOT, 'json/')
 TIMEZONE = pytz.timezone('Australia/Melbourne')
 YESTERDAY = datetime.datetime.now(TIMEZONE) - datetime.timedelta(days=1)
 UPDATE_FROM_DATE = os.getenv('UPDATE_FROM_DATE', YESTERDAY.date())
+AWS_ACCESS_KEY_ID = os.getenv('AWS_ACCESS_KEY_ID')
+AWS_SECRET_ACCESS_KEY = os.getenv('AWS_SECRET_ACCESS_KEY')
+AWS_STORAGE_BUCKET_NAME = os.getenv('AWS_STORAGE_BUCKET_NAME', 'acmi-public-api')
 
 application = Flask(__name__)
 api = Api(application)
+s3_resource = boto3.resource(
+    's3',
+    aws_access_key_id=AWS_ACCESS_KEY_ID,
+    aws_secret_access_key=AWS_SECRET_ACCESS_KEY,
+)
+destination_bucket = s3_resource.Bucket(AWS_STORAGE_BUCKET_NAME)
 
 
 class API(Resource):
@@ -129,6 +142,7 @@ class XOSAPI():
         works_saved = 0
         while True:
             works_json = self.get(resource, params).json()
+            works_json = self.update_assets(works_json)
             self.save_works_list(resource, works_json, params.get('page'))
             works_saved += self.save_works(resource, works_json)
             if not works_json.get('next'):
@@ -137,6 +151,7 @@ class XOSAPI():
         print(f'Finished downloading {works_saved} {resource}.')
 
         if not ALL_WORKS:
+            # TODO: Delete old works lists # pylint: disable=fixme
             # TODO: Enable this once we're live # pylint: disable=fixme
             # self.save_works_lists(resource)
             pass
@@ -159,7 +174,7 @@ class XOSAPI():
         Path(json_directory).mkdir(parents=True, exist_ok=True)
         json_file_path = os.path.join(json_directory, f'index{page}.json')
         with open(json_file_path, 'w', encoding='utf-8') as json_file:
-            json.dump(works_json, json_file, ensure_ascii=False, indent=4)
+            json.dump(works_json, json_file, ensure_ascii=False, indent=None)
             print(f'Saved {resource} index to {json_file_path}')
 
     def save_works(self, resource, works_json):
@@ -171,12 +186,12 @@ class XOSAPI():
             work_id = str(result.get('id'))
             work_resource = os.path.join(f'{resource}/', work_id)
             work_json = self.get(resource=work_resource).json()
+            work_json = self.update_assets(work_json)
             json_directory = os.path.join(JSON_ROOT, resource)
             Path(json_directory).mkdir(parents=True, exist_ok=True)
             json_file_path = os.path.join(json_directory, f'{work_id}.json')
-            work_json = self.update_assets(work_json)
             with open(json_file_path, 'w', encoding='utf-8') as json_file:
-                json.dump(work_json, json_file, ensure_ascii=False, indent=4)
+                json.dump(work_json, json_file, ensure_ascii=False, indent=None)
             works_saved += 1
         return works_saved
 
@@ -202,6 +217,7 @@ class XOSAPI():
             for result in works_json['results']:
                 if result.get('unpublished'):
                     work_ids_to_delete.append(str(result.get('id')))
+                    self.update_assets(result, delete=True)
             if not works_json.get('next'):
                 break
             params['page'] = furl(works_json.get('next')).args.get('page')
@@ -231,18 +247,74 @@ class XOSAPI():
         params['page'] = 1
         while True:
             works_json = self.get(resource, params).json()
+            works_json = self.update_assets(works_json)
             self.save_works_list(resource, works_json, params.get('page'))
             if not works_json.get('next'):
                 break
             params['page'] = furl(works_json.get('next')).args.get('page')
 
-    def update_assets(self, work_json):
+    def update_assets(self, work_json, delete=False):
         """
         Upload images/videos to a public bucket, and update the links in the json.
         """
-        # TODO: Upload images/videos to public bucket # pylint: disable=fixme
-        # TODO: Rename image/video links to public bucket # pylint: disable=fixme
+        # Upload assets to ACMI public API bucket
+        asset_regex = r'(https:\/\/[a-z0-9\-]+\.s3\.amazonaws\.com.*?)\?'
+        assets = re.findall(asset_regex, str(work_json))
+        for asset in assets:
+            source = re.findall(r'https:\/\/(.*?)\.s3', asset)[0]
+            key = re.findall(r'\.com/(.*?)$', asset)[0]
+            destination_key = re.findall(r'\.com\/media\/(.*?)$', asset)[0]
+
+            # Unquote URL quoted filenames
+            key = unquote(key)
+            destination_key = unquote(destination_key)
+
+            if 'collection/' in destination_key:
+                destination_key = destination_key.replace('collection/', '')
+            else:
+                destination_key = f'video/{destination_key}'
+
+            if delete:
+                if self.asset_exists(destination_key):
+                    print(f'Deleting {AWS_STORAGE_BUCKET_NAME}/{destination_key}...')
+                    s3_resource.Object(AWS_STORAGE_BUCKET_NAME, destination_key).delete()
+            else:
+                if self.asset_exists(destination_key):
+                    print(f'{destination_key} exists...')
+                else:
+                    copy_source = {
+                        'Bucket': source,
+                        'Key': key
+                    }
+                    print(f'Copying {copy_source} to {AWS_STORAGE_BUCKET_NAME}/{destination_key}')
+                    destination_bucket.copy(
+                        copy_source,
+                        destination_key,
+                        ExtraArgs={'ACL': 'public-read'},
+                    )
+                # Replace image/video links with public API bucket links
+                destination_key = requote_uri(destination_key)
+                work_json_string = re.sub(
+                    rf'"({asset})\?.*?"',
+                    f'"https://{AWS_STORAGE_BUCKET_NAME}.s3.amazonaws.com/{destination_key}"',
+                    json.dumps(work_json),
+                )
+                work_json = json.loads(work_json_string)
+
         return work_json
+
+    def asset_exists(self, key):
+        """
+        Check the destination bucket to see if the asset exists.
+        """
+        try:
+            s3_resource.Object(AWS_STORAGE_BUCKET_NAME, key).load()
+        except botocore.exceptions.ClientError as exception:
+            if exception.response['Error']['Code'] == '404':
+                return False
+            print(f'ERROR accessing asset: {key}, {exception}')
+            return False
+        return True
 
 
 api.add_resource(API, '/')
@@ -257,8 +329,9 @@ if __name__ == '__main__':
         xos_private_api.get_works()
         xos_private_api.delete_works()
         print('===============================================')
-    application.run(
-        host='0.0.0.0',
-        port=8081,
-        debug=DEBUG,
-    )
+    else:
+        application.run(
+            host='0.0.0.0',
+            port=8081,
+            debug=DEBUG,
+        )

@@ -2,8 +2,10 @@ import json
 import os
 from unittest.mock import MagicMock, mock_open, patch
 
+import botocore
+
 import app.api as acmi_api
-from app.api import API, XOSAPI
+from app.api import API, AWS_STORAGE_BUCKET_NAME, XOSAPI
 
 
 class MockResponse:
@@ -36,6 +38,18 @@ def mocked_requests_get(*args, **kwargs):
             return MockResponse(json_file.read(), 200)
 
     raise Exception("No mocked sample data for request: " + kwargs['url'])
+
+
+def mock_boto3(_, key):
+    """
+    Mock boto3 responses.
+    """
+    if key == 'image/image-to-delete.jpg':
+        return MagicMock()
+    raise botocore.exceptions.ClientError(
+        error_response={'Error': {'Code': '404'}},
+        operation_name='HeadObject',
+    )
 
 
 def mock_index():
@@ -167,6 +181,7 @@ def test_get_works(tmp_path):
 
 
 @patch('requests.get', MagicMock(side_effect=mocked_requests_get))
+@patch('app.api.s3_resource.Object', MagicMock(side_effect=mock_boto3))
 def test_delete_works(tmp_path):
     """
     Test delete XOS works removes expected JSON files.
@@ -183,3 +198,39 @@ def test_delete_works(tmp_path):
     assert os.path.isfile(acmi_api.JSON_ROOT / 'works/index_page_2.json')
     assert os.path.isfile(acmi_api.JSON_ROOT / 'works/1.json')
     assert not os.path.isfile(acmi_api.JSON_ROOT / 'works/2.json')
+
+
+@patch('app.api.s3_resource.Object', MagicMock(side_effect=mock_boto3))
+@patch('app.api.destination_bucket', MagicMock())
+def test_update_assets():
+    """
+    Test update assets uploads and renames asset links.
+    """
+    with open('tests/data/100542.json') as work:
+        work_json = json.load(work)
+        xos_private_api = XOSAPI()
+        work_json = xos_private_api.update_assets(work_json)
+        thumbnail_filename = (
+            f'https://{AWS_STORAGE_BUCKET_NAME}.s3.amazonaws.com/'
+            'image/Z000133_Webwurld_Still2_ACMI.tif.1200x1200_q85.jpg'
+        )
+        assert work_json['thumbnail']['image_url'] == thumbnail_filename
+        assert work_json['images'][0]['image_file'] == \
+            thumbnail_filename.replace('.1200x1200_q85.jpg', '')
+        assert work_json['images'][0]['image_file_l'] == \
+            thumbnail_filename.replace('1200x1200', '3840x3840')
+
+    with open('tests/data/111326.json') as video:
+        video_json = json.load(video)
+        xos_private_api = XOSAPI()
+        video_json = xos_private_api.update_assets(video_json)
+        thumbnail_filename = (
+            f'https://{AWS_STORAGE_BUCKET_NAME}.s3.amazonaws.com/'
+            'video/snapshot_1657_669s.jpg'
+        )
+        video_filename = (
+            f'https://{AWS_STORAGE_BUCKET_NAME}.s3.amazonaws.com/'
+            'video/a_000011_ap01_FiftyYearsOfService.mp4'
+        )
+        assert video_json['thumbnail']['image_url'] == thumbnail_filename
+        assert video_json['videos'][0]['resource'] == video_filename
