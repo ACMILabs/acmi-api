@@ -6,7 +6,7 @@ git config --global user.name "$GIT_NAME"
 
 # Create deploy key for access to the acmi-api repo
 mkdir -p ~/.ssh
-echo "$SSH_PRIVATE_KEY" > ~/.ssh/id_rsa
+echo -e "$SSH_PRIVATE_KEY" > ~/.ssh/id_rsa
 echo "$SSH_KNOWN_HOSTS" > ~/.ssh/known_hosts
 chmod 600 ~/.ssh/id_rsa
 
