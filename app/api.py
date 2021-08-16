@@ -167,7 +167,8 @@ class XOSAPI():
             works_json['previous'] = f'{endpoint}?page={int(page) - 1}'
             page = f'_page_{page}'
         else:
-            works_json['next'] = f'{endpoint}?page=2'
+            if works_json.get('next'):
+                works_json['next'] = f'{endpoint}?page=2'
             works_json['previous'] = None
             page = ''
         json_directory = os.path.join(JSON_ROOT, resource)
