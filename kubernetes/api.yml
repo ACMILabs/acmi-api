@@ -56,19 +56,34 @@ spec:
             valueFrom:
               secretKeyRef:
                 key: AWS_ACCESS_KEY_ID
-                name: amazon-s3-creds-xos
+                name: amazon-s3-creds-xos-api
           - name: AWS_SECRET_ACCESS_KEY
             valueFrom:
               secretKeyRef:
                 key: AWS_SECRET_ACCESS_KEY
-                name: amazon-s3-creds-xos
+                name: amazon-s3-creds-xos-api
           - name: AWS_STORAGE_BUCKET_NAME
             valueFrom:
               secretKeyRef:
                 key: AWS_STORAGE_BUCKET_NAME
-                name: amazon-s3-creds-xos
+                name: amazon-s3-creds-xos-api
           - name: AWS_LOCATION
             value: "static"
+          - name: GIT_EMAIL
+            valueFrom:
+              configMapKeyRef:
+                key: GIT_EMAIL
+                name: xos-api-env
+          - name: GIT_NAME
+            valueFrom:
+              configMapKeyRef:
+                key: GIT_NAME
+                name: xos-api-env
+          - name: CRON_UPDATER
+            valueFrom:
+              configMapKeyRef:
+                key: CRON_UPDATER
+                name: xos-api-env
       imagePullSecrets:
       - name: docker-cred
 ---
