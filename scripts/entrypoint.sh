@@ -1,8 +1,5 @@
 #!/bin/ash
 
-# Avoid `git: Argument list too long` when running git add on lots of files
-ulimit -s 65536
-
 # Setup git
 git config --global user.email "$GIT_EMAIL"
 git config --global user.name "$GIT_NAME"
