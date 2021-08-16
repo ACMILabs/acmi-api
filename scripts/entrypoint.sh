@@ -3,6 +3,7 @@
 # Setup git
 git config --global user.email "$GIT_EMAIL"
 git config --global user.name "$GIT_NAME"
+git remote set-url origin git@github.com:ACMILabs/acmi-api.git
 
 # Create deploy key for access to the acmi-api repo
 mkdir -p ~/.ssh
