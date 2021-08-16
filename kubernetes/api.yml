@@ -84,6 +84,16 @@ spec:
               configMapKeyRef:
                 key: CRON_UPDATER
                 name: xos-api-env
+          - name: SSH_PRIVATE_KEY
+            valueFrom:
+              secretKeyRef:
+                key: SSH_PRIVATE_KEY
+                name: api-ssh-deploy-key
+          - name: SSH_KNOWN_HOSTS
+            valueFrom:
+              secretKeyRef:
+                key: SSH_KNOWN_HOSTS
+                name: api-ssh-known-hosts
       imagePullSecrets:
       - name: docker-cred
 ---
