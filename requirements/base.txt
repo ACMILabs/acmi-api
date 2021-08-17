@@ -2,6 +2,7 @@ boto3
 flask
 flask_restful
 furl
+gunicorn
 pytz
 requests
 sentry-sdk[flask]

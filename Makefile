@@ -15,7 +15,7 @@ lint:
 	isort -rc --check-only .
 test:
 	# Run python tests
-	env `cat /code/config.tmpl.env | xargs` pytest -v -s tests/tests.py
+	pytest -v -s tests/tests.py
 speed:
 	# Run speed test
 	python3 app/speed_test.py

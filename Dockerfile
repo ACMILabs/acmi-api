@@ -1,6 +1,8 @@
-FROM python:latest
+FROM python:alpine
 
-RUN apt update && apt install gunicorn3 -y
+RUN apk add --update git openssh
+
+COPY cronjob /etc/crontabs/root
 
 COPY ./requirements/base.txt /code/requirements/base.txt
 RUN pip install -Ur /code/requirements/base.txt
@@ -8,4 +10,4 @@ RUN pip install -Ur /code/requirements/base.txt
 COPY . /code/
 WORKDIR /code/
 
-CMD ["bash", "scripts/entrypoint.sh"]
+CMD ["scripts/entrypoint.sh"]
