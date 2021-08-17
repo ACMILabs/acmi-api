@@ -151,10 +151,8 @@ class XOSAPI():
         print(f'Finished downloading {works_saved} {resource}.')
 
         if not ALL_WORKS:
-            # TODO: Delete old works lists # pylint: disable=fixme
-            # TODO: Enable this once we're live # pylint: disable=fixme
-            # self.save_works_lists(resource)
-            pass
+            # TODO: Delete old works lists if the collection shrinks # pylint: disable=fixme
+            self.save_works_lists(resource)
 
     def save_works_list(self, resource, works_json, page=None):
         """
