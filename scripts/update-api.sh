@@ -52,8 +52,8 @@ if [ "$CRON_UPDATER" = "true" ]; then
                 echo "Merging API updates into main branch..."
                 git checkout main
                 git pull
-                git merge update
-                git push
+                git merge update 1>/proc/1/fd/1 2>/proc/1/fd/2
+                git push 1>/proc/1/fd/1 2>/proc/1/fd/2
             fi
         fi
     else
