@@ -1,10 +1,36 @@
 # ACMI collection API
 
-A public API for ACMI's collection data.
+A public API for ACMI's collection data - [api.acmi.net.au](https://api.acmi.net.au)
 
 ![ACMI API CI](https://github.com/ACMILabs/acmi-api/workflows/ACMI%20API%20CI/badge.svg)
 
 Documentation can be found here: https://kb.acmi.net.au/display/OPS/XOS+Public+API
+
+## Archive
+
+This repository contains a full archive of ACMI collection `JSON` data files.
+
+Find them at: `/app/json/`
+
+Image and video assets can be found in the public S3 bucket: `s3://acmi-public-api`
+
+## API server
+
+This API server exposes the following routes:
+
+* `/` - a list of API routes
+* `/works/` - a list of all public ACMI Work records
+* `/works/<id>/` - an individual ACMI Work record
+
+## Updating
+
+This repository includes a cron job to update itself automatically each night. The job runs the updater script `/scripts/update-api.sh`, which runs:
+
+* `git checkout update` - makes changes on the `update` branch
+* `python -u -m app.api` - pulls changes from the XOS API
+* `git add app/json` and `git commit` - adds changes in a commit
+* `git merge` and `git push` - merges changes back into the `main` branch and pushes
+* This push to `main` causes a GitHub Action to deploy onto our Staging API infrastructure
 
 ## Development
 
@@ -17,13 +43,13 @@ To run the Flask development server:
 
 To update Works `json` files modified in the last day from XOS:
 
-* Add `DOWNLOAD_WORKS=true` and `DEBUG=true` to your `config.env`
+* Add `UPDATE_WORKS=true` and `DEBUG=true` to your `config.env`
 * Run `cd development` and `docker-compose up --build`
 * Works appear in `/app/json/`
 
 To update **ALL** Works from XOS:
 
-* Add `ALL_WORKS=true` and `DOWNLOAD_WORKS=true` and `DEBUG=true` to your `config.env`
+* Add `ALL_WORKS=true` and `UPDATE_WORKS=true` and `DEBUG=true` to your `config.env`
 * Run `cd development` and `docker-compose up --build`
 
 To run the gunicorn server:
@@ -50,31 +76,11 @@ To run a load test against https://api.acmi.net.au `/`, `/works/` and `/works/<I
 * Run `cd development` and `docker-compose up --build`
 * In another terminal tab run `docker exec -it api make load`
 
-## TODO
-
-**Spike**: deploy this setup and see how it performs.
-
-- [x] Create Flask app
-- [x] Add an XOS API interface to save `json` data
-- [x] Setup a production server (gunicorn/nginx)
-- [x] Deploy it for evaluation
-
 ## Architecture
 
 **Flask app**
 
 * Gets public XOS API `json` files
-* Replaces S3 asset links with CloudFront links (or we do this on the XOS side)
-* Puts those files into a public S3 bucket
-* Gets `html` API documentation files from the ACMI website
-* Puts those files into the S3 public bucket
-* Updates nightly
-
-**API server**
-
-* Use [CloudFront](https://aws.amazon.com/cloudfront/) to serve the `json`, `html`, and `images`
-* Use [Cloudflare](https://www.cloudflare.com/en-au/) to cache and limit attacks
-
-## Archive
-
-Keep a full archive of all of the above, including instructions to run a simple Python or Flask server to serve the `json` files locally for development.
+* Replaces signed S3 asset links with public S3 bucket links
+* Puts assets into the public S3 bucket `s3://acmi-public-api`
+* Updates from XOS nightly, auto-deploying to the Staging API
