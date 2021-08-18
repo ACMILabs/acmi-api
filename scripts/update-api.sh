@@ -10,7 +10,6 @@ if [ "$CRON_UPDATER" = "true" ]; then
     if [ "$DRY_RUN" = "true" ]; then
         echo "DRY_RUN Not checking out main branch..."
     else
-        git pull
         git checkout main
         git pull
     fi
