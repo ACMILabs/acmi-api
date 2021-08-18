@@ -113,7 +113,14 @@ def test_works_api_404():
             content_type='application/json',
         )
         assert response.status_code == 404
-        assert response.json['message'] == 'Works list doesn\'t exist, sorry.'
+        assert response.json['message'] == 'That Works list doesn\'t exist, sorry.'
+
+        response = client.get(
+            '/works/?page=!~*&-evil-text"',
+            content_type='application/json',
+        )
+        assert response.status_code == 404
+        assert response.json['message'] == 'That Works list doesn\'t exist, sorry.'
 
 
 @patch('builtins.open', mock_work())
@@ -142,7 +149,14 @@ def test_work_api_404():
             content_type='application/json',
         )
         assert response.status_code == 404
-        assert response.json['message'] == 'Work 2 doesn\'t exist, sorry.'
+        assert response.json['message'] == 'That Work doesn\'t exist, sorry.'
+
+        response = client.get(
+            '/works/!~*&-evil-text"/',
+            content_type='application/json',
+        )
+        assert response.status_code == 404
+        assert response.json['message'] == 'That Work doesn\'t exist, sorry.'
 
 
 @patch('requests.get', MagicMock(side_effect=mocked_requests_get))
