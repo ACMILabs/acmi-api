@@ -72,15 +72,15 @@ class WorksAPI(Resource):  # pylint: disable=too-few-public-methods
         """
         filename = 'index.json'
         args = request.args
-        if args.get('page'):
-            filename = f'index_page_{args.get("page")}.json'
         try:
+            if args.get('page'):
+                filename = f'index_page_{int(args.get("page"))}.json'
             json_file_path = os.path.join(JSON_ROOT, 'works', filename)
             with open(json_file_path) as json_file:
                 return json.load(json_file)
-        except FileNotFoundError:
+        except (FileNotFoundError, ValueError):
             return {
-                abort(404, message='Works list doesn\'t exist, sorry.')
+                abort(404, message='That Works list doesn\'t exist, sorry.')
             }
 
 
@@ -93,11 +93,11 @@ class WorkAPI(Resource):  # pylint: disable=too-few-public-methods
         Returns the requested Work or a 404.
         """
         try:
-            json_file_path = os.path.join(JSON_ROOT, 'works', f'{work_id}.json')
+            json_file_path = os.path.join(JSON_ROOT, 'works', f'{int(work_id)}.json')
             with open(json_file_path) as json_file:
                 return json.load(json_file)
-        except FileNotFoundError:
-            return abort(404, message=f'Work {work_id} doesn\'t exist, sorry.')
+        except (FileNotFoundError, ValueError):
+            return abort(404, message='That Work doesn\'t exist, sorry.')
 
 
 class XOSAPI():
