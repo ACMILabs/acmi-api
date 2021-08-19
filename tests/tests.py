@@ -84,6 +84,7 @@ def test_api_root():
     api = API()
     assert api.get()['hello'] == 'Welcome to the ACMI Public API.'
     assert api.get()['api'] == ['/works/', '/works/<work_id>/']
+    assert 'ACMI acknowledges the Traditional Owners' in api.get()['acknowledgement']
 
 
 @patch('builtins.open', mock_index())
