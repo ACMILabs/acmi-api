@@ -84,7 +84,7 @@ class WorksAPI(Resource):  # pylint: disable=too-few-public-methods
             if args.get('page'):
                 filename = f'index_page_{int(args.get("page"))}.json'
             json_file_path = os.path.join(JSON_ROOT, 'works', filename)
-            with open(json_file_path) as json_file:
+            with open(json_file_path, 'rb') as json_file:
                 return json.load(json_file)
         except (FileNotFoundError, ValueError):
             return {
@@ -102,7 +102,7 @@ class WorkAPI(Resource):  # pylint: disable=too-few-public-methods
         """
         try:
             json_file_path = os.path.join(JSON_ROOT, 'works', f'{int(work_id)}.json')
-            with open(json_file_path) as json_file:
+            with open(json_file_path, 'rb') as json_file:
                 return json.load(json_file)
         except (FileNotFoundError, ValueError):
             return abort(404, message='That Work doesn\'t exist, sorry.')

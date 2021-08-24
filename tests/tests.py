@@ -24,17 +24,17 @@ def mocked_requests_get(*args, **kwargs):
     if kwargs['url'] == 'https://xos.acmi.net.au/api/works/':
         if kwargs['params'].get('page') == '2':
             if kwargs['params'].get('unpublished'):
-                with open('tests/data/index_page_2_unpublished.json', 'r') as json_file:
+                with open('tests/data/index_page_2_unpublished.json', 'rb') as json_file:
                     return MockResponse(json_file.read(), 200)
-            with open('tests/data/index_page_2.json', 'r') as json_file:
+            with open('tests/data/index_page_2.json', 'rb') as json_file:
                 return MockResponse(json_file.read(), 200)
-        with open('tests/data/index.json', 'r') as json_file:
+        with open('tests/data/index.json', 'rb') as json_file:
             return MockResponse(json_file.read(), 200)
     if kwargs['url'] == 'https://xos.acmi.net.au/api/works/1/':
-        with open('tests/data/1.json', 'r') as json_file:
+        with open('tests/data/1.json', 'rb') as json_file:
             return MockResponse(json_file.read(), 200)
     if kwargs['url'] == 'https://xos.acmi.net.au/api/works/2/':
-        with open('tests/data/2.json', 'r') as json_file:
+        with open('tests/data/2.json', 'rb') as json_file:
             return MockResponse(json_file.read(), 200)
 
     raise Exception("No mocked sample data for request: " + kwargs['url'])
@@ -56,7 +56,7 @@ def mock_index():
     """
     Mocked index.json data.
     """
-    with open('tests/data/index.json') as json_file:
+    with open('tests/data/index.json', 'rb') as json_file:
         return mock_open(read_data=json_file.read())
 
 
@@ -64,7 +64,7 @@ def mock_work():
     """
     Mocked individual work.json data.
     """
-    with open('tests/data/1.json') as json_file:
+    with open('tests/data/1.json', 'rb') as json_file:
         return mock_open(read_data=json_file.read())
 
 
@@ -168,26 +168,26 @@ def test_get_works(tmp_path):
     acmi_api.JSON_ROOT = tmp_path
     xos_private_api = XOSAPI()
     xos_private_api.get_works()
-    with open(acmi_api.JSON_ROOT / 'works/index.json') as index_page_1:
+    with open(acmi_api.JSON_ROOT / 'works/index.json', 'rb') as index_page_1:
         index_page_1_json = json.load(index_page_1)
         assert index_page_1_json['next'] == 'https://api.acmi.net.au/works/?page=2'
         assert not index_page_1_json['previous']
         assert index_page_1_json['results']
         assert index_page_1_json['count']
 
-    with open(acmi_api.JSON_ROOT / 'works/index_page_2.json') as index_page_2:
+    with open(acmi_api.JSON_ROOT / 'works/index_page_2.json', 'rb') as index_page_2:
         index_page_2_json = json.load(index_page_2)
         assert not index_page_2_json['next']
         assert index_page_2_json['previous'] == 'https://api.acmi.net.au/works/?page=1'
         assert index_page_2_json['results']
         assert index_page_2_json['count']
 
-    with open(acmi_api.JSON_ROOT / 'works/1.json') as work:
+    with open(acmi_api.JSON_ROOT / 'works/1.json', 'rb') as work:
         work_json = json.load(work)
         assert work_json['id'] == 1
         assert work_json['description'] == 'Work data returned from the filesystem.'
 
-    with open(acmi_api.JSON_ROOT / 'works/2.json') as work:
+    with open(acmi_api.JSON_ROOT / 'works/2.json', 'rb') as work:
         work_json = json.load(work)
         assert work_json['id'] == 2
         assert work_json['description'] == 'Work data 2 returned from the filesystem.'
@@ -221,7 +221,7 @@ def test_update_assets():
     """
     Test update assets uploads and renames asset links.
     """
-    with open('tests/data/100542.json') as work:
+    with open('tests/data/100542.json', 'rb') as work:
         work_json = json.load(work)
         xos_private_api = XOSAPI()
         work_json = xos_private_api.update_assets(work_json)
@@ -235,7 +235,7 @@ def test_update_assets():
         assert work_json['images'][0]['image_file_l'] == \
             thumbnail_filename.replace('1200x1200', '3840x3840')
 
-    with open('tests/data/111326.json') as video:
+    with open('tests/data/111326.json', 'rb') as video:
         video_json = json.load(video)
         xos_private_api = XOSAPI()
         video_json = xos_private_api.update_assets(video_json)
