@@ -8,9 +8,9 @@ from urllib.parse import unquote, urljoin
 
 import boto3
 import botocore
+import elasticsearch
 import pytz
 import requests
-import elasticsearch
 from elasticsearch import Elasticsearch
 from flask import Flask, request
 from flask_restful import Api, Resource, abort
@@ -215,7 +215,7 @@ class Search():  # pylint: disable=too-few-public-methods
         file_paths = glob.glob(f'{os.path.join(JSON_ROOT, resource)}/[0-9]*.json')
         print('Updating the search index, this will take a while...')
         for file_path in file_paths:
-            if not 'index' in file_path:
+            if 'index' not in file_path:
                 with open(file_path, 'rb') as json_file:
                     json_data = json.load(json_file)
                     success = self.index(resource, json_data)

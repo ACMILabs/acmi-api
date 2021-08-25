@@ -249,3 +249,16 @@ def test_update_assets():
         )
         assert video_json['thumbnail']['image_url'] == thumbnail_filename
         assert video_json['videos'][0]['resource'] == video_filename
+
+
+def test_search_api():
+    """
+    Test the Search API returns expected content.
+    """
+    with acmi_api.application.test_client() as client:
+        response = client.get(
+            '/search/',
+            content_type='application/json',
+        )
+        assert response.status_code == 400
+        assert response.json['message'] == 'Try adding a search query. e.g. /search/?query=xos'
