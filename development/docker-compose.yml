@@ -15,3 +15,25 @@ services:
     command: ./scripts/entrypoint.sh
     ports:
      - 8081:8081
+
+  elasticsearch:
+    image: docker.elastic.co/elasticsearch/elasticsearch:7.14.0
+    hostname: api-search
+    container_name: api-search
+    restart: on-failure
+    privileged: true
+    environment:
+      # This puts Elasticsearch into development mode, which skips bootstrap checks
+      discovery.type: single-node
+      bootstrap.memory_lock: 'true'
+      ES_JAVA_OPTS: '-Xms512m -Xmx512m'
+      logger.level: 'ERROR'
+    ulimits:
+      memlock:
+        soft: -1
+        hard: -1
+    volumes:
+      - ./../elasticsearch_data:/usr/share/elasticsearch/data
+    ports:
+      - 9200:9200
+      - 9300:9300

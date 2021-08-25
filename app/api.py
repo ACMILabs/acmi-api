@@ -1,4 +1,5 @@
 import datetime
+import glob
 import json
 import os
 import re
@@ -9,6 +10,8 @@ import boto3
 import botocore
 import pytz
 import requests
+import elasticsearch
+from elasticsearch import Elasticsearch
 from flask import Flask, request
 from flask_restful import Api, Resource, abort
 from furl import furl
@@ -17,6 +20,7 @@ from requests.utils import requote_uri
 DEBUG = os.getenv('DEBUG', 'false').lower() == 'true'
 UPDATE_WORKS = os.getenv('UPDATE_WORKS', 'false').lower() == 'true'
 ALL_WORKS = os.getenv('ALL_WORKS', 'false').lower() == 'true'
+UPDATE_SEARCH = os.getenv('UPDATE_SEARCH', 'false').lower() == 'true'
 ACMI_API_ENDPOINT = os.getenv('ACMI_API_ENDPOINT', 'https://api.acmi.net.au')
 XOS_API_ENDPOINT = os.getenv('XOS_API_ENDPOINT', None)
 SITE_ROOT = os.path.realpath(os.path.dirname(__file__))
@@ -27,6 +31,7 @@ UPDATE_FROM_DATE = os.getenv('UPDATE_FROM_DATE', YESTERDAY.date())
 AWS_ACCESS_KEY_ID = os.getenv('AWS_ACCESS_KEY_ID')
 AWS_SECRET_ACCESS_KEY = os.getenv('AWS_SECRET_ACCESS_KEY')
 AWS_STORAGE_BUCKET_NAME = os.getenv('AWS_STORAGE_BUCKET_NAME', 'acmi-public-api')
+ELASTICSEARCH_HOST = os.getenv('ELASTICSEARCH_HOST', 'http://api-search:9200')
 
 application = Flask(__name__)
 api = Api(application)
@@ -47,7 +52,7 @@ class API(Resource):
         API root list view.
         """
         return {
-            'hello': 'Welcome to the ACMI Public API.',
+            'message': 'Welcome to the ACMI Public API.',
             'api': self.routes(),
             'acknowledgement':
                 'ACMI acknowledges the Traditional Owners, the Wurundjeri and Boon Wurrung '
@@ -106,6 +111,118 @@ class WorkAPI(Resource):  # pylint: disable=too-few-public-methods
                 return json.load(json_file)
         except (FileNotFoundError, ValueError):
             return abort(404, message='That Work doesn\'t exist, sorry.')
+
+
+class SearchAPI(Resource):  # pylint: disable=too-few-public-methods
+    """
+    Search the API using Elasticsearch to return results.
+    """
+    def get(self):
+        """
+        Returns search results for the search query.
+        """
+        try:
+            search_query = request.args.get('query')
+            search_field = request.args.get('field')
+            if not search_query:
+                return abort(
+                    400,
+                    message='Try adding a search query. e.g. /search/?query=xos',
+                    filters=[{
+                        'field': 'e.g. ?field=title&query=xos '
+                        'only search the title field for the query `xos`',
+                    }],
+                )
+            elastic_search = Search()
+            return elastic_search.search(resource='works', query=search_query, field=search_field)
+        except elasticsearch.exceptions.NotFoundError:
+            return abort(404, message='No results found, sorry.')
+        except elasticsearch.exceptions.RequestError as exception:
+            message = None
+            try:
+                message = exception.info['error']['root_cause'][0]['reason']
+            except KeyError:
+                message = 'Error in your query.'
+            return abort(400, message=message)
+        except elasticsearch.exceptions.ConnectionTimeout:
+            return abort(
+                504,
+                message='Sorry, your search request timed out. Please try again later.',
+            )
+        except (
+            elasticsearch.exceptions.ConnectionError,
+            elasticsearch.exceptions.TransportError,
+        ):
+            return abort(
+                503,
+                message='Sorry, search is unavailable at the moment. Please try again later.',
+            )
+
+
+class Search():  # pylint: disable=too-few-public-methods
+    """
+    Elasticsearch interface.
+    """
+    def __init__(self):
+        self.elastic_search = Elasticsearch(
+            ELASTICSEARCH_HOST,
+        )
+
+    def search(self, resource, query, field=None):
+        """
+        Perform a search for a query string in the index (resource).
+        """
+        if field:
+            query_body = {
+                'query': {
+                    'match': {
+                        field: query
+                    }
+                }
+            }
+            return self.elastic_search.search(index=resource, body=query_body)
+
+        return self.elastic_search.search(index=resource, q=query)  # pylint: disable=unexpected-keyword-arg
+
+    def index(self, resource, json_data):
+        """
+        Update the search index for a single record.
+        """
+        success = False
+        # Remove production_dates.date which elasticsearch can't parse
+        for date in json_data.get('production_dates'):
+            date.pop('date')
+        try:
+            self.elastic_search.index(
+                index=resource,
+                id=json_data.get('id'),
+                body=json_data,
+            )
+            success = True
+            return success
+        except (
+            elasticsearch.exceptions.RequestError,
+            elasticsearch.exceptions.ConnectionTimeout,
+        ) as exception:
+            print(f'ERROR indexing {json_data.get("id")}: {exception}')
+            return success
+
+    def update_index(self, resource):
+        """
+        Update the search index for an API resource. e.g. 'works'
+        """
+        files_indexed = 0
+        file_paths = glob.glob(f'{os.path.join(JSON_ROOT, resource)}/[0-9]*.json')
+        print('Updating the search index, this will take a while...')
+        for file_path in file_paths:
+            if not 'index' in file_path:
+                with open(file_path, 'rb') as json_file:
+                    json_data = json.load(json_file)
+                    success = self.index(resource, json_data)
+                    if success:
+                        files_indexed += 1
+        print(f'Finished indexing {files_indexed}/{len(file_paths)} {resource}')
+        return files_indexed
 
 
 class XOSAPI():
@@ -327,6 +444,7 @@ class XOSAPI():
 api.add_resource(API, '/')
 api.add_resource(WorksAPI, '/works/')
 api.add_resource(WorkAPI, '/works/<work_id>/')
+api.add_resource(SearchAPI, '/search/')
 
 if __name__ == '__main__':
     if DEBUG and UPDATE_WORKS:
@@ -335,7 +453,15 @@ if __name__ == '__main__':
         xos_private_api = XOSAPI()
         xos_private_api.get_works()
         xos_private_api.delete_works()
+        search = Search()
+        search.update_index(resource='works')
         print('===============================================')
+    elif DEBUG and UPDATE_SEARCH:
+        print('========================')
+        print('Updating search index...')
+        search = Search()
+        search.update_index(resource='works')
+        print('========================')
     else:
         application.run(
             host='0.0.0.0',

@@ -6,3 +6,4 @@ gunicorn
 pytz
 requests
 sentry-sdk[flask]
+elasticsearch

@@ -19,6 +19,7 @@ Image and video assets can be found in the public S3 bucket: `s3://acmi-public-a
 This API server exposes the following routes:
 
 * `/` - a list of API routes
+* `/search/` - a search engine for the ACMI API
 * `/works/` - a list of all public ACMI Work records
 * `/works/<id>/` - an individual ACMI Work record
 
@@ -51,6 +52,12 @@ To update **ALL** Works from XOS:
 
 * Add `ALL_WORKS=true` and `UPDATE_WORKS=true` and `DEBUG=true` to your `config.env`
 * Run `cd development` and `docker-compose up --build`
+
+To update the search index:
+
+* Add `UPDATE_SEARCH=true` and `DEBUG=true` to your `config.env`
+* Run `cd development` and `docker-compose up --build`
+* The search will now be indexed at: http://localhost:8081/search/
 
 To run the gunicorn server:
 

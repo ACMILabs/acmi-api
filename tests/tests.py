@@ -82,8 +82,8 @@ def test_api_root():
     Test the API root returns expected content.
     """
     api = API()
-    assert api.get()['hello'] == 'Welcome to the ACMI Public API.'
-    assert api.get()['api'] == ['/works/', '/works/<work_id>/']
+    assert api.get()['message'] == 'Welcome to the ACMI Public API.'
+    assert api.get()['api'] == ['/search/', '/works/', '/works/<work_id>/']
     assert 'ACMI acknowledges the Traditional Owners' in api.get()['acknowledgement']
 
 
