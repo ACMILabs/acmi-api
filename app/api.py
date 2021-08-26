@@ -32,6 +32,9 @@ AWS_ACCESS_KEY_ID = os.getenv('AWS_ACCESS_KEY_ID')
 AWS_SECRET_ACCESS_KEY = os.getenv('AWS_SECRET_ACCESS_KEY')
 AWS_STORAGE_BUCKET_NAME = os.getenv('AWS_STORAGE_BUCKET_NAME', 'acmi-public-api')
 ELASTICSEARCH_HOST = os.getenv('ELASTICSEARCH_HOST', 'http://api-search:9200')
+ELASTICSEARCH_CLOUD_ID = os.getenv('ELASTICSEARCH_CLOUD_ID')
+ELASTICSEARCH_API_KEY = os.getenv('ELASTICSEARCH_API_KEY')
+ELASTICSEARCH_API_KEY_ID = os.getenv('ELASTICSEARCH_API_KEY_ID')
 
 application = Flask(__name__)
 api = Api(application)
@@ -158,14 +161,20 @@ class SearchAPI(Resource):  # pylint: disable=too-few-public-methods
             )
 
 
-class Search():  # pylint: disable=too-few-public-methods
+class Search():
     """
     Elasticsearch interface.
     """
     def __init__(self):
-        self.elastic_search = Elasticsearch(
-            ELASTICSEARCH_HOST,
-        )
+        if DEBUG:
+            self.elastic_search = Elasticsearch(
+                ELASTICSEARCH_HOST,
+            )
+        else:
+            self.elastic_search = Elasticsearch(
+                cloud_id=ELASTICSEARCH_CLOUD_ID,
+                api_key=ELASTICSEARCH_API_KEY,
+            )
 
     def search(self, resource, args):
         """
