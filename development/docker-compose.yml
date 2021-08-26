@@ -2,6 +2,9 @@ version: "3"
 
 services:
   api:
+    depends_on:
+      elasticsearch:
+        condition: service_healthy
     build:
       context: "../"
       dockerfile: development/Dockerfile
@@ -32,6 +35,11 @@ services:
       memlock:
         soft: -1
         hard: -1
+    healthcheck:
+      test: ["CMD", "curl", "-f", "http://localhost:9200"]
+      interval: 30s
+      timeout: 10s
+      retries: 5
     volumes:
       - ./../elasticsearch_data:/usr/share/elasticsearch/data
     ports:
