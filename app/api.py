@@ -123,7 +123,6 @@ class SearchAPI(Resource):  # pylint: disable=too-few-public-methods
         """
         try:
             search_query = request.args.get('query')
-            search_field = request.args.get('field')
             if not search_query:
                 return abort(
                     400,
@@ -134,7 +133,7 @@ class SearchAPI(Resource):  # pylint: disable=too-few-public-methods
                     }],
                 )
             elastic_search = Search()
-            return elastic_search.search(resource='works', query=search_query, field=search_field)
+            return elastic_search.search(resource='works', args=request.args)
         except elasticsearch.exceptions.NotFoundError:
             return abort(404, message='No results found, sorry.')
         except elasticsearch.exceptions.RequestError as exception:
@@ -168,21 +167,37 @@ class Search():  # pylint: disable=too-few-public-methods
             ELASTICSEARCH_HOST,
         )
 
-    def search(self, resource, query, field=None):
+    def search(self, resource, args):
         """
         Perform a search for a query string in the index (resource).
         """
+        query_body = {}
+        query = args.get('query')
+        field = args.get('field')
+        size = args.get('size', type=int, default=20)
+        page = args.get('page', type=int, default=1)
+        # Limit search results per page to 50
+        size = min(size, 50)
+        query_body['size'] = size
+
+        # Elasticsearch uses `from` to specify page of results
+        # e.g. Page 1 = from 0
+        if page == 1:
+            page = 0
+        else:
+            page *= size
+        query_body['from'] = page
+
         if field:
-            query_body = {
-                'query': {
-                    'match': {
-                        field: query
-                    }
+            query_body['query'] = {
+                'match': {
+                    field: query
                 }
             }
             return self.elastic_search.search(index=resource, body=query_body)
 
-        return self.elastic_search.search(index=resource, q=query)  # pylint: disable=unexpected-keyword-arg
+        # pylint: disable=unexpected-keyword-arg
+        return self.elastic_search.search(index=resource, q=query, params=query_body)
 
     def index(self, resource, json_data):
         """
@@ -191,7 +206,10 @@ class Search():  # pylint: disable=too-few-public-methods
         success = False
         # Remove production_dates.date which elasticsearch can't parse
         for date in json_data.get('production_dates'):
-            date.pop('date')
+            try:
+                date.pop('date')
+            except KeyError:
+                pass
         try:
             self.elastic_search.index(
                 index=resource,
@@ -212,6 +230,7 @@ class Search():  # pylint: disable=too-few-public-methods
         Update the search index for an API resource. e.g. 'works'
         """
         files_indexed = 0
+        objects_to_retry = []
         file_paths = glob.glob(f'{os.path.join(JSON_ROOT, resource)}/[0-9]*.json')
         print('Updating the search index, this will take a while...')
         for file_path in file_paths:
@@ -221,6 +240,15 @@ class Search():  # pylint: disable=too-few-public-methods
                     success = self.index(resource, json_data)
                     if success:
                         files_indexed += 1
+                    else:
+                        objects_to_retry.append(json_data)
+            if files_indexed % 1000 == 0:
+                print(f'Indexed {files_indexed} {resource}...')
+        for json_data in objects_to_retry:
+            print(f'Retrying {json_data.get("id")}...')
+            success = self.index(resource, json_data)
+            if success:
+                files_indexed += 1
         print(f'Finished indexing {files_indexed}/{len(file_paths)} {resource}')
         return files_indexed
 
@@ -458,7 +486,7 @@ if __name__ == '__main__':
         print('===============================================')
     elif DEBUG and UPDATE_SEARCH:
         print('========================')
-        print('Updating search index...')
+        print('Starting search indexing...')
         search = Search()
         search.update_index(resource='works')
         print('========================')
