@@ -313,6 +313,44 @@ def test_search_api_results():
 
     with acmi_api.application.test_client() as client:
         response = client.get(
+            '/search/?query=xos&page=2',
+            content_type='application/json',
+        )
+        assert response.status_code == 200
+        assert response.json['count'] == 243
+        assert response.json['next'] == 'http://localhost/search/?query=xos&page=3'
+        assert response.json['previous'] == 'http://localhost/search/?query=xos&page=1'
+        assert len(response.json['results']) == 20
+        assert response.json['results'][0]['id'] == 107348
+
+    with acmi_api.application.test_client() as client:
+        response = client.get(
+            '/search/?query=xos&page=2&size=10',
+            content_type='application/json',
+        )
+        assert response.status_code == 200
+        assert response.json['count'] == 243
+        assert response.json['next'] == 'http://localhost/search/?query=xos&size=10&page=3'
+        assert response.json['previous'] == 'http://localhost/search/?query=xos&size=10&page=1'
+        assert len(response.json['results']) == 10
+        assert response.json['results'][0]['id'] == 106665
+
+    with acmi_api.application.test_client() as client:
+        response = client.get(
+            '/search/?query=dog&field=title&size=4&page=3',
+            content_type='application/json',
+        )
+        assert response.status_code == 200
+        assert response.json['count'] == 63
+        assert response.json['next'] == \
+            'http://localhost/search/?query=dog&field=title&size=4&page=4'
+        assert response.json['previous'] == \
+            'http://localhost/search/?query=dog&field=title&size=4&page=2'
+        assert len(response.json['results']) == 4
+        assert response.json['results'][0]['id'] == 108013
+
+    with acmi_api.application.test_client() as client:
+        response = client.get(
             '/search/?query=xos&raw=true',
             content_type='application/json',
         )
@@ -333,6 +371,12 @@ def test_search_api_results():
         assert len(response.json['results']) == 1
         assert response.json['results'][0]['id'] == 78738
 
+
+@patch('elasticsearch.Elasticsearch.search', MagicMock(side_effect=mock_search))
+def test_search_api_results_failures():
+    """
+    Test the Search API results fails as expected.
+    """
     with acmi_api.application.test_client() as client:
         response = client.get(
             '/search/?query=404',

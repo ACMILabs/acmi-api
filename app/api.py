@@ -198,7 +198,7 @@ class Search():
         if page == 1:
             page = 0
         else:
-            page *= size
+            page = (page - 1) * size
         query_body['from'] = page
 
         if field:
