@@ -135,6 +135,7 @@ class SearchAPI(Resource):  # pylint: disable=too-few-public-methods
                         'Only search the title field for the query `xos`',
                         'size': 'e.g. ?size=2 Search results page size. default: 20, limit: 50',
                         'page': 'e.g. ?page=3 Return this page of the search results',
+                        'raw': 'e.g. ?raw=true Return the raw Elasticsearch results',
                     }],
                 )
             elastic_search = Search()
@@ -145,7 +146,7 @@ class SearchAPI(Resource):  # pylint: disable=too-few-public-methods
             message = None
             try:
                 message = exception.info['error']['root_cause'][0]['reason']
-            except KeyError:
+            except (IndexError, KeyError):
                 message = 'Error in your query.'
             return abort(400, message=message)
         except elasticsearch.exceptions.ConnectionTimeout:
