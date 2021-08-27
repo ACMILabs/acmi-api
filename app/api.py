@@ -132,7 +132,9 @@ class SearchAPI(Resource):  # pylint: disable=too-few-public-methods
                     message='Try adding a search query. e.g. /search/?query=xos',
                     filters=[{
                         'field': 'e.g. ?field=title&query=xos '
-                        'only search the title field for the query `xos`',
+                        'Only search the title field for the query `xos`',
+                        'size': 'e.g. ?size=2 Search results page size. default: 20, limit: 50',
+                        'page': 'e.g. ?page=3 Return this page of the search results',
                     }],
                 )
             elastic_search = Search()
@@ -185,6 +187,7 @@ class Search():
         field = args.get('field')
         size = args.get('size', type=int, default=20)
         page = args.get('page', type=int, default=1)
+        raw = args.get('raw', type=bool, default=False)
         # Limit search results per page to 50
         size = min(size, 50)
         query_body['size'] = size
@@ -203,10 +206,50 @@ class Search():
                     field: query
                 }
             }
-            return self.elastic_search.search(index=resource, body=query_body)
+            search_results = self.elastic_search.search(index=resource, body=query_body)
+        else:
+            search_results = self.elastic_search.search(  # pylint: disable=unexpected-keyword-arg
+                index=resource,
+                q=query,
+                params=query_body,
+            )
 
-        # pylint: disable=unexpected-keyword-arg
-        return self.elastic_search.search(index=resource, q=query, params=query_body)
+        if not raw:
+            search_results = self.format_results(search_results)
+
+        return search_results
+
+    def format_results(self, search_results):
+        """
+        Format Elasticsearch results to match the DRF API results from XOS.
+        """
+        count = search_results['hits']['total']['value']
+        search_time = search_results['took']
+        max_score = search_results['hits']['max_score']
+        results = [result['_source'] for result in search_results['hits']['hits']]
+        page = request.args.get('page', type=int)
+        next_page = None
+        previous_page = None
+        endpoint = request.base_url
+        args = request.args.copy()
+        if page:
+            args.pop('page')
+        endpoint = furl(endpoint).add(args)
+        if page and not page == 1:
+            next_page = f'{endpoint}&page={int(page) + 1}'
+            previous_page = f'{endpoint}&page={int(page) - 1}'
+        else:
+            next_page = f'{endpoint}&page=2'
+            previous_page = None
+        search_results = {
+            'count': count,
+            'took': search_time,
+            'max_score': max_score,
+            'next': next_page,
+            'previous': previous_page,
+            'results': results,
+        }
+        return search_results
 
     def index(self, resource, json_data):
         """
