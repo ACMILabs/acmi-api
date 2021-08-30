@@ -19,6 +19,7 @@ Image and video assets can be found in the public S3 bucket: `s3://acmi-public-a
 This API server exposes the following routes:
 
 * `/` - a list of API routes
+* `/search/` - a search engine for the ACMI API
 * `/works/` - a list of all public ACMI Work records
 * `/works/<id>/` - an individual ACMI Work record
 
@@ -26,11 +27,38 @@ This API server exposes the following routes:
 
 This repository includes a cron job to update itself automatically each night. The job runs the updater script `/scripts/update-api.sh`, which runs:
 
-* `git checkout update` - makes changes on the `update` branch
 * `python -u -m app.api` - pulls changes from the XOS API
 * `git add app/json` and `git commit` - adds changes in a commit
-* `git merge` and `git push` - merges changes back into the `main` branch and pushes
+* `git push` - merges changes back into the `main` branch and pushes
 * This push to `main` causes a GitHub Action to deploy onto our Staging API infrastructure
+* After updating from XOS, the search index is updated
+
+## Search
+
+Search is handled by Elasticsearch.
+
+### Production
+
+In production we're using [Elastic Cloud](https://www.elastic.co/cloud/) for our search.
+
+The search index is updated every time the API update runs.
+
+To update it manually, run:
+
+* Add Elastic Cloud credentials `ELASTICSEARCH_CLOUD_ID` and `ELASTICSEARCH_API_KEY` to your `config.env`
+* Start only the API container: `cd development` and `docker-compose -f docker-compose-base.yml up --build`
+* Connect to a Python shell: `docker exec -it api python`
+* Inside that shell run: `from app.api import Search` and `Search().update_index('works')`
+* The production search will now be indexed: http://localhost:8081/search/
+
+### Development
+
+To update the development search index locally:
+
+* Add `UPDATE_SEARCH=true` and `DEBUG=true` to your `config.env`
+* Run `cd development` and `docker-compose up --build`
+* The search will now be indexed at: http://localhost:8081/search/
+* You can see the Elasticsearch files: `/elasticsearch_data/`
 
 ## Development
 

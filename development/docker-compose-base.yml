@@ -1,0 +1,17 @@
+version: "3"
+
+services:
+  api:
+    build:
+      context: "../"
+      dockerfile: development/Dockerfile
+      args:
+        DEBUG: "true"
+    hostname: api
+    container_name: api
+    env_file: ../config.env
+    volumes:
+      - ../:/code
+    command: ./scripts/entrypoint.sh
+    ports:
+     - 8081:8081

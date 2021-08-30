@@ -3,6 +3,7 @@ import os
 from unittest.mock import MagicMock, mock_open, patch
 
 import botocore
+import elasticsearch
 
 import app.api as acmi_api
 from app.api import API, AWS_STORAGE_BUCKET_NAME, XOSAPI
@@ -77,13 +78,42 @@ def mock_file_not_found():
     return mock
 
 
+def mock_search(index=None, body=None, q=None, params=None):  # pylint: disable=invalid-name
+    """
+    Mock Elasticsearch responses.
+    """
+    if q == '404':
+        raise elasticsearch.exceptions.NotFoundError
+    if q == '400':
+        raise elasticsearch.exceptions.RequestError
+    if q == '503':
+        raise elasticsearch.exceptions.ConnectionError
+    if q == '504':
+        raise elasticsearch.exceptions.ConnectionTimeout
+    if q and not body:
+        with open(
+            f'tests/data/search_{index}_{q}_{params["size"]}_{params["from"]}.json',
+            'rb',
+        ) as json_file:
+            return json.loads(json_file.read())
+    elif body and not q:
+        key = [key for key in body['query']['match'].keys()][0]  # pylint: disable=unnecessary-comprehension
+        with open(
+            f'tests/data/search_{index}_{body["query"]["match"][key]}_'
+            f'{key}_{body["size"]}_{body["from"]}.json',
+            'rb',
+        ) as json_file:
+            return json.loads(json_file.read())
+    raise elasticsearch.exceptions.NotFoundError
+
+
 def test_api_root():
     """
     Test the API root returns expected content.
     """
     api = API()
-    assert api.get()['hello'] == 'Welcome to the ACMI Public API.'
-    assert api.get()['api'] == ['/works/', '/works/<work_id>/']
+    assert api.get()['message'] == 'Welcome to the ACMI Public API.'
+    assert api.get()['api'] == ['/search/', '/works/', '/works/<work_id>/']
     assert 'ACMI acknowledges the Traditional Owners' in api.get()['acknowledgement']
 
 
@@ -249,3 +279,134 @@ def test_update_assets():
         )
         assert video_json['thumbnail']['image_url'] == thumbnail_filename
         assert video_json['videos'][0]['resource'] == video_filename
+
+
+def test_search_api():
+    """
+    Test the Search API root returns expected content.
+    """
+    with acmi_api.application.test_client() as client:
+        response = client.get(
+            '/search/',
+            content_type='application/json',
+        )
+        assert response.status_code == 400
+        assert response.json['message'] == 'Try adding a search query. e.g. /search/?query=xos'
+
+
+@patch('elasticsearch.Elasticsearch.search', MagicMock(side_effect=mock_search))
+def test_search_api_results():
+    """
+    Test the Search API results returns expected content.
+    """
+    with acmi_api.application.test_client() as client:
+        response = client.get(
+            '/search/?query=xos',
+            content_type='application/json',
+        )
+        assert response.status_code == 200
+        assert response.json['count'] == 243
+        assert response.json['next'] == 'http://localhost/search/?query=xos&page=2'
+        assert not response.json['previous']
+        assert len(response.json['results']) == 20
+        assert response.json['results'][0]['id'] == 114496
+
+    with acmi_api.application.test_client() as client:
+        response = client.get(
+            '/search/?query=xos&page=2',
+            content_type='application/json',
+        )
+        assert response.status_code == 200
+        assert response.json['count'] == 243
+        assert response.json['next'] == 'http://localhost/search/?query=xos&page=3'
+        assert response.json['previous'] == 'http://localhost/search/?query=xos&page=1'
+        assert len(response.json['results']) == 20
+        assert response.json['results'][0]['id'] == 107348
+
+    with acmi_api.application.test_client() as client:
+        response = client.get(
+            '/search/?query=xos&page=2&size=10',
+            content_type='application/json',
+        )
+        assert response.status_code == 200
+        assert response.json['count'] == 243
+        assert response.json['next'] == 'http://localhost/search/?query=xos&size=10&page=3'
+        assert response.json['previous'] == 'http://localhost/search/?query=xos&size=10&page=1'
+        assert len(response.json['results']) == 10
+        assert response.json['results'][0]['id'] == 106665
+
+    with acmi_api.application.test_client() as client:
+        response = client.get(
+            '/search/?query=dog&field=title&size=4&page=3',
+            content_type='application/json',
+        )
+        assert response.status_code == 200
+        assert response.json['count'] == 63
+        assert response.json['next'] == \
+            'http://localhost/search/?query=dog&field=title&size=4&page=4'
+        assert response.json['previous'] == \
+            'http://localhost/search/?query=dog&field=title&size=4&page=2'
+        assert len(response.json['results']) == 4
+        assert response.json['results'][0]['id'] == 108013
+
+    with acmi_api.application.test_client() as client:
+        response = client.get(
+            '/search/?query=xos&raw=true',
+            content_type='application/json',
+        )
+        assert response.status_code == 200
+        assert response.json['hits']['total']['value'] == 243
+        assert len(response.json['hits']['hits']) == 20
+        assert response.json['hits']['hits'][0]['_source']['id'] == 114496
+
+    with acmi_api.application.test_client() as client:
+        response = client.get(
+            '/search/?query=xos&field=title',
+            content_type='application/json',
+        )
+        assert response.status_code == 200
+        assert response.json['count'] == 1
+        assert response.json['next'] == 'http://localhost/search/?query=xos&field=title&page=2'
+        assert not response.json['previous']
+        assert len(response.json['results']) == 1
+        assert response.json['results'][0]['id'] == 78738
+
+
+@patch('elasticsearch.Elasticsearch.search', MagicMock(side_effect=mock_search))
+def test_search_api_results_failures():
+    """
+    Test the Search API results fails as expected.
+    """
+    with acmi_api.application.test_client() as client:
+        response = client.get(
+            '/search/?query=404',
+            content_type='application/json',
+        )
+        assert response.status_code == 404
+        assert response.json['message'] == 'No results found, sorry.'
+
+    with acmi_api.application.test_client() as client:
+        response = client.get(
+            '/search/?query=400',
+            content_type='application/json',
+        )
+        assert response.status_code == 400
+        assert response.json['message'] == 'Error in your query.'
+
+    with acmi_api.application.test_client() as client:
+        response = client.get(
+            '/search/?query=503',
+            content_type='application/json',
+        )
+        assert response.status_code == 503
+        assert response.json['message'] == \
+            'Sorry, search is unavailable at the moment. Please try again later.'
+
+    with acmi_api.application.test_client() as client:
+        response = client.get(
+            '/search/?query=504',
+            content_type='application/json',
+        )
+        assert response.status_code == 504
+        assert response.json['message'] == \
+            'Sorry, your search request timed out. Please try again later.'

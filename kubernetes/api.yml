@@ -94,6 +94,16 @@ spec:
               secretKeyRef:
                 key: SSH_KNOWN_HOSTS
                 name: api-ssh-known-hosts
+          - name: ELASTICSEARCH_CLOUD_ID
+            valueFrom:
+              secretKeyRef:
+                key: ELASTICSEARCH_CLOUD_ID
+                name: api-search
+          - name: ELASTICSEARCH_API_KEY
+            valueFrom:
+              secretKeyRef:
+                key: ELASTICSEARCH_API_KEY
+                name: api-search
       imagePullSecrets:
       - name: docker-cred
 ---
