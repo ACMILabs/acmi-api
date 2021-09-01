@@ -16,7 +16,7 @@ class SpeedTest(XOSAPI):
 
     def start(self, resource='works'):
         """
-        Get each page of index json files and return the average response time.
+        Get 100 pages of Work index json files and return the average response time.
         """
         params = {
             'page_size': 10,
@@ -25,11 +25,7 @@ class SpeedTest(XOSAPI):
         average_times = []
         total_requests = 0
         start = datetime.datetime.now()
-        total_requests += 1
-        works_json = self.get(resource).json()
-        end = datetime.datetime.now()
-        average_times.append((end - start).total_seconds())
-        while True:
+        while total_requests < 100:
             start = datetime.datetime.now()
             total_requests += 1
             works_json = self.get(resource, params).json()
