@@ -322,13 +322,20 @@ class XOSAPI():
             params = {
                 'page_size': 10,
             }
-        try:
-            response = requests.get(url=endpoint, params=params, timeout=15)
-            response.raise_for_status()
-            return response
-        except (requests.exceptions.HTTPError, requests.exceptions.ConnectionError) as exception:
-            print(f'ERROR: couldn\'t get {endpoint} with exception: {exception}')
-            return None
+        retries = 0
+        while retries < 3:
+            try:
+                response = requests.get(url=endpoint, params=params, timeout=30)
+                response.raise_for_status()
+                return response
+            except (
+                requests.exceptions.HTTPError,
+                requests.exceptions.ConnectionError,
+                requests.exceptions.ReadTimeout,
+            ) as exception:
+                print(f'ERROR: couldn\'t get {endpoint} with exception: {exception}... retrying')
+                retries += 1
+        return None
 
     def get_works(self):
         """

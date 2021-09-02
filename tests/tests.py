@@ -4,6 +4,7 @@ from unittest.mock import MagicMock, mock_open, patch
 
 import botocore
 import elasticsearch
+import requests
 
 import app.api as acmi_api
 from app.api import API, AWS_STORAGE_BUCKET_NAME, XOSAPI
@@ -410,3 +411,15 @@ def test_search_api_results_failures():
         assert response.status_code == 504
         assert response.json['message'] == \
             'Sorry, your search request timed out. Please try again later.'
+
+
+def test_xos_private_api_retries(tmp_path):
+    """
+    Test the XOS private API interface retries 3 times before failing gracefully.
+    """
+    with patch('requests.get', MagicMock(side_effect=requests.exceptions.ReadTimeout)) as mock_get:
+        acmi_api.JSON_ROOT = tmp_path
+        xos_private_api = XOSAPI()
+        response = xos_private_api.get('works')
+        assert not response
+        assert mock_get.call_count == 3
