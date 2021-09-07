@@ -19,7 +19,7 @@ Image and video assets can be found in the public S3 bucket: `s3://acmi-public-a
 * Software: [Mozilla Public License Version 2.0](https://www.mozilla.org/en-US/MPL/2.0/)
 * Collection metadata in `/app/json/`: [Creative Commons CC0](https://creativecommons.org/share-your-work/public-domain/cc0/)
 * Images: Licence is found in the `credit_line` field within the `images` field on the Works API
-* Videos: Videos are available only via their YouTube link in the `video_links` field. Please ensure that if you present them through another application that you provide the attribution from the `credit_line` field
+* Videos: Videos are available only via their YouTube link in the `video_links` field. Please ensure that if you present them through another application you provide the attribution from the `credit_line` field
 
 ## API server
 
