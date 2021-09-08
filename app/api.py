@@ -274,6 +274,7 @@ class Search():
         except (
             elasticsearch.exceptions.RequestError,
             elasticsearch.exceptions.ConnectionTimeout,
+            elasticsearch.exceptions.ConnectionError,
         ) as exception:
             print(f'ERROR indexing {json_data.get("id")}: {exception}')
             return success
@@ -535,16 +536,16 @@ api.add_resource(WorkAPI, '/works/<work_id>/')
 api.add_resource(SearchAPI, '/search/')
 
 if __name__ == '__main__':
-    if DEBUG and UPDATE_WORKS:
-        print('===============================================')
-        print('Starting thread to update Works API from XOS...')
+    if UPDATE_WORKS:
+        print('========================================')
+        print('Starting to update Works API from XOS...')
         xos_private_api = XOSAPI()
         xos_private_api.get_works()
         xos_private_api.delete_works()
         search = Search()
         search.update_index(resource='works')
-        print('===============================================')
-    elif DEBUG and UPDATE_SEARCH:
+        print('========================================')
+    elif UPDATE_SEARCH:
         print('========================')
         print('Starting search indexing...')
         search = Search()
