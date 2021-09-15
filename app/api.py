@@ -518,11 +518,17 @@ class XOSAPI():
 
         if not INCLUDE_IMAGES and work_json.get('images'):
             work_json.pop('images')
-            work_json.pop('thumbnail')
+            try:
+                work_json.pop('thumbnail')
+            except KeyError:
+                pass
 
         if not INCLUDE_VIDEOS and work_json.get('videos'):
             work_json.pop('videos')
-            work_json.pop('thumbnail')
+            try:
+                work_json.pop('thumbnail')
+            except KeyError:
+                pass
 
         return work_json
 
