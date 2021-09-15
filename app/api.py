@@ -35,6 +35,8 @@ ELASTICSEARCH_HOST = os.getenv('ELASTICSEARCH_HOST', 'http://api-search:9200')
 ELASTICSEARCH_CLOUD_ID = os.getenv('ELASTICSEARCH_CLOUD_ID')
 ELASTICSEARCH_API_KEY = os.getenv('ELASTICSEARCH_API_KEY')
 ELASTICSEARCH_API_KEY_ID = os.getenv('ELASTICSEARCH_API_KEY_ID')
+INCLUDE_IMAGES = os.getenv('INCLUDE_IMAGES', 'false').lower() == 'true'
+INCLUDE_VIDEOS = os.getenv('INCLUDE_VIDEOS', 'false').lower() == 'true'
 
 application = Flask(__name__)
 api = Api(application)
@@ -513,6 +515,14 @@ class XOSAPI():
                     json.dumps(work_json),
                 )
                 work_json = json.loads(work_json_string)
+
+        if not INCLUDE_IMAGES and work_json.get('images'):
+            work_json.pop('images')
+            work_json.pop('thumbnail')
+
+        if not INCLUDE_VIDEOS and work_json.get('videos'):
+            work_json.pop('videos')
+            work_json.pop('thumbnail')
 
         return work_json
 

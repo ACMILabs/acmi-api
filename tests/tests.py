@@ -253,6 +253,7 @@ def test_update_assets():
     Test update assets uploads and renames asset links.
     """
     with open('tests/data/100542.json', 'rb') as work:
+        acmi_api.INCLUDE_IMAGES = True
         work_json = json.load(work)
         xos_private_api = XOSAPI()
         work_json = xos_private_api.update_assets(work_json)
@@ -266,7 +267,13 @@ def test_update_assets():
         assert work_json['images'][0]['image_file_l'] == \
             thumbnail_filename.replace('1200x1200', '3840x3840')
 
+        acmi_api.INCLUDE_IMAGES = False
+        work_json = xos_private_api.update_assets(work_json)
+        assert not work_json.get('thumbnail')
+        assert not work_json.get('images')
+
     with open('tests/data/111326.json', 'rb') as video:
+        acmi_api.INCLUDE_VIDEOS = True
         video_json = json.load(video)
         xos_private_api = XOSAPI()
         video_json = xos_private_api.update_assets(video_json)
@@ -280,6 +287,11 @@ def test_update_assets():
         )
         assert video_json['thumbnail']['image_url'] == thumbnail_filename
         assert video_json['videos'][0]['resource'] == video_filename
+
+        acmi_api.INCLUDE_VIDEOS = False
+        video_json = xos_private_api.update_assets(video_json)
+        assert not video_json.get('thumbnail')
+        assert not video_json.get('videos')
 
 
 def test_search_api():
