@@ -516,21 +516,55 @@ class XOSAPI():
                 )
                 work_json = json.loads(work_json_string)
 
-        if not INCLUDE_IMAGES and work_json.get('images'):
-            work_json.pop('images')
-            try:
-                work_json.pop('thumbnail')
-            except KeyError:
-                pass
+        if not INCLUDE_IMAGES:
+            self.remove_assets(work_json, 'images')
 
-        if not INCLUDE_VIDEOS and work_json.get('videos'):
-            work_json.pop('videos')
-            try:
-                work_json.pop('thumbnail')
-            except KeyError:
-                pass
+        if not INCLUDE_VIDEOS:
+            self.remove_assets(work_json, 'videos')
 
         return work_json
+
+    def remove_assets(self, work_json, asset):
+        """
+        Remove assets from the API.
+        """
+
+        if work_json.get('id'):
+            # Individual record
+            work_json.pop(asset, None)
+            self.remove_all_thumbnails(work_json)
+        else:
+            # Index page of records
+            for work in work_json.get('results'):
+                work.pop(asset, None)
+                self.remove_all_thumbnails(work)
+
+    def remove_all_thumbnails(self, work_json):
+        """
+        Remove all thumbnails from a Work JSON, including group works etc.
+        Because we don't know whether a related Work has thumbnails from
+        a video or an image, let's be overly conservative and remove them
+        all when either INCLUDE_IMAGES or INCLUDE_VIDEOS is False.
+        """
+        work_json.pop('thumbnail', None)
+
+        if work_json.get('group'):
+            work_json['group'].pop('thumbnail', None)
+        if work_json.get('group_works'):
+            for work in work_json.get('group_works'):
+                work.pop('thumbnail', None)
+        if work_json.get('group_siblings'):
+            for work in work_json.get('group_siblings'):
+                work.pop('thumbnail', None)
+
+        if work_json.get('part'):
+            work_json['part'].pop('thumbnail', None)
+        if work_json.get('parts'):
+            for work in work_json.get('parts'):
+                work.pop('thumbnail', None)
+        if work_json.get('part_siblings'):
+            for work in work_json.get('part_siblings'):
+                work.pop('thumbnail', None)
 
     def asset_exists(self, key):
         """
