@@ -1,3 +1,4 @@
+import csv
 import json
 import os
 from unittest.mock import MagicMock, mock_open, patch
@@ -423,3 +424,77 @@ def test_xos_private_api_retries(tmp_path):
         response = xos_private_api.get('works')
         assert not response
         assert mock_get.call_count == 3
+
+
+def test_generate_tsv(tmp_path):
+    """
+    Test the generated TSV is in the correct format with the right number of rows.
+    """
+    acmi_api.TSV_ROOT = tmp_path
+    acmi_api.JSON_ROOT = '/code/tests/'
+    xos_private_api = XOSAPI()
+    xos_private_api.generate_tsv('data')
+    assert os.path.isfile(acmi_api.TSV_ROOT / 'data.tsv')
+    with open(f'{acmi_api.TSV_ROOT}/data.tsv', encoding='utf-8') as tsv_file:
+        reader = csv.reader(tsv_file, delimiter='\t')
+        header = next(reader)
+        assert len(header) == 47
+        assert header[0] == 'id'
+        row_count = 0
+        for _ in reader:
+            row_count += 1
+        assert row_count == 4
+
+
+def test_keys_from_dicts():
+    """
+    Test the keys_from_dicts method returns the correct data.
+    """
+    your_list = []
+    dict_1 = {'id': 1}
+    dict_2 = {'id': 9}
+    dict_3 = {'id': 2}
+    your_list.append(dict_1)
+    your_list.append(dict_2)
+    your_list.append(dict_3)
+    keys = XOSAPI().keys_from_dicts('id', your_list)
+    assert keys == '1,9,2'
+
+    your_list = []
+    dict_1 = {'name': 'Pip'}
+    dict_2 = {'name': 'Simon'}
+    dict_3 = {'name': 'Sam'}
+    your_list.append(dict_1)
+    your_list.append(dict_2)
+    your_list.append(dict_3)
+    keys = XOSAPI().keys_from_dicts('name', your_list)
+    assert keys == 'Pip,Simon,Sam'
+
+
+def test_nested_value():
+    """
+    Test the nested_value method returns the correct data.
+    """
+    default_value = 'Oh really?'
+    dictionary = {
+        'this': {
+            'that': 'The other.',
+        }
+    }
+    value = XOSAPI().nested_value(dictionary, ['this', 'that'], default_value)
+    assert value == 'The other.'
+    value = XOSAPI().nested_value(dictionary, ['this', 'something'], default_value)
+    assert value == 'Oh really?'
+    value = XOSAPI().nested_value(dictionary, ['something', 'else'], default_value)
+    assert value == 'Oh really?'
+
+
+def test_strings_from_list():
+    """
+    Test the strings_from_list method returns the correct data.
+    """
+    your_list = [1, 2, 7, 9]
+    string = XOSAPI().strings_from_list(your_list)
+    assert string == '1,2,7,9'
+    string = XOSAPI().strings_from_list(666)
+    assert string == ''

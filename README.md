@@ -8,9 +8,19 @@ Documentation can be found here: https://kb.acmi.net.au/display/OPS/XOS+Public+A
 
 ## Archive
 
+### JSON metadata
+
 This repository contains a full archive of ACMI collection `JSON` data files.
 
 Find them at: `/app/json/`
+
+### TSV spreadsheet
+
+This repository contains a full archive of ACMI collection metadata in TSV (tab separated values) format.
+
+Find them at: `/app/tsv/`
+
+### Assets
 
 Image and video assets can be found in the public S3 bucket: `s3://acmi-public-api`
 
