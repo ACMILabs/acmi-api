@@ -22,14 +22,18 @@ Find them at: `/app/tsv/`
 
 ### Assets
 
-Image and video assets can be found in the public S3 bucket: `s3://acmi-public-api`
+Image and video assets will be found in the public S3 bucket when we have arranged suitable licenses with our partners: `s3://acmi-public-api`
+
+### TMDB and IGDB images
+
+Works that were imported from [TMDB](https://www.themoviedb.org) or [IGDB](https://www.igdb.com) have their source saved in the field `source` and their originating ID saved in the field `source_identifier`. This allows you to use the [TMDB API](https://developers.themoviedb.org) or [IGDB API](https://www.igdb.com/api) to retrieve images for these Works.
 
 ## Licences
 
 * Software: [Mozilla Public License Version 2.0](https://www.mozilla.org/en-US/MPL/2.0/)
 * Collection metadata in `/app/json/`: [Creative Commons CC0](https://creativecommons.org/share-your-work/public-domain/cc0/)
-* Images: Licence is found in the `credit_line` field within the `images` field on the Works API
-* Videos: Videos are available only via their YouTube link in the `video_links` field. Please ensure that if you present them through another application you provide the attribution from the `credit_line` field
+* Images: coming soon...
+* Videos: coming soon...
 
 ## API server
 

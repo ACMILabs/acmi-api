@@ -254,23 +254,39 @@ def test_update_assets():
     Test update assets uploads and renames asset links.
     """
     with open('tests/data/100542.json', 'rb') as work:
+        acmi_api.INCLUDE_IMAGES = True
+        acmi_api.INCLUDE_VIDEOS = True
         work_json = json.load(work)
         xos_private_api = XOSAPI()
-        work_json = xos_private_api.update_assets(work_json)
+        work_json_1 = xos_private_api.update_assets(work_json)
         thumbnail_filename = (
             f'https://{AWS_STORAGE_BUCKET_NAME}.s3.amazonaws.com/'
             'image/Z000133_Webwurld_Still2_ACMI.tif.1200x1200_q85.jpg'
         )
-        assert work_json['thumbnail']['image_url'] == thumbnail_filename
-        assert work_json['images'][0]['image_file'] == \
+        assert work_json_1['thumbnail']['image_url'] == thumbnail_filename
+        assert work_json_1['images'][0]['image_file'] == \
             thumbnail_filename.replace('.1200x1200_q85.jpg', '')
-        assert work_json['images'][0]['image_file_l'] == \
+        assert work_json_1['images'][0]['image_file_l'] == \
             thumbnail_filename.replace('1200x1200', '3840x3840')
 
+        acmi_api.INCLUDE_IMAGES = True
+        acmi_api.INCLUDE_VIDEOS = False
+        work_json_2 = xos_private_api.update_assets(work_json)
+        assert not work_json_2.get('thumbnail')
+        assert work_json_2.get('images')
+
+        acmi_api.INCLUDE_IMAGES = False
+        acmi_api.INCLUDE_VIDEOS = False
+        work_json_3 = xos_private_api.update_assets(work_json)
+        assert not work_json_3.get('thumbnail')
+        assert not work_json_3.get('images')
+
     with open('tests/data/111326.json', 'rb') as video:
+        acmi_api.INCLUDE_IMAGES = True
+        acmi_api.INCLUDE_VIDEOS = True
         video_json = json.load(video)
         xos_private_api = XOSAPI()
-        video_json = xos_private_api.update_assets(video_json)
+        video_json_1 = xos_private_api.update_assets(video_json)
         thumbnail_filename = (
             f'https://{AWS_STORAGE_BUCKET_NAME}.s3.amazonaws.com/'
             'video/snapshot_1657_669s.jpg'
@@ -279,8 +295,20 @@ def test_update_assets():
             f'https://{AWS_STORAGE_BUCKET_NAME}.s3.amazonaws.com/'
             'video/a_000011_ap01_FiftyYearsOfService.mp4'
         )
-        assert video_json['thumbnail']['image_url'] == thumbnail_filename
-        assert video_json['videos'][0]['resource'] == video_filename
+        assert video_json_1['thumbnail']['image_url'] == thumbnail_filename
+        assert video_json_1['videos'][0]['resource'] == video_filename
+
+        acmi_api.INCLUDE_IMAGES = False
+        acmi_api.INCLUDE_VIDEOS = True
+        video_json_3 = xos_private_api.update_assets(video_json)
+        assert not video_json_3.get('thumbnail')
+        assert video_json_3.get('videos')
+
+        acmi_api.INCLUDE_IMAGES = False
+        acmi_api.INCLUDE_VIDEOS = False
+        video_json_3 = xos_private_api.update_assets(video_json)
+        assert not video_json_3.get('thumbnail')
+        assert not video_json_3.get('videos')
 
 
 def test_search_api():
