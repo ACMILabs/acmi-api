@@ -74,7 +74,7 @@ class API(Resource):
         routes = []
         for route in application.url_map.iter_rules():
             if 'static' not in str(route) and str(route) != '/':
-                routes.append('%s' % route)
+                routes.append(str(route))
         return routes
 
 
