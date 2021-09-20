@@ -1,3 +1,4 @@
+import csv
 import datetime
 import glob
 import json
@@ -25,6 +26,7 @@ ACMI_API_ENDPOINT = os.getenv('ACMI_API_ENDPOINT', 'https://api.acmi.net.au')
 XOS_API_ENDPOINT = os.getenv('XOS_API_ENDPOINT', None)
 SITE_ROOT = os.path.realpath(os.path.dirname(__file__))
 JSON_ROOT = os.path.join(SITE_ROOT, 'json/')
+TSV_ROOT = os.path.join(SITE_ROOT, 'tsv/')
 TIMEZONE = pytz.timezone('Australia/Melbourne')
 YESTERDAY = datetime.datetime.now(TIMEZONE) - datetime.timedelta(days=1)
 UPDATE_FROM_DATE = os.getenv('UPDATE_FROM_DATE', YESTERDAY.date())
@@ -76,7 +78,7 @@ class API(Resource):
         routes = []
         for route in application.url_map.iter_rules():
             if 'static' not in str(route) and str(route) != '/':
-                routes.append('%s' % route)
+                routes.append(str(route))
         return routes
 
 
@@ -579,6 +581,153 @@ class XOSAPI():
             return False
         return True
 
+    def generate_tsv(self, resource):
+        """
+        Generate a tab separated spreadsheet of data for the selected resource.
+        """
+        Path(TSV_ROOT).mkdir(parents=True, exist_ok=True)
+        tsv_file_path = os.path.join(TSV_ROOT, f'{resource}.tsv')
+        with open(tsv_file_path, 'w', encoding='utf-8') as tsv_file:
+            writer = csv.writer(tsv_file, delimiter='\t')
+            # Header row
+            writer.writerow([
+                'id',
+                'acmi_id',
+                'title',
+                'title_annotation',
+                'slug',
+                'creator_credit',
+                'credit_line',
+                'headline_credit',
+                'has_video',
+                'record_type',
+                'type',
+                'is_on_display',
+                'last_on_display_place',
+                'last_on_display_date',
+                'is_context_indigenous',
+                'material_description',
+                'unpublished',
+                'first_production_date',
+                'brief_description',
+                'constellations_primary',
+                'constellations_other',
+                'title_for_label',
+                'creator_credit_for_label',
+                'headline_credit_for_label',
+                'description',
+                'description_for_label',
+                'credit_line_for_label',
+                'tap_count',
+                'links',
+                'creators_primary',
+                'creators_other',
+                'video_links',
+                'media_note',
+                'images',
+                'videos',
+                'holdings',
+                'part_of',
+                'parts',
+                'part_siblings',
+                'group',
+                'group_works',
+                'group_siblings',
+                'source',
+                'source_identifier',
+                'production_places',
+                'production_dates',
+                'labels',
+            ])
+
+            files_written = 0
+            file_paths = glob.glob(f'{os.path.join(JSON_ROOT, resource)}/[0-9]*.json')
+            print(f'Generating the TSV for {resource}...')
+            for file_path in file_paths:
+                if 'index' not in file_path:
+                    with open(file_path, 'rb') as json_file:
+                        json_data = json.load(json_file)
+                        writer.writerow([
+                            json_data.get('id'),
+                            json_data.get('acmi_id'),
+                            json_data.get('title'),
+                            json_data.get('title_annotation'),
+                            json_data.get('slug'),
+                            json_data.get('creator_credit'),
+                            json_data.get('credit_line'),
+                            json_data.get('headline_credit'),
+                            self.nested_value(json_data, ['thumbnail', 'has_video'], 'false'),
+                            json_data.get('record_type'),
+                            json_data.get('type'),
+                            json_data.get('is_on_display'),
+                            json_data.get('last_on_display_place'),
+                            json_data.get('last_on_display_date'),
+                            json_data.get('is_context_indigenous'),
+                            json_data.get('material_description'),
+                            json_data.get('unpublished'),
+                            json_data.get('first_production_date'),
+                            json_data.get('brief_description'),
+                            self.keys_from_dicts('id', json_data.get('constellations_primary')),
+                            self.keys_from_dicts('id', json_data.get('constellations_other')),
+                            json_data.get('title_for_label'),
+                            json_data.get('creator_credit_for_label'),
+                            json_data.get('headline_credit_for_label'),
+                            json_data.get('description'),
+                            self.strings_from_list(json_data.get('description_for_label')),
+                            json_data.get('credit_line_for_label'),
+                            self.nested_value(json_data, ['stats', 'tap_count'], 0),
+                            self.keys_from_dicts('url', json_data.get('links')),
+                            self.keys_from_dicts('id', json_data.get('creators_primary')),
+                            self.keys_from_dicts('id', json_data.get('creators_other')),
+                            self.keys_from_dicts('uri', json_data.get('video_links')),
+                            json_data.get('media_note'),
+                            self.keys_from_dicts('id', json_data.get('images')),
+                            self.keys_from_dicts('id', json_data.get('videos')),
+                            self.keys_from_dicts('name', json_data.get('holdings')),
+                            self.nested_value(json_data, ['part_of', 'id'], ''),
+                            self.keys_from_dicts('id', json_data.get('parts')),
+                            self.keys_from_dicts('id', json_data.get('part_siblings')),
+                            self.nested_value(json_data, ['group', 'id'], ''),
+                            self.keys_from_dicts('id', json_data.get('group_works')),
+                            self.keys_from_dicts('id', json_data.get('group_siblings')),
+                            self.nested_value(json_data, ['source', 'name'], ''),
+                            json_data.get('source_identifier'),
+                            self.keys_from_dicts('name', json_data.get('production_places')),
+                            self.keys_from_dicts('date', json_data.get('production_dates')),
+                            self.strings_from_list(json_data.get('labels')),
+                        ])
+                        files_written += 1
+                if files_written % 1000 == 0:
+                    print(f'Added {files_written} {resource}...')
+            print(f'Finished generating {files_written}/{len(file_paths)} {resource} TSV')
+
+    def keys_from_dicts(self, your_key, your_list):
+        """
+        Return a comma separated string of keys from a list of dictionaries.
+        """
+        try:
+            return ','.join([str(list_item[your_key]) for list_item in your_list])
+        except (KeyError, TypeError):
+            return ''
+
+    def nested_value(self, json_data, nested_list, default_value):
+        """
+        Return the value of an key from a nested item.
+        """
+        try:
+            return json_data[nested_list[0]][nested_list[1]]
+        except (KeyError, TypeError):
+            return default_value
+
+    def strings_from_list(self, your_list):
+        """
+        Return a comma separated list of strings from a list.
+        """
+        try:
+            return ','.join(str(label) for label in your_list)
+        except TypeError:
+            return ''
+
 
 api.add_resource(API, '/')
 api.add_resource(WorksAPI, '/works/')
@@ -592,6 +741,7 @@ if __name__ == '__main__':
         xos_private_api = XOSAPI()
         xos_private_api.get_works()
         xos_private_api.delete_works()
+        xos_private_api.generate_tsv('works')
         search = Search()
         search.update_index(resource='works')
         print('========================================')
