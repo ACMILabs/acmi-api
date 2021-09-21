@@ -523,6 +523,7 @@ class XOSAPI():
 
         if not INCLUDE_VIDEOS:
             self.remove_assets(work_json, 'videos')
+            self.remove_video_links(work_json)
 
         return work_json
 
@@ -567,6 +568,16 @@ class XOSAPI():
         if work_json.get('part_siblings'):
             for work in work_json.get('part_siblings'):
                 work.pop('thumbnail', None)
+
+    def remove_video_links(self, work_json):
+        """
+        Remove any video_links that aren't from YouTube until we negotiate
+        licensing with our partners.
+        """
+        if work_json.get('video_links'):
+            for idx, video_link in enumerate(work_json['video_links']):
+                if 'youtu' not in video_link.get('uri'):
+                    work_json['video_links'].pop(idx)
 
     def asset_exists(self, key):
         """

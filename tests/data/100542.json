@@ -77,7 +77,18 @@
     }
   ],
   "creators_other": [],
-  "video_links": [],
+  "video_links": [
+    {
+      "id":1,
+      "name":"Cent Mille Milliards de Poèmes",
+      "uri":"https://vimeo.com/19599227"
+    },
+    {
+      "id":2,
+      "name":"Launch Trailer",
+      "uri":"https://youtu.be/tCI396HyhbQ"
+      }
+  ],
   "media_note": null,
   "images": [
     {
