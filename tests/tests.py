@@ -268,18 +268,24 @@ def test_update_assets():
             thumbnail_filename.replace('.1200x1200_q85.jpg', '')
         assert work_json_1['images'][0]['image_file_l'] == \
             thumbnail_filename.replace('1200x1200', '3840x3840')
+        assert work_json_1['video_links'][0]['uri'] == 'https://vimeo.com/19599227'
+        assert work_json_1['video_links'][1]['uri'] == 'https://youtu.be/tCI396HyhbQ'
 
         acmi_api.INCLUDE_IMAGES = True
         acmi_api.INCLUDE_VIDEOS = False
         work_json_2 = xos_private_api.update_assets(work_json)
         assert not work_json_2.get('thumbnail')
         assert work_json_2.get('images')
+        assert work_json_2['video_links'][0]['uri'] == 'https://youtu.be/tCI396HyhbQ'
+        assert len(work_json_2['video_links']) == 1
 
         acmi_api.INCLUDE_IMAGES = False
         acmi_api.INCLUDE_VIDEOS = False
         work_json_3 = xos_private_api.update_assets(work_json)
         assert not work_json_3.get('thumbnail')
         assert not work_json_3.get('images')
+        assert work_json_3['video_links'][0]['uri'] == 'https://youtu.be/tCI396HyhbQ'
+        assert len(work_json_3['video_links']) == 1
 
     with open('tests/data/111326.json', 'rb') as video:
         acmi_api.INCLUDE_IMAGES = True
