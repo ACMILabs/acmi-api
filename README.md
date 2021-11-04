@@ -4,7 +4,9 @@ A public API for ACMI's collection data - [api.acmi.net.au](https://api.acmi.net
 
 ![ACMI API CI](https://github.com/ACMILabs/acmi-api/workflows/ACMI%20API%20CI/badge.svg)
 
-Documentation can be found here: https://kb.acmi.net.au/display/OPS/XOS+Public+API
+Public documentation: https://www.acmi.net.au/api
+
+Internal documentation: https://kb.acmi.net.au/display/OPS/XOS+Public+API
 
 ## Archive
 
