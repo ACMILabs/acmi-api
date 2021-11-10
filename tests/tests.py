@@ -317,6 +317,24 @@ def test_update_assets():
         assert not video_json_3.get('videos')
 
 
+def test_include_external_filter():
+    """
+    Test the INCLUDE_EXTERNAL variable sets the XOS API `exclude` filter as expected.
+    """
+    with patch('requests.get', MagicMock()) as mock_get:
+        xos_private_api = XOSAPI()
+        xos_private_api.get('works')
+        assert not mock_get.call_args[1]['params']['external']
+        assert not mock_get.call_args[1]['params']['unpublished']
+
+    with patch('requests.get', MagicMock()) as mock_get:
+        acmi_api.INCLUDE_EXTERNAL = True
+        xos_private_api = XOSAPI()
+        xos_private_api.get('works')
+        assert mock_get.call_args[1]['params']['external']
+        assert not mock_get.call_args[1]['params']['unpublished']
+
+
 def test_search_api():
     """
     Test the Search API root returns expected content.

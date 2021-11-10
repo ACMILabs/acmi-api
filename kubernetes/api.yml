@@ -114,6 +114,11 @@ spec:
               configMapKeyRef:
                 key: INCLUDE_VIDEOS
                 name: xos-api-env
+          - name: INCLUDE_EXTERNAL
+            valueFrom:
+              configMapKeyRef:
+                key: INCLUDE_EXTERNAL
+                name: xos-api-env
       imagePullSecrets:
       - name: docker-cred
 ---

@@ -39,6 +39,7 @@ ELASTICSEARCH_API_KEY = os.getenv('ELASTICSEARCH_API_KEY')
 ELASTICSEARCH_API_KEY_ID = os.getenv('ELASTICSEARCH_API_KEY_ID')
 INCLUDE_IMAGES = os.getenv('INCLUDE_IMAGES', 'false').lower() == 'true'
 INCLUDE_VIDEOS = os.getenv('INCLUDE_VIDEOS', 'false').lower() == 'true'
+INCLUDE_EXTERNAL = os.getenv('INCLUDE_EXTERNAL', 'false').lower() == 'true'
 
 application = Flask(__name__)
 api = Api(application)
@@ -317,6 +318,11 @@ class XOSAPI():
     """
     def __init__(self):
         self.uri = XOS_API_ENDPOINT
+        self.params = {
+            'page_size': 10,
+            'unpublished': False,
+            'external': INCLUDE_EXTERNAL,
+        }
 
     def get(self, resource, params=None):
         """
@@ -324,9 +330,7 @@ class XOSAPI():
         """
         endpoint = os.path.join(self.uri, f'{resource}/')
         if not params:
-            params = {
-                'page_size': 10,
-            }
+            params = self.params
         retries = 0
         while retries < 3:
             try:
@@ -347,10 +351,7 @@ class XOSAPI():
         Download and save Works from XOS.
         """
         resource = 'works'
-        params = {
-            'page_size': 10,
-            'unpublished': False,
-        }
+        params = self.params
         if ALL_WORKS:
             print('Downloading all XOS Works... this will take a while')
         else:
@@ -417,10 +418,8 @@ class XOSAPI():
         Delete unpublished Works from the file system.
         """
         resource = 'works'
-        params = {
-            'page_size': 10,
-            'unpublished': True,
-        }
+        params = self.params
+        params['unpublished'] = True
         if ALL_WORKS:
             print('Deleting all unpublished XOS Works...')
         else:
@@ -457,10 +456,7 @@ class XOSAPI():
         Download and save all Works list pages from XOS.
         """
         print(f'Saving all {resource} list index files...')
-        params = {
-            'page_size': 10,
-            'unpublished': False,
-        }
+        params = self.params
         params['page'] = 1
         while True:
             works_json = self.get(resource, params).json()
