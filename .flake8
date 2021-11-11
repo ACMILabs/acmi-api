@@ -1,0 +1,3 @@
+[flake8]
+exclude=.git, __pycache__, venv, requirements, migrations, settings, celerybeat-schedule, node_modules
+max-line-length=119

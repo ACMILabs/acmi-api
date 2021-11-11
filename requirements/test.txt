@@ -1,0 +1,8 @@
+-r base.txt
+
+flake8
+ipdb
+isort>=4.2.5,<5
+pylint
+pytest
+pytest-flask

@@ -1,0 +1,1417 @@
+{
+  "took": 2,
+  "timed_out": false,
+  "_shards": { "total": 1, "successful": 1, "skipped": 0, "failed": 0 },
+  "hits": {
+    "total": { "value": 63, "relation": "eq" },
+    "max_score": 8.314106,
+    "hits": [
+      {
+        "_index": "works",
+        "_type": "_doc",
+        "_id": "108013",
+        "_score": 7.3852816,
+        "_source": {
+          "id": 108013,
+          "acmi_id": "226",
+          "title": "What's up dog?",
+          "title_annotation": "",
+          "slug": "whats-up-dog",
+          "creator_credit": "Greg Zaritski",
+          "credit_line": "",
+          "headline_credit": "VIC/Australia, 1995",
+          "thumbnail": {
+            "image_url": "https://acmi-public-api.s3.amazonaws.com/image/AIM95grezarwhaupdog001.jpg.1200x1200_q85.jpg",
+            "has_video": false
+          },
+          "record_type": "work",
+          "type": "Film",
+          "is_on_display": false,
+          "last_on_display_place": null,
+          "last_on_display_date": null,
+          "is_context_indigenous": false,
+          "material_description": "",
+          "unpublished": false,
+          "first_production_date": "1995-01-01T11:00:00+11:00",
+          "brief_description": "<p>In this animated film a dog attempts to take a bath only to find that the water has been stolen by a previous inhabitant</p>",
+          "constellations_primary": [],
+          "constellations_other": [],
+          "recommendations": [],
+          "title_for_label": "<p>What&#8217;s up dog?</p>",
+          "creator_credit_for_label": "<p>Greg Zaritski</p>",
+          "headline_credit_for_label": "<p>VIC/Australia, 1995</p>",
+          "description": "<p>In this animated film a dog attempts to take a bath only to find that the water has been stolen by a previous inhabitant</p>",
+          "description_for_label": [
+            "<p>In this animated film a dog attempts to take a bath only to find that the water has been stolen by a previous inhabitant</p>"
+          ],
+          "credit_line_for_label": "",
+          "details": [
+            { "label": "Duration", "display_values": ["00:01:15:00"] },
+            { "label": "Language", "display_values": ["English"] },
+            {
+              "label": "Audience classification",
+              "display_values": ["ACMI classified"]
+            },
+            {
+              "label": "Subject categories",
+              "display_values": [
+                "Amateur & Student Films",
+                "Amateur & Student Films&nbsp;\u2192 Student films - Australia",
+                "Animation"
+              ]
+            },
+            { "label": "Sound/audio", "display_values": ["Sound"] },
+            { "label": "Colour", "display_values": ["Colour"] }
+          ],
+          "stats": { "tap_count": 0 },
+          "links": [],
+          "creators_primary": [
+            {
+              "id": 1203051,
+              "name": "Greg Zaritski",
+              "creator_id": 6538,
+              "role": "director",
+              "role_id": 938,
+              "is_primary": true
+            },
+            {
+              "id": 1203050,
+              "name": "Greg Zaritski",
+              "creator_id": 6538,
+              "role": "creator",
+              "role_id": 968,
+              "is_primary": true
+            }
+          ],
+          "creators_other": [
+            {
+              "id": 1203052,
+              "name": "Animation and Interactive Media (AIM) RMIT",
+              "creator_id": 6535,
+              "role": "production facilities",
+              "role_id": 442,
+              "is_primary": false
+            }
+          ],
+          "video_links": [],
+          "media_note": null,
+          "images": [
+            {
+              "id": 14732,
+              "image_file": "https://acmi-public-api.s3.amazonaws.com/image/AIM95grezarwhaupdog001.jpg",
+              "image_file_thumbnail": "https://acmi-public-api.s3.amazonaws.com/image/AIM95grezarwhaupdog001.jpg.1200x1200_q85.jpg",
+              "image_file_xs": "https://acmi-public-api.s3.amazonaws.com/image/AIM95grezarwhaupdog001.jpg.480x480_q85.jpg",
+              "image_file_s": "https://acmi-public-api.s3.amazonaws.com/image/AIM95grezarwhaupdog001.jpg.960x960_q85.jpg",
+              "image_file_m": "https://acmi-public-api.s3.amazonaws.com/image/AIM95grezarwhaupdog001.jpg.1920x1920_q85.jpg",
+              "image_file_l": "https://acmi-public-api.s3.amazonaws.com/image/AIM95grezarwhaupdog001.jpg.3840x3840_q85.jpg",
+              "caption": "Still from What's up dog?",
+              "credit_line": "",
+              "alt_text": "",
+              "width": 640,
+              "height": 480,
+              "access_level": "View anywhere"
+            }
+          ],
+          "videos": [],
+          "holdings": [
+            {
+              "name": "VHS [PAL]; Reference - timecoded",
+              "identifier": "",
+              "description": ""
+            },
+            {
+              "name": "Digital Betacam [PAL]; Master",
+              "identifier": "",
+              "description": ""
+            },
+            {
+              "name": "Digital Betacam [PAL]; Sub-master",
+              "identifier": "",
+              "description": ""
+            },
+            {
+              "name": "MPEG-4 Digital File; ACMI Digital Access Copy - overscan",
+              "identifier": "",
+              "description": ""
+            },
+            {
+              "name": "MOV file ProRes4444; Digital Preservation Master - overscan",
+              "identifier": "",
+              "description": ""
+            }
+          ],
+          "part_of": null,
+          "parts": [],
+          "part_siblings": [],
+          "group": {
+            "id": 108012,
+            "acmi_id": "145",
+            "title": "RMIT AIM Collection 1995",
+            "title_annotation": "",
+            "slug": "rmit-aim-collection-1995",
+            "creator_credit": "",
+            "credit_line": "",
+            "headline_credit": "VIC/Australia, 1995",
+            "thumbnail": {
+              "image_url": "https://acmi-public-api.s3.amazonaws.com/image/AIM95alamacgilmorast001.jpg.1200x1200_q85.jpg",
+              "has_video": false
+            },
+            "record_type": "group",
+            "type": "Film",
+            "is_on_display": false,
+            "last_on_display_place": null,
+            "last_on_display_date": null,
+            "is_context_indigenous": false,
+            "material_description": "",
+            "unpublished": false,
+            "first_production_date": "1995-01-01T11:00:00+11:00"
+          },
+          "group_works": [],
+          "group_siblings": [
+            {
+              "id": 108073,
+              "acmi_id": "294",
+              "title": "Apoidea",
+              "title_annotation": "",
+              "slug": "apoidea",
+              "creator_credit": "Alan Dorin",
+              "credit_line": "",
+              "headline_credit": "Australia, 1995",
+              "thumbnail": null,
+              "record_type": "work",
+              "type": "Film",
+              "is_on_display": false,
+              "last_on_display_place": null,
+              "last_on_display_date": null,
+              "is_context_indigenous": false,
+              "material_description": "",
+              "unpublished": false,
+              "first_production_date": "1995-01-01T11:00:00+11:00"
+            },
+            {
+              "id": 108045,
+              "acmi_id": "267",
+              "title": "Astrozoology 101",
+              "title_annotation": "",
+              "slug": "astrozoology-101",
+              "creator_credit": "Alastair MacInnes and Gillian Morisson",
+              "credit_line": "",
+              "headline_credit": "VIC/Australia, 1995",
+              "thumbnail": {
+                "image_url": "https://acmi-public-api.s3.amazonaws.com/image/AIM95alamacgilmorast001.jpg.1200x1200_q85.jpg",
+                "has_video": false
+              },
+              "record_type": "work",
+              "type": "Film",
+              "is_on_display": false,
+              "last_on_display_place": null,
+              "last_on_display_date": null,
+              "is_context_indigenous": false,
+              "material_description": "",
+              "unpublished": false,
+              "first_production_date": "1995-01-01T11:00:00+11:00"
+            },
+            {
+              "id": 108048,
+              "acmi_id": "269",
+              "title": "Chill out!",
+              "title_annotation": "",
+              "slug": "chill-out",
+              "creator_credit": "John Sharpe, Sharon Parker, Alan Dorin, Marco Bresciani and Alastair MacInnes",
+              "credit_line": "",
+              "headline_credit": "VIC/Australia, 1995",
+              "thumbnail": {
+                "image_url": "https://acmi-public-api.s3.amazonaws.com/image/AIM95groprochiout.jpg.1200x1200_q85.jpg",
+                "has_video": false
+              },
+              "record_type": "work",
+              "type": "Film",
+              "is_on_display": false,
+              "last_on_display_place": null,
+              "last_on_display_date": null,
+              "is_context_indigenous": false,
+              "material_description": "",
+              "unpublished": false,
+              "first_production_date": "1995-01-01T11:00:00+11:00"
+            },
+            {
+              "id": 108065,
+              "acmi_id": "286",
+              "title": "deCollage",
+              "title_annotation": "",
+              "slug": "decollage",
+              "creator_credit": "John Sharpe",
+              "credit_line": "",
+              "headline_credit": "VIC/Australia, 1995",
+              "thumbnail": {
+                "image_url": "https://acmi-public-api.s3.amazonaws.com/image/AIM95johshadec.jpg.1200x1200_q85.jpg",
+                "has_video": false
+              },
+              "record_type": "work",
+              "type": "Digital art",
+              "is_on_display": false,
+              "last_on_display_place": null,
+              "last_on_display_date": null,
+              "is_context_indigenous": false,
+              "material_description": "Single channel moving image, colour and audio",
+              "unpublished": false,
+              "first_production_date": "1995-01-01T11:00:00+11:00"
+            },
+            {
+              "id": 108049,
+              "acmi_id": "270",
+              "title": "From the ladle to the grave",
+              "title_annotation": "",
+              "slug": "from-the-ladle-to-the-grave",
+              "creator_credit": "Chris Hancock",
+              "credit_line": "",
+              "headline_credit": "VIC/Australia, 1995",
+              "thumbnail": {
+                "image_url": "https://acmi-public-api.s3.amazonaws.com/image/AIM95chrhanfrotheladtothegra.jpg.1200x1200_q85.jpg",
+                "has_video": false
+              },
+              "record_type": "work",
+              "type": "Film",
+              "is_on_display": false,
+              "last_on_display_place": null,
+              "last_on_display_date": null,
+              "is_context_indigenous": false,
+              "material_description": "",
+              "unpublished": false,
+              "first_production_date": "1995-01-01T11:00:00+11:00"
+            },
+            {
+              "id": 108067,
+              "acmi_id": "288",
+              "title": "Killjoy",
+              "title_annotation": "",
+              "slug": "killjoy",
+              "creator_credit": "Alastair MacInnes",
+              "credit_line": "",
+              "headline_credit": "VIC/Australia, 1995",
+              "thumbnail": {
+                "image_url": "https://acmi-public-api.s3.amazonaws.com/image/AIM95alamackil.jpg.1200x1200_q85.jpg",
+                "has_video": false
+              },
+              "record_type": "work",
+              "type": "Film",
+              "is_on_display": false,
+              "last_on_display_place": null,
+              "last_on_display_date": null,
+              "is_context_indigenous": false,
+              "material_description": "",
+              "unpublished": false,
+              "first_production_date": "1995-01-01T11:00:00+11:00"
+            },
+            {
+              "id": 108068,
+              "acmi_id": "289",
+              "title": "May day",
+              "title_annotation": "",
+              "slug": "may-day",
+              "creator_credit": "John Power",
+              "credit_line": "",
+              "headline_credit": "VIC/Australia, 1995",
+              "thumbnail": {
+                "image_url": "https://acmi-public-api.s3.amazonaws.com/image/AIM95johpowmay.jpg.1200x1200_q85.jpg",
+                "has_video": false
+              },
+              "record_type": "work",
+              "type": "Film",
+              "is_on_display": false,
+              "last_on_display_place": null,
+              "last_on_display_date": null,
+              "is_context_indigenous": false,
+              "material_description": "",
+              "unpublished": false,
+              "first_production_date": "1995-01-01T11:00:00+11:00"
+            },
+            {
+              "id": 108072,
+              "acmi_id": "293",
+              "title": "Penguins off the page",
+              "title_annotation": "",
+              "slug": "penguins-off-the-page",
+              "creator_credit": "John Rowdon",
+              "credit_line": "",
+              "headline_credit": "VIC/Australia, 1995",
+              "thumbnail": {
+                "image_url": "https://acmi-public-api.s3.amazonaws.com/image/aim95johrowpenoffthepag.jpg.1200x1200_q85.jpg",
+                "has_video": false
+              },
+              "record_type": "work",
+              "type": "Film",
+              "is_on_display": false,
+              "last_on_display_place": null,
+              "last_on_display_date": null,
+              "is_context_indigenous": false,
+              "material_description": "",
+              "unpublished": false,
+              "first_production_date": "1995-01-01T11:00:00+11:00"
+            },
+            {
+              "id": 108011,
+              "acmi_id": "225",
+              "title": "Pixillation",
+              "title_annotation": "",
+              "slug": "pixillation",
+              "creator_credit": "",
+              "credit_line": "",
+              "headline_credit": "VIC/Australia, 1995",
+              "thumbnail": {
+                "image_url": "https://acmi-public-api.s3.amazonaws.com/image/AIM95gropropix001.jpg.1200x1200_q85.jpg",
+                "has_video": false
+              },
+              "record_type": "work",
+              "type": "Film",
+              "is_on_display": false,
+              "last_on_display_place": null,
+              "last_on_display_date": null,
+              "is_context_indigenous": false,
+              "material_description": "",
+              "unpublished": false,
+              "first_production_date": "1995-01-01T11:00:00+11:00"
+            },
+            {
+              "id": 108063,
+              "acmi_id": "284",
+              "title": "Private & confidential box",
+              "title_annotation": "",
+              "slug": "private-confidential-box",
+              "creator_credit": "John Rowdon and Anutaro Tantraporn",
+              "credit_line": "",
+              "headline_credit": "VIC/Australia, 1995",
+              "thumbnail": {
+                "image_url": "https://acmi-public-api.s3.amazonaws.com/image/AIM95tanrowpriandconbox.jpg.1200x1200_q85.jpg",
+                "has_video": false
+              },
+              "record_type": "work",
+              "type": "Film",
+              "is_on_display": false,
+              "last_on_display_place": null,
+              "last_on_display_date": null,
+              "is_context_indigenous": false,
+              "material_description": "",
+              "unpublished": false,
+              "first_production_date": "1995-01-01T11:00:00+11:00"
+            },
+            {
+              "id": 108069,
+              "acmi_id": "290",
+              "title": "Shift",
+              "title_annotation": "",
+              "slug": "shift",
+              "creator_credit": "John Power",
+              "credit_line": "",
+              "headline_credit": "VIC/Australia, 1995",
+              "thumbnail": {
+                "image_url": "https://acmi-public-api.s3.amazonaws.com/image/aim95johpowshi.jpg.1200x1200_q85.jpg",
+                "has_video": false
+              },
+              "record_type": "work",
+              "type": "Film",
+              "is_on_display": false,
+              "last_on_display_place": null,
+              "last_on_display_date": null,
+              "is_context_indigenous": false,
+              "material_description": "",
+              "unpublished": false,
+              "first_production_date": "1995-01-01T11:00:00+11:00"
+            },
+            {
+              "id": 108066,
+              "acmi_id": "287",
+              "title": "Silent voices",
+              "title_annotation": "",
+              "slug": "silent-voices",
+              "creator_credit": "John Sharpe",
+              "credit_line": "",
+              "headline_credit": "VIC/Australia, 1995",
+              "thumbnail": {
+                "image_url": "https://acmi-public-api.s3.amazonaws.com/image/aim95johshasilvoi.jpg.1200x1200_q85.jpg",
+                "has_video": false
+              },
+              "record_type": "work",
+              "type": "Film",
+              "is_on_display": false,
+              "last_on_display_place": null,
+              "last_on_display_date": null,
+              "is_context_indigenous": false,
+              "material_description": "",
+              "unpublished": false,
+              "first_production_date": "1995-01-01T11:00:00+11:00"
+            },
+            {
+              "id": 108057,
+              "acmi_id": "278",
+              "title": "Spaghetti western",
+              "title_annotation": "",
+              "slug": "spaghetti-western",
+              "creator_credit": "Marco Bresciani and Chris Hancock",
+              "credit_line": "",
+              "headline_credit": "VIC/Australia, 1995",
+              "thumbnail": {
+                "image_url": "https://acmi-public-api.s3.amazonaws.com/image/AIM95hanbrespawes.jpg.1200x1200_q85.jpg",
+                "has_video": false
+              },
+              "record_type": "work",
+              "type": "Film",
+              "is_on_display": false,
+              "last_on_display_place": null,
+              "last_on_display_date": null,
+              "is_context_indigenous": false,
+              "material_description": "",
+              "unpublished": false,
+              "first_production_date": "1995-01-01T11:00:00+11:00"
+            },
+            {
+              "id": 108053,
+              "acmi_id": "274",
+              "title": "The Chase",
+              "title_annotation": "",
+              "slug": "the-chase",
+              "creator_credit": "Shaun Elstob, Anutaro Tantraporn, John Sharpe, Gillian Morisson and Sharon Parker",
+              "credit_line": "",
+              "headline_credit": "VIC/Australia, 1995",
+              "thumbnail": {
+                "image_url": "https://acmi-public-api.s3.amazonaws.com/image/AIM95groprothecha.jpg001.jpg.1200x1200_q85.jpg",
+                "has_video": false
+              },
+              "record_type": "work",
+              "type": "Film",
+              "is_on_display": false,
+              "last_on_display_place": null,
+              "last_on_display_date": null,
+              "is_context_indigenous": false,
+              "material_description": "",
+              "unpublished": false,
+              "first_production_date": "1995-01-01T11:00:00+11:00"
+            },
+            {
+              "id": 108070,
+              "acmi_id": "291",
+              "title": "The Juggler",
+              "title_annotation": "",
+              "slug": "the-juggler",
+              "creator_credit": "Shaun Elstob",
+              "credit_line": "",
+              "headline_credit": "VIC/Australia, 1995",
+              "thumbnail": {
+                "image_url": "https://acmi-public-api.s3.amazonaws.com/image/AIM95shaelsthejug.jpg.1200x1200_q85.jpg",
+                "has_video": false
+              },
+              "record_type": "work",
+              "type": "Film",
+              "is_on_display": false,
+              "last_on_display_place": null,
+              "last_on_display_date": null,
+              "is_context_indigenous": false,
+              "material_description": "",
+              "unpublished": false,
+              "first_production_date": "1995-01-01T11:00:00+11:00"
+            },
+            {
+              "id": 108058,
+              "acmi_id": "279",
+              "title": "The Pied piper",
+              "title_annotation": "",
+              "slug": "the-pied-piper",
+              "creator_credit": "Alastair MacInnes",
+              "credit_line": "",
+              "headline_credit": "Australia, 1995",
+              "thumbnail": {
+                "image_url": "https://acmi-public-api.s3.amazonaws.com/image/AIM95alamacthepiepip.jpg.1200x1200_q85.jpg",
+                "has_video": false
+              },
+              "record_type": "work",
+              "type": "Film",
+              "is_on_display": false,
+              "last_on_display_place": null,
+              "last_on_display_date": null,
+              "is_context_indigenous": false,
+              "material_description": "",
+              "unpublished": false,
+              "first_production_date": "1995-01-01T11:00:00+11:00"
+            },
+            {
+              "id": 108050,
+              "acmi_id": "271",
+              "title": "The Rainy night when the thingy caught fire and everything burned",
+              "title_annotation": "",
+              "slug": "the-rainy-night-when-the-thingy-caught-fire-and-everything-burned",
+              "creator_credit": "John Power and Sharon Parker",
+              "credit_line": "",
+              "headline_credit": "VIC/Australia, 1995",
+              "thumbnail": {
+                "image_url": "https://acmi-public-api.s3.amazonaws.com/image/AIM95johpowshaparevebur.jpg.1200x1200_q85.jpg",
+                "has_video": false
+              },
+              "record_type": "work",
+              "type": "Film",
+              "is_on_display": false,
+              "last_on_display_place": null,
+              "last_on_display_date": null,
+              "is_context_indigenous": false,
+              "material_description": "",
+              "unpublished": false,
+              "first_production_date": "1995-01-01T11:00:00+11:00"
+            },
+            {
+              "id": 108064,
+              "acmi_id": "285",
+              "title": "This is not my city",
+              "title_annotation": "",
+              "slug": "this-is-not-my-city",
+              "creator_credit": "John Sharpe",
+              "credit_line": "",
+              "headline_credit": "VIC/Australia, 1995",
+              "thumbnail": {
+                "image_url": "https://acmi-public-api.s3.amazonaws.com/image/AIM95johshathiisnitmycit.jpg.1200x1200_q85.jpg",
+                "has_video": false
+              },
+              "record_type": "work",
+              "type": "Film",
+              "is_on_display": false,
+              "last_on_display_place": null,
+              "last_on_display_date": null,
+              "is_context_indigenous": false,
+              "material_description": "",
+              "unpublished": false,
+              "first_production_date": "1995-01-01T11:00:00+11:00"
+            },
+            {
+              "id": 108051,
+              "acmi_id": "272",
+              "title": "This way up",
+              "title_annotation": "",
+              "slug": "this-way-up",
+              "creator_credit": "Sharon Parker",
+              "credit_line": "",
+              "headline_credit": "VIC/Australia, 1995",
+              "thumbnail": {
+                "image_url": "https://acmi-public-api.s3.amazonaws.com/image/AIM95shaparthiwayup.jpg.1200x1200_q85.jpg",
+                "has_video": false
+              },
+              "record_type": "work",
+              "type": "Film",
+              "is_on_display": false,
+              "last_on_display_place": null,
+              "last_on_display_date": null,
+              "is_context_indigenous": false,
+              "material_description": "",
+              "unpublished": false,
+              "first_production_date": "1995-01-01T11:00:00+11:00"
+            }
+          ],
+          "source": { "name": "Vernon", "slug": "vernon" },
+          "source_identifier": "226",
+          "production_places": [
+            { "id": 40, "name": "VIC/Australia", "slug": "vicaustralia" }
+          ],
+          "production_dates": [{ "notes": "", "to_year": "1995" }],
+          "labels": [47506]
+        }
+      },
+      {
+        "_index": "works",
+        "_type": "_doc",
+        "_id": "109798",
+        "_score": 7.3852816,
+        "_source": {
+          "id": 109798,
+          "acmi_id": "11860",
+          "title": "Laika: space dog",
+          "title_annotation": "",
+          "slug": "laika-space-dog",
+          "creator_credit": "Lucy Dyson",
+          "credit_line": "",
+          "headline_credit": "Australia, 2002",
+          "thumbnail": null,
+          "record_type": "work",
+          "type": "Film",
+          "is_on_display": false,
+          "last_on_display_place": null,
+          "last_on_display_date": null,
+          "is_context_indigenous": false,
+          "material_description": "",
+          "unpublished": false,
+          "first_production_date": "2002-01-01T11:00:00+11:00",
+          "brief_description": "<p>Prepare for the stars puppy for it is now your time to serve for the greater good of Soviet man!</p>",
+          "constellations_primary": [],
+          "constellations_other": [],
+          "recommendations": [],
+          "title_for_label": "<p>Laika: space dog</p>",
+          "creator_credit_for_label": "<p>Lucy Dyson</p>",
+          "headline_credit_for_label": "<p>Australia, 2002</p>",
+          "description": "<p>Prepare for the stars puppy for it is now your time to serve for the greater good of Soviet man!</p>",
+          "description_for_label": [
+            "<p>Prepare for the stars puppy for it is now your time to serve for the greater good of Soviet man!</p>"
+          ],
+          "credit_line_for_label": "",
+          "details": [
+            { "label": "Duration", "display_values": ["00:04:29:00"] },
+            { "label": "Language", "display_values": ["No spoken word"] },
+            {
+              "label": "Audience classification",
+              "display_values": ["Exempt"]
+            },
+            {
+              "label": "Subject categories",
+              "display_values": [
+                "Amateur & Student Films",
+                "Amateur & Student Films&nbsp;\u2192 Student films - Australia",
+                "Animals & Wildlife&nbsp;\u2192 Dogs",
+                "Animation",
+                "Animation&nbsp;\u2192 Cutout animation",
+                "History&nbsp;\u2192 History",
+                "Mathematics, Science & Technology&nbsp;\u2192 Science",
+                "Short films",
+                "Short films&nbsp;\u2192 Short films - Australia",
+                "Travelogue"
+              ]
+            },
+            { "label": "Sound/audio", "display_values": ["Sound"] },
+            {
+              "label": "Colour",
+              "display_values": ["Black and White", "Colour"]
+            }
+          ],
+          "stats": { "tap_count": 0 },
+          "links": [],
+          "creators_primary": [
+            {
+              "id": 1159547,
+              "name": "Lucy Dyson",
+              "creator_id": 10758,
+              "role": "creator",
+              "role_id": 968,
+              "is_primary": true
+            }
+          ],
+          "creators_other": [],
+          "video_links": [],
+          "media_note": "Sorry, we don't have images or video for this item.",
+          "images": [],
+          "videos": [],
+          "holdings": [
+            {
+              "name": "VHS [PAL]; Reference - timecoded",
+              "identifier": "",
+              "description": ""
+            }
+          ],
+          "part_of": null,
+          "parts": [],
+          "part_siblings": [],
+          "group": {
+            "id": 109786,
+            "acmi_id": "11009",
+            "title": "RMIT Media Arts Collection 2002",
+            "title_annotation": "",
+            "slug": "rmit-media-arts-collection-2002",
+            "creator_credit": "RMIT Media Arts",
+            "credit_line": "",
+            "headline_credit": "VIC/Australia, 2002",
+            "thumbnail": null,
+            "record_type": "group",
+            "type": "Film",
+            "is_on_display": false,
+            "last_on_display_place": null,
+            "last_on_display_date": null,
+            "is_context_indigenous": false,
+            "material_description": "",
+            "unpublished": false,
+            "first_production_date": "2002-01-01T11:00:00+11:00"
+          },
+          "group_works": [],
+          "group_siblings": [
+            {
+              "id": 109791,
+              "acmi_id": "11853",
+              "title": "[Untitled]",
+              "title_annotation": "",
+              "slug": "untitled",
+              "creator_credit": "Daniel Kalandyk",
+              "credit_line": "",
+              "headline_credit": "Australia, 2002",
+              "thumbnail": null,
+              "record_type": "work",
+              "type": "Film",
+              "is_on_display": false,
+              "last_on_display_place": null,
+              "last_on_display_date": null,
+              "is_context_indigenous": false,
+              "material_description": "",
+              "unpublished": false,
+              "first_production_date": "2002-01-01T11:00:00+11:00"
+            },
+            {
+              "id": 109801,
+              "acmi_id": "11863",
+              "title": "Brace, brace",
+              "title_annotation": "",
+              "slug": "brace-brace",
+              "creator_credit": "Phip Murray",
+              "credit_line": "",
+              "headline_credit": "Australia, 2002",
+              "thumbnail": null,
+              "record_type": "work",
+              "type": "Film",
+              "is_on_display": false,
+              "last_on_display_place": null,
+              "last_on_display_date": null,
+              "is_context_indigenous": false,
+              "material_description": "",
+              "unpublished": false,
+              "first_production_date": "2002-01-01T11:00:00+11:00"
+            },
+            {
+              "id": 109785,
+              "acmi_id": "11848",
+              "title": "Cuttlefish dreams: Hyper parsnip bitches",
+              "title_annotation": "",
+              "slug": "cuttlefish-dreams-hyper-parsnip-bitches",
+              "creator_credit": "Paul Robertson",
+              "credit_line": "",
+              "headline_credit": "Australia, 2002",
+              "thumbnail": null,
+              "record_type": "work",
+              "type": "Film",
+              "is_on_display": false,
+              "last_on_display_place": null,
+              "last_on_display_date": null,
+              "is_context_indigenous": false,
+              "material_description": "",
+              "unpublished": false,
+              "first_production_date": "2002-01-01T11:00:00+11:00"
+            },
+            {
+              "id": 109800,
+              "acmi_id": "11862",
+              "title": "Dream girl",
+              "title_annotation": "",
+              "slug": "dream-girl",
+              "creator_credit": "Madeleine Griffith",
+              "credit_line": "",
+              "headline_credit": "Australia, 2002",
+              "thumbnail": null,
+              "record_type": "work",
+              "type": "Film",
+              "is_on_display": false,
+              "last_on_display_place": null,
+              "last_on_display_date": null,
+              "is_context_indigenous": false,
+              "material_description": "",
+              "unpublished": false,
+              "first_production_date": "2002-01-01T11:00:00+11:00"
+            },
+            {
+              "id": 109802,
+              "acmi_id": "11864",
+              "title": "Half sister",
+              "title_annotation": "",
+              "slug": "half-sister",
+              "creator_credit": "Ben Hackworth",
+              "credit_line": "",
+              "headline_credit": "VIC/Australia, 2002",
+              "thumbnail": null,
+              "record_type": "work",
+              "type": "Film",
+              "is_on_display": false,
+              "last_on_display_place": null,
+              "last_on_display_date": null,
+              "is_context_indigenous": false,
+              "material_description": "",
+              "unpublished": false,
+              "first_production_date": "2002-01-01T11:00:00+11:00"
+            },
+            {
+              "id": 109794,
+              "acmi_id": "11856",
+              "title": "Lullaby",
+              "title_annotation": "",
+              "slug": "lullaby",
+              "creator_credit": "Madeleine Griffith",
+              "credit_line": "",
+              "headline_credit": "Australia, 2002",
+              "thumbnail": null,
+              "record_type": "work",
+              "type": "Film",
+              "is_on_display": false,
+              "last_on_display_place": null,
+              "last_on_display_date": null,
+              "is_context_indigenous": false,
+              "material_description": "",
+              "unpublished": false,
+              "first_production_date": "2002-01-01T11:00:00+11:00"
+            },
+            {
+              "id": 109789,
+              "acmi_id": "11851",
+              "title": "Manogigantism",
+              "title_annotation": "",
+              "slug": "manogigantism",
+              "creator_credit": "",
+              "credit_line": "",
+              "headline_credit": "Australia, 2002",
+              "thumbnail": null,
+              "record_type": "work",
+              "type": "Film",
+              "is_on_display": false,
+              "last_on_display_place": null,
+              "last_on_display_date": null,
+              "is_context_indigenous": false,
+              "material_description": "",
+              "unpublished": false,
+              "first_production_date": "2002-01-01T11:00:00+11:00"
+            },
+            {
+              "id": 109796,
+              "acmi_id": "11858",
+              "title": "Mute add nausea",
+              "title_annotation": "",
+              "slug": "mute-add-nausea",
+              "creator_credit": "Simon Maidment",
+              "credit_line": "",
+              "headline_credit": "Australia, 2002",
+              "thumbnail": null,
+              "record_type": "work",
+              "type": "Film",
+              "is_on_display": false,
+              "last_on_display_place": null,
+              "last_on_display_date": null,
+              "is_context_indigenous": false,
+              "material_description": "",
+              "unpublished": false,
+              "first_production_date": "2002-01-01T11:00:00+11:00"
+            },
+            {
+              "id": 109797,
+              "acmi_id": "11859",
+              "title": "Party bag",
+              "title_annotation": "",
+              "slug": "party-bag",
+              "creator_credit": "Heidi McKinnon",
+              "credit_line": "",
+              "headline_credit": "VIC/Australia, 2002",
+              "thumbnail": null,
+              "record_type": "work",
+              "type": "Film",
+              "is_on_display": false,
+              "last_on_display_place": null,
+              "last_on_display_date": null,
+              "is_context_indigenous": false,
+              "material_description": "",
+              "unpublished": false,
+              "first_production_date": "2002-01-01T11:00:00+11:00"
+            },
+            {
+              "id": 109793,
+              "acmi_id": "11855",
+              "title": "Perfume",
+              "title_annotation": "",
+              "slug": "perfume",
+              "creator_credit": "",
+              "credit_line": "",
+              "headline_credit": "Australia, 2002",
+              "thumbnail": null,
+              "record_type": "work",
+              "type": "Film",
+              "is_on_display": false,
+              "last_on_display_place": null,
+              "last_on_display_date": null,
+              "is_context_indigenous": false,
+              "material_description": "",
+              "unpublished": false,
+              "first_production_date": "2002-01-01T11:00:00+11:00"
+            },
+            {
+              "id": 109790,
+              "acmi_id": "11852",
+              "title": "Range",
+              "title_annotation": "",
+              "slug": "range",
+              "creator_credit": "RMIT Media Arts",
+              "credit_line": "",
+              "headline_credit": "Australia, 2002",
+              "thumbnail": null,
+              "record_type": "work",
+              "type": "Film",
+              "is_on_display": false,
+              "last_on_display_place": null,
+              "last_on_display_date": null,
+              "is_context_indigenous": false,
+              "material_description": "",
+              "unpublished": false,
+              "first_production_date": "2002-01-01T11:00:00+11:00"
+            },
+            {
+              "id": 109792,
+              "acmi_id": "11854",
+              "title": "Safe place",
+              "title_annotation": "",
+              "slug": "safe-place",
+              "creator_credit": "Jessica Robertson",
+              "credit_line": "",
+              "headline_credit": "VIC/Australia, 2002",
+              "thumbnail": null,
+              "record_type": "work",
+              "type": "Film",
+              "is_on_display": false,
+              "last_on_display_place": null,
+              "last_on_display_date": null,
+              "is_context_indigenous": false,
+              "material_description": "",
+              "unpublished": false,
+              "first_production_date": "2002-01-01T11:00:00+11:00"
+            },
+            {
+              "id": 109787,
+              "acmi_id": "11849",
+              "title": "Tea monster",
+              "title_annotation": "",
+              "slug": "tea-monster",
+              "creator_credit": "Cornel Wilczek",
+              "credit_line": "",
+              "headline_credit": "Australia, 2002",
+              "thumbnail": null,
+              "record_type": "work",
+              "type": "Film",
+              "is_on_display": false,
+              "last_on_display_place": null,
+              "last_on_display_date": null,
+              "is_context_indigenous": false,
+              "material_description": "",
+              "unpublished": false,
+              "first_production_date": "2002-01-01T11:00:00+11:00"
+            },
+            {
+              "id": 109795,
+              "acmi_id": "11857",
+              "title": "The Room",
+              "title_annotation": "",
+              "slug": "the-room",
+              "creator_credit": "Roy",
+              "credit_line": "",
+              "headline_credit": "Australia, 2002",
+              "thumbnail": null,
+              "record_type": "work",
+              "type": "Film",
+              "is_on_display": false,
+              "last_on_display_place": null,
+              "last_on_display_date": null,
+              "is_context_indigenous": false,
+              "material_description": "",
+              "unpublished": false,
+              "first_production_date": "2002-01-01T11:00:00+11:00"
+            },
+            {
+              "id": 109803,
+              "acmi_id": "11865",
+              "title": "The Tetris kings",
+              "title_annotation": "",
+              "slug": "the-tetris-kings",
+              "creator_credit": "Ross Williams",
+              "credit_line": "",
+              "headline_credit": "Australia, 2002",
+              "thumbnail": null,
+              "record_type": "work",
+              "type": "Film",
+              "is_on_display": false,
+              "last_on_display_place": null,
+              "last_on_display_date": null,
+              "is_context_indigenous": false,
+              "material_description": "",
+              "unpublished": false,
+              "first_production_date": "2002-01-01T11:00:00+11:00"
+            },
+            {
+              "id": 109799,
+              "acmi_id": "11861",
+              "title": "Triangle",
+              "title_annotation": "",
+              "slug": "triangle",
+              "creator_credit": "",
+              "credit_line": "",
+              "headline_credit": "Australia, 2002",
+              "thumbnail": null,
+              "record_type": "work",
+              "type": "Film",
+              "is_on_display": false,
+              "last_on_display_place": null,
+              "last_on_display_date": null,
+              "is_context_indigenous": false,
+              "material_description": "",
+              "unpublished": false,
+              "first_production_date": "2002-01-01T11:00:00+11:00"
+            },
+            {
+              "id": 109788,
+              "acmi_id": "11850",
+              "title": "Walk",
+              "title_annotation": "",
+              "slug": "walk",
+              "creator_credit": "Kenneth Cheong",
+              "credit_line": "",
+              "headline_credit": "VIC/Australia, 2002",
+              "thumbnail": null,
+              "record_type": "work",
+              "type": "Film",
+              "is_on_display": false,
+              "last_on_display_place": null,
+              "last_on_display_date": null,
+              "is_context_indigenous": false,
+              "material_description": "",
+              "unpublished": false,
+              "first_production_date": "2002-01-01T11:00:00+11:00"
+            }
+          ],
+          "source": { "name": "Vernon", "slug": "vernon" },
+          "source_identifier": "11860",
+          "production_places": [
+            { "id": 3, "name": "Australia", "slug": "australia" }
+          ],
+          "production_dates": [{ "notes": "", "to_year": "2002" }],
+          "labels": [49291]
+        }
+      },
+      {
+        "_index": "works",
+        "_type": "_doc",
+        "_id": "61375",
+        "_score": 7.3852816,
+        "_ignored": [
+          "brief_description.keyword",
+          "description_for_label.keyword",
+          "description.keyword"
+        ],
+        "_source": {
+          "id": 61375,
+          "acmi_id": "tmdb-movie-968",
+          "title": "Dog Day Afternoon",
+          "title_annotation": "",
+          "slug": "dog-day-afternoon",
+          "creator_credit": "",
+          "credit_line": "",
+          "headline_credit": "United States of America, 1975",
+          "thumbnail": {
+            "image_url": "https://acmi-public-api.s3.amazonaws.com/video/works/image/qgWuZ2yNJrclU8EldQG4rLhwMoy.jpg.1200x1200_q85.jpg",
+            "has_video": false
+          },
+          "record_type": "work",
+          "type": "Film",
+          "is_on_display": false,
+          "last_on_display_place": null,
+          "last_on_display_date": null,
+          "is_context_indigenous": false,
+          "material_description": "",
+          "unpublished": false,
+          "first_production_date": "1975-08-11T10:00:00+10:00",
+          "brief_description": "<p>Based on the true story of would-be Brooklyn bank robbers John Wojtowicz and Salvatore Naturale. Sonny and Sal attempt a bank heist which quickly turns sour and escalates into a hostage situation and stand-off with the police. As Sonny&#8217;s motives for the robbery are slowly revealed and things become more complicated, the heist turns into a media circus.</p>",
+          "constellations_primary": [],
+          "constellations_other": [
+            {
+              "id": 137,
+              "name": "Crime doesn't pay",
+              "description": "Ned Kelly's famous armour has appeared in many films, but the criminal myth speaks to how audiences have always been captivated by true-crime stories, from the beginning of cinema to today."
+            }
+          ],
+          "recommendations": [],
+          "title_for_label": "<p>Dog Day Afternoon</p>",
+          "creator_credit_for_label": "",
+          "headline_credit_for_label": "<p>United States of America, 1975</p>",
+          "description": "<p>Based on the true story of would-be Brooklyn bank robbers John Wojtowicz and Salvatore Naturale. Sonny and Sal attempt a bank heist which quickly turns sour and escalates into a hostage situation and stand-off with the police. As Sonny&#8217;s motives for the robbery are slowly revealed and things become more complicated, the heist turns into a media circus.</p>",
+          "description_for_label": [
+            "<p>Based on the true story of would-be Brooklyn bank robbers John Wojtowicz and Salvatore Naturale. Sonny and Sal attempt a bank heist which quickly turns sour and escalates into a hostage situation and stand-off with the police. As Sonny&#8217;s motives for the robbery are slowly revealed and things become more complicated, the heist turns into a media circus.</p>"
+          ],
+          "credit_line_for_label": "",
+          "details": [
+            { "label": "Duration", "display_values": ["02:05:00"] },
+            { "label": "Language", "display_values": ["English"] },
+            {
+              "label": "Subject categories",
+              "display_values": ["Crime", "Drama", "Thriller"]
+            }
+          ],
+          "stats": { "tap_count": 24 },
+          "links": [
+            {
+              "url": "https://www.justwatch.com/au/movie/dog-day-afternoon",
+              "title": "Stream, rent or buy at <span>JustWatch</span>",
+              "source": "justwatch"
+            }
+          ],
+          "creators_primary": [],
+          "creators_other": [
+            {
+              "id": 169841,
+              "name": "Artists Entertainment Complex",
+              "creator_id": 62047,
+              "role": "production company",
+              "role_id": 941,
+              "is_primary": false
+            },
+            {
+              "id": 169891,
+              "name": "Anna Hill Johnstone",
+              "creator_id": 62085,
+              "role": "costume design",
+              "role_id": 13,
+              "is_primary": false
+            },
+            {
+              "id": 169880,
+              "name": "Martin Bregman",
+              "creator_id": 62082,
+              "role": "producer",
+              "role_id": 960,
+              "is_primary": false
+            },
+            {
+              "id": 169883,
+              "name": "Robert Greenhut",
+              "creator_id": 46855,
+              "role": "producer",
+              "role_id": 960,
+              "is_primary": false
+            },
+            {
+              "id": 169890,
+              "name": "Frank Pierson",
+              "creator_id": 4020,
+              "role": "screenplay",
+              "role_id": 3,
+              "is_primary": false
+            },
+            {
+              "id": 169899,
+              "name": "Charles Bailey",
+              "creator_id": 62091,
+              "role": "production design",
+              "role_id": 940,
+              "is_primary": false
+            },
+            {
+              "id": 169893,
+              "name": "Martin Elfand",
+              "creator_id": 62086,
+              "role": "producer",
+              "role_id": 960,
+              "is_primary": false
+            },
+            {
+              "id": 169886,
+              "name": "Sidney Lumet",
+              "creator_id": 72312,
+              "role": "director",
+              "role_id": 938,
+              "is_primary": false
+            },
+            {
+              "id": 169842,
+              "name": "Warner Bros. Pictures",
+              "creator_id": 66612,
+              "role": "production company",
+              "role_id": 941,
+              "is_primary": false
+            }
+          ],
+          "video_links": [],
+          "media_note": null,
+          "images": [
+            {
+              "id": 203,
+              "image_file": "https://acmi-public-api.s3.amazonaws.com/video/works/image/qgWuZ2yNJrclU8EldQG4rLhwMoy.jpg",
+              "image_file_thumbnail": "https://acmi-public-api.s3.amazonaws.com/video/works/image/qgWuZ2yNJrclU8EldQG4rLhwMoy.jpg.1200x1200_q85.jpg",
+              "image_file_xs": "https://acmi-public-api.s3.amazonaws.com/video/works/image/qgWuZ2yNJrclU8EldQG4rLhwMoy.jpg.480x480_q85.jpg",
+              "image_file_s": "https://acmi-public-api.s3.amazonaws.com/video/works/image/qgWuZ2yNJrclU8EldQG4rLhwMoy.jpg.960x960_q85.jpg",
+              "image_file_m": "https://acmi-public-api.s3.amazonaws.com/video/works/image/qgWuZ2yNJrclU8EldQG4rLhwMoy.jpg.1920x1920_q85.jpg",
+              "image_file_l": "https://acmi-public-api.s3.amazonaws.com/video/works/image/qgWuZ2yNJrclU8EldQG4rLhwMoy.jpg.3840x3840_q85.jpg",
+              "caption": "",
+              "credit_line": "Image via themoviedb.org",
+              "alt_text": "",
+              "width": 1000,
+              "height": 1500,
+              "access_level": "View anywhere"
+            }
+          ],
+          "videos": [],
+          "holdings": [],
+          "part_of": null,
+          "parts": [],
+          "part_siblings": [],
+          "group": null,
+          "group_works": [],
+          "group_siblings": [],
+          "source": { "name": "TMDB-Movie", "slug": "tmdb-movie" },
+          "source_identifier": "968",
+          "production_places": [
+            {
+              "id": 1,
+              "name": "United States of America",
+              "slug": "united-states-of-america"
+            }
+          ],
+          "production_dates": [{ "notes": "", "to_year": "1975" }],
+          "labels": [337]
+        }
+      },
+      {
+        "_index": "works",
+        "_type": "_doc",
+        "_id": "61376",
+        "_score": 7.3852816,
+        "_source": {
+          "id": 61376,
+          "acmi_id": "tmdb-movie-60269",
+          "title": "Mad Dog Morgan",
+          "title_annotation": "",
+          "slug": "mad-dog-morgan",
+          "creator_credit": "",
+          "credit_line": "",
+          "headline_credit": "Australia, 1976",
+          "thumbnail": {
+            "image_url": "https://acmi-public-api.s3.amazonaws.com/video/works/image/k56qAnZZODnjH1zd80d3mcQPRDO.jpg.1200x1200_q85.jpg",
+            "has_video": false
+          },
+          "record_type": "work",
+          "type": "Film",
+          "is_on_display": false,
+          "last_on_display_place": null,
+          "last_on_display_date": null,
+          "is_context_indigenous": false,
+          "material_description": "",
+          "unpublished": false,
+          "first_production_date": "1976-07-09T10:00:00+10:00",
+          "brief_description": "<p>The true story of Irish outlaw Daniel Morgan, who is wanted, dead or alive, in Australia during the 1850s.</p>",
+          "constellations_primary": [],
+          "constellations_other": [
+            {
+              "id": 137,
+              "name": "Crime doesn't pay",
+              "description": "Ned Kelly's famous armour has appeared in many films, but the criminal myth speaks to how audiences have always been captivated by true-crime stories, from the beginning of cinema to today."
+            }
+          ],
+          "recommendations": [],
+          "title_for_label": "<p>Mad Dog Morgan</p>",
+          "creator_credit_for_label": "",
+          "headline_credit_for_label": "<p>Australia, 1976</p>",
+          "description": "<p>The true story of Irish outlaw Daniel Morgan, who is wanted, dead or alive, in Australia during the 1850s.</p>",
+          "description_for_label": [
+            "<p>The true story of Irish outlaw Daniel Morgan, who is wanted, dead or alive, in Australia during the 1850s.</p>"
+          ],
+          "credit_line_for_label": "",
+          "details": [
+            { "label": "Duration", "display_values": ["01:42:00"] },
+            { "label": "Language", "display_values": ["English"] },
+            {
+              "label": "Subject categories",
+              "display_values": ["Action", "Crime", "Drama", "Western"]
+            }
+          ],
+          "stats": { "tap_count": 25 },
+          "links": [
+            {
+              "url": "https://www.justwatch.com/au/movie/mad-dog-morgan",
+              "title": "Stream, rent or buy at <span>JustWatch</span>",
+              "source": "justwatch"
+            }
+          ],
+          "creators_primary": [],
+          "creators_other": [
+            {
+              "id": 169957,
+              "name": "Philippe Mora",
+              "creator_id": 62132,
+              "role": "director",
+              "role_id": 938,
+              "is_primary": false
+            },
+            {
+              "id": 169960,
+              "name": "Bob Hilditch",
+              "creator_id": 62127,
+              "role": "production design",
+              "role_id": 940,
+              "is_primary": false
+            },
+            {
+              "id": 169956,
+              "name": "Philippe Mora",
+              "creator_id": 62132,
+              "role": "screenplay",
+              "role_id": 3,
+              "is_primary": false
+            },
+            {
+              "id": 169951,
+              "name": "Jeremy Thomas",
+              "creator_id": 62126,
+              "role": "producer",
+              "role_id": 960,
+              "is_primary": false
+            },
+            {
+              "id": 169912,
+              "name": "Mad Dog",
+              "creator_id": 62103,
+              "role": "production company",
+              "role_id": 941,
+              "is_primary": false
+            },
+            {
+              "id": 169913,
+              "name": "Krystal Motion Picture Productions",
+              "creator_id": 62104,
+              "role": "production company",
+              "role_id": 941,
+              "is_primary": false
+            },
+            {
+              "id": 169952,
+              "name": "Bruce Finlayson",
+              "creator_id": 72596,
+              "role": "costume design",
+              "role_id": 13,
+              "is_primary": false
+            }
+          ],
+          "video_links": [],
+          "media_note": null,
+          "images": [
+            {
+              "id": 439,
+              "image_file": "https://acmi-public-api.s3.amazonaws.com/video/works/image/k56qAnZZODnjH1zd80d3mcQPRDO.jpg",
+              "image_file_thumbnail": "https://acmi-public-api.s3.amazonaws.com/video/works/image/k56qAnZZODnjH1zd80d3mcQPRDO.jpg.1200x1200_q85.jpg",
+              "image_file_xs": "https://acmi-public-api.s3.amazonaws.com/video/works/image/k56qAnZZODnjH1zd80d3mcQPRDO.jpg.480x480_q85.jpg",
+              "image_file_s": "https://acmi-public-api.s3.amazonaws.com/video/works/image/k56qAnZZODnjH1zd80d3mcQPRDO.jpg.960x960_q85.jpg",
+              "image_file_m": "https://acmi-public-api.s3.amazonaws.com/video/works/image/k56qAnZZODnjH1zd80d3mcQPRDO.jpg.1920x1920_q85.jpg",
+              "image_file_l": "https://acmi-public-api.s3.amazonaws.com/video/works/image/k56qAnZZODnjH1zd80d3mcQPRDO.jpg.3840x3840_q85.jpg",
+              "caption": "",
+              "credit_line": "Image via themoviedb.org",
+              "alt_text": "",
+              "width": 2000,
+              "height": 3000,
+              "access_level": "View anywhere"
+            }
+          ],
+          "videos": [],
+          "holdings": [],
+          "part_of": null,
+          "parts": [],
+          "part_siblings": [],
+          "group": null,
+          "group_works": [],
+          "group_siblings": [],
+          "source": { "name": "TMDB-Movie", "slug": "tmdb-movie" },
+          "source_identifier": "60269",
+          "production_places": [
+            { "id": 3, "name": "Australia", "slug": "australia" }
+          ],
+          "production_dates": [{ "notes": "", "to_year": "1976" }],
+          "labels": [641]
+        }
+      }
+    ]
+  }
+}

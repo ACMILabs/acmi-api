@@ -1,0 +1,917 @@
+{
+  "took": 18,
+  "timed_out": false,
+  "_shards": { "total": 1, "successful": 1, "skipped": 0, "failed": 0 },
+  "hits": {
+    "total": { "value": 243, "relation": "eq" },
+    "max_score": 11.359416,
+    "hits": [
+      {
+        "_index": "works",
+        "_type": "_doc",
+        "_id": "106665",
+        "_score": 3.8450694,
+        "_ignored": ["constellations_other.description.keyword"],
+        "_source": {
+          "id": 106665,
+          "acmi_id": "xos-106665",
+          "title": "Report to the Mist",
+          "title_annotation": "",
+          "slug": "report-mist",
+          "creator_credit": "AB Original",
+          "credit_line": "",
+          "headline_credit": "Australia, 2017",
+          "thumbnail": {
+            "image_url": "https://acmi-public-api.s3.amazonaws.com/image/Report_to_the_Mist.jpg.1200x1200_q85.jpg",
+            "has_video": false
+          },
+          "record_type": "work",
+          "type": "Music video",
+          "is_on_display": false,
+          "last_on_display_place": null,
+          "last_on_display_date": null,
+          "is_context_indigenous": false,
+          "material_description": "",
+          "unpublished": false,
+          "first_production_date": "2017-01-01T11:00:00+11:00",
+          "brief_description": "<p>Video clip by AB Original for their song &#8216;Report to the Mist&#8217; off their 2016 album <i>Reclaim Australia</i>.</p>",
+          "constellations_primary": [],
+          "constellations_other": [
+            {
+              "id": 254,
+              "name": "Black documentary and truth telling",
+              "description": "Essie Coffey was a trailblazer of Indigenous filmmaking, being the first Aboriginal woman to direct a documentary. The film spotlights the outspoken voice Coffey utilised to convey the realities faced by Aboriginal people and to encourage resistance to assimilation."
+            }
+          ],
+          "recommendations": [],
+          "title_for_label": "<p>Report to the Mist</p>",
+          "creator_credit_for_label": "<p>AB Original</p>",
+          "headline_credit_for_label": "<p>Australia, 2017</p>",
+          "description": "<p>Video clip by AB Original for their song &#8216;Report to the Mist&#8217; off their 2016 album Reclaim Australia.</p>",
+          "description_for_label": [
+            "<p>Video clip by AB Original for their song &#8216;Report to the Mist&#8217; off their 2016 album Reclaim Australia.</p>"
+          ],
+          "credit_line_for_label": "",
+          "details": [{ "label": "Duration", "display_values": ["5:49"] }],
+          "stats": { "tap_count": 0 },
+          "links": [
+            {
+              "url": "https://www.youtube.com/watch?v=xdO-mU41khM",
+              "title": "youtube.com",
+              "source": "vernon"
+            }
+          ],
+          "creators_primary": [
+            {
+              "id": 282930,
+              "name": "AB Original",
+              "creator_id": 73127,
+              "role": "creator",
+              "role_id": 968,
+              "is_primary": true
+            }
+          ],
+          "creators_other": [],
+          "video_links": [],
+          "media_note": null,
+          "images": [
+            {
+              "id": 3290,
+              "image_file": "https://acmi-public-api.s3.amazonaws.com/image/Report_to_the_Mist.jpg",
+              "image_file_thumbnail": "https://acmi-public-api.s3.amazonaws.com/image/Report_to_the_Mist.jpg.1200x1200_q85.jpg",
+              "image_file_xs": "https://acmi-public-api.s3.amazonaws.com/image/Report_to_the_Mist.jpg.480x480_q85.jpg",
+              "image_file_s": "https://acmi-public-api.s3.amazonaws.com/image/Report_to_the_Mist.jpg.960x960_q85.jpg",
+              "image_file_m": "https://acmi-public-api.s3.amazonaws.com/image/Report_to_the_Mist.jpg.1920x1920_q85.jpg",
+              "image_file_l": "https://acmi-public-api.s3.amazonaws.com/image/Report_to_the_Mist.jpg.3840x3840_q85.jpg",
+              "caption": "",
+              "credit_line": "",
+              "alt_text": "",
+              "width": 584,
+              "height": 330,
+              "access_level": "View anywhere"
+            }
+          ],
+          "videos": [],
+          "holdings": [],
+          "part_of": null,
+          "parts": [],
+          "part_siblings": [],
+          "group": null,
+          "group_works": [],
+          "group_siblings": [],
+          "source": null,
+          "source_identifier": null,
+          "production_places": [
+            { "id": 3, "name": "Australia", "slug": "australia" }
+          ],
+          "production_dates": [{ "notes": "", "to_year": "2017" }],
+          "labels": [46156]
+        }
+      },
+      {
+        "_index": "works",
+        "_type": "_doc",
+        "_id": "107203",
+        "_score": 3.8450694,
+        "_ignored": ["constellations_other.description.keyword"],
+        "_source": {
+          "id": 107203,
+          "acmi_id": "xos-107203",
+          "title": "Aroha Bridge",
+          "title_annotation": "",
+          "slug": "aroha-bridge",
+          "creator_credit": "",
+          "credit_line": "",
+          "headline_credit": "2013-2019",
+          "thumbnail": null,
+          "record_type": "work",
+          "type": "TV show",
+          "is_on_display": false,
+          "last_on_display_place": null,
+          "last_on_display_date": null,
+          "is_context_indigenous": false,
+          "material_description": "",
+          "unpublished": false,
+          "first_production_date": null,
+          "brief_description": "",
+          "constellations_primary": [],
+          "constellations_other": [
+            {
+              "id": 255,
+              "name": "Webwurlds",
+              "description": "Jess Johnson and Simon Ward's work is inspired by science fiction and fantasy. Johnson's hand-drawn illustrations are heavily detailed with geometric patterns and incorporate anthropomorphic characters amongst architectural environments in immersive other worlds."
+            }
+          ],
+          "recommendations": [],
+          "title_for_label": "<p>Aroha Bridge</p>",
+          "creator_credit_for_label": "",
+          "headline_credit_for_label": "<p>2013-2019</p>",
+          "description": "",
+          "description_for_label": [],
+          "credit_line_for_label": "",
+          "details": [],
+          "stats": { "tap_count": 0 },
+          "links": [],
+          "creators_primary": [],
+          "creators_other": [],
+          "video_links": [],
+          "media_note": "Sorry, we aren't able to make images or video for this item available to the public online.",
+          "images": [],
+          "videos": [],
+          "holdings": [],
+          "part_of": null,
+          "parts": [],
+          "part_siblings": [],
+          "group": null,
+          "group_works": [],
+          "group_siblings": [],
+          "source": null,
+          "source_identifier": null,
+          "production_places": [],
+          "production_dates": [{ "notes": "", "to_year": "2013-2019" }],
+          "labels": [46694]
+        }
+      },
+      {
+        "_index": "works",
+        "_type": "_doc",
+        "_id": "105011",
+        "_score": 3.8450694,
+        "_ignored": [
+          "constellations_other.description.keyword",
+          "description_for_label.keyword",
+          "description.keyword"
+        ],
+        "_source": {
+          "id": 105011,
+          "acmi_id": "xos-105011",
+          "title": "Testify",
+          "title_annotation": "",
+          "slug": "testify",
+          "creator_credit": "",
+          "credit_line": "",
+          "headline_credit": "2000",
+          "thumbnail": {
+            "image_url": "https://acmi-public-api.s3.amazonaws.com/image/Screen_Shot_2020-05-28_at_1.27.26_pm.png.1200x1200_q85.png",
+            "has_video": false
+          },
+          "record_type": "work",
+          "type": "Music video",
+          "is_on_display": false,
+          "last_on_display_place": null,
+          "last_on_display_date": null,
+          "is_context_indigenous": false,
+          "material_description": "",
+          "unpublished": false,
+          "first_production_date": "2000-01-01T11:00:00+11:00",
+          "brief_description": "<p>&#8216;Testify&#8217; is a song by American rock band Rage Against the Machine and the third single from their third album <i>The Battle of Los Angeles</i>.</p>",
+          "constellations_primary": [],
+          "constellations_other": [
+            {
+              "id": 246,
+              "name": "Copy, transform and combine",
+              "description": "You will see me (2020) repurposes material sourced from the history of the moving image \u2013 archival footage, news, interviews, documentaries, reality TV, video diaries and social media \u2013 to reflect on the way we perform in front of and reveal ourselves to the camera."
+            }
+          ],
+          "recommendations": [],
+          "title_for_label": "<p>Testify</p>",
+          "creator_credit_for_label": "",
+          "headline_credit_for_label": "<p>2000</p>",
+          "description": "<p>&#8216;Testify&#8217; is a song by American rock band Rage Against the Machine and the third single from their third album The Battle of Los Angeles.</p>\n<p>The cover of the single was taken from the 1968 Olympics Black Power Salute. The song&#8217;s lyrics notably make reference to George Orwell&#8217;s novel 1984 through use of &#8220;The Party&#8221; slogan &#8220;Who controls the past (now), controls the future. Who controls the present (now), controls the past.&#8221;</p>",
+          "description_for_label": [
+            "<p>&#8216;Testify&#8217; is a song by American rock band Rage Against the Machine and the third single from their third album The Battle of Los Angeles.</p>\n<p>The cover of the single was taken from the 1968 Olympics Black Power Salute. The song&#8217;s lyrics notably make reference to George Orwell&#8217;s novel 1984 through use of &#8220;The Party&#8221; slogan &#8220;Who controls the past (now), controls the future. Who controls the present (now), controls the past.&#8221;</p>"
+          ],
+          "credit_line_for_label": "",
+          "details": [],
+          "stats": { "tap_count": 22 },
+          "links": [
+            {
+              "url": "https://www.youtube.com/watch?v=Q3dvbM6Pias",
+              "title": "youtube.com",
+              "source": "vernon"
+            }
+          ],
+          "creators_primary": [],
+          "creators_other": [],
+          "video_links": [],
+          "media_note": null,
+          "images": [
+            {
+              "id": 3216,
+              "image_file": "https://acmi-public-api.s3.amazonaws.com/image/Screen_Shot_2020-05-28_at_1.27.26_pm.png",
+              "image_file_thumbnail": "https://acmi-public-api.s3.amazonaws.com/image/Screen_Shot_2020-05-28_at_1.27.26_pm.png.1200x1200_q85.png",
+              "image_file_xs": "https://acmi-public-api.s3.amazonaws.com/image/Screen_Shot_2020-05-28_at_1.27.26_pm.png.480x480_q85.png",
+              "image_file_s": "https://acmi-public-api.s3.amazonaws.com/image/Screen_Shot_2020-05-28_at_1.27.26_pm.png.960x960_q85.png",
+              "image_file_m": "https://acmi-public-api.s3.amazonaws.com/image/Screen_Shot_2020-05-28_at_1.27.26_pm.png.1920x1920_q85.png",
+              "image_file_l": "https://acmi-public-api.s3.amazonaws.com/image/Screen_Shot_2020-05-28_at_1.27.26_pm.png.3840x3840_q85.png",
+              "caption": "",
+              "credit_line": "",
+              "alt_text": "",
+              "width": 630,
+              "height": 634,
+              "access_level": "View anywhere"
+            }
+          ],
+          "videos": [],
+          "holdings": [],
+          "part_of": null,
+          "parts": [],
+          "part_siblings": [],
+          "group": null,
+          "group_works": [],
+          "group_siblings": [],
+          "source": null,
+          "source_identifier": null,
+          "production_places": [],
+          "production_dates": [{ "notes": "", "to_year": "2000" }],
+          "labels": [44501]
+        }
+      },
+      {
+        "_index": "works",
+        "_type": "_doc",
+        "_id": "105032",
+        "_score": 3.8450694,
+        "_ignored": [
+          "brief_description.keyword",
+          "description_for_label.keyword",
+          "description.keyword"
+        ],
+        "_source": {
+          "id": 105032,
+          "acmi_id": "xos-105032",
+          "title": "Early Amateur Sound Film (1936\u201337)",
+          "title_annotation": "",
+          "slug": "early-amateur-sound-film-193637",
+          "creator_credit": "",
+          "credit_line": "",
+          "headline_credit": "1936",
+          "thumbnail": {
+            "image_url": "https://acmi-public-api.s3.amazonaws.com/image/Early_Amateur_Sound_Film_193637.PNG.1200x1200_q85.PNG",
+            "has_video": false
+          },
+          "record_type": "work",
+          "type": "Film",
+          "is_on_display": false,
+          "last_on_display_place": null,
+          "last_on_display_date": null,
+          "is_context_indigenous": false,
+          "material_description": "",
+          "unpublished": false,
+          "first_production_date": "1936-01-01T10:00:00+10:00",
+          "brief_description": "<p>Amateur filmmaker Archie Stewart used an RCA Sound Camera to document family life from 1935. A member of the Amateur Cinema League, in 1937 he published one of the first articles on amateur sound, &#8216;A Talkie Movie Maker Speaks&#8217;, in the league\u2019s magazine.</p>",
+          "constellations_primary": [],
+          "constellations_other": [
+            {
+              "id": 248,
+              "name": "Amateur hour",
+              "description": "Early sound equipment allowed filmmakers and amateurs alike the ability to experiment often with affordable 16mm film."
+            }
+          ],
+          "recommendations": [],
+          "title_for_label": "<p>Early Amateur Sound Film (1936\u201337)</p>",
+          "creator_credit_for_label": "",
+          "headline_credit_for_label": "<p>1936</p>",
+          "description": "<p>Amateur filmmaker Archie Stewart used an RCA Sound Camera to document family life from 1935. A member of the Amateur Cinema League, in 1937 he published one of the first articles on amateur sound, &#8216;A Talkie Movie Maker Speaks&#8217;, in the league\u2019s magazine.</p>",
+          "description_for_label": [
+            "<p>Amateur filmmaker Archie Stewart used an RCA Sound Camera to document family life from 1935. A member of the Amateur Cinema League, in 1937 he published one of the first articles on amateur sound, &#8216;A Talkie Movie Maker Speaks&#8217;, in the league\u2019s magazine.</p>"
+          ],
+          "credit_line_for_label": "",
+          "details": [],
+          "stats": { "tap_count": 18 },
+          "links": [],
+          "creators_primary": [],
+          "creators_other": [],
+          "video_links": [],
+          "media_note": null,
+          "images": [
+            {
+              "id": 3218,
+              "image_file": "https://acmi-public-api.s3.amazonaws.com/image/Early_Amateur_Sound_Film_193637.PNG",
+              "image_file_thumbnail": "https://acmi-public-api.s3.amazonaws.com/image/Early_Amateur_Sound_Film_193637.PNG.1200x1200_q85.PNG",
+              "image_file_xs": "https://acmi-public-api.s3.amazonaws.com/image/Early_Amateur_Sound_Film_193637.PNG.480x480_q85.PNG",
+              "image_file_s": "https://acmi-public-api.s3.amazonaws.com/image/Early_Amateur_Sound_Film_193637.PNG.960x960_q85.PNG",
+              "image_file_m": "https://acmi-public-api.s3.amazonaws.com/image/Early_Amateur_Sound_Film_193637.PNG.1920x1920_q85.PNG",
+              "image_file_l": "https://acmi-public-api.s3.amazonaws.com/image/Early_Amateur_Sound_Film_193637.PNG.3840x3840_q85.PNG",
+              "caption": "",
+              "credit_line": "",
+              "alt_text": "",
+              "width": 897,
+              "height": 631,
+              "access_level": "View anywhere"
+            }
+          ],
+          "videos": [],
+          "holdings": [],
+          "part_of": null,
+          "parts": [],
+          "part_siblings": [],
+          "group": null,
+          "group_works": [],
+          "group_siblings": [],
+          "source": null,
+          "source_identifier": null,
+          "production_places": [],
+          "production_dates": [{ "notes": "", "to_year": "1936" }],
+          "labels": [44522]
+        }
+      },
+      {
+        "_index": "works",
+        "_type": "_doc",
+        "_id": "105109",
+        "_score": 3.8450694,
+        "_ignored": [
+          "constellations_other.description.keyword",
+          "description_for_label.keyword",
+          "description.keyword"
+        ],
+        "_source": {
+          "id": 105109,
+          "acmi_id": "xos-105109",
+          "title": "Wrong Kind of Black",
+          "title_annotation": "",
+          "slug": "wrong-kind-black",
+          "creator_credit": "Catriona McKenzie",
+          "credit_line": "",
+          "headline_credit": "2018",
+          "thumbnail": {
+            "image_url": "https://acmi-public-api.s3.amazonaws.com/image/unnamed.jpg.1200x1200_q85.jpg",
+            "has_video": false
+          },
+          "record_type": "work",
+          "type": "TV show",
+          "is_on_display": false,
+          "last_on_display_place": null,
+          "last_on_display_date": null,
+          "is_context_indigenous": false,
+          "material_description": "",
+          "unpublished": false,
+          "first_production_date": "2018-01-01T11:00:00+11:00",
+          "brief_description": "<p>From the cops and the crocs of 1960s Palm Island to the blood-spattered dance floors of Melbourne in the 70s, <i>Wrong Kind of Black</i> is the personal story of Boori Monty Pryor (Clarence Ryan) and his brother Paul (Aaron McGrath).</p>",
+          "constellations_primary": [],
+          "constellations_other": [
+            {
+              "id": 250,
+              "name": "Aboriginal History Archive",
+              "description": "The Aboriginal History Archive at Victoria University, led by Gary Foley, is dedicated to the collection and preservation of First Peoples' stories and cultural material. The political activism of the Black Power movement in the 1970s is intersected with representation of Aboriginal actors on screen."
+            },
+            {
+              "id": 277,
+              "name": "Laughing in the face of adversity",
+              "description": "Comedy has been used by First Nations storytellers as a tool for social change. On our screens, humour invites audiences to engage with stories and prompts them to grapple with ideas that they otherwise might shy away from."
+            }
+          ],
+          "recommendations": [],
+          "title_for_label": "<p>Wrong Kind of Black</p>",
+          "creator_credit_for_label": "<p>Catriona McKenzie</p>",
+          "headline_credit_for_label": "<p>2018</p>",
+          "description": "<p>From the cops and the crocs of 1960s Palm Island to the blood-spattered dance floors of Melbourne in the &#8216;70s, Wrong Kind of Black is the personal story of Boori Monty Pryor (Clarence Ryan, in a career-making performance) and his brother Paul (Aaron McGrath). This four part high end digital drama comedy series brings a rare perspective to a tumultuous era in Australia\u2019s history, one that resonates just as strongly today.</p>\n<p>At the height of the \u201870s disco inferno, Monty is Melbourne\u2019s hottest DJ. Dubbed \u2018The Black Superman\u2019, Monty spins tunes at the Albion Charles Hotel where he and younger brother Paul rub shoulders with a motley crew of Russian mobsters and Aussie yobbos alike. The \u2018fro and the flares seem like worlds away from Monty\u2019s childhood on remote Palm Island \u2013 but beneath the surface, not much has changed. Aboriginal culture is still not welcome in white society, and the price of its preservation can be deadly. As tensions escalate and trouble keeps finding the two brothers, Monty decides that enough is enough and takes his future into his own hands.</p>\n<p>Although the Wrong Kind of Black takes us back to the 1960s and &#8216;70s, this personal account is as much the story of Indigenous Australia today as it was back then. It is a story of extremes \u2013 heartbreak and triumph, unconditional love and blind hatred, innocence and wisdom, black and white \u2013 always told with great humour and an enduring sense of hope.</p>",
+          "description_for_label": [
+            "<p>From the cops and the crocs of 1960s Palm Island to the blood-spattered dance floors of Melbourne in the &#8216;70s, Wrong Kind of Black is the personal story of Boori Monty Pryor (Clarence Ryan, in a career-making performance) and his brother Paul (Aaron McGrath). This four part high end digital drama comedy series brings a rare perspective to a tumultuous era in Australia\u2019s history, one that resonates just as strongly today.</p>\n<p>At the height of the \u201870s disco inferno, Monty is Melbourne\u2019s hottest DJ. Dubbed \u2018The Black Superman\u2019, Monty spins tunes at the Albion Charles Hotel where he and younger brother Paul rub shoulders with a motley crew of Russian mobsters and Aussie yobbos alike. The \u2018fro and the flares seem like worlds away from Monty\u2019s childhood on remote Palm Island \u2013 but beneath the surface, not much has changed. Aboriginal culture is still not welcome in white society, and the price of its preservation can be deadly. As tensions escalate and trouble keeps finding the two brothers, Monty decides that enough is enough and takes his future into his own hands.</p>\n<p>Although the Wrong Kind of Black takes us back to the 1960s and &#8216;70s, this personal account is as much the story of Indigenous Australia today as it was back then. It is a story of extremes \u2013 heartbreak and triumph, unconditional love and blind hatred, innocence and wisdom, black and white \u2013 always told with great humour and an enduring sense of hope.</p>"
+          ],
+          "credit_line_for_label": "",
+          "details": [],
+          "stats": { "tap_count": 23 },
+          "links": [],
+          "creators_primary": [
+            {
+              "id": 282931,
+              "name": "Catriona McKenzie",
+              "creator_id": 66606,
+              "role": "director",
+              "role_id": 938,
+              "is_primary": true
+            }
+          ],
+          "creators_other": [],
+          "video_links": [],
+          "media_note": null,
+          "images": [
+            {
+              "id": 3230,
+              "image_file": "https://acmi-public-api.s3.amazonaws.com/image/unnamed.jpg",
+              "image_file_thumbnail": "https://acmi-public-api.s3.amazonaws.com/image/unnamed.jpg.1200x1200_q85.jpg",
+              "image_file_xs": "https://acmi-public-api.s3.amazonaws.com/image/unnamed.jpg.480x480_q85.jpg",
+              "image_file_s": "https://acmi-public-api.s3.amazonaws.com/image/unnamed.jpg.960x960_q85.jpg",
+              "image_file_m": "https://acmi-public-api.s3.amazonaws.com/image/unnamed.jpg.1920x1920_q85.jpg",
+              "image_file_l": "https://acmi-public-api.s3.amazonaws.com/image/unnamed.jpg.3840x3840_q85.jpg",
+              "caption": "",
+              "credit_line": "",
+              "alt_text": "",
+              "width": 512,
+              "height": 384,
+              "access_level": "View anywhere"
+            }
+          ],
+          "videos": [],
+          "holdings": [],
+          "part_of": null,
+          "parts": [],
+          "part_siblings": [],
+          "group": null,
+          "group_works": [],
+          "group_siblings": [],
+          "source": null,
+          "source_identifier": null,
+          "production_places": [],
+          "production_dates": [{ "notes": "", "to_year": "2018" }],
+          "labels": [44599]
+        }
+      },
+      {
+        "_index": "works",
+        "_type": "_doc",
+        "_id": "103",
+        "_score": 3.8450694,
+        "_ignored": [
+          "brief_description.keyword",
+          "description_for_label.keyword",
+          "description.keyword"
+        ],
+        "_source": {
+          "id": 103,
+          "acmi_id": "xos-103",
+          "title": "Storyboard",
+          "title_annotation": "",
+          "slug": "storyboard",
+          "creator_credit": "",
+          "credit_line": "<p>David Russell</p>",
+          "headline_credit": "2000",
+          "thumbnail": {
+            "image_url": "https://acmi-public-api.s3.amazonaws.com/video/works/image/storyboard.jpg.1200x1200_q85.jpg",
+            "has_video": false
+          },
+          "record_type": "work",
+          "type": "Film",
+          "is_on_display": false,
+          "last_on_display_place": null,
+          "last_on_display_date": null,
+          "is_context_indigenous": false,
+          "material_description": "",
+          "unpublished": false,
+          "first_production_date": "2000-01-01T11:00:00+11:00",
+          "brief_description": "<p>Storyboards help filmmaking teams visualise a film and how to tell the film\u2019s story through images. In a film, the audience follows a story not just through character&#8217;s dialogue, but also through their actions. Even objects and settings help tell a story.</p>\n<p>You can make decisions about how things will look by creating a storyboard. Each panel in a storyboard represents a camera shot and therefore what the camera will see and show. You do not have to recreate every frame of a film in a storyboard; that would take forever!</p>",
+          "constellations_primary": [],
+          "constellations_other": [],
+          "recommendations": [],
+          "title_for_label": "<p>Storyboard</p>",
+          "creator_credit_for_label": "",
+          "headline_credit_for_label": "<p>2000</p>",
+          "description": "<p>Storyboards help filmmaking teams visualise a film and how to tell the film\u2019s story through images. In a film, the audience follows a story not just through character&#8217;s dialogue, but also through their actions. Even objects and settings help tell a story.</p>\n<p>You can make decisions about how things will look by creating a storyboard. Each panel in a storyboard represents a camera shot and therefore what the camera will see and show. You do not have to recreate every frame of a film in a storyboard; that would take forever!</p>",
+          "description_for_label": [
+            "<p>Storyboards help filmmaking teams visualise a film and how to tell the film\u2019s story through images. In a film, the audience follows a story not just through character&#8217;s dialogue, but also through their actions. Even objects and settings help tell a story.</p>\n<p>You can make decisions about how things will look by creating a storyboard. Each panel in a storyboard represents a camera shot and therefore what the camera will see and show. You do not have to recreate every frame of a film in a storyboard; that would take forever!</p>"
+          ],
+          "credit_line_for_label": "<p>David Russell</p>",
+          "details": [],
+          "stats": { "tap_count": 0 },
+          "links": [],
+          "creators_primary": [],
+          "creators_other": [],
+          "video_links": [],
+          "media_note": null,
+          "images": [
+            {
+              "id": 705,
+              "image_file": "https://acmi-public-api.s3.amazonaws.com/video/works/image/storyboard.jpg",
+              "image_file_thumbnail": "https://acmi-public-api.s3.amazonaws.com/video/works/image/storyboard.jpg.1200x1200_q85.jpg",
+              "image_file_xs": "https://acmi-public-api.s3.amazonaws.com/video/works/image/storyboard.jpg.480x480_q85.jpg",
+              "image_file_s": "https://acmi-public-api.s3.amazonaws.com/video/works/image/storyboard.jpg.960x960_q85.jpg",
+              "image_file_m": "https://acmi-public-api.s3.amazonaws.com/video/works/image/storyboard.jpg.1920x1920_q85.jpg",
+              "image_file_l": "https://acmi-public-api.s3.amazonaws.com/video/works/image/storyboard.jpg.3840x3840_q85.jpg",
+              "caption": "",
+              "credit_line": "",
+              "alt_text": "",
+              "width": 1600,
+              "height": 1221,
+              "access_level": "View anywhere"
+            }
+          ],
+          "videos": [],
+          "holdings": [],
+          "part_of": null,
+          "parts": [],
+          "part_siblings": [],
+          "group": null,
+          "group_works": [],
+          "group_siblings": [],
+          "source": null,
+          "source_identifier": null,
+          "production_places": [],
+          "production_dates": [{ "notes": "", "to_year": "2000" }],
+          "labels": [993]
+        }
+      },
+      {
+        "_index": "works",
+        "_type": "_doc",
+        "_id": "103496",
+        "_score": 3.8450694,
+        "_ignored": ["description_for_label.keyword", "description.keyword"],
+        "_source": {
+          "id": 103496,
+          "acmi_id": "xos-103496",
+          "title": "The Book Place",
+          "title_annotation": "",
+          "slug": "book-place",
+          "creator_credit": "",
+          "credit_line": "",
+          "headline_credit": "1991-2003",
+          "thumbnail": {
+            "image_url": "https://acmi-public-api.s3.amazonaws.com/image/The_Book_Place.jpg.1200x1200_q85.jpg",
+            "has_video": false
+          },
+          "record_type": "work",
+          "type": "TV show",
+          "is_on_display": false,
+          "last_on_display_place": null,
+          "last_on_display_date": null,
+          "is_context_indigenous": false,
+          "material_description": "",
+          "unpublished": false,
+          "first_production_date": null,
+          "brief_description": "",
+          "constellations_primary": [],
+          "constellations_other": [
+            {
+              "id": 241,
+              "name": "Learning through play",
+              "description": "Alexander Stitt and Bruce Weatherhead\u2019s Zoetrope to Cinemascope educated children about the moving image through posters, cut-outs, puzzles and games, but moving image works have also been used to educate and entertain kids about all aspects of life."
+            }
+          ],
+          "recommendations": [],
+          "title_for_label": "<p>The Book Place</p>",
+          "creator_credit_for_label": "",
+          "headline_credit_for_label": "<p>1991-2003</p>",
+          "description": "<p>The Book Place was an educational TV show for children, which aired on the Seven Network from 1991 to 2003. The show was originally presented by former host of <I>Fat Cat and Friends</i>, Lynn Weston with Brenton Whittle, and Andy Armstrong, with Michael Scheld as the Bookworm.</p>",
+          "description_for_label": [
+            "<p>The Book Place was an educational TV show for children, which aired on the Seven Network from 1991 to 2003. The show was originally presented by former host of <I>Fat Cat and Friends</i>, Lynn Weston with Brenton Whittle, and Andy Armstrong, with Michael Scheld as the Bookworm.</p>"
+          ],
+          "credit_line_for_label": "",
+          "details": [],
+          "stats": { "tap_count": 11 },
+          "links": [],
+          "creators_primary": [],
+          "creators_other": [],
+          "video_links": [],
+          "media_note": null,
+          "images": [
+            {
+              "id": 3189,
+              "image_file": "https://acmi-public-api.s3.amazonaws.com/image/The_Book_Place.jpg",
+              "image_file_thumbnail": "https://acmi-public-api.s3.amazonaws.com/image/The_Book_Place.jpg.1200x1200_q85.jpg",
+              "image_file_xs": "https://acmi-public-api.s3.amazonaws.com/image/The_Book_Place.jpg.480x480_q85.jpg",
+              "image_file_s": "https://acmi-public-api.s3.amazonaws.com/image/The_Book_Place.jpg.960x960_q85.jpg",
+              "image_file_m": "https://acmi-public-api.s3.amazonaws.com/image/The_Book_Place.jpg.1920x1920_q85.jpg",
+              "image_file_l": "https://acmi-public-api.s3.amazonaws.com/image/The_Book_Place.jpg.3840x3840_q85.jpg",
+              "caption": "",
+              "credit_line": "",
+              "alt_text": "",
+              "width": 480,
+              "height": 360,
+              "access_level": "View anywhere"
+            }
+          ],
+          "videos": [],
+          "holdings": [],
+          "part_of": null,
+          "parts": [],
+          "part_siblings": [],
+          "group": null,
+          "group_works": [],
+          "group_siblings": [],
+          "source": null,
+          "source_identifier": null,
+          "production_places": [],
+          "production_dates": [{ "notes": "", "to_year": "1991-2003" }],
+          "labels": [42986]
+        }
+      },
+      {
+        "_index": "works",
+        "_type": "_doc",
+        "_id": "104",
+        "_score": 3.8450694,
+        "_source": {
+          "id": 104,
+          "acmi_id": "xos-104",
+          "title": "Death Star Canteen",
+          "title_annotation": "",
+          "slug": "death-star-canteen",
+          "creator_credit": "",
+          "credit_line": "",
+          "headline_credit": "USA, 30-6-2007",
+          "thumbnail": {
+            "image_url": "https://acmi-public-api.s3.amazonaws.com/video/works/image/death_star_canteen.jpg.1200x1200_q85.jpg",
+            "has_video": false
+          },
+          "record_type": "work",
+          "type": "Video",
+          "is_on_display": false,
+          "last_on_display_place": null,
+          "last_on_display_date": null,
+          "is_context_indigenous": false,
+          "material_description": "",
+          "unpublished": false,
+          "first_production_date": null,
+          "brief_description": "<p>A young American YouTuber animated this stop-motion film to Eddie Izzard&#8217;s &#8220;Death Star Canteen&#8221; comedy bit from Circle.</p>",
+          "constellations_primary": [],
+          "constellations_other": [
+            {
+              "id": 11,
+              "name": "Stop-motion fantasies",
+              "description": "<i>The LEGO Movie</i> draws on fan-made stop-motion films for its aesthetic style, but fantastical animation comes in many forms."
+            }
+          ],
+          "recommendations": [],
+          "title_for_label": "<p>Death Star Canteen</p>",
+          "creator_credit_for_label": "",
+          "headline_credit_for_label": "<p>USA, 30-6-2007</p>",
+          "description": "",
+          "description_for_label": [],
+          "credit_line_for_label": "",
+          "details": [],
+          "stats": { "tap_count": 418 },
+          "links": [],
+          "creators_primary": [],
+          "creators_other": [
+            {
+              "id": 181924,
+              "name": "Thorn2200",
+              "creator_id": 70473,
+              "role": "creator",
+              "role_id": 968,
+              "is_primary": false
+            }
+          ],
+          "video_links": [
+            {
+              "id": 41,
+              "name": "Death Star Canteen",
+              "uri": "https://www.youtube.com/watch?v=Sv5iEK-IEzw"
+            }
+          ],
+          "media_note": null,
+          "images": [
+            {
+              "id": 190,
+              "image_file": "https://acmi-public-api.s3.amazonaws.com/video/works/image/death_star_canteen.jpg",
+              "image_file_thumbnail": "https://acmi-public-api.s3.amazonaws.com/video/works/image/death_star_canteen.jpg.1200x1200_q85.jpg",
+              "image_file_xs": "https://acmi-public-api.s3.amazonaws.com/video/works/image/death_star_canteen.jpg.480x480_q85.jpg",
+              "image_file_s": "https://acmi-public-api.s3.amazonaws.com/video/works/image/death_star_canteen.jpg.960x960_q85.jpg",
+              "image_file_m": "https://acmi-public-api.s3.amazonaws.com/video/works/image/death_star_canteen.jpg.1920x1920_q85.jpg",
+              "image_file_l": "https://acmi-public-api.s3.amazonaws.com/video/works/image/death_star_canteen.jpg.3840x3840_q85.jpg",
+              "caption": "",
+              "credit_line": "",
+              "alt_text": "",
+              "width": 480,
+              "height": 360,
+              "access_level": "View anywhere"
+            }
+          ],
+          "videos": [],
+          "holdings": [],
+          "part_of": null,
+          "parts": [],
+          "part_siblings": [],
+          "group": null,
+          "group_works": [],
+          "group_siblings": [],
+          "source": null,
+          "source_identifier": null,
+          "production_places": [{ "id": 29, "name": "USA", "slug": "usa" }],
+          "production_dates": [{ "notes": "", "to_year": "30-6-2007" }],
+          "labels": [320]
+        }
+      },
+      {
+        "_index": "works",
+        "_type": "_doc",
+        "_id": "107339",
+        "_score": 3.8450694,
+        "_source": {
+          "id": 107339,
+          "acmi_id": "xos-107339",
+          "title": "Now 7 Years Later",
+          "title_annotation": "",
+          "slug": "now-7-years-later",
+          "creator_credit": "Elvis Richardson",
+          "credit_line": "",
+          "headline_credit": "2008",
+          "thumbnail": {
+            "image_url": "https://acmi-public-api.s3.amazonaws.com/image/now7yearslater_00002.jpg.1200x1200_q85.jpg",
+            "has_video": false
+          },
+          "record_type": "work",
+          "type": "Digital art",
+          "is_on_display": false,
+          "last_on_display_place": null,
+          "last_on_display_date": null,
+          "is_context_indigenous": false,
+          "material_description": "",
+          "unpublished": false,
+          "first_production_date": "2008-01-01T11:00:00+11:00",
+          "brief_description": "<p>NOW7 YEARS LATER is a video and sculptural installation, and was first staged at the Fremantle Arts Centre as a commission in response to the 50th anniversary of the City of Fremantle&#8217;s collection of art.</p>",
+          "constellations_primary": [],
+          "constellations_other": [
+            {
+              "id": 256,
+              "name": "Post-9/11",
+              "description": "The attacks on the World Trader Center in New York City on September 11 2001 were viewed on live television by audiences around the world. The effects of the attack have been explored across various forms of media."
+            }
+          ],
+          "recommendations": [],
+          "title_for_label": "<p>Now 7 Years Later</p>",
+          "creator_credit_for_label": "<p>Elvis Richardson</p>",
+          "headline_credit_for_label": "<p>2008</p>",
+          "description": "<p>NOW7 YEARS LATER is a video and sculptural installation, and was first staged at the Fremantle Arts Centre as a commission in response to the 50th anniversary of the City of Fremantle&#8217;s collection of art.</p>",
+          "description_for_label": [
+            "<p>NOW7 YEARS LATER is a video and sculptural installation, and was first staged at the Fremantle Arts Centre as a commission in response to the 50th anniversary of the City of Fremantle&#8217;s collection of art.</p>"
+          ],
+          "credit_line_for_label": "",
+          "details": [],
+          "stats": { "tap_count": 0 },
+          "links": [],
+          "creators_primary": [
+            {
+              "id": 282928,
+              "name": "Elvis Richardson",
+              "creator_id": 73125,
+              "role": "creator",
+              "role_id": 968,
+              "is_primary": true
+            }
+          ],
+          "creators_other": [],
+          "video_links": [],
+          "media_note": null,
+          "images": [
+            {
+              "id": 3263,
+              "image_file": "https://acmi-public-api.s3.amazonaws.com/image/now7yearslater_00002.jpg",
+              "image_file_thumbnail": "https://acmi-public-api.s3.amazonaws.com/image/now7yearslater_00002.jpg.1200x1200_q85.jpg",
+              "image_file_xs": "https://acmi-public-api.s3.amazonaws.com/image/now7yearslater_00002.jpg.480x480_q85.jpg",
+              "image_file_s": "https://acmi-public-api.s3.amazonaws.com/image/now7yearslater_00002.jpg.960x960_q85.jpg",
+              "image_file_m": "https://acmi-public-api.s3.amazonaws.com/image/now7yearslater_00002.jpg.1920x1920_q85.jpg",
+              "image_file_l": "https://acmi-public-api.s3.amazonaws.com/image/now7yearslater_00002.jpg.3840x3840_q85.jpg",
+              "caption": "",
+              "credit_line": "",
+              "alt_text": "",
+              "width": 1242,
+              "height": 700,
+              "access_level": "View anywhere"
+            }
+          ],
+          "videos": [],
+          "holdings": [],
+          "part_of": null,
+          "parts": [],
+          "part_siblings": [],
+          "group": null,
+          "group_works": [],
+          "group_siblings": [],
+          "source": null,
+          "source_identifier": null,
+          "production_places": [],
+          "production_dates": [{ "notes": "", "to_year": "2008" }],
+          "labels": [46830]
+        }
+      },
+      {
+        "_index": "works",
+        "_type": "_doc",
+        "_id": "107345",
+        "_score": 3.8450694,
+        "_source": {
+          "id": 107345,
+          "acmi_id": "xos-107345",
+          "title": "Budjerri Dyillagami: Peggeralin",
+          "title_annotation": "",
+          "slug": "budjerri-dyillagami-peggeralin",
+          "creator_credit": "Peter Waples-Crowe",
+          "credit_line": "",
+          "headline_credit": "Australia, 2019",
+          "thumbnail": {
+            "image_url": "https://acmi-public-api.s3.amazonaws.com/image/peter_waples_crowe.png.1200x1200_q85.png",
+            "has_video": false
+          },
+          "record_type": "work",
+          "type": "Video",
+          "is_on_display": false,
+          "last_on_display_place": null,
+          "last_on_display_date": null,
+          "is_context_indigenous": false,
+          "material_description": "",
+          "unpublished": false,
+          "first_production_date": "2019-01-01T11:00:00+11:00",
+          "brief_description": "<p>A video artwork by Ngarigo artist Peter Waples-Crowe in collaboration with Glynn Urquhart.</p>",
+          "constellations_primary": [],
+          "constellations_other": [
+            {
+              "id": 257,
+              "name": "Broadcasting marginal voices",
+              "description": "The creation of Indigenous broadcasting in Central Australia from the late 1970s meant an array of diverse Black stories could be shared. Today, important stories told by those who physically and metaphorically live on the margins can be broadcast widely."
+            }
+          ],
+          "recommendations": [],
+          "title_for_label": "<p>Budjerri Dyillagami: Peggeralin</p>",
+          "creator_credit_for_label": "<p>Peter Waples-Crowe</p>",
+          "headline_credit_for_label": "<p>Australia, 2019</p>",
+          "description": "<p>A video artwork by Ngarigo artist Peter Waples-Crowe in collaboration with Glynn Urquhart.</p>",
+          "description_for_label": [
+            "<p>A video artwork by Ngarigo artist Peter Waples-Crowe in collaboration with Glynn Urquhart.</p>"
+          ],
+          "credit_line_for_label": "",
+          "details": [],
+          "stats": { "tap_count": 0 },
+          "links": [],
+          "creators_primary": [
+            {
+              "id": 282926,
+              "name": "Peter Waples-Crowe",
+              "creator_id": 73123,
+              "role": "creator",
+              "role_id": 968,
+              "is_primary": true
+            }
+          ],
+          "creators_other": [],
+          "video_links": [],
+          "media_note": null,
+          "images": [
+            {
+              "id": 3268,
+              "image_file": "https://acmi-public-api.s3.amazonaws.com/image/peter_waples_crowe.png",
+              "image_file_thumbnail": "https://acmi-public-api.s3.amazonaws.com/image/peter_waples_crowe.png.1200x1200_q85.png",
+              "image_file_xs": "https://acmi-public-api.s3.amazonaws.com/image/peter_waples_crowe.png.480x480_q85.png",
+              "image_file_s": "https://acmi-public-api.s3.amazonaws.com/image/peter_waples_crowe.png.960x960_q85.png",
+              "image_file_m": "https://acmi-public-api.s3.amazonaws.com/image/peter_waples_crowe.png.1920x1920_q85.png",
+              "image_file_l": "https://acmi-public-api.s3.amazonaws.com/image/peter_waples_crowe.png.3840x3840_q85.png",
+              "caption": "",
+              "credit_line": "",
+              "alt_text": "",
+              "width": 2500,
+              "height": 1401,
+              "access_level": "View anywhere"
+            }
+          ],
+          "videos": [],
+          "holdings": [],
+          "part_of": null,
+          "parts": [],
+          "part_siblings": [],
+          "group": null,
+          "group_works": [],
+          "group_siblings": [],
+          "source": null,
+          "source_identifier": null,
+          "production_places": [
+            { "id": 3, "name": "Australia", "slug": "australia" }
+          ],
+          "production_dates": [{ "notes": "", "to_year": "2019" }],
+          "labels": [46836]
+        }
+      }
+    ]
+  }
+}

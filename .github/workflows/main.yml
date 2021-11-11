@@ -1,0 +1,159 @@
+name: ACMI API CI
+
+on: [push]
+
+env:
+  DOCKER_USERNAME: ${{ secrets.DOCKER_USERNAME }}
+  DOCKER_PASSWORD: ${{ secrets.DOCKER_PASSWORD }}
+  DOCKER_REPOSITORY: acmilabs/acmi-api
+  DOCKER_IMAGE_TAG: ${{ github.sha }}
+
+jobs:
+  build-api:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Cancel previous runs
+        uses: styfle/cancel-workflow-action@0.4.0
+        with:
+          access_token: ${{ github.token }}
+
+      - uses: actions/checkout@v2
+      - name: Build standard image (cached)
+        if: success()
+        uses: whoan/docker-build-with-cache-action@v4
+        with:
+          username: "${{ secrets.DOCKER_USERNAME }}"
+          password: "${{ secrets.DOCKER_PASSWORD }}"
+          image_name: "${{ env.DOCKER_REPOSITORY }}"
+          image_tag: "${{ env.DOCKER_IMAGE_TAG }}"
+          build_extra_args: "--compress=true"
+
+      - name: cancel entire action if failed
+        if: failure()
+        uses: andymckay/cancel-action@0.2
+
+  build-and-test-python:
+    runs-on: ubuntu-latest
+
+    steps:
+    - uses: actions/checkout@v2
+    - name: Build Python lint and test
+      run: |
+        cp config.tmpl.env config.env
+        cd development && docker-compose -f docker-compose-base.yml up --build -d
+
+    - name: Run Python lint and test
+      run: docker exec api make linttest
+
+    - name: cancel entire action if failed
+      if: failure()
+      uses: andymckay/cancel-action@0.2
+
+  deploy-staging:
+    needs: [build-api, build-and-test-python]
+    if: github.ref == 'refs/heads/main'
+    runs-on: ubuntu-latest
+
+    env:
+      CONTEXT: acmi-prod
+      K8S_ENV: xos-api-stg
+      DEPLOY_TAG: staging
+
+    steps:
+      - uses: actions/checkout@v2
+
+      - name: Login to Docker Hub
+        if: success()
+        uses: actions-hub/docker/login@master
+
+      - name: Pull from Docker registry
+        if: success()
+        uses: actions-hub/docker@master
+        with:
+          args: pull ${DOCKER_REPOSITORY}:${DOCKER_IMAGE_TAG}
+
+      - name: Tag ${{ env.DEPLOY_TAG }} image
+        run: docker tag ${DOCKER_REPOSITORY}:${DOCKER_IMAGE_TAG} ${DOCKER_REPOSITORY}:${DEPLOY_TAG}
+
+      - name: Push ${{ env.DEPLOY_TAG }} tag to Docker registry
+        if: success()
+        uses: actions-hub/docker@master
+        with:
+          args: push ${DOCKER_REPOSITORY}:${DEPLOY_TAG}
+
+      - name: Log in to AKS and set ${{ env.CONTEXT }} cluster
+        uses: azure/aks-set-context@v1
+        with:
+            creds: '${{ secrets.AZURE_CREDENTIALS }}'
+            resource-group: 'ACMI_DEVOPS'
+            cluster-name: '${{ env.CONTEXT }}'
+        id: login
+
+      - name: Prepare for deployment
+        if: success()
+        run: |
+          sed -i -- "s/BUILD_NUMBER/${DOCKER_IMAGE_TAG}/g" kubernetes/api.yml
+          kubectl config set-context ${CONTEXT} --namespace=${K8S_ENV} && kubectl config use-context ${CONTEXT}
+
+      - name: Dry-run deploy to ${{ env.DEPLOY_TAG }}
+        if: success()
+        run: kubectl apply --namespace=${K8S_ENV} -f kubernetes/api.yml --dry-run=true
+
+      - name: Deploy to ${{ env.DEPLOY_TAG }}
+        if: success()
+        run: kubectl apply --namespace=${K8S_ENV} -f kubernetes/api.yml
+
+  deploy-production:  # Do the same things as the staging release, but to the production namespace.
+    needs: [build-api, build-and-test-python]
+    if: contains(github.ref, 'prodrelease')
+    runs-on: ubuntu-latest
+
+    env:
+      CONTEXT: acmi-prod
+      K8S_ENV: xos-api-prod
+      DEPLOY_TAG: production
+
+    steps:
+      - uses: actions/checkout@v2
+
+      - name: Login to Docker Hub
+        if: success()
+        uses: actions-hub/docker/login@master
+
+      - name: Pull from Docker registry
+        if: success()
+        uses: actions-hub/docker@master
+        with:
+          args: pull ${DOCKER_REPOSITORY}:${DOCKER_IMAGE_TAG}
+
+      - name: Tag ${{ env.DEPLOY_TAG }} image
+        run: docker tag ${DOCKER_REPOSITORY}:${DOCKER_IMAGE_TAG} ${DOCKER_REPOSITORY}:${DEPLOY_TAG}
+
+      - name: Push ${{ env.DEPLOY_TAG }} tag to Docker registry
+        if: success()
+        uses: actions-hub/docker@master
+        with:
+          args: push ${DOCKER_REPOSITORY}:${DEPLOY_TAG}
+
+      - name: Log in to AKS and set ${{ env.CONTEXT }} cluster
+        uses: azure/aks-set-context@v1
+        with:
+            creds: '${{ secrets.AZURE_CREDENTIALS }}'
+            resource-group: 'ACMI_DEVOPS'
+            cluster-name: '${{ env.CONTEXT }}'
+        id: login
+
+      - name: Prepare for deployment
+        if: success()
+        run: |
+          sed -i -- "s/BUILD_NUMBER/${DOCKER_IMAGE_TAG}/g" kubernetes/api.yml
+          kubectl config set-context ${CONTEXT} --namespace=${K8S_ENV} && kubectl config use-context ${CONTEXT}
+
+      - name: Dry-run deploy to ${{ env.DEPLOY_TAG }}
+        if: success()
+        run: kubectl apply --namespace=${K8S_ENV} -f kubernetes/api.yml --dry-run=true
+
+      - name: Deploy to ${{ env.DEPLOY_TAG }}
+        if: success()
+        run: kubectl apply --namespace=${K8S_ENV} -f kubernetes/api.yml

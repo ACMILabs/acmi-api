@@ -1,0 +1,16 @@
+{
+    "count": 2,
+    "next": null,
+    "previous": "https://api.acmi.net.au/works/?page=1",
+    "results": [
+        {
+            "id": 2,
+            "unpublished": true,
+            "result": "Results from XOS appear here...",
+            "thumbnail": {
+                "image_url": "https://xos-prod-media.s3.amazonaws.com/media/collection/image/image-to-delete.jpg?AWSAccessKeyId=AKIA5NFUCQMTAGFRUMVA&Signature=lrQNOEMlPMxs5gV8niTDNWPGhGs%3D&Expires=1628060041",
+                "has_video": false
+            }
+        }
+    ]
+}
