@@ -362,6 +362,7 @@ class XOSAPI():
         while True:
             works_json = self.get(resource, params).json()
             works_json = self.update_assets(works_json)
+            self.remove_external_works(resource, works_json, params.get('page'))
             self.save_works_list(resource, works_json, params.get('page'))
             works_saved += self.save_works(resource, works_json)
             if not works_json.get('next'):
@@ -405,6 +406,7 @@ class XOSAPI():
             work_resource = os.path.join(f'{resource}/', work_id)
             work_json = self.get(resource=work_resource).json()
             work_json = self.update_assets(work_json)
+            self.remove_external_works(resource, work_json, None)
             json_directory = os.path.join(JSON_ROOT, resource)
             Path(json_directory).mkdir(parents=True, exist_ok=True)
             json_file_path = os.path.join(json_directory, f'{work_id}.json')
@@ -461,6 +463,7 @@ class XOSAPI():
         while True:
             works_json = self.get(resource, params).json()
             works_json = self.update_assets(works_json)
+            self.remove_external_works(resource, works_json, params.get('page'))
             self.save_works_list(resource, works_json, params.get('page'))
             if not works_json.get('next'):
                 break
@@ -537,6 +540,66 @@ class XOSAPI():
             for work in work_json.get('results'):
                 work.pop(asset, None)
                 self.remove_all_thumbnails(work)
+
+    def remove_external_works(self, resource, work_json, file_path):
+        """
+        Remove external works from the group_siblings field.
+        e.g. records where the acmi_id starts with AEO, LN, or P.
+        Note: we want to fix this in the XOS external=false filter
+        but for now let's do it here for launch.
+        """
+        match = False
+        loaned_work_prefixes = [
+            'AEO',
+            'LN',
+            'P',
+        ]
+        if work_json.get('id'):
+            # Individual record
+            for sibling in work_json['group_siblings'][:]:  # [:] creates a copy
+                for prefix in loaned_work_prefixes:
+                    if sibling['acmi_id'].startswith(prefix):
+                        print(
+                            f'Removing group sibling: {sibling["id"]}, '
+                            f'ACMI ID: {sibling["acmi_id"]} from: {work_json["id"]}'
+                        )
+                        work_json['group_siblings'].remove(sibling)
+                        match = True
+            if DEBUG and match:
+                print(f'Saving {file_path}')
+                json_directory = os.path.join(JSON_ROOT, resource)
+                Path(json_directory).mkdir(parents=True, exist_ok=True)
+                with open(file_path, 'w', encoding='utf-8') as json_file:
+                    json.dump(work_json, json_file, ensure_ascii=False, indent=None)
+        else:
+            # Index page of records
+            for work in work_json['results']:
+                for sibling in work['group_siblings'][:]:  # [:] creates a copy
+                    for prefix in loaned_work_prefixes:
+                        if sibling['acmi_id'].startswith(prefix):
+                            print(
+                                f'Removing group sibling: {sibling["id"]}, '
+                                f'ACMI ID: {sibling["acmi_id"]} from: {work["id"]} {file_path}'
+                            )
+                            work['group_siblings'].remove(sibling)
+                            match = True
+            if DEBUG and match:
+                print(f'Saving {file_path}')
+                json_directory = os.path.join(JSON_ROOT, resource)
+                Path(json_directory).mkdir(parents=True, exist_ok=True)
+                with open(file_path, 'w', encoding='utf-8') as json_file:
+                    json.dump(work_json, json_file, ensure_ascii=False, indent=None)
+
+    def _remove_external_works_from_filesystem(self):
+        """
+        Remove external works from the filesystem without downloading new
+        data from the XOS private API.
+        """
+        file_paths = glob.glob(f'{os.path.join(JSON_ROOT, "works")}/*.json')
+        print(f'Found {len(file_paths)} files...')
+        for file_path in file_paths:
+            with open(file_path, 'rb') as json_file:
+                self.remove_external_works('works', json.load(json_file), file_path)
 
     def remove_all_thumbnails(self, work_json):
         """
