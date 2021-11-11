@@ -550,3 +550,76 @@ def test_strings_from_list():
     assert string == '1,2,7,9'
     string = XOSAPI().strings_from_list(666)
     assert string == ''
+
+
+def test_remove_external_works():
+    """
+    Test removing external works removes siblings with an acmi_id
+    prefix of AEO, LN or P from group_siblings.
+    """
+    xos_private_api = XOSAPI()
+    work_json = {
+        'id': 119669,
+        'group_siblings': [
+            {
+                'id': 123,
+                'acmi_id': 'AEO123',
+            },
+            {
+                'id': 124,
+                'acmi_id': 'LN124',
+            },
+            {
+                'id': 125,
+                'acmi_id': 'P125',
+            },
+            {
+                'id': 126,
+                'acmi_id': '126',
+            }
+        ]
+    }
+    assert len(work_json['group_siblings']) == 4
+    xos_private_api.remove_external_works(work_json)
+    assert len(work_json['group_siblings']) == 1
+    assert work_json['group_siblings'][0]['id'] == 126
+
+    works_json = {
+        'results': [
+            {
+                'id': 119669,
+                'group_siblings': [
+                    {
+                        'id': 123,
+                        'acmi_id': 'AEO123',
+                    },
+                    {
+                        'id': 126,
+                        'acmi_id': '126',
+                    }
+                ]
+            },
+            {
+                'id': 119670,
+                'group_siblings': [
+                    {
+                        'id': 124,
+                        'acmi_id': 'LN124',
+                    },
+                    {
+                        'id': 128,
+                        'acmi_id': '128',
+                    }
+                ]
+            }
+        ]
+    }
+    assert len(works_json['results']) == 2
+    assert len(works_json['results'][0]['group_siblings']) == 2
+    assert len(works_json['results'][1]['group_siblings']) == 2
+    xos_private_api.remove_external_works(works_json)
+    assert len(works_json['results']) == 2
+    assert len(works_json['results'][0]['group_siblings']) == 1
+    assert works_json['results'][0]['group_siblings'][0]['id'] == 126
+    assert len(works_json['results'][1]['group_siblings']) == 1
+    assert works_json['results'][1]['group_siblings'][0]['id'] == 128
