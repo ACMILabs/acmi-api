@@ -330,7 +330,7 @@ class XOSAPI():
         """
         endpoint = os.path.join(self.uri, f'{resource}/')
         if not params:
-            params = self.params
+            params = self.params.copy()
         retries = 0
         while retries < 3:
             try:
@@ -351,7 +351,7 @@ class XOSAPI():
         Download and save Works from XOS.
         """
         resource = 'works'
-        params = self.params
+        params = self.params.copy()
         if ALL_WORKS:
             print('Downloading all XOS Works... this will take a while')
         else:
@@ -420,7 +420,7 @@ class XOSAPI():
         Delete unpublished Works from the file system.
         """
         resource = 'works'
-        params = self.params
+        params = self.params.copy()
         params['unpublished'] = True
         if ALL_WORKS:
             print('Deleting all unpublished XOS Works...')
@@ -458,7 +458,7 @@ class XOSAPI():
         Download and save all Works list pages from XOS.
         """
         print(f'Saving all {resource} list index files...')
-        params = self.params
+        params = self.params.copy()
         params['page'] = 1
         while True:
             works_json = self.get(resource, params).json()
