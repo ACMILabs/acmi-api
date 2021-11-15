@@ -247,6 +247,25 @@ def test_delete_works(tmp_path):
     assert not os.path.isfile(acmi_api.JSON_ROOT / 'works/2.json')
 
 
+@patch('requests.get', MagicMock(side_effect=mocked_requests_get))
+@patch('app.api.s3_resource.Object', MagicMock(side_effect=mock_boto3))
+def test_xos_api_params():
+    """
+    Test the default XOSAPI params aren't mutated by method calls.
+    """
+    params = {
+        'page_size': 10,
+        'unpublished': False,
+        'external': False,
+    }
+    xos_private_api = XOSAPI()
+    assert xos_private_api.params == params
+    xos_private_api.get_works()
+    assert xos_private_api.params == params
+    xos_private_api.delete_works()
+    assert xos_private_api.params == params
+
+
 @patch('app.api.s3_resource.Object', MagicMock(side_effect=mock_boto3))
 @patch('app.api.destination_bucket', MagicMock())
 def test_update_assets():
