@@ -240,11 +240,27 @@ def test_delete_works(tmp_path):
     assert os.path.isfile(acmi_api.JSON_ROOT / 'works/index_page_2.json')
     assert os.path.isfile(acmi_api.JSON_ROOT / 'works/1.json')
     assert os.path.isfile(acmi_api.JSON_ROOT / 'works/2.json')
-    xos_private_api.delete_works()
-    assert os.path.isfile(acmi_api.JSON_ROOT / 'works/index.json')
-    assert os.path.isfile(acmi_api.JSON_ROOT / 'works/index_page_2.json')
-    assert os.path.isfile(acmi_api.JSON_ROOT / 'works/1.json')
-    assert not os.path.isfile(acmi_api.JSON_ROOT / 'works/2.json')
+    with patch('elasticsearch.Elasticsearch.delete', MagicMock()) as mock_search_delete:
+        xos_private_api.delete_works()
+        assert os.path.isfile(acmi_api.JSON_ROOT / 'works/index.json')
+        assert os.path.isfile(acmi_api.JSON_ROOT / 'works/index_page_2.json')
+        assert os.path.isfile(acmi_api.JSON_ROOT / 'works/1.json')
+        assert not os.path.isfile(acmi_api.JSON_ROOT / 'works/2.json')
+        assert mock_search_delete.call_args[1]['index'] == 'works'
+        assert mock_search_delete.call_args[1]['id'] == '2'
+
+    search_delete_error = elasticsearch.exceptions.ConnectionError()
+    search_delete_error.args = (500, 'Error', {})
+    with patch(
+        'elasticsearch.Elasticsearch.delete',
+        MagicMock(
+            side_effect=search_delete_error,
+        ),
+    ) as mock_search_delete:
+        xos_private_api.get_works()
+        assert os.path.isfile(acmi_api.JSON_ROOT / 'works/2.json')
+        xos_private_api.delete_works()
+        assert not os.path.isfile(acmi_api.JSON_ROOT / 'works/2.json')
 
 
 @patch('app.api.s3_resource.Object', MagicMock(side_effect=mock_boto3))

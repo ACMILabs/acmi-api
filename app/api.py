@@ -284,6 +284,26 @@ class Search():
             print(f'ERROR indexing {json_data.get("id")}: {exception}')
             return success
 
+    def delete(self, resource, work_id):
+        """
+        Delete the search index for a single record.
+        """
+        success = False
+        try:
+            self.elastic_search.delete(
+                index=resource,
+                id=work_id,
+            )
+            success = True
+            return success
+        except (
+            elasticsearch.exceptions.RequestError,
+            elasticsearch.exceptions.ConnectionTimeout,
+            elasticsearch.exceptions.ConnectionError,
+        ) as exception:
+            print(f'ERROR deleting the index for {work_id}: {exception}')
+            return success
+
     def update_index(self, resource):
         """
         Update the search index for an API resource. e.g. 'works'
@@ -422,6 +442,7 @@ class XOSAPI():
         resource = 'works'
         params = self.params
         params['unpublished'] = True
+        elastic_search = Search()
         if ALL_WORKS:
             print('Deleting all unpublished XOS Works...')
         else:
@@ -450,6 +471,8 @@ class XOSAPI():
                     f'Error: couldn\'t delete {exception.filename} '
                     f'with error: {exception.strerror}'
                 )
+            # Remove the Work from the search index
+            elastic_search.delete(resource, work_id)
 
         print(f'Finished deleting {works_deleted}/{len(work_ids_to_delete)} {resource}.')
 
