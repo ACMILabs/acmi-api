@@ -262,6 +262,17 @@ def test_delete_works(tmp_path):
         xos_private_api.delete_works()
         assert not os.path.isfile(acmi_api.JSON_ROOT / 'works/2.json')
 
+    search_delete_error = elasticsearch.exceptions.NotFoundError()
+    search_delete_error.args = (404, 'NotFoundError', {})
+    with patch(
+        'elasticsearch.Elasticsearch.delete',
+        MagicMock(
+            side_effect=search_delete_error,
+        ),
+    ) as mock_search_delete:
+        xos_private_api.delete_works()
+        assert not os.path.isfile(acmi_api.JSON_ROOT / 'works/2.json')
+
 
 @patch('requests.get', MagicMock(side_effect=mocked_requests_get))
 @patch('app.api.s3_resource.Object', MagicMock(side_effect=mock_boto3))
