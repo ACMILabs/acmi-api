@@ -300,6 +300,7 @@ class Search():
             elasticsearch.exceptions.RequestError,
             elasticsearch.exceptions.ConnectionTimeout,
             elasticsearch.exceptions.ConnectionError,
+            elasticsearch.exceptions.NotFoundError,
         ) as exception:
             print(f'ERROR deleting the index for {work_id}: {exception}')
             return success
