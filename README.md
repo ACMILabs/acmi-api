@@ -22,6 +22,8 @@ This repository contains a full archive of ACMI collection metadata in TSV (tab 
 
 Find them at: `/app/tsv/`
 
+The [2017 collections TSV](https://github.com/ACMILabs/collection/blob/master/src/collections_data.tsv) can be found in the deprecated repository: [github.com/ACMILabs/collection](https://github.com/ACMILabs/collection)
+
 ### Assets
 
 Image and video assets will be found in the public S3 bucket when we have arranged suitable licenses with our partners: `s3://acmi-public-api`
