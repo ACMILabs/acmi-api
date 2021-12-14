@@ -98,7 +98,7 @@ jobs:
 
       - name: Dry-run deploy to ${{ env.DEPLOY_TAG }}
         if: success()
-        run: kubectl apply --namespace=${K8S_ENV} -f kubernetes/api.yml --dry-run=true
+        run: kubectl apply --namespace=${K8S_ENV} -f kubernetes/api.yml --dry-run=client
 
       - name: Deploy to ${{ env.DEPLOY_TAG }}
         if: success()
@@ -152,7 +152,7 @@ jobs:
 
       - name: Dry-run deploy to ${{ env.DEPLOY_TAG }}
         if: success()
-        run: kubectl apply --namespace=${K8S_ENV} -f kubernetes/api.yml --dry-run=true
+        run: kubectl apply --namespace=${K8S_ENV} -f kubernetes/api.yml --dry-run=client
 
       - name: Deploy to ${{ env.DEPLOY_TAG }}
         if: success()
