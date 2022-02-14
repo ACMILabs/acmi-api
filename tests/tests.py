@@ -85,13 +85,13 @@ def mock_search(index=None, body=None, q=None, params=None):  # pylint: disable=
     Mock Elasticsearch responses.
     """
     if q == '404':
-        raise elasticsearch.exceptions.NotFoundError
+        raise elasticsearch.exceptions.NotFoundError(message='', meta=MagicMock(), body='')
     if q == '400':
-        raise elasticsearch.exceptions.RequestError
+        raise elasticsearch.exceptions.RequestError(message='', meta=MagicMock(), body={})
     if q == '503':
-        raise elasticsearch.exceptions.ConnectionError
+        raise elasticsearch.exceptions.ConnectionError(message='')
     if q == '504':
-        raise elasticsearch.exceptions.ConnectionTimeout
+        raise elasticsearch.exceptions.ConnectionTimeout(message='')
     if q and not body:
         with open(
             f'tests/data/search_{index}_{q}_{params["size"]}_{params["from"]}.json',
@@ -106,7 +106,7 @@ def mock_search(index=None, body=None, q=None, params=None):  # pylint: disable=
             'rb',
         ) as json_file:
             return json.loads(json_file.read())
-    raise elasticsearch.exceptions.NotFoundError
+    raise elasticsearch.exceptions.NotFoundError(message='', meta=MagicMock(), body='')
 
 
 def test_api_root():
@@ -249,7 +249,7 @@ def test_delete_works(tmp_path):
         assert mock_search_delete.call_args[1]['index'] == 'works'
         assert mock_search_delete.call_args[1]['id'] == '2'
 
-    search_delete_error = elasticsearch.exceptions.ConnectionError()
+    search_delete_error = elasticsearch.exceptions.ConnectionError(message='')
     search_delete_error.args = (500, 'Error', {})
     with patch(
         'elasticsearch.Elasticsearch.delete',
@@ -262,7 +262,11 @@ def test_delete_works(tmp_path):
         xos_private_api.delete_works()
         assert not os.path.isfile(acmi_api.JSON_ROOT / 'works/2.json')
 
-    search_delete_error = elasticsearch.exceptions.NotFoundError()
+    search_delete_error = elasticsearch.exceptions.NotFoundError(
+        message='',
+        meta=MagicMock(),
+        body={},
+    )
     search_delete_error.args = (404, 'NotFoundError', {})
     with patch(
         'elasticsearch.Elasticsearch.delete',
