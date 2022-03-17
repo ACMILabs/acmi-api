@@ -536,7 +536,7 @@ def test_generate_tsv(tmp_path):
     with open(f'{acmi_api.TSV_ROOT}/data.tsv', encoding='utf-8') as tsv_file:
         reader = csv.reader(tsv_file, delimiter='\t')
         header = next(reader)
-        assert len(header) == 47
+        assert len(header) == 49
         assert header[0] == 'id'
         row_count = 0
         for _ in reader:
@@ -594,6 +594,32 @@ def test_strings_from_list():
     your_list = [1, 2, 7, 9]
     string = XOSAPI().strings_from_list(your_list)
     assert string == '1,2,7,9'
+    string = XOSAPI().strings_from_list(666)
+    assert string == ''
+
+
+def test_external_references_to_string():
+    """
+    Test the external_references_to_string method returns the correct data.
+    """
+    external_references = [
+        {
+            'source': {
+                'name': 'Wikidata',
+                'slug': 'wikidata',
+            },
+            'source_identifier': 'Q101096725',
+        },
+        {
+            'source': {
+                'name': 'TMDB-TV',
+                'slug': 'tmdb-tv',
+            },
+            'source_identifier': '95396',
+        },
+    ]
+    string = XOSAPI().external_references_to_string(external_references)
+    assert string == '(Wikidata,Q101096725),(TMDB-TV,95396)'
     string = XOSAPI().strings_from_list(666)
     assert string == ''
 

@@ -709,6 +709,8 @@ class XOSAPI():
                 'production_places',
                 'production_dates',
                 'labels',
+                'eaas_environment_id',
+                'external_references',
             ])
 
             files_written = 0
@@ -766,6 +768,10 @@ class XOSAPI():
                             self.keys_from_dicts('name', json_data.get('production_places')),
                             self.keys_from_dicts('date', json_data.get('production_dates')),
                             self.strings_from_list(json_data.get('labels')),
+                            json_data.get('eaas_environment_id'),
+                            self.external_references_to_string(
+                                json_data.get('external_references')
+                            ),
                         ])
                         files_written += 1
                 if files_written % 1000 == 0:
@@ -796,6 +802,18 @@ class XOSAPI():
         """
         try:
             return ','.join(str(label) for label in your_list)
+        except TypeError:
+            return ''
+
+    def external_references_to_string(self, external_references):
+        """
+        Return a comma separated string of tuples from a list of external references.
+        """
+        try:
+            return ','.join([
+                f'({reference["source"]["name"]},{reference["source_identifier"]})'
+                for reference in external_references
+            ])
         except TypeError:
             return ''
 
