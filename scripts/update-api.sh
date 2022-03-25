@@ -12,7 +12,9 @@ if [ "$CRON_UPDATER" = "true" ]; then
     else
         git pull
         git checkout main
-        git pull
+        # Get the repo history to avoid to following error when pushing large commits
+        # error: pack-objects died of signal 9
+        git fetch --unshallow
     fi
 
     # Update API
