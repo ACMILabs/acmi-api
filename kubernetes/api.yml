@@ -49,8 +49,8 @@ spec:
             memory: 600Mi
             cpu: 400m
           limits:
-            memory: 2000Mi
-            cpu: 2000m
+            memory: 1400Mi
+            cpu: 1000m
         env:
           - name: AWS_ACCESS_KEY_ID
             valueFrom:
