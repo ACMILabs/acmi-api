@@ -24,7 +24,7 @@ if [ "$CRON_UPDATER" = "true" ]; then
     export UPDATE_WORKS=false
 
     # Check for git changes
-    export GIT_DIFF=$(git diff | grep "app/json/works/index.json")
+    export GIT_DIFF=$(git diff | grep "app/json")
     if [ -n "$GIT_DIFF" ]; then
         echo "API updates found..."
         # Commit, and push changes

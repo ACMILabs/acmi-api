@@ -5,6 +5,7 @@ from unittest.mock import MagicMock, mock_open, patch
 
 import botocore
 import elasticsearch
+import pytest
 import requests
 
 import app.api as acmi_api
@@ -514,14 +515,14 @@ def test_search_api_results_failures():
 
 def test_xos_private_api_retries(tmp_path):
     """
-    Test the XOS private API interface retries 3 times before failing gracefully.
+    Test the XOS private API interface retries 3 times before raising an exception.
     """
     with patch('requests.get', MagicMock(side_effect=requests.exceptions.ReadTimeout)) as mock_get:
         acmi_api.JSON_ROOT = tmp_path
         xos_private_api = XOSAPI()
-        response = xos_private_api.get('works')
-        assert not response
-        assert mock_get.call_count == 3
+        with pytest.raises(requests.exceptions.ReadTimeout):
+            xos_private_api.get('works')
+            assert mock_get.call_count == 3
 
 
 def test_generate_tsv(tmp_path):

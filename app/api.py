@@ -24,6 +24,8 @@ ALL_WORKS = os.getenv('ALL_WORKS', 'false').lower() == 'true'
 UPDATE_SEARCH = os.getenv('UPDATE_SEARCH', 'false').lower() == 'true'
 ACMI_API_ENDPOINT = os.getenv('ACMI_API_ENDPOINT', 'https://api.acmi.net.au')
 XOS_API_ENDPOINT = os.getenv('XOS_API_ENDPOINT', None)
+XOS_RETRIES = int(os.getenv('XOS_RETRIES', '3'))
+XOS_TIMEOUT = int(os.getenv('XOS_TIMEOUT', '60'))
 SITE_ROOT = os.path.realpath(os.path.dirname(__file__))
 JSON_ROOT = os.path.join(SITE_ROOT, 'json/')
 TSV_ROOT = os.path.join(SITE_ROOT, 'tsv/')
@@ -353,9 +355,9 @@ class XOSAPI():
         if not params:
             params = self.params.copy()
         retries = 0
-        while retries < 3:
+        while retries < XOS_RETRIES:
             try:
-                response = requests.get(url=endpoint, params=params, timeout=30)
+                response = requests.get(url=endpoint, params=params, timeout=XOS_TIMEOUT)
                 response.raise_for_status()
                 return response
             except (
@@ -363,8 +365,13 @@ class XOSAPI():
                 requests.exceptions.ConnectionError,
                 requests.exceptions.ReadTimeout,
             ) as exception:
-                print(f'ERROR: couldn\'t get {endpoint} with exception: {exception}... retrying')
+                print(
+                    f'ERROR: couldn\'t get {endpoint} with params: {params}, '
+                    f'exception: {exception}... retrying',
+                )
                 retries += 1
+                if retries == XOS_RETRIES:
+                    raise exception
         return None
 
     def get_works(self):
