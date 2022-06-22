@@ -2,6 +2,7 @@
 
 if [ "$CRON_UPDATER" = "true" ]; then
     set -e
+    ulimit -s 65536
 
     echo "Starting ACMI public API updater..."
 
