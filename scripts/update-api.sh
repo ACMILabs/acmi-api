@@ -11,11 +11,9 @@ if [ "$CRON_UPDATER" = "true" ]; then
     if [ "$DRY_RUN" = "true" ]; then
         echo "DRY_RUN Not checking out main branch..."
     else
-        git pull
+        # Sanity check we're on the main branch and up to date
+        git pull origin main
         git checkout main
-        # Get the repo history to avoid to following error when pushing large commits
-        # error: pack-objects died of signal 9
-        git fetch --unshallow
     fi
 
     # Update API
