@@ -82,6 +82,7 @@ class API(Resource):
         for route in application.url_map.iter_rules():
             if 'static' not in str(route) and str(route) != '/':
                 routes.append(str(route))
+        routes.sort()
         return routes
 
 
