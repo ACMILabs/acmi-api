@@ -24,6 +24,12 @@ class MockResponse:
         return None
 
 
+class NoDataException(Exception):
+    """
+    This exception is raised when we don't have mocked sample data for this request.
+    """
+
+
 def mocked_requests_get(*args, **kwargs):
     if kwargs['url'] == 'https://xos.acmi.net.au/api/works/':
         if kwargs['params'].get('page') == '2':
@@ -41,7 +47,7 @@ def mocked_requests_get(*args, **kwargs):
         with open('tests/data/2.json', 'rb') as json_file:
             return MockResponse(json_file.read(), 200)
 
-    raise Exception("No mocked sample data for request: " + kwargs['url'])
+    raise NoDataException("No mocked sample data for request: " + kwargs['url'])
 
 
 def mock_boto3(_, key):
