@@ -37,7 +37,6 @@ jobs:
         uses: andymckay/cancel-action@0.2
 
   build-and-test-python:
-    needs: [build-api]
     runs-on: ubuntu-latest
 
     steps:
