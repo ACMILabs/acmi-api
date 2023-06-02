@@ -86,6 +86,48 @@ class API(Resource):
         return routes
 
 
+class ConstellationsAPI(Resource):  # pylint: disable=too-few-public-methods
+    """
+    Constellations API. The ACMI Collection.
+    """
+    def get(self):
+        """
+        List public Constellations.
+        """
+        filename = 'index.json'
+        args = request.args
+        try:
+            if args.get('page'):
+                filename = f'index_page_{int(args.get("page"))}.json'
+            json_file_path = os.path.join(JSON_ROOT, 'constellations', filename)
+            with open(json_file_path, 'rb') as json_file:
+                return json.load(json_file)
+        except (FileNotFoundError, ValueError):
+            return {
+                abort(404, message='That Constellations list doesn\'t exist, sorry.')
+            }
+
+
+class ConstellationAPI(Resource):  # pylint: disable=too-few-public-methods
+    """
+    Get an individual Constellation JSON.
+    """
+    def get(self, constellation_id):
+        """
+        Returns the requested Constellation or a 404.
+        """
+        try:
+            json_file_path = os.path.join(
+                JSON_ROOT,
+                'constellations',
+                f'{int(constellation_id)}.json',
+            )
+            with open(json_file_path, 'rb') as json_file:
+                return json.load(json_file)
+        except (FileNotFoundError, ValueError):
+            return abort(404, message='That Constellation doesn\'t exist, sorry.')
+
+
 class WorksAPI(Resource):  # pylint: disable=too-few-public-methods
     """
     Works API. The ACMI Collection.
@@ -144,10 +186,12 @@ class SearchAPI(Resource):  # pylint: disable=too-few-public-methods
                         'size': 'e.g. ?size=2 Search results page size. default: 20, limit: 50',
                         'page': 'e.g. ?page=3 Return this page of the search results',
                         'raw': 'e.g. ?raw=true Return the raw Elasticsearch results',
+                        'resource': 'e.g. ?resource=works Returns only Work search results',
                     }],
                 )
             elastic_search = Search()
-            return elastic_search.search(resource='works', args=request.args)
+            resource = request.args.get('resource', 'works')
+            return elastic_search.search(resource=resource, args=request.args)
         except elasticsearch.exceptions.NotFoundError:
             return abort(404, message='No results found, sorry.')
         except elasticsearch.exceptions.RequestError as exception:
@@ -266,7 +310,7 @@ class Search():
         """
         success = False
         # Remove production_dates.date which elasticsearch can't parse
-        for date in json_data.get('production_dates'):
+        for date in json_data.get('production_dates', []):
             try:
                 date.pop('date')
             except KeyError:
@@ -287,7 +331,7 @@ class Search():
             print(f'ERROR indexing {json_data.get("id")}: {exception}')
             return success
 
-    def delete(self, resource, work_id):
+    def delete(self, resource, item_id):
         """
         Delete the search index for a single record.
         """
@@ -295,7 +339,7 @@ class Search():
         try:
             self.elastic_search.delete(
                 index=resource,
-                id=work_id,
+                id=item_id,
             )
             success = True
             return success
@@ -305,7 +349,7 @@ class Search():
             elasticsearch.exceptions.ConnectionError,
             elasticsearch.exceptions.NotFoundError,
         ) as exception:
-            print(f'ERROR deleting the index for {work_id}: {exception}')
+            print(f'ERROR deleting the index for {item_id}: {exception}')
             return success
 
     def update_index(self, resource):
@@ -392,8 +436,8 @@ class XOSAPI():
             works_json = self.get(resource, params).json()
             works_json = self.update_assets(works_json)
             self.remove_external_works(works_json)
-            self.save_works_list(resource, works_json, params.get('page'))
-            works_saved += self.save_works(resource, works_json)
+            self.save_list(resource, works_json, params.get('page'))
+            works_saved += self.save_items(resource, works_json)
             if not works_json.get('next'):
                 break
             params['page'] = furl(works_json.get('next')).args.get('page')
@@ -403,7 +447,26 @@ class XOSAPI():
             # TODO: Delete old works lists if the collection shrinks # pylint: disable=fixme
             self.save_works_lists(resource)
 
-    def save_works_list(self, resource, works_json, page=None):
+    def get_constellations(self):
+        """
+        Download and save Constellations from XOS.
+        """
+        resource = 'constellations'
+        params = self.params.copy()
+        print('Downloading all XOS Constellations...')
+        params['page'] = 1
+        constellations_saved = 0
+        while True:
+            constellations_json = self.get(resource, params).json()
+            constellations_json = self.update_assets(constellations_json)
+            self.save_list(resource, constellations_json, params.get('page'))
+            constellations_saved += self.save_items(resource, constellations_json)
+            if not constellations_json.get('next'):
+                break
+            params['page'] = furl(constellations_json.get('next')).args.get('page')
+        print(f'Finished downloading {constellations_saved} {resource}.')
+
+    def save_list(self, resource, works_json, page=None):
         """
         Save a list of Works page from XOS.
         """
@@ -425,24 +488,24 @@ class XOSAPI():
             json.dump(works_json, json_file, ensure_ascii=False, indent=None)
             print(f'Saved {resource} index to {json_file_path}')
 
-    def save_works(self, resource, works_json):
+    def save_items(self, resource, items_json):
         """
-        Download and save these individual Works from XOS.
+        Download and save items from XOS.
         """
-        works_saved = 0
-        for result in works_json.get('results'):
-            work_id = str(result.get('id'))
-            work_resource = os.path.join(f'{resource}/', work_id)
-            work_json = self.get(resource=work_resource).json()
-            work_json = self.update_assets(work_json)
-            self.remove_external_works(work_json)
+        items_saved = 0
+        for result in items_json.get('results'):
+            item_id = str(result.get('id'))
+            item_resource = os.path.join(f'{resource}/', item_id)
+            item_json = self.get(resource=item_resource).json()
+            item_json = self.update_assets(item_json)
+            self.remove_external_works(item_json)
             json_directory = os.path.join(JSON_ROOT, resource)
             Path(json_directory).mkdir(parents=True, exist_ok=True)
-            json_file_path = os.path.join(json_directory, f'{work_id}.json')
+            json_file_path = os.path.join(json_directory, f'{item_id}.json')
             with open(json_file_path, 'w', encoding='utf-8') as json_file:
-                json.dump(work_json, json_file, ensure_ascii=False, indent=None)
-            works_saved += 1
-        return works_saved
+                json.dump(item_json, json_file, ensure_ascii=False, indent=None)
+            items_saved += 1
+        return items_saved
 
     def delete_works(self):
         """
@@ -496,18 +559,18 @@ class XOSAPI():
             works_json = self.get(resource, params).json()
             works_json = self.update_assets(works_json)
             self.remove_external_works(works_json)
-            self.save_works_list(resource, works_json, params.get('page'))
+            self.save_list(resource, works_json, params.get('page'))
             if not works_json.get('next'):
                 break
             params['page'] = furl(works_json.get('next')).args.get('page')
 
-    def update_assets(self, work_json, delete=False):
+    def update_assets(self, item_json, delete=False):
         """
         Upload images/videos to a public bucket, and update the links in the json.
         """
         # Upload assets to ACMI public API bucket
         asset_regex = r'(https:\/\/[a-z0-9\-]+\.s3\.amazonaws\.com.*?)\?'
-        assets = re.findall(asset_regex, str(work_json))
+        assets = re.findall(asset_regex, str(item_json))
         for asset in assets:
             source = re.findall(r'https:\/\/(.*?)\.s3', asset)[0]
             key = re.findall(r'\.com/(.*?)$', asset)[0]
@@ -542,36 +605,36 @@ class XOSAPI():
                     )
                 # Replace image/video links with public API bucket links
                 destination_key = requote_uri(destination_key)
-                work_json_string = re.sub(
+                item_json_string = re.sub(
                     rf'"({asset})\?.*?"',
                     f'"https://{AWS_STORAGE_BUCKET_NAME}.s3.amazonaws.com/{destination_key}"',
-                    json.dumps(work_json),
+                    json.dumps(item_json),
                 )
-                work_json = json.loads(work_json_string)
+                item_json = json.loads(item_json_string)
 
         if not INCLUDE_IMAGES:
-            self.remove_assets(work_json, 'images')
+            self.remove_assets(item_json, 'images')
 
         if not INCLUDE_VIDEOS:
-            self.remove_assets(work_json, 'videos')
-            self.remove_video_links(work_json)
+            self.remove_assets(item_json, 'videos')
+            self.remove_video_links(item_json)
 
-        return work_json
+        return item_json
 
-    def remove_assets(self, work_json, asset):
+    def remove_assets(self, item_json, asset):
         """
         Remove assets from the API.
         """
 
-        if work_json.get('id'):
+        if item_json.get('id'):
             # Individual record
-            work_json.pop(asset, None)
-            self.remove_all_thumbnails(work_json)
+            item_json.pop(asset, None)
+            self.remove_all_thumbnails(item_json)
         else:
             # Index page of records
-            for work in work_json.get('results'):
-                work.pop(asset, None)
-                self.remove_all_thumbnails(work)
+            for item in item_json.get('results'):
+                item.pop(asset, None)
+                self.remove_all_thumbnails(item)
 
     def remove_external_works(self, work_json):
         """
@@ -610,32 +673,42 @@ class XOSAPI():
         except KeyError:
             pass
 
-    def remove_all_thumbnails(self, work_json):
+    def remove_all_thumbnails(self, item_json):  # pylint: disable=too-many-branches
         """
-        Remove all thumbnails from a Work JSON, including group works etc.
+        Remove all thumbnails from an item JSON, including group works etc.
         Because we don't know whether a related Work has thumbnails from
         a video or an image, let's be overly conservative and remove them
         all when either INCLUDE_IMAGES or INCLUDE_VIDEOS is False.
         """
-        work_json.pop('thumbnail', None)
+        item_json.pop('thumbnail', None)
 
-        if work_json.get('group'):
-            work_json['group'].pop('thumbnail', None)
-        if work_json.get('group_works'):
-            for work in work_json.get('group_works'):
+        if item_json.get('group'):
+            item_json['group'].pop('thumbnail', None)
+        if item_json.get('group_works'):
+            for work in item_json.get('group_works'):
                 work.pop('thumbnail', None)
-        if work_json.get('group_siblings'):
-            for work in work_json.get('group_siblings'):
+        if item_json.get('group_siblings'):
+            for work in item_json.get('group_siblings'):
                 work.pop('thumbnail', None)
 
-        if work_json.get('part'):
-            work_json['part'].pop('thumbnail', None)
-        if work_json.get('parts'):
-            for work in work_json.get('parts'):
+        if item_json.get('part'):
+            item_json['part'].pop('thumbnail', None)
+        if item_json.get('parts'):
+            for work in item_json.get('parts'):
                 work.pop('thumbnail', None)
-        if work_json.get('part_siblings'):
-            for work in work_json.get('part_siblings'):
+        if item_json.get('part_siblings'):
+            for work in item_json.get('part_siblings'):
                 work.pop('thumbnail', None)
+
+        # Constellations
+        if item_json.get('key_work'):
+            item_json['key_work'].pop('thumbnail', None)
+        if item_json.get('links'):
+            for link in item_json.get('links'):
+                if link.get('start'):
+                    link['start'].pop('thumbnail', None)
+                if link.get('end'):
+                    link['end'].pop('thumbnail', None)
 
     def remove_video_links(self, work_json):
         """
@@ -827,6 +900,8 @@ class XOSAPI():
 
 
 api.add_resource(API, '/')
+api.add_resource(ConstellationsAPI, '/constellations/')
+api.add_resource(ConstellationAPI, '/constellations/<constellation_id>/')
 api.add_resource(WorksAPI, '/works/')
 api.add_resource(WorkAPI, '/works/<work_id>/')
 api.add_resource(SearchAPI, '/search/')
@@ -841,12 +916,17 @@ if __name__ == '__main__':
         xos_private_api.generate_tsv('works')
         search = Search()
         search.update_index(resource='works')
-        print('========================================')
+        print('=================================================')
+        print('Starting to update Constellations API from XOS...')
+        xos_private_api.get_constellations()
+        search.update_index(resource='constellations')
+        print('=================================================')
     elif UPDATE_SEARCH:
         print('========================')
         print('Starting search indexing...')
         search = Search()
         search.update_index(resource='works')
+        search.update_index(resource='constellations')
         print('========================')
     else:
         application.run(

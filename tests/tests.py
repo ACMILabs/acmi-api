@@ -62,20 +62,30 @@ def mock_boto3(_, key):
     )
 
 
-def mock_index():
+def mock_index(resource='works'):
     """
     Mocked index.json data.
     """
-    with open('tests/data/index.json', 'rb') as json_file:
-        return mock_open(read_data=json_file.read())
+    if resource == 'works':
+        with open('tests/data/index.json', 'rb') as json_file:
+            return mock_open(read_data=json_file.read())
+    if resource == 'constellations':
+        with open('tests/data/constellation_index.json', 'rb') as json_file:
+            return mock_open(read_data=json_file.read())
+    return None
 
 
-def mock_work():
+def mock_item(resource='works'):
     """
-    Mocked individual work.json data.
+    Mocked individual item.json data.
     """
-    with open('tests/data/1.json', 'rb') as json_file:
-        return mock_open(read_data=json_file.read())
+    if resource == 'works':
+        with open('tests/data/1.json', 'rb') as json_file:
+            return mock_open(read_data=json_file.read())
+    if resource == 'constellations':
+        with open('tests/data/constellation_1.json', 'rb') as json_file:
+            return mock_open(read_data=json_file.read())
+    return None
 
 
 def mock_file_not_found():
@@ -122,7 +132,13 @@ def test_api_root():
     """
     api = API()
     assert api.get()['message'] == 'Welcome to the ACMI Public API.'
-    assert api.get()['api'] == ['/search/', '/works/', '/works/<work_id>/']
+    assert api.get()['api'] == [
+        '/constellations/',
+        '/constellations/<constellation_id>/',
+        '/search/',
+        '/works/',
+        '/works/<work_id>/',
+    ]
     assert 'ACMI acknowledges the Traditional Owners' in api.get()['acknowledgement']
 
 
@@ -163,7 +179,7 @@ def test_works_api_404():
         assert response.json['message'] == 'That Works list doesn\'t exist, sorry.'
 
 
-@patch('builtins.open', mock_work())
+@patch('builtins.open', mock_item())
 def test_work_api():
     """
     Test the individual Work API returns expected content.
@@ -197,6 +213,37 @@ def test_work_api_404():
         )
         assert response.status_code == 404
         assert response.json['message'] == 'That Work doesn\'t exist, sorry.'
+
+
+@patch('builtins.open', mock_index(resource='constellations'))
+def test_constellations_api():
+    """
+    Test the Constellations API returns expected content.
+    """
+    with acmi_api.application.test_client() as client:
+        response = client.get(
+            '/constellations/',
+            content_type='application/json',
+        )
+        assert response.status_code == 200
+        assert response.json['next'] == 'https://api.acmi.net.au/constellations/?page=2'
+        assert response.json['results']
+        assert response.json['count']
+
+
+@patch('builtins.open', mock_item(resource='constellations'))
+def test_constellation_api():
+    """
+    Test the individual Constellation API returns expected content.
+    """
+    with acmi_api.application.test_client() as client:
+        response = client.get(
+            '/constellations/1/',
+            content_type='application/json',
+        )
+        assert response.status_code == 200
+        assert response.json['id'] == 1
+        assert response.json['name'] == 'Pen names, poems and puppets'
 
 
 @patch('requests.get', MagicMock(side_effect=mocked_requests_get))
@@ -368,6 +415,33 @@ def test_update_assets():
         video_json_3 = xos_private_api.update_assets(video_json)
         assert not video_json_3.get('thumbnail')
         assert not video_json_3.get('videos')
+
+
+@patch('app.api.s3_resource.Object', MagicMock(side_effect=mock_boto3))
+@patch('app.api.destination_bucket', MagicMock())
+def test_update_assets_with_constellations():
+    """
+    Test update assets uploads and renames Constellation asset links.
+    """
+    with open('tests/data/constellation_1.json', 'rb') as constellation:
+        acmi_api.INCLUDE_IMAGES = True
+        acmi_api.INCLUDE_VIDEOS = True
+        constellation_json = json.load(constellation)
+        xos_private_api = XOSAPI()
+        constellation_json_1 = xos_private_api.update_assets(constellation_json)
+        thumbnail_filename = (
+            f'https://{AWS_STORAGE_BUCKET_NAME}.s3.amazonaws.com/'
+            'image/P177007_MyBrilliantCareerBook_34.jpg.1200x1200_q85.jpg'
+        )
+        assert constellation_json_1['key_work']['thumbnail']['image_url'] == thumbnail_filename
+        assert constellation_json_1['links'][2]['start']['thumbnail']['image_url'] == \
+            thumbnail_filename
+
+        acmi_api.INCLUDE_IMAGES = False
+        acmi_api.INCLUDE_VIDEOS = False
+        constellation_json_1 = xos_private_api.update_assets(constellation_json)
+        assert not constellation_json_1['key_work'].get('thumbnail')
+        assert not constellation_json_1['links'][2]['start'].get('thumbnail')
 
 
 def test_include_external_filter():
