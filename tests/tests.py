@@ -593,6 +593,26 @@ def test_search_api_results_failures():
             'Sorry, your search request timed out. Please try again later.'
 
 
+@patch('elasticsearch.Elasticsearch.search', MagicMock(side_effect=mock_search))
+def test_search_api_constellations():
+    """
+    Test the Search API with the constellations resource.
+    """
+    with acmi_api.application.test_client() as client:
+        response = client.get(
+            '/search/?query=pen&resource=constellations',
+            content_type='application/json',
+        )
+        assert response.status_code == 200
+        assert response.json['count'] == 5
+        assert response.json['next'] == \
+            'http://localhost/search/?query=pen&resource=constellations&page=2'
+        assert not response.json['previous']
+        assert len(response.json['results']) == 5
+        assert response.json['results'][0]['id'] == 1
+        assert response.json['results'][0]['name'] == 'Pen names, poems and puppets'
+
+
 def test_xos_private_api_retries(tmp_path):
     """
     Test the XOS private API interface retries 3 times before raising an exception.
