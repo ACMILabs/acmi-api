@@ -44,6 +44,8 @@ Works that were imported from [TMDB](https://www.themoviedb.org) or [IGDB](https
 This API server exposes the following routes:
 
 * `/` - a list of API routes
+* `/constellations/` - a list of ACMI Constellation records
+* `/constellations/<id>` - an individual ACMI Constellation record
 * `/search/` - a search engine for the ACMI API
 * `/works/` - a list of all public ACMI Work records
 * `/works/<id>/` - an individual ACMI Work record

@@ -1,0 +1,11 @@
+{
+    "count": 1,
+    "next": "https://api.acmi.net.au/constellations/?page=2",
+    "previous": null,
+    "results": [
+        {
+            "id": 1,
+            "result": "Results from XOS appear here..."
+        }
+    ]
+}
