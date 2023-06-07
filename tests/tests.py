@@ -72,6 +72,9 @@ def mock_index(resource='works'):
     if resource == 'constellations':
         with open('tests/data/constellation_index.json', 'rb') as json_file:
             return mock_open(read_data=json_file.read())
+    if resource == 'creators':
+        with open('tests/data/creator_index.json', 'rb') as json_file:
+            return mock_open(read_data=json_file.read())
     return None
 
 
@@ -84,6 +87,9 @@ def mock_item(resource='works'):
             return mock_open(read_data=json_file.read())
     if resource == 'constellations':
         with open('tests/data/constellation_1.json', 'rb') as json_file:
+            return mock_open(read_data=json_file.read())
+    if resource == 'creators':
+        with open('tests/data/creator_34373.json', 'rb') as json_file:
             return mock_open(read_data=json_file.read())
     return None
 
@@ -135,6 +141,8 @@ def test_api_root():
     assert api.get()['api'] == [
         '/constellations/',
         '/constellations/<constellation_id>/',
+        '/creators/',
+        '/creators/<creator_id>/',
         '/search/',
         '/works/',
         '/works/<work_id>/',
@@ -244,6 +252,37 @@ def test_constellation_api():
         assert response.status_code == 200
         assert response.json['id'] == 1
         assert response.json['name'] == 'Pen names, poems and puppets'
+
+
+@patch('builtins.open', mock_index(resource='creators'))
+def test_creators_api():
+    """
+    Test the Creators API returns expected content.
+    """
+    with acmi_api.application.test_client() as client:
+        response = client.get(
+            '/creators/',
+            content_type='application/json',
+        )
+        assert response.status_code == 200
+        assert response.json['next'] == 'https://api.acmi.net.au/creators/?page=2'
+        assert response.json['results']
+        assert response.json['count']
+
+
+@patch('builtins.open', mock_item(resource='creators'))
+def test_creator_api():
+    """
+    Test the individual Creator API returns expected content.
+    """
+    with acmi_api.application.test_client() as client:
+        response = client.get(
+            '/creators/34373/',
+            content_type='application/json',
+        )
+        assert response.status_code == 200
+        assert response.json['id'] == 34373
+        assert response.json['name'] == 'Agnes Varda'
 
 
 @patch('requests.get', MagicMock(side_effect=mocked_requests_get))
@@ -444,6 +483,30 @@ def test_update_assets_with_constellations():
         assert not constellation_json_1['links'][2]['start'].get('thumbnail')
 
 
+@patch('app.api.s3_resource.Object', MagicMock(side_effect=mock_boto3))
+@patch('app.api.destination_bucket', MagicMock())
+def test_update_assets_with_creators():
+    """
+    Test update assets uploads and renames Creator asset links.
+    """
+    with open('tests/data/creator_34373.json', 'rb') as creator:
+        acmi_api.INCLUDE_IMAGES = True
+        acmi_api.INCLUDE_VIDEOS = True
+        creator_json = json.load(creator)
+        xos_private_api = XOSAPI()
+        creator_json_1 = xos_private_api.update_assets(creator_json)
+        image_filename = (
+            f'https://{AWS_STORAGE_BUCKET_NAME}.s3.amazonaws.com/'
+            'image/AgnC3A8s_Varda_28Berlinale_201929_28cropped29.jpg'
+        )
+        assert creator_json_1['image'] == image_filename
+
+        acmi_api.INCLUDE_IMAGES = False
+        acmi_api.INCLUDE_VIDEOS = False
+        creator_json_1 = xos_private_api.update_assets(creator_json)
+        assert not creator_json_1.get('image')
+
+
 def test_include_external_filter():
     """
     Test the INCLUDE_EXTERNAL variable sets the XOS API `exclude` filter as expected.
@@ -611,6 +674,26 @@ def test_search_api_constellations():
         assert len(response.json['results']) == 5
         assert response.json['results'][0]['id'] == 1
         assert response.json['results'][0]['name'] == 'Pen names, poems and puppets'
+
+
+@patch('elasticsearch.Elasticsearch.search', MagicMock(side_effect=mock_search))
+def test_search_api_creators():
+    """
+    Test the Search API with the creators resource.
+    """
+    with acmi_api.application.test_client() as client:
+        response = client.get(
+            '/search/?query=agnes&resource=creators',
+            content_type='application/json',
+        )
+        assert response.status_code == 200
+        assert response.json['count'] == 1
+        assert response.json['next'] == \
+            'http://localhost/search/?query=agnes&resource=creators&page=2'
+        assert not response.json['previous']
+        assert len(response.json['results']) == 1
+        assert response.json['results'][0]['id'] == 34373
+        assert response.json['results'][0]['name'] == 'Agnes Varda'
 
 
 def test_xos_private_api_retries(tmp_path):

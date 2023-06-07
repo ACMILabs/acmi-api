@@ -46,6 +46,8 @@ This API server exposes the following routes:
 * `/` - a list of API routes
 * `/constellations/` - a list of ACMI Constellation records
 * `/constellations/<id>` - an individual ACMI Constellation record
+* `/creators/` - a list of ACMI Creator records
+* `/creators/<id>` - an individual ACMI Creator record
 * `/search/` - a search engine for the ACMI API
 * `/works/` - a list of all public ACMI Work records
 * `/works/<id>/` - an individual ACMI Work record
