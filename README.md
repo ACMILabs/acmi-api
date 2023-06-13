@@ -100,13 +100,18 @@ To run the Flask development server:
 
 To update Works `json` files modified in the last day from XOS:
 
-* Add `UPDATE_WORKS=true` and `DEBUG=true` to your `config.env`
+* Add `UPDATE_ITEMS=true` and `DEBUG=true` to your `config.env`
 * Run `cd development` and `docker-compose up --build`
 * Works appear in `/app/json/`
 
 To update **ALL** Works from XOS:
 
-* Add `ALL_WORKS=true` and `UPDATE_WORKS=true` and `DEBUG=true` to your `config.env`
+* Add `ALL_WORKS=true` and `UPDATE_ITEMS=true` and `DEBUG=true` to your `config.env`
+* Run `cd development` and `docker-compose up --build`
+
+To update **ALL** Creators from XOS:
+
+* Add `ALL_CREATORS=true` and `UPDATE_ITEMS=true` and `DEBUG=true` to your `config.env`
 * Run `cd development` and `docker-compose up --build`
 
 To run the gunicorn server:

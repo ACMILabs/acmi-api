@@ -21,8 +21,9 @@ from furl import furl
 from requests.utils import requote_uri
 
 DEBUG = os.getenv('DEBUG', 'false').lower() == 'true'
-UPDATE_WORKS = os.getenv('UPDATE_WORKS', 'false').lower() == 'true'
+UPDATE_ITEMS = os.getenv('UPDATE_ITEMS', 'false').lower() == 'true'
 ALL_WORKS = os.getenv('ALL_WORKS', 'false').lower() == 'true'
+ALL_CREATORS = os.getenv('ALL_CREATORS', 'false').lower() == 'true'
 UPDATE_SEARCH = os.getenv('UPDATE_SEARCH', 'false').lower() == 'true'
 ACMI_API_ENDPOINT = os.getenv('ACMI_API_ENDPOINT', 'https://api.acmi.net.au')
 XOS_API_ENDPOINT = os.getenv('XOS_API_ENDPOINT', None)
@@ -489,7 +490,7 @@ class XOSAPI():
 
         if not ALL_WORKS:
             # TODO: Delete old works lists if the collection shrinks # pylint: disable=fixme
-            self.save_works_lists(resource)
+            self.save_items_lists(resource)
 
     def get_constellations(self):
         """
@@ -516,7 +517,11 @@ class XOSAPI():
         """
         resource = 'creators'
         params = self.params.copy()
-        print('Downloading all XOS Creators...')
+        if ALL_CREATORS:
+            print('Downloading all XOS Creators... this will take a while')
+        else:
+            print(f'Updating XOS Creators since {UPDATE_FROM_DATE}...')
+            params['date_modified__gte'] = UPDATE_FROM_DATE
         params['page'] = 1
         creators_saved = 0
         while True:
@@ -528,6 +533,10 @@ class XOSAPI():
                 break
             params['page'] = furl(creators_json.get('next')).args.get('page')
         print(f'Finished downloading {creators_saved} {resource}.')
+
+        if not ALL_CREATORS:
+            # TODO: Delete old creators lists if the collection shrinks # pylint: disable=fixme
+            self.save_items_lists(resource)
 
     def save_list(self, resource, works_json, page=None):
         """
@@ -611,9 +620,9 @@ class XOSAPI():
 
         print(f'Finished deleting {works_deleted}/{len(work_ids_to_delete)} {resource}.')
 
-    def save_works_lists(self, resource):
+    def save_items_lists(self, resource):
         """
-        Download and save all Works list pages from XOS.
+        Download and save all Items list pages from XOS.
         """
         print(f'Saving all {resource} list index files...')
         params = self.params.copy()
@@ -977,7 +986,7 @@ api.add_resource(WorkAPI, '/works/<work_id>/')
 api.add_resource(SearchAPI, '/search/')
 
 if __name__ == '__main__':
-    if UPDATE_WORKS:
+    if UPDATE_ITEMS:
         print('========================================')
         print('Starting to update Works API from XOS...')
         xos_private_api = XOSAPI()

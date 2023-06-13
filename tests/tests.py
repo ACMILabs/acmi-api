@@ -507,6 +507,27 @@ def test_update_assets_with_creators():
         assert not creator_json_1.get('image')
 
 
+@patch('requests.get')
+def test_get_creators(mock_get):
+    """
+    Test get_creators default params.
+    """
+    mock_get.return_value = MockResponse('{"results": []}', 200)
+    xos_private_api = XOSAPI()
+    xos_private_api.get_creators()
+    assert not mock_get.call_args_list[0][1]['params']['external']
+    assert mock_get.call_args_list[0][1]['params']['date_modified__gte']
+    # Saving the index
+    assert not mock_get.call_args_list[1][1]['params']['external']
+    assert not mock_get.call_args_list[1][1]['params'].get('date_modified__gte')
+
+    acmi_api.ALL_CREATORS = True
+    xos_private_api = XOSAPI()
+    xos_private_api.get_creators()
+    assert not mock_get.call_args_list[2][1]['params']['external']
+    assert not mock_get.call_args_list[2][1]['params'].get('date_modified__gte')
+
+
 def test_include_external_filter():
     """
     Test the INCLUDE_EXTERNAL variable sets the XOS API `exclude` filter as expected.
