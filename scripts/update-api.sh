@@ -21,10 +21,10 @@ if [ "$CRON_UPDATER" = "true" ]; then
     fi
 
     # Update API
-    export UPDATE_WORKS=true
+    export UPDATE_ITEMS=true
     export XOS_API_ENDPOINT=https://xos.acmi.net.au/api/
     python -u -m app.api
-    export UPDATE_WORKS=false
+    export UPDATE_ITEMS=false
 
     # Check for git changes
     export GIT_DIFF=$(git diff | grep "app/json")

@@ -1,3 +1,5 @@
+# pylint: disable=too-many-lines
+
 import csv
 import datetime
 import glob
@@ -19,8 +21,9 @@ from furl import furl
 from requests.utils import requote_uri
 
 DEBUG = os.getenv('DEBUG', 'false').lower() == 'true'
-UPDATE_WORKS = os.getenv('UPDATE_WORKS', 'false').lower() == 'true'
+UPDATE_ITEMS = os.getenv('UPDATE_ITEMS', 'false').lower() == 'true'
 ALL_WORKS = os.getenv('ALL_WORKS', 'false').lower() == 'true'
+ALL_CREATORS = os.getenv('ALL_CREATORS', 'false').lower() == 'true'
 UPDATE_SEARCH = os.getenv('UPDATE_SEARCH', 'false').lower() == 'true'
 ACMI_API_ENDPOINT = os.getenv('ACMI_API_ENDPOINT', 'https://api.acmi.net.au')
 XOS_API_ENDPOINT = os.getenv('XOS_API_ENDPOINT', None)
@@ -126,6 +129,48 @@ class ConstellationAPI(Resource):  # pylint: disable=too-few-public-methods
                 return json.load(json_file)
         except (FileNotFoundError, ValueError):
             return abort(404, message='That Constellation doesn\'t exist, sorry.')
+
+
+class CreatorsAPI(Resource):  # pylint: disable=too-few-public-methods
+    """
+    Creators API. The ACMI Collection.
+    """
+    def get(self):
+        """
+        List public Creators.
+        """
+        filename = 'index.json'
+        args = request.args
+        try:
+            if args.get('page'):
+                filename = f'index_page_{int(args.get("page"))}.json'
+            json_file_path = os.path.join(JSON_ROOT, 'creators', filename)
+            with open(json_file_path, 'rb') as json_file:
+                return json.load(json_file)
+        except (FileNotFoundError, ValueError):
+            return {
+                abort(404, message='That Creators list doesn\'t exist, sorry.')
+            }
+
+
+class CreatorAPI(Resource):  # pylint: disable=too-few-public-methods
+    """
+    Get an individual Creator JSON.
+    """
+    def get(self, creator_id):
+        """
+        Returns the requested Creator or a 404.
+        """
+        try:
+            json_file_path = os.path.join(
+                JSON_ROOT,
+                'creators',
+                f'{int(creator_id)}.json',
+            )
+            with open(json_file_path, 'rb') as json_file:
+                return json.load(json_file)
+        except (FileNotFoundError, ValueError):
+            return abort(404, message='That Creator doesn\'t exist, sorry.')
 
 
 class WorksAPI(Resource):  # pylint: disable=too-few-public-methods
@@ -445,7 +490,7 @@ class XOSAPI():
 
         if not ALL_WORKS:
             # TODO: Delete old works lists if the collection shrinks # pylint: disable=fixme
-            self.save_works_lists(resource)
+            self.save_items_lists(resource)
 
     def get_constellations(self):
         """
@@ -465,6 +510,33 @@ class XOSAPI():
                 break
             params['page'] = furl(constellations_json.get('next')).args.get('page')
         print(f'Finished downloading {constellations_saved} {resource}.')
+
+    def get_creators(self):
+        """
+        Download and save Creators from XOS.
+        """
+        resource = 'creators'
+        params = self.params.copy()
+        if ALL_CREATORS:
+            print('Downloading all XOS Creators... this will take a while')
+        else:
+            print(f'Updating XOS Creators since {UPDATE_FROM_DATE}...')
+            params['date_modified__gte'] = UPDATE_FROM_DATE
+        params['page'] = 1
+        creators_saved = 0
+        while True:
+            creators_json = self.get(resource, params).json()
+            creators_json = self.update_assets(creators_json)
+            self.save_list(resource, creators_json, params.get('page'))
+            creators_saved += self.save_items(resource, creators_json)
+            if not creators_json.get('next'):
+                break
+            params['page'] = furl(creators_json.get('next')).args.get('page')
+        print(f'Finished downloading {creators_saved} {resource}.')
+
+        if not ALL_CREATORS:
+            # TODO: Delete old creators lists if the collection shrinks # pylint: disable=fixme
+            self.save_items_lists(resource)
 
     def save_list(self, resource, works_json, page=None):
         """
@@ -548,9 +620,9 @@ class XOSAPI():
 
         print(f'Finished deleting {works_deleted}/{len(work_ids_to_delete)} {resource}.')
 
-    def save_works_lists(self, resource):
+    def save_items_lists(self, resource):
         """
-        Download and save all Works list pages from XOS.
+        Download and save all Items list pages from XOS.
         """
         print(f'Saving all {resource} list index files...')
         params = self.params.copy()
@@ -582,6 +654,8 @@ class XOSAPI():
 
             if 'collection/' in destination_key:
                 destination_key = destination_key.replace('collection/', '')
+            elif 'works/' in destination_key:
+                destination_key = destination_key.replace('works/', '')
             else:
                 destination_key = f'video/{destination_key}'
 
@@ -709,6 +783,9 @@ class XOSAPI():
                     link['start'].pop('thumbnail', None)
                 if link.get('end'):
                     link['end'].pop('thumbnail', None)
+
+        # Creators
+        item_json.pop('image', None)
 
     def remove_video_links(self, work_json):
         """
@@ -902,12 +979,14 @@ class XOSAPI():
 api.add_resource(API, '/')
 api.add_resource(ConstellationsAPI, '/constellations/')
 api.add_resource(ConstellationAPI, '/constellations/<constellation_id>/')
+api.add_resource(CreatorsAPI, '/creators/')
+api.add_resource(CreatorAPI, '/creators/<creator_id>/')
 api.add_resource(WorksAPI, '/works/')
 api.add_resource(WorkAPI, '/works/<work_id>/')
 api.add_resource(SearchAPI, '/search/')
 
 if __name__ == '__main__':
-    if UPDATE_WORKS:
+    if UPDATE_ITEMS:
         print('========================================')
         print('Starting to update Works API from XOS...')
         xos_private_api = XOSAPI()
@@ -921,12 +1000,17 @@ if __name__ == '__main__':
         xos_private_api.get_constellations()
         search.update_index(resource='constellations')
         print('=================================================')
+        print('Starting to update Creators API from XOS...')
+        xos_private_api.get_creators()
+        search.update_index(resource='creators')
+        print('=================================================')
     elif UPDATE_SEARCH:
         print('========================')
         print('Starting search indexing...')
         search = Search()
         search.update_index(resource='works')
         search.update_index(resource='constellations')
+        search.update_index(resource='creators')
         print('========================')
     else:
         application.run(
