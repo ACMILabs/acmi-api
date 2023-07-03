@@ -425,7 +425,7 @@ class Search():
         return files_indexed
 
 
-class XOSAPI():
+class XOSAPI():  # pylint: disable=too-many-public-methods
     """
     XOS private API interface.
     """
@@ -819,7 +819,67 @@ class XOSAPI():
         with open(tsv_file_path, 'w', encoding='utf-8') as tsv_file:
             writer = csv.writer(tsv_file, delimiter='\t')
             # Header row
-            writer.writerow([
+            writer.writerow(self.get_tsv_header(resource))
+
+            files_written = 0
+            file_paths = glob.glob(f'{os.path.join(JSON_ROOT, resource)}/[0-9]*.json')
+            print(f'Generating the TSV for {resource}...')
+            for file_path in file_paths:
+                if 'index' not in file_path:
+                    with open(file_path, 'rb') as json_file:
+                        json_data = json.load(json_file)
+                        writer.writerow(self.get_tsv_row(resource, json_data))
+                        files_written += 1
+                if files_written % 1000 == 0:
+                    print(f'Added {files_written} {resource}...')
+            print(f'Finished generating {files_written}/{len(file_paths)} {resource} TSV')
+
+    def keys_from_dicts(self, your_key, your_list):
+        """
+        Return a comma separated string of keys from a list of dictionaries.
+        """
+        try:
+            return ','.join([str(list_item[your_key]) for list_item in your_list])
+        except (KeyError, TypeError):
+            return ''
+
+    def nested_value(self, json_data, nested_list, default_value):
+        """
+        Return the value of an key from a nested item.
+        """
+        try:
+            return json_data[nested_list[0]][nested_list[1]]
+        except (KeyError, TypeError):
+            return default_value
+
+    def strings_from_list(self, your_list):
+        """
+        Return a comma separated list of strings from a list.
+        """
+        try:
+            return ','.join(str(label) for label in your_list)
+        except TypeError:
+            return ''
+
+    def external_references_to_string(self, external_references):
+        """
+        Return a comma separated string of tuples from a list of external references.
+        """
+        try:
+            return ','.join([
+                f'({reference["source"]["name"]},{reference["source_identifier"]})'
+                for reference in external_references
+            ])
+        except TypeError:
+            return ''
+
+    def get_tsv_header(self, resource):
+        """
+        Returns an array of header strings for the TSV file of this resource.
+        """
+        header = None
+        if resource == 'works':
+            header = [
                 'id',
                 'acmi_id',
                 'title',
@@ -869,111 +929,107 @@ class XOSAPI():
                 'labels',
                 'eaas_environment_id',
                 'external_references',
-            ])
+            ]
+        if resource == 'creators':
+            header = [
+                'id',
+                'name',
+                'also_known_as',
+                'date_of_birth',
+                'date_of_death',
+                'places_of_operation',
+                'biography',
+                'biography_author',
+                'date_of_biography',
+                'external_links',
+                'uuid',
+                'source',
+                'source_identifier',
+                'external_references',
+                'date_modified',
+            ]
+        return header
 
-            files_written = 0
-            file_paths = glob.glob(f'{os.path.join(JSON_ROOT, resource)}/[0-9]*.json')
-            print(f'Generating the TSV for {resource}...')
-            for file_path in file_paths:
-                if 'index' not in file_path:
-                    with open(file_path, 'rb') as json_file:
-                        json_data = json.load(json_file)
-                        writer.writerow([
-                            json_data.get('id'),
-                            json_data.get('acmi_id'),
-                            json_data.get('title'),
-                            json_data.get('title_annotation'),
-                            json_data.get('slug'),
-                            json_data.get('creator_credit'),
-                            json_data.get('credit_line'),
-                            json_data.get('headline_credit'),
-                            self.nested_value(json_data, ['thumbnail', 'has_video'], 'false'),
-                            json_data.get('record_type'),
-                            json_data.get('type'),
-                            json_data.get('is_on_display'),
-                            json_data.get('last_on_display_place'),
-                            json_data.get('last_on_display_date'),
-                            json_data.get('is_context_indigenous'),
-                            json_data.get('material_description'),
-                            json_data.get('unpublished'),
-                            json_data.get('first_production_date'),
-                            json_data.get('brief_description'),
-                            self.keys_from_dicts('id', json_data.get('constellations_primary')),
-                            self.keys_from_dicts('id', json_data.get('constellations_other')),
-                            json_data.get('title_for_label'),
-                            json_data.get('creator_credit_for_label'),
-                            json_data.get('headline_credit_for_label'),
-                            json_data.get('description'),
-                            self.strings_from_list(json_data.get('description_for_label')),
-                            json_data.get('credit_line_for_label'),
-                            self.nested_value(json_data, ['stats', 'tap_count'], 0),
-                            self.keys_from_dicts('url', json_data.get('links')),
-                            self.keys_from_dicts('id', json_data.get('creators_primary')),
-                            self.keys_from_dicts('id', json_data.get('creators_other')),
-                            self.keys_from_dicts('uri', json_data.get('video_links')),
-                            json_data.get('media_note'),
-                            self.keys_from_dicts('id', json_data.get('images')),
-                            self.keys_from_dicts('id', json_data.get('videos')),
-                            self.keys_from_dicts('name', json_data.get('holdings')),
-                            self.nested_value(json_data, ['part_of', 'id'], ''),
-                            self.keys_from_dicts('id', json_data.get('parts')),
-                            self.keys_from_dicts('id', json_data.get('part_siblings')),
-                            self.nested_value(json_data, ['group', 'id'], ''),
-                            self.keys_from_dicts('id', json_data.get('group_works')),
-                            self.keys_from_dicts('id', json_data.get('group_siblings')),
-                            self.nested_value(json_data, ['source', 'name'], ''),
-                            json_data.get('source_identifier'),
-                            self.keys_from_dicts('name', json_data.get('production_places')),
-                            self.keys_from_dicts('date', json_data.get('production_dates')),
-                            self.strings_from_list(json_data.get('labels')),
-                            json_data.get('eaas_environment_id'),
-                            self.external_references_to_string(
-                                json_data.get('external_references')
-                            ),
-                        ])
-                        files_written += 1
-                if files_written % 1000 == 0:
-                    print(f'Added {files_written} {resource}...')
-            print(f'Finished generating {files_written}/{len(file_paths)} {resource} TSV')
-
-    def keys_from_dicts(self, your_key, your_list):
+    def get_tsv_row(self, resource, json_data):
         """
-        Return a comma separated string of keys from a list of dictionaries.
+        Returns an array of row data strings for the TSV file of this resource.
         """
-        try:
-            return ','.join([str(list_item[your_key]) for list_item in your_list])
-        except (KeyError, TypeError):
-            return ''
-
-    def nested_value(self, json_data, nested_list, default_value):
-        """
-        Return the value of an key from a nested item.
-        """
-        try:
-            return json_data[nested_list[0]][nested_list[1]]
-        except (KeyError, TypeError):
-            return default_value
-
-    def strings_from_list(self, your_list):
-        """
-        Return a comma separated list of strings from a list.
-        """
-        try:
-            return ','.join(str(label) for label in your_list)
-        except TypeError:
-            return ''
-
-    def external_references_to_string(self, external_references):
-        """
-        Return a comma separated string of tuples from a list of external references.
-        """
-        try:
-            return ','.join([
-                f'({reference["source"]["name"]},{reference["source_identifier"]})'
-                for reference in external_references
-            ])
-        except TypeError:
-            return ''
+        row = []
+        if resource == 'works':
+            row = [
+                json_data.get('id'),
+                json_data.get('acmi_id'),
+                json_data.get('title'),
+                json_data.get('title_annotation'),
+                json_data.get('slug'),
+                json_data.get('creator_credit'),
+                json_data.get('credit_line'),
+                json_data.get('headline_credit'),
+                self.nested_value(json_data, ['thumbnail', 'has_video'], 'false'),
+                json_data.get('record_type'),
+                json_data.get('type'),
+                json_data.get('is_on_display'),
+                json_data.get('last_on_display_place'),
+                json_data.get('last_on_display_date'),
+                json_data.get('is_context_indigenous'),
+                json_data.get('material_description'),
+                json_data.get('unpublished'),
+                json_data.get('first_production_date'),
+                json_data.get('brief_description'),
+                self.keys_from_dicts('id', json_data.get('constellations_primary')),
+                self.keys_from_dicts('id', json_data.get('constellations_other')),
+                json_data.get('title_for_label'),
+                json_data.get('creator_credit_for_label'),
+                json_data.get('headline_credit_for_label'),
+                json_data.get('description'),
+                self.strings_from_list(json_data.get('description_for_label')),
+                json_data.get('credit_line_for_label'),
+                self.nested_value(json_data, ['stats', 'tap_count'], 0),
+                self.keys_from_dicts('url', json_data.get('links')),
+                self.keys_from_dicts('id', json_data.get('creators_primary')),
+                self.keys_from_dicts('id', json_data.get('creators_other')),
+                self.keys_from_dicts('uri', json_data.get('video_links')),
+                json_data.get('media_note'),
+                self.keys_from_dicts('id', json_data.get('images')),
+                self.keys_from_dicts('id', json_data.get('videos')),
+                self.keys_from_dicts('name', json_data.get('holdings')),
+                self.nested_value(json_data, ['part_of', 'id'], ''),
+                self.keys_from_dicts('id', json_data.get('parts')),
+                self.keys_from_dicts('id', json_data.get('part_siblings')),
+                self.nested_value(json_data, ['group', 'id'], ''),
+                self.keys_from_dicts('id', json_data.get('group_works')),
+                self.keys_from_dicts('id', json_data.get('group_siblings')),
+                self.nested_value(json_data, ['source', 'name'], ''),
+                json_data.get('source_identifier'),
+                self.keys_from_dicts('name', json_data.get('production_places')),
+                self.keys_from_dicts('date', json_data.get('production_dates')),
+                self.strings_from_list(json_data.get('labels')),
+                json_data.get('eaas_environment_id'),
+                self.external_references_to_string(
+                    json_data.get('external_references')
+                ),
+            ]
+        if resource == 'creators':
+            row = [
+                json_data.get('id'),
+                json_data.get('name'),
+                json_data.get('also_known_as'),
+                json_data.get('date_of_birth'),
+                json_data.get('date_of_death'),
+                self.keys_from_dicts('name', json_data.get('places_of_operation')),
+                json_data.get('biography'),
+                json_data.get('biography_author'),
+                json_data.get('date_of_biography'),
+                self.keys_from_dicts('uri', json_data.get('external_links')),
+                json_data.get('uuid'),
+                self.nested_value(json_data, ['source', 'name'], ''),
+                json_data.get('source_identifier'),
+                self.external_references_to_string(
+                    json_data.get('external_references')
+                ),
+                json_data.get('date_modified'),
+            ]
+        return row
 
 
 api.add_resource(API, '/')
@@ -1002,6 +1058,7 @@ if __name__ == '__main__':
         print('=================================================')
         print('Starting to update Creators API from XOS...')
         xos_private_api.get_creators()
+        xos_private_api.generate_tsv('creators')
         search.update_index(resource='creators')
         print('=================================================')
     elif UPDATE_SEARCH:
