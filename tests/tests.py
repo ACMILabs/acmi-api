@@ -734,11 +734,11 @@ def test_generate_tsv(tmp_path):
     Test the generated TSV is in the correct format with the right number of rows.
     """
     acmi_api.TSV_ROOT = tmp_path
-    acmi_api.JSON_ROOT = '/code/tests/'
+    acmi_api.JSON_ROOT = '/code/tests/data/'
     xos_private_api = XOSAPI()
-    xos_private_api.generate_tsv('data')
-    assert os.path.isfile(acmi_api.TSV_ROOT / 'data.tsv')
-    with open(f'{acmi_api.TSV_ROOT}/data.tsv', encoding='utf-8') as tsv_file:
+    xos_private_api.generate_tsv('works')
+    assert os.path.isfile(acmi_api.TSV_ROOT / 'works.tsv')
+    with open(f'{acmi_api.TSV_ROOT}/works.tsv', encoding='utf-8') as tsv_file:
         reader = csv.reader(tsv_file, delimiter='\t')
         header = next(reader)
         assert len(header) == 49
@@ -747,6 +747,18 @@ def test_generate_tsv(tmp_path):
         for _ in reader:
             row_count += 1
         assert row_count == 4
+
+    xos_private_api.generate_tsv('creators')
+    assert os.path.isfile(acmi_api.TSV_ROOT / 'creators.tsv')
+    with open(f'{acmi_api.TSV_ROOT}/creators.tsv', encoding='utf-8') as tsv_file:
+        reader = csv.reader(tsv_file, delimiter='\t')
+        header = next(reader)
+        assert len(header) == 15
+        assert header[0] == 'id'
+        row_count = 0
+        for _ in reader:
+            row_count += 1
+        assert row_count == 1
 
 
 def test_keys_from_dicts():
