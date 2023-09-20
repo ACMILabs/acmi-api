@@ -14,17 +14,17 @@ jobs:
 
     steps:
       - name: Cancel previous runs
-        uses: styfle/cancel-workflow-action@0.4.0
+        uses: styfle/cancel-workflow-action@main
         with:
           access_token: ${{ github.token }}
 
-      - uses: actions/checkout@v3.5.2
+      - uses: actions/checkout@main
         with:
           fetch-depth: 1
           ref: ${{ github.ref }}
       - name: Build standard image (cached)
         if: success()
-        uses: whoan/docker-build-with-cache-action@v4
+        uses: whoan/docker-build-with-cache-action@master
         with:
           username: "${{ secrets.DOCKER_USERNAME }}"
           password: "${{ secrets.DOCKER_PASSWORD }}"
@@ -34,13 +34,13 @@ jobs:
 
       - name: cancel entire action if failed
         if: failure()
-        uses: andymckay/cancel-action@0.2
+        uses: andymckay/cancel-action@master
 
   build-and-test-python:
     runs-on: ubuntu-latest
 
     steps:
-    - uses: actions/checkout@v3.5.2
+    - uses: actions/checkout@main
       with:
         fetch-depth: 1
         ref: ${{ github.ref }}
@@ -54,7 +54,7 @@ jobs:
 
     - name: cancel entire action if failed
       if: failure()
-      uses: andymckay/cancel-action@0.2
+      uses: andymckay/cancel-action@master
 
   deploy-staging:
     needs: [build-api, build-and-test-python]
@@ -67,7 +67,7 @@ jobs:
       DEPLOY_TAG: staging
 
     steps:
-      - uses: actions/checkout@v3.5.2
+      - uses: actions/checkout@main
         with:
           fetch-depth: 1
           ref: main
@@ -92,7 +92,7 @@ jobs:
           args: push ${DOCKER_REPOSITORY}:${DEPLOY_TAG}
 
       - name: Log in to AKS and set ${{ env.CONTEXT }} cluster
-        uses: azure/aks-set-context@v1
+        uses: azure/aks-set-context@main
         with:
             creds: '${{ secrets.AZURE_CREDENTIALS }}'
             resource-group: 'ACMI_DEVOPS'
@@ -124,7 +124,7 @@ jobs:
       DEPLOY_TAG: production
 
     steps:
-      - uses: actions/checkout@v3.5.2
+      - uses: actions/checkout@main
         with:
           fetch-depth: 1
           ref: main
@@ -149,7 +149,7 @@ jobs:
           args: push ${DOCKER_REPOSITORY}:${DEPLOY_TAG}
 
       - name: Log in to AKS and set ${{ env.CONTEXT }} cluster
-        uses: azure/aks-set-context@v1
+        uses: azure/aks-set-context@main
         with:
             creds: '${{ secrets.AZURE_CREDENTIALS }}'
             resource-group: 'ACMI_DEVOPS'
