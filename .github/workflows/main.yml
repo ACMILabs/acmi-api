@@ -92,7 +92,7 @@ jobs:
           args: push ${DOCKER_REPOSITORY}:${DEPLOY_TAG}
 
       - name: Log in to AKS and set ${{ env.CONTEXT }} cluster
-        uses: azure/aks-set-context@main
+        uses: azure/aks-set-context@v1
         with:
             creds: '${{ secrets.AZURE_CREDENTIALS }}'
             resource-group: 'ACMI_DEVOPS'
@@ -149,7 +149,7 @@ jobs:
           args: push ${DOCKER_REPOSITORY}:${DEPLOY_TAG}
 
       - name: Log in to AKS and set ${{ env.CONTEXT }} cluster
-        uses: azure/aks-set-context@main
+        uses: azure/aks-set-context@v1
         with:
             creds: '${{ secrets.AZURE_CREDENTIALS }}'
             resource-group: 'ACMI_DEVOPS'
