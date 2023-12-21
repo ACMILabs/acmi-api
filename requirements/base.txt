@@ -6,4 +6,4 @@ gunicorn
 pytz
 requests
 sentry-sdk[flask]
-elasticsearch>=7.16,<8
+elasticsearch
