@@ -1,4 +1,4 @@
-FROM loadimpact/k6:latest AS k6official
+FROM grafana/k6:latest AS k6official
 
 FROM python:alpine
 

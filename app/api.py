@@ -304,7 +304,10 @@ class Search():
                     field: query
                 }
             }
-            search_results = self.elastic_search.search(index=resource, body=query_body)
+            search_results = self.elastic_search.search(  # pylint: disable=unexpected-keyword-arg
+                index=resource,
+                body=query_body,
+            )
         else:
             search_results = self.elastic_search.search(  # pylint: disable=unexpected-keyword-arg
                 index=resource,
@@ -361,7 +364,7 @@ class Search():
             except KeyError:
                 pass
         try:
-            self.elastic_search.index(
+            self.elastic_search.index(  # pylint: disable=unexpected-keyword-arg,missing-kwoa
                 index=resource,
                 id=json_data.get('id'),
                 body=json_data,
