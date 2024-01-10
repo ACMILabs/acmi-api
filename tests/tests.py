@@ -260,6 +260,30 @@ def test_audio_list_api():
         assert response.json['results']
         assert response.json['count']
 
+        response = client.get(
+            '/audio/?labels=123',
+            content_type='application/json',
+        )
+        assert response.status_code == 200
+        assert not response.json['next']
+        assert not response.json['results']
+        assert response.json['count'] == 0
+
+
+def test_audio_list_api_labels_filter():
+    """
+    Test the Audio List API labels filter returns expected content.
+    """
+    with acmi_api.application.test_client() as client:
+        response = client.get(
+            '/audio/?labels=61314',
+            content_type='application/json',
+        )
+        assert response.status_code == 200
+        assert not response.json['next']
+        assert response.json['count'] == 1
+        assert response.json['results'][0]['id'] == 1
+
 
 @patch('builtins.open', mock_item(resource='audio'))
 def test_audio_api():
