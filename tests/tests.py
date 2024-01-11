@@ -1,3 +1,5 @@
+# pylint: disable=too-many-lines
+
 import csv
 import json
 import os
@@ -69,6 +71,9 @@ def mock_index(resource='works'):
     if resource == 'works':
         with open('tests/data/index.json', 'rb') as json_file:
             return mock_open(read_data=json_file.read())
+    if resource == 'audio':
+        with open('tests/data/audio_index.json', 'rb') as json_file:
+            return mock_open(read_data=json_file.read())
     if resource == 'constellations':
         with open('tests/data/constellation_index.json', 'rb') as json_file:
             return mock_open(read_data=json_file.read())
@@ -84,6 +89,9 @@ def mock_item(resource='works'):
     """
     if resource == 'works':
         with open('tests/data/1.json', 'rb') as json_file:
+            return mock_open(read_data=json_file.read())
+    if resource == 'audio':
+        with open('tests/data/audio_1.json', 'rb') as json_file:
             return mock_open(read_data=json_file.read())
     if resource == 'constellations':
         with open('tests/data/constellation_1.json', 'rb') as json_file:
@@ -151,6 +159,8 @@ def test_api_root():
     api = API()
     assert api.get()['message'] == 'Welcome to the ACMI Public API.'
     assert api.get()['api'] == [
+        '/audio/',
+        '/audio/<audio_id>/',
         '/constellations/',
         '/constellations/<constellation_id>/',
         '/creators/',
@@ -233,6 +243,63 @@ def test_work_api_404():
         )
         assert response.status_code == 404
         assert response.json['message'] == 'That Work doesn\'t exist, sorry.'
+
+
+@patch('builtins.open', mock_index(resource='audio'))
+def test_audio_list_api():
+    """
+    Test the Audio List API returns expected content.
+    """
+    with acmi_api.application.test_client() as client:
+        response = client.get(
+            '/audio/',
+            content_type='application/json',
+        )
+        assert response.status_code == 200
+        assert response.json['next'] == 'https://api.acmi.net.au/audio/?page=2'
+        assert response.json['results']
+        assert response.json['count']
+
+        response = client.get(
+            '/audio/?labels=123',
+            content_type='application/json',
+        )
+        assert response.status_code == 200
+        assert not response.json['next']
+        assert not response.json['results']
+        assert response.json['count'] == 0
+
+
+def test_audio_list_api_labels_filter():
+    """
+    Test the Audio List API labels filter returns expected content.
+    """
+    with acmi_api.application.test_client() as client:
+        response = client.get(
+            '/audio/?labels=61314',
+            content_type='application/json',
+        )
+        assert response.status_code == 200
+        assert not response.json['next']
+        assert response.json['count'] == 1
+        assert response.json['results'][0]['id'] == 1
+
+
+@patch('builtins.open', mock_item(resource='audio'))
+def test_audio_api():
+    """
+    Test the individual Audio API returns expected content.
+    """
+    with acmi_api.application.test_client() as client:
+        response = client.get(
+            '/audio/1/',
+            content_type='application/json',
+        )
+        assert response.status_code == 200
+        assert response.json['id'] == 1
+        assert response.json['work']['id'] == 122500
+        assert response.json['work']['labels'][0] == 61958
+        assert 'work_122500.mp3' in response.json['resource']
 
 
 @patch('builtins.open', mock_index(resource='constellations'))
@@ -474,6 +541,37 @@ def test_update_assets():
 
 @patch('app.api.s3_resource.Object', MagicMock(side_effect=mock_boto3))
 @patch('app.api.destination_bucket', MagicMock())
+def test_update_assets_with_audio():
+    """
+    Test update assets uploads and renames Audio asset links.
+    Note: thumbnails are always uploaded
+    """
+    with open('tests/data/audio_1.json', 'rb') as audio:
+        acmi_api.INCLUDE_IMAGES = True
+        acmi_api.INCLUDE_VIDEOS = True
+        audio_json = json.load(audio)
+        xos_private_api = XOSAPI()
+        audio_json_1 = xos_private_api.update_assets(audio_json)
+        thumbnail_filename = (
+            f'https://{AWS_STORAGE_BUCKET_NAME}.s3.amazonaws.com/'
+            'image/Marshmallow_Laser_Feast_We_Live_In_An_Ocean_of_Air'
+            '_Courtesy_of_artists_2.jpg.1200x1200_q85.jpg'
+        )
+        resource_filename = (
+            f'https://{AWS_STORAGE_BUCKET_NAME}.s3.amazonaws.com/audio/work_122500.mp3'
+        )
+        assert audio_json_1['work']['thumbnail']['image_url'] == thumbnail_filename
+        assert audio_json_1['resource'] == resource_filename
+
+        acmi_api.INCLUDE_IMAGES = False
+        acmi_api.INCLUDE_VIDEOS = False
+        audio_json_1 = xos_private_api.update_assets(audio_json)
+        assert audio_json_1['work']['thumbnail']['image_url'] == thumbnail_filename
+        assert audio_json_1['resource'] == resource_filename
+
+
+@patch('app.api.s3_resource.Object', MagicMock(side_effect=mock_boto3))
+@patch('app.api.destination_bucket', MagicMock())
 def test_update_assets_with_constellations():
     """
     Test update assets uploads and renames Constellation asset links.
@@ -691,6 +789,26 @@ def test_search_api_results_failures():
         assert response.status_code == 504
         assert response.json['message'] == \
             'Sorry, your search request timed out. Please try again later.'
+
+
+@patch('elasticsearch.Elasticsearch.search', MagicMock(side_effect=mock_search))
+def test_search_api_audio():
+    """
+    Test the Search API with the audio resource.
+    """
+    with acmi_api.application.test_client() as client:
+        response = client.get(
+            '/search/?query=ocean&resource=audio',
+            content_type='application/json',
+        )
+        assert response.status_code == 200
+        assert response.json['count'] == 1
+        assert response.json['next'] == \
+            'http://localhost/search/?query=ocean&resource=audio&page=2'
+        assert not response.json['previous']
+        assert len(response.json['results']) == 1
+        assert response.json['results'][0]['id'] == 15
+        assert response.json['results'][0]['work']['labels'][0] == 61958
 
 
 @patch('elasticsearch.Elasticsearch.search', MagicMock(side_effect=mock_search))

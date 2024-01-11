@@ -14,6 +14,7 @@ import botocore
 import elasticsearch
 import pytz
 import requests
+from elastic_transport import ObjectApiResponse
 from elasticsearch import Elasticsearch
 from flask import Flask, request
 from flask_restful import Api, Resource, abort
@@ -87,6 +88,82 @@ class API(Resource):
                 routes.append(str(route))
         routes.sort()
         return routes
+
+
+class AudioListAPI(Resource):  # pylint: disable=too-few-public-methods
+    """
+    Audio API. The ACMI Collection.
+    """
+    def get(self):
+        """
+        List all Audio.
+        """
+        filename = 'index.json'
+        args = request.args
+        try:
+            if args.get('labels'):
+                return self.get_labels(args.get('labels'))
+            if args.get('page'):
+                filename = f'index_page_{int(args.get("page"))}.json'
+            json_file_path = os.path.join(JSON_ROOT, 'audio', filename)
+            with open(json_file_path, 'rb') as json_file:
+                return json.load(json_file)
+        except (FileNotFoundError, ValueError):
+            return {
+                abort(404, message='That Audio list doesn\'t exist, sorry.')
+            }
+
+    def get_labels(self, labels):
+        """
+        Returns a JSON list of Audio records from Label IDs.
+        """
+        labels_json = {
+            'count': 0,
+            'next': None,
+            'previous': None,
+            'results': [],
+        }
+        lookup_file_path = os.path.join(
+            JSON_ROOT,
+            'audio',
+            'audio_labels.json',
+        )
+        with open(lookup_file_path, 'rb') as lookup_json_file:
+            lookup_table = json.load(lookup_json_file)
+            for label_id in labels.split(','):
+                try:
+                    audio_id = lookup_table[label_id]
+                    json_file_path = os.path.join(
+                        JSON_ROOT,
+                        'audio',
+                        f'{audio_id}.json',
+                    )
+                    with open(json_file_path, 'rb') as json_file:
+                        labels_json['results'].append(json.load(json_file))
+                        labels_json['count'] += 1
+                except (FileNotFoundError, KeyError, ValueError):
+                    pass
+        return labels_json
+
+
+class AudioAPI(Resource):  # pylint: disable=too-few-public-methods
+    """
+    Get an individual Audio JSON.
+    """
+    def get(self, audio_id):
+        """
+        Returns the requested Audio or a 404.
+        """
+        try:
+            json_file_path = os.path.join(
+                JSON_ROOT,
+                'audio',
+                f'{int(audio_id)}.json',
+            )
+            with open(json_file_path, 'rb') as json_file:
+                return json.load(json_file)
+        except (FileNotFoundError, ValueError):
+            return abort(404, message='That Audio doesn\'t exist, sorry.')
 
 
 class ConstellationsAPI(Resource):  # pylint: disable=too-few-public-methods
@@ -315,7 +392,10 @@ class Search():
                 params=query_body,
             )
 
-        if not raw:
+        if raw:
+            if isinstance(search_results, ObjectApiResponse):
+                search_results = search_results.body
+        else:
             search_results = self.format_results(search_results)
 
         return search_results
@@ -495,6 +575,33 @@ class XOSAPI():  # pylint: disable=too-many-public-methods
             # TODO: Delete old works lists if the collection shrinks # pylint: disable=fixme
             self.save_items_lists(resource)
 
+    def get_audio(self):
+        """
+        Download and save Audio from XOS.
+        """
+        resource = 'audio'
+        params = self.params.copy()
+        print('Downloading all XOS Audio...')
+        params['page'] = 1
+        audio_saved = 0
+        audio_labels = {}
+        while True:
+            audio_json = self.get(resource, params).json()
+            audio_json = self.update_assets(audio_json)
+            self.save_list(resource, audio_json, params.get('page'))
+            self.add_audio_labels(audio_json, audio_labels)
+            audio_saved += self.save_items(resource, audio_json)
+            if not audio_json.get('next'):
+                break
+            params['page'] = furl(audio_json.get('next')).args.get('page')
+        print(f'Finished downloading {audio_saved} {resource}.')
+
+        json_directory = os.path.join(JSON_ROOT, resource)
+        audio_labels_file_path = os.path.join(json_directory, 'audio_labels.json')
+        with open(audio_labels_file_path, 'w', encoding='utf-8') as json_file:
+            json.dump(audio_labels, json_file, ensure_ascii=False, indent=None)
+            print(f'Saved {resource} labels lookup to {audio_labels_file_path}')
+
     def get_constellations(self):
         """
         Download and save Constellations from XOS.
@@ -540,6 +647,16 @@ class XOSAPI():  # pylint: disable=too-many-public-methods
         if not ALL_CREATORS:
             # TODO: Delete old creators lists if the collection shrinks # pylint: disable=fixme
             self.save_items_lists(resource)
+
+    def add_audio_labels(self, audio_json, audio_labels):
+        """
+        Adds a Label ID key to an audio_labels dict with the value set to the Audio ID.
+        """
+        for audio in audio_json.get('results', []):
+            try:
+                audio_labels[audio['work']['labels'][0]] = audio['id']
+            except TypeError:
+                pass
 
     def save_list(self, resource, works_json, page=None):
         """
@@ -644,7 +761,7 @@ class XOSAPI():  # pylint: disable=too-many-public-methods
         Upload images/videos to a public bucket, and update the links in the json.
         """
         # Upload assets to ACMI public API bucket
-        asset_regex = r'(https:\/\/[a-z0-9\-]+\.s3\.amazonaws\.com.*?)\?'
+        asset_regex = r'(https:\/\/[a-z0-9\-]+\.s3[a-z0-9\-\.]+amazonaws\.com.*?)\?'
         assets = re.findall(asset_regex, str(item_json))
         for asset in assets:
             source = re.findall(r'https:\/\/(.*?)\.s3', asset)[0]
@@ -659,6 +776,8 @@ class XOSAPI():  # pylint: disable=too-many-public-methods
                 destination_key = destination_key.replace('collection/', '')
             elif 'works/' in destination_key:
                 destination_key = destination_key.replace('works/', '')
+            elif '.mp3' in destination_key:
+                destination_key = f'audio/{destination_key}'
             else:
                 destination_key = f'video/{destination_key}'
 
@@ -694,6 +813,7 @@ class XOSAPI():  # pylint: disable=too-many-public-methods
 
         if not INCLUDE_VIDEOS:
             self.remove_assets(item_json, 'videos')
+            self.remove_assets(item_json, 'video')
             self.remove_video_links(item_json)
 
         return item_json
@@ -1036,6 +1156,8 @@ class XOSAPI():  # pylint: disable=too-many-public-methods
 
 
 api.add_resource(API, '/')
+api.add_resource(AudioListAPI, '/audio/')
+api.add_resource(AudioAPI, '/audio/<audio_id>/')
 api.add_resource(ConstellationsAPI, '/constellations/')
 api.add_resource(ConstellationAPI, '/constellations/<constellation_id>/')
 api.add_resource(CreatorsAPI, '/creators/')
@@ -1055,6 +1177,10 @@ if __name__ == '__main__':
         search = Search()
         search.update_index(resource='works')
         print('=================================================')
+        print('Starting to update Audio API from XOS...')
+        xos_private_api.get_audio()
+        search.update_index(resource='audio')
+        print('=================================================')
         print('Starting to update Constellations API from XOS...')
         xos_private_api.get_constellations()
         search.update_index(resource='constellations')
@@ -1069,6 +1195,7 @@ if __name__ == '__main__':
         print('Starting search indexing...')
         search = Search()
         search.update_index(resource='works')
+        search.update_index(resource='audio')
         search.update_index(resource='constellations')
         search.update_index(resource='creators')
         print('========================')
