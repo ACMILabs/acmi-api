@@ -169,7 +169,8 @@ def test_api_root():
         '/works/',
         '/works/<work_id>/',
     ]
-    assert 'ACMI acknowledges the Traditional Owners' in api.get()['acknowledgement']
+    assert 'ACMI would like to acknowledge the Traditional Custodians'\
+        in api.get()['acknowledgement']
 
 
 @patch('builtins.open', mock_index())
