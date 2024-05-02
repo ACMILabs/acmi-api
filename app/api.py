@@ -69,13 +69,12 @@ class API(Resource):
             'message': 'Welcome to the ACMI Public API.',
             'api': self.routes(),
             'acknowledgement':
-                'ACMI acknowledges the Traditional Owners, the Wurundjeri and Boon Wurrung '
-                'people of the Kulin Nation, on whose land we meet, share and work. We pay our '
-                'respects to Elders past and present and extend our respect to Aboriginal and '
-                'Torres Strait Islander people from all nations of this land. Aboriginal and '
-                'Torres Strait Islander people should be aware that this website may contain '
-                'images, voices or names of deceased persons in photographs, film, audio '
-                'recordings or text.',
+                'ACMI would like to acknowledge the Traditional Custodians of the lands '
+                'and waterways of greater Melbourne, the people of the Kulin Nation, and '
+                'recognise that ACMI is located on the lands of the Wurundjeri people. '
+                'First Nations (Aboriginal and Torres Strait Islander) people should be aware '
+                'that this website may contain images, voices, or names of deceased persons in '
+                'photographs, film, audio recordings or text.',
         }
 
     def routes(self):
