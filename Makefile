@@ -14,16 +14,16 @@ help:
 	@echo ' linttest         - Run lint and test'
 build:
 	# Build and start the api and search containers
-	cd development && docker-compose up --build
+	cd development && docker compose up --build
 up:
 	# Start the api and search containers
-	cd development && docker-compose up
+	cd development && docker compose up
 base:
 	# Start only the api container
-	cd development && docker-compose -f docker-compose-base.yml up
+	cd development && docker compose -f docker-compose-base.yml up
 down:
 	# Remove the networks
-	cd development && docker-compose down
+	cd development && docker compose down
 lint:
 	# Lint the python code
 	pylint *

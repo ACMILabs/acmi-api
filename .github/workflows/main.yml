@@ -47,7 +47,7 @@ jobs:
     - name: Build Python lint and test
       run: |
         cp config.tmpl.env config.env
-        cd development && docker-compose -f docker-compose-base.yml up --build -d
+        cd development && docker compose -f docker-compose-base.yml up --build -d
 
     - name: Run Python lint and test
       run: docker exec api make linttest
