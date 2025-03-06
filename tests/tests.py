@@ -13,11 +13,6 @@ import requests
 import app.api as acmi_api
 from app.api import API, AWS_STORAGE_BUCKET_NAME, XOSAPI
 
-acmi_api.application.config['SQLALCHEMY_DATABASE_URI'] = 'sqlite:///:memory:'
-acmi_api.application.config['TESTING'] = True
-# Work out how to use this database for testing
-# acmi_api.database = SQLAlchemy(acmi_api.application)
-
 
 class MockResponse:
     def __init__(self, json_data, status_code):
