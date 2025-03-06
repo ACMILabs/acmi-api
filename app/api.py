@@ -54,7 +54,9 @@ SUGGESTIONS_API_KEYS = json.loads(os.getenv('SUGGESTIONS_API_KEYS', '[]'))
 application = Flask(__name__)
 api = Api(application)
 
-application.config['SQLALCHEMY_DATABASE_URI'] = f'sqlite:///{SUGGESTIONS_DATABASE_PATH}.db'
+if SUGGESTIONS_DATABASE != ':memory:':
+    SUGGESTIONS_DATABASE_PATH = f'{SUGGESTIONS_DATABASE_PATH}.db'
+application.config['SQLALCHEMY_DATABASE_URI'] = f'sqlite:///{SUGGESTIONS_DATABASE_PATH}'
 print(f"Database URI: {application.config['SQLALCHEMY_DATABASE_URI']}")
 database = SQLAlchemy(application)
 
@@ -1226,7 +1228,7 @@ class SuggestionsListAPI(Resource):  # pylint: disable=too-few-public-methods
         with application.app_context():
             suggestion_object = Suggestion.query.filter_by(url=url, text=text).first()
             if not suggestion_object:
-                suggestion_object = Suggestion(url=url, text=text)
+                suggestion_object = Suggestion(url=url, text=text, score=0)
                 database.session.add(suggestion_object)
 
             # Update score based on vote
