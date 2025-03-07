@@ -47,7 +47,7 @@ ELASTICSEARCH_API_KEY_ID = os.getenv('ELASTICSEARCH_API_KEY_ID')
 INCLUDE_IMAGES = os.getenv('INCLUDE_IMAGES', 'false').lower() == 'true'
 INCLUDE_VIDEOS = os.getenv('INCLUDE_VIDEOS', 'false').lower() == 'true'
 INCLUDE_EXTERNAL = os.getenv('INCLUDE_EXTERNAL', 'false').lower() == 'true'
-SUGGESTIONS_DATABASE = os.getenv('SUGGESTIONS_DATABASE', 'suggestions')
+SUGGESTIONS_DATABASE = os.getenv('SUGGESTIONS_DATABASE')
 SUGGESTIONS_DATABASE_PATH = os.path.join(SITE_ROOT, 'instance', SUGGESTIONS_DATABASE)
 SUGGESTIONS_API_KEYS = json.loads(os.getenv('SUGGESTIONS_API_KEYS', '[]'))
 
