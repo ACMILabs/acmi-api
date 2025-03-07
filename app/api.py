@@ -54,9 +54,10 @@ SUGGESTIONS_API_KEYS = json.loads(os.getenv('SUGGESTIONS_API_KEYS', '[]'))
 application = Flask(__name__)
 api = Api(application)
 
-if SUGGESTIONS_DATABASE != ':memory:':
-    SUGGESTIONS_DATABASE_PATH = f'{SUGGESTIONS_DATABASE_PATH}.db'
-application.config['SQLALCHEMY_DATABASE_URI'] = f'sqlite:///{SUGGESTIONS_DATABASE_PATH}'
+if SUGGESTIONS_DATABASE == ':memory:':
+    application.config['SQLALCHEMY_DATABASE_URI'] = f'sqlite:///{SUGGESTIONS_DATABASE}'
+else:
+    application.config['SQLALCHEMY_DATABASE_URI'] = f'sqlite:///{SUGGESTIONS_DATABASE_PATH}.db'
 print(f"Database URI: {application.config['SQLALCHEMY_DATABASE_URI']}")
 database = SQLAlchemy(application)
 
