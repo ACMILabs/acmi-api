@@ -18,6 +18,7 @@ from elastic_transport import ObjectApiResponse
 from elasticsearch import Elasticsearch
 from flask import Flask, request
 from flask_restful import Api, Resource, abort
+from flask_sqlalchemy import SQLAlchemy
 from furl import furl
 from requests.utils import requote_uri
 
@@ -46,9 +47,20 @@ ELASTICSEARCH_API_KEY_ID = os.getenv('ELASTICSEARCH_API_KEY_ID')
 INCLUDE_IMAGES = os.getenv('INCLUDE_IMAGES', 'false').lower() == 'true'
 INCLUDE_VIDEOS = os.getenv('INCLUDE_VIDEOS', 'false').lower() == 'true'
 INCLUDE_EXTERNAL = os.getenv('INCLUDE_EXTERNAL', 'false').lower() == 'true'
+SUGGESTIONS_DATABASE = os.getenv('SUGGESTIONS_DATABASE')
+SUGGESTIONS_DATABASE_PATH = os.path.join(SITE_ROOT, 'instance', SUGGESTIONS_DATABASE)
+SUGGESTIONS_API_KEYS = json.loads(os.getenv('SUGGESTIONS_API_KEYS', '[]'))
 
 application = Flask(__name__)
 api = Api(application)
+
+if SUGGESTIONS_DATABASE == ':memory:':
+    application.config['SQLALCHEMY_DATABASE_URI'] = f'sqlite:///{SUGGESTIONS_DATABASE}'
+else:
+    application.config['SQLALCHEMY_DATABASE_URI'] = f'sqlite:///{SUGGESTIONS_DATABASE_PATH}.db'
+print(f"Database URI: {application.config['SQLALCHEMY_DATABASE_URI']}")
+database = SQLAlchemy(application)
+
 s3_resource = boto3.resource(
     's3',
     aws_access_key_id=AWS_ACCESS_KEY_ID,
@@ -1154,6 +1166,107 @@ class XOSAPI():  # pylint: disable=too-many-public-methods
         return row
 
 
+class Suggestion(database.Model):  # pylint: disable=too-few-public-methods
+    """
+    Suggestions database model.
+    """
+    id = database.Column(database.Integer, primary_key=True)
+    url = database.Column(database.String, unique=True, nullable=False)
+    text = database.Column(database.String, nullable=False)
+    score = database.Column(database.Integer, default=0)
+    suggestions = database.Column(database.Text, default='[]')  # Store list as JSON string
+
+    def to_dict(self):
+        return {
+            'id': self.id,
+            'url': self.url,
+            'text': self.text,
+            'score': self.score,
+            'suggestions': json.loads(self.suggestions)
+        }
+
+
+class SuggestionsListAPI(Resource):  # pylint: disable=too-few-public-methods
+    """
+    Suggestions API. An implementation of yes/no/fix.
+    """
+    def __init__(self):
+        # Create database tables if they don't exist
+        with application.app_context():
+            database.create_all()
+
+    def get(self):
+        """
+        List all Suggestions.
+        """
+        args = request.args
+        limit = int(args.get('limit', '100'))
+        suggestions = []
+        with application.app_context():
+            suggestions = Suggestion.query.order_by(Suggestion.id.desc()).limit(limit).all()
+            suggestions_dict = [suggestion.to_dict() for suggestion in suggestions]
+        return suggestions_dict
+
+    def post(self):
+        """
+        Create or update a Suggestion.
+        """
+        data = request.get_json()
+        url = data.get('url')
+        text = data.get('text')
+        vote = data.get('vote')
+        suggestion = data.get('suggestion')
+        api_key = request.headers.get('Authorization', '')\
+            .replace('Bearer ', '').replace('Token ', '')
+
+        if not api_key or api_key not in SUGGESTIONS_API_KEYS:
+            return {'error': 'A valid API Key is required'}, 400
+
+        # Validate that URL and text fields are provided
+        if not url or not text:
+            return {'error': 'URL and text fields are required'}, 400
+
+        with application.app_context():
+            suggestion_object = Suggestion.query.filter_by(url=url, text=text).first()
+            if not suggestion_object:
+                suggestion_object = Suggestion(url=url, text=text, score=0)
+                database.session.add(suggestion_object)
+
+            # Update score based on vote
+            if vote:
+                if vote == 'up':
+                    suggestion_object.score += 1
+                elif vote == 'down':
+                    suggestion_object.score -= 1
+                else:
+                    return {'error': "Vote must be 'up' or 'down'"}, 400
+
+            # Add suggestion to the list if provided
+            if suggestion:
+                suggestions_list = json.loads(suggestion_object.suggestions or '[]')
+                if suggestion not in suggestions_list:
+                    suggestions_list.append(suggestion)
+                suggestion_object.suggestions = json.dumps(suggestions_list)
+
+            database.session.commit()
+            return suggestion_object.to_dict()
+
+
+class SuggestionsAPI(Resource):  # pylint: disable=too-few-public-methods
+    """
+    Get an individual Suggestions JSON.
+    """
+    def get(self, suggestion_id):
+        """
+        Returns the requested Suggestion or a 404.
+        """
+        with application.app_context():
+            suggestion = Suggestion.query.filter_by(id=suggestion_id).first()
+            if suggestion:
+                return suggestion.to_dict()
+        return abort(404, message='That Suggestion doesn\'t exist, sorry.')
+
+
 api.add_resource(API, '/')
 api.add_resource(AudioListAPI, '/audio/')
 api.add_resource(AudioAPI, '/audio/<audio_id>/')
@@ -1164,6 +1277,8 @@ api.add_resource(CreatorAPI, '/creators/<creator_id>/')
 api.add_resource(WorksAPI, '/works/')
 api.add_resource(WorkAPI, '/works/<work_id>/')
 api.add_resource(SearchAPI, '/search/')
+api.add_resource(SuggestionsListAPI, '/suggestions/')
+api.add_resource(SuggestionsAPI, '/suggestions/<suggestion_id>/')
 
 if __name__ == '__main__':
     if UPDATE_ITEMS:

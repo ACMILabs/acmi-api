@@ -166,6 +166,8 @@ def test_api_root():
         '/creators/',
         '/creators/<creator_id>/',
         '/search/',
+        '/suggestions/',
+        '/suggestions/<suggestion_id>/',
         '/works/',
         '/works/<work_id>/',
     ]
@@ -1047,3 +1049,160 @@ def test_remove_external_works():
     assert works_json['results'][0]['group_siblings'][0]['id'] == 126
     assert len(works_json['results'][1]['group_siblings']) == 1
     assert works_json['results'][1]['group_siblings'][0]['id'] == 128
+
+
+def test_suggestions_list_get():
+    """Test GET /suggestions/ returns a list of suggestions in reverse order."""
+    with acmi_api.application.app_context():
+        acmi_api.database.drop_all()
+        acmi_api.database.create_all()
+
+        # Add sample suggestions
+        suggestion1 = acmi_api.Suggestion(url='http://example.com/1', text='Text 1')
+        suggestion2 = acmi_api.Suggestion(url='http://example.com/2', text='Text 2')
+        acmi_api.database.session.add(suggestion1)
+        acmi_api.database.session.add(suggestion2)
+        acmi_api.database.session.commit()
+
+    with acmi_api.application.test_client() as client:
+        response = client.get('/suggestions/', content_type='application/json')
+        assert response.status_code == 200
+        data = response.json
+        assert len(data) == 2
+        assert data[0]['text'] == 'Text 2'  # Reversed order
+        assert data[1]['text'] == 'Text 1'
+
+        # Test with limit parameter
+        response = client.get('/suggestions/?limit=1', content_type='application/json')
+        assert response.status_code == 200
+        data = response.json
+        assert len(data) == 1
+        assert data[0]['text'] == 'Text 2'
+
+
+@patch('app.api.SUGGESTIONS_API_KEYS', ['test_key'])
+def test_suggestions_list_post_create():
+    """Test POST /suggestions/ creates a new suggestion."""
+    headers = {'Authorization': 'Bearer test_key'}
+    data = {'url': 'http://example.com/3', 'text': 'Text 3'}
+    with acmi_api.application.test_client() as client:
+        response = client.post('/suggestions/', json=data, headers=headers)
+        assert response.status_code == 200
+        suggestion = response.json
+        assert suggestion['url'] == 'http://example.com/3'
+        assert suggestion['text'] == 'Text 3'
+        assert suggestion['score'] == 0
+        assert suggestion['suggestions'] == []
+
+
+@patch('app.api.SUGGESTIONS_API_KEYS', ['test_key'])
+def test_suggestions_list_post_vote():
+    """Test POST /suggestions/ updates score with up/down votes."""
+    headers = {'Authorization': 'Bearer test_key'}
+    data = {'url': 'http://example.com/4', 'text': 'Text 4'}
+    # Create suggestion
+    with acmi_api.application.test_client() as client:
+        response = client.post('/suggestions/', json=data, headers=headers)
+        assert response.status_code == 200
+
+    # Vote up
+    vote_data = {'url': 'http://example.com/4', 'text': 'Text 4', 'vote': 'up'}
+    with acmi_api.application.test_client() as client:
+        response = client.post('/suggestions/', json=vote_data, headers=headers)
+        assert response.status_code == 200
+        updated_suggestion = response.json
+        assert updated_suggestion['score'] == 1
+
+        # Vote down
+        vote_data['vote'] = 'down'
+        response = client.post('/suggestions/', json=vote_data, headers=headers)
+        assert response.status_code == 200
+        updated_suggestion = response.json
+        assert updated_suggestion['score'] == 0
+
+
+@patch('app.api.SUGGESTIONS_API_KEYS', ['test_key'])
+def test_suggestions_list_post_add_suggestion():
+    """Test POST /suggestions/ adds suggestion text without duplicates."""
+    headers = {'Authorization': 'Bearer test_key'}
+    data = {'url': 'http://example.com/5', 'text': 'Text 5'}
+    with acmi_api.application.test_client() as client:
+        # Create suggestion
+        response = client.post('/suggestions/', json=data, headers=headers)
+        assert response.status_code == 200
+
+        # Add suggestion text
+        suggestion_data = {
+            'url': 'http://example.com/5',
+            'text': 'Text 5',
+            'suggestion': 'New suggestion',
+        }
+        response = client.post('/suggestions/', json=suggestion_data, headers=headers)
+        assert response.status_code == 200
+        updated_suggestion = response.json
+        assert updated_suggestion['suggestions'] == ['New suggestion']
+
+        # Add another suggestion
+        suggestion_data['suggestion'] = 'Another suggestion'
+        response = client.post('/suggestions/', json=suggestion_data, headers=headers)
+        assert response.status_code == 200
+        updated_suggestion = response.json
+        assert updated_suggestion['suggestions'] == ['New suggestion', 'Another suggestion']
+
+        # Try adding duplicate suggestion
+        response = client.post('/suggestions/', json=suggestion_data, headers=headers)
+        assert response.status_code == 200
+        updated_suggestion = response.json
+        assert updated_suggestion['suggestions'] == ['New suggestion', 'Another suggestion']
+
+
+@patch('app.api.SUGGESTIONS_API_KEYS', ['test_key'])
+def test_suggestions_list_post_errors():
+    """Test POST /suggestions/ error handling."""
+    headers = {'Authorization': 'Bearer test_key'}
+    # Missing API key
+    data = {'url': 'http://example.com/6', 'text': 'Text 6'}
+    with acmi_api.application.test_client() as client:
+        response = client.post('/suggestions/', json=data)
+        assert response.status_code == 400
+        assert response.json['error'] == 'A valid API Key is required'
+
+        # Invalid vote
+        data['vote'] = 'sideways'
+        response = client.post('/suggestions/', json=data, headers=headers)
+        assert response.status_code == 400
+        assert response.json['error'] == "Vote must be 'up' or 'down'"
+
+        # Missing url
+        data = {'text': 'Text 7'}
+        response = client.post('/suggestions/', json=data, headers=headers)
+        assert response.status_code == 400
+        assert response.json['error'] == 'URL and text fields are required'
+
+        # Missing text
+        data = {'url': 'http://example.com/7'}
+        response = client.post('/suggestions/', json=data, headers=headers)
+        assert response.status_code == 400
+        assert response.json['error'] == 'URL and text fields are required'
+
+
+def test_suggestion_get():
+    """Test GET /suggestions/<id>/ retrieves a single suggestion."""
+    with acmi_api.application.app_context():
+        suggestion = acmi_api.Suggestion(url='http://example.com/8', text='Text 8')
+        acmi_api.database.session.add(suggestion)
+        acmi_api.database.session.commit()
+        suggestion_id = suggestion.id
+
+    with acmi_api.application.test_client() as client:
+        response = client.get(f'/suggestions/{suggestion_id}/', content_type='application/json')
+        assert response.status_code == 200
+        data = response.json
+        assert data['id'] == suggestion_id
+        assert data['url'] == 'http://example.com/8'
+        assert data['text'] == 'Text 8'
+
+        # Test non-existent suggestion
+        response = client.get('/suggestions/999/', content_type='application/json')
+        assert response.status_code == 404
+        assert response.json['message'] == "That Suggestion doesn't exist, sorry."
