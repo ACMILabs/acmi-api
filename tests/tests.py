@@ -1084,7 +1084,7 @@ def test_suggestions_list_get():
 def test_suggestions_list_post_create():
     """Test POST /suggestions/ creates a new suggestion."""
     headers = {'Authorization': 'Bearer test_key'}
-    data = {'url': 'http://example.com/3', 'text': 'Text 3'}
+    data = {'url': 'http://example.com/3', 'text': 'Text 3', 'suggestion': 'A new suggestion'}
     with acmi_api.application.test_client() as client:
         response = client.post('/suggestions/', json=data, headers=headers)
         assert response.status_code == 200
@@ -1092,19 +1092,13 @@ def test_suggestions_list_post_create():
         assert suggestion['url'] == 'http://example.com/3'
         assert suggestion['text'] == 'Text 3'
         assert suggestion['score'] == 0
-        assert suggestion['suggestions'] == []
+        assert suggestion['suggestions'] == ['A new suggestion']
 
 
 @patch('app.api.SUGGESTIONS_API_KEYS', ['test_key'])
 def test_suggestions_list_post_vote():
     """Test POST /suggestions/ updates score with up/down votes."""
     headers = {'Authorization': 'Bearer test_key'}
-    data = {'url': 'http://example.com/4', 'text': 'Text 4'}
-    # Create suggestion
-    with acmi_api.application.test_client() as client:
-        response = client.post('/suggestions/', json=data, headers=headers)
-        assert response.status_code == 200
-
     # Vote up
     vote_data = {'url': 'http://example.com/4', 'text': 'Text 4', 'vote': 'up'}
     with acmi_api.application.test_client() as client:
@@ -1125,12 +1119,7 @@ def test_suggestions_list_post_vote():
 def test_suggestions_list_post_add_suggestion():
     """Test POST /suggestions/ adds suggestion text without duplicates."""
     headers = {'Authorization': 'Bearer test_key'}
-    data = {'url': 'http://example.com/5', 'text': 'Text 5'}
     with acmi_api.application.test_client() as client:
-        # Create suggestion
-        response = client.post('/suggestions/', json=data, headers=headers)
-        assert response.status_code == 200
-
         # Add suggestion text
         suggestion_data = {
             'url': 'http://example.com/5',
@@ -1184,6 +1173,12 @@ def test_suggestions_list_post_errors():
         response = client.post('/suggestions/', json=data, headers=headers)
         assert response.status_code == 400
         assert response.json['error'] == 'URL and text fields are required'
+
+        # Missing vote or suggestion
+        data = {'url': 'http://example.com/7', 'text': 'Text 7'}
+        response = client.post('/suggestions/', json=data, headers=headers)
+        assert response.status_code == 400
+        assert response.json['error'] == 'A vote or a suggestion is required'
 
 
 def test_suggestion_get():

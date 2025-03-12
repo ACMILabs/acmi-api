@@ -1174,7 +1174,23 @@ class Suggestion(database.Model):  # pylint: disable=too-few-public-methods
     url = database.Column(database.String, unique=True, nullable=False)
     text = database.Column(database.String, nullable=False)
     score = database.Column(database.Integer, default=0)
-    suggestions = database.Column(database.Text, default='[]')  # Store list as JSON string
+    suggestions = database.Column(database.Text, default='[]')
+    date_created = database.Column(
+        database.DateTime,
+        nullable=False,
+        default=datetime.datetime.now,
+    )
+    date_updated = database.Column(
+        database.DateTime,
+        nullable=False,
+        default=datetime.datetime.now,
+        onupdate=datetime.datetime.now,
+    )
+    data = database.Column(
+        database.JSON,
+        nullable=True,
+        default=lambda: {},
+    )
 
     def to_dict(self):
         return {
@@ -1182,7 +1198,10 @@ class Suggestion(database.Model):  # pylint: disable=too-few-public-methods
             'url': self.url,
             'text': self.text,
             'score': self.score,
-            'suggestions': json.loads(self.suggestions)
+            'date_created': self.date_created.isoformat() if self.date_created else None,
+            'date_updated': self.date_updated.isoformat() if self.date_updated else None,
+            'data': self.data,
+            'suggestions': json.loads(self.suggestions),
         }
 
 
@@ -1211,25 +1230,28 @@ class SuggestionsListAPI(Resource):  # pylint: disable=too-few-public-methods
         """
         Create or update a Suggestion.
         """
-        data = request.get_json()
-        url = data.get('url')
-        text = data.get('text')
-        vote = data.get('vote')
-        suggestion = data.get('suggestion')
+        request_data = request.get_json()
+        url = request_data.get('url')
+        text = request_data.get('text')
+        vote = request_data.get('vote')
+        data = request_data.get('data')
+        suggestion = request_data.get('suggestion')
         api_key = request.headers.get('Authorization', '')\
             .replace('Bearer ', '').replace('Token ', '')
 
         if not api_key or api_key not in SUGGESTIONS_API_KEYS:
             return {'error': 'A valid API Key is required'}, 400
 
-        # Validate that URL and text fields are provided
         if not url or not text:
             return {'error': 'URL and text fields are required'}, 400
+
+        if not vote and not suggestion:
+            return {'error': 'A vote or a suggestion is required'}, 400
 
         with application.app_context():
             suggestion_object = Suggestion.query.filter_by(url=url, text=text).first()
             if not suggestion_object:
-                suggestion_object = Suggestion(url=url, text=text, score=0)
+                suggestion_object = Suggestion(url=url, text=text, score=0, suggestions='[]')
                 database.session.add(suggestion_object)
 
             # Update score based on vote
@@ -1240,6 +1262,10 @@ class SuggestionsListAPI(Resource):  # pylint: disable=too-few-public-methods
                     suggestion_object.score -= 1
                 else:
                     return {'error': "Vote must be 'up' or 'down'"}, 400
+
+            # Add data
+            if data:
+                suggestion_object.data = data
 
             # Add suggestion to the list if provided
             if suggestion:
