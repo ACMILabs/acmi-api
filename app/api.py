@@ -22,6 +22,8 @@ from flask_sqlalchemy import SQLAlchemy
 from furl import furl
 from requests.utils import requote_uri
 
+from app.jira import Client
+
 DEBUG = os.getenv('DEBUG', 'false').lower() == 'true'
 UPDATE_ITEMS = os.getenv('UPDATE_ITEMS', 'false').lower() == 'true'
 ALL_WORKS = os.getenv('ALL_WORKS', 'false').lower() == 'true'
@@ -50,6 +52,7 @@ INCLUDE_EXTERNAL = os.getenv('INCLUDE_EXTERNAL', 'false').lower() == 'true'
 SUGGESTIONS_DATABASE = os.getenv('SUGGESTIONS_DATABASE')
 SUGGESTIONS_DATABASE_PATH = os.path.join(SITE_ROOT, 'instance', SUGGESTIONS_DATABASE)
 SUGGESTIONS_API_KEYS = json.loads(os.getenv('SUGGESTIONS_API_KEYS', '[]'))
+JIRA_ENABLED = os.getenv('JIRA_TOKEN', '') != ''
 
 application = Flask(__name__)
 api = Api(application)
@@ -1275,6 +1278,9 @@ class SuggestionsListAPI(Resource):  # pylint: disable=too-few-public-methods
                 suggestion_object.suggestions = json.dumps(suggestions_list)
 
             database.session.commit()
+            if JIRA_ENABLED:
+                jira = Client()
+                jira.create_or_update(suggestion_object.to_dict())
             return suggestion_object.to_dict()
 
 
