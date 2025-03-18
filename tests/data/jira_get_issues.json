@@ -1,0 +1,946 @@
+{
+  "expand": "schema,names",
+  "startAt": 0,
+  "maxResults": 50,
+  "total": 3,
+  "issues": [
+    {
+      "expand": "operations,versionedRepresentations,editmeta,changelog,customfield_10010.requestTypePractice,renderedFields",
+      "id": "34059",
+      "self": "https://acmisupport.atlassian.net/rest/api/2/issue/34059",
+      "key": "AHD-4853",
+      "fields": {
+        "statuscategorychangedate": "2023-02-09T10:46:04.642+1100",
+        "customfield_10070": null,
+        "customfield_10071": null,
+        "customfield_10072": null,
+        "customfield_10073": null,
+        "customfield_10074": null,
+        "customfield_10075": null,
+        "customfield_10076": null,
+        "customfield_10077": {
+          "id": "26",
+          "name": "Termination User SLA",
+          "_links": {
+            "self": "https://acmisupport.atlassian.net/rest/servicedeskapi/request/34059/sla/26"
+          },
+          "completedCycles": []
+        },
+        "fixVersions": [],
+        "customfield_10078": null,
+        "resolution": null,
+        "customfield_10079": {
+          "id": "25",
+          "name": "Time to close after resolution",
+          "_links": {
+            "self": "https://acmisupport.atlassian.net/rest/servicedeskapi/request/34059/sla/25"
+          },
+          "completedCycles": []
+        },
+        "lastViewed": null,
+        "customfield_10060": {
+          "self": "https://acmisupport.atlassian.net/rest/api/2/customFieldOption/10024",
+          "value": "Select a value",
+          "id": "10024"
+        },
+        "customfield_10061": null,
+        "customfield_10062": null,
+        "customfield_10063": null,
+        "customfield_10064": {
+          "self": "https://acmisupport.atlassian.net/rest/api/2/customFieldOption/10029",
+          "value": "Select a value",
+          "id": "10029"
+        },
+        "customfield_10065": null,
+        "customfield_10066": null,
+        "priority": {
+          "self": "https://acmisupport.atlassian.net/rest/api/2/priority/10000",
+          "iconUrl": "https://acmisupport.atlassian.net/images/icons/priorities/blocker.svg",
+          "name": "Blocker",
+          "id": "10000"
+        },
+        "customfield_10067": null,
+        "customfield_10068": null,
+        "customfield_10069": null,
+        "aggregatetimeoriginalestimate": null,
+        "timeestimate": null,
+        "versions": [],
+        "issuelinks": [],
+        "assignee": {
+          "self": "https://acmisupport.atlassian.net/rest/api/2/user?accountId=70121%3A43c41ab9-d9f7-49d8-9061-8a49acb98ea4",
+          "accountId": "70121:43c41ab9-d9f7-49d8-9061-8a49acb98ea4",
+          "emailAddress": "av@acmi.net.au",
+          "avatarUrls": {
+            "48x48": "https://secure.gravatar.com/avatar/bd4a00d096ba3a8f74d89ecf4712a5ff?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FAA-2.png",
+            "24x24": "https://secure.gravatar.com/avatar/bd4a00d096ba3a8f74d89ecf4712a5ff?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FAA-2.png",
+            "16x16": "https://secure.gravatar.com/avatar/bd4a00d096ba3a8f74d89ecf4712a5ff?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FAA-2.png",
+            "32x32": "https://secure.gravatar.com/avatar/bd4a00d096ba3a8f74d89ecf4712a5ff?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FAA-2.png"
+          },
+          "displayName": "ACMI AV",
+          "active": true,
+          "timeZone": "Australia/Melbourne",
+          "accountType": "atlassian"
+        },
+        "status": {
+          "self": "https://acmisupport.atlassian.net/rest/api/2/status/1",
+          "description": "The issue is open and ready for the assignee to start work on it.",
+          "iconUrl": "https://acmisupport.atlassian.net/images/icons/statuses/open.png",
+          "name": "Open",
+          "id": "1",
+          "statusCategory": {
+            "self": "https://acmisupport.atlassian.net/rest/api/2/statuscategory/2",
+            "id": 2,
+            "key": "new",
+            "colorName": "blue-gray",
+            "name": "To Do"
+          }
+        },
+        "customfield_10050": null,
+        "customfield_10051": null,
+        "customfield_10052": null,
+        "customfield_10053": null,
+        "customfield_10054": null,
+        "customfield_10055": null,
+        "customfield_10056": {
+          "self": "https://acmisupport.atlassian.net/rest/api/2/customFieldOption/10020",
+          "value": "Select a value",
+          "id": "10020"
+        },
+        "customfield_10057": null,
+        "customfield_10058": null,
+        "customfield_10059": null,
+        "customfield_10049": null,
+        "aggregatetimeestimate": null,
+        "creator": {
+          "self": "https://acmisupport.atlassian.net/rest/api/2/user?accountId=70121%3A777319b4-0a5b-4e9a-9335-d7d7a741320b",
+          "accountId": "70121:777319b4-0a5b-4e9a-9335-d7d7a741320b",
+          "emailAddress": "john.fishman@acmi.net.au",
+          "avatarUrls": {
+            "48x48": "https://secure.gravatar.com/avatar/82456e372388a085f73fa7750b8eebed?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FJF-3.png",
+            "24x24": "https://secure.gravatar.com/avatar/82456e372388a085f73fa7750b8eebed?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FJF-3.png",
+            "16x16": "https://secure.gravatar.com/avatar/82456e372388a085f73fa7750b8eebed?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FJF-3.png",
+            "32x32": "https://secure.gravatar.com/avatar/82456e372388a085f73fa7750b8eebed?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FJF-3.png"
+          },
+          "displayName": "John Fishman",
+          "active": true,
+          "timeZone": "Australia/Sydney",
+          "accountType": "atlassian"
+        },
+        "subtasks": [],
+        "customfield_10040": null,
+        "customfield_10042": { "languageCode": "en", "displayName": "English" },
+        "reporter": {
+          "self": "https://acmisupport.atlassian.net/rest/api/2/user?accountId=70121%3A777319b4-0a5b-4e9a-9335-d7d7a741320b",
+          "accountId": "70121:777319b4-0a5b-4e9a-9335-d7d7a741320b",
+          "emailAddress": "john.fishman@acmi.net.au",
+          "avatarUrls": {
+            "48x48": "https://secure.gravatar.com/avatar/82456e372388a085f73fa7750b8eebed?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FJF-3.png",
+            "24x24": "https://secure.gravatar.com/avatar/82456e372388a085f73fa7750b8eebed?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FJF-3.png",
+            "16x16": "https://secure.gravatar.com/avatar/82456e372388a085f73fa7750b8eebed?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FJF-3.png",
+            "32x32": "https://secure.gravatar.com/avatar/82456e372388a085f73fa7750b8eebed?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FJF-3.png"
+          },
+          "displayName": "John Fishman",
+          "active": true,
+          "timeZone": "Australia/Sydney",
+          "accountType": "atlassian"
+        },
+        "aggregateprogress": { "progress": 0, "total": 0 },
+        "customfield_10045": [],
+        "customfield_10046": null,
+        "customfield_10047": "Please enter the final response.",
+        "customfield_10048": "NA",
+        "customfield_10038": {
+          "id": "23",
+          "name": "Time to resolution",
+          "_links": {
+            "self": "https://acmisupport.atlassian.net/rest/servicedeskapi/request/34059/sla/23"
+          },
+          "completedCycles": []
+        },
+        "customfield_10039": {
+          "id": "24",
+          "name": "Time to first response",
+          "_links": {
+            "self": "https://acmisupport.atlassian.net/rest/servicedeskapi/request/34059/sla/24"
+          },
+          "completedCycles": []
+        },
+        "progress": { "progress": 0, "total": 0 },
+        "votes": {
+          "self": "https://acmisupport.atlassian.net/rest/api/2/issue/AHD-4853/votes",
+          "votes": 0,
+          "hasVoted": false
+        },
+        "issuetype": {
+          "self": "https://acmisupport.atlassian.net/rest/api/2/issuetype/10011",
+          "id": "10011",
+          "description": " (Migrated on 30 Dec 2022 04:35 UTC)",
+          "iconUrl": "https://acmisupport.atlassian.net/rest/api/2/universal_avatar/view/type/issuetype/avatar/10300?size=medium",
+          "name": "Researcher Lens",
+          "subtask": false,
+          "avatarId": 10300,
+          "hierarchyLevel": 0
+        },
+        "timespent": null,
+        "customfield_10030": null,
+        "customfield_10031": null,
+        "project": {
+          "self": "https://acmisupport.atlassian.net/rest/api/2/project/10009",
+          "id": "10009",
+          "key": "AHD",
+          "name": "ACMI Helpdesk",
+          "projectTypeKey": "service_desk",
+          "simplified": false,
+          "avatarUrls": {
+            "48x48": "https://acmisupport.atlassian.net/rest/api/2/universal_avatar/view/type/project/avatar/10424",
+            "24x24": "https://acmisupport.atlassian.net/rest/api/2/universal_avatar/view/type/project/avatar/10424?size=small",
+            "16x16": "https://acmisupport.atlassian.net/rest/api/2/universal_avatar/view/type/project/avatar/10424?size=xsmall",
+            "32x32": "https://acmisupport.atlassian.net/rest/api/2/universal_avatar/view/type/project/avatar/10424?size=medium"
+          }
+        },
+        "customfield_10032": [],
+        "customfield_10033": null,
+        "aggregatetimespent": null,
+        "customfield_10034": null,
+        "customfield_10035": null,
+        "customfield_10036": null,
+        "customfield_10037": null,
+        "customfield_10027": null,
+        "customfield_10028": null,
+        "customfield_10029": null,
+        "resolutiondate": null,
+        "workratio": -1,
+        "watches": {
+          "self": "https://acmisupport.atlassian.net/rest/api/2/issue/AHD-4853/watchers",
+          "watchCount": 2,
+          "isWatching": false
+        },
+        "created": "2023-02-09T10:46:04.226+1100",
+        "customfield_10020": null,
+        "customfield_10021": null,
+        "customfield_10022": null,
+        "customfield_10023": null,
+        "customfield_10024": "2023-02-09T10:46:09.235+1100",
+        "customfield_10025": null,
+        "customfield_10026": null,
+        "customfield_10016": null,
+        "customfield_10017": null,
+        "customfield_10018": {
+          "hasEpicLinkFieldDependency": true,
+          "showField": true,
+          "nonEditableReason": {
+            "reason": "PLUGIN_LICENSE_ERROR",
+            "message": "The Parent Link is only available to Jira Premium users."
+          }
+        },
+        "customfield_10019": "0|i039rz:",
+        "updated": "2023-02-09T10:46:09.235+1100",
+        "customfield_10090": null,
+        "customfield_10091": null,
+        "customfield_10092": null,
+        "customfield_10093": null,
+        "timeoriginalestimate": null,
+        "description": "Left screen of Raumlichtkunst extender did not start up. fixed by restarting extender.",
+        "customfield_10010": null,
+        "customfield_10014": null,
+        "customfield_10015": null,
+        "customfield_10005": null,
+        "customfield_10006": null,
+        "security": null,
+        "customfield_10007": null,
+        "customfield_10008": null,
+        "customfield_10009": null,
+        "summary": "Left screen of Raumlichtkunst extender did not start up.",
+        "customfield_10080": null,
+        "customfield_10082": {
+          "self": "https://acmisupport.atlassian.net/rest/api/2/customFieldOption/10175",
+          "value": "Gallery 2 (G2)",
+          "id": "10175",
+          "child": {
+            "self": "https://acmisupport.atlassian.net/rest/api/2/customFieldOption/10491",
+            "value": "General - Vision",
+            "id": "10491"
+          }
+        },
+        "customfield_10083": {
+          "self": "https://acmisupport.atlassian.net/rest/api/2/customFieldOption/10142",
+          "value": "AV",
+          "id": "10142"
+        },
+        "customfield_10085": null,
+        "customfield_10087": null,
+        "customfield_10088": null,
+        "customfield_10001": null,
+        "customfield_10089": null,
+        "customfield_10002": [],
+        "customfield_10003": null,
+        "customfield_10004": null,
+        "environment": null,
+        "duedate": null
+      }
+    },
+    {
+      "expand": "operations,versionedRepresentations,editmeta,changelog,renderedFields",
+      "id": "27927",
+      "self": "https://helpdesk.acmi.net.au/rest/api/2/issue/27927",
+      "key": "AHD-1837",
+      "fields": {
+        "issuetype": {
+          "self": "https://helpdesk.acmi.net.au/rest/api/2/issuetype/10300",
+          "id": "10300",
+          "description": "",
+          "iconUrl": "https://helpdesk.acmi.net.au/secure/viewavatar?size=xsmall&avatarId=10300&avatarType=issuetype",
+          "name": "Researcher Lens",
+          "subtask": false,
+          "avatarId": 10300
+        },
+        "timespent": null,
+        "project": {
+          "self": "https://helpdesk.acmi.net.au/rest/api/2/project/10301",
+          "id": "10301",
+          "key": "AHD",
+          "name": "Museum Helpdesk",
+          "avatarUrls": {
+            "48x48": "https://helpdesk.acmi.net.au/secure/projectavatar?avatarId=10324",
+            "24x24": "https://helpdesk.acmi.net.au/secure/projectavatar?size=small&avatarId=10324",
+            "16x16": "https://helpdesk.acmi.net.au/secure/projectavatar?size=xsmall&avatarId=10324",
+            "32x32": "https://helpdesk.acmi.net.au/secure/projectavatar?size=medium&avatarId=10324"
+          }
+        },
+        "customfield_11000": {
+          "self": "https://helpdesk.acmi.net.au/rest/api/2/customFieldOption/11990",
+          "value": "Please select",
+          "id": "11990",
+          "child": {
+            "self": "https://helpdesk.acmi.net.au/rest/api/2/customFieldOption/11991",
+            "value": "Please select",
+            "id": "11991"
+          }
+        },
+        "fixVersions": [],
+        "customfield_11200": null,
+        "aggregatetimespent": null,
+        "resolution": null,
+        "customfield_11201": null,
+        "customfield_11202": null,
+        "customfield_11203": null,
+        "customfield_11314": null,
+        "customfield_10701": {
+          "self": "https://helpdesk.acmi.net.au/rest/api/2/customFieldOption/12553",
+          "value": "Select a team",
+          "id": "12553"
+        },
+        "customfield_10702": {
+          "self": "https://helpdesk.acmi.net.au/rest/api/2/customFieldOption/11543",
+          "value": "Select a value",
+          "id": "11543"
+        },
+        "customfield_10703": {
+          "self": "https://helpdesk.acmi.net.au/rest/api/2/customFieldOption/11542",
+          "value": "Select a value",
+          "id": "11542"
+        },
+        "customfield_10704": {
+          "self": "https://helpdesk.acmi.net.au/rest/api/2/customFieldOption/11544",
+          "value": "Select a value",
+          "id": "11544"
+        },
+        "resolutiondate": null,
+        "workratio": -1,
+        "lastViewed": "2022-05-06T16:53:03.497+1000",
+        "created": "2022-05-06T16:52:38.000+1000",
+        "customfield_10220": null,
+        "priority": {
+          "self": "https://helpdesk.acmi.net.au/rest/api/2/priority/3",
+          "iconUrl": "https://helpdesk.acmi.net.au/images/icons/priorities/medium.svg",
+          "name": "Medium",
+          "id": "3"
+        },
+        "customfield_10100": null,
+        "customfield_11310": null,
+        "customfield_10101": null,
+        "customfield_11311": null,
+        "customfield_10102": null,
+        "customfield_11312": null,
+        "customfield_11313": null,
+        "customfield_10214": null,
+        "customfield_11303": null,
+        "customfield_10215": null,
+        "customfield_11304": null,
+        "customfield_10216": null,
+        "customfield_11305": null,
+        "customfield_10217": {
+          "id": "37",
+          "name": "Time to resolution",
+          "_links": {
+            "self": "https://helpdesk.acmi.net.au/rest/servicedeskapi/request/27927/sla/37"
+          },
+          "completedCycles": []
+        },
+        "customfield_11306": null,
+        "customfield_10218": {
+          "id": "38",
+          "name": "Time to first response",
+          "_links": {
+            "self": "https://helpdesk.acmi.net.au/rest/servicedeskapi/request/27927/sla/38"
+          },
+          "completedCycles": []
+        },
+        "customfield_11307": null,
+        "timeestimate": null,
+        "aggregatetimeoriginalestimate": null,
+        "versions": [],
+        "customfield_10219": {
+          "id": "39",
+          "name": "Time to close after resolution",
+          "_links": {
+            "self": "https://helpdesk.acmi.net.au/rest/servicedeskapi/request/27927/sla/39"
+          },
+          "completedCycles": []
+        },
+        "customfield_11308": null,
+        "customfield_11309": null,
+        "issuelinks": [],
+        "assignee": {
+          "self": "https://helpdesk.acmi.net.au/rest/api/2/user?username=sloffler",
+          "name": "sloffler",
+          "key": "sloffler",
+          "emailAddress": "Simon.Loffler@acmi.net.au",
+          "avatarUrls": {
+            "48x48": "https://helpdesk.acmi.net.au/secure/useravatar?ownerId=sloffler&avatarId=10804",
+            "24x24": "https://helpdesk.acmi.net.au/secure/useravatar?size=small&ownerId=sloffler&avatarId=10804",
+            "16x16": "https://helpdesk.acmi.net.au/secure/useravatar?size=xsmall&ownerId=sloffler&avatarId=10804",
+            "32x32": "https://helpdesk.acmi.net.au/secure/useravatar?size=medium&ownerId=sloffler&avatarId=10804"
+          },
+          "displayName": "Simon Loffler",
+          "active": true,
+          "timeZone": "Australia/Melbourne"
+        },
+        "updated": "2022-05-06T16:52:56.000+1000",
+        "status": {
+          "self": "https://helpdesk.acmi.net.au/rest/api/2/status/1",
+          "description": "The issue is open and ready for the assignee to start work on it.",
+          "iconUrl": "https://helpdesk.acmi.net.au/images/icons/statuses/open.png",
+          "name": "Open",
+          "id": "1",
+          "statusCategory": {
+            "self": "https://helpdesk.acmi.net.au/rest/api/2/statuscategory/2",
+            "id": 2,
+            "key": "new",
+            "colorName": "blue-gray",
+            "name": "To Do"
+          }
+        },
+        "timeoriginalestimate": null,
+        "description": "{\"first_name\": \"\", \"last_name\": \"\", \"email\": \"research@acmi.net.au\", \"organisation\": \"\", \"purpose\": \"A final test.\", \"work_id\": 116709}",
+        "customfield_11100": "NA",
+        "customfield_10210": null,
+        "customfield_10211": null,
+        "customfield_11300": null,
+        "customfield_10212": null,
+        "customfield_11301": null,
+        "customfield_10213": null,
+        "customfield_11302": null,
+        "customfield_10203": null,
+        "customfield_10401": null,
+        "customfield_10402": null,
+        "customfield_10204": null,
+        "customfield_10205": null,
+        "customfield_10206": null,
+        "customfield_10800": "Please enter the final response.",
+        "customfield_10207": null,
+        "aggregatetimeestimate": null,
+        "customfield_10208": null,
+        "customfield_10209": null,
+        "summary": "New researcher lens request",
+        "creator": {
+          "self": "https://helpdesk.acmi.net.au/rest/api/2/user?username=jiralens_svc",
+          "name": "jiralens_svc",
+          "key": "jiralens_svc",
+          "emailAddress": "ITSupport@acmi.net.au",
+          "avatarUrls": {
+            "48x48": "https://www.gravatar.com/avatar/3ce3d85470e4159a06a02e628b3d5a04?d=mm&s=48",
+            "24x24": "https://www.gravatar.com/avatar/3ce3d85470e4159a06a02e628b3d5a04?d=mm&s=24",
+            "16x16": "https://www.gravatar.com/avatar/3ce3d85470e4159a06a02e628b3d5a04?d=mm&s=16",
+            "32x32": "https://www.gravatar.com/avatar/3ce3d85470e4159a06a02e628b3d5a04?d=mm&s=32"
+          },
+          "displayName": "JIRA Researcher Lens Service",
+          "active": true,
+          "timeZone": "Australia/Sydney"
+        },
+        "subtasks": [],
+        "reporter": {
+          "self": "https://helpdesk.acmi.net.au/rest/api/2/user?username=jiralens_svc",
+          "name": "jiralens_svc",
+          "key": "jiralens_svc",
+          "emailAddress": "ITSupport@acmi.net.au",
+          "avatarUrls": {
+            "48x48": "https://www.gravatar.com/avatar/3ce3d85470e4159a06a02e628b3d5a04?d=mm&s=48",
+            "24x24": "https://www.gravatar.com/avatar/3ce3d85470e4159a06a02e628b3d5a04?d=mm&s=24",
+            "16x16": "https://www.gravatar.com/avatar/3ce3d85470e4159a06a02e628b3d5a04?d=mm&s=16",
+            "32x32": "https://www.gravatar.com/avatar/3ce3d85470e4159a06a02e628b3d5a04?d=mm&s=32"
+          },
+          "displayName": "JIRA Researcher Lens Service",
+          "active": true,
+          "timeZone": "Australia/Sydney"
+        },
+        "customfield_10000": [],
+        "aggregateprogress": { "progress": 0, "total": 0 },
+        "customfield_10001": null,
+        "customfield_10002": [],
+        "customfield_10200": null,
+        "customfield_10201": null,
+        "customfield_10202": null,
+        "customfield_10400": null,
+        "customfield_11204": null,
+        "customfield_11205": null,
+        "environment": null,
+        "customfield_11206": null,
+        "duedate": null,
+        "progress": { "progress": 0, "total": 0 }
+      }
+    },
+    {
+      "expand": "operations,versionedRepresentations,editmeta,changelog,renderedFields",
+      "id": "27925",
+      "self": "https://helpdesk.acmi.net.au/rest/api/2/issue/27925",
+      "key": "AHD-1836",
+      "fields": {
+        "issuetype": {
+          "self": "https://helpdesk.acmi.net.au/rest/api/2/issuetype/10300",
+          "id": "10300",
+          "description": "",
+          "iconUrl": "https://helpdesk.acmi.net.au/secure/viewavatar?size=xsmall&avatarId=10300&avatarType=issuetype",
+          "name": "Researcher Lens",
+          "subtask": false,
+          "avatarId": 10300
+        },
+        "timespent": null,
+        "project": {
+          "self": "https://helpdesk.acmi.net.au/rest/api/2/project/10301",
+          "id": "10301",
+          "key": "AHD",
+          "name": "Museum Helpdesk",
+          "avatarUrls": {
+            "48x48": "https://helpdesk.acmi.net.au/secure/projectavatar?avatarId=10324",
+            "24x24": "https://helpdesk.acmi.net.au/secure/projectavatar?size=small&avatarId=10324",
+            "16x16": "https://helpdesk.acmi.net.au/secure/projectavatar?size=xsmall&avatarId=10324",
+            "32x32": "https://helpdesk.acmi.net.au/secure/projectavatar?size=medium&avatarId=10324"
+          }
+        },
+        "customfield_11000": {
+          "self": "https://helpdesk.acmi.net.au/rest/api/2/customFieldOption/11990",
+          "value": "Please select",
+          "id": "11990",
+          "child": {
+            "self": "https://helpdesk.acmi.net.au/rest/api/2/customFieldOption/11991",
+            "value": "Please select",
+            "id": "11991"
+          }
+        },
+        "fixVersions": [],
+        "customfield_11200": null,
+        "aggregatetimespent": null,
+        "resolution": null,
+        "customfield_11201": null,
+        "customfield_11202": null,
+        "customfield_11203": null,
+        "customfield_11314": null,
+        "customfield_10701": {
+          "self": "https://helpdesk.acmi.net.au/rest/api/2/customFieldOption/12553",
+          "value": "Select a team",
+          "id": "12553"
+        },
+        "customfield_10702": {
+          "self": "https://helpdesk.acmi.net.au/rest/api/2/customFieldOption/11543",
+          "value": "Select a value",
+          "id": "11543"
+        },
+        "customfield_10703": {
+          "self": "https://helpdesk.acmi.net.au/rest/api/2/customFieldOption/11542",
+          "value": "Select a value",
+          "id": "11542"
+        },
+        "customfield_10704": {
+          "self": "https://helpdesk.acmi.net.au/rest/api/2/customFieldOption/11544",
+          "value": "Select a value",
+          "id": "11544"
+        },
+        "resolutiondate": null,
+        "workratio": -1,
+        "lastViewed": "2022-05-06T16:53:12.085+1000",
+        "created": "2022-05-06T16:31:09.000+1000",
+        "customfield_10220": null,
+        "priority": {
+          "self": "https://helpdesk.acmi.net.au/rest/api/2/priority/3",
+          "iconUrl": "https://helpdesk.acmi.net.au/images/icons/priorities/medium.svg",
+          "name": "Medium",
+          "id": "3"
+        },
+        "customfield_10100": null,
+        "customfield_11310": null,
+        "customfield_10101": null,
+        "customfield_11311": null,
+        "customfield_10102": null,
+        "customfield_11312": null,
+        "customfield_11313": null,
+        "customfield_10214": null,
+        "customfield_11303": null,
+        "customfield_10215": null,
+        "customfield_11304": null,
+        "customfield_10216": null,
+        "customfield_11305": null,
+        "customfield_10217": {
+          "id": "37",
+          "name": "Time to resolution",
+          "_links": {
+            "self": "https://helpdesk.acmi.net.au/rest/servicedeskapi/request/27925/sla/37"
+          },
+          "completedCycles": []
+        },
+        "customfield_11306": null,
+        "customfield_10218": {
+          "id": "38",
+          "name": "Time to first response",
+          "_links": {
+            "self": "https://helpdesk.acmi.net.au/rest/servicedeskapi/request/27925/sla/38"
+          },
+          "completedCycles": []
+        },
+        "customfield_11307": null,
+        "timeestimate": null,
+        "aggregatetimeoriginalestimate": null,
+        "versions": [],
+        "customfield_10219": {
+          "id": "39",
+          "name": "Time to close after resolution",
+          "_links": {
+            "self": "https://helpdesk.acmi.net.au/rest/servicedeskapi/request/27925/sla/39"
+          },
+          "completedCycles": []
+        },
+        "customfield_11308": null,
+        "customfield_11309": null,
+        "issuelinks": [],
+        "assignee": {
+          "self": "https://helpdesk.acmi.net.au/rest/api/2/user?username=sloffler",
+          "name": "sloffler",
+          "key": "sloffler",
+          "emailAddress": "Simon.Loffler@acmi.net.au",
+          "avatarUrls": {
+            "48x48": "https://helpdesk.acmi.net.au/secure/useravatar?ownerId=sloffler&avatarId=10804",
+            "24x24": "https://helpdesk.acmi.net.au/secure/useravatar?size=small&ownerId=sloffler&avatarId=10804",
+            "16x16": "https://helpdesk.acmi.net.au/secure/useravatar?size=xsmall&ownerId=sloffler&avatarId=10804",
+            "32x32": "https://helpdesk.acmi.net.au/secure/useravatar?size=medium&ownerId=sloffler&avatarId=10804"
+          },
+          "displayName": "Simon Loffler",
+          "active": true,
+          "timeZone": "Australia/Melbourne"
+        },
+        "updated": "2022-05-06T16:31:21.000+1000",
+        "status": {
+          "self": "https://helpdesk.acmi.net.au/rest/api/2/status/1",
+          "description": "The issue is open and ready for the assignee to start work on it.",
+          "iconUrl": "https://helpdesk.acmi.net.au/images/icons/statuses/open.png",
+          "name": "Open",
+          "id": "1",
+          "statusCategory": {
+            "self": "https://helpdesk.acmi.net.au/rest/api/2/statuscategory/2",
+            "id": 2,
+            "key": "new",
+            "colorName": "blue-gray",
+            "name": "To Do"
+          }
+        },
+        "timeoriginalestimate": null,
+        "description": "{\"first_name\": \"\", \"last_name\": \"\", \"email\": \"simon.loffler@acmi.net.au\", \"organisation\": \"\", \"purpose\": \"Short.\", \"work_id\": 116709}",
+        "customfield_11100": "NA",
+        "customfield_10210": null,
+        "customfield_10211": null,
+        "customfield_11300": null,
+        "customfield_10212": null,
+        "customfield_11301": null,
+        "customfield_10213": null,
+        "customfield_11302": null,
+        "customfield_10203": null,
+        "customfield_10401": null,
+        "customfield_10402": null,
+        "customfield_10204": null,
+        "customfield_10205": null,
+        "customfield_10206": null,
+        "customfield_10800": "Please enter the final response.",
+        "customfield_10207": null,
+        "aggregatetimeestimate": null,
+        "customfield_10208": null,
+        "customfield_10209": null,
+        "summary": "New researcher lens request",
+        "creator": {
+          "self": "https://helpdesk.acmi.net.au/rest/api/2/user?username=jiralens_svc",
+          "name": "jiralens_svc",
+          "key": "jiralens_svc",
+          "emailAddress": "ITSupport@acmi.net.au",
+          "avatarUrls": {
+            "48x48": "https://www.gravatar.com/avatar/3ce3d85470e4159a06a02e628b3d5a04?d=mm&s=48",
+            "24x24": "https://www.gravatar.com/avatar/3ce3d85470e4159a06a02e628b3d5a04?d=mm&s=24",
+            "16x16": "https://www.gravatar.com/avatar/3ce3d85470e4159a06a02e628b3d5a04?d=mm&s=16",
+            "32x32": "https://www.gravatar.com/avatar/3ce3d85470e4159a06a02e628b3d5a04?d=mm&s=32"
+          },
+          "displayName": "JIRA Researcher Lens Service",
+          "active": true,
+          "timeZone": "Australia/Sydney"
+        },
+        "subtasks": [],
+        "reporter": {
+          "self": "https://helpdesk.acmi.net.au/rest/api/2/user?username=jiralens_svc",
+          "name": "jiralens_svc",
+          "key": "jiralens_svc",
+          "emailAddress": "ITSupport@acmi.net.au",
+          "avatarUrls": {
+            "48x48": "https://www.gravatar.com/avatar/3ce3d85470e4159a06a02e628b3d5a04?d=mm&s=48",
+            "24x24": "https://www.gravatar.com/avatar/3ce3d85470e4159a06a02e628b3d5a04?d=mm&s=24",
+            "16x16": "https://www.gravatar.com/avatar/3ce3d85470e4159a06a02e628b3d5a04?d=mm&s=16",
+            "32x32": "https://www.gravatar.com/avatar/3ce3d85470e4159a06a02e628b3d5a04?d=mm&s=32"
+          },
+          "displayName": "JIRA Researcher Lens Service",
+          "active": true,
+          "timeZone": "Australia/Sydney"
+        },
+        "customfield_10000": [],
+        "aggregateprogress": { "progress": 0, "total": 0 },
+        "customfield_10001": null,
+        "customfield_10002": [],
+        "customfield_10200": null,
+        "customfield_10201": null,
+        "customfield_10202": null,
+        "customfield_10400": null,
+        "customfield_11204": null,
+        "customfield_11205": null,
+        "environment": null,
+        "customfield_11206": null,
+        "duedate": null,
+        "progress": { "progress": 0, "total": 0 }
+      }
+    },
+    {
+      "expand": "operations,versionedRepresentations,editmeta,changelog,renderedFields",
+      "id": "27924",
+      "self": "https://helpdesk.acmi.net.au/rest/api/2/issue/27924",
+      "key": "AHD-1835",
+      "fields": {
+        "issuetype": {
+          "self": "https://helpdesk.acmi.net.au/rest/api/2/issuetype/10300",
+          "id": "10300",
+          "description": "",
+          "iconUrl": "https://helpdesk.acmi.net.au/secure/viewavatar?size=xsmall&avatarId=10300&avatarType=issuetype",
+          "name": "Researcher Lens",
+          "subtask": false,
+          "avatarId": 10300
+        },
+        "timespent": null,
+        "project": {
+          "self": "https://helpdesk.acmi.net.au/rest/api/2/project/10301",
+          "id": "10301",
+          "key": "AHD",
+          "name": "Museum Helpdesk",
+          "avatarUrls": {
+            "48x48": "https://helpdesk.acmi.net.au/secure/projectavatar?avatarId=10324",
+            "24x24": "https://helpdesk.acmi.net.au/secure/projectavatar?size=small&avatarId=10324",
+            "16x16": "https://helpdesk.acmi.net.au/secure/projectavatar?size=xsmall&avatarId=10324",
+            "32x32": "https://helpdesk.acmi.net.au/secure/projectavatar?size=medium&avatarId=10324"
+          }
+        },
+        "customfield_11000": {
+          "self": "https://helpdesk.acmi.net.au/rest/api/2/customFieldOption/11990",
+          "value": "Please select",
+          "id": "11990",
+          "child": {
+            "self": "https://helpdesk.acmi.net.au/rest/api/2/customFieldOption/11991",
+            "value": "Please select",
+            "id": "11991"
+          }
+        },
+        "fixVersions": [],
+        "customfield_11200": null,
+        "aggregatetimespent": null,
+        "resolution": null,
+        "customfield_11201": null,
+        "customfield_11202": null,
+        "customfield_11203": null,
+        "customfield_11314": null,
+        "customfield_10701": {
+          "self": "https://helpdesk.acmi.net.au/rest/api/2/customFieldOption/12553",
+          "value": "Select a team",
+          "id": "12553"
+        },
+        "customfield_10702": {
+          "self": "https://helpdesk.acmi.net.au/rest/api/2/customFieldOption/11543",
+          "value": "Select a value",
+          "id": "11543"
+        },
+        "customfield_10703": {
+          "self": "https://helpdesk.acmi.net.au/rest/api/2/customFieldOption/11542",
+          "value": "Select a value",
+          "id": "11542"
+        },
+        "customfield_10704": {
+          "self": "https://helpdesk.acmi.net.au/rest/api/2/customFieldOption/11544",
+          "value": "Select a value",
+          "id": "11544"
+        },
+        "resolutiondate": null,
+        "workratio": -1,
+        "lastViewed": "2022-05-09T10:54:28.782+1000",
+        "created": "2022-05-06T16:30:29.000+1000",
+        "customfield_10220": null,
+        "priority": {
+          "self": "https://helpdesk.acmi.net.au/rest/api/2/priority/3",
+          "iconUrl": "https://helpdesk.acmi.net.au/images/icons/priorities/medium.svg",
+          "name": "Medium",
+          "id": "3"
+        },
+        "customfield_10100": null,
+        "customfield_11310": null,
+        "customfield_10101": null,
+        "customfield_11311": null,
+        "customfield_10102": null,
+        "customfield_11312": null,
+        "customfield_11313": null,
+        "customfield_10214": null,
+        "customfield_11303": null,
+        "customfield_10215": null,
+        "customfield_11304": null,
+        "customfield_10216": null,
+        "customfield_11305": null,
+        "customfield_10217": {
+          "id": "37",
+          "name": "Time to resolution",
+          "_links": {
+            "self": "https://helpdesk.acmi.net.au/rest/servicedeskapi/request/27924/sla/37"
+          },
+          "completedCycles": []
+        },
+        "customfield_11306": null,
+        "customfield_10218": {
+          "id": "38",
+          "name": "Time to first response",
+          "_links": {
+            "self": "https://helpdesk.acmi.net.au/rest/servicedeskapi/request/27924/sla/38"
+          },
+          "completedCycles": []
+        },
+        "customfield_11307": null,
+        "timeestimate": null,
+        "aggregatetimeoriginalestimate": null,
+        "versions": [],
+        "customfield_10219": {
+          "id": "39",
+          "name": "Time to close after resolution",
+          "_links": {
+            "self": "https://helpdesk.acmi.net.au/rest/servicedeskapi/request/27924/sla/39"
+          },
+          "completedCycles": []
+        },
+        "customfield_11308": null,
+        "customfield_11309": null,
+        "issuelinks": [],
+        "assignee": {
+          "self": "https://helpdesk.acmi.net.au/rest/api/2/user?username=sloffler",
+          "name": "sloffler",
+          "key": "sloffler",
+          "emailAddress": "Simon.Loffler@acmi.net.au",
+          "avatarUrls": {
+            "48x48": "https://helpdesk.acmi.net.au/secure/useravatar?ownerId=sloffler&avatarId=10804",
+            "24x24": "https://helpdesk.acmi.net.au/secure/useravatar?size=small&ownerId=sloffler&avatarId=10804",
+            "16x16": "https://helpdesk.acmi.net.au/secure/useravatar?size=xsmall&ownerId=sloffler&avatarId=10804",
+            "32x32": "https://helpdesk.acmi.net.au/secure/useravatar?size=medium&ownerId=sloffler&avatarId=10804"
+          },
+          "displayName": "Simon Loffler",
+          "active": true,
+          "timeZone": "Australia/Melbourne"
+        },
+        "updated": "2022-05-06T16:31:00.000+1000",
+        "status": {
+          "self": "https://helpdesk.acmi.net.au/rest/api/2/status/1",
+          "description": "The issue is open and ready for the assignee to start work on it.",
+          "iconUrl": "https://helpdesk.acmi.net.au/images/icons/statuses/open.png",
+          "name": "Open",
+          "id": "1",
+          "statusCategory": {
+            "self": "https://helpdesk.acmi.net.au/rest/api/2/statuscategory/2",
+            "id": 2,
+            "key": "new",
+            "colorName": "blue-gray",
+            "name": "To Do"
+          }
+        },
+        "timeoriginalestimate": null,
+        "description": "{\"first_name\": \"Simon\", \"last_name\": \"Loffler\", \"email\": \"simon.loffler@acmi.net.au\", \"organisation\": \"ACMI\", \"purpose\": \"Now using json.dumps() to produce serialisable json.\", \"work_id\": 116709}",
+        "customfield_11100": "NA",
+        "customfield_10210": null,
+        "customfield_10211": null,
+        "customfield_11300": null,
+        "customfield_10212": null,
+        "customfield_11301": null,
+        "customfield_10213": null,
+        "customfield_11302": null,
+        "customfield_10203": null,
+        "customfield_10401": null,
+        "customfield_10402": null,
+        "customfield_10204": null,
+        "customfield_10205": null,
+        "customfield_10206": null,
+        "customfield_10800": "Please enter the final response.",
+        "customfield_10207": null,
+        "aggregatetimeestimate": null,
+        "customfield_10208": null,
+        "customfield_10209": null,
+        "summary": "New researcher lens request",
+        "creator": {
+          "self": "https://helpdesk.acmi.net.au/rest/api/2/user?username=jiralens_svc",
+          "name": "jiralens_svc",
+          "key": "jiralens_svc",
+          "emailAddress": "ITSupport@acmi.net.au",
+          "avatarUrls": {
+            "48x48": "https://www.gravatar.com/avatar/3ce3d85470e4159a06a02e628b3d5a04?d=mm&s=48",
+            "24x24": "https://www.gravatar.com/avatar/3ce3d85470e4159a06a02e628b3d5a04?d=mm&s=24",
+            "16x16": "https://www.gravatar.com/avatar/3ce3d85470e4159a06a02e628b3d5a04?d=mm&s=16",
+            "32x32": "https://www.gravatar.com/avatar/3ce3d85470e4159a06a02e628b3d5a04?d=mm&s=32"
+          },
+          "displayName": "JIRA Researcher Lens Service",
+          "active": true,
+          "timeZone": "Australia/Sydney"
+        },
+        "subtasks": [],
+        "reporter": {
+          "self": "https://helpdesk.acmi.net.au/rest/api/2/user?username=jiralens_svc",
+          "name": "jiralens_svc",
+          "key": "jiralens_svc",
+          "emailAddress": "ITSupport@acmi.net.au",
+          "avatarUrls": {
+            "48x48": "https://www.gravatar.com/avatar/3ce3d85470e4159a06a02e628b3d5a04?d=mm&s=48",
+            "24x24": "https://www.gravatar.com/avatar/3ce3d85470e4159a06a02e628b3d5a04?d=mm&s=24",
+            "16x16": "https://www.gravatar.com/avatar/3ce3d85470e4159a06a02e628b3d5a04?d=mm&s=16",
+            "32x32": "https://www.gravatar.com/avatar/3ce3d85470e4159a06a02e628b3d5a04?d=mm&s=32"
+          },
+          "displayName": "JIRA Researcher Lens Service",
+          "active": true,
+          "timeZone": "Australia/Sydney"
+        },
+        "customfield_10000": [],
+        "aggregateprogress": { "progress": 0, "total": 0 },
+        "customfield_10001": null,
+        "customfield_10002": [],
+        "customfield_10200": null,
+        "customfield_10201": null,
+        "customfield_10202": null,
+        "customfield_10400": null,
+        "customfield_11204": null,
+        "customfield_11205": null,
+        "environment": null,
+        "customfield_11206": null,
+        "duedate": null,
+        "progress": { "progress": 0, "total": 0 }
+      }
+    }
+  ]
+}
