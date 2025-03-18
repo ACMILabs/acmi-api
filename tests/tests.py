@@ -1084,6 +1084,7 @@ def test_suggestions_list_get():
     'app.jira.Client.create_or_update',
     return_value={'id': 'jira_id', 'key': 'JIRA-1'},
 )
+@patch('app.api.JIRA_ENABLED', True)
 @patch('app.api.SUGGESTIONS_API_KEYS', ['test_key'])
 def test_suggestions_list_post_create(mock_create_or_update):
     """Test POST /suggestions/ creates a new suggestion."""
@@ -1104,6 +1105,7 @@ def test_suggestions_list_post_create(mock_create_or_update):
     'app.jira.Client.create_or_update',
     return_value={'id': 'jira_id', 'key': 'JIRA-1'},
 )
+@patch('app.api.JIRA_ENABLED', True)
 @patch('app.api.SUGGESTIONS_API_KEYS', ['test_key'])
 def test_suggestions_list_post_vote(mock_create_or_update):
     """Test POST /suggestions/ updates score with up/down votes."""
@@ -1129,6 +1131,7 @@ def test_suggestions_list_post_vote(mock_create_or_update):
     'app.jira.Client.create_or_update',
     return_value={'id': 'jira_id', 'key': 'JIRA-1'},
 )
+@patch('app.api.JIRA_ENABLED', True)
 @patch('app.api.SUGGESTIONS_API_KEYS', ['test_key'])
 def test_suggestions_list_post_add_suggestion(mock_create_or_update):
     """Test POST /suggestions/ adds suggestion text without duplicates."""
