@@ -15,6 +15,25 @@ if [ "$CRON_UPDATER" = "true" ]; then
     crond
 fi
 
+# Download the tarball using wget
+wget https://github.com/benbjohnson/litestream/releases/download/v0.3.13/litestream-v0.3.13-linux-amd64.tar.gz
+tar xzf litestream-v0.3.13-linux-amd64.tar.gz
+mv litestream /usr/local/bin/litestream
+chmod +x /usr/local/bin/litestream
+rm litestream-v0.3.13-linux-amd64.tar.gz
+
+# Setup S3 access
+export LITESTREAM_ACCESS_KEY_ID=${AWS_ACCESS_KEY_ID}
+export LITESTREAM_SECRET_ACCESS_KEY=${AWS_SECRET_ACCESS_KEY}
+
+# Download the latest database from S3
+echo "Downloading latest database from S3..."
+litestream restore -o /code/app/instance/${SUGGESTIONS_DATABASE}.db s3://acmi-public-api/${SUGGESTIONS_DATABASE}.db
+
+# Start Litestream replication in the background
+echo "Starting Litestream replication..."
+litestream replicate /code/app/instance/${SUGGESTIONS_DATABASE}.db s3://acmi-public-api/${SUGGESTIONS_DATABASE}.db &
+
 if [ "$DEBUG" = "true" ]; then
     echo "Starting Flask server..."
     python -u -m app.api
