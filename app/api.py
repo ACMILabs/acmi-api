@@ -51,7 +51,7 @@ INCLUDE_EXTERNAL = os.getenv('INCLUDE_EXTERNAL', 'false').lower() == 'true'
 SUGGESTIONS_DATABASE = os.getenv('SUGGESTIONS_DATABASE')
 SUGGESTIONS_DATABASE_PATH = os.path.join(SITE_ROOT, 'instance', SUGGESTIONS_DATABASE)
 SUGGESTIONS_API_KEYS = json.loads(os.getenv('SUGGESTIONS_API_KEYS', '[]'))
-SENTRY_API = os.getenv('SENTRY_API', 'https://your-project-id.ingest.us.sentry.io/path')
+SENTRY_API = os.getenv('SENTRY_API')
 
 application = Flask(__name__)
 api = Api(application)
