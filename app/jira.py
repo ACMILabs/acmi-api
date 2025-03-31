@@ -22,7 +22,7 @@ class Client:
         self.username = os.getenv('JIRA_USERNAME')
         self.token = os.getenv('JIRA_TOKEN')
         self.project_id = os.getenv('JIRA_PROJECT_ID')
-        self.issue_type = 'Suggestions'
+        self.issue_type = 'AI Tools'
 
     def request(self, url, data=None, method=None, params=None):
         """Send a request to the Jira API.

@@ -87,7 +87,7 @@ def test_jira_client(mock_get):
     assert data['issues'][0]['fields']['description']
     assert mock_get.call_args[1]['url'].endswith('rest/api/2/search')
     assert mock_get.call_args[1]['params'] == urlencode({
-        'jql': 'issuetype="Suggestions"',
+        'jql': 'issuetype="AI Tools"',
         'maxResults': 20,
         'startAt': 0,
     })
