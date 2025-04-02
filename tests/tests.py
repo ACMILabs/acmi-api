@@ -1080,8 +1080,13 @@ def test_suggestions_list_get():
         assert data[0]['text'] == 'Text 2'
 
 
+@patch(
+    'app.jira.Client.create_or_update',
+    return_value={'id': 'jira_id', 'key': 'JIRA-1'},
+)
+@patch('app.api.JIRA_ENABLED', True)
 @patch('app.api.SUGGESTIONS_API_KEYS', ['test_key'])
-def test_suggestions_list_post_create():
+def test_suggestions_list_post_create(mock_create_or_update):
     """Test POST /suggestions/ creates a new suggestion."""
     headers = {'Authorization': 'Bearer test_key'}
     data = {'url': 'http://example.com/3', 'text': 'Text 3', 'suggestion': 'A new suggestion'}
@@ -1093,10 +1098,16 @@ def test_suggestions_list_post_create():
         assert suggestion['text'] == 'Text 3'
         assert suggestion['score'] == 0
         assert suggestion['suggestions'] == ['A new suggestion']
+        mock_create_or_update.assert_called_once_with(suggestion)
 
 
+@patch(
+    'app.jira.Client.create_or_update',
+    return_value={'id': 'jira_id', 'key': 'JIRA-1'},
+)
+@patch('app.api.JIRA_ENABLED', True)
 @patch('app.api.SUGGESTIONS_API_KEYS', ['test_key'])
-def test_suggestions_list_post_vote():
+def test_suggestions_list_post_vote(mock_create_or_update):
     """Test POST /suggestions/ updates score with up/down votes."""
     headers = {'Authorization': 'Bearer test_key'}
     # Vote up
@@ -1106,6 +1117,7 @@ def test_suggestions_list_post_vote():
         assert response.status_code == 200
         updated_suggestion = response.json
         assert updated_suggestion['score'] == 1
+        mock_create_or_update.assert_called_once_with(updated_suggestion)
 
         # Vote down
         vote_data['vote'] = 'down'
@@ -1115,8 +1127,13 @@ def test_suggestions_list_post_vote():
         assert updated_suggestion['score'] == 0
 
 
+@patch(
+    'app.jira.Client.create_or_update',
+    return_value={'id': 'jira_id', 'key': 'JIRA-1'},
+)
+@patch('app.api.JIRA_ENABLED', True)
 @patch('app.api.SUGGESTIONS_API_KEYS', ['test_key'])
-def test_suggestions_list_post_add_suggestion():
+def test_suggestions_list_post_add_suggestion(mock_create_or_update):
     """Test POST /suggestions/ adds suggestion text without duplicates."""
     headers = {'Authorization': 'Bearer test_key'}
     with acmi_api.application.test_client() as client:
@@ -1130,6 +1147,7 @@ def test_suggestions_list_post_add_suggestion():
         assert response.status_code == 200
         updated_suggestion = response.json
         assert updated_suggestion['suggestions'] == ['New suggestion']
+        mock_create_or_update.assert_called_once_with(updated_suggestion)
 
         # Add another suggestion
         suggestion_data['suggestion'] = 'Another suggestion'
