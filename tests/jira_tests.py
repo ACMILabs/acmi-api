@@ -76,8 +76,9 @@ def mocked_requests_get(*args, **kwargs):
     return MockResponse(None, 404)
 
 
+@patch('app.api.sentry.capture_exception')
 @patch('requests.get', side_effect=mocked_requests_get)
-def test_jira_client(mock_get):
+def test_jira_client(mock_get, mock_sentry):
     """
     Test the Jira API client.
     """
@@ -94,6 +95,7 @@ def test_jira_client(mock_get):
 
     data = client.request('rest/api/2/404')
     assert not data
+    mock_sentry.assert_called_once()
 
 
 @patch('app.jira.Client.request')

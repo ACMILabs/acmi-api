@@ -10,7 +10,14 @@ import os
 from urllib.parse import urlencode, urljoin
 
 import requests
+import sentry_sdk as sentry
 from requests.auth import HTTPBasicAuth
+
+SENTRY_API = os.getenv('SENTRY_API')
+sentry.init(
+    dsn=SENTRY_API,
+    send_default_pii=True,
+)
 
 
 class Client:
@@ -58,6 +65,7 @@ class Client:
                 requests.exceptions.Timeout,
                 requests.exceptions.ConnectionError) as exception:
             print(f'Error: {exception}')
+            sentry.capture_exception(exception)
             return None
         if method == 'put' and response.status_code == 204:
             # Jira API doesn't return any JSON for a successful update
