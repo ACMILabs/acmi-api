@@ -119,6 +119,41 @@ spec:
               configMapKeyRef:
                 key: INCLUDE_EXTERNAL
                 name: xos-api-env
+          - name: SUGGESTIONS_DATABASE
+            valueFrom:
+              configMapKeyRef:
+                key: SUGGESTIONS_DATABASE
+                name: xos-api-env
+          - name: JIRA_API_URL
+            valueFrom:
+              configMapKeyRef:
+                key: JIRA_API_URL
+                name: xos-api-env
+          - name: JIRA_USERNAME
+            valueFrom:
+              configMapKeyRef:
+                key: JIRA_USERNAME
+                name: xos-api-env
+          - name: JIRA_PROJECT_ID
+            valueFrom:
+              configMapKeyRef:
+                key: JIRA_PROJECT_ID
+                name: xos-api-env
+          - name: SUGGESTIONS_API_KEYS
+            valueFrom:
+              secretKeyRef:
+                key: SUGGESTIONS_API_KEYS
+                name: api-suggestions
+          - name: JIRA_TOKEN
+            valueFrom:
+              secretKeyRef:
+                key: JIRA_TOKEN
+                name: api-jira
+          - name: SENTRY_API
+            valueFrom:
+              secretKeyRef:
+                key: SENTRY_API
+                name: api-sentry
       imagePullSecrets:
       - name: docker-cred
 ---
