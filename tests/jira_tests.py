@@ -122,8 +122,8 @@ def test_jira_update_issue(mock_put, _):
     assert response['message'] == f'Updated issue: rest/api/2/issue/{issue_id}'
     assert f'rest/api/2/issue/{issue_id}' in mock_put.call_args[1]['url']
     assert mock_put.call_args[1]['data'] == \
-        '{"fields": {"description": "{\\"first_name\\": \\"Simon\\"'\
-        ', \\"email\\": \\"research@acmi.net.au\\"}"}}'
+        '{"fields": {"description": "{\\n    \\"first_name\\": \\"Simon\\"'\
+        ',\\n    \\"email\\": \\"research@acmi.net.au\\"\\n}"}}'
 
 
 @patch('requests.post', side_effect=mocked_requests_post)

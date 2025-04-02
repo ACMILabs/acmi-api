@@ -102,7 +102,7 @@ class Client:
         description.update(data)
         payload = {
             'fields': {
-                'description': json.dumps(description),
+                'description': json.dumps(description, indent=4),
             },
         }
         return self.request(url=f'rest/api/2/issue/{issue_id}', method='put', data=payload)
@@ -125,7 +125,7 @@ class Client:
         """
         if not data.get('url'):
             return None
-        response = self.get_issues(query=data.get('url'))
+        response = self.get_issues(query=data.get('url').split('?')[-1])
         if response and response.get('issues'):
             return self.update_issue(response.get('issues')[0]['id'], data)
         return self.create_issue(data)
