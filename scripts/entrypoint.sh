@@ -26,6 +26,10 @@ rm litestream-v0.3.13-linux-amd64.tar.gz
 export LITESTREAM_ACCESS_KEY_ID=${AWS_ACCESS_KEY_ID}
 export LITESTREAM_SECRET_ACCESS_KEY=${AWS_SECRET_ACCESS_KEY}
 
+# Ensure the instance directory exists and is empty
+rm -rf /code/app/instance
+mkdir -p /code/app/instance
+
 # Download the latest database from S3
 echo "Downloading latest database from S3..."
 litestream restore -o /code/app/instance/${SUGGESTIONS_DATABASE}.db s3://acmi-public-api/${SUGGESTIONS_DATABASE}.db
