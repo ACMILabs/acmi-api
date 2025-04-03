@@ -14,12 +14,16 @@ import botocore
 import elasticsearch
 import pytz
 import requests
+import sentry_sdk as sentry
 from elastic_transport import ObjectApiResponse
 from elasticsearch import Elasticsearch
 from flask import Flask, request
 from flask_restful import Api, Resource, abort
+from flask_sqlalchemy import SQLAlchemy
 from furl import furl
 from requests.utils import requote_uri
+
+from app.jira import Client
 
 DEBUG = os.getenv('DEBUG', 'false').lower() == 'true'
 UPDATE_ITEMS = os.getenv('UPDATE_ITEMS', 'false').lower() == 'true'
@@ -46,9 +50,27 @@ ELASTICSEARCH_API_KEY_ID = os.getenv('ELASTICSEARCH_API_KEY_ID')
 INCLUDE_IMAGES = os.getenv('INCLUDE_IMAGES', 'false').lower() == 'true'
 INCLUDE_VIDEOS = os.getenv('INCLUDE_VIDEOS', 'false').lower() == 'true'
 INCLUDE_EXTERNAL = os.getenv('INCLUDE_EXTERNAL', 'false').lower() == 'true'
+SUGGESTIONS_DATABASE = os.getenv('SUGGESTIONS_DATABASE')
+SUGGESTIONS_DATABASE_PATH = os.path.join(SITE_ROOT, 'instance', SUGGESTIONS_DATABASE)
+SUGGESTIONS_API_KEYS = json.loads(os.getenv('SUGGESTIONS_API_KEYS', '[]'))
+SENTRY_API = os.getenv('SENTRY_API')
+JIRA_ENABLED = os.getenv('JIRA_TOKEN', '') != ''
 
 application = Flask(__name__)
 api = Api(application)
+
+sentry.init(
+    dsn=SENTRY_API,
+    send_default_pii=True,
+)
+
+if SUGGESTIONS_DATABASE == ':memory:':
+    application.config['SQLALCHEMY_DATABASE_URI'] = f'sqlite:///{SUGGESTIONS_DATABASE}'
+else:
+    application.config['SQLALCHEMY_DATABASE_URI'] = f'sqlite:///{SUGGESTIONS_DATABASE_PATH}.db'
+print(f"Database URI: {application.config['SQLALCHEMY_DATABASE_URI']}")
+database = SQLAlchemy(application)
+
 s3_resource = boto3.resource(
     's3',
     aws_access_key_id=AWS_ACCESS_KEY_ID,
@@ -108,8 +130,10 @@ class AudioListAPI(Resource):  # pylint: disable=too-few-public-methods
             with open(json_file_path, 'rb') as json_file:
                 return json.load(json_file)
         except (FileNotFoundError, ValueError):
+            message = 'That Audio list doesn\'t exist, sorry.'
+            sentry.capture_message(f'Audio API: {message}')
             return {
-                abort(404, message='That Audio list doesn\'t exist, sorry.')
+                abort(404, message=message)
             }
 
     def get_labels(self, labels):
@@ -162,7 +186,9 @@ class AudioAPI(Resource):  # pylint: disable=too-few-public-methods
             with open(json_file_path, 'rb') as json_file:
                 return json.load(json_file)
         except (FileNotFoundError, ValueError):
-            return abort(404, message='That Audio doesn\'t exist, sorry.')
+            message = f'Audio ID {audio_id} doesn\'t exist, sorry.'
+            sentry.capture_message(f'Audio API: {message}')
+            return abort(404, message=message)
 
 
 class ConstellationsAPI(Resource):  # pylint: disable=too-few-public-methods
@@ -182,8 +208,10 @@ class ConstellationsAPI(Resource):  # pylint: disable=too-few-public-methods
             with open(json_file_path, 'rb') as json_file:
                 return json.load(json_file)
         except (FileNotFoundError, ValueError):
+            message = 'That Constellations list doesn\'t exist, sorry.'
+            sentry.capture_message(f'Constellations API: {message}')
             return {
-                abort(404, message='That Constellations list doesn\'t exist, sorry.')
+                abort(404, message=message)
             }
 
 
@@ -204,7 +232,9 @@ class ConstellationAPI(Resource):  # pylint: disable=too-few-public-methods
             with open(json_file_path, 'rb') as json_file:
                 return json.load(json_file)
         except (FileNotFoundError, ValueError):
-            return abort(404, message='That Constellation doesn\'t exist, sorry.')
+            message = f'Constellation ID {constellation_id} doesn\'t exist, sorry.'
+            sentry.capture_message(f'Constellations API: {message}')
+            return abort(404, message=message)
 
 
 class CreatorsAPI(Resource):  # pylint: disable=too-few-public-methods
@@ -224,8 +254,10 @@ class CreatorsAPI(Resource):  # pylint: disable=too-few-public-methods
             with open(json_file_path, 'rb') as json_file:
                 return json.load(json_file)
         except (FileNotFoundError, ValueError):
+            message = 'That Creators list doesn\'t exist, sorry.'
+            sentry.capture_message(f'Creators API: {message}')
             return {
-                abort(404, message='That Creators list doesn\'t exist, sorry.')
+                abort(404, message=message)
             }
 
 
@@ -246,7 +278,9 @@ class CreatorAPI(Resource):  # pylint: disable=too-few-public-methods
             with open(json_file_path, 'rb') as json_file:
                 return json.load(json_file)
         except (FileNotFoundError, ValueError):
-            return abort(404, message='That Creator doesn\'t exist, sorry.')
+            message = f'Creator ID {creator_id} doesn\'t exist, sorry.'
+            sentry.capture_message(f'Creators API: {message}')
+            return abort(404, message=message)
 
 
 class WorksAPI(Resource):  # pylint: disable=too-few-public-methods
@@ -266,8 +300,10 @@ class WorksAPI(Resource):  # pylint: disable=too-few-public-methods
             with open(json_file_path, 'rb') as json_file:
                 return json.load(json_file)
         except (FileNotFoundError, ValueError):
+            message = 'That Works list doesn\'t exist, sorry.'
+            sentry.capture_message(f'Works API: {message}')
             return {
-                abort(404, message='That Works list doesn\'t exist, sorry.')
+                abort(404, message=message)
             }
 
 
@@ -284,7 +320,9 @@ class WorkAPI(Resource):  # pylint: disable=too-few-public-methods
             with open(json_file_path, 'rb') as json_file:
                 return json.load(json_file)
         except (FileNotFoundError, ValueError):
-            return abort(404, message='That Work doesn\'t exist, sorry.')
+            message = f'Work ID {work_id} doesn\'t exist, sorry.'
+            sentry.capture_message(f'Works API: {message}')
+            return abort(404, message=message)
 
 
 class SearchAPI(Resource):  # pylint: disable=too-few-public-methods
@@ -314,26 +352,33 @@ class SearchAPI(Resource):  # pylint: disable=too-few-public-methods
             resource = request.args.get('resource', 'works')
             return elastic_search.search(resource=resource, args=request.args)
         except elasticsearch.exceptions.NotFoundError:
-            return abort(404, message='No results found, sorry.')
+            message = f'No results found for {search_query}, sorry.'
+            sentry.capture_message(f'Search API: {message}')
+            return abort(404, message=message)
         except elasticsearch.exceptions.RequestError as exception:
             message = None
             try:
                 message = exception.info['error']['root_cause'][0]['reason']
             except (IndexError, KeyError):
-                message = 'Error in your query.'
+                message = f'Error in your query: {search_query}'
+            sentry.capture_message(f'Search API: {message}')
             return abort(400, message=message)
         except elasticsearch.exceptions.ConnectionTimeout:
+            message = 'Sorry, your search request timed out. Please try again later.'
+            sentry.capture_message(f'Search API: {message}')
             return abort(
                 504,
-                message='Sorry, your search request timed out. Please try again later.',
+                message=message,
             )
         except (
             elasticsearch.exceptions.ConnectionError,
             elasticsearch.exceptions.TransportError,
         ):
+            message = 'Sorry, search is unavailable at the moment. Please try again later.'
+            sentry.capture_message(f'Search API: {message}')
             return abort(
                 503,
-                message='Sorry, search is unavailable at the moment. Please try again later.',
+                message=message,
             )
 
 
@@ -455,7 +500,9 @@ class Search():
             elasticsearch.exceptions.ConnectionTimeout,
             elasticsearch.exceptions.ConnectionError,
         ) as exception:
-            print(f'ERROR indexing {json_data.get("id")}: {exception}')
+            message = f'ERROR indexing {json_data.get("id")}: {exception}'
+            sentry.capture_message(f'Search API: {message}')
+            print(message)
             return success
 
     def delete(self, resource, item_id):
@@ -476,7 +523,9 @@ class Search():
             elasticsearch.exceptions.ConnectionError,
             elasticsearch.exceptions.NotFoundError,
         ) as exception:
-            print(f'ERROR deleting the index for {item_id}: {exception}')
+            message = f'ERROR deleting the index for {item_id}: {exception}'
+            sentry.capture_message(f'Search API: {message}')
+            print(message)
             return success
 
     def update_index(self, resource):
@@ -537,10 +586,10 @@ class XOSAPI():  # pylint: disable=too-many-public-methods
                 requests.exceptions.ConnectionError,
                 requests.exceptions.ReadTimeout,
             ) as exception:
-                print(
-                    f'ERROR: couldn\'t get {endpoint} with params: {params}, '
-                    f'exception: {exception}... retrying',
-                )
+                message = f'ERROR: couldn\'t get {endpoint} with params: {params}, '\
+                          f'exception: {exception}... retrying'
+                sentry.capture_message(f'XOS API: {message}')
+                print(message)
                 retries += 1
                 if retries == XOS_RETRIES:
                     raise exception
@@ -730,10 +779,10 @@ class XOSAPI():  # pylint: disable=too-many-public-methods
                 os.remove(json_file_path)
                 works_deleted += 1
             except OSError as exception:
-                print(
-                    f'Error: couldn\'t delete {exception.filename} '
-                    f'with error: {exception.strerror}'
-                )
+                message = f'Error: couldn\'t delete {exception.filename} '\
+                          f'with error: {exception.strerror}'
+                sentry.capture_message(f'Public API: {message}')
+                print(message)
             # Remove the Work from the search index
             elastic_search.delete(resource, work_id)
 
@@ -928,7 +977,9 @@ class XOSAPI():  # pylint: disable=too-many-public-methods
         except botocore.exceptions.ClientError as exception:
             if exception.response['Error']['Code'] == '404':
                 return False
-            print(f'ERROR accessing asset: {key}, {exception}')
+            message = f'ERROR accessing asset: {key}, {exception}'
+            sentry.capture_message(f'S3 API: {message}')
+            print(message)
             return False
         return True
 
@@ -1154,6 +1205,146 @@ class XOSAPI():  # pylint: disable=too-many-public-methods
         return row
 
 
+class Suggestion(database.Model):  # pylint: disable=too-few-public-methods
+    """
+    Suggestions database model.
+    """
+    id = database.Column(database.Integer, primary_key=True)
+    url = database.Column(database.String, unique=True, nullable=False)
+    text = database.Column(database.String, nullable=False)
+    score = database.Column(database.Integer, default=0)
+    suggestions = database.Column(database.Text, default='[]')
+    date_created = database.Column(
+        database.DateTime,
+        nullable=False,
+        default=datetime.datetime.now,
+    )
+    date_updated = database.Column(
+        database.DateTime,
+        nullable=False,
+        default=datetime.datetime.now,
+        onupdate=datetime.datetime.now,
+    )
+    data = database.Column(
+        database.JSON,
+        nullable=True,
+        default=lambda: {},
+    )
+
+    def to_dict(self):
+        return {
+            'id': self.id,
+            'url': self.url,
+            'text': self.text,
+            'score': self.score,
+            'date_created': self.date_created.isoformat() if self.date_created else None,
+            'date_updated': self.date_updated.isoformat() if self.date_updated else None,
+            'data': self.data,
+            'suggestions': json.loads(self.suggestions),
+        }
+
+
+class SuggestionsListAPI(Resource):  # pylint: disable=too-few-public-methods
+    """
+    Suggestions API. An implementation of yes/no/fix.
+    """
+    def __init__(self):
+        # Create database tables if they don't exist
+        with application.app_context():
+            database.create_all()
+
+    def get(self):
+        """
+        List all Suggestions.
+        """
+        args = request.args
+        limit = int(args.get('limit', '100'))
+        suggestions = []
+        with application.app_context():
+            suggestions = Suggestion.query.order_by(Suggestion.id.desc()).limit(limit).all()
+            suggestions_dict = [suggestion.to_dict() for suggestion in suggestions]
+        return suggestions_dict
+
+    def post(self):
+        """
+        Create or update a Suggestion.
+        """
+        request_data = request.get_json()
+        url = request_data.get('url')
+        text = request_data.get('text')
+        vote = request_data.get('vote')
+        data = request_data.get('data')
+        suggestion = request_data.get('suggestion')
+        api_key = request.headers.get('Authorization', '')\
+            .replace('Bearer ', '').replace('Token ', '')
+
+        if not api_key or api_key not in SUGGESTIONS_API_KEYS:
+            message = 'A valid API Key is required'
+            sentry.capture_message(f'Suggestions API: {message}')
+            return {'error': message}, 400
+
+        if not url or not text:
+            message = 'URL and text fields are required'
+            sentry.capture_message(f'Suggestions API: {message}')
+            return {'error': message}, 400
+
+        if not vote and not suggestion:
+            message = 'A vote or a suggestion is required'
+            sentry.capture_message(f'Suggestions API: {message}')
+            return {'error': message}, 400
+
+        with application.app_context():
+            suggestion_object = Suggestion.query.filter_by(url=url, text=text).first()
+            if not suggestion_object:
+                suggestion_object = Suggestion(url=url, text=text, score=0, suggestions='[]')
+                database.session.add(suggestion_object)
+
+            # Update score based on vote
+            if vote:
+                if vote == 'up':
+                    suggestion_object.score += 1
+                elif vote == 'down':
+                    suggestion_object.score -= 1
+                else:
+                    message = "Vote must be 'up' or 'down'"
+                    sentry.capture_message(f'Suggestions API: {message}')
+                    return {'error': message}, 400
+
+            # Add data
+            if data:
+                suggestion_object.data = data
+
+            # Add suggestion to the list if provided
+            if suggestion:
+                suggestions_list = json.loads(suggestion_object.suggestions or '[]')
+                if suggestion not in suggestions_list:
+                    suggestions_list.append(suggestion)
+                suggestion_object.suggestions = json.dumps(suggestions_list)
+
+            database.session.commit()
+            if JIRA_ENABLED:
+                jira = Client()
+                jira.create_or_update(suggestion_object.to_dict())
+            return suggestion_object.to_dict()
+
+
+class SuggestionsAPI(Resource):  # pylint: disable=too-few-public-methods
+    """
+    Get an individual Suggestions JSON.
+    """
+    def get(self, suggestion_id):
+        """
+        Returns the requested Suggestion or a 404.
+        """
+        with application.app_context():
+            suggestion = Suggestion.query.filter_by(id=suggestion_id).first()
+            if suggestion:
+                return suggestion.to_dict()
+        message = 'That Suggestion doesn\'t exist, sorry.'
+        sentry.capture_message(f'Suggestions API: {message}')
+        return abort(404, message=message)
+
+
 api.add_resource(API, '/')
 api.add_resource(AudioListAPI, '/audio/')
 api.add_resource(AudioAPI, '/audio/<audio_id>/')
@@ -1164,6 +1355,8 @@ api.add_resource(CreatorAPI, '/creators/<creator_id>/')
 api.add_resource(WorksAPI, '/works/')
 api.add_resource(WorkAPI, '/works/<work_id>/')
 api.add_resource(SearchAPI, '/search/')
+api.add_resource(SuggestionsListAPI, '/suggestions/')
+api.add_resource(SuggestionsAPI, '/suggestions/<suggestion_id>/')
 
 if __name__ == '__main__':
     if UPDATE_ITEMS:

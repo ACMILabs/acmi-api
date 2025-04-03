@@ -166,6 +166,8 @@ def test_api_root():
         '/creators/',
         '/creators/<creator_id>/',
         '/search/',
+        '/suggestions/',
+        '/suggestions/<suggestion_id>/',
         '/works/',
         '/works/<work_id>/',
     ]
@@ -174,7 +176,8 @@ def test_api_root():
 
 
 @patch('builtins.open', mock_index())
-def test_works_api():
+@patch('app.api.sentry.capture_message')
+def test_works_api(mock_capture_message):
     """
     Test the Works API returns expected content.
     """
@@ -187,10 +190,12 @@ def test_works_api():
         assert response.json['next'] == 'https://api.acmi.net.au/works/?page=2'
         assert response.json['results']
         assert response.json['count']
+        mock_capture_message.assert_not_called()
 
 
 @patch('builtins.open', mock_file_not_found())
-def test_works_api_404():
+@patch('app.api.sentry.capture_message')
+def test_works_api_404(mock_capture_message):
     """
     Test the Works API returns a 404 as expected.
     """
@@ -201,6 +206,7 @@ def test_works_api_404():
         )
         assert response.status_code == 404
         assert response.json['message'] == 'That Works list doesn\'t exist, sorry.'
+        assert mock_capture_message.call_count == 1
 
         response = client.get(
             '/works/?page=!~*&-evil-text"',
@@ -208,6 +214,7 @@ def test_works_api_404():
         )
         assert response.status_code == 404
         assert response.json['message'] == 'That Works list doesn\'t exist, sorry.'
+        assert mock_capture_message.call_count == 2
 
 
 @patch('builtins.open', mock_item())
@@ -226,7 +233,8 @@ def test_work_api():
 
 
 @patch('builtins.open', mock_file_not_found())
-def test_work_api_404():
+@patch('app.api.sentry.capture_message')
+def test_work_api_404(_):
     """
     Test the individual Work API returns a 404 as expected.
     """
@@ -236,14 +244,14 @@ def test_work_api_404():
             content_type='application/json',
         )
         assert response.status_code == 404
-        assert response.json['message'] == 'That Work doesn\'t exist, sorry.'
+        assert response.json['message'] == 'Work ID 2 doesn\'t exist, sorry.'
 
         response = client.get(
             '/works/!~*&-evil-text"/',
             content_type='application/json',
         )
         assert response.status_code == 404
-        assert response.json['message'] == 'That Work doesn\'t exist, sorry.'
+        assert response.json['message'] == 'Work ID !~*&-evil-text" doesn\'t exist, sorry.'
 
 
 @patch('builtins.open', mock_index(resource='audio'))
@@ -753,7 +761,8 @@ def test_search_api_results():
 
 
 @patch('elasticsearch.Elasticsearch.search', MagicMock(side_effect=mock_search))
-def test_search_api_results_failures():
+@patch('app.api.sentry.capture_message')
+def test_search_api_results_failures(mock_capture_message):
     """
     Test the Search API results fails as expected.
     """
@@ -763,7 +772,8 @@ def test_search_api_results_failures():
             content_type='application/json',
         )
         assert response.status_code == 404
-        assert response.json['message'] == 'No results found, sorry.'
+        assert response.json['message'] == 'No results found for 404, sorry.'
+        assert mock_capture_message.call_count == 1
 
     with acmi_api.application.test_client() as client:
         response = client.get(
@@ -771,7 +781,8 @@ def test_search_api_results_failures():
             content_type='application/json',
         )
         assert response.status_code == 400
-        assert response.json['message'] == 'Error in your query.'
+        assert response.json['message'] == 'Error in your query: 400'
+        assert mock_capture_message.call_count == 2
 
     with acmi_api.application.test_client() as client:
         response = client.get(
@@ -781,6 +792,7 @@ def test_search_api_results_failures():
         assert response.status_code == 503
         assert response.json['message'] == \
             'Sorry, search is unavailable at the moment. Please try again later.'
+        assert mock_capture_message.call_count == 3
 
     with acmi_api.application.test_client() as client:
         response = client.get(
@@ -790,6 +802,7 @@ def test_search_api_results_failures():
         assert response.status_code == 504
         assert response.json['message'] == \
             'Sorry, your search request timed out. Please try again later.'
+        assert mock_capture_message.call_count == 4
 
 
 @patch('elasticsearch.Elasticsearch.search', MagicMock(side_effect=mock_search))
@@ -1047,3 +1060,179 @@ def test_remove_external_works():
     assert works_json['results'][0]['group_siblings'][0]['id'] == 126
     assert len(works_json['results'][1]['group_siblings']) == 1
     assert works_json['results'][1]['group_siblings'][0]['id'] == 128
+
+
+def test_suggestions_list_get():
+    """Test GET /suggestions/ returns a list of suggestions in reverse order."""
+    with acmi_api.application.app_context():
+        acmi_api.database.drop_all()
+        acmi_api.database.create_all()
+
+        # Add sample suggestions
+        suggestion1 = acmi_api.Suggestion(url='http://example.com/1', text='Text 1')
+        suggestion2 = acmi_api.Suggestion(url='http://example.com/2', text='Text 2')
+        acmi_api.database.session.add(suggestion1)
+        acmi_api.database.session.add(suggestion2)
+        acmi_api.database.session.commit()
+
+    with acmi_api.application.test_client() as client:
+        response = client.get('/suggestions/', content_type='application/json')
+        assert response.status_code == 200
+        data = response.json
+        assert len(data) == 2
+        assert data[0]['text'] == 'Text 2'  # Reversed order
+        assert data[1]['text'] == 'Text 1'
+
+        # Test with limit parameter
+        response = client.get('/suggestions/?limit=1', content_type='application/json')
+        assert response.status_code == 200
+        data = response.json
+        assert len(data) == 1
+        assert data[0]['text'] == 'Text 2'
+
+
+@patch(
+    'app.jira.Client.create_or_update',
+    return_value={'id': 'jira_id', 'key': 'JIRA-1'},
+)
+@patch('app.api.JIRA_ENABLED', True)
+@patch('app.api.SUGGESTIONS_API_KEYS', ['test_key'])
+def test_suggestions_list_post_create(mock_create_or_update):
+    """Test POST /suggestions/ creates a new suggestion."""
+    headers = {'Authorization': 'Bearer test_key'}
+    data = {'url': 'http://example.com/3', 'text': 'Text 3', 'suggestion': 'A new suggestion'}
+    with acmi_api.application.test_client() as client:
+        response = client.post('/suggestions/', json=data, headers=headers)
+        assert response.status_code == 200
+        suggestion = response.json
+        assert suggestion['url'] == 'http://example.com/3'
+        assert suggestion['text'] == 'Text 3'
+        assert suggestion['score'] == 0
+        assert suggestion['suggestions'] == ['A new suggestion']
+        mock_create_or_update.assert_called_once_with(suggestion)
+
+
+@patch(
+    'app.jira.Client.create_or_update',
+    return_value={'id': 'jira_id', 'key': 'JIRA-1'},
+)
+@patch('app.api.JIRA_ENABLED', True)
+@patch('app.api.SUGGESTIONS_API_KEYS', ['test_key'])
+def test_suggestions_list_post_vote(mock_create_or_update):
+    """Test POST /suggestions/ updates score with up/down votes."""
+    headers = {'Authorization': 'Bearer test_key'}
+    # Vote up
+    vote_data = {'url': 'http://example.com/4', 'text': 'Text 4', 'vote': 'up'}
+    with acmi_api.application.test_client() as client:
+        response = client.post('/suggestions/', json=vote_data, headers=headers)
+        assert response.status_code == 200
+        updated_suggestion = response.json
+        assert updated_suggestion['score'] == 1
+        mock_create_or_update.assert_called_once_with(updated_suggestion)
+
+        # Vote down
+        vote_data['vote'] = 'down'
+        response = client.post('/suggestions/', json=vote_data, headers=headers)
+        assert response.status_code == 200
+        updated_suggestion = response.json
+        assert updated_suggestion['score'] == 0
+
+
+@patch(
+    'app.jira.Client.create_or_update',
+    return_value={'id': 'jira_id', 'key': 'JIRA-1'},
+)
+@patch('app.api.JIRA_ENABLED', True)
+@patch('app.api.SUGGESTIONS_API_KEYS', ['test_key'])
+def test_suggestions_list_post_add_suggestion(mock_create_or_update):
+    """Test POST /suggestions/ adds suggestion text without duplicates."""
+    headers = {'Authorization': 'Bearer test_key'}
+    with acmi_api.application.test_client() as client:
+        # Add suggestion text
+        suggestion_data = {
+            'url': 'http://example.com/5',
+            'text': 'Text 5',
+            'suggestion': 'New suggestion',
+        }
+        response = client.post('/suggestions/', json=suggestion_data, headers=headers)
+        assert response.status_code == 200
+        updated_suggestion = response.json
+        assert updated_suggestion['suggestions'] == ['New suggestion']
+        mock_create_or_update.assert_called_once_with(updated_suggestion)
+
+        # Add another suggestion
+        suggestion_data['suggestion'] = 'Another suggestion'
+        response = client.post('/suggestions/', json=suggestion_data, headers=headers)
+        assert response.status_code == 200
+        updated_suggestion = response.json
+        assert updated_suggestion['suggestions'] == ['New suggestion', 'Another suggestion']
+
+        # Try adding duplicate suggestion
+        response = client.post('/suggestions/', json=suggestion_data, headers=headers)
+        assert response.status_code == 200
+        updated_suggestion = response.json
+        assert updated_suggestion['suggestions'] == ['New suggestion', 'Another suggestion']
+
+
+@patch('app.api.SUGGESTIONS_API_KEYS', ['test_key'])
+@patch('app.api.sentry.capture_message')
+def test_suggestions_list_post_errors(mock_capture_message):
+    """Test POST /suggestions/ error handling."""
+    headers = {'Authorization': 'Bearer test_key'}
+    # Missing API key
+    data = {'url': 'http://example.com/6', 'text': 'Text 6'}
+    with acmi_api.application.test_client() as client:
+        response = client.post('/suggestions/', json=data)
+        assert response.status_code == 400
+        assert response.json['error'] == 'A valid API Key is required'
+        assert mock_capture_message.call_count == 1
+
+        # Invalid vote
+        data['vote'] = 'sideways'
+        response = client.post('/suggestions/', json=data, headers=headers)
+        assert response.status_code == 400
+        assert response.json['error'] == "Vote must be 'up' or 'down'"
+        assert mock_capture_message.call_count == 2
+
+        # Missing url
+        data = {'text': 'Text 7'}
+        response = client.post('/suggestions/', json=data, headers=headers)
+        assert response.status_code == 400
+        assert response.json['error'] == 'URL and text fields are required'
+        assert mock_capture_message.call_count == 3
+
+        # Missing text
+        data = {'url': 'http://example.com/7'}
+        response = client.post('/suggestions/', json=data, headers=headers)
+        assert response.status_code == 400
+        assert response.json['error'] == 'URL and text fields are required'
+        assert mock_capture_message.call_count == 4
+
+        # Missing vote or suggestion
+        data = {'url': 'http://example.com/7', 'text': 'Text 7'}
+        response = client.post('/suggestions/', json=data, headers=headers)
+        assert response.status_code == 400
+        assert response.json['error'] == 'A vote or a suggestion is required'
+        assert mock_capture_message.call_count == 5
+
+
+def test_suggestion_get():
+    """Test GET /suggestions/<id>/ retrieves a single suggestion."""
+    with acmi_api.application.app_context():
+        suggestion = acmi_api.Suggestion(url='http://example.com/8', text='Text 8')
+        acmi_api.database.session.add(suggestion)
+        acmi_api.database.session.commit()
+        suggestion_id = suggestion.id
+
+    with acmi_api.application.test_client() as client:
+        response = client.get(f'/suggestions/{suggestion_id}/', content_type='application/json')
+        assert response.status_code == 200
+        data = response.json
+        assert data['id'] == suggestion_id
+        assert data['url'] == 'http://example.com/8'
+        assert data['text'] == 'Text 8'
+
+        # Test non-existent suggestion
+        response = client.get('/suggestions/999/', content_type='application/json')
+        assert response.status_code == 404
+        assert response.json['message'] == "That Suggestion doesn't exist, sorry."
