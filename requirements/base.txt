@@ -6,6 +6,6 @@ gunicorn
 pytz
 requests
 sentry-sdk[flask]
-elasticsearch
+elasticsearch<9
 setuptools
 Flask-SQLAlchemy
