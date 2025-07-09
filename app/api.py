@@ -1248,6 +1248,23 @@ class Suggestion(database.Model):  # pylint: disable=too-few-public-methods
         }
 
 
+class LitestreamLock(database.Model):  # pylint: disable=too-few-public-methods
+    """
+    Database model for the S3 SQLite sync _litestream_lock table.
+    """
+    __tablename__ = '_litestream_lock'
+    id = database.Column(database.Integer, primary_key=True, nullable=True)
+
+
+class LitestreamSeq(database.Model):  # pylint: disable=too-few-public-methods
+    """
+    Database model for the S3 SQLite sync _litestream_seq table.
+    """
+    __tablename__ = '_litestream_seq'
+    id = database.Column(database.Integer, primary_key=True, nullable=True)
+    seq = database.Column(database.Integer, nullable=True)
+
+
 class SuggestionsListAPI(Resource):  # pylint: disable=too-few-public-methods
     """
     Suggestions API. An implementation of yes/no/fix.
