@@ -1317,9 +1317,15 @@ class SuggestionsListAPI(Resource):  # pylint: disable=too-few-public-methods
             return {'error': message}, 400
 
         with application.app_context():
-            suggestion_object = Suggestion.query.filter_by(url=url, text=text).first()
+            suggestion_object = Suggestion.query.filter_by(url=url).first()
             if not suggestion_object:
-                suggestion_object = Suggestion(url=url, text=text, score=0, suggestions='[]')
+                suggestion_object = Suggestion(
+                    url=url,
+                    text=text,
+                    ai_score=0,
+                    score=0,
+                    suggestions='[]',
+                )
                 database.session.add(suggestion_object)
 
             # Update score based on vote
