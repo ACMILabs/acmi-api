@@ -1137,6 +1137,35 @@ def test_suggestions_list_post_vote(mock_create_or_update):
         updated_suggestion = response.json
         assert updated_suggestion['score'] == 0
 
+        # Score
+        vote_data.pop('vote')
+        vote_data['score'] = 5
+        response = client.post('/suggestions/', json=vote_data, headers=headers)
+        assert response.status_code == 200
+        updated_suggestion = response.json
+        assert updated_suggestion['score'] == 5
+
+        # Score down
+        vote_data['score'] = -2
+        response = client.post('/suggestions/', json=vote_data, headers=headers)
+        assert response.status_code == 200
+        updated_suggestion = response.json
+        assert updated_suggestion['score'] == 3
+
+        # AI Score
+        vote_data['ai_score'] = 2.5
+        response = client.post('/suggestions/', json=vote_data, headers=headers)
+        assert response.status_code == 200
+        updated_suggestion = response.json
+        assert updated_suggestion['ai_score'] == 2.5
+
+        # AI Score down
+        vote_data['ai_score'] = -1
+        response = client.post('/suggestions/', json=vote_data, headers=headers)
+        assert response.status_code == 200
+        updated_suggestion = response.json
+        assert updated_suggestion['ai_score'] == 1.5
+
 
 @patch(
     'app.jira.Client.create_or_update',
@@ -1212,7 +1241,7 @@ def test_suggestions_list_post_errors(mock_capture_message):
         data = {'url': 'http://example.com/7', 'text': 'Text 7'}
         response = client.post('/suggestions/', json=data, headers=headers)
         assert response.status_code == 400
-        assert response.json['error'] == 'A vote or a suggestion is required'
+        assert response.json['error'] == 'A vote/score or a suggestion is required'
         assert mock_capture_message.call_count == 5
 
 
