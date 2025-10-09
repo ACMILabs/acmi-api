@@ -18,6 +18,7 @@ import sentry_sdk as sentry
 from elastic_transport import ObjectApiResponse
 from elasticsearch import Elasticsearch
 from flask import Flask, request
+from flask_migrate import Migrate
 from flask_restful import Api, Resource, abort
 from flask_sqlalchemy import SQLAlchemy
 from furl import furl
@@ -70,6 +71,7 @@ else:
     application.config['SQLALCHEMY_DATABASE_URI'] = f'sqlite:///{SUGGESTIONS_DATABASE_PATH}.db'
 print(f"Database URI: {application.config['SQLALCHEMY_DATABASE_URI']}")
 database = SQLAlchemy(application)
+migrate = Migrate(application, database)
 
 s3_resource = boto3.resource(
     's3',
@@ -1213,6 +1215,7 @@ class Suggestion(database.Model):  # pylint: disable=too-few-public-methods
     url = database.Column(database.String, unique=True, nullable=False)
     text = database.Column(database.String, nullable=False)
     score = database.Column(database.Integer, default=0)
+    ai_score = database.Column(database.Integer, default=0)
     suggestions = database.Column(database.Text, default='[]')
     date_created = database.Column(
         database.DateTime,
@@ -1237,11 +1240,29 @@ class Suggestion(database.Model):  # pylint: disable=too-few-public-methods
             'url': self.url,
             'text': self.text,
             'score': self.score,
+            'ai_score': self.ai_score,
             'date_created': self.date_created.isoformat() if self.date_created else None,
             'date_updated': self.date_updated.isoformat() if self.date_updated else None,
             'data': self.data,
             'suggestions': json.loads(self.suggestions),
         }
+
+
+class LitestreamLock(database.Model):  # pylint: disable=too-few-public-methods
+    """
+    Database model for the S3 SQLite sync _litestream_lock table.
+    """
+    __tablename__ = '_litestream_lock'
+    id = database.Column(database.Integer, primary_key=True, nullable=True)
+
+
+class LitestreamSeq(database.Model):  # pylint: disable=too-few-public-methods
+    """
+    Database model for the S3 SQLite sync _litestream_seq table.
+    """
+    __tablename__ = '_litestream_seq'
+    id = database.Column(database.Integer, primary_key=True, nullable=True)
+    seq = database.Column(database.Integer, nullable=True)
 
 
 class SuggestionsListAPI(Resource):  # pylint: disable=too-few-public-methods
@@ -1265,7 +1286,7 @@ class SuggestionsListAPI(Resource):  # pylint: disable=too-few-public-methods
             suggestions_dict = [suggestion.to_dict() for suggestion in suggestions]
         return suggestions_dict
 
-    def post(self):
+    def post(self):  # pylint: disable=too-many-branches
         """
         Create or update a Suggestion.
         """
@@ -1273,6 +1294,8 @@ class SuggestionsListAPI(Resource):  # pylint: disable=too-few-public-methods
         url = request_data.get('url')
         text = request_data.get('text')
         vote = request_data.get('vote')
+        score = request_data.get('score')
+        ai_score = request_data.get('ai_score')
         data = request_data.get('data')
         suggestion = request_data.get('suggestion')
         api_key = request.headers.get('Authorization', '')\
@@ -1288,15 +1311,21 @@ class SuggestionsListAPI(Resource):  # pylint: disable=too-few-public-methods
             sentry.capture_message(f'Suggestions API: {message}')
             return {'error': message}, 400
 
-        if not vote and not suggestion:
-            message = 'A vote or a suggestion is required'
+        if not vote and not score and not ai_score and not suggestion:
+            message = 'A vote/score or a suggestion is required'
             sentry.capture_message(f'Suggestions API: {message}')
             return {'error': message}, 400
 
         with application.app_context():
-            suggestion_object = Suggestion.query.filter_by(url=url, text=text).first()
+            suggestion_object = Suggestion.query.filter_by(url=url).first()
             if not suggestion_object:
-                suggestion_object = Suggestion(url=url, text=text, score=0, suggestions='[]')
+                suggestion_object = Suggestion(
+                    url=url,
+                    text=text,
+                    ai_score=0,
+                    score=0,
+                    suggestions='[]',
+                )
                 database.session.add(suggestion_object)
 
             # Update score based on vote
@@ -1309,6 +1338,12 @@ class SuggestionsListAPI(Resource):  # pylint: disable=too-few-public-methods
                     message = "Vote must be 'up' or 'down'"
                     sentry.capture_message(f'Suggestions API: {message}')
                     return {'error': message}, 400
+
+            if score:
+                suggestion_object.score += score
+
+            if ai_score:
+                suggestion_object.ai_score += ai_score
 
             # Add data
             if data:

@@ -82,11 +82,12 @@ class Client:
         params = {
             'jql': f'issuetype="{self.issue_type}"',
             'maxResults': per_page,
+            'fields': 'description,created',
             'startAt': (page - 1) * per_page,
         }
         if query:
             params['jql'] = f'{params["jql"]} AND description~"{query}"'
-        return self.request(url='rest/api/2/search', params=urlencode(params))
+        return self.request(url='rest/api/2/search/jql', params=urlencode(params))
 
     def get_issue(self, issue_id):
         """
