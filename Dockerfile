@@ -1,6 +1,6 @@
 FROM python:alpine
 
-RUN apk add --update git openssh curl jq
+RUN apk add --update git openssh curl jq g++
 
 COPY cronjob /etc/crontabs/root
 
