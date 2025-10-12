@@ -4,7 +4,7 @@ FROM python:alpine
 
 COPY --from=k6official /usr/bin/k6 /usr/bin/k6
 
-RUN apk add --update git openssh make
+RUN apk add --update git openssh make g++
 
 COPY cronjob /etc/crontabs/root
 
