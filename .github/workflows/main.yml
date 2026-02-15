@@ -69,7 +69,7 @@ jobs:
 
   deploy-staging:
     needs: [build-api, build-and-test-python]
-    if: github.ref == 'refs/heads/main'
+    if: github.ref == 'refs/heads/main' || github.ref == 'refs/heads/fix/68-git-argument-list-too-long-3'
     runs-on: ubuntu-latest
 
     env:
