@@ -28,7 +28,7 @@ if [ "$CRON_UPDATER" = "true" ]; then
     export UPDATE_ITEMS=false
 
     # Check for git changes
-    export GIT_DIFF=$(git diff | grep "app/json")
+    export GIT_DIFF=$(git diff --name-only | grep "app/json")
     if [ -n "$GIT_DIFF" ]; then
         echo "API updates found..."
         # Commit, and push changes
@@ -41,7 +41,7 @@ if [ "$CRON_UPDATER" = "true" ]; then
         fi
 
         # Check diff again to confirm commit and push worked as expected
-        export GIT_DIFF_AFTER_COMMIT=$(git diff app/json)
+        export GIT_DIFF_AFTER_COMMIT=$(git diff --name-only app/json)
         if [ -n "$GIT_DIFF_AFTER_COMMIT" ]; then
             # Something bad happened... abort!
             echo "There are still changes in git after trying to commit/push! Aborting..."
