@@ -84,6 +84,11 @@ spec:
               configMapKeyRef:
                 key: CRON_UPDATER
                 name: xos-api-env
+          - name: XOS_TIMEOUT
+            valueFrom:
+              configMapKeyRef:
+                key: XOS_TIMEOUT
+                name: xos-api-env
           - name: SSH_PRIVATE_KEY
             valueFrom:
               secretKeyRef:
