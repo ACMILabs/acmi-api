@@ -24,6 +24,7 @@ from flask_sqlalchemy import SQLAlchemy
 from furl import furl
 from requests.utils import requote_uri
 
+from app import linked_art
 from app.jira import Client
 
 DEBUG = os.getenv('DEBUG', 'false').lower() == 'true'
@@ -79,6 +80,16 @@ s3_resource = boto3.resource(
     aws_secret_access_key=AWS_SECRET_ACCESS_KEY,
 )
 destination_bucket = s3_resource.Bucket(AWS_STORAGE_BUCKET_NAME)
+
+
+@application.after_request
+def add_cors_header(response):
+    """
+    Allow browser-based clients on other domains to read API responses.
+    Required by the Linked Art protocol: https://linked.art/api/1.0/protocol/
+    """
+    response.headers['Access-Control-Allow-Origin'] = '*'
+    return response
 
 
 class API(Resource):
@@ -278,7 +289,10 @@ class CreatorAPI(Resource):  # pylint: disable=too-few-public-methods
                 f'{int(creator_id)}.json',
             )
             with open(json_file_path, 'rb') as json_file:
-                return json.load(json_file)
+                creator = json.load(json_file)
+            if linked_art.requested():
+                return linked_art.linked_art_response(linked_art.creator_to_linked_art(creator))
+            return creator
         except (FileNotFoundError, ValueError):
             message = f'Creator ID {creator_id} doesn\'t exist, sorry.'
             sentry.capture_message(f'Creators API: {message}')
@@ -320,7 +334,10 @@ class WorkAPI(Resource):  # pylint: disable=too-few-public-methods
         try:
             json_file_path = os.path.join(JSON_ROOT, 'works', f'{int(work_id)}.json')
             with open(json_file_path, 'rb') as json_file:
-                return json.load(json_file)
+                work = json.load(json_file)
+            if linked_art.requested():
+                return linked_art.linked_art_response(linked_art.work_to_linked_art(work))
+            return work
         except (FileNotFoundError, ValueError):
             message = f'Work ID {work_id} doesn\'t exist, sorry.'
             sentry.capture_message(f'Works API: {message}')
