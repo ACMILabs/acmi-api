@@ -52,6 +52,31 @@ This API server exposes the following routes:
 * `/works/` - a list of all public ACMI Work records
 * `/works/<id>/` - an individual ACMI Work record
 
+## Linked Art
+
+Individual Work and Creator records are also available as [Linked Art](https://linked.art) JSON-LD, a CIDOC-CRM based linked data profile used by art museums to publish interoperable collection data.
+
+Request the Linked Art representation of a record either by content negotiation:
+
+```bash
+curl -H 'Accept: application/ld+json;profile="https://linked.art/ns/v1/linked-art.json"' https://api.acmi.net.au/works/116936/
+```
+
+or with a query string argument:
+
+```bash
+curl https://api.acmi.net.au/works/116936/?format=linked-art
+curl https://api.acmi.net.au/creators/34373/?format=linked-art
+```
+
+How ACMI records map to Linked Art:
+
+* Works (films, TV shows, videogames etc.) become conceptual `VisualItem` records; Works of type `Object` become physical `HumanMadeObject` records
+* Work titles, ACMI identifiers, types, descriptions and production details (dates, places, creators and their roles) are expressed using [Getty AAT](https://www.getty.edu/research/tools/vocabularies/aat/) classifications
+* Creators become `Person` or `Group` records, with Wikidata links expressed via `equivalent`
+
+The transformation lives in `app/linked_art.py`. Production place URIs (e.g. `/places/<id>/`) and constellation `Set` records don't dereference yet - they're planned for a future phase, along with an [Activity Streams](https://linked.art/api/1.0/hal/) change feed for harvesters.
+
 ## Updating
 
 This repository includes a cron job to update itself automatically each night. The job runs the updater script `/scripts/update-api.sh`, which runs:

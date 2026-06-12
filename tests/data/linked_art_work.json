@@ -1,0 +1,64 @@
+{
+  "id": 116936,
+  "acmi_id": "B2001950",
+  "title": "Love My Way: Only Mortal",
+  "slug": "love-my-way-only-mortal",
+  "record_type": "work",
+  "type": "TV show",
+  "brief_description": "<p>The groundbreaking, multiple award-winning drama series &#8216;Love My Way&#8217; was one of the first Australian productions made exclusively for subscription television.</p>",
+  "first_production_date": "2004-01-01T11:00:00+11:00",
+  "production_dates": [
+    {
+      "date": "2004",
+      "notes": "",
+      "to_year": "2005"
+    }
+  ],
+  "production_places": [
+    {
+      "id": 3,
+      "name": "Australia",
+      "slug": "australia"
+    }
+  ],
+  "creators_primary": [
+    {
+      "id": 2654883,
+      "name": "Jessica Hobbs",
+      "creator_id": 83676,
+      "creator_wikidata_id": "Q106240689",
+      "role": "director",
+      "role_id": 938,
+      "is_primary": true
+    },
+    {
+      "id": 2654877,
+      "name": "Foxtel",
+      "creator_id": 83675,
+      "creator_wikidata_id": "Q121034294",
+      "role": "production company",
+      "role_id": 941,
+      "is_primary": true
+    }
+  ],
+  "creators_other": [
+    {
+      "id": 2654999,
+      "name": "Unlinked Creator",
+      "creator_id": null,
+      "creator_wikidata_id": null,
+      "role": "best boy",
+      "role_id": 999,
+      "is_primary": false
+    }
+  ],
+  "part_of": null,
+  "parts": [],
+  "group": null,
+  "labels": [],
+  "source": {
+    "name": "Vernon",
+    "slug": "vernon"
+  },
+  "source_identifier": "108414"
+}
