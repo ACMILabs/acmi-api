@@ -58,10 +58,23 @@ jobs:
     - name: Build Python lint and test
       run: |
         cp config.tmpl.env config.env
-        cd development && docker compose -f docker-compose-base.yml up --build -d
+        cd development && docker compose -f docker-compose-base.yml build api
 
     - name: Run Python lint and test
-      run: docker exec api make linttest
+      working-directory: development
+      # Keep the stopped container until diagnostics have been collected.
+      run: docker compose -f docker-compose-base.yml run --name api-ci --no-deps -T api make linttest
+
+    - name: Collect Python failure diagnostics
+      if: failure()
+      run: |
+        docker logs --tail 200 api-ci || true
+        docker inspect --format '{{json .State}}' api-ci || true
+        sudo dmesg | tail -100 || true
+
+    - name: Remove Python test container
+      if: always()
+      run: docker rm -f api-ci || true
 
     - name: cancel entire action if failed
       if: failure()
