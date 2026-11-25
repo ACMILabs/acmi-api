@@ -16,7 +16,6 @@ from requests.auth import HTTPBasicAuth
 SENTRY_API = os.getenv('SENTRY_API')
 sentry.init(
     dsn=SENTRY_API,
-    send_default_pii=True,
 )
 
 
