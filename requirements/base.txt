@@ -5,7 +5,7 @@ furl
 gunicorn
 pytz
 requests
-sentry-sdk[flask]
+sentry-sdk>=3,<4
 elasticsearch
 setuptools
 Flask-SQLAlchemy
